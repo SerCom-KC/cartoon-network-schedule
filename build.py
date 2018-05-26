@@ -37,7 +37,7 @@ def generate():
         allshows = etree.XML(s.get(url, timeout=10).content).xpath('//allshows/show[@blockName!="AdultSwim"]')
         date_split = allshows[0].xpath('@date')[0].split('/')
         if int(date_split[0]) < month:
-            print('\033[92mSchedule generation completed successfully!\033[0m')
+            print('\033[32mSchedule generation completed successfully!\033[0m')
             manifest(schedules)
             return 0
         date = date_split[2] + '-' + date_split[0] + '-' + date_split[1]
@@ -64,7 +64,7 @@ def generate():
                     print(e)
                     exit(-1)
             if episodeName == "":
-                print('\033[93mFailed to fetch episode name of showId=' + show.xpath('@showId')[0] + ', episodeId=' + show.xpath('@episodeId')[0] + ' from ScheduleServices\033[0m')
+                print('\033[33mFailed to fetch episode name of showId=' + show.xpath('@showId')[0] + ', episodeId=' + show.xpath('@episodeId')[0] + ' from ScheduleServices\033[0m')
                 episodeName = fixName(show.xpath('@episodeName')[0], True if show.xpath('@showId')[0] == "376453" else False)
             rating = show.xpath('@rating')[0]
             airtime_str = show.xpath('@date')[0] + ' ' + show.xpath('@military')[0]
@@ -96,7 +96,7 @@ def manifest(schedules):
     file = open('master/manifest', 'w+')
     file.write(json.dumps(result))
     file.close()
-    print('\033[92mManifest generation completed successfully!\033[0m')
+    print('\033[32mManifest generation completed successfully!\033[0m')
 
 if __name__ == "__main__":
     generate()

@@ -21,7 +21,7 @@ if __name__ == "__main__":
                     flag = True
                     break
             if not flag:
-                print('\033[91mUnknown show detected, aborting the build\033[0m')
+                print('\033[31mUnknown show detected, aborting the build\033[0m')
                 exit(-1)
-    print('\033[92mLooks good! Every show is known in the list\033[0m')
+    print('\033[32mLooks good! Every show is known in the list\033[0m')
     exit(0)
