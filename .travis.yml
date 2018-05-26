@@ -10,13 +10,13 @@ before_install:
   - ./gitclone.sh
 
 install:
-  - pip3 install requests
-  - pip3 install datetime
-  - pip3 install lxml
-  - pip3 install pytz
+  - pip install requests
+  - pip install datetime
+  - pip install lxml
+  - pip install pytz
 
 before_script:
-  - ./check.py
+  - python ./check.py
 
 script:
   - ./build.py
