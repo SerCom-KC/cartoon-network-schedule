@@ -5,6 +5,7 @@ import json
 from lxml import etree
 import requests
 import re
+import os
 
 if __name__ == "__main__":
     print('Check if there is any show not exist in list')
