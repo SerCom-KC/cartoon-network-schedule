@@ -19,7 +19,7 @@ before_script:
   - python ./check.py
 
 script:
-  - ./build.py
+  - python ./build.py
 
 after_success:
   - ./gitpush.sh
