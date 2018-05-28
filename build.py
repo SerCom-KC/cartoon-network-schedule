@@ -12,6 +12,7 @@ import json
 from calendar import monthrange
 
 def fixName(name, force_the=False):
+    fixed_names = []
     for title in name.split('/'):
         fixed = re.sub(r'(.*?) $', 'The \\1', title)
         fixed = re.sub(r'(.*?), The$', 'The \\1', fixed)
@@ -20,7 +21,8 @@ def fixName(name, force_the=False):
         else:
             fixed = re.sub(r'(.*?), An$', 'An \\1', fixed)
             fixed = re.sub(r'(.*?), A$', 'A \\1', fixed)
-        name = name.replace(title, fixed)
+        fixed_names.append(fixed)
+    name = '/'.join(fixed_names)
     return name.replace('/', '; ')
 
 def generate():
