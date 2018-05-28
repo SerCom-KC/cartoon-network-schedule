@@ -1,6 +1,7 @@
 ## DISCLAIMER
 **This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some timeslots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
 
+__Last Update: May 28, 2018 at 13:36:57 UTC__  
 ### Monday, May 28th
 06:00AM Teen Titans Go! - Permanent Record; Lication  
 06:30AM Teen Titans Go! - Master Detective; Ones and Zeros  
