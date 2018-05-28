@@ -11,6 +11,44 @@ import re
 import json
 from calendar import monthrange
 
+def getDate(month, day):
+    if month == '01':
+        date = 'January'
+    elif month == '02':
+        date = 'February'
+    elif month == '03':
+        date = 'March'
+    elif month == '04':
+        date = 'April'
+    elif month == '05':
+        date = 'May'
+    elif month == '06':
+        date = 'June'
+    elif month == '07':
+        date = 'July'
+    elif month == '08':
+        date = 'August'
+    elif month == '09':
+        date = 'September'
+    elif month == '10':
+        date = 'October'
+    elif month == '11':
+        date = 'November'
+    elif month == '12':
+        date = 'December'
+    date += ' ' + day.lstrip('0')
+    if int(day) >= 11 and int(day) <= 13:
+        date += 'th'
+    elif day.endswith('1'):
+        date += 'st'
+    elif day.endswith('2'):
+        date += 'nd'
+    elif day.endswith('3'):
+        date += 'rd'
+    else:
+        date += 'th'
+    return date
+
 def fixName(name, force_the=False):
     fixed_names = []
     for title in name.split('/'):
@@ -89,6 +127,65 @@ def generate():
             day = 1
             month = month + 1 if month != 12 else 1
 
+def guessNextShowings():
+    today = datetime.now(pytz.timezone('US/Eastern'))
+    nextshowings = []
+    url = "https://raw.githubusercontent.com/" + os.environ['TRAVIS_REPO_SLUG'] + "/master/show-list?"
+    list = requests.get(url, timeout=3).json()
+    for element in list:
+        if element["blockName"] == "":
+            print('Fetching all upcoming showings for ' + element["title"])
+            url = 'https://www.adultswim.com/adultswimdynsched/xmlServices/ScheduleServices'
+            params = {
+                'methodName': 'getAllShowingsByID',
+                'showId': element["showId"],
+                'timezone': 'EST'
+            }
+            while True:
+                try:
+                    allShowings = etree.XML(requests.get(url, params=params, timeout=3).content)
+                    break
+                except requests.exceptions.ReadTimeout:
+                    continue
+                except Exception as e:
+                    print(e)
+                    exit(-1)
+            try:
+                errtmp = allShowings[0]
+            except IndexError:
+                continue
+            title = element["title"]
+            for show in allShowings:
+                if today.date().month == 12 and show.xpath('@date')[0].find('January'):
+                    airtime_year = str(today.date().year + 1)
+                else:
+                    airtime_year = str(today.date().year)
+                episodeName = fixName(show.xpath('@episode')[0])
+                rating = show.xpath('@rating')[0].replace('[', '').replace(']', '')
+                airtime_str = show.xpath('@time')[0] + ' ' + show.xpath('@date')[0] + ' ' + airtime_year
+                airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(airtime_str, '%I:%M %p %B %d %Y'))
+                airtime = int(airtime_dt.timestamp())
+                nextshowings.append({"show": title, "episode": episodeName, "rating": rating, "airtime": airtime})
+    nextshowings = sorted(nextshowings, key=lambda k: int(k['airtime']))
+    result = {"updated": int(time.time()), "data": nextshowings}
+    print('Writing to next-showings')
+    file = open('master/next-showings', 'w+')
+    file.write(json.dumps(result))
+    file.close()
+    print('Generating human-readable output')
+    result = "## DISCLAIMER\n**This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some timeslots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**\n\n"
+    date = ""
+    for show in nextshowings:
+        airtime_dt = datetime.fromtimestamp(show['airtime']).astimezone(pytz.timezone('US/Eastern'))
+        date_str = airtime_dt.strftime('%A, ' + getDate(airtime_dt.strftime('%m'), airtime_dt.strftime('%d')))
+        if date != date_str:
+            result += '### ' + date_str + '\n'
+            date = date_str
+        result += airtime_dt.strftime('%I:%M%p ' + show['show'] + ' - ' + show['episode'] + '  \n')
+    file = open('master/next-showings.md', 'w+')
+    file.write(result)
+    file.close()
+
 def manifest(schedules):
     data = []
     for schedule in schedules:
@@ -102,3 +199,4 @@ def manifest(schedules):
 
 if __name__ == "__main__":
     generate()
+    guessNextShowings()
