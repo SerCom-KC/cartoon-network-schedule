@@ -49,7 +49,7 @@ def getDate(month, day):
         date += 'th'
     return date
 
-def fixName(name, force_the=False):
+def fixName(name, force_the=False, reverse=False):
     fixed_names = []
     for title in name.split('/'):
         fixed = re.sub(r'(.*?) $', 'The \\1', title)
@@ -59,7 +59,10 @@ def fixName(name, force_the=False):
         else:
             fixed = re.sub(r'(.*?), An$', 'An \\1', fixed)
             fixed = re.sub(r'(.*?), A$', 'A \\1', fixed)
-        fixed_names.append(fixed)
+        if reverse:
+            fixed_names.insert(0, fixed)
+        else:
+            fixed_names.append(fixed)
     name = '/'.join(fixed_names)
     return name.replace('/', '; ')
 
@@ -96,7 +99,7 @@ def generate():
             }
             while True:
                 try:
-                    episodeName = fixName(etree.XML(s.get(url, params=params, timeout=3).content).xpath("//Desc/episodeDesc/text()")[0][:-1])
+                    episodeName = fixName(etree.XML(s.get(url, params=params, timeout=3).content).xpath("//Desc/episodeDesc/text()")[0][:-1], reverse=True)
                     break
                 except requests.exceptions.ReadTimeout:
                     continue
@@ -105,7 +108,7 @@ def generate():
                     exit(-1)
             if episodeName == "":
                 print('\033[33mFailed to fetch episode name of showId=' + show.xpath('@showId')[0] + ', episodeId=' + show.xpath('@episodeId')[0] + ' from ScheduleServices\033[0m')
-                episodeName = fixName(show.xpath('@episodeName')[0], True if show.xpath('@showId')[0] == "376453" else False)
+                episodeName = fixName(show.xpath('@episodeName')[0], force_the=True if show.xpath('@showId')[0] == "376453" else False)
             rating = show.xpath('@rating')[0]
             airtime_str = show.xpath('@date')[0] + ' ' + show.xpath('@military')[0]
             airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(airtime_str, '%m/%d/%Y %H:%M'))
