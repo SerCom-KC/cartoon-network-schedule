@@ -131,6 +131,7 @@ def generate():
             month = month + 1 if month != 12 else 1
 
 def guessNextShowings():
+    s = requests.Session()
     today = datetime.now(pytz.timezone('US/Eastern'))
     nextshowings = []
     url = "https://raw.githubusercontent.com/" + os.environ['TRAVIS_REPO_SLUG'] + "/master/show-list?"
@@ -146,7 +147,7 @@ def guessNextShowings():
             }
             while True:
                 try:
-                    allShowings = etree.XML(requests.get(url, params=params, timeout=3).content)
+                    allShowings = etree.XML(s.get(url, params=params, timeout=3).content)
                     break
                 except requests.exceptions.ReadTimeout:
                     continue
