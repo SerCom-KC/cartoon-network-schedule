@@ -134,6 +134,7 @@ def guessNextShowings():
     s = requests.Session()
     today = datetime.now(pytz.timezone('US/Eastern'))
     nextshowings = []
+    guessmissing = {'slashcount': {}, 'dates': []}
     url = "https://raw.githubusercontent.com/" + os.environ['TRAVIS_REPO_SLUG'] + "/master/show-list?"
     list = requests.get(url, timeout=3).json()
     for element in list:
@@ -159,7 +160,9 @@ def guessNextShowings():
             except IndexError:
                 continue
             title = element["title"]
+            guessmissing['slashcount'][element['title']] = 0
             for show in allShowings:
+                guessmissing['slashcount'][element['title']] += show.xpath('@episode')[0].count('/') + 1
                 if today.date().month == 12 and show.xpath('@date')[0].find('January'):
                     airtime_year = str(today.date().year + 1)
                 else:
@@ -170,8 +173,17 @@ def guessNextShowings():
                 airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(airtime_str, '%I:%M %p %B %d %Y'))
                 airtime = int(airtime_dt.timestamp())
                 nextshowings.append({"show": title, "episode": episodeName, "rating": rating, "airtime": airtime})
+            if guessmissing['slashcount'][element['title']] >= 30:
+                date_str = airtime_dt.strftime('%Y-%m-%d')
+                if not date_str in guessmissing['dates']:
+                    guessmissing['dates'].append({"date": date_str, "shows": []})
+                for date in guessmissing['dates']:
+                    if date_str == date["date"]:
+                        date['shows'].append(element['title'])
+                        break
     nextshowings = sorted(nextshowings, key=lambda k: int(k['airtime']))
-    result = {"updated": int(time.time()), "data": nextshowings}
+    guessmissing['dates'] = sorted(guessmissing['dates'], key=lambda k: k['date'])
+    result = {"updated": int(time.time()), "missing": guessmissing['dates'],"data": nextshowings}
     print('Writing to next-showings')
     file = open('master/next-showings', 'w+')
     file.write(json.dumps(result))
@@ -179,6 +191,11 @@ def guessNextShowings():
     print('Generating human-readable output')
     result = "## DISCLAIMER\n**This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**\n\n"
     result += '_Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + '_  \n\n'
+    if guessmissing['dates'] != []:
+        result += '## Missing time slots\nIf no upcoming new series exists in the next 2 weeks, the missing time slots might be one of the following:  \n'
+        for date in guessmissing['dates']:
+            date_list = date["date"].split('-')
+            result += 'For missing time slots on ' + getDate(date_list[1], date_list[2]) + ' and after: ' + ', '.join(date["shows"]) + '  \n'
     date = ""
     for show in nextshowings:
         airtime_dt = datetime.fromtimestamp(show['airtime']).astimezone(pytz.timezone('US/Eastern'))
