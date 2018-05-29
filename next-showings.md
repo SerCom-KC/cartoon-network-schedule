@@ -1,7 +1,16 @@
 ## DISCLAIMER
-**This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some timeslots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
+**This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
 
-_Last Update: May 28, 2018 at 13:40:17 UTC_  
+_Last Update: May 29, 2018 at 03:17:07 UTC_  
+
+## Missing time slots
+If no upcoming new series exists in the next 2 weeks, the missing time slots might be one of the following:  
+For missing time slots on May 28th and after: Teen Titans Go!  
+For missing time slots on May 31st and after: The Amazing World of Gumball  
+For missing time slots on June 4th and after: Craig of the Creek  
+For missing time slots on June 5th and after: Unikitty!  
+For missing time slots on June 10th and after: Clarence  
+
 ### Monday, May 28th
 06:00AM Teen Titans Go! - Permanent Record; Lication  
 06:30AM Teen Titans Go! - Master Detective; Ones and Zeros  
@@ -23,6 +32,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 03:30PM Teen Titans Go! - Flashback  
 04:00PM Cartoon Network Movie - Alvin and the Chipmunks: The Road Chip  
 06:10PM Cartoon Network Movie - Lego DC Comics Super Heroes: The Flash  
+
 ### Tuesday, May 29th
 06:00AM Steven Universe - Island Adventure  
 06:15AM Justice League Action - Watchtower Tours  
@@ -42,6 +52,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 06:30PM The Amazing World of Gumball - The Origins; The Origins Part 2  
 07:00PM Craig of the Creek - The Final Book; Itch to Explore  
 07:30PM The Amazing World of Gumball - The Fridge; The Remote  
+
 ### Wednesday, May 30th
 06:00AM Steven Universe - Keep Beach City Weird!  
 06:15AM Justice League Action - Barehanded  
@@ -61,6 +72,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 06:30PM The Amazing World of Gumball - The Flower; The Banana  
 07:00PM Craig of the Creek - Escape from Family Dinner; Bring Out Your Beast  
 07:30PM The Amazing World of Gumball - The Phone; The Job  
+
 ### Thursday, May 31st
 06:00AM Steven Universe - Fusion Cuisine  
 06:15AM Justice League Action - Captain Bamboozle  
@@ -75,6 +87,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 05:00PM Craig of the Creek - Monster in the Garden; Lost in the Sewer  
 05:30PM Cartoon Network Special - Teen Titans Go!: Island Adventures  
 07:00PM Craig of the Creek - The Future is Cardboard; The Curse  
+
 ### Friday, June 1st
 06:00AM Steven Universe - Garnet's Universe  
 06:15AM Justice League Action - Keeping Up with the Kryptonians  
@@ -83,6 +96,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 10:30AM Craig of the Creek - Dog Decider; The Final Book  
 01:30PM Unikitty! - Fire & Nice; Kitty Court  
 04:15PM Cartoon Network Movie - Lego DC Comics Super Heroes: The Flash  
+
 ### Saturday, June 2nd
 06:00AM Ben 10 - Screamcatcher  
 06:15AM Justice League Action - Unleashed  
@@ -92,6 +106,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 04:00PM Unikitty! - Birthday Blowout; Rock Friend  
 04:30PM Unikitty! - Lab Cat; Kitchen Chaos  
 06:00PM Cartoon Network Movie - Madagascar; Bro-Pocalypse  
+
 ### Sunday, June 3rd
 06:00AM Ben 10 - Creature Feature  
 06:15AM Justice League Action - She Wore Red Velvet  
@@ -103,6 +118,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 04:00PM The Powerpuff Girls - Trouble Clef; Save the Date  
 07:00PM Craig of the Creek - Escape from Family Dinner; Jessica Goes to the Creek  
 07:30PM Craig of the Creek - Monster in the Garden; The Final Book  
+
 ### Monday, June 4th
 06:00AM Steven Universe - Watermelon Steven  
 06:15AM Ben 10 - Bomzobo Lives  
@@ -126,6 +142,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 07:00PM Unikitty! - Kickflip McPuppycorn  
 07:15PM We Bare Bears - Cupcake Job  
 07:30PM We Bare Bears - Brother Up; Panda's Sneeze  
+
 ### Tuesday, June 5th
 06:00AM Steven Universe - Lion 3: Straight to Video  
 06:15AM Ben 10 - Animorphosis  
@@ -134,6 +151,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 03:30PM OK K.O.! Let's Be Heroes - Jethro's All Yours; You're Level 100!  
 07:15PM We Bare Bears - Tote Life  
 07:30PM We Bare Bears - Video Date; Hibernation  
+
 ### Wednesday, June 6th
 06:00AM Steven Universe - Warp Tour  
 06:15AM Ben 10 - Assault on Pancake Palace  
@@ -141,6 +159,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 03:30PM OK K.O.! Let's Be Heroes - No More Pow Cards; We've Got Fleas  
 07:15PM We Bare Bears - Occupy Bears  
 07:30PM We Bare Bears - Slumber Party; Yard Sale  
+
 ### Thursday, June 7th
 06:00AM Steven Universe - Alone Together  
 06:15AM Ben 10 - High Stress Express  
@@ -148,6 +167,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 03:30PM OK K.O.! Let's Be Heroes - A Hero's Fate; I Am Dendy  
 07:15PM We Bare Bears - Bear Cleanse  
 07:30PM We Bare Bears - Rooms; Charlie Ball  
+
 ### Friday, June 8th
 06:00AM Steven Universe - The Test  
 06:15AM Ben 10 - Half-Sies  
@@ -155,6 +175,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 03:30PM OK K.O.! Let's Be Heroes - Let's Have a Stakeout; My Dad Can Beat up Your Dad  
 07:15PM We Bare Bears - Losing Ice  
 07:30PM We Bare Bears - Cellie; Fashion Bears  
+
 ### Saturday, June 9th
 06:00AM Apple & Onion - The Perfect Team; A New Life  
 06:30AM Apple & Onion - Tips; Falafel's Fun Day  
@@ -164,6 +185,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 05:00PM Teen Titans - X  
 05:30PM Teen Titans - Betrothed  
 06:00PM Cartoon Network Movie - Ben 10: Race Against Time  
+
 ### Sunday, June 10th
 06:00AM Clarence - Lost in the Supermarket; Pretty Great Day with a Girl  
 07:30AM Clarence - The Forgotten; Dollar Hunt  
@@ -180,6 +202,7 @@ _Last Update: May 28, 2018 at 13:40:17 UTC_
 04:00PM Clarence - In Dreams; Ren Faire  
 05:00PM Clarence - Escape from Beyond the Cosmic; Time Crimes  
 05:30PM Clarence - Attack the Block Party; Lost Playground  
+
 ### Monday, June 11th
 06:00AM Steven Universe - Future Vision  
 06:15AM Ben 10 - All Koiled Up  
