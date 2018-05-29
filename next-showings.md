@@ -1,39 +1,18 @@
 ## DISCLAIMER
 **This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
 
-_Last Update: May 29, 2018 at 03:28:11 UTC_  
+_Last Update: May 29, 2018 at 04:53:27 UTC_  
 
 ## Missing time slots
 If no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  
-For missing time slots on May 28th and/or after: Teen Titans Go!  
 For missing time slots on May 31st and/or after: The Amazing World of Gumball  
+For missing time slots on June 1st and/or after: Teen Titans Go!  
 For missing time slots on June 4th and/or after: Craig of the Creek  
 For missing time slots on June 5th and/or after: Unikitty!  
 For missing time slots on June 10th and/or after: Clarence  
+For missing time slots on June 12th and/or after: Ben 10  
 
 ## Known schedule
-
-### Monday, May 28th
-06:00AM Teen Titans Go! - Permanent Record; Lication  
-06:30AM Teen Titans Go! - Master Detective; Ones and Zeros  
-07:00AM Teen Titans Go! - Career Day; Hand Zombie  
-07:30AM Teen Titans Go! - TV Knight 2; Employee of the Month Redux  
-08:00AM Teen Titans Go! - The Academy; Orangins  
-08:30AM Teen Titans Go! - Throne of Bones; Jinxed  
-09:00AM Teen Titans Go! - Brain Percentages; Demon Prom  
-09:30AM Teen Titans Go! - Beast Girl; BL4Z3  
-10:00AM Teen Titans Go! - Two Parter Part 1; Two Parter Part 2  
-10:30AM Teen Titans Go! - Operation Dude Rescue Part 2; Operation Dude Rescue Part 1  
-11:00AM Teen Titans Go! - BBCYFSHIPBDAY; BBSFBDAY!  
-11:30AM Teen Titans Go! - 40%, 40%, 20%; The Streak Part 2; The Streak Part 1  
-12:00PM Teen Titans Go! - Night Begins to Shine Special  
-01:00PM Teen Titans Go! - BBRAE  
-01:30PM Teen Titans Go! - The Self-Indulgent 200th Episode Spectacular!  
-02:00PM Cartoon Network Special - Teen Titans Go!: Island Adventures  
-03:00PM Teen Titans Go! - Justice League's Next Top Talent Idol Star  
-03:30PM Teen Titans Go! - Flashback  
-04:00PM Cartoon Network Movie - Alvin and the Chipmunks: The Road Chip  
-06:10PM Cartoon Network Movie - Lego DC Comics Super Heroes: The Flash  
 
 ### Tuesday, May 29th
 06:00AM Steven Universe - Island Adventure  
@@ -43,14 +22,20 @@ For missing time slots on June 10th and/or after: Clarence
 07:15AM The Amazing World of Gumball - The Lady  
 07:30AM The Amazing World of Gumball - The Best; The Sucker  
 08:00AM The Amazing World of Gumball - The Worst; The Vegging  
+08:30AM Teen Titans Go! - Truth, Justice, and What?; Beast Man  
+09:00AM Teen Titans Go! - Two Bumble Bees and a Wasp; Oil Drums  
 09:30AM The Amazing World of Gumball - The Procrastinators; The Shell  
 10:00AM The Amazing World of Gumball - The Mirror; The Burden  
 10:30AM Craig of the Creek - Itch to Explore; The Brood  
+11:00AM Teen Titans Go! - Video Game References; Cool School  
+11:30AM Teen Titans Go! - Kicking a Ball and Pretending to Be Hurt; Head Fruit  
+12:00PM Teen Titans Go! - Mouth Hole; Hot Garbage  
 12:30PM The Amazing World of Gumball - The Detective; The Heist  
 01:00PM The Amazing World of Gumball - The Singing; The Fury  
 01:30PM Unikitty! - Sparkle Matter Matters; Stuck Together  
 02:00PM Cartoon Network Movie - Alvin and the Chipmunks: The Road Chip  
 04:00PM Cartoon Network Movie - Lego DC Comics Super Heroes: The Flash; Beast Girl  
+06:00PM Teen Titans Go! - Flashback  
 06:30PM The Amazing World of Gumball - The Origins; The Origins Part 2  
 07:00PM Craig of the Creek - The Final Book; Itch to Explore  
 07:30PM The Amazing World of Gumball - The Fridge; The Remote  
@@ -62,15 +47,23 @@ For missing time slots on June 10th and/or after: Clarence
 07:00AM Teen Titans - Fractured  
 07:30AM The Amazing World of Gumball - The Deal; The One  
 08:00AM The Amazing World of Gumball - The Father; The Petals  
+08:30AM Teen Titans Go! - Operation Tin Man; Nean  
+09:00AM Teen Titans Go! - The Hive Five; More of the Same  
 09:30AM The Amazing World of Gumball - The Bros; The Man  
 10:00AM The Amazing World of Gumball - The Pizza; The Lie  
 10:30AM Craig of the Creek - You're It; Monster in the Garden  
+11:00AM Teen Titans Go! - And the Award for Sound Design Goes to Rob; Some of Their Parts  
+11:30AM Teen Titans Go! - 40%, 40%, 20%; Cat's Fancy  
+12:00PM Teen Titans Go! - Robin Backwards; Crazy Day  
 12:30PM The Amazing World of Gumball - The Best; The Compilation  
 01:00PM The Amazing World of Gumball - The Worst; The Stories  
 01:30PM Unikitty! - Action Forest; Little Prince Puppycorn  
+02:00PM Teen Titans Go! - Two Parter Part 1; Two Parter Part 2  
+02:30PM Teen Titans Go! - The Return of Slade  
 02:45PM Ben 10 - All Koiled Up  
 03:00PM Cartoon Network Movie - Lego DC Comics Super Heroes: The Flash; The Brood  
 05:00PM Craig of the Creek - Dog Decider; Sunday Clothes  
+05:30PM Teen Titans Go! - Night Begins to Shine Special  
 06:30PM The Amazing World of Gumball - The Flower; The Banana  
 07:00PM Craig of the Creek - Escape from Family Dinner; Bring Out Your Beast  
 07:30PM The Amazing World of Gumball - The Phone; The Job  
@@ -82,8 +75,13 @@ For missing time slots on June 10th and/or after: Clarence
 07:00AM Teen Titans - Aftershock Part 2  
 07:30AM The Amazing World of Gumball - The Cringe; The Puppets  
 08:00AM The Amazing World of Gumball - The Line; The Cage  
+08:30AM Teen Titans Go! - Grube's Fairytales; Leg Day  
+09:00AM Teen Titans Go! - Dignity of Teeth; A Farce  
 10:30AM Craig of the Creek - The Curse; Jessica Goes to the Creek  
+11:00AM Teen Titans Go! - Animals, It's Just a Word!; Croissant  
+11:30AM Teen Titans Go! - Spice Game  
 11:45AM Ben 10 - Bon Voyage  
+12:00PM Teen Titans Go! - Smile Bones; Real Boy Adventures  
 01:30PM Unikitty! - Kaiju Kitty; Pet Pet  
 02:00PM Cartoon Network Movie - Lego DC Comics Super Heroes: The Flash; The Shippening  
 05:00PM Craig of the Creek - Monster in the Garden; Lost in the Sewer  
@@ -95,7 +93,10 @@ For missing time slots on June 10th and/or after: Clarence
 06:15AM Justice League Action - Keeping Up with the Kryptonians  
 06:30AM Teen Titans - Deception  
 07:00AM Ben 10 - Mayhem in Mascot  
+08:30AM Teen Titans Go! - BBBDay!; I'm the Sauce  
+09:00AM Teen Titans Go! - Hey You, Don't Forget About Me in Your Memory; Squash & Stretch  
 10:30AM Craig of the Creek - Dog Decider; The Final Book  
+11:00AM Teen Titans Go! - Garage Sale  
 01:30PM Unikitty! - Fire & Nice; Kitty Court  
 04:15PM Cartoon Network Movie - Lego DC Comics Super Heroes: The Flash  
 
@@ -225,3 +226,11 @@ For missing time slots on June 10th and/or after: Clarence
 07:00PM Ben 10 - Double Hex  
 07:15PM We Bare Bears - The Island  
 07:30PM We Bare Bears - Bear Flu; Baby Bears on a Plane  
+
+### Tuesday, June 12th
+06:00AM Steven Universe - On the Run  
+06:15AM Ben 10 - Ye Olde Laser Duel  
+03:15PM OK K.O.! Let's Be Heroes - Presenting Joe Cuppa  
+03:30PM OK K.O.! Let's Be Heroes - We've Got Pests; The Power Is Yours!  
+07:15PM We Bare Bears - Icy Nights  
+07:30PM We Bare Bears - Captain Craboo  
