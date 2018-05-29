@@ -179,11 +179,11 @@ def guessNextShowings():
                     guessmissing['dates'].append({"date": date_str, "shows": []})
                 for date in guessmissing['dates']:
                     if date_str == date["date"]:
-                        date['shows'].append(element['title'])
+                        date['shows'].append(element['showId'])
                         break
     nextshowings = sorted(nextshowings, key=lambda k: int(k['airtime']))
     guessmissing['dates'] = sorted(guessmissing['dates'], key=lambda k: k['date'])
-    result = {"updated": int(time.time()), "missing": guessmissing['dates'],"data": nextshowings}
+    result = {"updated": int(time.time()), "missing": guessmissing['dates'], "schedule": nextshowings}
     print('Writing to next-showings')
     file = open('master/next-showings', 'w+')
     file.write(json.dumps(result))
@@ -192,10 +192,16 @@ def guessNextShowings():
     result = "## DISCLAIMER\n**This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**\n\n"
     result += '_Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + '_  \n\n'
     if guessmissing['dates'] != []:
-        result += '## Missing time slots\nIf no upcoming new series exists in the next 2 weeks, the missing time slots might be one of the following:  \n'
+        result += '## Missing time slots\nIf no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  \n'
         for date in guessmissing['dates']:
             date_list = date["date"].split('-')
-            result += 'For missing time slots on ' + getDate(date_list[1], date_list[2]) + ' and after: ' + ', '.join(date["shows"]) + '  \n'
+            shows = []
+            for show in date["shows"]:
+                for element in list:
+                    if show == element["showId"]:
+                        shows.append(element["title"])
+            result += 'For missing time slots on ' + getDate(date_list[1], date_list[2]) + ' and/or after: ' + ', '.join(shows) + '  \n'
+    result += '\n## Known schedule\n'
     date = ""
     for show in nextshowings:
         airtime_dt = datetime.fromtimestamp(show['airtime']).astimezone(pytz.timezone('US/Eastern'))
