@@ -177,14 +177,14 @@ def guessNextShowings():
     file.write(json.dumps(result))
     file.close()
     print('Generating human-readable output')
-    result = "## DISCLAIMER\n**This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some timeslots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**\n\n"
-    result += '_Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + '_  \n'
+    result = "## DISCLAIMER\n**This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**\n\n"
+    result += '_Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + '_  \n\n'
     date = ""
     for show in nextshowings:
         airtime_dt = datetime.fromtimestamp(show['airtime']).astimezone(pytz.timezone('US/Eastern'))
         date_str = airtime_dt.strftime('%A, ' + getDate(airtime_dt.strftime('%m'), airtime_dt.strftime('%d')))
         if date != date_str:
-            result += '### ' + date_str + '\n'
+            result += '\n### ' + date_str + '\n'
             date = date_str
         result += airtime_dt.strftime('%I:%M%p ' + show['show'] + ' - ' + show['episode'] + '  \n')
     file = open('master/next-showings.md', 'w+')
