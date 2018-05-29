@@ -1,15 +1,17 @@
 ## DISCLAIMER
 **This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
 
-_Last Update: May 29, 2018 at 03:17:07 UTC_  
+_Last Update: May 29, 2018 at 03:28:11 UTC_  
 
 ## Missing time slots
-If no upcoming new series exists in the next 2 weeks, the missing time slots might be one of the following:  
-For missing time slots on May 28th and after: Teen Titans Go!  
-For missing time slots on May 31st and after: The Amazing World of Gumball  
-For missing time slots on June 4th and after: Craig of the Creek  
-For missing time slots on June 5th and after: Unikitty!  
-For missing time slots on June 10th and after: Clarence  
+If no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  
+For missing time slots on May 28th and/or after: Teen Titans Go!  
+For missing time slots on May 31st and/or after: The Amazing World of Gumball  
+For missing time slots on June 4th and/or after: Craig of the Creek  
+For missing time slots on June 5th and/or after: Unikitty!  
+For missing time slots on June 10th and/or after: Clarence  
+
+## Known schedule
 
 ### Monday, May 28th
 06:00AM Teen Titans Go! - Permanent Record; Lication  
