@@ -175,12 +175,14 @@ def guessNextShowings():
                 nextshowings.append({"show": title, "episode": episodeName, "rating": rating, "airtime": airtime})
             if guessmissing['slashcount'][element['title']] >= 30:
                 date_str = airtime_dt.strftime('%Y-%m-%d')
-                if not date_str in guessmissing['dates']:
-                    guessmissing['dates'].append({"date": date_str, "shows": []})
+                flag = True
                 for date in guessmissing['dates']:
                     if date_str == date["date"]:
+                        flag = False
                         date['shows'].append(element['showId'])
                         break
+                if flag:
+                    guessmissing['dates'].append({"date": date_str, "shows": []})
     nextshowings = sorted(nextshowings, key=lambda k: int(k['airtime']))
     guessmissing['dates'] = sorted(guessmissing['dates'], key=lambda k: k['date'])
     result = {"updated": int(time.time()), "missing": guessmissing['dates'], "schedule": nextshowings}
