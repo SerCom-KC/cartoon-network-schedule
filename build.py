@@ -182,7 +182,7 @@ def guessNextShowings():
                         date['shows'].append(element['showId'])
                         break
                 if flag:
-                    guessmissing['dates'].append({"date": date_str, "shows": []})
+                    guessmissing['dates'].append({"date": date_str, "shows": [element['showId']]})
     nextshowings = sorted(nextshowings, key=lambda k: int(k['airtime']))
     guessmissing['dates'] = sorted(guessmissing['dates'], key=lambda k: k['date'])
     result = {"updated": int(time.time()), "missing": guessmissing['dates'], "schedule": nextshowings}
