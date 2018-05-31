@@ -1,44 +1,18 @@
 ## DISCLAIMER
 **This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
 
-_Last Update: May 30, 2018 at 13:08:45 UTC_  
+_Last Update: May 31, 2018 at 10:17:25 UTC_  
 
 ## Missing time slots
 If no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  
-For missing time slots on June 1st and/or after: The Amazing World of Gumball, Teen Titans Go!  
-For missing time slots on June 5th and/or after: Unikitty!, Craig of the Creek  
+For missing time slots on June 2nd and/or after: The Amazing World of Gumball, Teen Titans Go!  
+For missing time slots on June 5th and/or after: Unikitty!  
+For missing time slots on June 6th and/or after: Craig of the Creek  
 For missing time slots on June 10th and/or after: Clarence  
 For missing time slots on June 12th and/or after: Ben 10  
+For missing time slots on June 14th and/or after: OK K.O.! Let's Be Heroes  
 
 ## Known schedule
-
-### Wednesday, May 30th
-06:00AM Steven Universe - Keep Beach City Weird!  
-06:15AM Justice League Action - Barehanded  
-06:30AM Teen Titans - Betrayal  
-07:00AM Teen Titans - Fractured  
-07:30AM The Amazing World of Gumball - The Deal; The One  
-08:00AM The Amazing World of Gumball - The Father; The Petals  
-08:30AM Teen Titans Go! - Operation Tin Man; Nean  
-09:00AM Teen Titans Go! - The Hive Five; More of the Same  
-09:30AM The Amazing World of Gumball - The Bros; The Man  
-10:00AM The Amazing World of Gumball - The Pizza; The Lie  
-10:30AM Craig of the Creek - Monster in the Garden; You're It  
-11:00AM Teen Titans Go! - And the Award for Sound Design Goes to Rob; Some of Their Parts  
-11:30AM Teen Titans Go! - 40%, 40%, 20%; Cat's Fancy  
-12:00PM Teen Titans Go! - Robin Backwards; Crazy Day  
-12:30PM The Amazing World of Gumball - The Best; The Compilation  
-01:00PM The Amazing World of Gumball - The Worst; The Stories  
-01:30PM Unikitty! - Action Forest; Little Prince Puppycorn  
-02:00PM Teen Titans Go! - Two Parter Part 2; Two Parter Part 1  
-02:30PM Teen Titans Go! - The Return of Slade  
-02:45PM Ben 10 - All Koiled Up  
-03:00PM Cartoon Network Movie - Lego DC Comics Super Heroes: The Flash; The Brood  
-05:00PM Craig of the Creek - Dog Decider; Sunday Clothes  
-05:30PM Teen Titans Go! - Night Begins to Shine Special  
-06:30PM The Amazing World of Gumball - The Flower; The Banana  
-07:00PM Craig of the Creek - Bring Out Your Beast; Escape from Family Dinner  
-07:30PM The Amazing World of Gumball - The Phone; The Job  
 
 ### Thursday, May 31st
 06:00AM Steven Universe - Fusion Cuisine  
@@ -65,7 +39,7 @@ For missing time slots on June 12th and/or after: Ben 10
 05:00PM Craig of the Creek - Lost in the Sewer; Monster in the Garden  
 05:30PM Cartoon Network Special - Teen Titans Go!: Island Adventures  
 06:30PM The Amazing World of Gumball - The Bumpkin; The Flakers  
-07:00PM Craig of the Creek - The Future is Cardboard; The Curse  
+07:00PM Craig of the Creek - The Curse; The Future is Cardboard  
 07:30PM The Amazing World of Gumball - The Authority; The Virus  
 
 ### Friday, June 1st
@@ -75,21 +49,35 @@ For missing time slots on June 12th and/or after: Ben 10
 07:00AM Ben 10 - Mayhem in Mascot  
 07:15AM The Amazing World of Gumball - The Faith  
 07:30AM The Amazing World of Gumball - The Candidate; The News  
-08:00AM The Amazing World of Gumball - The Rival  
+08:00AM The Amazing World of Gumball - The Rival; The Anybody  
 08:30AM Teen Titans Go! - BBBDay!; I'm the Sauce  
 09:00AM Teen Titans Go! - Hey You, Don't Forget About Me in Your Memory; Squash & Stretch  
+09:30AM The Amazing World of Gumball - The Friend; The Saint  
+10:00AM The Amazing World of Gumball - The Society; The Spoiler  
 10:30AM Craig of the Creek - Dog Decider; The Final Book  
 11:00AM Teen Titans Go! - Accept the Next Proposition You Hear; Garage Sale  
 11:30AM Teen Titans Go! - The Fourth Wall; Secret Garden  
 12:00PM Teen Titans Go! - Yearbook Madness; Hose Water  
+12:30PM The Amazing World of Gumball - The Guy; The Puppets  
+01:00PM The Amazing World of Gumball - The Boredom; The Line  
 01:30PM Unikitty! - Fire & Nice; Kitty Court  
 02:00PM Teen Titans Go! - Truth, Justice, and What?; Beast Man  
 02:30PM Teen Titans Go! - Two Bumble Bees and a Wasp; Oil Drums  
+03:00PM Teen Titans Go! - Video Game References; Cool School  
+03:30PM Teen Titans Go! - Kicking a Ball and Pretending to Be Hurt; Head Fruit  
+04:00PM Teen Titans Go! - Demon Prom  
 04:15PM Cartoon Network Movie - Lego DC Comics Super Heroes: The Flash  
 
 ### Saturday, June 2nd
 06:00AM Ben 10 - Screamcatcher  
 06:15AM Justice League Action - Unleashed  
+06:30AM The Amazing World of Gumball - The Boredom; The Return  
+07:00AM The Amazing World of Gumball - The Nemesis; The Vision  
+07:30AM The Amazing World of Gumball - The Crew  
+08:00AM Teen Titans Go! - The Overbite; Cat's Fancy  
+08:30AM Teen Titans Go! - Shrimps and Prime Rib; Leg Day  
+09:00AM Teen Titans Go! - Dignity of Teeth; Booby Trap House  
+09:30AM Teen Titans Go! - Fish Water; Croissant  
 12:00PM Ben 10 - All Koiled Up; Chicken Nuggets of Wisdom  
 12:30PM OK K.O.! Let's Be Heroes - Red Action to the Future; Dendy's Power  
 01:00PM Cartoon Network Movie - The Neighbor  
@@ -100,12 +88,13 @@ For missing time slots on June 12th and/or after: Ben 10
 ### Sunday, June 3rd
 06:00AM Ben 10 - Creature Feature  
 06:15AM Justice League Action - She Wore Red Velvet  
-11:00AM Unikitty! - Crushing Defeat; The Zone  
+11:00AM Unikitty! - The Zone; Crushing Defeat  
 11:30AM Unikitty! - Wishing Well; Too Many Unikittys  
 12:00PM Craig of the Creek - The Future is Cardboard; Itch to Explore  
 12:30PM Craig of the Creek - You're It; The Brood  
 02:00PM Cartoon Network Movie - Bro-Pocalypse; Madagascar  
 04:00PM The Powerpuff Girls - Save the Date; Trouble Clef  
+04:30PM Unikitty! - R & Arr; License to Punch  
 07:00PM Craig of the Creek - Jessica Goes to the Creek; Escape from Family Dinner  
 07:30PM Craig of the Creek - The Final Book; Monster in the Garden  
 
@@ -128,7 +117,7 @@ For missing time slots on June 12th and/or after: Ben 10
 04:00PM Unikitty! - Tasty Heist  
 05:00PM Unikitty! - Buggin' Out  
 05:15PM Craig of the Creek - Itch to Explore  
-05:30PM Craig of the Creek - You're It; Wildernessa  
+05:30PM Craig of the Creek - Wildernessa; Jessica Goes to the Creek  
 06:00PM Unikitty! - Chair  
 07:00PM Unikitty! - Kickflip McPuppycorn  
 07:15PM We Bare Bears - Cupcake Job  
@@ -139,17 +128,21 @@ For missing time slots on June 12th and/or after: Ben 10
 06:15AM Ben 10 - Animorphosis  
 07:00AM Unikitty! - Super Amazing Raft Adventure  
 07:15AM Craig of the Creek - Jessica Goes to the Creek  
-07:30AM Craig of the Creek - The Final Book  
+07:30AM Craig of the Creek - The Final Book; Dog Decider  
 08:00AM Unikitty! - Tasty Heist  
 09:00AM Unikitty! - Buggin' Out  
 03:15PM OK K.O.! Let's Be Heroes - We Messed Up  
 03:30PM OK K.O.! Let's Be Heroes - Jethro's All Yours; You're Level 100!  
+05:15PM Craig of the Creek - Sunday Clothes  
+05:30PM Craig of the Creek - Escape from Family Dinner; Bring Out Your Beast  
 07:15PM We Bare Bears - Tote Life  
 07:30PM We Bare Bears - Video Date; Hibernation  
 
 ### Wednesday, June 6th
 06:00AM Steven Universe - Warp Tour  
 06:15AM Ben 10 - Assault on Pancake Palace  
+07:15AM Craig of the Creek - Bring Out Your Beast  
+07:30AM Craig of the Creek - Lost in the Sewer  
 03:15PM OK K.O.! Let's Be Heroes - Stop Attacking the Plaza  
 03:30PM OK K.O.! Let's Be Heroes - No More Pow Cards; We've Got Fleas  
 07:15PM We Bare Bears - Occupy Bears  
@@ -223,6 +216,7 @@ For missing time slots on June 12th and/or after: Ben 10
 06:00AM Steven Universe - On the Run  
 06:15AM Ben 10 - Ye Olde Laser Duel  
 07:00AM Ben 10 - Ben Again and Again  
+08:00AM Ben 10 - King Koil  
 03:15PM OK K.O.! Let's Be Heroes - Presenting Joe Cuppa  
 03:30PM OK K.O.! Let's Be Heroes - We've Got Pests; The Power Is Yours!  
 07:15PM We Bare Bears - Icy Nights  
@@ -234,3 +228,10 @@ For missing time slots on June 12th and/or after: Ben 10
 03:30PM OK K.O.! Let's Be Heroes - Glory Days; Know Your Mom  
 07:15PM We Bare Bears - The Audition  
 07:30PM We Bare Bears - Grizz Helps; Everyone's Tube  
+
+### Thursday, June 14th
+06:00AM Steven Universe - Winter Forecast  
+03:15PM OK K.O.! Let's Be Heroes - We're Captured  
+03:30PM OK K.O.! Let's Be Heroes - Plazalympics  
+07:15PM We Bare Bears - Yuri and the Bear  
+07:30PM We Bare Bears - $100; The Fair  
