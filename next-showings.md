@@ -1,47 +1,18 @@
 ## DISCLAIMER
 **This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
 
-_Last Update: June 10, 2018 at 10:21:46 UTC_  
+_Last Update: June 11, 2018 at 10:21:45 UTC_  
 
 ## Missing time slots
 If no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  
-For missing time slots on June 10th and/or after: Clarence  
-For missing time slots on June 12th and/or after: Teen Titans Go!, Craig of the Creek  
+For missing time slots on June 12th and/or after: Teen Titans Go!  
 For missing time slots on June 13th and/or after: Ben 10  
 For missing time slots on June 14th and/or after: The Amazing World of Gumball  
+For missing time slots on June 17th and/or after: Clarence, Craig of the Creek  
 For missing time slots on June 22nd and/or after: Unikitty!  
 For missing time slots on June 23rd and/or after: OK K.O.! Let's Be Heroes  
 
 ## Known schedule
-
-### Sunday, June 10th
-06:00AM Clarence - Lost in the Supermarket; Pretty Great Day with a Girl  
-06:30AM Craig of the Creek - The Final Book; The Future is Cardboard  
-07:00AM Craig of the Creek - Too Many Treasures; The Brood  
-07:30AM Clarence - Dollar Hunt; The Forgotten  
-08:00AM Clarence - Zoo; Man of the House  
-08:30AM Craig of the Creek - Wildernessa; Escape from Family Dinner  
-09:00AM Clarence - A Sumoful Mind; The Trade  
-09:30AM Clarence - Rise and Shine; Nature Clarence  
-10:00AM Craig of the Creek - Monster in the Garden; Sunday Clothes  
-10:30AM Clarence - Animal Day; Dare Day  
-11:00AM Clarence - Lizard Day Afternoon; Patients  
-11:30AM Craig of the Creek - The Curse; Itch to Explore  
-12:00PM Clarence - Big Trouble in Little Aberdale; The Tunnel  
-12:30PM Clarence - Breehn Ho; Goose Chase  
-01:00PM Craig of the Creek - Dog Decider; You're It  
-01:30PM Clarence - Missing Cat; Talent Show  
-02:00PM Clarence - Chalmers Santiago; Where the Wild Chads Are  
-02:30PM Craig of the Creek - Bring Out Your Beast; Jessica Goes to the Creek  
-03:00PM Craig of the Creek - The Final Book; Lost in the Sewer  
-03:30PM Clarence - RC Car; Just Wait in the Car  
-04:00PM Clarence - In Dreams; Ren Faire  
-04:30PM Craig of the Creek - The Future is Cardboard; Too Many Treasures  
-05:00PM Clarence - Time Crimes; Escape from Beyond the Cosmic  
-05:30PM Clarence - Lost Playground; Attack the Block Party  
-06:00PM Craig of the Creek - The Brood; Wildernessa  
-07:00PM Craig of the Creek - Escape from Family Dinner; Sunday Clothes  
-07:30PM Craig of the Creek - Monster in the Garden; Itch to Explore  
 
 ### Monday, June 11th
 06:00AM Steven Universe - Future Vision  
@@ -55,10 +26,10 @@ For missing time slots on June 23rd and/or after: OK K.O.! Let's Be Heroes
 08:30AM Teen Titans Go! - Master Detective; Hand Zombie  
 09:00AM Ben 10 - Double Hex  
 09:15AM The Amazing World of Gumball - The Sale  
-09:30AM The Amazing World of Gumball - The Awkwardness; The Gift  
+09:30AM The Amazing World of Gumball - The Gift; The Awkwardness  
 10:00AM Ben 10 - Ye Olde Laser Duel  
 10:15AM Teen Titans Go! - 40%, 40%, 20%  
-10:30AM Teen Titans Go! - A Farce; Grube's Fairytales  
+10:30AM Teen Titans Go! - Grube's Fairytales; A Farce  
 11:00AM Ben 10 - Ben Again and Again  
 11:15AM Teen Titans Go! - Animals, It's Just a Word!  
 11:30AM Teen Titans Go! - Squash & Stretch; BBBDay!  
@@ -96,7 +67,7 @@ For missing time slots on June 23rd and/or after: OK K.O.! Let's Be Heroes
 07:30AM Unikitty! - Lab Cat; R & Arr  
 08:00AM Ben 10 - King Koil  
 08:15AM Teen Titans Go! - Orangins  
-08:30AM Teen Titans Go! - Jinxed; Brain Percentages  
+08:30AM Teen Titans Go! - Brain Percentages; Jinxed  
 09:00AM Ben 10 - The Charm Offensive  
 09:15AM The Amazing World of Gumball - The Parking  
 09:30AM The Amazing World of Gumball - The Routine; The Nest  
@@ -121,7 +92,7 @@ For missing time slots on June 23rd and/or after: OK K.O.! Let's Be Heroes
 04:30PM The Amazing World of Gumball - The Name; The Extras  
 05:00PM Ben 10 - Ben Again and Again  
 05:15PM Craig of the Creek - The Curse  
-05:30PM Craig of the Creek - The Final Book; Lost in the Sewer  
+05:30PM Craig of the Creek - Lost in the Sewer; The Final Book  
 06:00PM Ben 10 - King Koil  
 07:00PM Ben 10 - The Charm Offensive  
 07:15PM We Bare Bears - Icy Nights  
@@ -141,6 +112,8 @@ For missing time slots on June 23rd and/or after: OK K.O.! Let's Be Heroes
 03:30PM OK K.O.! Let's Be Heroes - Know Your Mom; Glory Days  
 04:15PM The Amazing World of Gumball - The Gripes  
 04:30PM The Amazing World of Gumball - The Fraud; The Void  
+05:15PM Craig of the Creek - Too Many Treasures  
+05:30PM Craig of the Creek - Wildernessa; The Brood  
 07:15PM We Bare Bears - The Audition  
 07:30PM We Bare Bears - Everyone's Tube; Grizz Helps  
 
@@ -154,6 +127,8 @@ For missing time slots on June 23rd and/or after: OK K.O.! Let's Be Heroes
 12:30PM The Amazing World of Gumball - The Cringe; The Stars  
 03:15PM OK K.O.! Let's Be Heroes - We're Captured  
 03:30PM OK K.O.! Let's Be Heroes - Face Your Fears; Plazalympics  
+05:15PM Craig of the Creek - Itch to Explore  
+05:30PM Craig of the Creek - You're It; Escape from Family Dinner  
 07:15PM We Bare Bears - Yuri and the Bear  
 07:30PM We Bare Bears - The Fair; $100  
 
@@ -163,13 +138,41 @@ For missing time slots on June 23rd and/or after: OK K.O.! Let's Be Heroes
 07:30AM Unikitty! - R & Arr; Chair  
 03:15PM OK K.O.! Let's Be Heroes - Everybody Likes Rad?  
 03:30PM OK K.O.! Let's Be Heroes - Parents Day; You Have To Care  
+05:15PM Craig of the Creek - Jessica Goes to the Creek  
+05:30PM Craig of the Creek - Dog Decider; The Curse  
 07:15PM We Bare Bears - Grizzly the Movie  
 07:30PM We Bare Bears - Road Trip; Coffee Cave  
 
 ### Saturday, June 16th
-06:00AM Apple & Onion - 4 on 1; Apple's in Trouble  
+06:00AM Apple & Onion - Apple's in Trouble; 4 on 1  
 06:30AM Apple & Onion - Hotdog's Movie Premiere; Bottle Catch  
 04:00PM The Powerpuff Girls - Blundercup; Ragnarock and Roll  
+
+### Sunday, June 17th
+06:00AM Clarence - Tree of Life; Stump Brothers  
+06:30AM Craig of the Creek - Too Many Treasures; Bring Out Your Beast  
+07:00AM Craig of the Creek - Wildernessa; Lost in the Sewer  
+07:30AM Clarence - Clarence and Sumo's Rexcellent Adventure; Clarence Wendle and the Eye of Coogan  
+08:00AM Clarence - Capture the Flag  
+08:30AM Craig of the Creek - Sunday Clothes; The Future is Cardboard  
+09:00AM Clarence - RC Car; Dog King Clarence  
+09:30AM Clarence - A Sumoful Mind; Animal Day  
+10:00AM Craig of the Creek - The Brood; Itch to Explore  
+10:30AM Clarence - Trampoline; Chad and the Marathon  
+11:00AM Clarence - The Tunnel; Talent Show  
+11:30AM Craig of the Creek - You're It; Escape from Family Dinner  
+12:00PM Clarence - Clarence the Movie; Karate Mom  
+12:30PM Clarence - RC Car; A Sumoful Mind  
+01:00PM Craig of the Creek - Jessica Goes to the Creek; Monster in the Garden  
+01:30PM Clarence - Belson Gets a Girlfriend; The Big Game  
+02:00PM Clarence - Animal Day; The Tunnel  
+02:30PM Craig of the Creek - The Curse; The Final Book  
+03:00PM Craig of the Creek - Dog Decider  
+03:30PM Clarence - Brains TV; Sumo Goes West  
+04:00PM Clarence - Fishing Trip; Missing Cat  
+05:00PM Clarence - Just Wait in the Car; Cool Guy Clarence  
+05:30PM Clarence - Pool's Out for Summer; Big Trouble in Little Aberdale  
+06:30PM Clarence - Dare Day  
 
 ### Monday, June 18th
 06:00AM Steven Universe - Marble Madness  
@@ -192,7 +195,7 @@ For missing time slots on June 23rd and/or after: OK K.O.! Let's Be Heroes
 ### Wednesday, June 20th
 06:00AM Steven Universe - The Message  
 07:15AM Unikitty! - Super Amazing Raft Adventure  
-07:30AM Unikitty! - Tasty Heist; Sparkle Matter Matters  
+07:30AM Unikitty! - Sparkle Matter Matters; Tasty Heist  
 03:15PM OK K.O.! Let's Be Heroes - Let's Watch the Pilot  
 03:30PM OK K.O.! Let's Be Heroes - Mystery Science Fair 201X; RMS & Brandon's First Episode  
 07:15PM We Bare Bears - Dog Hotel  
@@ -205,14 +208,14 @@ For missing time slots on June 23rd and/or after: OK K.O.! Let's Be Heroes
 03:15PM OK K.O.! Let's Be Heroes - Lad & Logic  
 03:30PM OK K.O.! Let's Be Heroes - Let's Not Be Skeletons; OK Dendy  
 07:15PM We Bare Bears - Bear Lift  
-07:30PM We Bare Bears - Pigeons; Bro Brawl  
+07:30PM We Bare Bears - Bro Brawl; Pigeons  
 
 ### Friday, June 22nd
 06:00AM Steven Universe - The Return  
 07:15AM Unikitty! - Kaiju Kitty  
 07:30AM Unikitty! - Fire & Nice; The Zone  
 03:15PM OK K.O.! Let's Be Heroes - Action News  
-03:30PM OK K.O.! Let's Be Heroes - The Perfect Meal; Hope This Flies  
+03:30PM OK K.O.! Let's Be Heroes - Hope This Flies; The Perfect Meal  
 07:15PM We Bare Bears - Hurricane Hal  
 07:30PM We Bare Bears - Vacation; The Park  
 
