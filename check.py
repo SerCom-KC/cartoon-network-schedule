@@ -10,7 +10,7 @@ import os
 if __name__ == "__main__":
     result = True
     print("Check if there is any show not exist in list")
-    list = requests.get("https://raw.githubusercontent.com/" + os.environ["TRAVIS_REPO_SLUG"] + "/master/show-list").json()
+    list = requests.get("https://raw.githubusercontent.com/" + os.environ["TRAVIS_REPO_SLUG"] + "/master/show-list?").json()
     for day in range(1, 32):
         for channel in ["xmlServices", "asXml"]:
             url = "https://www.adultswim.com/adultswimdynsched/" + channel + "/" + str(day) + ".EST.xml"
