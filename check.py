@@ -15,7 +15,7 @@ if __name__ == "__main__":
         for channel in ['xmlServices', 'asXml']:
             url = 'https://www.adultswim.com/adultswimdynsched/' + channel + '/' + str(day) + '.EST.xml'
             print('Fetching ' + url)
-            allshows = etree.XML(requests.get(url, timeout=10).content).xpath('//allshows/show[@blockName=""]')
+            allshows = etree.XML(requests.get(url, timeout=10).content).xpath('//allshows/show')
             for show in allshows:
                 flag = False
                 for element in list:
