@@ -1,56 +1,34 @@
 ## DISCLAIMER
 **This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
 
-_Last Update: June 23, 2018 at 10:27:47 UTC_  
+_Last Update: June 24, 2018 at 10:28:09 UTC_  
 
 ## Missing time slots
 If no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  
-For missing time slots on June 24th and/or after: The Amazing World of Gumball, Teen Titans Go!  
+For missing time slots on June 25th and/or after: Teen Titans Go!  
+For missing time slots on June 26th and/or after: The Amazing World of Gumball  
 For missing time slots on June 30th and/or after: Craig of the Creek  
 For missing time slots on July 1st and/or after: We Bare Bears  
 For missing time slots on July 2nd and/or after: OK K.O.! Let's Be Heroes  
 
 ## Known schedule
 
-### Saturday, June 23rd
-06:00AM The Amazing World of Gumball - The News; The Blame  
-06:30AM The Amazing World of Gumball - The Guy; The Rival  
-07:00AM The Amazing World of Gumball - The Misunderstandings; The Puppets  
-07:30AM The Amazing World of Gumball - The List; The Roots  
-08:00AM Teen Titans Go! - The Academy; The Art of Ninjutsu  
-08:30AM Teen Titans Go! - Throne of Bones; Think About Your Future  
-09:00AM Teen Titans Go! - Booty Scooty; Demon Prom  
-09:30AM Teen Titans Go! - BBCYFSHIPBDAY; Career Day; Who's Laughing Now  
-10:00AM Teen Titans Go! - Night Begins to Shine Special  
-11:00AM Teen Titans Go! - Oregon Trail; Beast Girl  
-11:30AM Teen Titans Go! - Bro-Pocalypse; Snuggle Time  
-12:00PM Ben 10 - Ye Olde Laser Duel; Double Hex  
-12:30PM The Amazing World of Gumball - The Friend; The Saint  
-01:00PM The Amazing World of Gumball - The Society; The Spoiler  
-01:30PM The Amazing World of Gumball - The Countdown; The Nobody  
-02:00PM The Amazing World of Gumball - The Parents; The Brain  
-02:30PM The Amazing World of Gumball - The Founder; The Schooling  
-03:00PM The Amazing World of Gumball - The Intelligence; The Shippening  
-03:30PM The Amazing World of Gumball - The Lady; The Fury  
-04:00PM Cartoon Network Special - Lego Justice League: Cosmic Clash  
-05:45PM The Amazing World of Gumball - The Brain  
-06:00PM The Amazing World of Gumball - The Parents; The Founder  
-06:30PM The Amazing World of Gumball - The Intelligence; The Schooling  
-07:00PM The Amazing World of Gumball - The Origins; The Origins Part 2  
-07:30PM The Amazing World of Gumball - The Re-Run; The Disaster  
-
 ### Sunday, June 24th
-06:00AM The Amazing World of Gumball - The Brain; The Anybody  
+06:00AM The Amazing World of Gumball - The Anybody; The Brain  
+06:30AM The Amazing World of Gumball - The Parents; The Founder  
+07:00AM The Amazing World of Gumball - The Schooling; The Intelligence  
+07:30AM The Amazing World of Gumball - The Origins Part 2; The Origins  
 08:00AM Teen Titans Go! - Cat's Fancy; Leg Day  
-08:30AM Teen Titans Go! - Croissant; Dignity of Teeth  
+08:30AM Teen Titans Go! - Dignity of Teeth; Croissant  
 09:00AM Teen Titans Go! - I'm the Sauce; Spice Game  
-09:30AM Teen Titans Go! - Accept the Next Proposition You Hear; Hey You, Don't Forget About Me in Your Memory  
-10:00AM Teen Titans Go! - 40%, 40%, 20%; The Fourth Wall  
-10:30AM Teen Titans Go! - Garage Sale; Grube's Fairytales; A Farce  
-11:00AM Teen Titans Go! - BBBDay!; Animals, It's Just a Word!  
-11:30AM Teen Titans Go! - Two Parter Part 2  
+09:30AM Teen Titans Go! - Hey You, Don't Forget About Me in Your Memory; Accept the Next Proposition You Hear  
+10:00AM Teen Titans Go! - The Fourth Wall; 40%, 40%, 20%  
+10:30AM Teen Titans Go! - Garage Sale; A Farce; Grube's Fairytales  
+11:00AM Teen Titans Go! - Animals, It's Just a Word!; BBBDay!  
+11:30AM Teen Titans Go! - Two Parter Part 2; Two Parter Part 1  
+12:00PM Teen Titans Go! - Beast Girl  
 12:15PM Cartoon Network Special - Lego Justice League: Cosmic Clash  
-02:00PM Clarence - Etiquette Clarence; Birding with Guyler; Clarencio Magnifico; Doodle Battle; Lonely Lonnie; Rainy Day  
+02:00PM Clarence - Lonely Lonnie; Etiquette Clarence; Birding with Guyler; Clarencio Magnifico; Doodle Battle; Rainy Day  
 02:30PM Craig of the Creek - Bring Out Your Beast; The Brood  
 03:00PM Craig of the Creek - Monster in the Garden; Wildernessa  
 03:30PM Clarence - Video Store; Anywhere but Sumo  
@@ -60,10 +38,28 @@ For missing time slots on July 2nd and/or after: OK K.O.! Let's Be Heroes
 05:30PM Craig of the Creek - Lost in the Sewer; Too Many Treasures  
 06:00PM Craig of the Creek - Itch to Explore; Dog Decider  
 06:30PM Clarence - Etiquette Clarence  
+06:45PM The Amazing World of Gumball - The Brain  
+07:00PM The Amazing World of Gumball - The Parents; The Founder  
+07:30PM The Amazing World of Gumball - The Intelligence; The Schooling  
 
 ### Monday, June 25th
 06:00AM Steven Universe - Jail Break  
 06:15AM Ben 10 - Double Hex  
+06:30AM The Amazing World of Gumball - The Third; The Debt  
+07:00AM Teen Titans Go! - Mo' Money Mo' Problems  
+07:15AM The Amazing World of Gumball - The Parents  
+07:30AM The Amazing World of Gumball - The Nemesis; The Crew  
+08:00AM Teen Titans Go! - Cat's Fancy; TV Knight 3  
+08:30AM Teen Titans Go! - Dignity of Teeth; Leg Day  
+09:00AM Teen Titans Go! - The Scoop; Legendary Sandwich  
+09:30AM Teen Titans Go! - Driver's Ed; Dog Hand  
+10:00AM Teen Titans Go! - Chicken in the Cradle  
+10:15AM The Amazing World of Gumball - The Intelligence  
+10:30AM The Amazing World of Gumball - The Coach; The Joy  
+11:00AM Teen Titans Go! - Mo' Money Mo' Problems  
+11:15AM The Amazing World of Gumball - The Founder  
+11:30AM The Amazing World of Gumball - The Re-Run; The Disaster  
+12:00PM Teen Titans Go! - TV Knight 3; Real Magic  
 01:15PM Unikitty! - Buggin' Out  
 01:30PM Unikitty! - Pet Pet; License to Punch  
 02:15PM We Bare Bears - Bear Cleanse  
@@ -72,10 +68,16 @@ For missing time slots on July 2nd and/or after: OK K.O.! Let's Be Heroes
 03:30PM OK K.O.! Let's Be Heroes - Lord Cowboy Darrell; Your World Is an Illusion  
 04:15PM Craig of the Creek - Itch to Explore  
 04:30PM Craig of the Creek - You're It; Jessica Goes to the Creek  
+05:15PM The Amazing World of Gumball - The Schooling  
+05:30PM The Amazing World of Gumball - The Test; The Code  
 
 ### Tuesday, June 26th
 06:00AM Steven Universe - Full Disclosure  
 06:15AM Ben 10 - Ye Olde Laser Duel  
+06:30AM The Amazing World of Gumball - The Pressure; The Painting  
+07:15AM The Amazing World of Gumball - The Brain  
+07:30AM The Amazing World of Gumball - The Signature; The Gift  
+10:15AM The Amazing World of Gumball - The Parents  
 01:15PM Unikitty! - Chair  
 01:30PM Unikitty! - Little Prince Puppycorn; R & Arr  
 02:15PM We Bare Bears - Fashion Bears  
