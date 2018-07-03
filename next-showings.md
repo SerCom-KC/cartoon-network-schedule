@@ -1,61 +1,17 @@
 ## DISCLAIMER
 **This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
 
-_Last Update: July 2, 2018 at 10:33:02 UTC_  
+_Last Update: July 3, 2018 at 10:33:19 UTC_  
 
 ## Missing time slots
 If no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  
-For missing time slots on July 3rd and/or after: Teen Titans Go!  
-For missing time slots on July 4th and/or after: The Amazing World of Gumball, OK K.O.! Let's Be Heroes  
+For missing time slots on July 4th and/or after: Teen Titans Go!  
+For missing time slots on July 5th and/or after: The Amazing World of Gumball, OK K.O.! Let's Be Heroes  
 For missing time slots on July 10th and/or after: Craig of the Creek  
 For missing time slots on July 12th and/or after: We Bare Bears  
-For missing time slots on July 16th and/or after: Unikitty!  
+For missing time slots on July 17th and/or after: Unikitty!  
 
 ## Known schedule
-
-### Monday, July 2nd
-06:00AM Steven Universe - Story for Steven  
-06:15AM Ben 10 - Bon Voyage  
-06:30AM The Amazing World of Gumball - The Kiss; The GI  
-07:00AM OK K.O.! Let's Be Heroes - Special Delivery  
-07:15AM The Amazing World of Gumball - The Romantic  
-07:30AM The Amazing World of Gumball - The Uploads; The Wicked  
-08:00AM OK K.O.! Let's Be Heroes - Wisdom, Strength, and Charisma  
-08:15AM Teen Titans Go! - Two Parter Part 1  
-08:30AM Teen Titans Go! - Two Parter Part 2; Garage Sale  
-09:00AM OK K.O.! Let's Be Heroes - Bittersweet Rivals  
-09:15AM Teen Titans Go! - Terra-ized  
-09:30AM Teen Titans Go! - Burger vs. Burrito; Matched  
-10:00AM OK K.O.! Let's Be Heroes - Are You Ready for Some Megafootball?!  
-10:15AM The Amazing World of Gumball - The Mirror  
-10:30AM The Amazing World of Gumball - The Man; The Bros  
-11:00AM OK K.O.! Let's Be Heroes - Mystery Sleepover  
-11:15AM The Amazing World of Gumball - The Potato  
-11:30AM The Amazing World of Gumball - The Console; The Sorcerer  
-12:00PM OK K.O.! Let's Be Heroes - Special Delivery  
-12:15PM Teen Titans Go! - Serious Business  
-12:30PM Teen Titans Go! - Boys vs Girls; Body Adventure  
-01:00PM OK K.O.! Let's Be Heroes - Wisdom, Strength, and Charisma  
-01:15PM Unikitty! - Kickflip McPuppycorn  
-01:30PM Unikitty! - Crushing Defeat; Too Many Unikittys  
-02:00PM OK K.O.! Let's Be Heroes - Bittersweet Rivals  
-02:15PM We Bare Bears - Coffee Cave  
-02:30PM We Bare Bears - Bunnies; Planet Bears  
-03:00PM OK K.O.! Let's Be Heroes - Are You Ready for Some Megafootball?!  
-03:15PM Teen Titans Go! - Chicken in the Cradle  
-03:30PM Teen Titans Go! - Bro-Pocalypse; TV Knight 2  
-04:00PM OK K.O.! Let's Be Heroes - Mystery Sleepover  
-04:15PM Craig of the Creek - You're It  
-04:30PM Craig of the Creek - Jessica Goes to the Creek; Itch to Explore  
-05:00PM OK K.O.! Let's Be Heroes - Special Delivery  
-05:15PM The Amazing World of Gumball - The Cycle  
-05:30PM The Amazing World of Gumball - The Stars; The Box  
-06:00PM OK K.O.! Let's Be Heroes - Wisdom, Strength, and Charisma  
-06:15PM Teen Titans Go! - Hand Zombie  
-06:30PM Teen Titans Go! - Employee of the Month Redux; Orangins  
-07:00PM OK K.O.! Let's Be Heroes - The So-Bad-Ical; Bittersweet Rivals  
-07:30PM Steven Universe - Now We're Only Falling Apart  
-07:45PM Steven Universe - Cheeseburger Backpack  
 
 ### Tuesday, July 3rd
 06:00AM Steven Universe - Shirt Club  
@@ -81,7 +37,7 @@ For missing time slots on July 16th and/or after: Unikitty!
 12:30PM Teen Titans Go! - Mouth Hole; Hot Garbage  
 01:00PM OK K.O.! Let's Be Heroes - Mystery Sleepover  
 01:15PM Unikitty! - Super Amazing Raft Adventure  
-01:30PM Unikitty! - The Zone; Kitchen Chaos  
+01:30PM Unikitty! - Kitchen Chaos; The Zone  
 02:00PM OK K.O.! Let's Be Heroes - Special Delivery  
 02:15PM We Bare Bears - Panda 2  
 02:30PM We Bare Bears - Dog Hotel; The Kitty  
@@ -96,7 +52,7 @@ For missing time slots on July 16th and/or after: Unikitty!
 05:30PM The Amazing World of Gumball - The Diet; The Grades  
 06:00PM OK K.O.! Let's Be Heroes - Mystery Sleepover  
 06:15PM Teen Titans Go! - Jinxed  
-06:30PM Teen Titans Go! - Hot Salad Water; Brain Percentages  
+06:30PM Teen Titans Go! - Brain Percentages; Hot Salad Water  
 07:00PM OK K.O.! Let's Be Heroes - Point to the Plaza; Special Delivery  
 07:30PM Steven Universe - What's Your Problem?  
 07:45PM Steven Universe - Together Breakfast  
@@ -106,25 +62,57 @@ For missing time slots on July 16th and/or after: Unikitty!
 06:15AM Ben 10 - Screamcatcher  
 06:30AM The Amazing World of Gumball - The Robot; The Picnic  
 07:00AM OK K.O.! Let's Be Heroes - Wisdom, Strength, and Charisma  
+07:15AM The Amazing World of Gumball - The Advice  
+07:30AM The Amazing World of Gumball - The Girlfriend; The Signal  
 08:00AM OK K.O.! Let's Be Heroes - Bittersweet Rivals  
+08:15AM Teen Titans Go! - Pyramid Scheme  
+08:30AM Teen Titans Go! - Finally a Lesson; Arms Race with Legs  
+09:00AM OK K.O.! Let's Be Heroes - Are You Ready for Some Megafootball?!  
+09:15AM Teen Titans Go! - Starfire the Terrible  
+09:30AM Teen Titans Go! - Staring at the Future; Power Moves  
+10:00AM OK K.O.! Let's Be Heroes - Mystery Sleepover  
+10:15AM The Amazing World of Gumball - The Oracle  
+10:30AM The Amazing World of Gumball - The Friend; The Saint  
+11:00AM OK K.O.! Let's Be Heroes - Special Delivery  
+11:15AM The Amazing World of Gumball - The Cycle  
+11:30AM The Amazing World of Gumball - The Stars; The Box  
+12:00PM OK K.O.! Let's Be Heroes - Wisdom, Strength, and Charisma  
+12:15PM Teen Titans Go! - Robin Backwards  
+12:30PM Teen Titans Go! - Smile Bones; Real Boy Adventures  
+01:00PM OK K.O.! Let's Be Heroes - Bittersweet Rivals  
 01:15PM Unikitty! - Tasty Heist  
 01:30PM Unikitty! - Rock Friend; Lab Cat  
+02:00PM OK K.O.! Let's Be Heroes - Are You Ready for Some Megafootball?!  
 02:15PM We Bare Bears - Beehive  
 02:30PM We Bare Bears - Tubin'; Baby Bears Can't Jump  
+03:00PM OK K.O.! Let's Be Heroes - Mystery Sleepover  
+03:15PM Teen Titans Go! - TV Knight 3  
+03:30PM Teen Titans Go! - BBCYFSHIPBDAY; Throne of Bones  
+04:00PM OK K.O.! Let's Be Heroes - Special Delivery  
 04:15PM Craig of the Creek - Escape from Family Dinner  
 04:30PM Craig of the Creek - Monster in the Garden; Sunday Clothes  
+05:00PM OK K.O.! Let's Be Heroes - Wisdom, Strength, and Charisma  
+05:15PM The Amazing World of Gumball - The Ex  
+05:30PM The Amazing World of Gumball - The Weirdo; The Menu  
+06:00PM OK K.O.! Let's Be Heroes - Bittersweet Rivals  
+06:15PM Teen Titans Go! - BL4Z3  
+06:30PM Teen Titans Go! - Classic Titans; Lication  
+07:00PM OK K.O.! Let's Be Heroes - TKO's House; Are You Ready for Some Megafootball?!  
 07:30PM Steven Universe - The Question  
 07:45PM Steven Universe - Cat Fingers  
 
 ### Thursday, July 5th
 06:00AM Steven Universe - Reformed  
 06:15AM Ben 10 - Creature Feature  
+06:30AM The Amazing World of Gumball - The Secret; The Goons  
+07:00AM OK K.O.! Let's Be Heroes - Mystery Sleepover  
+08:00AM OK K.O.! Let's Be Heroes - Special Delivery  
 01:15PM Unikitty! - Buggin' Out  
 01:30PM Unikitty! - Fire & Nice; Birthday Blowout  
 02:15PM We Bare Bears - Bro Brawl  
 02:30PM We Bare Bears - The Park; Hurricane Hal  
 04:15PM Craig of the Creek - Dog Decider  
-04:30PM Craig of the Creek - Bring Out Your Beast; The Curse  
+04:30PM Craig of the Creek - The Curse; Bring Out Your Beast  
 07:30PM Steven Universe - Made of Honor  
 07:45PM Steven Universe - Serious Steven  
 
@@ -147,7 +135,7 @@ For missing time slots on July 16th and/or after: Unikitty!
 12:00PM Craig of the Creek - Under the Overpass  
 01:00PM Craig of the Creek - The Invitation  
 01:15PM Unikitty! - Action Forest  
-01:30PM Unikitty! - Tasty Heist; Sparkle Matter Matters  
+01:30PM Unikitty! - Sparkle Matter Matters; Tasty Heist  
 02:00PM Craig of the Creek - Vulture's Nest  
 02:15PM We Bare Bears - Jean Jacket  
 02:30PM We Bare Bears - Food Truck; Primal  
@@ -167,8 +155,11 @@ For missing time slots on July 16th and/or after: Unikitty!
 09:00AM Craig of the Creek - Under the Overpass  
 10:00AM Craig of the Creek - The Invitation  
 11:00AM Craig of the Creek - Vulture's Nest  
+12:00PM Craig of the Creek - Kelsey Quest  
+01:00PM Craig of the Creek - JPony  
 01:15PM Unikitty! - Super Amazing Raft Adventure  
 01:30PM Unikitty! - Chair; Kickflip McPuppycorn  
+02:00PM Craig of the Creek - Under the Overpass  
 02:15PM We Bare Bears - Everyday Bears  
 02:30PM We Bare Bears - Shush Ninjas; The Road  
 07:15PM We Bare Bears - The Island  
@@ -190,6 +181,8 @@ For missing time slots on July 16th and/or after: Unikitty!
 01:15PM Unikitty! - Dinner Apart-y  
 01:30PM Unikitty! - Unikitty News!; Film Fest  
 02:15PM We Bare Bears - Panda's Sneeze  
+02:30PM We Bare Bears - Tote Life; Brother Up  
+07:15PM We Bare Bears - The Audition  
 
 ### Friday, July 13th
 06:00AM Steven Universe - Cry for Help  
@@ -210,3 +203,9 @@ For missing time slots on July 16th and/or after: Unikitty!
 06:00AM Steven Universe - Keystone Motel  
 06:15AM Ben 10 - Bounty Ball  
 01:15PM Unikitty! - Birthday Blowout  
+01:30PM Unikitty! - Pet Pet; Kitty Court  
+
+### Tuesday, July 17th
+06:00AM Steven Universe - Onion Friend  
+06:15AM Ben 10 - Fear the Fogg  
+01:15PM Unikitty! - Little Prince Puppycorn  
