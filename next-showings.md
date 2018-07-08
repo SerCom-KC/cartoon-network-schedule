@@ -1,33 +1,33 @@
 ## DISCLAIMER
 **This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
 
-_Last Update: July 7, 2018 at 10:35:14 UTC_  
+_Last Update: July 8, 2018 at 22:39:02 UTC_  
 
 ## Missing time slots
 If no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  
-For missing time slots on July 7th and/or after: Summer Camp Island  
+For missing time slots on July 8th and/or after: Summer Camp Island  
 For missing time slots on July 11th and/or after: The Amazing World of Gumball, Teen Titans Go!, Craig of the Creek  
 For missing time slots on July 15th and/or after: We Bare Bears  
 For missing time slots on July 20th and/or after: Unikitty!  
 
 ## Known schedule
 
-### Saturday, July 7th
-06:00AM Summer Camp Island - The First Day; Monster Babies  
-06:30AM Summer Camp Island - Saxophone Come Home; Chocolate Money Badgers  
-07:00AM Summer Camp Island - Pajama Pajimjams; Oscar & Hedgehog's Melody  
-07:30AM Summer Camp Island - Ghost the Boy; Feeling Spacey  
-08:00AM Summer Camp Island - The Basketball Liaries; Computer Vampire  
-08:30AM Summer Camp Island - Time Traveling Quick Pants; Popular Banana Split  
-09:00AM Summer Camp Island - Moon Problems; It's My Party  
-09:30AM Summer Camp Island - Ice Cream Headache; Monster Visit  
-10:00AM Summer Camp Island - Pepper's Blanket Is Missing; Hedgehog Werewolf  
-10:30AM Summer Camp Island - Fuzzy Pink Time Babies; Mr. Softball  
-11:00AM Summer Camp Island - The First Day; Monster Babies  
-11:30AM Summer Camp Island - Saxophone Come Home; Chocolate Money Badgers  
-12:00PM Summer Camp Island - Oscar & Hedgehog's Melody; Pajama Pajimjams  
-12:30PM Summer Camp Island - Ghost the Boy; Feeling Spacey  
-01:00PM Summer Camp Island - Computer Vampire; The Basketball Liaries  
+### Sunday, July 8th
+06:00AM Summer Camp Island - Hedgehog Werewolf; Pepper's Blanket Is Missing  
+06:30AM Summer Camp Island - Fuzzy Pink Time Babies; Mr. Softball  
+07:00AM Summer Camp Island - Monster Babies; The First Day  
+07:30AM Summer Camp Island - Saxophone Come Home; Chocolate Money Badgers  
+08:00AM Summer Camp Island - Oscar & Hedgehog's Melody; Pajama Pajimjams  
+08:30AM Summer Camp Island - Ghost the Boy; Feeling Spacey  
+09:00AM Summer Camp Island - The Basketball Liaries; Computer Vampire  
+09:30AM Summer Camp Island - Popular Banana Split; Time Traveling Quick Pants  
+10:00AM Summer Camp Island - Moon Problems; It's My Party  
+10:30AM Summer Camp Island - Monster Visit; Ice Cream Headache  
+11:00AM Summer Camp Island - Pepper's Blanket Is Missing; Hedgehog Werewolf  
+11:30AM Summer Camp Island - Mr. Softball; Fuzzy Pink Time Babies  
+12:00PM Summer Camp Island - The First Day; Monster Babies  
+12:30PM Summer Camp Island - Saxophone Come Home; Chocolate Money Badgers  
+01:00PM Summer Camp Island - Oscar & Hedgehog's Melody; Pajama Pajimjams  
 
 ### Monday, July 9th
 06:00AM Steven Universe - Rising Tides; Crashing Skies  
@@ -53,7 +53,7 @@ For missing time slots on July 20th and/or after: Unikitty!
 12:30PM Teen Titans Go! - Kicking a Ball and Pretending to be Hurt; Head Fruit  
 01:00PM Craig of the Creek - The Invitation  
 01:15PM Unikitty! - Action Forest  
-01:30PM Unikitty! - Sparkle Matter Matters; Tasty Heist  
+01:30PM Unikitty! - Tasty Heist; Sparkle Matter Matters  
 02:00PM Craig of the Creek - Vulture's Nest  
 02:15PM We Bare Bears - Jean Jacket  
 02:30PM We Bare Bears - Food Truck; Primal  
@@ -86,13 +86,13 @@ For missing time slots on July 20th and/or after: Unikitty!
 09:30AM Teen Titans Go! - Uncle Jokes; Mas y Menos  
 10:00AM Craig of the Creek - The Invitation  
 10:15AM The Amazing World of Gumball - The Others  
-10:30AM The Amazing World of Gumball - The Gift; The Signature  
+10:30AM The Amazing World of Gumball - The Signature; The Gift  
 11:00AM Craig of the Creek - Vulture's Nest  
 11:15AM The Amazing World of Gumball - The Best  
 11:30AM The Amazing World of Gumball - The List; The Worst  
 12:00PM Craig of the Creek - Kelsey Quest  
 12:15PM Teen Titans Go! - Operation Tin Man  
-12:30PM Teen Titans Go! - Campfire Stories; The Hive Five  
+12:30PM Teen Titans Go! - The Hive Five; Campfire Stories  
 01:00PM Craig of the Creek - JPony  
 01:15PM Unikitty! - Super Amazing Raft Adventure  
 01:30PM Unikitty! - Kickflip McPuppycorn; License to Punch  
@@ -108,7 +108,7 @@ For missing time slots on July 20th and/or after: Unikitty!
 05:30PM The Amazing World of Gumball - The Lady; The Sucker  
 06:00PM Craig of the Creek - JPony  
 06:15PM Teen Titans Go! - Demon Prom  
-06:30PM Teen Titans Go! - BBCYFSHIPBDAY; Mo' Money Mo' Problems  
+06:30PM Teen Titans Go! - Mo' Money Mo' Problems; BBCYFSHIPBDAY  
 07:00PM Craig of the Creek - Under the Overpass  
 07:15PM We Bare Bears - The Island  
 07:30PM We Bare Bears - Baby Bears on a Plane; Bear Flu  
@@ -161,11 +161,11 @@ For missing time slots on July 20th and/or after: Unikitty!
 03:30PM Adventure Time - Ricardio the Heart Guy; Business Time  
 
 ### Sunday, July 15th
-02:00PM We Bare Bears - Jean Jacket; Hibernation  
+02:00PM We Bare Bears - Hibernation; Jean Jacket  
 03:00PM OK K.O.! Let's Be Heroes - Are You Ready for Some Megafootball?!; Bittersweet Rivals  
 03:30PM OK K.O.! Let's Be Heroes - Special Delivery; Mystery Sleepover  
 04:00PM The Powerpuff Girls - Ragnarock and Roll; Blundercup  
-04:30PM Unikitty! - Tasty Heist; Super Amazing Raft Adventure  
+04:30PM Unikitty! - Super Amazing Raft Adventure; Tasty Heist  
 
 ### Monday, July 16th
 06:00AM Steven Universe - Keystone Motel  
@@ -206,3 +206,9 @@ For missing time slots on July 20th and/or after: Unikitty!
 03:30PM Adventure Time - Wizard; Evicted!  
 06:00PM Cartoon Network Special -   
 07:00PM Cartoon Network Special -   
+
+### Sunday, July 22nd
+03:00PM OK K.O.! Let's Be Heroes - Wisdom, Strength, and Charisma; Bittersweet Rivals  
+03:30PM OK K.O.! Let's Be Heroes - Mystery Sleepover; Are You Ready for Some Megafootball?!  
+04:00PM Cartoon Network Special -   
+06:00PM Cartoon Network Special -   
