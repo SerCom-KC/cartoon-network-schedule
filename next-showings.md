@@ -1,43 +1,19 @@
 ## DISCLAIMER
 **This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
 
-_Last Update: July 22, 2018 at 10:41:29 UTC_  
+_Last Update: July 23, 2018 at 10:41:40 UTC_  
 
 ## Missing time slots
 If no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  
-For missing time slots on July 24th and/or after: The Amazing World of Gumball  
 For missing time slots on July 25th and/or after: Unikitty!  
-For missing time slots on July 26th and/or after: Teen Titans Go!  
-For missing time slots on July 27th and/or after: Cartoon Network Special, Summer Camp Island  
+For missing time slots on July 26th and/or after: The Amazing World of Gumball  
+For missing time slots on July 27th and/or after: Summer Camp Island  
+For missing time slots on July 28th and/or after: Teen Titans Go!  
+For missing time slots on July 29th and/or after: Cartoon Network Special  
 For missing time slots on July 31st and/or after: We Bare Bears  
-For missing time slots on August 2nd and/or after: Craig of the Creek  
+For missing time slots on August 3rd and/or after: Craig of the Creek  
 
 ## Known schedule
-
-### Sunday, July 22nd
-06:00AM The Amazing World of Gumball - The Night; The Matchmaker  
-06:30AM The Amazing World of Gumball - The Misunderstandings; The Grades  
-07:00AM The Amazing World of Gumball - The Roots  
-07:15AM Cartoon Network Special - The Amazing World of Gumball: Gumball's Nemesis Part 2  
-08:00AM Teen Titans Go! - Mo' Money Mo' Problems; TV Knight 3  
-08:30AM Teen Titans Go! - Chicken in the Cradle; The Scoop  
-09:00AM Teen Titans Go! - Legs; Breakfast Cheese  
-09:30AM Teen Titans Go! - Waffles; Opposites; Little Buddies  
-10:00AM Teen Titans Go! - Birds; Be Mine  
-10:30AM Teen Titans Go! - Brain Food; In and Out  
-11:00AM Cartoon Network Special - Teen Titans Go!: Origins  
-11:45AM The Amazing World of Gumball - The Potion  
-12:00PM The Amazing World of Gumball - The Spinoffs; The Transformation  
-12:30PM The Amazing World of Gumball - The Ad; The Understanding  
-01:00PM Summer Camp Island - It's My Party; Moon Problems  
-01:30PM Summer Camp Island - Monster Visit; Ice Cream Headache  
-02:00PM Cartoon Network Movie - Kung Fu Panda 2  
-04:00PM Cartoon Network Special - Steven Universe: Beach-a-Palooza  
-05:00PM The Amazing World of Gumball - The Uncle; The Compilation  
-05:30PM The Amazing World of Gumball - The Re-Run; The Disaster  
-06:00PM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
-07:00PM Craig of the Creek - Monster in the Garden; The Future is Cardboard  
-07:30PM Craig of the Creek - The Curse; The Brood  
 
 ### Monday, July 23rd
 06:00AM Steven Universe - Sadie's Song  
@@ -91,6 +67,8 @@ For missing time slots on August 2nd and/or after: Craig of the Creek
 09:00AM Unikitty! - Brawl Bot  
 09:15AM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
 10:00AM Unikitty! - Beach Daze  
+10:15AM The Amazing World of Gumball - The Blame  
+10:30AM The Amazing World of Gumball - The Fury; The Detective  
 11:00AM Unikitty! - Big Pup, Little Problem  
 11:15AM Summer Camp Island - Mr. Softball  
 11:30AM Summer Camp Island - Fuzzy Pink Time Babies; The First Day  
@@ -117,12 +95,15 @@ For missing time slots on August 2nd and/or after: Craig of the Creek
 ### Wednesday, July 25th
 06:00AM Steven Universe - When It Rains  
 06:15AM Ben 10 - The Charm Offensive  
+06:30AM The Amazing World of Gumball - The Treasure; The Skull  
 07:00AM Unikitty! - Beach Daze  
+07:15AM The Amazing World of Gumball - The Menu  
+07:30AM The Amazing World of Gumball - The Heist; The Uncle  
 08:00AM Unikitty! - Big Pup, Little Problem  
 08:15AM Cartoon Network Special - Teen Titans Go!: Robin vs. Kid Flash  
 09:00AM Unikitty! - Tragic Magic  
 09:15AM Teen Titans Go! - Two Bumble Bees and a Wasp  
-09:30AM Teen Titans Go! - Cool School; Video Game References  
+09:30AM Teen Titans Go! - Video Game References; Cool School  
 10:00AM Unikitty! - Dancer Danger  
 10:15AM Cartoon Network Special - The Amazing World of Gumball: Flashback  
 11:15AM Summer Camp Island - Monster Babies  
@@ -143,14 +124,18 @@ For missing time slots on August 2nd and/or after: Craig of the Creek
 ### Thursday, July 26th
 06:00AM Steven Universe - Back to the Barn  
 06:15AM Ben 10 - Double Hex  
+06:30AM The Amazing World of Gumball - The Apology; The Words  
+07:15AM The Amazing World of Gumball - The Petals  
+07:30AM The Amazing World of Gumball - The Best; The Worst  
 08:15AM Teen Titans Go! - BBCYFSHIPBDAY  
 08:30AM Teen Titans Go! - Throne of Bones; Demon Prom  
 09:15AM Teen Titans Go! - Kicking a Ball and Pretending to be Hurt  
 09:30AM Teen Titans Go! - Operation Tin Man; Nean  
+10:15AM The Amazing World of Gumball - The Stories  
 11:15AM Summer Camp Island - Pajama Pajimjams  
 11:30AM Summer Camp Island - Feeling Spacey; Oscar & Hedgehog's Melody  
 12:15PM Teen Titans Go! - Booty Scooty  
-12:30PM Teen Titans Go! - Operation Dude Rescue Part 2  
+12:30PM Teen Titans Go! - Operation Dude Rescue Part 2; Operation Dude Rescue Part 1  
 01:15PM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
 02:15PM Cartoon Network Special - We Bare Bears: Outdoor Adventures  
 03:15PM Summer Camp Island - Mr. Softball  
@@ -166,14 +151,29 @@ For missing time slots on August 2nd and/or after: Craig of the Creek
 06:15AM Ben 10 - Ye Olde Laser Duel  
 07:15AM Cartoon Network Special - The Amazing World of Gumball: Richard's Appetite  
 08:15AM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
+09:15AM Teen Titans Go! - The Hive Five  
+09:30AM Teen Titans Go! - Some of Their Parts; And the Award for Sound Design Goes to Rob  
 11:15AM Summer Camp Island - Ghost the Boy  
-11:30AM Summer Camp Island - Computer Vampire  
+11:30AM Summer Camp Island - The Basketball Liaries; Computer Vampire  
+12:15PM Teen Titans Go! - Who's Laughing Now  
+12:30PM Teen Titans Go! - Snuggle Time; Oregon Trail  
 01:15PM Cartoon Network Special - Teen Titans Go!: Origins  
 02:15PM We Bare Bears - Viral Video  
 02:30PM We Bare Bears - Jean Jacket; Burrito  
+03:15PM Summer Camp Island - Monster Babies  
+03:30PM Summer Camp Island - Chocolate Money Badgers; Saxophone Come Home  
 04:15PM Craig of the Creek - Jessica Goes to the Creek  
 04:30PM Craig of the Creek - The Final Book; Too Many Treasures  
 06:15PM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
+07:15PM Cartoon Network Special - We Bare Bears: Basketbears  
+
+### Saturday, July 28th
+06:00AM Teen Titans Go! - Bottle Episode; BL4Z3  
+10:00AM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
+02:00PM Cartoon Network Special - Teen Titans Go!: Island Adventures  
+
+### Sunday, July 29th
+10:00AM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
 
 ### Monday, July 30th
 06:00AM Steven Universe - The Answer  
@@ -192,7 +192,7 @@ For missing time slots on August 2nd and/or after: Craig of the Creek
 04:30PM Craig of the Creek - Sunday Clothes; Escape from Family Dinner  
 05:00PM We Bare Bears - Googs  
 06:00PM We Bare Bears - Paperboyz  
-07:00PM We Bare Bears - Bear Squad; Bro Brawl  
+07:00PM We Bare Bears - Bro Brawl; Bear Squad  
 07:30PM We Bare Bears - Hurricane Hal; The Park  
 
 ### Tuesday, July 31st
@@ -216,11 +216,13 @@ For missing time slots on August 2nd and/or after: Craig of the Creek
 06:00AM Steven Universe - Message Received  
 06:15AM Ben 10 - The Charm Offensive  
 04:15PM Craig of the Creek - The Brood  
-04:30PM Craig of the Creek - Under the Overpass  
+04:30PM Craig of the Creek - Under the Overpass; The Invitation  
 
 ### Friday, August 3rd
 06:00AM Steven Universe - Log Date 7 15 2  
 06:15AM Ben 10 - Double Hex  
+04:15PM Craig of the Creek - Vulture's Nest  
+04:30PM Craig of the Creek - Wildernessa; Kelsey Quest  
 
 ### Saturday, August 4th
 12:00PM Ben 10 - Double Hex  
@@ -229,6 +231,12 @@ For missing time slots on August 2nd and/or after: Craig of the Creek
 05:00PM Cartoon Network Movie -   
 
 ### Sunday, August 5th
-06:00AM Ben 10 - Ben Again and Again; Ye Olde Laser Duel  
+06:00AM Ben 10 - Ye Olde Laser Duel; Ben Again and Again  
 12:00PM Cartoon Network Movie -   
 04:00PM The Powerpuff Girls - Blundercup; Ragnarock and Roll  
+
+### Monday, August 6th
+06:00AM Steven Universe - Super Watermelon Island  
+02:45PM Ben 10 - Out to Launch  
+03:00PM OK K.O.! Let's Be Heroes - My Dad Can Beat up Your Dad; A Hero's Fate  
+03:30PM OK K.O.! Let's Be Heroes - Let's Have a Stakeout; You Get Me  
