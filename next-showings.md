@@ -1,58 +1,18 @@
 ## DISCLAIMER
 **This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**
 
-_Last Update: July 30, 2018 at 10:44:36 UTC_  
+_Last Update: July 31, 2018 at 10:45:32 UTC_  
 
 ## Missing time slots
 If no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  
-For missing time slots on July 31st and/or after: We Bare Bears  
-For missing time slots on August 1st and/or after: The Amazing World of Gumball, Teen Titans Go!  
-For missing time slots on August 8th and/or after: Craig of the Creek  
-For missing time slots on August 9th and/or after: Summer Camp Island  
-For missing time slots on August 10th and/or after: OK K.O.! Let's Be Heroes  
+For missing time slots on August 1st and/or after: We Bare Bears  
+For missing time slots on August 2nd and/or after: The Amazing World of Gumball, Teen Titans Go!  
+For missing time slots on August 9th and/or after: Craig of the Creek  
+For missing time slots on August 10th and/or after: Summer Camp Island  
 For missing time slots on August 12th and/or after: Unikitty!  
+For missing time slots on August 13th and/or after: OK K.O.! Let's Be Heroes  
 
 ## Known schedule
-
-### Monday, July 30th
-06:00AM Steven Universe - The Answer  
-06:15AM Ben 10 - Chicken Nuggets of Wisdom  
-06:30AM The Amazing World of Gumball - The Bumpkin; The Flakers  
-07:00AM We Bare Bears - Go Fish  
-07:15AM The Amazing World of Gumball - The Lady  
-07:30AM The Amazing World of Gumball - The Sucker; The Cage  
-08:00AM We Bare Bears - Teacher's Pet  
-08:15AM Teen Titans Go! - The Self-Indulgent 200th Episode Spectacular!  
-08:45AM Teen Titans Go! - Beast Girl  
-09:00AM We Bare Bears - Googs  
-09:15AM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
-10:00AM We Bare Bears - Paperboyz  
-10:15AM The Amazing World of Gumball - The Test  
-10:30AM The Amazing World of Gumball - The Slide; The Loophole  
-11:00AM We Bare Bears - Bear Squad  
-11:15AM Summer Camp Island - Pajama Pajimjams  
-11:30AM Summer Camp Island - Oscar & Hedgehog's Melody; Feeling Spacey  
-12:00PM We Bare Bears - Lil' Squid  
-12:15PM Teen Titans Go! - Mo' Money Mo' Problems  
-12:30PM Teen Titans Go! - Justice League's Next Top Talent Idol Star  
-01:00PM We Bare Bears - I, Butler  
-01:15PM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
-02:00PM We Bare Bears - Family Troubles  
-02:15PM Teen Titans Go! - TV Knight 3  
-02:30PM Teen Titans Go! - Two Parter Part 2; Two Parter Part 1  
-03:00PM We Bare Bears - Go Fish  
-03:15PM OK K.O.! Let's Be Heroes - Special Delivery  
-03:30PM OK K.O.! Let's Be Heroes - Plaza Film Festival; Be a Team  
-04:00PM We Bare Bears - Teacher's Pet  
-04:15PM Craig of the Creek - JPony  
-04:30PM Craig of the Creek - Sunday Clothes; Escape from Family Dinner  
-05:00PM We Bare Bears - Googs  
-05:15PM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
-06:00PM We Bare Bears - Paperboyz  
-06:15PM Teen Titans Go! - The Scoop  
-06:30PM Teen Titans Go! - Bro-Pocalypse; Chicken in the Cradle  
-07:00PM We Bare Bears - Bro Brawl; Bear Squad  
-07:30PM We Bare Bears - Hurricane Hal; The Park  
 
 ### Tuesday, July 31st
 06:00AM Steven Universe - Steven's Birthday  
@@ -93,39 +53,62 @@ For missing time slots on August 12th and/or after: Unikitty!
 06:15PM Teen Titans Go! - Mouth Hole  
 06:30PM Teen Titans Go! - Crazy Day; Robin Backwards  
 07:00PM We Bare Bears - Teacher's Pet; Viral Video  
+07:30PM We Bare Bears - Burrito; Our Stuff  
 
 ### Wednesday, August 1st
 06:00AM Steven Universe - It Could've Been Great  
 06:15AM Ben 10 - King Koil  
 06:30AM The Amazing World of Gumball - The Storm; The Pony  
+07:00AM We Bare Bears - Googs  
 07:15AM The Amazing World of Gumball - The Father  
 07:30AM The Amazing World of Gumball - The Neighbor; The Cringe  
+08:00AM We Bare Bears - Paperboyz  
 08:15AM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
+09:00AM We Bare Bears - Bear Squad  
 09:15AM Teen Titans Go! - Cat's Fancy  
 09:30AM Teen Titans Go! - Dignity of Teeth; Leg Day  
+10:00AM We Bare Bears - Lil' Squid  
 10:15AM The Amazing World of Gumball - The Outside  
 10:30AM The Amazing World of Gumball - The Vase; The Matchmaker  
+11:00AM We Bare Bears - I, Butler  
 11:15AM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
+12:00PM We Bare Bears - Family Troubles  
 12:15PM Teen Titans Go! - Chicken in the Cradle  
-12:30PM Teen Titans Go! - The Overbite; Riding the Dragon  
+12:30PM Teen Titans Go! - Riding the Dragon; The Overbite  
+01:00PM We Bare Bears - Go Fish  
 01:15PM Unikitty! - Big Pup, Little Problem  
 01:30PM Unikitty! - Kickflip McPuppycorn; Dinner Apart-y  
+02:00PM We Bare Bears - Teacher's Pet  
 02:15PM Teen Titans Go! - Smile Bones  
-02:30PM Teen Titans Go! - Hose Water  
+02:30PM Teen Titans Go! - Hose Water; Yearbook Madness  
+03:00PM We Bare Bears - Googs  
 03:15PM OK K.O.! Let's Be Heroes - Bittersweet Rivals  
 03:30PM OK K.O.! Let's Be Heroes - The So-Bad-Ical; Your World Is an Illusion  
+04:00PM We Bare Bears - Paperboyz  
 04:15PM Craig of the Creek - Bring Out Your Beast  
 04:30PM Craig of the Creek - The Future is Cardboard; Lost in the Sewer  
+05:00PM We Bare Bears - Bear Squad  
 05:15PM The Amazing World of Gumball - The List  
 05:30PM The Amazing World of Gumball - The News; The Rival  
+06:00PM We Bare Bears - Lil' Squid  
 06:15PM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
+07:00PM We Bare Bears - Jean Jacket; I, Butler  
 
 ### Thursday, August 2nd
 06:00AM Steven Universe - Message Received  
 06:15AM Ben 10 - The Charm Offensive  
+06:30AM The Amazing World of Gumball - The Sidekick; The Dream  
+07:15AM The Amazing World of Gumball - The Pact  
+07:30AM The Amazing World of Gumball - The Faith; The Candidate  
+08:15AM Teen Titans Go! - Double Trouble  
+08:30AM Teen Titans Go! - Dude Relax!; Laundry Day  
+09:15AM Teen Titans Go! - Croissant  
+09:30AM Teen Titans Go! - I'm the Sauce; Spice Game  
 10:15AM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
 11:15AM Summer Camp Island - Monster Visit  
 11:30AM Summer Camp Island - Pepper's Blanket Is Missing; Ice Cream Headache  
+12:15PM Teen Titans Go! - TV Knight  
+12:30PM Teen Titans Go! - The Streak Part 1; The Streak Part 2  
 01:15PM Unikitty! - Beach Daze  
 01:30PM Unikitty! - Chair; Unikitty News!  
 02:15PM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
@@ -133,6 +116,8 @@ For missing time slots on August 12th and/or after: Unikitty!
 03:30PM OK K.O.! Let's Be Heroes - TKO's House; Point to the Plaza  
 04:15PM Craig of the Creek - The Invitation  
 04:30PM Craig of the Creek - Under the Overpass; The Brood  
+05:15PM The Amazing World of Gumball - The Lady  
+05:30PM The Amazing World of Gumball - The Vegging; The Sucker  
 
 ### Friday, August 3rd
 06:00AM Steven Universe - Log Date 7 15 2  
@@ -157,7 +142,7 @@ For missing time slots on August 12th and/or after: Unikitty!
 05:00PM Cartoon Network Movie -   
 
 ### Sunday, August 5th
-06:00AM Ben 10 - Ben Again and Again; Ye Olde Laser Duel  
+06:00AM Ben 10 - Ye Olde Laser Duel; Ben Again and Again  
 11:00AM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
 12:00PM Cartoon Network Movie -   
 03:00PM Summer Camp Island - Popular Banana Split; The First Day  
@@ -188,7 +173,7 @@ For missing time slots on August 12th and/or after: Unikitty!
 02:45PM Ben 10 - Battle at Biggie Box  
 03:00PM OK K.O.! Let's Be Heroes - Rad Likes Robots; You Are Rad  
 03:30PM OK K.O.! Let's Be Heroes - KO's Video Channel; Just Be a Pebble  
-04:00PM Craig of the Creek - Lost in the Sewer; Jessica Goes to the Creek  
+04:00PM Craig of the Creek - Jessica Goes to the Creek; Lost in the Sewer  
 04:30PM Craig of the Creek - The Future is Cardboard; The Final Book  
 
 ### Wednesday, August 8th
@@ -201,22 +186,27 @@ For missing time slots on August 12th and/or after: Unikitty!
 03:00PM OK K.O.! Let's Be Heroes - Presenting Joe Cuppa; The Power Is Yours!  
 03:30PM OK K.O.! Let's Be Heroes - Glory Days; We've Got Pests  
 04:00PM Craig of the Creek - Too Many Treasures; The Brood  
+04:30PM Craig of the Creek - Under the Overpass; Wildernessa  
 
 ### Thursday, August 9th
 06:00AM Steven Universe - Barn Mates  
 11:00AM Summer Camp Island - It's My Party; Moon Problems  
+11:30AM Summer Camp Island - Ice Cream Headache; Monster Visit  
 02:00PM Unikitty! - Buggin' Out; Crushing Defeat  
 02:30PM Unikitty! - Chair  
 02:45PM Ben 10 - Mayhem in Mascot  
 03:00PM OK K.O.! Let's Be Heroes - Plazalympics; Legends of Mr. Gar  
 03:30PM OK K.O.! Let's Be Heroes - Know Your Mom; We Got Hacked  
+04:00PM Craig of the Creek - The Invitation  
 
 ### Friday, August 10th
 06:00AM Steven Universe - Hit the Diamond  
+11:00AM Summer Camp Island - Hedgehog Werewolf  
 02:00PM Unikitty! - Kickflip McPuppycorn; Hide N' Seek  
 02:30PM Unikitty! - Super Amazing Raft Adventure  
 02:45PM Ben 10 - Screamcatcher  
 03:00PM OK K.O.! Let's Be Heroes - Back in Red Action; We're Captured  
+03:30PM OK K.O.! Let's Be Heroes - Let's Take a Moment; Face Your Fears  
 06:00PM Adventure Time - Diamonds and Lemons  
 06:15PM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
 
@@ -238,4 +228,9 @@ For missing time slots on August 12th and/or after: Unikitty!
 11:00AM Cartoon Network Special - Wacky Races: A Race Through Time  
 02:45PM Ben 10 - Assault on Pancake Palace  
 03:00PM Cartoon Network Special - OK K.O.! Let's Be Heroes: Villains' Night  
+03:30PM OK K.O.! Let's Be Heroes - You Have To Care  
 06:15PM Cartoon Network Special - The Teen Titans Go! Hollywood Special  
+
+### Tuesday, August 14th
+06:00AM Steven Universe - Drop Beat Dad  
+02:45PM Ben 10 - High Stress Express  
