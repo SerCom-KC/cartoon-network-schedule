@@ -172,7 +172,15 @@ def guessNextShowings():
                 airtime_str = show.xpath('@time')[0] + ' ' + show.xpath('@date')[0] + ' ' + airtime_year
                 airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(airtime_str, '%I:%M %p %B %d %Y'))
                 airtime = int(airtime_dt.timestamp())
-                nextshowings.append({"show": title, "episode": episodeName, "rating": rating, "airtime": airtime})
+                thumbnail = None
+                try:
+                    url = "https://s3.amazonaws.com/cn-orchestrator/%s_001_1280x720.jpg" % (show.xpath('@episodeId')[0])
+                    response = s.get(url, timeout=10, stream=True)
+                    if response.status_code == 200:
+                        thumbnail = url
+                except Exception as e:
+                    print('\033[33mFailed to check thumbnail availability of showId=' + element["showId"] + ', episodeId=' + show.xpath('@episodeId')[0] + '\033[0m')
+                nextshowings.append({"show": title, "episode": episodeName, "rating": rating, "airtime": airtime, "thumbnail": thumbnail})
             if guessmissing['slashcount'][element['title']] >= 30:
                 date_str = airtime_dt.strftime('%Y-%m-%d')
                 flag = True
@@ -191,7 +199,7 @@ def guessNextShowings():
     file.write(json.dumps(result))
     file.close()
     print('Generating human-readable output')
-    result = "## DISCLAIMER\n**This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**\n\n"
+    result = "## DISCLAIMER\n**This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**  \n**SPOILER ALERT: Links on episode titles leads to a thumbnail of the episode. These thumbnails may be either kind of nonsense (because they were automatically taken), full of spoilers (please add proper spoiler tags when sharing them), or incorrect at all (especially for back to back showings). YOU HAVE BEEN WARNED.**\n\n"
     result += '_Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + '_  \n\n'
     if guessmissing['dates'] != []:
         result += '## Missing time slots\nIf no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  \n'
@@ -211,7 +219,11 @@ def guessNextShowings():
         if date != date_str:
             result += '\n### ' + date_str + '\n'
             date = date_str
-        result += airtime_dt.strftime('%I:%M%p ' + show['show'] + ' - ' + show['episode'] + '  \n')
+        result += airtime_dt.strftime('%I:%M%p ' + show['show'] + ' - ')
+        if show["thumbnail"]:
+            result += '[' + show['episode'] + '](' + show["thumbnail"] + ')  \n'
+        else:
+            result += show['episode'] + '  \n'
     file = open('master/next-showings.md', 'w+')
     file.write(result)
     file.close()
