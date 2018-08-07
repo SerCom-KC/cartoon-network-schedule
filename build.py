@@ -200,7 +200,7 @@ def guessNextShowings():
     file.close()
     print('Generating human-readable output')
     result = "## DISCLAIMER\n**This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**  \n**SPOILER ALERT: Links on episode titles leads to a thumbnail of the episode. These thumbnails may be either kind of nonsense (because they were automatically taken), full of spoilers (please add proper spoiler tags when sharing them), or incorrect at all (especially for back to back showings). YOU HAVE BEEN WARNED.**\n\n"
-    result += '_Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + '_  \n\n'
+    result += '_Last Update: ' + time.strftime('%B ') + time.strftime('%d, %Y at %H:%M:%S %Z').lstrip('0') + '_ ![](https://api.travis-ci.org/' + os.environ['TRAVIS_REPO_SLUG'] + '.svg?branch=source)  \n\n'
     if guessmissing['dates'] != []:
         result += '## Missing time slots\nIf no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  \n'
         for date in guessmissing['dates']:
