@@ -2,49 +2,16 @@
 **This is an auto-generated page based on upcoming showing data of each series. All data is pulled from official schedule APIs and is correct at time of publication. Some time slots might be missing due to API limits or unknown series identifiers. Please do not contact any Cartoon Network employee on social media regarding any schedule information this page provides.**  
 **SPOILER ALERT: Links on episode titles leads to a thumbnail of the episode. These thumbnails may be either kind of nonsense (because they were automatically taken), full of spoilers (please add proper spoiler tags when sharing them), or incorrect at all (especially for back to back showings). YOU HAVE BEEN WARNED.**
 
-_Last Update: August 26, 2018 at 10:58:29 UTC_ ![](https://api.travis-ci.org/SerCom-KC/cartoon-network-schedule.svg?branch=source)  
+_Last Update: August 27, 2018 at 10:59:22 UTC_ ![](https://api.travis-ci.org/SerCom-KC/cartoon-network-schedule.svg?branch=source)  
 
 ## Missing time slots
 If no upcoming new/returning series exists in the next 2 weeks, the missing time slots might be one of the following:  
-For missing time slots on August 27th and/or after: The Amazing World of Gumball, Teen Titans Go!  
+For missing time slots on August 29th and/or after: The Amazing World of Gumball, Teen Titans Go!  
 For missing time slots on September 3rd and/or after: Adventure Time  
-For missing time slots on September 5th and/or after: Craig of the Creek  
-For missing time slots on September 6th and/or after: Unikitty!, Summer Camp Island  
+For missing time slots on September 6th and/or after: Unikitty!, Craig of the Creek  
+For missing time slots on September 7th and/or after: Summer Camp Island  
 
 ## Known schedule
-
-### Sunday, August 26th
-06:00AM Ben 10 - [Ben Again and Again; Double Hex](https://s3.amazonaws.com/cn-orchestrator/2094740_001_1280x720.jpg)  
-06:30AM Mega Man: Fully Charged - [Hard Times; Nice on Ice](https://s3.amazonaws.com/cn-orchestrator/2117359_001_1280x720.jpg)  
-07:00AM Teen Titans Go! - [Oh Yeah!; Inner Beauty of a Cactus](https://s3.amazonaws.com/cn-orchestrator/2105999_001_1280x720.jpg)  
-07:30AM Teen Titans Go! - Friendship; Vegetables  
-08:00AM Teen Titans Go! - [Two Parter Part 2; Two Parter Part 1](https://s3.amazonaws.com/cn-orchestrator/2054785_001_1280x720.jpg)  
-08:30AM Teen Titans Go! - [The Overbite; Riding the Dragon](https://s3.amazonaws.com/cn-orchestrator/2062530_001_1280x720.jpg)  
-09:00AM Teen Titans Go! - [BBSFBDAY!; The Cape](https://s3.amazonaws.com/cn-orchestrator/2062518_001_1280x720.jpg)  
-09:30AM Teen Titans Go! - [Shrimps and Prime Rib; TV Knight](https://s3.amazonaws.com/cn-orchestrator/2104519_001_1280x720.jpg)  
-10:00AM Teen Titans Go! - [Mo' Money Mo' Problems; TV Knight 3](https://s3.amazonaws.com/cn-orchestrator/2142326_001_1280x720.jpg)  
-10:30AM Teen Titans Go! - [Chicken in the Cradle; The Scoop](https://s3.amazonaws.com/cn-orchestrator/2161303_001_1280x720.jpg)  
-11:00AM Teen Titans Go! - [Booby Trap House; Fish Water](https://s3.amazonaws.com/cn-orchestrator/2104518_001_1280x720.jpg)  
-11:30AM Teen Titans Go! - [Operation Dude Rescue Part 2; Bro-Pocalypse; Operation Dude Rescue Part 1](https://s3.amazonaws.com/cn-orchestrator/2062526_001_1280x720.jpg)  
-12:00PM Cartoon Network Special - [Lego Justice League: Gotham City Breakout](https://s3.amazonaws.com/cn-orchestrator/2094155_001_1280x720.jpg)  
-01:45PM Teen Titans Go! - [Tower Renovation](https://s3.amazonaws.com/cn-orchestrator/2167654_001_1280x720.jpg)  
-02:00PM Cartoon Network Special - Adventure Time Stakes  
-03:00PM Summer Camp Island - [Computer Vampire; Mr. Softball](https://s3.amazonaws.com/cn-orchestrator/2139823_001_1280x720.jpg)  
-03:30PM Summer Camp Island - [The Basketball Liaries; Fuzzy Pink Time Babies](https://s3.amazonaws.com/cn-orchestrator/2142258_001_1280x720.jpg)  
-04:00PM The Powerpuff Girls - [Salamander; In the Doghouse](https://s3.amazonaws.com/cn-orchestrator/2160351_001_1280x720.jpg)  
-04:30PM The Amazing World of Gumball - [The Ad; The Origins](https://s3.amazonaws.com/cn-orchestrator/2062761_001_1280x720.jpg)  
-05:00PM The Amazing World of Gumball - [The Cycle](https://s3.amazonaws.com/cn-orchestrator/2089015_001_1280x720.jpg)  
-05:00PM The Amazing World of Gumball - The Understanding; The Origins Part 2  
-05:00PM The Amazing World of Gumball - [The Understanding](https://s3.amazonaws.com/cn-orchestrator/2164873_001_1280x720.jpg)  
-05:30PM The Amazing World of Gumball - [The Stars](https://s3.amazonaws.com/cn-orchestrator/2089017_001_1280x720.jpg)  
-05:30PM The Amazing World of Gumball - [The Disaster; The Re-Run](https://s3.amazonaws.com/cn-orchestrator/2088994_001_1280x720.jpg)  
-05:30PM The Amazing World of Gumball - [The Ad](https://s3.amazonaws.com/cn-orchestrator/2164874_001_1280x720.jpg)  
-06:00PM The Amazing World of Gumball - [The Intelligence; The Potion](https://s3.amazonaws.com/cn-orchestrator/2164820_001_1280x720.jpg)  
-06:00PM Craig of the Creek - [Big Pinchy; The Last Kid in the Creek](https://s3.amazonaws.com/cn-orchestrator/2162111_001_1280x720.jpg)  
-06:30PM The Amazing World of Gumball - [The Cycle; The Console](https://s3.amazonaws.com/cn-orchestrator/2089007_001_1280x720.jpg)  
-06:30PM Craig of the Creek - [Doorway to Helen; Ace of Squares](https://s3.amazonaws.com/cn-orchestrator/2161251_001_1280x720.jpg)  
-07:00PM The Amazing World of Gumball - The Stars; The Box  
-07:30PM We Bare Bears - [Teacher's Pet; Paperboyz](https://s3.amazonaws.com/cn-orchestrator/2160696_001_1280x720.jpg)  
 
 ### Monday, August 27th
 06:00AM Steven Universe - [The Big Show](https://s3.amazonaws.com/cn-orchestrator/2117167_001_1280x720.jpg)  
@@ -68,20 +35,33 @@ For missing time slots on September 6th and/or after: Unikitty!, Summer Camp Isl
 02:30PM Unikitty! - [The Zone; Action Forest](https://s3.amazonaws.com/cn-orchestrator/2133090_001_1280x720.jpg)  
 03:00PM Ben 10 - [The Charm Offensive](https://s3.amazonaws.com/cn-orchestrator/2094735_001_1280x720.jpg)  
 03:15PM OK K.O.! Let's Be Heroes - [Let's Be Heroes](https://s3.amazonaws.com/cn-orchestrator/2090647_001_1280x720.jpg)  
-03:30PM OK K.O.! Let's Be Heroes - [You're Everybody's Sidekick; Let's Be Friends](https://s3.amazonaws.com/cn-orchestrator/2091037_001_1280x720.jpg)  
+03:30PM OK K.O.! Let's Be Heroes - [Let's Be Friends; You're Everybody's Sidekick](https://s3.amazonaws.com/cn-orchestrator/2091038_001_1280x720.jpg)  
 04:00PM The Amazing World of Gumball - [The Fuss; The Points](https://s3.amazonaws.com/cn-orchestrator/2074677_001_1280x720.jpg)  
 04:30PM The Amazing World of Gumball - [The Bus; The Outside](https://s3.amazonaws.com/cn-orchestrator/2089011_001_1280x720.jpg)  
 05:00PM Craig of the Creek - [Ace of Squares](https://s3.amazonaws.com/cn-orchestrator/2161251_001_1280x720.jpg)  
 05:15PM Craig of the Creek - [JPony](https://s3.amazonaws.com/cn-orchestrator/2159521_001_1280x720.jpg)  
 05:30PM Craig of the Creek - [The Future is Cardboard; Kelsey Quest](https://s3.amazonaws.com/cn-orchestrator/2158813_001_1280x720.jpg)  
-06:00PM Teen Titans Go! - [Jinxed](https://s3.amazonaws.com/cn-orchestrator/2128482_001_1280x720.jpg)  
+06:00PM Teen Titans Go! - [Jinxed; History Lesson](https://s3.amazonaws.com/cn-orchestrator/2062531_001_1280x720.jpg)  
+06:30PM Teen Titans Go! - [The Art of Ninjutsu; Brain Percentages](https://s3.amazonaws.com/cn-orchestrator/2128928_001_1280x720.jpg)  
 07:00PM We Bare Bears - [Hot Sauce; Go Fish](https://s3.amazonaws.com/cn-orchestrator/2159529_001_1280x720.jpg)  
 07:30PM The Amazing World of Gumball - The Rival; The News  
 
 ### Tuesday, August 28th
 06:00AM Steven Universe - [Pool Hopping](https://s3.amazonaws.com/cn-orchestrator/2120455_001_1280x720.jpg)  
+06:15AM The Amazing World of Gumball - [The Pony](https://s3.amazonaws.com/cn-orchestrator/894319_001_1280x720.jpg)  
+06:30AM The Amazing World of Gumball - The Dream; The Sidekick  
+07:00AM The Amazing World of Gumball - [The Gift; The Ollie](https://s3.amazonaws.com/cn-orchestrator/2097634_001_1280x720.jpg)  
+07:30AM The Amazing World of Gumball - [The Parking; The Catfish](https://s3.amazonaws.com/cn-orchestrator/2089013_001_1280x720.jpg)  
+08:00AM Teen Titans Go! - Robin Backwards; Crazy Day  
+08:30AM Teen Titans Go! - Smile Bones; Real Boy Adventures  
+09:00AM Teen Titans Go! - [Career Day; Fish Water](https://s3.amazonaws.com/cn-orchestrator/2104518_001_1280x720.jpg)  
+09:30AM Teen Titans Go! - [TV Knight; BBSFBDAY!](https://s3.amazonaws.com/cn-orchestrator/2104520_001_1280x720.jpg)  
+10:00AM The Amazing World of Gumball - The Quest; The Spoon  
+10:30AM The Amazing World of Gumball - The Car; The Curse  
 11:00AM Summer Camp Island - [It's My Party; Chocolate Money Badgers](https://s3.amazonaws.com/cn-orchestrator/2131008_001_1280x720.jpg)  
 11:30AM Summer Camp Island - [Saxophone Come Home; Moon Problems](https://s3.amazonaws.com/cn-orchestrator/2142256_001_1280x720.jpg)  
+12:00PM Teen Titans Go! - No Power; Sidekick  
+12:30PM Teen Titans Go! - Caged Tiger; Nose Mouth  
 01:00PM Adventure Time - Prisoners of Love; Tree Trunks  
 01:30PM Adventure Time - Ricardio the Heart Guy; Business Time  
 02:00PM Unikitty! - [Kaiju Kitty; Too Many Unikittys](https://s3.amazonaws.com/cn-orchestrator/2158991_001_1280x720.jpg)  
@@ -89,15 +69,27 @@ For missing time slots on September 6th and/or after: Unikitty!, Summer Camp Isl
 03:00PM Ben 10 - [Double Hex](https://s3.amazonaws.com/cn-orchestrator/2094740_001_1280x720.jpg)  
 03:15PM OK K.O.! Let's Be Heroes - [We Messed Up](https://s3.amazonaws.com/cn-orchestrator/2089722_001_1280x720.jpg)  
 03:30PM OK K.O.! Let's Be Heroes - [You're Level 100!; Jethro's All Yours](https://s3.amazonaws.com/cn-orchestrator/2089720_001_1280x720.jpg)  
+04:00PM The Amazing World of Gumball - [The Vase; The Night](https://s3.amazonaws.com/cn-orchestrator/2074679_001_1280x720.jpg)  
+04:30PM The Amazing World of Gumball - The Misunderstandings; The Matchmaker  
 05:00PM Craig of the Creek - [Doorway to Helen](https://s3.amazonaws.com/cn-orchestrator/2161252_001_1280x720.jpg)  
 05:15PM Craig of the Creek - [Ace of Squares](https://s3.amazonaws.com/cn-orchestrator/2161251_001_1280x720.jpg)  
 05:30PM Craig of the Creek - [Vulture's Nest; Lost in the Sewer](https://s3.amazonaws.com/cn-orchestrator/2152893_001_1280x720.jpg)  
+06:00PM Teen Titans Go! - [BL4Z3; Think About Your Future](https://s3.amazonaws.com/cn-orchestrator/2062521_001_1280x720.jpg)  
+06:30PM Teen Titans Go! - [Hot Salad Water; Booty Scooty](https://s3.amazonaws.com/cn-orchestrator/2062523_001_1280x720.jpg)  
 07:00PM We Bare Bears - [Mom App; Teacher's Pet](https://s3.amazonaws.com/cn-orchestrator/2159527_001_1280x720.jpg)  
+07:30PM The Amazing World of Gumball - [The Lady; The List](https://s3.amazonaws.com/cn-orchestrator/2089028_001_1280x720.jpg)  
 
 ### Wednesday, August 29th
 06:00AM Steven Universe - [Letters to Lars](https://s3.amazonaws.com/cn-orchestrator/2117706_001_1280x720.jpg)  
+06:15AM The Amazing World of Gumball - [The Hero](https://s3.amazonaws.com/cn-orchestrator/2000126_001_1280x720.jpg)  
+06:30AM The Amazing World of Gumball - The Tag; The Lesson  
+08:00AM Teen Titans Go! - Yearbook Madness; Hose Water  
+08:30AM Teen Titans Go! - Rocks and Water; Multiple Trick Pony  
+09:00AM Teen Titans Go! - [Justice League's Next Top Talent Idol Star](https://s3.amazonaws.com/cn-orchestrator/2134868_001_1280x720.jpg)  
+09:30AM Teen Titans Go! - [The Streak Part 1; The Streak Part 2](https://s3.amazonaws.com/cn-orchestrator/2109207_001_1280x720.jpg)  
 11:00AM Summer Camp Island - [Pajama Pajimjams; Monster Visit](https://s3.amazonaws.com/cn-orchestrator/2142255_001_1280x720.jpg)  
 11:30AM Summer Camp Island - [Oscar & Hedgehog's Melody; Ice Cream Headache](https://s3.amazonaws.com/cn-orchestrator/2142259_001_1280x720.jpg)  
+12:00PM Teen Titans Go! - Legs; Breakfast Cheese  
 01:00PM Adventure Time - My Two Favorite People; Memories of Boom Boom Mountain  
 01:30PM Adventure Time - Wizard; Evicted!  
 02:00PM Unikitty! - [Rock Friend; Unikitty News!](https://s3.amazonaws.com/cn-orchestrator/2158993_001_1280x720.jpg)  
@@ -108,7 +100,7 @@ For missing time slots on September 6th and/or after: Unikitty!, Summer Camp Isl
 05:00PM Craig of the Creek - [The Last Kid in the Creek](https://s3.amazonaws.com/cn-orchestrator/2162111_001_1280x720.jpg)  
 05:15PM Craig of the Creek - [Doorway to Helen](https://s3.amazonaws.com/cn-orchestrator/2161252_001_1280x720.jpg)  
 05:30PM Craig of the Creek - [The Invitation; Bring Out Your Beast](https://s3.amazonaws.com/cn-orchestrator/2152892_001_1280x720.jpg)  
-07:00PM We Bare Bears - [Crowbar Jones: Origins; Bear Squad](https://s3.amazonaws.com/cn-orchestrator/2160350_001_1280x720.jpg)  
+07:00PM We Bare Bears - [Bear Squad; Crowbar Jones: Origins](https://s3.amazonaws.com/cn-orchestrator/2088757_001_1280x720.jpg)  
 
 ### Thursday, August 30th
 06:00AM Steven Universe - [Can't Go Back](https://s3.amazonaws.com/cn-orchestrator/2117707_001_1280x720.jpg)  
@@ -132,7 +124,7 @@ For missing time slots on September 6th and/or after: Unikitty!, Summer Camp Isl
 11:30AM Summer Camp Island - [Fuzzy Pink Time Babies; The Basketball Liaries](https://s3.amazonaws.com/cn-orchestrator/2157083_001_1280x720.jpg)  
 01:00PM Adventure Time - When Wedding Bells Thaw; Freak City  
 01:30PM Adventure Time - The Duke; Donny  
-02:00PM Unikitty! - [Hide N' Seek; Buggin' Out](https://s3.amazonaws.com/cn-orchestrator/2160897_001_1280x720.jpg)  
+02:00PM Unikitty! - [Buggin' Out; Hide N' Seek](https://s3.amazonaws.com/cn-orchestrator/2141070_001_1280x720.jpg)  
 02:30PM Unikitty! - [Chair; Stuck Together](https://s3.amazonaws.com/cn-orchestrator/2141067_001_1280x720.jpg)  
 03:00PM Ben 10 - [Waterfilter](https://s3.amazonaws.com/cn-orchestrator/2085316_001_1280x720.jpg)  
 03:15PM OK K.O.! Let's Be Heroes - [Just Be a Pebble](https://s3.amazonaws.com/cn-orchestrator/2089719_001_1280x720.jpg)  
@@ -147,7 +139,7 @@ For missing time slots on September 6th and/or after: Unikitty!, Summer Camp Isl
 
 ### Sunday, September 2nd
 06:00AM Ben 10 - [King Koil; The Charm Offensive](https://s3.amazonaws.com/cn-orchestrator/2094735_001_1280x720.jpg)  
-06:30AM Mega Man: Fully Charged - [Running Wild; Tripping the Light Fantastic](https://s3.amazonaws.com/cn-orchestrator/2117363_001_1280x720.jpg)  
+06:30AM Mega Man: Fully Charged - [Tripping the Light Fantastic; Running Wild](https://s3.amazonaws.com/cn-orchestrator/2117364_001_1280x720.jpg)  
 09:00AM Cartoon Network Special - Teen Titans Go!: Island Adventures  
 02:00PM Cartoon Network Movie -   
 04:00PM The Powerpuff Girls - [Small World: Heart to Heartstone Part 4; Small World: Maze Daze Part 3; Small World: Stone Cold Spider Part 2; Small World: Abra-Disaster Part 1](https://s3.amazonaws.com/cn-orchestrator/2152899_001_1280x720.jpg)  
@@ -170,7 +162,7 @@ For missing time slots on September 6th and/or after: Unikitty!, Summer Camp Isl
 06:00AM Steven Universe - [What's Your Problem?](https://s3.amazonaws.com/cn-orchestrator/2128748_001_1280x720.jpg)  
 11:00AM Summer Camp Island - [The First Day; Popular Banana Split](https://s3.amazonaws.com/cn-orchestrator/2141449_001_1280x720.jpg)  
 11:30AM Summer Camp Island - [Monster Babies; Time Traveling Quick Pants](https://s3.amazonaws.com/cn-orchestrator/2131820_001_1280x720.jpg)  
-02:00PM Unikitty! - [Little Prince Puppycorn; Kickflip McPuppycorn](https://s3.amazonaws.com/cn-orchestrator/2160899_001_1280x720.jpg)  
+02:00PM Unikitty! - [Kickflip McPuppycorn; Little Prince Puppycorn](https://s3.amazonaws.com/cn-orchestrator/2133088_001_1280x720.jpg)  
 02:30PM Unikitty! - [Pet Pet; Super Amazing Raft Adventure](https://s3.amazonaws.com/cn-orchestrator/2160900_001_1280x720.jpg)  
 03:00PM Ben 10 - [The Ring Leader](https://s3.amazonaws.com/cn-orchestrator/2085317_001_1280x720.jpg)  
 05:00PM Craig of the Creek - [Monster in the Garden; Too Many Treasures](https://s3.amazonaws.com/cn-orchestrator/2137890_001_1280x720.jpg)  
@@ -184,20 +176,24 @@ For missing time slots on September 6th and/or after: Unikitty!, Summer Camp Isl
 03:00PM Ben 10 - [Riding the Storm Out](https://s3.amazonaws.com/cn-orchestrator/2086227_001_1280x720.jpg)  
 03:15PM OK K.O.! Let's Be Heroes - [Face Your Fears](https://s3.amazonaws.com/cn-orchestrator/2091054_001_1280x720.jpg)  
 03:30PM OK K.O.! Let's Be Heroes - [You Have To Care; Everybody Likes Rad?](https://s3.amazonaws.com/cn-orchestrator/2091057_001_1280x720.jpg)  
-05:00PM Craig of the Creek - [Sunday Clothes; You're It](https://s3.amazonaws.com/cn-orchestrator/2132941_001_1280x720.jpg)  
+05:00PM Craig of the Creek - [You're It; Sunday Clothes](https://s3.amazonaws.com/cn-orchestrator/2141438_001_1280x720.jpg)  
+05:30PM Craig of the Creek - [Itch to Explore; Wildernessa](https://s3.amazonaws.com/cn-orchestrator/2141437_001_1280x720.jpg)  
 07:00PM We Bare Bears - [Googs; I, Butler](https://s3.amazonaws.com/cn-orchestrator/2088760_001_1280x720.jpg)  
 
 ### Thursday, September 6th
 06:00AM Steven Universe - [Made of Honor](https://s3.amazonaws.com/cn-orchestrator/2129748_001_1280x720.jpg)  
 11:00AM Summer Camp Island - [Chocolate Money Badgers; It's My Party](https://s3.amazonaws.com/cn-orchestrator/2139825_001_1280x720.jpg)  
+11:30AM Summer Camp Island - [Moon Problems; Saxophone Come Home](https://s3.amazonaws.com/cn-orchestrator/2132942_001_1280x720.jpg)  
 02:00PM Unikitty! - [Lab Cat; Beach Daze](https://s3.amazonaws.com/cn-orchestrator/2164839_001_1280x720.jpg)  
 03:00PM Ben 10 - [The Clocktopus](https://s3.amazonaws.com/cn-orchestrator/2085357_001_1280x720.jpg)  
 03:15PM OK K.O.! Let's Be Heroes - [Plaza Prom](https://s3.amazonaws.com/cn-orchestrator/2091053_001_1280x720.jpg)  
 03:30PM OK K.O.! Let's Be Heroes - [Second First Date; One Last Score](https://s3.amazonaws.com/cn-orchestrator/2091068_001_1280x720.jpg)  
+05:00PM Craig of the Creek - [Big Pinchy; Lost in the Sewer](https://s3.amazonaws.com/cn-orchestrator/2152893_001_1280x720.jpg)  
 07:00PM We Bare Bears - [Paperboyz; Teacher's Pet](https://s3.amazonaws.com/cn-orchestrator/2159527_001_1280x720.jpg)  
 
 ### Friday, September 7th
 06:00AM Steven Universe - [Reunited](https://s3.amazonaws.com/cn-orchestrator/2131010_001_1280x720.jpg)  
+11:00AM Summer Camp Island - [Pajama Pajimjams; Monster Visit](https://s3.amazonaws.com/cn-orchestrator/2142255_001_1280x720.jpg)  
 03:00PM Ben 10 - [Take 10](https://s3.amazonaws.com/cn-orchestrator/2085319_001_1280x720.jpg)  
 03:15PM OK K.O.! Let's Be Heroes - [T.K.O.](https://s3.amazonaws.com/cn-orchestrator/2091056_001_1280x720.jpg)  
 03:45PM OK K.O.! Let's Be Heroes - [Stop Attacking the Plaza](https://s3.amazonaws.com/cn-orchestrator/2091059_001_1280x720.jpg)  
@@ -209,3 +205,11 @@ For missing time slots on September 6th and/or after: Unikitty!, Summer Camp Isl
 ### Sunday, September 9th
 06:00AM Ben 10 - [Ye Olde Laser Duel; Ben Again and Again](https://s3.amazonaws.com/cn-orchestrator/2094742_001_1280x720.jpg)  
 06:30AM Mega Man: Fully Charged - Unfriendly Competition; Opposites Attract  
+
+### Monday, September 10th
+03:00PM Ben 10 - [Growing Pains](https://s3.amazonaws.com/cn-orchestrator/2088043_001_1280x720.jpg)  
+03:15PM OK K.O.! Let's Be Heroes - [Let's Have a Stakeout](https://s3.amazonaws.com/cn-orchestrator/2091071_001_1280x720.jpg)  
+03:30PM OK K.O.! Let's Be Heroes - [Rad Likes Robots; KO's Video Channel](https://s3.amazonaws.com/cn-orchestrator/2091072_001_1280x720.jpg)  
+05:30PM Ben 10 - Vote Zombozo  
+05:45PM Ben 10 - Drone On  
+07:00PM We Bare Bears - [Pet Shop; Our Stuff](https://s3.amazonaws.com/cn-orchestrator/2056643_001_1280x720.jpg)  
