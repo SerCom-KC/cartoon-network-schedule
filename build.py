@@ -75,7 +75,7 @@ def generate():
     list = requests.get(url, timeout=3).json()
     s = requests.Session()
     while True:
-        url = 'https://www.adultswim.com/adultswimdynsched/xmlServices/' + str(day) + '.EST.xml'
+        url = 'https://www.cartoonnetwork.com/cnschedule/xmlServices/' + str(day) + '.EST.xml'
         print('Fetching ' + url)
         allshows = etree.XML(s.get(url, timeout=10).content).xpath('//allshows/show[@blockName!="AdultSwim"]')
         date_split = allshows[0].xpath('@date')[0].split('/')
@@ -90,7 +90,7 @@ def generate():
             for element in list:
                 if element["showId"] == show.xpath('@showId')[0]:
                     title = element["title"]
-            url = 'https://www.adultswim.com/adultswimdynsched/xmlServices/ScheduleServices'
+            url = 'https://www.cartoonnetwork.com/cnschedule/xmlServices/ScheduleServices'
             params = {
                 'methodName': 'getEpisodeDesc',
                 'showId': show.xpath('@showId')[0],
@@ -140,7 +140,7 @@ def guessNextShowings():
     for element in list:
         if element["blockName"] == "":
             print('Fetching all upcoming showings for ' + element["title"])
-            url = 'https://www.adultswim.com/adultswimdynsched/xmlServices/ScheduleServices'
+            url = 'https://www.cartoonnetwork.com/cnschedule/xmlServices/ScheduleServices'
             params = {
                 'methodName': 'getAllShowingsByID',
                 'showId': element["showId"],

@@ -13,7 +13,7 @@ if __name__ == "__main__":
     list = requests.get("https://raw.githubusercontent.com/" + os.environ["TRAVIS_REPO_SLUG"] + "/master/show-list?").json()
     for day in range(1, 32):
         for channel in ["xmlServices", "asXml"]:
-            url = "https://www.adultswim.com/adultswimdynsched/" + channel + "/" + str(day) + ".EST.xml"
+            url = "https://www.cartoonnetwork.com/cnschedule/" + channel + "/" + str(day) + ".EST.xml"
             print("Fetching " + url)
             allshows = etree.XML(requests.get(url, timeout=10).content).xpath("//allshows/show")
             for show in allshows:
