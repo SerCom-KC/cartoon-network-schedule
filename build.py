@@ -90,7 +90,7 @@ def generate():
             for element in list:
                 if element["showId"] == show.xpath('@showId')[0]:
                     title = element["title"]
-            url = 'https://www.cartoonnetwork.com/cnschedule/xmlServices/ScheduleServices'
+            url = 'https://www.adultswim.com/adultswimdynsched/xmlServices/ScheduleServices'
             params = {
                 'methodName': 'getEpisodeDesc',
                 'showId': show.xpath('@showId')[0],
@@ -140,7 +140,7 @@ def guessNextShowings():
     for element in list:
         if element["blockName"] == "":
             print('Fetching all upcoming showings for ' + element["title"])
-            url = 'https://www.cartoonnetwork.com/cnschedule/xmlServices/ScheduleServices'
+            url = 'https://www.adultswim.com/adultswimdynsched/xmlServices/ScheduleServices'
             params = {
                 'methodName': 'getAllShowingsByID',
                 'showId': element["showId"],
