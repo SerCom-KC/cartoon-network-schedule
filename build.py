@@ -67,6 +67,7 @@ def fixName(name, force_the=False, reverse=False):
     return name.replace('/', '; ')
 
 def generate():
+    cngo_database = {}
     today = datetime.now(pytz.timezone('US/Eastern'))
     day = int(today.strftime('%d').lstrip('0'))
     month = today.date().month
@@ -99,33 +100,39 @@ def generate():
             }
             while True:
                 try:
-                    response = s.get(url, params=params, timeout=3)
+                    response = s.get(url, params=params, timeout=10)
                     if response.status_code == 200:
                         episodeName = fixName(etree.XML(response.content).xpath("//Desc/episodeDesc/text()")[0][:-1], reverse=True)
-                    elif show.xpath("@episodeName")[0] != "Cartoon Network":
-                        episodeName = fixName(show.xpath("@episodeName")[0], force_the=show.xpath("@showId")[0] == "376453")
                     else:
-                        episodeName = "TBA"
-                        url = "https://video-api.cartoonnetwork.com/episodeguide/json/%s" % (show.xpath("seriesTitleId")[0])
-                        headers = {
-                            "Authentication": "cngoapi",
-                            "Accept": "www.cartoonnetwork.com+json; version=2"
-                        }
-                        response = s.get(url, headers=headers, timeout=3)
-                        for episode in response.json():
-                            if episode["hasparent"] and episode["parentepisodetitleid"] == show.xpath("@titleId")[0]:
-                                episodeName += "; %s" % (fixName(episode["parentepisodetitlename"]))
-                            elif episode["titleid"] == show.xpath("@titleId")[0]:
-                                episodeName += "; %s" % (fixName(episode["title"]))
+                        print('\033[33mFailed to fetch episode name of showId=' + show.xpath('@showId')[0] + ', episodeId=' + show.xpath('@episodeId')[0] + ' from ScheduleServices\033[0m')
+                        if show.xpath("@episodeName")[0] != "Cartoon Network":
+                            episodeName = fixName(show.xpath("@episodeName")[0], force_the=show.xpath("@showId")[0] == "376453")
+                        else:
+                            print('\033[33mTrying dirty method.\033[0m')
+                            episodeName = "TBA"
+                            if not show.xpath("@seriesTitleId")[0] in cngo_database:
+                                url_tmp = "https://video-api.cartoonnetwork.com/episodeguide/json/%s" % (show.xpath("@seriesTitleId")[0])
+                                headers = {
+                                    "Authentication": "cngoapi",
+                                    "Accept": "www.cartoonnetwork.com+json; version=2"
+                                }
+                                response_tmp = s.get(url_tmp, headers=headers, timeout=3)
+                                if response_tmp.status_code != 200:
+                                    break
+                                cngo_database[show.xpath("@seriesTitleId")[0]] = response_tmp.json()
+                            for episode in cngo_database[show.xpath("@seriesTitleId")[0]]:
+                                if episode["hasparent"] and episode["parentepisodetitleid"] == show.xpath("@titleId")[0]:
+                                    episodeName += "; %s" % (episode["parentepisodetitlename"])
+                                    break
+                                elif episode["titleid"] == show.xpath("@titleId")[0]:
+                                    episodeName += "; %s" % (episode["title"])
+                                    break
                     break
                 except requests.exceptions.ReadTimeout:
                     continue
                 except Exception as e:
                     print(e)
                     exit(-1)
-            if episodeName == "":
-                print('\033[33mFailed to fetch episode name of showId=' + show.xpath('@showId')[0] + ', episodeId=' + show.xpath('@episodeId')[0] + ' from ScheduleServices\033[0m')
-                episodeName = fixName(show.xpath('@episodeName')[0], force_the=True if show.xpath('@showId')[0] == "376453" else False)
             rating = show.xpath('@rating')[0]
             airtime_str = show.xpath('@date')[0] + ' ' + show.xpath('@military')[0]
             airtime_dt = pytz.timezone('US/Eastern').localize(datetime.strptime(airtime_str, '%m/%d/%Y %H:%M'))
@@ -165,8 +172,9 @@ def guessNextShowings():
             }
             while True:
                 try:
-                    response = s.get(url, params=params, timeout=3)
+                    response = s.get(url, params=params, timeout=10)
                     if response.status_code != 200:
+                        print('\033[33mScheduleServices is unavailable at the moment, stopping generation\033[0m')
                         return False
                     allShowings = etree.XML(response.content)
                     break
