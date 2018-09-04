@@ -99,7 +99,24 @@ def generate():
             }
             while True:
                 try:
-                    episodeName = fixName(etree.XML(s.get(url, params=params, timeout=3).content).xpath("//Desc/episodeDesc/text()")[0][:-1], reverse=True)
+                    response = s.get(url, params=params, timeout=3)
+                    if response.status_code == 200:
+                        episodeName = fixName(etree.XML(response.content).xpath("//Desc/episodeDesc/text()")[0][:-1], reverse=True)
+                    elif show.xpath("@episodeName")[0] != "Cartoon Network":
+                        episodeName = fixName(show.xpath("@episodeName")[0], force_the=show.xpath("@showId")[0] == "376453")
+                    else:
+                        episodeName = "TBA"
+                        url = "https://video-api.cartoonnetwork.com/episodeguide/json/%s" % (show.xpath("seriesTitleId")[0])
+                        headers = {
+                            "Authentication": "cngoapi",
+                            "Accept": "www.cartoonnetwork.com+json; version=2"
+                        }
+                        response = s.get(url, headers=headers, timeout=3)
+                        for episode in response.json():
+                            if episode["hasparent"] and episode["parentepisodetitleid"] == show.xpath("@titleId")[0]:
+                                episodeName += "; %s" % (fixName(episode["parentepisodetitlename"]))
+                            elif episode["titleid"] == show.xpath("@titleId")[0]:
+                                episodeName += "; %s" % (fixName(episode["title"]))
                     break
                 except requests.exceptions.ReadTimeout:
                     continue
@@ -148,7 +165,10 @@ def guessNextShowings():
             }
             while True:
                 try:
-                    allShowings = etree.XML(s.get(url, params=params, timeout=3).content)
+                    response = s.get(url, params=params, timeout=3)
+                    if response.status_code != 200:
+                        return False
+                    allShowings = etree.XML(response.content)
                     break
                 except requests.exceptions.ReadTimeout:
                     continue
