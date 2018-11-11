@@ -23,3 +23,8 @@ script:
 
 after_success:
   - ./gitpush.sh
+
+notifications:
+  email:
+    on_success: always
+    on_failure: always
