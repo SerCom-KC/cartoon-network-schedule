@@ -80,6 +80,10 @@ def generate():
         print('Fetching ' + url)
         allshows = etree.XML(s.get(url, timeout=10).content).xpath('//allshows/show[@blockName!="AdultSwim"]')
         if len(allshows) == 0:
+            day += 1
+            if day > monthrange(airtime_dt.date().year, airtime_dt.date().month)[1]:
+                day = 1
+                month = month + 1 if month != 12 else 1
             continue
         date_split = allshows[0].xpath('@date')[0].split('/')
         if int(date_split[0]) < month or (int(date_split[0]) == 12 and month == 1):
