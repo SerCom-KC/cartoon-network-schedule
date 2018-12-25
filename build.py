@@ -79,6 +79,8 @@ def generate():
         url = 'https://www.cartoonnetwork.com/cnschedule/xmlServices/' + str(day) + '.EST.xml'
         print('Fetching ' + url)
         allshows = etree.XML(s.get(url, timeout=10).content).xpath('//allshows/show[@blockName!="AdultSwim"]')
+        if len(allshows) == 0:
+            continue
         date_split = allshows[0].xpath('@date')[0].split('/')
         if int(date_split[0]) < month or (int(date_split[0]) == 12 and month == 1):
             print('\033[32mSchedule generation completed successfully!\033[0m')
