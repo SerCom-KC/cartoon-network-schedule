@@ -15,9 +15,6 @@ install:
   - pip install datetime
   - pip install pytz
 
-before_script:
-  - python ./check.py
-
 script:
   - python ./build.py
 
