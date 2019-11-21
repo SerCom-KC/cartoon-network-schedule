@@ -9,15 +9,8 @@ s = requests.Session()
 
 schedule = {}
 
-# Starts from yesterday at 12 AM
-start_time = int((datetime.now().astimezone(tz=pytz.timezone("US/Eastern")).replace(
-    hour=0, minute=0, second=0, microsecond=0) - timedelta(days=1)).timestamp())
-
-# Ends at 30 days from now
-end_time = int(datetime.now().timestamp() + 30*24*60*60)
-
 response = s.get("https://time.ngtv.io/v1/rundown", params={
-                 "instance": "as-east", "startTime": start_time, "endTime": end_time}, timeout=30).json()
+                 "instance": "as-east", "startTime": 0, "endTime": 2147483647}, timeout=30).json()
 manifest = {"updated": int(response["timeUTC"]), "data": []}
 
 for show in response["shows"]:
@@ -28,6 +21,8 @@ for show in response["shows"]:
         schedule[date_string] = [show]
     else:
         schedule[date_string].append(show)
+
+del(schedule[list(schedule)[0]])
 
 for date in schedule.keys():
     with open("ngtv-v1/" + date, "w+") as file:
