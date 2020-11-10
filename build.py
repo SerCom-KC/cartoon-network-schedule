@@ -30,7 +30,7 @@ for date in schedule.keys():
     with open("ngtv-v1/" + date, "w+") as file:
         file.write(json.dumps(schedule[date], indent=4))
     manifest["data"].append(
-        {"date": date, "url": "https://github.com/%s/raw/ngtv-v1/%s" % (os.environ['TRAVIS_REPO_SLUG'], date)})
+        {"date": date, "url": "https://github.com/%s/raw/ngtv-v1/%s" % (os.environ['GITHUB_REPOSITORY'], date)})
 
 with open("ngtv-v1/manifest", "w+") as file:
     file.write(json.dumps(manifest, indent=4))
