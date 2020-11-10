@@ -30,8 +30,7 @@ jobs:
           pip3 install pytz
         
       - name: Fetch latest schedule data
-        run:
-          - python3 build.py
+        run: python3 build.py
 
       - name: Push changes back to repository
         working-directory: /ngtv-v1
