@@ -1,0 +1,49 @@
+﻿name: Update schedule data from NGTV v1 API
+
+on:
+  push:
+    branches:
+      - source
+  schedule:
+    - cron: * * * * *
+
+jobs:
+  fetch:
+    runs-on: ubuntu-18.04
+
+    steps:
+      - name: Pull Python code
+        uses: actions/checkout@v2
+        with:
+          ref: source
+
+      - name: Pull existing schedule data
+        uses: actions/checkout@v2
+        with:
+          ref: ngtv-v1
+          path: ngtv-v1
+
+      - name: Install Python dependencies
+        run: |
+          pip3 install requests
+          pip3 install datetime
+          pip3 install pytz
+        
+      - name: Fetch latest schedule data
+        run:
+          - python3 build.py
+
+      - name: Push changes back to repository
+        working-directory: /ngtv-v1
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+              echo -e \\033[32mChanges detected, configuring git\\033[0m
+              git config user.name 'Turner Schedule API'
+              git config user.email 'turner.info@turner.com'
+              git config push.default simple
+              echo -e \\033[32mGit configuration completed. Committing changes now\\033[0m
+              git add -A
+              git commit -m 'Database update'
+              echo -e \\033[32mChanges committed, pushing\\033[0m
+              git push
+          fi
