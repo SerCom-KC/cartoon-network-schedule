@@ -14,6 +14,8 @@ response = s.get("https://time.ngtv.io/v1/rundown", params={
 manifest = {"updated": int(response["timeUTC"]), "data": []}
 
 for show in response["shows"]:
+    del(show["last_update"])
+    del(show["serial"])
     time = datetime.utcfromtimestamp(show["scheduled_timestamp"]).replace(
         tzinfo=pytz.timezone("UTC")).astimezone(tz=pytz.timezone("US/Eastern"))
     date_string = time.strftime("%Y-%m-%d")
