@@ -32,14 +32,17 @@ jobs:
       - name: Fetch latest schedule data
         run: python3 build.py
 
+      - name: Detect changes
+        id: detect_changes
+        run: if [ -n "$(git status --porcelain)" ]; then echo "::set-output name=changes_detected::yes"; fi
+
       - name: Push changes back to repository
+        if: ${{ steps.detect_changes.outputs.changes_detected == "yes" }}
         working-directory: /ngtv-v1
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
-              git config user.name 'Turner Schedule API'
-              git config user.email 'turner.info@turner.com'
-              git config push.default simple
-              git add -A
-              git commit -m 'Database update'
-              git push
-          fi
+          git config user.name 'Turner Schedule API'
+          git config user.email 'turner.info@turner.com'
+          git config push.default simple
+          git add -A
+          git commit -m 'Database update'
+          git push
