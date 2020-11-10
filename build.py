@@ -34,6 +34,6 @@ if __name__ == "__main__":
         manifest["data"].append(
             {"date": date, "url": "https://github.com/%s/raw/ngtv-v1/%s" % (os.environ['GITHUB_REPOSITORY'], date)})
 
-    if subprocess.run(["git", "status", "--porcelain"], cwd="ngtv-v1", capture_output=True).stdout != b"":
+    if subprocess.run(["git", "status", "--porcelain"], cwd="ngtv-v1", stdout=subprocess.PIPE).stdout != b"":
         with open("ngtv-v1/manifest", "w+") as file:
             file.write(json.dumps(manifest, indent=4))
