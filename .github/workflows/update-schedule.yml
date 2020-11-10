@@ -37,7 +37,7 @@ jobs:
         run: if [ -n "$(git status --porcelain)" ]; then echo "::set-output name=changes_detected::yes"; fi
 
       - name: Push changes back to repository
-        if: ${{ steps.detect_changes.outputs.changes_detected == "yes" }}
+        if: steps.detect_changes.outputs.changes_detected == 'yes'
         working-directory: /ngtv-v1
         run: |
           git config user.name 'Turner Schedule API'
