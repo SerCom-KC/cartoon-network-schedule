@@ -11,9 +11,19 @@ if __name__ == "__main__":
 
     schedule = {}
 
-    response = s.get("https://time.ngtv.io/v1/rundown", params={
-                    "instance": "as-east", "startTime": 0, "endTime": 2147483647}, timeout=30).json()
-    manifest = {"updated": int(response["timeUTC"]), "data": []}
+    response = s.get(
+        "https://time.ngtv.io/v1/rundown",
+        params={
+            "instance": "as-east",
+            "startTime": int((datetime.now() - timedelta(days=14)).timestamp()),
+            "endTime": 2147483647
+        },
+        timeout=30
+    ).json()
+    manifest = {
+        "updated": int(response["timeUTC"]),
+    "data": []
+    }
 
     for show in response["shows"]:
         del(show["last_update"])
