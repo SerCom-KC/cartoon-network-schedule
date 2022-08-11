@@ -1,17 +1,63 @@
 [
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "RHFU",
         "create_time": 1660019694489,
+        "episode_in_season": "2",
         "episode_number": "S3:E02",
         "feed_id": "as-east",
         "franchise_id": "336141",
         "franchise_name": "Boondocks, The",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
         "guide_timestamp": 1660104000,
         "last_update": 1660110554726,
         "live": false,
+        "participants": [
+            {
+                "character": "Riley Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Huey Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Robert Freeman",
+                "name": "John Witherspoon",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Ruckus",
+                "name": "Gary Anthony Williams",
+                "role": "Voice"
+            },
+            {
+                "character": "Tom Dubois",
+                "name": "Cedric Yarbrough",
+                "role": "Voice"
+            },
+            {
+                "character": "Sarah Dubois",
+                "name": "Jill Talley",
+                "role": "Voice"
+            },
+            {
+                "character": "Jazmine Dubois",
+                "name": "Gabby Soleil",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2010,
+        "runtime_minutes": 30,
         "scheduled_duration": 1809,
         "scheduled_timestamp": 1660104000,
+        "season_number": "3",
         "serial": 1660110554616,
         "series_id": "610028",
         "series_name": "The Boondocks",
@@ -27,17 +73,88 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "1R8NJ",
         "create_time": 1660019694489,
+        "episode_in_season": "15",
         "episode_number": "S6:E15",
         "feed_id": "as-east",
         "franchise_id": "331864",
         "franchise_name": "Robot Chicken",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660105800,
         "last_update": 1660110554726,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Matthew Senreich",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Mike Fasolo",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "Matthew Senreich",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "Breckin Meyer",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Senreich",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Douglas Goldstein",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Tom Root",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Alexander Bulkley",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Corey Campodonico",
+                "role": "Producer"
+            }
+        ],
+        "release_year": 2012,
+        "runtime_minutes": 15,
         "scheduled_duration": 921,
         "scheduled_timestamp": 1660105800,
+        "season_number": "6",
         "serial": 1660110554616,
         "series_id": "608360",
         "series_name": "Robot Chicken",
@@ -52,17 +169,92 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
         "content_id": "1R9HD",
         "create_time": 1660022973678,
+        "episode_in_season": "16",
         "episode_number": "S6:E16",
         "feed_id": "as-east",
         "franchise_id": "331864",
         "franchise_name": "Robot Chicken",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660106700,
         "last_update": 1660110554726,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Matthew Senreich",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Mike Fasolo",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "Matthew Senreich",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "Breckin Meyer",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Senreich",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Douglas Goldstein",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Tom Root",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Alexander Bulkley",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Corey Campodonico",
+                "role": "Producer"
+            }
+        ],
+        "release_year": 2012,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660106700,
+        "season_number": "6",
         "serial": 1660110554616,
         "series_id": "608360",
         "series_name": "Robot Chicken",
@@ -78,17 +270,52 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
         "content_id": "V4RH",
         "create_time": 1660022973678,
+        "episode_in_season": "7",
         "episode_number": "S4:E07",
         "feed_id": "as-east",
         "franchise_id": "325518",
         "franchise_name": "Venture Brothers, The",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
         "guide_timestamp": 1660107600,
         "last_update": 1660116304866,
         "live": false,
+        "participants": [
+            {
+                "character": "Thaddeus Venture",
+                "name": "James Urbaniak",
+                "role": "Voice"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "Voice"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "Voice"
+            },
+            {
+                "character": "Hank Venture",
+                "name": "Christopher McCulloch",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2009,
+        "runtime_minutes": 30,
         "scheduled_duration": 1810,
         "scheduled_timestamp": 1660107600,
+        "season_number": "4",
         "serial": 1660116304370,
         "series_id": "439722",
         "series_name": "The Venture Bros.",
@@ -103,17 +330,58 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
         "content_id": "2K48T",
         "create_time": 1660026539375,
+        "episode_in_season": "6",
         "episode_number": "S2:E06",
         "feed_id": "as-east",
         "franchise_id": "401312",
         "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
         "guide_timestamp": 1660109400,
         "last_update": 1660118048606,
         "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2015,
+        "runtime_minutes": 30,
         "scheduled_duration": 1810,
         "scheduled_timestamp": 1660109400,
+        "season_number": "2",
         "serial": 1660118048415,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
@@ -128,17 +396,30 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
         "content_id": "14RY9P",
         "create_time": 1660026539375,
+        "episode_in_season": "9",
         "episode_number": "S7:E09",
         "feed_id": "as-east",
         "franchise_id": "324815",
         "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
         "guide_timestamp": 1660111200,
         "last_update": 1660118048606,
         "live": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
         "scheduled_duration": 1809,
         "scheduled_timestamp": 1660111200,
+        "season_number": "7",
         "serial": 1660118048415,
         "series_id": "437532",
         "series_name": "Futurama",
@@ -153,17 +434,30 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
         "content_id": "14RYF1",
         "create_time": 1660030612960,
+        "episode_in_season": "10",
         "episode_number": "S7:E10",
         "feed_id": "as-east",
         "franchise_id": "324815",
         "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
         "guide_timestamp": 1660113000,
         "last_update": 1660118048606,
         "live": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660113000,
+        "season_number": "7",
         "serial": 1660118048415,
         "series_id": "437532",
         "series_name": "Futurama",
@@ -178,17 +472,88 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "1R8NJ",
         "create_time": 1660030612960,
+        "episode_in_season": "15",
         "episode_number": "S6:E15",
         "feed_id": "as-east",
         "franchise_id": "331864",
         "franchise_name": "Robot Chicken",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660114800,
         "last_update": 1660122252997,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Matthew Senreich",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Mike Fasolo",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "Matthew Senreich",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "Breckin Meyer",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Senreich",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Douglas Goldstein",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Tom Root",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Alexander Bulkley",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Corey Campodonico",
+                "role": "Producer"
+            }
+        ],
+        "release_year": 2012,
+        "runtime_minutes": 15,
         "scheduled_duration": 917,
         "scheduled_timestamp": 1660114800,
+        "season_number": "6",
         "serial": 1660122252827,
         "series_id": "608360",
         "series_name": "Robot Chicken",
@@ -203,17 +568,92 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
         "content_id": "1R9HD",
         "create_time": 1660030612960,
+        "episode_in_season": "16",
         "episode_number": "S6:E16",
         "feed_id": "as-east",
         "franchise_id": "331864",
         "franchise_name": "Robot Chicken",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660115700,
         "last_update": 1660122252869,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Matthew Senreich",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Mike Fasolo",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "Matthew Senreich",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "Breckin Meyer",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Senreich",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Douglas Goldstein",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Tom Root",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Alexander Bulkley",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Corey Campodonico",
+                "role": "Producer"
+            }
+        ],
+        "release_year": 2012,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660115700,
+        "season_number": "6",
         "serial": 1660122252686,
         "series_id": "608360",
         "series_name": "Robot Chicken",
@@ -229,17 +669,52 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
         "content_id": "V4RH",
         "create_time": 1660030612960,
+        "episode_in_season": "7",
         "episode_number": "S4:E07",
         "feed_id": "as-east",
         "franchise_id": "325518",
         "franchise_name": "Venture Brothers, The",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
         "guide_timestamp": 1660116600,
         "last_update": 1660125541683,
         "live": false,
+        "participants": [
+            {
+                "character": "Thaddeus Venture",
+                "name": "James Urbaniak",
+                "role": "Voice"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "Voice"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "Voice"
+            },
+            {
+                "character": "Hank Venture",
+                "name": "Christopher McCulloch",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2009,
+        "runtime_minutes": 30,
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1660116600,
+        "season_number": "4",
         "serial": 1660125541387,
         "series_id": "439722",
         "series_name": "The Venture Bros.",
@@ -254,17 +729,36 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
         "content_id": "3GYH2",
         "create_time": 1660033384955,
+        "episode_in_season": "6",
         "episode_number": "S6:E06",
         "feed_id": "as-east",
         "franchise_id": "395593",
         "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
         "guide_timestamp": 1660118400,
         "last_update": 1660125541556,
         "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 30,
         "scheduled_duration": 1814,
         "scheduled_timestamp": 1660118400,
+        "season_number": "6",
         "serial": 1660125541277,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
@@ -280,17 +774,36 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
         "content_id": "3GYM6",
         "create_time": 1660039654600,
+        "episode_in_season": "7",
         "episode_number": "S6:E07",
         "feed_id": "as-east",
         "franchise_id": "395593",
         "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
         "guide_timestamp": 1660120200,
         "last_update": 1660125541556,
         "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660120200,
+        "season_number": "6",
         "serial": 1660125541277,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
@@ -306,17 +819,29 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
         "content_id": "1649NP",
         "create_time": 1660039654600,
+        "episode_in_season": "2",
         "episode_number": "S7:E02",
         "feed_id": "as-east",
         "franchise_id": "359714",
         "franchise_name": "King Of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
         "guide_timestamp": 1660122000,
         "last_update": 1660129891577,
         "live": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660122000,
+        "season_number": "7",
         "serial": 1660129891249,
         "series_id": "629835",
         "series_name": "King of the Hill",
@@ -331,17 +856,28 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
         "content_id": "163C66",
         "create_time": 1660039654600,
+        "episode_in_season": "3",
         "episode_number": "S7:E03",
         "feed_id": "as-east",
         "franchise_id": "359714",
         "franchise_name": "King Of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
         "guide_timestamp": 1660123800,
         "last_update": 1660131653441,
         "live": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660123800,
+        "season_number": "7",
         "serial": 1660131653330,
         "series_id": "629835",
         "series_name": "King of the Hill",
@@ -356,17 +892,127 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "11M9K3",
         "create_time": 1660085758416,
+        "episode_in_season": "42",
         "episode_number": "S4:E42",
         "feed_id": "as-east",
         "franchise_id": "473694",
         "franchise_name": "Pocoyo",
+        "genres": [
+            "Children"
+        ],
         "guide_timestamp": 1660125600,
         "last_update": 1660133035100,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Guillermo Garcia",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "David Cantolla",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Alfonso Rodriguez",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Francesc Montalt",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Carlos Perez",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Alberto Rodriguez",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "\u00c1lex Hidalgo",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Andy Yerkers",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Claudia Silver",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "P. Kevin Strader",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Pippin Parker",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Susan Kim",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Jeff Kindley",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Michele F. Cavin",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "David Ingham",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Annie Evans",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Rebecca Chace",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Christopher Hoey",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "James Ponti",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Ken Scarborough",
+                "role": "Writer"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 13,
         "scheduled_duration": 780,
         "scheduled_timestamp": 1660125600,
+        "season_number": "4",
         "serial": 1660133034717,
         "series_id": "686417",
         "series_name": "Pocoyo",
@@ -381,17 +1027,127 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "11M9HF",
         "create_time": 1660085758416,
+        "episode_in_season": "41",
         "episode_number": "S4:E41",
         "feed_id": "as-east",
         "franchise_id": "473694",
         "franchise_name": "Pocoyo",
+        "genres": [
+            "Children"
+        ],
         "guide_timestamp": 1660126200,
         "last_update": 1660133035100,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Guillermo Garcia",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "David Cantolla",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Alfonso Rodriguez",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Francesc Montalt",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Carlos Perez",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Alberto Rodriguez",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "\u00c1lex Hidalgo",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Andy Yerkers",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Claudia Silver",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "P. Kevin Strader",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Pippin Parker",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Susan Kim",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Jeff Kindley",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Michele F. Cavin",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "David Ingham",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Annie Evans",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Rebecca Chace",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Christopher Hoey",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "James Ponti",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Ken Scarborough",
+                "role": "Writer"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 13,
         "scheduled_duration": 780,
         "scheduled_timestamp": 1660126281,
+        "season_number": "4",
         "serial": 1660133034717,
         "series_id": "686417",
         "series_name": "Pocoyo",
@@ -406,17 +1162,127 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "10V0CJ",
         "create_time": 1660085758416,
+        "episode_in_season": "2",
         "episode_number": "S4:E02",
         "feed_id": "as-east",
         "franchise_id": "473694",
         "franchise_name": "Pocoyo",
+        "genres": [
+            "Children"
+        ],
         "guide_timestamp": 1660127100,
         "last_update": 1660133035100,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Guillermo Garcia",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "David Cantolla",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Alfonso Rodriguez",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Francesc Montalt",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Carlos Perez",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Alberto Rodriguez",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "\u00c1lex Hidalgo",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Andy Yerkers",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Claudia Silver",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "P. Kevin Strader",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Pippin Parker",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Susan Kim",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Jeff Kindley",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Michele F. Cavin",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "David Ingham",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Annie Evans",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Rebecca Chace",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Christopher Hoey",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "James Ponti",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Ken Scarborough",
+                "role": "Writer"
+            }
+        ],
+        "release_year": 2010,
+        "runtime_minutes": 7,
         "scheduled_duration": 420,
         "scheduled_timestamp": 1660127003,
+        "season_number": "4",
         "serial": 1660133034717,
         "series_id": "686417",
         "series_name": "Pocoyo",
@@ -432,17 +1298,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "159JN9",
         "create_time": 1660085758416,
+        "episode_in_season": "99",
         "episode_number": "S1:E99",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660127400,
         "last_update": 1660133035100,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 4,
         "scheduled_duration": 240,
         "scheduled_timestamp": 1660127400,
+        "season_number": "1",
         "serial": 1660133034717,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -457,17 +1333,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "159JTT",
         "create_time": 1660085758416,
+        "episode_in_season": "101",
         "episode_number": "S1:E101",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660127700,
         "last_update": 1660133035100,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 4,
         "scheduled_duration": 240,
         "scheduled_timestamp": 1660127564,
+        "season_number": "1",
         "serial": 1660133034717,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -482,17 +1368,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "159JXC",
         "create_time": 1660085758416,
+        "episode_in_season": "102",
         "episode_number": "S1:E102",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660127700,
         "last_update": 1660133035100,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 6,
         "scheduled_duration": 361,
         "scheduled_timestamp": 1660127745,
+        "season_number": "1",
         "serial": 1660133034717,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -507,17 +1403,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "159K0C",
         "create_time": 1660085758416,
+        "episode_in_season": "103",
         "episode_number": "S1:E103",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660128000,
         "last_update": 1660133034980,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 4,
         "scheduled_duration": 240,
         "scheduled_timestamp": 1660128080,
+        "season_number": "1",
         "serial": 1660133034607,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -532,17 +1438,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "159K21",
         "create_time": 1660085758416,
+        "episode_in_season": "104",
         "episode_number": "S1:E104",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660128300,
         "last_update": 1660133034980,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 9,
         "scheduled_duration": 540,
         "scheduled_timestamp": 1660128256,
+        "season_number": "1",
         "serial": 1660133034607,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -557,17 +1473,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "159K9G",
         "create_time": 1660085758416,
+        "episode_in_season": "105",
         "episode_number": "S1:E105",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660128900,
         "last_update": 1660133034980,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660128776,
+        "season_number": "1",
         "serial": 1660133034607,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -582,17 +1508,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "15D8WD",
         "create_time": 1660085758416,
+        "episode_in_season": "127",
         "episode_number": "S1:E127",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660128900,
         "last_update": 1660133034980,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 4,
         "scheduled_duration": 240,
         "scheduled_timestamp": 1660128957,
+        "season_number": "1",
         "serial": 1660133034607,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -607,17 +1543,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "159JM5",
         "create_time": 1660085758416,
+        "episode_in_season": "98",
         "episode_number": "S1:E98",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660129200,
         "last_update": 1660133034980,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660129200,
+        "season_number": "1",
         "serial": 1660133034607,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -632,17 +1578,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "159K9N",
         "create_time": 1660085758528,
+        "episode_in_season": "106",
         "episode_number": "S1:E106",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660129500,
         "last_update": 1660133034980,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660129351,
+        "season_number": "1",
         "serial": 1660133034607,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -657,17 +1613,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "159KKD",
         "create_time": 1660085758528,
+        "episode_in_season": "108",
         "episode_number": "S1:E108",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660129500,
         "last_update": 1660133034980,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 4,
         "scheduled_duration": 240,
         "scheduled_timestamp": 1660129528,
+        "season_number": "1",
         "serial": 1660133034607,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -682,17 +1648,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "15CMPY",
         "create_time": 1660085758528,
+        "episode_in_season": "110",
         "episode_number": "S1:E110",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660129800,
         "last_update": 1660133034980,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 6,
         "scheduled_duration": 360,
         "scheduled_timestamp": 1660129696,
+        "season_number": "1",
         "serial": 1660133034607,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -707,17 +1683,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "15CMY7",
         "create_time": 1660085758528,
+        "episode_in_season": "111",
         "episode_number": "S1:E111",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660130100,
         "last_update": 1660133034980,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660130003,
+        "season_number": "1",
         "serial": 1660133034607,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -732,17 +1718,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "15CN02",
         "create_time": 1660085758528,
+        "episode_in_season": "112",
         "episode_number": "S1:E112",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660130100,
         "last_update": 1660137529072,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 9,
         "scheduled_duration": 540,
         "scheduled_timestamp": 1660130151,
+        "season_number": "1",
         "serial": 1660137528562,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -757,17 +1753,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "15CN13",
         "create_time": 1660085758528,
+        "episode_in_season": "113",
         "episode_number": "S1:E113",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660130700,
         "last_update": 1660137529072,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660130661,
+        "season_number": "1",
         "serial": 1660137528562,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -782,17 +1788,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "15P81N",
         "create_time": 1660085758528,
+        "episode_in_season": "167",
         "episode_number": "S1:E167",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660130700,
         "last_update": 1660137529072,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660130801,
+        "season_number": "1",
         "serial": 1660137528562,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -807,17 +1823,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "14TR7R",
         "create_time": 1660085758528,
+        "episode_in_season": "1",
         "episode_number": "S1:E01",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660131000,
         "last_update": 1660137529072,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660131000,
+        "season_number": "1",
         "serial": 1660137528562,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -832,17 +1858,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "14TRK2",
         "create_time": 1660085758528,
+        "episode_in_season": "3",
         "episode_number": "S1:E03",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660131300,
         "last_update": 1660137529072,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 2,
         "scheduled_duration": 129,
         "scheduled_timestamp": 1660131164,
+        "season_number": "1",
         "serial": 1660137528562,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -857,17 +1893,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "14TRVM",
         "create_time": 1660085758528,
+        "episode_in_season": "7",
         "episode_number": "S1:E07",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660131300,
         "last_update": 1660137529072,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 5,
         "scheduled_duration": 300,
         "scheduled_timestamp": 1660131304,
+        "season_number": "1",
         "serial": 1660137528562,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -882,17 +1928,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "14TT0M",
         "create_time": 1660085758528,
+        "episode_in_season": "8",
         "episode_number": "S1:E08",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660131600,
         "last_update": 1660137529072,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 4,
         "scheduled_duration": 240,
         "scheduled_timestamp": 1660131604,
+        "season_number": "1",
         "serial": 1660137528562,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -907,17 +1963,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "14X0F7",
         "create_time": 1660085758528,
+        "episode_in_season": "10",
         "episode_number": "S1:E10",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660131900,
         "last_update": 1660139289516,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 11,
         "scheduled_duration": 660,
         "scheduled_timestamp": 1660131852,
+        "season_number": "1",
         "serial": 1660139289300,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -932,17 +1998,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "14X0G3",
         "create_time": 1660085758528,
+        "episode_in_season": "11",
         "episode_number": "S1:E11",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660132500,
         "last_update": 1660139289516,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660132472,
+        "season_number": "1",
         "serial": 1660139289300,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -957,17 +2033,27 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "14X0HR",
         "create_time": 1660085758528,
+        "episode_in_season": "65",
         "episode_number": "S1:E65",
         "feed_id": "as-east",
         "franchise_id": "477192",
         "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660132800,
         "last_update": 1660139289516,
         "live": false,
+        "release_year": 2006,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660132638,
+        "season_number": "1",
         "serial": 1660139289300,
         "series_id": "2357112",
         "series_name": "CoComelon",
@@ -982,17 +2068,128 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "19H516",
         "create_time": 1660085758528,
         "episode_number": "104",
         "feed_id": "as-east",
         "franchise_id": "479553",
         "franchise_name": "Lellobee City Farms",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660132800,
         "last_update": 1660139289516,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Dan Balaam",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Scarlett Barry",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Esther Ufomadu",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Matt George Lovett",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Joy Gingell",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Tom Pallai",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "John Moffett",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Tom Burton",
+                "role": "Post Producer"
+            },
+            {
+                "character": null,
+                "name": "Josh Embury",
+                "role": "Post Producer"
+            },
+            {
+                "character": null,
+                "name": "Lola Reynoso",
+                "role": "Music Producer"
+            },
+            {
+                "character": null,
+                "name": "Stephanie Fearon",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Benjamin Dalton",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Renee Hinton",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Kyle Riabko",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Josie Featonby-Roberts",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Lola Reynoso",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Josh Embury",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Joy Gingell",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Matt George Lovett",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Kyle Riabko",
+                "role": "Music Composer"
+            }
+        ],
+        "release_year": 2019,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660132800,
+        "season_number": "1",
         "serial": 1660139289300,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
@@ -1007,17 +2204,128 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "19H7RP",
         "create_time": 1660085758655,
         "episode_number": "118",
         "feed_id": "as-east",
         "franchise_id": "479553",
         "franchise_name": "Lellobee City Farms",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660132800,
         "last_update": 1660139289516,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Dan Balaam",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Scarlett Barry",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Esther Ufomadu",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Matt George Lovett",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Joy Gingell",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Tom Pallai",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "John Moffett",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Tom Burton",
+                "role": "Post Producer"
+            },
+            {
+                "character": null,
+                "name": "Josh Embury",
+                "role": "Post Producer"
+            },
+            {
+                "character": null,
+                "name": "Lola Reynoso",
+                "role": "Music Producer"
+            },
+            {
+                "character": null,
+                "name": "Stephanie Fearon",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Benjamin Dalton",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Renee Hinton",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Kyle Riabko",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Josie Featonby-Roberts",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Lola Reynoso",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Josh Embury",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Joy Gingell",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Matt George Lovett",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Kyle Riabko",
+                "role": "Music Composer"
+            }
+        ],
+        "release_year": 2019,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660132935,
+        "season_number": "1",
         "serial": 1660139289300,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
@@ -1032,17 +2340,128 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "19H5RP",
         "create_time": 1660085758655,
         "episode_number": "107",
         "feed_id": "as-east",
         "franchise_id": "479553",
         "franchise_name": "Lellobee City Farms",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660133100,
         "last_update": 1660139289516,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Dan Balaam",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Scarlett Barry",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Esther Ufomadu",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Matt George Lovett",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Joy Gingell",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Tom Pallai",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "John Moffett",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Tom Burton",
+                "role": "Post Producer"
+            },
+            {
+                "character": null,
+                "name": "Josh Embury",
+                "role": "Post Producer"
+            },
+            {
+                "character": null,
+                "name": "Lola Reynoso",
+                "role": "Music Producer"
+            },
+            {
+                "character": null,
+                "name": "Stephanie Fearon",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Benjamin Dalton",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Renee Hinton",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Kyle Riabko",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Josie Featonby-Roberts",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Lola Reynoso",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Josh Embury",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Joy Gingell",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Matt George Lovett",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Kyle Riabko",
+                "role": "Music Composer"
+            }
+        ],
+        "release_year": 2019,
+        "runtime_minutes": 3,
         "scheduled_duration": 180,
         "scheduled_timestamp": 1660133054,
+        "season_number": "1",
         "serial": 1660139289300,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
@@ -1057,17 +2476,128 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "19H6T0",
         "create_time": 1660085758655,
         "episode_number": "112",
         "feed_id": "as-east",
         "franchise_id": "479553",
         "franchise_name": "Lellobee City Farms",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660133100,
         "last_update": 1660140529477,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Dan Balaam",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Scarlett Barry",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Esther Ufomadu",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Matt George Lovett",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Joy Gingell",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Tom Pallai",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "John Moffett",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Tom Burton",
+                "role": "Post Producer"
+            },
+            {
+                "character": null,
+                "name": "Josh Embury",
+                "role": "Post Producer"
+            },
+            {
+                "character": null,
+                "name": "Lola Reynoso",
+                "role": "Music Producer"
+            },
+            {
+                "character": null,
+                "name": "Stephanie Fearon",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Benjamin Dalton",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Renee Hinton",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Kyle Riabko",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Josie Featonby-Roberts",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Lola Reynoso",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Josh Embury",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Joy Gingell",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Matt George Lovett",
+                "role": "Song Performer"
+            },
+            {
+                "character": null,
+                "name": "Kyle Riabko",
+                "role": "Music Composer"
+            }
+        ],
+        "release_year": 2019,
+        "runtime_minutes": 5,
         "scheduled_duration": 300,
         "scheduled_timestamp": 1660133176,
+        "season_number": "1",
         "serial": 1660140529114,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
@@ -1082,17 +2612,38 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "199WR3",
         "create_time": 1660085758655,
         "episode_number": "119",
         "feed_id": "as-east",
         "franchise_id": "479552",
         "franchise_name": "Blippi Wonders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660133400,
         "last_update": 1660140529477,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Jeff Jenkins",
+                "role": "Director"
+            },
+            {
+                "character": "Blippi",
+                "name": "Stevin John",
+                "role": "Actor"
+            }
+        ],
+        "release_year": 2021,
+        "runtime_minutes": 4,
         "scheduled_duration": 79,
         "scheduled_timestamp": 1660133700,
+        "season_number": "1",
         "serial": 1660140529114,
         "series_id": "2357711",
         "series_name": "Blippi Wonders",
@@ -1108,17 +2659,38 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "199VV8",
         "create_time": 1660085758655,
         "episode_number": "111",
         "feed_id": "as-east",
         "franchise_id": "479552",
         "franchise_name": "Blippi Wonders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660133700,
         "last_update": 1660140529477,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Jeff Jenkins",
+                "role": "Director"
+            },
+            {
+                "character": "Blippi",
+                "name": "Stevin John",
+                "role": "Actor"
+            }
+        ],
+        "release_year": 2021,
+        "runtime_minutes": 9,
         "scheduled_duration": 540,
         "scheduled_timestamp": 1660133638,
+        "season_number": "1",
         "serial": 1660140529114,
         "series_id": "2357711",
         "series_name": "Blippi Wonders",
@@ -1134,17 +2706,38 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "199XC3",
         "create_time": 1660085758655,
         "episode_number": "126",
         "feed_id": "as-east",
         "franchise_id": "479552",
         "franchise_name": "Blippi Wonders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660134300,
         "last_update": 1660140529359,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Jeff Jenkins",
+                "role": "Director"
+            },
+            {
+                "character": "Blippi",
+                "name": "Stevin John",
+                "role": "Actor"
+            }
+        ],
+        "release_year": 2021,
+        "runtime_minutes": 4,
         "scheduled_duration": 240,
         "scheduled_timestamp": 1660134142,
+        "season_number": "1",
         "serial": 1660140528989,
         "series_id": "2357711",
         "series_name": "Blippi Wonders",
@@ -1160,17 +2753,38 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "19JX3V",
         "create_time": 1660085758655,
         "episode_number": "108",
         "feed_id": "as-east",
         "franchise_id": "479552",
         "franchise_name": "Blippi Wonders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660134300,
         "last_update": 1660140529359,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Jeff Jenkins",
+                "role": "Director"
+            },
+            {
+                "character": "Blippi",
+                "name": "Stevin John",
+                "role": "Actor"
+            }
+        ],
+        "release_year": 2021,
+        "runtime_minutes": 3,
         "scheduled_duration": 199,
         "scheduled_timestamp": 1660134332,
+        "season_number": "1",
         "serial": 1660140528989,
         "series_id": "2357711",
         "series_name": "Blippi Wonders",
@@ -1186,17 +2800,26 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "X1WY0",
         "create_time": 1660085758655,
+        "episode_in_season": "18",
         "episode_number": "S25:E18",
         "feed_id": "as-east",
         "franchise_id": "474132",
         "franchise_name": "Thomas & Friends: All Engines Go",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
         "guide_timestamp": 1660134600,
         "last_update": 1660140529359,
         "live": false,
+        "release_year": 2021,
+        "runtime_minutes": 14,
         "scheduled_duration": 840,
         "scheduled_timestamp": 1660134600,
+        "season_number": "25",
         "serial": 1660140528989,
         "series_id": "2274096",
         "series_name": "Thomas & Friends: All Engines Go",
@@ -1211,17 +2834,26 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "117Y3G",
         "create_time": 1660085758655,
+        "episode_in_season": "25",
         "episode_number": "S25:E25",
         "feed_id": "as-east",
         "franchise_id": "474132",
         "franchise_name": "Thomas & Friends: All Engines Go",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
         "guide_timestamp": 1660135500,
         "last_update": 1660140529359,
         "live": false,
+        "release_year": 2021,
+        "runtime_minutes": 16,
         "scheduled_duration": 960,
         "scheduled_timestamp": 1660135464,
+        "season_number": "25",
         "serial": 1660140528989,
         "series_id": "2274096",
         "series_name": "Thomas & Friends: All Engines Go",
@@ -1236,17 +2868,78 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "199GM9",
         "create_time": 1660085758655,
+        "episode_in_season": "6",
         "episode_number": "S1:E06",
         "feed_id": "as-east",
         "franchise_id": "478872",
         "franchise_name": "Mecha Builders",
+        "genres": [
+            "Animation",
+            "Children"
+        ],
         "guide_timestamp": 1660136400,
         "last_update": 1660145165345,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Joe Fallon",
+                "role": "Development"
+            },
+            {
+                "character": null,
+                "name": "Yurie Rocha",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Frank Falcone",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Joe Fallon",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Olexa Hewryk",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Kay Wilson Stallings",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Joe Fallon",
+                "role": "Writer"
+            },
+            {
+                "character": "Mecha Elmo",
+                "name": "Ryan Dillon",
+                "role": "Voice"
+            },
+            {
+                "character": "Mecha Cookie Monster",
+                "name": "David Rudman",
+                "role": "Voice"
+            },
+            {
+                "character": "Mecha Abby Cadabby",
+                "name": "Leslie Carrara-Rudolph",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2022,
+        "runtime_minutes": 30,
         "scheduled_duration": 1858,
         "scheduled_timestamp": 1660136400,
+        "season_number": "1",
         "serial": 1660145164709,
         "series_id": "2227953",
         "series_name": "Sesame Street Mecha Builders",
@@ -1261,17 +2954,89 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "1DTWFF",
         "create_time": 1660085758655,
+        "episode_in_season": "6",
         "episode_number": "S1:E06",
         "feed_id": "as-east",
         "franchise_id": "479992",
         "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660138200,
         "last_update": 1660145165345,
         "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "release_year": 2022,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660138200,
+        "season_number": "1",
         "serial": 1660145164709,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
@@ -1286,17 +3051,89 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "1DTW75",
         "create_time": 1660085758655,
+        "episode_in_season": "2",
         "episode_number": "S1:E02",
         "feed_id": "as-east",
         "franchise_id": "479992",
         "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
         "guide_timestamp": 1660139100,
         "last_update": 1660146992914,
         "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "release_year": 2022,
+        "runtime_minutes": 17,
         "scheduled_duration": 1020,
         "scheduled_timestamp": 1660138978,
+        "season_number": "1",
         "serial": 1660146992726,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
@@ -1311,17 +3148,83 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "17Y92T",
         "create_time": 1660085758655,
+        "episode_in_season": "49",
         "episode_number": "S3:E49",
         "feed_id": "as-east",
         "franchise_id": "450712",
         "franchise_name": "Total Dramarama",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660140000,
         "last_update": 1660148021069,
         "live": false,
+        "participants": [
+            {
+                "character": "Owen",
+                "name": "Scott McCord",
+                "role": "Voice"
+            },
+            {
+                "character": "Izzy",
+                "name": "Katie Crown",
+                "role": "Voice"
+            },
+            {
+                "character": "Duncan",
+                "name": "Drew Nelson",
+                "role": "Voice"
+            },
+            {
+                "character": "Cody",
+                "name": "Wyatt White",
+                "role": "Voice"
+            },
+            {
+                "character": "Chef Hatchet",
+                "name": "Deven Christian Mack",
+                "role": "Voice"
+            },
+            {
+                "character": "Courtney",
+                "name": "Kerstin Julia Dietrich",
+                "role": "Voice"
+            },
+            {
+                "character": "Gwen",
+                "name": "Lilly Bartlam",
+                "role": "Voice"
+            },
+            {
+                "character": "Bridgette",
+                "name": "Kristin Fairlie",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth",
+                "name": "Sarah Gadon",
+                "role": "Voice"
+            },
+            {
+                "character": "Jude Lisowski",
+                "name": "Christian Potenza",
+                "role": "Voice"
+            },
+            {
+                "character": "Noah",
+                "name": "Cory Doran",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2020,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660140000,
+        "season_number": "3",
         "serial": 1660148020925,
         "series_id": "2141710",
         "series_name": "Total Dramarama",
@@ -1336,17 +3239,83 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3N4MV",
         "create_time": 1660085758655,
+        "episode_in_season": "14",
         "episode_number": "S1:E14",
         "feed_id": "as-east",
         "franchise_id": "450712",
         "franchise_name": "Total Dramarama",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660140900,
         "last_update": 1660148021069,
         "live": false,
+        "participants": [
+            {
+                "character": "Owen",
+                "name": "Scott McCord",
+                "role": "Voice"
+            },
+            {
+                "character": "Izzy",
+                "name": "Katie Crown",
+                "role": "Voice"
+            },
+            {
+                "character": "Duncan",
+                "name": "Drew Nelson",
+                "role": "Voice"
+            },
+            {
+                "character": "Cody",
+                "name": "Wyatt White",
+                "role": "Voice"
+            },
+            {
+                "character": "Chef Hatchet",
+                "name": "Deven Christian Mack",
+                "role": "Voice"
+            },
+            {
+                "character": "Courtney",
+                "name": "Kerstin Julia Dietrich",
+                "role": "Voice"
+            },
+            {
+                "character": "Gwen",
+                "name": "Lilly Bartlam",
+                "role": "Voice"
+            },
+            {
+                "character": "Bridgette",
+                "name": "Kristin Fairlie",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth",
+                "name": "Sarah Gadon",
+                "role": "Voice"
+            },
+            {
+                "character": "Jude Lisowski",
+                "name": "Christian Potenza",
+                "role": "Voice"
+            },
+            {
+                "character": "Noah",
+                "name": "Cory Doran",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2018,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660140880,
+        "season_number": "1",
         "serial": 1660148020925,
         "series_id": "2141710",
         "series_name": "Total Dramarama",
@@ -1361,17 +3330,83 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "17YDH1",
         "create_time": 1660085758655,
+        "episode_in_season": "50",
         "episode_number": "S3:E50",
         "feed_id": "as-east",
         "franchise_id": "450712",
         "franchise_name": "Total Dramarama",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660141800,
         "last_update": 1660148020903,
         "live": false,
+        "participants": [
+            {
+                "character": "Owen",
+                "name": "Scott McCord",
+                "role": "Voice"
+            },
+            {
+                "character": "Izzy",
+                "name": "Katie Crown",
+                "role": "Voice"
+            },
+            {
+                "character": "Duncan",
+                "name": "Drew Nelson",
+                "role": "Voice"
+            },
+            {
+                "character": "Cody",
+                "name": "Wyatt White",
+                "role": "Voice"
+            },
+            {
+                "character": "Chef Hatchet",
+                "name": "Deven Christian Mack",
+                "role": "Voice"
+            },
+            {
+                "character": "Courtney",
+                "name": "Kerstin Julia Dietrich",
+                "role": "Voice"
+            },
+            {
+                "character": "Gwen",
+                "name": "Lilly Bartlam",
+                "role": "Voice"
+            },
+            {
+                "character": "Bridgette",
+                "name": "Kristin Fairlie",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth",
+                "name": "Sarah Gadon",
+                "role": "Voice"
+            },
+            {
+                "character": "Jude Lisowski",
+                "name": "Christian Potenza",
+                "role": "Voice"
+            },
+            {
+                "character": "Noah",
+                "name": "Cory Doran",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2020,
+        "runtime_minutes": 14,
         "scheduled_duration": 840,
         "scheduled_timestamp": 1660141800,
+        "season_number": "3",
         "serial": 1660148020753,
         "series_id": "2141710",
         "series_name": "Total Dramarama",
@@ -1386,17 +3421,83 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3NGT7",
         "create_time": 1660085758770,
+        "episode_in_season": "15",
         "episode_number": "S1:E15",
         "feed_id": "as-east",
         "franchise_id": "450712",
         "franchise_name": "Total Dramarama",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660142700,
         "last_update": 1660148020903,
         "live": false,
+        "participants": [
+            {
+                "character": "Owen",
+                "name": "Scott McCord",
+                "role": "Voice"
+            },
+            {
+                "character": "Izzy",
+                "name": "Katie Crown",
+                "role": "Voice"
+            },
+            {
+                "character": "Duncan",
+                "name": "Drew Nelson",
+                "role": "Voice"
+            },
+            {
+                "character": "Cody",
+                "name": "Wyatt White",
+                "role": "Voice"
+            },
+            {
+                "character": "Chef Hatchet",
+                "name": "Deven Christian Mack",
+                "role": "Voice"
+            },
+            {
+                "character": "Courtney",
+                "name": "Kerstin Julia Dietrich",
+                "role": "Voice"
+            },
+            {
+                "character": "Gwen",
+                "name": "Lilly Bartlam",
+                "role": "Voice"
+            },
+            {
+                "character": "Bridgette",
+                "name": "Kristin Fairlie",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth",
+                "name": "Sarah Gadon",
+                "role": "Voice"
+            },
+            {
+                "character": "Jude Lisowski",
+                "name": "Christian Potenza",
+                "role": "Voice"
+            },
+            {
+                "character": "Noah",
+                "name": "Cory Doran",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2018,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660142630,
+        "season_number": "1",
         "serial": 1660148020753,
         "series_id": "2141710",
         "series_name": "Total Dramarama",
@@ -1411,17 +3512,104 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "179T7P",
         "create_time": 1660085758770,
+        "episode_in_season": "21",
         "episode_number": "S1:E21",
         "feed_id": "as-east",
         "franchise_id": "475952",
         "franchise_name": "We Baby Bears",
+        "genres": [
+            "Children",
+            "Comedy",
+            "Family"
+        ],
         "guide_timestamp": 1660143600,
         "last_update": 1660148020903,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Daniel Chong",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Calvin Wong",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Saratep Suthy",
+                "role": "Production Manager"
+            },
+            {
+                "character": null,
+                "name": "George Kaprielian",
+                "role": "Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Christina Chang",
+                "role": "Creative Consultant"
+            },
+            {
+                "character": null,
+                "name": "Valerie Schwarz",
+                "role": "Art Director"
+            },
+            {
+                "character": null,
+                "name": "Mikey Heller",
+                "role": "Story By"
+            },
+            {
+                "character": null,
+                "name": "Kelly Crews",
+                "role": "Production Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Brent Tanner",
+                "role": "Production Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Vishnu Athreya",
+                "role": "Executive in Charge of Production"
+            },
+            {
+                "character": null,
+                "name": "Charles Agbaje",
+                "role": "Executive in Charge of Production"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": "Grizzly",
+                "name": "Connor Andrade",
+                "role": "Voice"
+            },
+            {
+                "character": "Panda",
+                "name": "Amari McCoy",
+                "role": "Voice"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Max Mitchell",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2021,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660143600,
+        "season_number": "1",
         "serial": 1660148020753,
         "series_id": "2239398",
         "series_name": "We Baby Bears",
@@ -1436,17 +3624,104 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "17R3YP",
         "create_time": 1660085758770,
+        "episode_in_season": "22",
         "episode_number": "S1:E22",
         "feed_id": "as-east",
         "franchise_id": "475952",
         "franchise_name": "We Baby Bears",
+        "genres": [
+            "Children",
+            "Comedy",
+            "Family"
+        ],
         "guide_timestamp": 1660144500,
         "last_update": 1660148020903,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Daniel Chong",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Calvin Wong",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Saratep Suthy",
+                "role": "Production Manager"
+            },
+            {
+                "character": null,
+                "name": "George Kaprielian",
+                "role": "Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Christina Chang",
+                "role": "Creative Consultant"
+            },
+            {
+                "character": null,
+                "name": "Valerie Schwarz",
+                "role": "Art Director"
+            },
+            {
+                "character": null,
+                "name": "Mikey Heller",
+                "role": "Story By"
+            },
+            {
+                "character": null,
+                "name": "Kelly Crews",
+                "role": "Production Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Brent Tanner",
+                "role": "Production Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Vishnu Athreya",
+                "role": "Executive in Charge of Production"
+            },
+            {
+                "character": null,
+                "name": "Charles Agbaje",
+                "role": "Executive in Charge of Production"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": "Grizzly",
+                "name": "Connor Andrade",
+                "role": "Voice"
+            },
+            {
+                "character": "Panda",
+                "name": "Amari McCoy",
+                "role": "Voice"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Max Mitchell",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2021,
+        "runtime_minutes": 16,
         "scheduled_duration": 960,
         "scheduled_timestamp": 1660144453,
+        "season_number": "1",
         "serial": 1660148020753,
         "series_id": "2239398",
         "series_name": "We Baby Bears",
@@ -1461,17 +3736,44 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "2HRV1",
         "create_time": 1660085758770,
+        "episode_in_season": "4",
         "episode_number": "S1:E04",
         "feed_id": "as-east",
         "franchise_id": "419032",
         "franchise_name": "We Bare Bears",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660145400,
         "last_update": 1660152803035,
         "live": false,
+        "participants": [
+            {
+                "character": "Grizzly",
+                "name": "Eric Edelstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Demetri Martin",
+                "role": "Voice"
+            },
+            {
+                "character": "Panda",
+                "name": "Bobby Moynihan",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2015,
+        "runtime_minutes": 11,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660145400,
+        "season_number": "1",
         "serial": 1660152802938,
         "series_id": "2056641",
         "series_name": "We Bare Bears",
@@ -1486,17 +3788,44 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "2K76R",
         "create_time": 1660085758770,
+        "episode_in_season": "9",
         "episode_number": "S1:E09",
         "feed_id": "as-east",
         "franchise_id": "419032",
         "franchise_name": "We Bare Bears",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660146300,
         "last_update": 1660154395334,
         "live": false,
+        "participants": [
+            {
+                "character": "Grizzly",
+                "name": "Eric Edelstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Demetri Martin",
+                "role": "Voice"
+            },
+            {
+                "character": "Panda",
+                "name": "Bobby Moynihan",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2015,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660146287,
+        "season_number": "1",
         "serial": 1660154395264,
         "series_id": "2056641",
         "series_name": "We Bare Bears",
@@ -1512,17 +3841,44 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "DCYHK",
         "create_time": 1660085758770,
+        "episode_in_season": "5",
         "episode_number": "S3:E05",
         "feed_id": "as-east",
         "franchise_id": "446892",
         "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660147200,
         "last_update": 1660154707945,
         "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2020,
+        "runtime_minutes": 16,
         "scheduled_duration": 960,
         "scheduled_timestamp": 1660147200,
+        "season_number": "3",
         "serial": 1660154707843,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
@@ -1537,17 +3893,44 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "DCYKT",
         "create_time": 1660085758770,
+        "episode_in_season": "6",
         "episode_number": "S3:E06",
         "feed_id": "as-east",
         "franchise_id": "446892",
         "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660148100,
         "last_update": 1660155514807,
         "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2020,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660148115,
+        "season_number": "3",
         "serial": 1660155514534,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
@@ -1562,17 +3945,44 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "DK48G",
         "create_time": 1660085758770,
+        "episode_in_season": "7",
         "episode_number": "S3:E07",
         "feed_id": "as-east",
         "franchise_id": "446892",
         "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660149000,
         "last_update": 1660155514807,
         "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2020,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660149000,
+        "season_number": "3",
         "serial": 1660155514534,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
@@ -1587,17 +3997,44 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "DM58D",
         "create_time": 1660085758770,
+        "episode_in_season": "8",
         "episode_number": "S3:E08",
         "feed_id": "as-east",
         "franchise_id": "446892",
         "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660149900,
         "last_update": 1660155514656,
         "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2020,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660149875,
+        "season_number": "3",
         "serial": 1660155514424,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
@@ -1612,17 +4049,44 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3PK89",
         "create_time": 1660085758770,
+        "episode_in_season": "37",
         "episode_number": "S1:E37",
         "feed_id": "as-east",
         "franchise_id": "446892",
         "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660150800,
         "last_update": 1660155514656,
         "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2018,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660150800,
+        "season_number": "1",
         "serial": 1660155514424,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
@@ -1637,17 +4101,44 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3TPVN",
         "create_time": 1660085758770,
+        "episode_in_season": "6",
         "episode_number": "S2:E06",
         "feed_id": "as-east",
         "franchise_id": "446892",
         "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660151700,
         "last_update": 1660155514656,
         "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2019,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660151685,
+        "season_number": "2",
         "serial": 1660155514424,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
@@ -1662,17 +4153,44 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3PKHC",
         "create_time": 1660085758770,
+        "episode_in_season": "38",
         "episode_number": "S1:E38",
         "feed_id": "as-east",
         "franchise_id": "446892",
         "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660152600,
         "last_update": 1660160438045,
         "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2018,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660152600,
+        "season_number": "1",
         "serial": 1660160437791,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
@@ -1687,17 +4205,44 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3W9NC",
         "create_time": 1660085758770,
+        "episode_in_season": "8",
         "episode_number": "S2:E08",
         "feed_id": "as-east",
         "franchise_id": "446892",
         "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660153500,
         "last_update": 1660160438045,
         "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2019,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660153475,
+        "season_number": "2",
         "serial": 1660160437791,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
@@ -1712,17 +4257,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "2TDND",
         "create_time": 1660085758770,
+        "episode_in_season": "38",
         "episode_number": "S4:E38",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660154400,
         "last_update": 1660160437932,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660154400,
+        "season_number": "4",
         "serial": 1660160437666,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -1738,17 +4325,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3292D",
         "create_time": 1660085758770,
+        "episode_in_season": "20",
         "episode_number": "S5:E20",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660155300,
         "last_update": 1660163007822,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660155265,
+        "season_number": "5",
         "serial": 1660163007505,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -1764,17 +4393,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "321KV",
         "create_time": 1660085758888,
+        "episode_in_season": "39",
         "episode_number": "S4:E39",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660156200,
         "last_update": 1660163007822,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 13,
         "scheduled_duration": 780,
         "scheduled_timestamp": 1660156200,
+        "season_number": "4",
         "serial": 1660163007505,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -1790,17 +4461,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "31KY4",
         "create_time": 1660085758888,
+        "episode_in_season": "14",
         "episode_number": "S5:E14",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660157100,
         "last_update": 1660163007700,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 14,
         "scheduled_duration": 844,
         "scheduled_timestamp": 1660156965,
+        "season_number": "5",
         "serial": 1660163007380,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -1816,17 +4529,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "32N49",
         "create_time": 1660085758888,
+        "episode_in_season": "27",
         "episode_number": "S5:E27",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660157700,
         "last_update": 1660163007700,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 11,
         "scheduled_duration": 649,
         "scheduled_timestamp": 1660157800,
+        "season_number": "5",
         "serial": 1660163007380,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -1842,17 +4597,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3292F",
         "create_time": 1660085758888,
+        "episode_in_season": "21",
         "episode_number": "S5:E21",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660158300,
         "last_update": 1660163007700,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 26,
         "scheduled_duration": 1560,
         "scheduled_timestamp": 1660158000,
+        "season_number": "5",
         "serial": 1660163007380,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -1868,17 +4665,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "32N4C",
         "create_time": 1660085758888,
+        "episode_in_season": "28",
         "episode_number": "S5:E28",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660159500,
         "last_update": 1660163007700,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 11,
         "scheduled_duration": 649,
         "scheduled_timestamp": 1660159510,
+        "season_number": "5",
         "serial": 1660163007380,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -1893,17 +4732,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3292G",
         "create_time": 1660085758888,
+        "episode_in_season": "22",
         "episode_number": "S5:E22",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660160100,
         "last_update": 1660163007700,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 24,
         "scheduled_duration": 1440,
         "scheduled_timestamp": 1660159800,
+        "season_number": "5",
         "serial": 1660163007380,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -1919,17 +4800,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "32W5K",
         "create_time": 1660085758888,
+        "episode_in_season": "30",
         "episode_number": "S5:E30",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660161300,
         "last_update": 1660163007700,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 4,
         "scheduled_duration": 649,
         "scheduled_timestamp": 1660161180,
+        "season_number": "5",
         "serial": 1660163007380,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -1944,17 +4867,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3292H",
         "create_time": 1660085758888,
+        "episode_in_season": "17",
         "episode_number": "S5:E17",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660161900,
         "last_update": 1660163593998,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 23,
         "scheduled_duration": 1380,
         "scheduled_timestamp": 1660161600,
+        "season_number": "5",
         "serial": 1660163593695,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -1970,17 +4935,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "32RY4",
         "create_time": 1660085758888,
+        "episode_in_season": "35",
         "episode_number": "S5:E35",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660162800,
         "last_update": 1660170500075,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 5,
         "scheduled_duration": 645,
         "scheduled_timestamp": 1660162940,
+        "season_number": "5",
         "serial": 1660170499659,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -1996,17 +5003,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3292J",
         "create_time": 1660085758888,
+        "episode_in_season": "16",
         "episode_number": "S5:E16",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660163700,
         "last_update": 1660170499917,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 22,
         "scheduled_duration": 1320,
         "scheduled_timestamp": 1660163400,
+        "season_number": "5",
         "serial": 1660170499487,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -2022,17 +5071,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3NR0T",
         "create_time": 1660085758888,
+        "episode_in_season": "37",
         "episode_number": "S5:E37",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660164600,
         "last_update": 1660170499917,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 7,
         "scheduled_duration": 650,
         "scheduled_timestamp": 1660164670,
+        "season_number": "5",
         "serial": 1660170499487,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -2048,17 +5139,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "32FNY",
         "create_time": 1660085758888,
+        "episode_in_season": "23",
         "episode_number": "S5:E23",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660165200,
         "last_update": 1660170499917,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 17,
         "scheduled_duration": 1020,
         "scheduled_timestamp": 1660165200,
+        "season_number": "5",
         "serial": 1660170499487,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -2074,17 +5207,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "343FD",
         "create_time": 1660085758888,
+        "episode_in_season": "32",
         "episode_number": "S5:E32",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660166100,
         "last_update": 1660170499917,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 14,
         "scheduled_duration": 850,
         "scheduled_timestamp": 1660166184,
+        "season_number": "5",
         "serial": 1660170499487,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -2100,17 +5275,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "32FP4",
         "create_time": 1660085758888,
+        "episode_in_season": "24",
         "episode_number": "S5:E24",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660167000,
         "last_update": 1660170499917,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660167000,
+        "season_number": "5",
         "serial": 1660170499487,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -2126,17 +5343,59 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "343FG",
         "create_time": 1660085758888,
+        "episode_in_season": "33",
         "episode_number": "S5:E33",
         "feed_id": "as-east",
         "franchise_id": "376453",
         "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1660167900,
         "last_update": 1660175709192,
         "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 15,
         "scheduled_duration": 910,
         "scheduled_timestamp": 1660167884,
+        "season_number": "5",
         "serial": 1660175708608,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
@@ -2152,17 +5411,104 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "198RW7",
         "create_time": 1660085758981,
+        "episode_in_season": "25",
         "episode_number": "S1:E25",
         "feed_id": "as-east",
         "franchise_id": "475952",
         "franchise_name": "We Baby Bears",
+        "genres": [
+            "Children",
+            "Comedy",
+            "Family"
+        ],
         "guide_timestamp": 1660168800,
         "last_update": 1660175709192,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Daniel Chong",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Calvin Wong",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Saratep Suthy",
+                "role": "Production Manager"
+            },
+            {
+                "character": null,
+                "name": "George Kaprielian",
+                "role": "Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Christina Chang",
+                "role": "Creative Consultant"
+            },
+            {
+                "character": null,
+                "name": "Valerie Schwarz",
+                "role": "Art Director"
+            },
+            {
+                "character": null,
+                "name": "Mikey Heller",
+                "role": "Story By"
+            },
+            {
+                "character": null,
+                "name": "Kelly Crews",
+                "role": "Production Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Brent Tanner",
+                "role": "Production Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Vishnu Athreya",
+                "role": "Executive in Charge of Production"
+            },
+            {
+                "character": null,
+                "name": "Charles Agbaje",
+                "role": "Executive in Charge of Production"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": "Grizzly",
+                "name": "Connor Andrade",
+                "role": "Voice"
+            },
+            {
+                "character": "Panda",
+                "name": "Amari McCoy",
+                "role": "Voice"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Max Mitchell",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2021,
+        "runtime_minutes": 16,
         "scheduled_duration": 960,
         "scheduled_timestamp": 1660168800,
+        "season_number": "1",
         "serial": 1660175708608,
         "series_id": "2239398",
         "series_name": "We Baby Bears",
@@ -2177,17 +5523,104 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "19YG6N",
         "create_time": 1660085758981,
+        "episode_in_season": "26",
         "episode_number": "S1:E26",
         "feed_id": "as-east",
         "franchise_id": "475952",
         "franchise_name": "We Baby Bears",
+        "genres": [
+            "Children",
+            "Comedy",
+            "Family"
+        ],
         "guide_timestamp": 1660169700,
         "last_update": 1660177688326,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Daniel Chong",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Calvin Wong",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Saratep Suthy",
+                "role": "Production Manager"
+            },
+            {
+                "character": null,
+                "name": "George Kaprielian",
+                "role": "Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Christina Chang",
+                "role": "Creative Consultant"
+            },
+            {
+                "character": null,
+                "name": "Valerie Schwarz",
+                "role": "Art Director"
+            },
+            {
+                "character": null,
+                "name": "Mikey Heller",
+                "role": "Story By"
+            },
+            {
+                "character": null,
+                "name": "Kelly Crews",
+                "role": "Production Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Brent Tanner",
+                "role": "Production Supervisor"
+            },
+            {
+                "character": null,
+                "name": "Vishnu Athreya",
+                "role": "Executive in Charge of Production"
+            },
+            {
+                "character": null,
+                "name": "Charles Agbaje",
+                "role": "Executive in Charge of Production"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": "Grizzly",
+                "name": "Connor Andrade",
+                "role": "Voice"
+            },
+            {
+                "character": "Panda",
+                "name": "Amari McCoy",
+                "role": "Voice"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Max Mitchell",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2021,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660169723,
+        "season_number": "1",
         "serial": 1660177687994,
         "series_id": "2239398",
         "series_name": "We Baby Bears",
@@ -2202,17 +5635,52 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "21JP3",
         "create_time": 1660085758981,
         "episode_number": "17",
         "feed_id": "as-east",
         "franchise_id": "393474",
         "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660170600,
         "last_update": 1660177991563,
         "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2013,
+        "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660170600,
+        "season_number": "1",
         "serial": 1660177991384,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
@@ -2228,17 +5696,53 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "HDK2K",
         "create_time": 1660088078005,
+        "episode_in_season": "1",
         "episode_number": "S7:E01",
         "feed_id": "as-east",
         "franchise_id": "393474",
         "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660172400,
         "last_update": 1660177991563,
         "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2020,
+        "runtime_minutes": 16,
         "scheduled_duration": 960,
         "scheduled_timestamp": 1660172400,
+        "season_number": "7",
         "serial": 1660177991384,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
@@ -2253,17 +5757,53 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "PW0YH",
         "create_time": 1660088078005,
+        "episode_in_season": "4",
         "episode_number": "S7:E04",
         "feed_id": "as-east",
         "franchise_id": "393474",
         "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660173300,
         "last_update": 1660177991563,
         "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2021,
+        "runtime_minutes": 15,
         "scheduled_duration": 911,
         "scheduled_timestamp": 1660173302,
+        "season_number": "7",
         "serial": 1660177991384,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
@@ -2278,17 +5818,53 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "HNNGV",
         "create_time": 1660088078005,
+        "episode_in_season": "2",
         "episode_number": "S7:E02",
         "feed_id": "as-east",
         "franchise_id": "393474",
         "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660174200,
         "last_update": 1660177991563,
         "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2020,
+        "runtime_minutes": 16,
         "scheduled_duration": 960,
         "scheduled_timestamp": 1660174200,
+        "season_number": "7",
         "serial": 1660177991384,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
@@ -2303,17 +5879,53 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "PWTJN",
         "create_time": 1660091706647,
+        "episode_in_season": "5",
         "episode_number": "S7:E05",
         "feed_id": "as-east",
         "franchise_id": "393474",
         "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
         "guide_timestamp": 1660175100,
         "last_update": 1660177991563,
         "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2021,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1660175109,
+        "season_number": "7",
         "serial": 1660177991384,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
@@ -2328,17 +5940,29 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
         "content_id": "161WV5",
         "create_time": 1660091706752,
+        "episode_in_season": "4",
         "episode_number": "S7:E04",
         "feed_id": "as-east",
         "franchise_id": "359714",
         "franchise_name": "King Of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
         "guide_timestamp": 1660176000,
         "last_update": 1660183347982,
         "live": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
         "scheduled_duration": 1832,
         "scheduled_timestamp": 1660176000,
+        "season_number": "7",
         "serial": 1660183347218,
         "series_id": "629835",
         "series_name": "King of the Hill",
@@ -2353,17 +5977,28 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
         "content_id": "1649M4",
         "create_time": 1660091706752,
+        "episode_in_season": "5",
         "episode_number": "S7:E05",
         "feed_id": "as-east",
         "franchise_id": "359714",
         "franchise_name": "King Of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
         "guide_timestamp": 1660177800,
         "last_update": 1660185483704,
         "live": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660177800,
+        "season_number": "7",
         "serial": 1660185483469,
         "series_id": "629835",
         "series_name": "King of the Hill",
@@ -2378,17 +6013,35 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
         "content_id": "3GYPD",
         "create_time": 1660095573237,
+        "episode_in_season": "8",
         "episode_number": "S6:E08",
         "feed_id": "as-east",
         "franchise_id": "395593",
         "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
         "guide_timestamp": 1660179600,
         "last_update": 1660185483704,
         "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 30,
         "scheduled_duration": 1821,
         "scheduled_timestamp": 1660179600,
+        "season_number": "6",
         "serial": 1660185483469,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
@@ -2404,17 +6057,35 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
         "content_id": "3GYN3",
         "create_time": 1660095573351,
+        "episode_in_season": "9",
         "episode_number": "S6:E09",
         "feed_id": "as-east",
         "franchise_id": "395593",
         "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
         "guide_timestamp": 1660181400,
         "last_update": 1660185483704,
         "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2016,
+        "runtime_minutes": 30,
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1660181400,
+        "season_number": "6",
         "serial": 1660185483469,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
@@ -2430,17 +6101,66 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
         "content_id": "3H0D1",
         "create_time": 1660099344489,
+        "episode_in_season": "11",
         "episode_number": "S10:E11",
         "feed_id": "as-east",
         "franchise_id": "332142",
         "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
         "guide_timestamp": 1660183200,
         "last_update": 1660190987094,
         "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2015,
+        "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660183200,
+        "season_number": "10",
         "serial": 1660190986864,
         "series_id": "581006",
         "series_name": "American Dad",
@@ -2455,17 +6175,66 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
         "content_id": "3H0DR",
         "create_time": 1660099344489,
+        "episode_in_season": "12",
         "episode_number": "S10:E12",
         "feed_id": "as-east",
         "franchise_id": "332142",
         "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
         "guide_timestamp": 1660185000,
         "last_update": 1660192962513,
         "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2015,
+        "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660185000,
+        "season_number": "10",
         "serial": 1660192962322,
         "series_id": "581006",
         "series_name": "American Dad",
@@ -2480,17 +6249,66 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
         "content_id": "3H0DX",
         "create_time": 1660101033964,
+        "episode_in_season": "13",
         "episode_number": "S10:E13",
         "feed_id": "as-east",
         "franchise_id": "332142",
         "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
         "guide_timestamp": 1660186800,
         "last_update": 1660192962513,
         "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus Heissler",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2015,
+        "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660186800,
+        "season_number": "10",
         "serial": 1660192962322,
         "series_id": "581006",
         "series_name": "American Dad",
@@ -2505,17 +6323,57 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
         "content_id": "2KDND",
         "create_time": 1660103063967,
+        "episode_in_season": "7",
         "episode_number": "S2:E07",
         "feed_id": "as-east",
         "franchise_id": "401312",
         "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
         "guide_timestamp": 1660188600,
         "last_update": 1660192962513,
         "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "release_year": 2015,
+        "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660188600,
+        "season_number": "2",
         "serial": 1660192962322,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
