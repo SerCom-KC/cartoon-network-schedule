@@ -18,7 +18,7 @@
             "Animation"
         ],
         "guide_timestamp": 1660968000,
-        "last_update": 1660887798480,
+        "last_update": 1660889564541,
         "live": false,
         "participants": [
             {
@@ -48,7 +48,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1660968000,
         "season_number": "2",
-        "serial": 1660887798226,
+        "serial": 1660889563792,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1805,
@@ -79,7 +79,7 @@
             "Animation"
         ],
         "guide_timestamp": 1660969800,
-        "last_update": 1660887798480,
+        "last_update": 1660889564541,
         "live": false,
         "participants": [
             {
@@ -109,7 +109,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660969800,
         "season_number": "2",
-        "serial": 1660887798226,
+        "serial": 1660889563792,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1800,
@@ -140,7 +140,7 @@
             "Animation"
         ],
         "guide_timestamp": 1660971600,
-        "last_update": 1660887798480,
+        "last_update": 1660889564541,
         "live": false,
         "participants": [
             {
@@ -170,7 +170,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660971600,
         "season_number": "2",
-        "serial": 1660887798226,
+        "serial": 1660889563792,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1800,
@@ -201,7 +201,7 @@
             "Animation"
         ],
         "guide_timestamp": 1660973400,
-        "last_update": 1660887798480,
+        "last_update": 1660889564541,
         "live": false,
         "participants": [
             {
@@ -231,7 +231,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1660973400,
         "season_number": "2",
-        "serial": 1660887798226,
+        "serial": 1660889563792,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1800,
@@ -242,5 +242,45 @@
         "title": "The Red Mist",
         "title_id": "2276160",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14KGJR",
+        "create_time": 1660889564541,
+        "episode_in_season": "4",
+        "episode_number": "S8:E04",
+        "external_id": "15770022",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1660975200,
+        "last_update": 1660889564541,
+        "live": false,
+        "premiere": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1660975200,
+        "season_number": "8",
+        "serial": 1660889563792,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1806,
+        "show_id": "1011206449",
+        "show_timestamp": 1660975200,
+        "status": "estimated",
+        "summary": "Fry quits his job, and becomes a police officer assigned to the Future Crimes Division.",
+        "title": "Law & Oracle",
+        "title_id": "2161635",
+        "tv_rating": "TV-14"
     }
 ]
