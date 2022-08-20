@@ -18,7 +18,7 @@
             "Animation"
         ],
         "guide_timestamp": 1661054400,
-        "last_update": 1660972775305,
+        "last_update": 1660974559721,
         "live": false,
         "participants": [
             {
@@ -48,7 +48,7 @@
         "scheduled_duration": 1838,
         "scheduled_timestamp": 1661054400,
         "season_number": "2",
-        "serial": 1660972774878,
+        "serial": 1660974559599,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1838,
@@ -79,7 +79,7 @@
             "Animation"
         ],
         "guide_timestamp": 1661056200,
-        "last_update": 1660972775305,
+        "last_update": 1660974559721,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -87,7 +87,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1661056200,
         "season_number": "2",
-        "serial": 1660972774878,
+        "serial": 1660974559599,
         "series_id": "2268280",
         "series_name": "Yashahime: Princess Half-Demon",
         "show_duration": 1801,
@@ -116,7 +116,7 @@
             "Anime"
         ],
         "guide_timestamp": 1661058000,
-        "last_update": 1660972775305,
+        "last_update": 1660974559721,
         "live": false,
         "premiere": true,
         "release_year": 2021,
@@ -124,7 +124,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1661058000,
         "season_number": "1",
-        "serial": 1660972774878,
+        "serial": 1660974559599,
         "series_id": "2387380",
         "series_name": "Lupin the 3rd Part 6",
         "show_duration": 1800,
@@ -135,5 +135,44 @@
         "title": "Win or Lose in 0.1 Seconds",
         "title_id": "2387398",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1F1FCJ",
+        "create_time": 1660974559721,
+        "episode_number": "575",
+        "external_id": "15782656",
+        "feed_id": "as-east",
+        "franchise_id": "331646",
+        "franchise_name": "One Piece",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "guide_timestamp": 1661059800,
+        "last_update": 1660974559721,
+        "live": false,
+        "premiere": true,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1661059800,
+        "season_number": "15",
+        "serial": 1660974559599,
+        "series_id": "608007",
+        "series_name": "One Piece",
+        "show_duration": 1800,
+        "show_id": "1013741134",
+        "show_timestamp": 1661059800,
+        "status": "estimated",
+        "summary": "Luffy's arrival in the New World is marked by violent weather and the discovery of a tiny stowaway. When the Straw Hats agree to help their new friend, it could lead to big trouble with the Marines!",
+        "title": "Z's Ambition! Lily the Little Giant!",
+        "title_id": "2402467",
+        "tv_rating": "TV-PG"
     }
 ]
