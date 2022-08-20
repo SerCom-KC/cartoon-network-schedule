@@ -18,7 +18,7 @@
             "Animation"
         ],
         "guide_timestamp": 1661054400,
-        "last_update": 1660980342023,
+        "last_update": 1660981763571,
         "live": false,
         "participants": [
             {
@@ -48,7 +48,7 @@
         "scheduled_duration": 1838,
         "scheduled_timestamp": 1661054400,
         "season_number": "2",
-        "serial": 1660980341346,
+        "serial": 1660981763355,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1838,
@@ -79,7 +79,7 @@
             "Animation"
         ],
         "guide_timestamp": 1661056200,
-        "last_update": 1660980342023,
+        "last_update": 1660981763571,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -87,7 +87,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1661056200,
         "season_number": "2",
-        "serial": 1660980341346,
+        "serial": 1660981763355,
         "series_id": "2268280",
         "series_name": "Yashahime: Princess Half-Demon",
         "show_duration": 1801,
@@ -116,7 +116,7 @@
             "Anime"
         ],
         "guide_timestamp": 1661058000,
-        "last_update": 1660980342206,
+        "last_update": 1660981763571,
         "live": false,
         "premiere": true,
         "release_year": 2021,
@@ -124,7 +124,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1661058000,
         "season_number": "1",
-        "serial": 1660980341564,
+        "serial": 1660981763355,
         "series_id": "2387380",
         "series_name": "Lupin the 3rd Part 6",
         "show_duration": 1800,
@@ -155,7 +155,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1661059800,
-        "last_update": 1660980342206,
+        "last_update": 1660981763830,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -163,7 +163,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1661059800,
         "season_number": "15",
-        "serial": 1660980341564,
+        "serial": 1660981763523,
         "series_id": "608007",
         "series_name": "One Piece",
         "show_duration": 1800,
@@ -193,7 +193,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1661061600,
-        "last_update": 1660980342206,
+        "last_update": 1660981763830,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -201,7 +201,7 @@
         "scheduled_duration": 1819,
         "scheduled_timestamp": 1661061600,
         "season_number": "15",
-        "serial": 1660980341564,
+        "serial": 1660981763523,
         "series_id": "608007",
         "series_name": "One Piece",
         "show_duration": 1819,
@@ -229,7 +229,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1661063400,
-        "last_update": 1660980342206,
+        "last_update": 1660981763830,
         "live": false,
         "premiere": true,
         "release_year": 2015,
@@ -237,7 +237,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1661063400,
         "season_number": "7",
-        "serial": 1660980341564,
+        "serial": 1660981763523,
         "series_id": "812206",
         "series_name": "Naruto: Shippuden",
         "show_duration": 1800,
@@ -268,7 +268,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1661065200,
-        "last_update": 1660980342206,
+        "last_update": 1660981763830,
         "live": false,
         "participants": [
             {
@@ -333,7 +333,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1661065200,
         "season_number": "1",
-        "serial": 1660980341564,
+        "serial": 1660981763523,
         "series_id": "2191456",
         "series_name": "Blade Runner: Black Lotus",
         "show_duration": 1800,
@@ -344,5 +344,41 @@
         "title": "All We Are Not",
         "title_id": "2191459",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1550GM",
+        "create_time": 1660981763830,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "15782680",
+        "feed_id": "as-east",
+        "franchise_id": "477152",
+        "franchise_name": "Made In Abyss",
+        "genres": [
+            "Anime",
+            "Fantasy"
+        ],
+        "guide_timestamp": 1661067000,
+        "last_update": 1660981763830,
+        "live": false,
+        "premiere": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1661067000,
+        "season_number": "1",
+        "serial": 1660981763523,
+        "series_id": "2356951",
+        "series_name": "Made in Abyss",
+        "show_duration": 1800,
+        "show_id": "1012092408",
+        "show_timestamp": 1661067000,
+        "status": "estimated",
+        "summary": "Riko and Reg find out more about their past but the question still remains: exactly who, or what, is Reg?",
+        "title": "Resurrection Festival",
+        "title_id": "2356955",
+        "tv_rating": "TV-MA"
     }
 ]
