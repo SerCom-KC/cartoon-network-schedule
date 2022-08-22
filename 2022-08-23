@@ -18,7 +18,7 @@
             "Drama"
         ],
         "guide_timestamp": 1661227200,
-        "last_update": 1661146786578,
+        "last_update": 1661148074043,
         "live": false,
         "participants": [
             {
@@ -63,7 +63,7 @@
         "scheduled_duration": 1807,
         "scheduled_timestamp": 1661227200,
         "season_number": "3",
-        "serial": 1661146785977,
+        "serial": 1661148073853,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1807,
@@ -91,7 +91,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1661229000,
-        "last_update": 1661146786578,
+        "last_update": 1661148074043,
         "live": false,
         "participants": [
             {
@@ -161,7 +161,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1661229000,
         "season_number": "7",
-        "serial": 1661146785977,
+        "serial": 1661148073853,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -191,7 +191,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1661229900,
-        "last_update": 1661146786578,
+        "last_update": 1661148074043,
         "live": false,
         "participants": [
             {
@@ -261,7 +261,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1661229900,
         "season_number": "7",
-        "serial": 1661146785977,
+        "serial": 1661148073853,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -294,7 +294,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1661230800,
-        "last_update": 1661146786578,
+        "last_update": 1661148074043,
         "live": false,
         "participants": [
             {
@@ -324,7 +324,7 @@
         "scheduled_duration": 1819,
         "scheduled_timestamp": 1661230800,
         "season_number": "4",
-        "serial": 1661146785977,
+        "serial": 1661148073853,
         "series_id": "439722",
         "series_name": "The Venture Bros.",
         "show_duration": 1819,
@@ -357,7 +357,7 @@
             "Animation"
         ],
         "guide_timestamp": 1661232600,
-        "last_update": 1661146786578,
+        "last_update": 1661148074043,
         "live": false,
         "participants": [
             {
@@ -392,7 +392,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1661232600,
         "season_number": "3",
-        "serial": 1661146785977,
+        "serial": 1661148073853,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -403,5 +403,43 @@
         "title": "The Ricklantis Mixup",
         "title_id": "2116836",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "148ND9",
+        "create_time": 1661148074043,
+        "episode_in_season": "11",
+        "episode_number": "S3:E11",
+        "external_id": "15770023",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1661234400,
+        "last_update": 1661148074043,
+        "live": false,
+        "premiere": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1661234400,
+        "season_number": "3",
+        "serial": 1661148073853,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1011841753",
+        "show_timestamp": 1661234400,
+        "status": "estimated",
+        "summary": "Leela decides to have plastic surgery so that she will appear to have two eyes.",
+        "title": "The Cyber House Rules",
+        "title_id": "437704",
+        "tv_rating": "TV-PG"
     }
 ]
