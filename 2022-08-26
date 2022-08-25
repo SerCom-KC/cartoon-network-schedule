@@ -18,7 +18,7 @@
             "Animation"
         ],
         "guide_timestamp": 1661486400,
-        "last_update": 1661404009806,
+        "last_update": 1661408366762,
         "live": false,
         "participants": [
             {
@@ -48,7 +48,7 @@
         "scheduled_duration": 1807,
         "scheduled_timestamp": 1661486400,
         "season_number": "2",
-        "serial": 1661404009274,
+        "serial": 1661408366576,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1807,
@@ -81,7 +81,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1661488200,
-        "last_update": 1661404009806,
+        "last_update": 1661408366762,
         "live": false,
         "participants": [
             {
@@ -151,7 +151,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1661488200,
         "season_number": "7",
-        "serial": 1661404009274,
+        "serial": 1661408366576,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 905,
@@ -185,7 +185,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1661489100,
-        "last_update": 1661404009806,
+        "last_update": 1661408366762,
         "live": false,
         "participants": [
             {
@@ -255,7 +255,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1661489100,
         "season_number": "7",
-        "serial": 1661404009274,
+        "serial": 1661408366576,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 906,
@@ -286,7 +286,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1661490000,
-        "last_update": 1661404009806,
+        "last_update": 1661408366762,
         "live": false,
         "participants": [
             {
@@ -316,7 +316,7 @@
         "scheduled_duration": 1821,
         "scheduled_timestamp": 1661490000,
         "season_number": "5",
-        "serial": 1661404009274,
+        "serial": 1661408366576,
         "series_id": "439722",
         "series_name": "The Venture Bros.",
         "show_duration": 1821,
@@ -328,5 +328,112 @@
         "title": "Venture Libre",
         "title_id": "2002550",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "38D73",
+        "create_time": 1661408366762,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "15769992",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1661491800,
+        "last_update": 1661408366762,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1661491800,
+        "season_number": "3",
+        "serial": 1661408366576,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1011844030",
+        "show_timestamp": 1661491800,
+        "status": "estimated",
+        "summary": "Rick goes toe to toe with the President in this one broh.",
+        "title": "The Rickchurian Mortydate",
+        "title_id": "2116839",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "V"
+        ],
+        "content_id": "1495J7",
+        "create_time": 1661408366762,
+        "episode_in_season": "2",
+        "episode_number": "S4:E02",
+        "external_id": "15770026",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1661493600,
+        "last_update": 1661408366762,
+        "live": false,
+        "premiere": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1661493600,
+        "season_number": "4",
+        "serial": 1661408366576,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1011844031",
+        "show_timestamp": 1661493600,
+        "status": "estimated",
+        "summary": "Bender is declared the new Santa after Santabot is frozen on Neptune.",
+        "title": "A Tale of Two Santas",
+        "title_id": "437697",
+        "tv_rating": "TV-PG"
     }
 ]
