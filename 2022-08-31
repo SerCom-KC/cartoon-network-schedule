@@ -15,7 +15,7 @@
             "Drama"
         ],
         "guide_timestamp": 1661918400,
-        "last_update": 1661838005256,
+        "last_update": 1661840001912,
         "live": false,
         "participants": [
             {
@@ -60,7 +60,7 @@
         "scheduled_duration": 1811,
         "scheduled_timestamp": 1661918400,
         "season_number": "3",
-        "serial": 1661838004569,
+        "serial": 1661840001701,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1811,
@@ -94,7 +94,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1661920200,
-        "last_update": 1661838005256,
+        "last_update": 1661840001912,
         "live": false,
         "participants": [
             {
@@ -164,7 +164,7 @@
         "scheduled_duration": 911,
         "scheduled_timestamp": 1661920200,
         "season_number": "7",
-        "serial": 1661838004569,
+        "serial": 1661840001701,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 911,
@@ -193,7 +193,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1661921100,
-        "last_update": 1661838005256,
+        "last_update": 1661840001912,
         "live": false,
         "participants": [
             {
@@ -263,7 +263,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1661921100,
         "season_number": "7",
-        "serial": 1661838004569,
+        "serial": 1661840001701,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -294,7 +294,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1661922000,
-        "last_update": 1661838005256,
+        "last_update": 1661840001912,
         "live": false,
         "participants": [
             {
@@ -324,7 +324,7 @@
         "scheduled_duration": 1816,
         "scheduled_timestamp": 1661922000,
         "season_number": "5",
-        "serial": 1661838004569,
+        "serial": 1661840001701,
         "series_id": "439722",
         "series_name": "The Venture Bros.",
         "show_duration": 1816,
@@ -356,7 +356,7 @@
             "Animation"
         ],
         "guide_timestamp": 1661923800,
-        "last_update": 1661838005256,
+        "last_update": 1661840001912,
         "live": false,
         "participants": [
             {
@@ -391,7 +391,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1661923800,
         "season_number": "4",
-        "serial": 1661838004569,
+        "serial": 1661840001701,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1806,
@@ -402,5 +402,43 @@
         "title": "One Crew Over the Crewcoo's Morty",
         "title_id": "2206488",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "14968V",
+        "create_time": 1661840001912,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "15770029",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1661925600,
+        "last_update": 1661840001912,
+        "live": false,
+        "premiere": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1661925600,
+        "season_number": "4",
+        "serial": 1661840001701,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1013750110",
+        "show_timestamp": 1661925600,
+        "status": "estimated",
+        "summary": "Amy's disapproving family tries to break up her relationship with Kif.",
+        "title": "Where the Buggalo Roam",
+        "title_id": "438045",
+        "tv_rating": "TV-PG"
     }
 ]
