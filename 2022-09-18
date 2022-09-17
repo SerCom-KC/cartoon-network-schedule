@@ -19,7 +19,7 @@
             "Animation"
         ],
         "guide_timestamp": 1663473600,
-        "last_update": 1663401063748,
+        "last_update": 1663402929694,
         "live": false,
         "participants": [
             {
@@ -49,7 +49,7 @@
         "scheduled_duration": 1897,
         "scheduled_timestamp": 1663473600,
         "season_number": "2",
-        "serial": 1663401063238,
+        "serial": 1663402929543,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1897,
@@ -81,7 +81,7 @@
             "Animation"
         ],
         "guide_timestamp": 1663475400,
-        "last_update": 1663401063748,
+        "last_update": 1663402929871,
         "live": false,
         "participants": [
             {
@@ -120,7 +120,7 @@
         "runtime_minutes": 110,
         "scheduled_duration": 6600,
         "scheduled_timestamp": 1663475400,
-        "serial": 1663401063238,
+        "serial": 1663402929715,
         "series_name": "",
         "show_duration": 6600,
         "show_id": "1018795249",
@@ -149,7 +149,7 @@
             "Animation"
         ],
         "guide_timestamp": 1663482000,
-        "last_update": 1663401063748,
+        "last_update": 1663402929871,
         "live": false,
         "participants": [
             {
@@ -233,7 +233,7 @@
         "runtime_minutes": 74,
         "scheduled_duration": 6015,
         "scheduled_timestamp": 1663482000,
-        "serial": 1663401063238,
+        "serial": 1663402929715,
         "series_name": "",
         "show_duration": 6015,
         "show_id": "1018795331",
@@ -243,5 +243,79 @@
         "title": "Batman: Mask of the Phantasm",
         "title_id": "68180",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "139D34",
+        "create_time": 1663402872822,
+        "external_id": "15898617",
+        "feed_id": "as-east",
+        "franchise_id": "471412",
+        "franchise_name": "Rick and Morty: Extras",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "guide_timestamp": 1663488000,
+        "last_update": 1663402929871,
+        "live": false,
+        "premiere": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1663488000,
+        "season_number": "1",
+        "serial": 1663402929715,
+        "series_id": "2215150",
+        "series_name": "Rick and Morty: Extras",
+        "show_duration": 900,
+        "show_id": "1018795412",
+        "show_timestamp": 1663488000,
+        "status": "estimated",
+        "summary": "In this homage to a classic tale, Samurai Rick defends Shogun Morty against all comers. Rick and Morty Samurai and Shogun parts 1 and 2, directed by Kaichi Sato.",
+        "title": "Samurai and Shogun Parts 1 & 2",
+        "title_id": "2328810",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "10N7R5",
+        "create_time": 1663402872822,
+        "external_id": "15884106",
+        "feed_id": "as-east",
+        "franchise_id": "471412",
+        "franchise_name": "Rick and Morty: Extras",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "guide_timestamp": 1663488900,
+        "last_update": 1663402929871,
+        "live": false,
+        "premiere": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1663488900,
+        "season_number": "1",
+        "serial": 1663402929715,
+        "series_id": "2215150",
+        "series_name": "Rick and Morty: Extras",
+        "show_duration": 900,
+        "show_id": "1018795423",
+        "show_timestamp": 1663488900,
+        "status": "estimated",
+        "summary": "Rick's plans to build the ultimate AI toaster take a strange turn when he and Morty are forced to travel to Akihabara for spare parts. A Halloween inspired masterpiece from our friends at Sola Digital, directed by Masaru Matsumoto.",
+        "summary_long": "Rick's plans to build the ultimate AI toaster take a strange turn when he and Morty are forced to travel to Akihabara for spare parts. Check out this Halloween inspired masterpiece from our friends at Sola Digital, directed by Masaru Matsumoto.",
+        "title": "The Great Yokai Battle of Akihabara",
+        "title_id": "2321720",
+        "tv_rating": "TV-14"
     }
 ]
