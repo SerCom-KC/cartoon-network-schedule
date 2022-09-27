@@ -19,7 +19,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1664337600,
-        "last_update": 1664257649058,
+        "last_update": 1664261623278,
         "live": false,
         "premiere": false,
         "release_year": 2015,
@@ -27,7 +27,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1664337600,
         "season_number": "2",
-        "serial": 1664257648891,
+        "serial": 1664261622670,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -59,7 +59,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1664338500,
-        "last_update": 1664257649058,
+        "last_update": 1664261623278,
         "live": false,
         "premiere": false,
         "release_year": 2015,
@@ -67,7 +67,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1664338500,
         "season_number": "2",
-        "serial": 1664257648891,
+        "serial": 1664261622670,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -94,7 +94,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1664339400,
-        "last_update": 1664257649058,
+        "last_update": 1664261623278,
         "live": false,
         "participants": [
             {
@@ -124,7 +124,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1664339400,
         "season_number": "9",
-        "serial": 1664257648891,
+        "serial": 1664261622670,
         "series_id": "896639",
         "series_name": "Aqua Something You Know Whatever",
         "show_duration": 900,
@@ -153,7 +153,7 @@
             "Music"
         ],
         "guide_timestamp": 1664340300,
-        "last_update": 1664257649058,
+        "last_update": 1664261623278,
         "live": false,
         "participants": [
             {
@@ -188,7 +188,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1664340300,
         "season_number": "1",
-        "serial": 1664257648891,
+        "serial": 1664261622670,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 900,
@@ -216,7 +216,7 @@
             "Drama"
         ],
         "guide_timestamp": 1664341200,
-        "last_update": 1664257649058,
+        "last_update": 1664261623278,
         "live": false,
         "participants": [
             {
@@ -261,7 +261,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1664341200,
         "season_number": "1",
-        "serial": 1664257648891,
+        "serial": 1664261622670,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -294,7 +294,7 @@
             "Animation"
         ],
         "guide_timestamp": 1664343000,
-        "last_update": 1664257649058,
+        "last_update": 1664261623278,
         "live": false,
         "participants": [
             {
@@ -329,7 +329,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1664343000,
         "season_number": "5",
-        "serial": 1664257648891,
+        "serial": 1664261622670,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -339,6 +339,85 @@
         "summary": "Gobble gobble broh. Rick and Morty givin thanks in this one.",
         "title": "Rick & Morty's Thanksploitation Spectacular",
         "title_id": "2270464",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "12VXM0",
+        "create_time": 1664261623278,
+        "episode_in_season": "10",
+        "episode_number": "S6:E10",
+        "external_id": "15770049",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1664344800,
+        "last_update": 1664261623278,
+        "live": false,
+        "premiere": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1664344800,
+        "season_number": "6",
+        "serial": 1664261622670,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1803,
+        "show_id": "1019693415",
+        "show_timestamp": 1664344800,
+        "status": "estimated",
+        "summary": "When doctors can't get through to Bender, they order a robotomy.",
+        "title": "Bender's Game Part 2",
+        "title_id": "2161613",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "12VXN6",
+        "create_time": 1664261623278,
+        "episode_in_season": "11",
+        "episode_number": "S6:E11",
+        "external_id": "15770089",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1664346600,
+        "last_update": 1664261623278,
+        "live": false,
+        "premiere": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1664346600,
+        "season_number": "6",
+        "serial": 1664261622670,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1019693437",
+        "show_timestamp": 1664346600,
+        "status": "estimated",
+        "summary": "While Bender is getting a robotomy, Farnsworth, Leela, and Fry wind up with Bender in his imaginary world of Dungeons and Dragons.",
+        "title": "Bender's Game Part 3",
+        "title_id": "2161614",
         "tv_rating": "TV-14"
     }
 ]
