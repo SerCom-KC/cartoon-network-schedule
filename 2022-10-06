@@ -19,7 +19,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1665028800,
-        "last_update": 1664947501561,
+        "last_update": 1664950525126,
         "live": false,
         "premiere": false,
         "release_year": 2015,
@@ -27,7 +27,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1665028800,
         "season_number": "2",
-        "serial": 1664947501055,
+        "serial": 1664950524552,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -58,7 +58,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1665029700,
-        "last_update": 1664947501561,
+        "last_update": 1664950525126,
         "live": false,
         "premiere": false,
         "release_year": 2015,
@@ -66,7 +66,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1665029700,
         "season_number": "2",
-        "serial": 1664947501055,
+        "serial": 1664950524552,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -97,7 +97,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1665030600,
-        "last_update": 1664947501561,
+        "last_update": 1664950525126,
         "live": false,
         "participants": [
             {
@@ -122,7 +122,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1665030600,
         "season_number": "10",
-        "serial": 1664947501055,
+        "serial": 1664950524552,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
         "show_duration": 900,
@@ -154,7 +154,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1665031500,
-        "last_update": 1664947501561,
+        "last_update": 1664950525126,
         "live": false,
         "participants": [
             {
@@ -179,7 +179,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1665031500,
         "season_number": "10",
-        "serial": 1664947501055,
+        "serial": 1664950524552,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
         "show_duration": 900,
@@ -207,7 +207,7 @@
             "Drama"
         ],
         "guide_timestamp": 1665032400,
-        "last_update": 1664947501690,
+        "last_update": 1664950525126,
         "live": false,
         "participants": [
             {
@@ -252,7 +252,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1665032400,
         "season_number": "1",
-        "serial": 1664947501180,
+        "serial": 1664950524552,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1804,
@@ -264,5 +264,113 @@
         "title": "The Story of Gangstalicious",
         "title_id": "627808",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1F45JG",
+        "create_time": 1664949463199,
+        "episode_in_season": "5",
+        "episode_number": "S6:E05",
+        "external_id": "15892211",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1665034200,
+        "last_update": 1664950525126,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1813,
+        "scheduled_timestamp": 1665034200,
+        "season_number": "6",
+        "serial": 1664950524552,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1813,
+        "show_id": "1019954056",
+        "show_timestamp": 1665034200,
+        "status": "estimated",
+        "summary": "Fortune cookies, broh.",
+        "title": "Final DeSmithation",
+        "title_id": "2397938",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "S",
+            "V"
+        ],
+        "content_id": "14RP33",
+        "create_time": 1664950525126,
+        "episode_in_season": "4",
+        "episode_number": "S7:E04",
+        "external_id": "15892231",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1665036000,
+        "last_update": 1664950525126,
+        "live": false,
+        "premiere": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1665036000,
+        "season_number": "7",
+        "serial": 1664950524552,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1020755464",
+        "show_timestamp": 1665036000,
+        "status": "estimated",
+        "summary": "Bender leads a campaign to legalize robosexual marriage between humans and robots.",
+        "title": "Proposition Infinity",
+        "title_id": "2161623",
+        "tv_rating": "TV-14"
     }
 ]
