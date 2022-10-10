@@ -19,7 +19,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1665460800,
-        "last_update": 1665380194267,
+        "last_update": 1665382457199,
         "live": false,
         "premiere": false,
         "release_year": 2015,
@@ -27,7 +27,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1665460800,
         "season_number": "2",
-        "serial": 1665380194028,
+        "serial": 1665382456956,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 901,
@@ -59,7 +59,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1665461700,
-        "last_update": 1665380194362,
+        "last_update": 1665382457199,
         "live": false,
         "premiere": false,
         "release_year": 2015,
@@ -67,7 +67,7 @@
         "scheduled_duration": 907,
         "scheduled_timestamp": 1665461700,
         "season_number": "2",
-        "serial": 1665380194153,
+        "serial": 1665382456956,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 907,
@@ -97,7 +97,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1665462600,
-        "last_update": 1665380194362,
+        "last_update": 1665382457331,
         "live": false,
         "participants": [
             {
@@ -122,7 +122,7 @@
         "scheduled_duration": 902,
         "scheduled_timestamp": 1665462600,
         "season_number": "10",
-        "serial": 1665380194153,
+        "serial": 1665382457144,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
         "show_duration": 902,
@@ -154,7 +154,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1665463500,
-        "last_update": 1665380194362,
+        "last_update": 1665382457331,
         "live": false,
         "participants": [
             {
@@ -179,7 +179,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1665463500,
         "season_number": "10",
-        "serial": 1665380194153,
+        "serial": 1665382457144,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
         "show_duration": 903,
@@ -209,7 +209,7 @@
             "Drama"
         ],
         "guide_timestamp": 1665464400,
-        "last_update": 1665380194362,
+        "last_update": 1665382457331,
         "live": false,
         "participants": [
             {
@@ -254,7 +254,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1665464400,
         "season_number": "1",
-        "serial": 1665380194153,
+        "serial": 1665382457144,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -286,7 +286,7 @@
             "Animation"
         ],
         "guide_timestamp": 1665466200,
-        "last_update": 1665380194362,
+        "last_update": 1665382457331,
         "live": false,
         "participants": [
             {
@@ -321,7 +321,7 @@
         "scheduled_duration": 1807,
         "scheduled_timestamp": 1665466200,
         "season_number": "6",
-        "serial": 1665380194153,
+        "serial": 1665382457144,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1807,
@@ -331,6 +331,46 @@
         "summary": "They're back, broh.",
         "title": "JuRicksic Mort",
         "title_id": "2397939",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14RY7C",
+        "create_time": 1665382457331,
+        "episode_in_season": "8",
+        "episode_number": "S7:E08",
+        "external_id": "15892234",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1665468000,
+        "last_update": 1665382457331,
+        "live": false,
+        "premiere": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1665468000,
+        "season_number": "7",
+        "serial": 1665382457144,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1801,
+        "show_id": "1020506874",
+        "show_timestamp": 1665468000,
+        "status": "estimated",
+        "summary": "Earth is overrun by a race of intelligent felines.",
+        "title": "That Darn Katz!",
+        "title_id": "2161627",
         "tv_rating": "TV-14"
     }
 ]
