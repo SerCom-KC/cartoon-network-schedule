@@ -19,7 +19,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1666065600,
-        "last_update": 1665987868498,
+        "last_update": 1665988513791,
         "live": false,
         "premiere": false,
         "release_year": 2017,
@@ -27,7 +27,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1666065600,
         "season_number": "3",
-        "serial": 1665987868118,
+        "serial": 1665988513554,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 901,
@@ -59,7 +59,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1666066500,
-        "last_update": 1665987868498,
+        "last_update": 1665988513791,
         "live": false,
         "premiere": false,
         "release_year": 2017,
@@ -67,7 +67,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1666066500,
         "season_number": "3",
-        "serial": 1665987868118,
+        "serial": 1665988513554,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 901,
@@ -99,7 +99,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1666067400,
-        "last_update": 1665987868498,
+        "last_update": 1665988513791,
         "live": false,
         "participants": [
             {
@@ -124,7 +124,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1666067400,
         "season_number": "11",
-        "serial": 1665987868118,
+        "serial": 1665988513554,
         "series_id": "2059880",
         "series_name": "Aqua Teen Hunger Force Forever",
         "show_duration": 1800,
@@ -152,7 +152,7 @@
             "Drama"
         ],
         "guide_timestamp": 1666069200,
-        "last_update": 1665987868498,
+        "last_update": 1665988513791,
         "live": false,
         "participants": [
             {
@@ -197,7 +197,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1666069200,
         "season_number": "1",
-        "serial": 1665987868118,
+        "serial": 1665988513554,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -231,7 +231,7 @@
             "Animation"
         ],
         "guide_timestamp": 1666071000,
-        "last_update": 1665987868498,
+        "last_update": 1665988513791,
         "live": false,
         "participants": [
             {
@@ -266,7 +266,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1666071000,
         "season_number": "1",
-        "serial": 1665987868118,
+        "serial": 1665988513554,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1804,
@@ -298,7 +298,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1666072800,
-        "last_update": 1665987868498,
+        "last_update": 1665988513791,
         "live": false,
         "premiere": false,
         "release_year": 2011,
@@ -306,7 +306,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1666072800,
         "season_number": "8",
-        "serial": 1665987868118,
+        "serial": 1665988513554,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -316,6 +316,46 @@
         "summary": "When Bender dies, his disembodied software begins haunting the Planet Express building.",
         "title": "Ghost in the Machines",
         "title_id": "2161638",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14KGJR",
+        "create_time": 1665988513791,
+        "episode_in_season": "4",
+        "episode_number": "S8:E04",
+        "external_id": "15892264",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1666074600,
+        "last_update": 1665988513791,
+        "live": false,
+        "premiere": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1666074600,
+        "season_number": "8",
+        "serial": 1665988513554,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1022144472",
+        "show_timestamp": 1666074600,
+        "status": "estimated",
+        "summary": "Fry quits his job, and becomes a police officer assigned to the Future Crimes Division.",
+        "title": "Law & Oracle",
+        "title_id": "2161635",
         "tv_rating": "TV-14"
     }
 ]
