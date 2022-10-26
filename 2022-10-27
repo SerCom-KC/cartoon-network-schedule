@@ -19,7 +19,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1666843200,
-        "last_update": 1666762243864,
+        "last_update": 1666764134548,
         "live": false,
         "premiere": false,
         "release_year": 2014,
@@ -27,7 +27,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1666843200,
         "season_number": "1",
-        "serial": 1666762243758,
+        "serial": 1666764134464,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 905,
@@ -59,7 +59,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1666844100,
-        "last_update": 1666762243864,
+        "last_update": 1666764134548,
         "live": false,
         "premiere": false,
         "release_year": 2015,
@@ -67,7 +67,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1666844100,
         "season_number": "2",
-        "serial": 1666762243758,
+        "serial": 1666764134464,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -97,7 +97,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1666845000,
-        "last_update": 1666762243864,
+        "last_update": 1666764134548,
         "live": false,
         "participants": [
             {
@@ -127,7 +127,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1666845000,
         "season_number": "3",
-        "serial": 1666762243758,
+        "serial": 1666764134464,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
         "show_duration": 903,
@@ -155,7 +155,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1666845900,
-        "last_update": 1666762243864,
+        "last_update": 1666764134548,
         "live": false,
         "participants": [
             {
@@ -185,7 +185,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1666845900,
         "season_number": "7",
-        "serial": 1666762243758,
+        "serial": 1666764134464,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
         "show_duration": 903,
@@ -213,7 +213,7 @@
             "Drama"
         ],
         "guide_timestamp": 1666846800,
-        "last_update": 1666762243864,
+        "last_update": 1666764134548,
         "live": false,
         "participants": [
             {
@@ -258,7 +258,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1666846800,
         "season_number": "2",
-        "serial": 1666762243758,
+        "serial": 1666764134464,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -290,7 +290,7 @@
             "Animation"
         ],
         "guide_timestamp": 1666848600,
-        "last_update": 1666762243864,
+        "last_update": 1666764134548,
         "live": false,
         "participants": [
             {
@@ -325,7 +325,7 @@
         "scheduled_duration": 1809,
         "scheduled_timestamp": 1666848600,
         "season_number": "2",
-        "serial": 1666762243758,
+        "serial": 1666764134464,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1809,
@@ -335,6 +335,46 @@
         "summary": "Rick don joins in on some hijinks in this one broh. Beth and Jerry sort out their relationship too broh.",
         "title": "Big Trouble in Little Sanchez",
         "title_id": "2060770",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14X3H8",
+        "create_time": 1666764134548,
+        "episode_in_season": "2",
+        "episode_number": "S9:E02",
+        "external_id": "15892246",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1666850400,
+        "last_update": 1666764134548,
+        "live": false,
+        "premiere": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1666850400,
+        "season_number": "9",
+        "serial": 1666764134464,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1024670183",
+        "show_timestamp": 1666850400,
+        "status": "estimated",
+        "summary": "An ancient prophecy predicts the world will end in the year 3012.",
+        "title": "A Farewell to Arms",
+        "title_id": "2161647",
         "tv_rating": "TV-14"
     }
 ]
