@@ -20,7 +20,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1667448000,
-        "last_update": 1667370547700,
+        "last_update": 1667371960735,
         "live": false,
         "premiere": false,
         "release_year": 2017,
@@ -28,7 +28,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1667448000,
         "season_number": "3",
-        "serial": 1667370547558,
+        "serial": 1667371960376,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -61,7 +61,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1667448900,
-        "last_update": 1667370547700,
+        "last_update": 1667371960735,
         "live": false,
         "premiere": false,
         "release_year": 2017,
@@ -69,7 +69,7 @@
         "scheduled_duration": 907,
         "scheduled_timestamp": 1667448900,
         "season_number": "3",
-        "serial": 1667370547558,
+        "serial": 1667371960376,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 907,
@@ -101,7 +101,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1667449800,
-        "last_update": 1667370547700,
+        "last_update": 1667371960735,
         "live": false,
         "participants": [
             {
@@ -136,7 +136,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1667449800,
         "season_number": "8",
-        "serial": 1667370547558,
+        "serial": 1667371960376,
         "series_id": "847246",
         "series_name": "Aqua Unit Patrol Squad 1",
         "show_duration": 906,
@@ -168,7 +168,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1667450700,
-        "last_update": 1667370547700,
+        "last_update": 1667371960735,
         "live": false,
         "participants": [
             {
@@ -198,7 +198,7 @@
         "scheduled_duration": 909,
         "scheduled_timestamp": 1667450700,
         "season_number": "9",
-        "serial": 1667370547558,
+        "serial": 1667371960376,
         "series_id": "896639",
         "series_name": "Aqua Something You Know Whatever",
         "show_duration": 909,
@@ -226,7 +226,7 @@
             "Drama"
         ],
         "guide_timestamp": 1667451600,
-        "last_update": 1667370547874,
+        "last_update": 1667371960735,
         "live": false,
         "participants": [
             {
@@ -271,7 +271,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1667451600,
         "season_number": "2",
-        "serial": 1667370547745,
+        "serial": 1667371960376,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1804,
@@ -305,7 +305,7 @@
             "Animation"
         ],
         "guide_timestamp": 1667453400,
-        "last_update": 1667370547874,
+        "last_update": 1667371960735,
         "live": false,
         "participants": [
             {
@@ -340,7 +340,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1667453400,
         "season_number": "2",
-        "serial": 1667370547745,
+        "serial": 1667371960376,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -371,7 +371,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1667455200,
-        "last_update": 1667370547874,
+        "last_update": 1667371960821,
         "live": false,
         "participants": [
             {
@@ -416,7 +416,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1667455200,
         "season_number": "11",
-        "serial": 1667370547745,
+        "serial": 1667371960501,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -426,6 +426,47 @@
         "summary": "Steve and Snot alter their futures when they throw a party for the uncool kids. Meanwhile, Roger is disgruntled when a waitress doesn't compliment his order and Stan and Francine go on vacation in Bosnia.",
         "title": "The Unincludeds",
         "title_id": "2041479",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "14X3HD",
+        "create_time": 1667371960821,
+        "episode_in_season": "13",
+        "episode_number": "S9:E13",
+        "external_id": "15892276",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1667457000,
+        "last_update": 1667371960821,
+        "live": false,
+        "premiere": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1667457000,
+        "season_number": "9",
+        "serial": 1667371960501,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1025854726",
+        "show_timestamp": 1667457000,
+        "status": "estimated",
+        "summary": "Bender and the crew are reimagined as wild animals in a nature documentary.",
+        "title": "Naturama",
+        "title_id": "2161658",
         "tv_rating": "TV-14"
     }
 ]
