@@ -20,7 +20,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1667534400,
-        "last_update": 1667449556571,
+        "last_update": 1667450892163,
         "live": false,
         "premiere": false,
         "release_year": 2019,
@@ -28,7 +28,7 @@
         "scheduled_duration": 904,
         "scheduled_timestamp": 1667534400,
         "season_number": "4",
-        "serial": 1667449556498,
+        "serial": 1667450891925,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 904,
@@ -60,7 +60,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1667535300,
-        "last_update": 1667449556571,
+        "last_update": 1667450892245,
         "live": false,
         "premiere": false,
         "release_year": 2019,
@@ -68,7 +68,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1667535300,
         "season_number": "4",
-        "serial": 1667449556498,
+        "serial": 1667450892035,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 903,
@@ -79,5 +79,124 @@
         "title": "The Bucket List",
         "title_id": "2172000",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "1JHZW",
+        "create_time": 1667450892245,
+        "episode_in_season": "2",
+        "episode_number": "S9:E02",
+        "external_id": "15892487",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1667536200,
+        "last_update": 1667450892245,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1667536200,
+        "season_number": "9",
+        "serial": 1667450892035,
+        "series_id": "896639",
+        "series_name": "Aqua Something You Know Whatever",
+        "show_duration": 900,
+        "show_id": "1025857974",
+        "show_timestamp": 1667536200,
+        "status": "estimated",
+        "summary": "Internet stardom goes to Meatwad's head and drives him into the darkness.",
+        "title": "Chicken and Beans",
+        "title_id": "896640",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "S"
+        ],
+        "content_id": "1J3UG",
+        "create_time": 1667450892245,
+        "episode_in_season": "3",
+        "episode_number": "S9:E03",
+        "external_id": "15899533",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1667537100,
+        "last_update": 1667450892245,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1667537100,
+        "season_number": "9",
+        "serial": 1667450892035,
+        "series_id": "896639",
+        "series_name": "Aqua Something You Know Whatever",
+        "show_duration": 900,
+        "show_id": "1025857985",
+        "show_timestamp": 1667537100,
+        "status": "estimated",
+        "summary": "Wearing Carl's amazing rock-and-roll fantasy shirt comes at a heavy price.",
+        "title": "Shirt Herpes",
+        "title_id": "896642",
+        "tv_rating": "TV-MA"
     }
 ]
