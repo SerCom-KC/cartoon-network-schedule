@@ -20,7 +20,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1668574800,
-        "last_update": 1668490017813,
+        "last_update": 1668491463373,
         "live": false,
         "premiere": false,
         "release_year": 2019,
@@ -28,7 +28,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1668574800,
         "season_number": "4",
-        "serial": 1668490017421,
+        "serial": 1668491463178,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -61,7 +61,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1668575700,
-        "last_update": 1668490017813,
+        "last_update": 1668491463373,
         "live": false,
         "premiere": false,
         "release_year": 2019,
@@ -69,7 +69,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1668575700,
         "season_number": "4",
-        "serial": 1668490017421,
+        "serial": 1668491463178,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 905,
@@ -79,6 +79,114 @@
         "summary": "The team goes to the grocery store.",
         "title": "Shop 'Til You Drop",
         "title_id": "2172012",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1Y9G5",
+        "create_time": 1668491463373,
+        "episode_in_season": "4",
+        "episode_number": "S10:E04",
+        "external_id": "15921709",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1668576600,
+        "last_update": 1668491463373,
+        "live": false,
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 903,
+        "scheduled_timestamp": 1668576600,
+        "season_number": "10",
+        "serial": 1668491463178,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 903,
+        "show_id": "1026047462",
+        "show_timestamp": 1668576600,
+        "status": "estimated",
+        "summary": "Meatwad's discovery of a mysterious banana-shaped planet calls for some last minute interplanetary exploration.",
+        "title": "Banana Planet",
+        "title_id": "2005992",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "1YD0W",
+        "create_time": 1668491463373,
+        "episode_in_season": "5",
+        "episode_number": "S10:E05",
+        "external_id": "15921729",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1668577500,
+        "last_update": 1668491463373,
+        "live": false,
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1668577500,
+        "season_number": "10",
+        "serial": 1668491463178,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 900,
+        "show_id": "1026047508",
+        "show_timestamp": 1668577500,
+        "status": "estimated",
+        "summary": "After their cable TV is cut off, Meatwad and Master Shake hope to score some easy money by doing the unthinkable.",
+        "title": "Working Stiffs",
+        "title_id": "2005989",
         "tv_rating": "TV-14"
     }
 ]
