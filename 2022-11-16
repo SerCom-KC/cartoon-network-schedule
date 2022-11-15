@@ -20,7 +20,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1668574800,
-        "last_update": 1668495306340,
+        "last_update": 1668497438313,
         "live": false,
         "premiere": false,
         "release_year": 2019,
@@ -28,7 +28,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1668574800,
         "season_number": "4",
-        "serial": 1668495306258,
+        "serial": 1668497438200,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -61,7 +61,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1668575700,
-        "last_update": 1668495306340,
+        "last_update": 1668497438313,
         "live": false,
         "premiere": false,
         "release_year": 2019,
@@ -69,7 +69,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1668575700,
         "season_number": "4",
-        "serial": 1668495306258,
+        "serial": 1668497438200,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 905,
@@ -96,7 +96,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1668576600,
-        "last_update": 1668495306340,
+        "last_update": 1668497438313,
         "live": false,
         "participants": [
             {
@@ -121,7 +121,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1668576600,
         "season_number": "10",
-        "serial": 1668495306258,
+        "serial": 1668497438200,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
         "show_duration": 903,
@@ -152,7 +152,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1668577500,
-        "last_update": 1668495306340,
+        "last_update": 1668497438313,
         "live": false,
         "participants": [
             {
@@ -177,7 +177,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1668577500,
         "season_number": "10",
-        "serial": 1668495306258,
+        "serial": 1668497438200,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
         "show_duration": 900,
@@ -205,7 +205,7 @@
             "Drama"
         ],
         "guide_timestamp": 1668578400,
-        "last_update": 1668495306340,
+        "last_update": 1668497438313,
         "live": false,
         "participants": [
             {
@@ -250,7 +250,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1668578400,
         "season_number": "3",
-        "serial": 1668495306258,
+        "serial": 1668497438200,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -283,7 +283,7 @@
             "Animation"
         ],
         "guide_timestamp": 1668580200,
-        "last_update": 1668495306340,
+        "last_update": 1668497438313,
         "live": false,
         "participants": [
             {
@@ -318,7 +318,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1668580200,
         "season_number": "3",
-        "serial": 1668495306258,
+        "serial": 1668497438200,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -329,5 +329,77 @@
         "title": "Rickmancing the Stone",
         "title_id": "2116831",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "14HDTT",
+        "create_time": 1668497438313,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "15921786",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1668582000,
+        "last_update": 1668497438313,
+        "live": false,
+        "premiere": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1668582000,
+        "season_number": "2",
+        "serial": 1668497438200,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1026047736",
+        "show_timestamp": 1668582000,
+        "status": "estimated",
+        "summary": "Romance and danger follow Bender and Fry on the space cruise ship, Titanic.",
+        "title": "A Flight to Remember",
+        "title_id": "437542",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "14JG9C",
+        "create_time": 1668497438313,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "15921806",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1668583800,
+        "last_update": 1668497438313,
+        "live": false,
+        "premiere": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1668583800,
+        "season_number": "2",
+        "serial": 1668497438200,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1026047825",
+        "show_timestamp": 1668583800,
+        "status": "estimated",
+        "summary": "Fry goes to college to prove the adage: Once, a dropout; always, a dropout.",
+        "title": "Mars University",
+        "title_id": "437543",
+        "tv_rating": "TV-PG"
     }
 ]
