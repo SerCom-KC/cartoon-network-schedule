@@ -19,7 +19,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1669093200,
-        "last_update": 1669012034563,
+        "last_update": 1669013724515,
         "live": false,
         "premiere": false,
         "release_year": 2014,
@@ -27,7 +27,7 @@
         "scheduled_duration": 909,
         "scheduled_timestamp": 1669093200,
         "season_number": "1",
-        "serial": 1669012034510,
+        "serial": 1669013724367,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 909,
@@ -59,7 +59,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1669094100,
-        "last_update": 1669012034563,
+        "last_update": 1669013724609,
         "live": false,
         "premiere": false,
         "release_year": 2014,
@@ -67,7 +67,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1669094100,
         "season_number": "1",
-        "serial": 1669012034510,
+        "serial": 1669013724476,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -100,7 +100,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1669095000,
-        "last_update": 1669012034563,
+        "last_update": 1669013724609,
         "live": false,
         "participants": [
             {
@@ -125,7 +125,7 @@
         "scheduled_duration": 904,
         "scheduled_timestamp": 1669095000,
         "season_number": "10",
-        "serial": 1669012034510,
+        "serial": 1669013724476,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
         "show_duration": 904,
@@ -154,7 +154,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1669095900,
-        "last_update": 1669012034563,
+        "last_update": 1669013724609,
         "live": false,
         "participants": [
             {
@@ -179,7 +179,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1669095900,
         "season_number": "11",
-        "serial": 1669012034510,
+        "serial": 1669013724476,
         "series_id": "2059880",
         "series_name": "Aqua Teen Hunger Force Forever",
         "show_duration": 900,
@@ -209,7 +209,7 @@
             "Drama"
         ],
         "guide_timestamp": 1669096800,
-        "last_update": 1669012034563,
+        "last_update": 1669013724609,
         "live": false,
         "participants": [
             {
@@ -259,7 +259,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1669096800,
         "season_number": "3",
-        "serial": 1669012034510,
+        "serial": 1669013724476,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -270,5 +270,72 @@
         "title": "Stinkmeaner 3: The Hateocracy",
         "title_id": "798556",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "1F5XXN",
+        "create_time": 1669013724609,
+        "episode_in_season": "7",
+        "episode_number": "S6:E07",
+        "external_id": "15921772",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1669098600,
+        "last_update": 1669013724609,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1669098600,
+        "season_number": "6",
+        "serial": 1669013724476,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1028883196",
+        "show_timestamp": 1669098600,
+        "status": "estimated",
+        "summary": "This one wrinkled my brain, broh.",
+        "title": "Full Meta Jackrick",
+        "title_id": "2397940",
+        "tv_rating": "TV-14"
     }
 ]
