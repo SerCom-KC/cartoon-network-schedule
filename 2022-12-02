@@ -19,7 +19,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1669957200,
-        "last_update": 1669877432932,
+        "last_update": 1669878511271,
         "live": false,
         "premiere": false,
         "release_year": 2015,
@@ -27,7 +27,7 @@
         "scheduled_duration": 915,
         "scheduled_timestamp": 1669957200,
         "season_number": "2",
-        "serial": 1669877432764,
+        "serial": 1669878511080,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 915,
@@ -58,7 +58,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1669958100,
-        "last_update": 1669877432932,
+        "last_update": 1669878511271,
         "live": false,
         "premiere": false,
         "release_year": 2015,
@@ -66,7 +66,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1669958100,
         "season_number": "2",
-        "serial": 1669877432764,
+        "serial": 1669878511080,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -93,7 +93,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1669959000,
-        "last_update": 1669877433138,
+        "last_update": 1669878511271,
         "live": false,
         "participants": [
             {
@@ -118,7 +118,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1669959000,
         "season_number": "11",
-        "serial": 1669877432999,
+        "serial": 1669878511080,
         "series_id": "2059880",
         "series_name": "Aqua Teen Hunger Force Forever",
         "show_duration": 900,
@@ -149,7 +149,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1669959900,
-        "last_update": 1669877433138,
+        "last_update": 1669878511366,
         "live": false,
         "participants": [
             {
@@ -179,7 +179,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1669959900,
         "season_number": "4",
-        "serial": 1669877432999,
+        "serial": 1669878511205,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
         "show_duration": 900,
@@ -207,7 +207,7 @@
             "Drama"
         ],
         "guide_timestamp": 1669960800,
-        "last_update": 1669877433138,
+        "last_update": 1669878511366,
         "live": false,
         "participants": [
             {
@@ -257,7 +257,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1669960800,
         "season_number": "3",
-        "serial": 1669877432999,
+        "serial": 1669878511205,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1804,
@@ -292,7 +292,7 @@
             "Animation"
         ],
         "guide_timestamp": 1669962600,
-        "last_update": 1669877433138,
+        "last_update": 1669878511366,
         "live": false,
         "participants": [
             {
@@ -327,7 +327,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1669962600,
         "season_number": "3",
-        "serial": 1669877432999,
+        "serial": 1669878511205,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -338,5 +338,41 @@
         "title": "The ABC's of Beth",
         "title_id": "2116837",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "14M596",
+        "create_time": 1669878511366,
+        "episode_in_season": "8",
+        "episode_number": "S3:E08",
+        "external_id": "15921798",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1669964400,
+        "last_update": 1669878511366,
+        "live": false,
+        "premiere": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1669964400,
+        "season_number": "3",
+        "serial": 1669878511205,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1030738461",
+        "show_timestamp": 1669964400,
+        "status": "estimated",
+        "summary": "Dr. Zoidberg breaks into show business by making a movie with his uncle.",
+        "title": "That's Lobstertainment!",
+        "title_id": "437701",
+        "tv_rating": "TV-PG"
     }
 ]
