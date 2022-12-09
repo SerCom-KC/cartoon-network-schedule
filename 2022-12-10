@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1670648400,
-        "last_update": 1670565731176,
+        "last_update": 1670570103114,
         "live": false,
         "participants": [
             {
@@ -55,7 +55,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1670648400,
         "season_number": "6",
-        "serial": 1670565730871,
+        "serial": 1670570103049,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -88,7 +88,7 @@
             "Animation"
         ],
         "guide_timestamp": 1670650200,
-        "last_update": 1670565731176,
+        "last_update": 1670570103114,
         "live": false,
         "participants": [
             {
@@ -123,7 +123,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1670650200,
         "season_number": "6",
-        "serial": 1670565730871,
+        "serial": 1670570103049,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -155,7 +155,7 @@
             "Animation"
         ],
         "guide_timestamp": 1670652000,
-        "last_update": 1670565731377,
+        "last_update": 1670570103114,
         "live": false,
         "participants": [
             {
@@ -190,7 +190,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1670652000,
         "season_number": "6",
-        "serial": 1670565731105,
+        "serial": 1670570103049,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -201,5 +201,111 @@
         "title": "Full Meta Jackrick",
         "title_id": "2397940",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1F5HV9",
+        "create_time": 1670570103114,
+        "episode_in_season": "8",
+        "episode_number": "S6:E08",
+        "external_id": "15957376",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1670653800,
+        "last_update": 1670570103114,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1809,
+        "scheduled_timestamp": 1670653800,
+        "season_number": "6",
+        "serial": 1670570103049,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1809,
+        "show_id": "1031736111",
+        "show_timestamp": 1670653800,
+        "status": "estimated",
+        "summary": "Haters gonna hate, broh.",
+        "title": "Analyze Piss",
+        "title_id": "2397941",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "1496G0",
+        "create_time": 1670570103364,
+        "episode_in_season": "9",
+        "episode_number": "S4:E09",
+        "external_id": "15956869",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1670655600,
+        "last_update": 1670570103364,
+        "live": false,
+        "premiere": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1821,
+        "scheduled_timestamp": 1670655600,
+        "season_number": "4",
+        "serial": 1670570103361,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1821,
+        "show_id": "1031270866",
+        "show_timestamp": 1670655600,
+        "status": "estimated",
+        "summary": "A power shift at Planet Express has Fry hatching a plan to restore the original regime.",
+        "title": "Future Stock",
+        "title_id": "438053",
+        "tv_rating": "TV-PG"
     }
 ]
