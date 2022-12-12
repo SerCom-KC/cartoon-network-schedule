@@ -19,7 +19,7 @@
             "Animation"
         ],
         "guide_timestamp": 1670907600,
-        "last_update": 1670825112645,
+        "last_update": 1670830090850,
         "live": false,
         "participants": [
             {
@@ -54,7 +54,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1670907600,
         "season_number": "6",
-        "serial": 1670825112220,
+        "serial": 1670830090764,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -87,7 +87,7 @@
             "Animation"
         ],
         "guide_timestamp": 1670909400,
-        "last_update": 1670825112826,
+        "last_update": 1670830090850,
         "live": false,
         "participants": [
             {
@@ -122,7 +122,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1670909400,
         "season_number": "6",
-        "serial": 1670825112548,
+        "serial": 1670830090764,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1805,
@@ -153,7 +153,7 @@
             "Animation"
         ],
         "guide_timestamp": 1670911200,
-        "last_update": 1670825112826,
+        "last_update": 1670830091009,
         "live": false,
         "participants": [
             {
@@ -188,7 +188,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1670911200,
         "season_number": "6",
-        "serial": 1670825112548,
+        "serial": 1670830090968,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -199,5 +199,142 @@
         "title": "Bethic Twinstinct",
         "title_id": "2397936",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "1F3Y6K",
+        "create_time": 1670830091009,
+        "episode_in_season": "4",
+        "episode_number": "S6:E04",
+        "external_id": "15956853",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1670913000,
+        "last_update": 1670830091009,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1670913000,
+        "season_number": "6",
+        "serial": 1670830090968,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1031284364",
+        "show_timestamp": 1670913000,
+        "status": "estimated",
+        "summary": "Broh I'm scared.",
+        "title": "Night Family",
+        "title_id": "2397937",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1F45JG",
+        "create_time": 1670830091009,
+        "episode_in_season": "5",
+        "episode_number": "S6:E05",
+        "external_id": "15957381",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1670914800,
+        "last_update": 1670830091009,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1670914800,
+        "season_number": "6",
+        "serial": 1670830090968,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1031284366",
+        "show_timestamp": 1670914800,
+        "status": "estimated",
+        "summary": "Fortune cookies, broh.",
+        "title": "Final DeSmithation",
+        "title_id": "2397938",
+        "tv_rating": "TV-14"
     }
 ]
