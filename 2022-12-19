@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1671426000,
-        "last_update": 1671350200247,
+        "last_update": 1671351056619,
         "live": false,
         "participants": [
             {
@@ -55,7 +55,7 @@
         "scheduled_duration": 1807,
         "scheduled_timestamp": 1671426000,
         "season_number": "6",
-        "serial": 1671350200929,
+        "serial": 1671351056339,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1807,
@@ -86,7 +86,7 @@
             "Animation"
         ],
         "guide_timestamp": 1671427800,
-        "last_update": 1671350200247,
+        "last_update": 1671351056619,
         "live": false,
         "participants": [
             {
@@ -121,7 +121,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1671427800,
         "season_number": "6",
-        "serial": 1671350200929,
+        "serial": 1671351056339,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1805,
@@ -155,7 +155,7 @@
             "Animation"
         ],
         "guide_timestamp": 1671429600,
-        "last_update": 1671350200247,
+        "last_update": 1671351056619,
         "live": false,
         "participants": [
             {
@@ -190,7 +190,7 @@
         "scheduled_duration": 1809,
         "scheduled_timestamp": 1671429600,
         "season_number": "6",
-        "serial": 1671350200929,
+        "serial": 1671351056339,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1809,
@@ -223,7 +223,7 @@
             "Animation"
         ],
         "guide_timestamp": 1671431400,
-        "last_update": 1671350200247,
+        "last_update": 1671351056619,
         "live": false,
         "participants": [
             {
@@ -258,7 +258,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1671431400,
         "season_number": "6",
-        "serial": 1671350200929,
+        "serial": 1671351056339,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1804,
@@ -290,7 +290,7 @@
             "Animation"
         ],
         "guide_timestamp": 1671433200,
-        "last_update": 1671350200247,
+        "last_update": 1671351056619,
         "live": false,
         "participants": [
             {
@@ -325,7 +325,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1671433200,
         "season_number": "6",
-        "serial": 1671350200929,
+        "serial": 1671351056339,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1806,
@@ -357,7 +357,7 @@
             "Animation"
         ],
         "guide_timestamp": 1671435000,
-        "last_update": 1671350200247,
+        "last_update": 1671351056619,
         "live": false,
         "participants": [
             {
@@ -392,7 +392,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1671435000,
         "season_number": "6",
-        "serial": 1671350200929,
+        "serial": 1671351056339,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -402,6 +402,74 @@
         "summary": "This one wrinkled my brain, broh.",
         "title": "Full Meta Jackrick",
         "title_id": "2397940",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1F5HV9",
+        "create_time": 1671350597757,
+        "episode_in_season": "8",
+        "episode_number": "S6:E08",
+        "external_id": "15957107",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1671436800,
+        "last_update": 1671351056619,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1671436800,
+        "season_number": "6",
+        "serial": 1671351056339,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1031297918",
+        "show_timestamp": 1671436800,
+        "status": "estimated",
+        "summary": "Haters gonna hate, broh.",
+        "title": "Analyze Piss",
+        "title_id": "2397941",
         "tv_rating": "TV-14"
     }
 ]
