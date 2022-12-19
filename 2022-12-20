@@ -16,7 +16,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1671512400,
-        "last_update": 1671430309186,
+        "last_update": 1671431843160,
         "live": false,
         "participants": [
             {
@@ -86,7 +86,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1671512400,
         "season_number": "4",
-        "serial": 1671430309046,
+        "serial": 1671431842901,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -115,7 +115,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1671513300,
-        "last_update": 1671430309186,
+        "last_update": 1671431843160,
         "live": false,
         "participants": [
             {
@@ -185,7 +185,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1671513300,
         "season_number": "5",
-        "serial": 1671430309046,
+        "serial": 1671431842901,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -217,7 +217,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1671514200,
-        "last_update": 1671430309186,
+        "last_update": 1671431843160,
         "live": false,
         "participants": [
             {
@@ -247,7 +247,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1671514200,
         "season_number": "1",
-        "serial": 1671430309046,
+        "serial": 1671431842901,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
         "show_duration": 901,
@@ -277,7 +277,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1671515100,
-        "last_update": 1671430309186,
+        "last_update": 1671431843160,
         "live": false,
         "participants": [
             {
@@ -307,7 +307,7 @@
         "scheduled_duration": 904,
         "scheduled_timestamp": 1671515100,
         "season_number": "5",
-        "serial": 1671430309046,
+        "serial": 1671431842901,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
         "show_duration": 904,
@@ -335,7 +335,7 @@
             "Drama"
         ],
         "guide_timestamp": 1671516000,
-        "last_update": 1671430309186,
+        "last_update": 1671431843160,
         "live": false,
         "participants": [
             {
@@ -385,7 +385,7 @@
         "scheduled_duration": 1815,
         "scheduled_timestamp": 1671516000,
         "season_number": "4",
-        "serial": 1671430309046,
+        "serial": 1671431842901,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1815,
@@ -397,5 +397,74 @@
         "title": "Freedom Ride or Die",
         "title_id": "2008055",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "4PFYY",
+        "create_time": 1671431843160,
+        "episode_in_season": "5",
+        "episode_number": "S4:E05",
+        "external_id": "15956857",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1671517800,
+        "last_update": 1671431843160,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1671517800,
+        "season_number": "4",
+        "serial": 1671431842901,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1810,
+        "show_id": "1031631906",
+        "show_timestamp": 1671517800,
+        "status": "estimated",
+        "summary": "Lots of things in space broh. Snakes and sharp stuff. Watch this broh.",
+        "title": "Rattlestar Ricklactica",
+        "title_id": "2206490",
+        "tv_rating": "TV-14"
     }
 ]
