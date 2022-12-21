@@ -16,7 +16,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1671685200,
-        "last_update": 1671601274630,
+        "last_update": 1671603200869,
         "live": false,
         "participants": [
             {
@@ -86,7 +86,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1671685200,
         "season_number": "7",
-        "serial": 1671601274926,
+        "serial": 1671603200653,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 903,
@@ -116,7 +116,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1671686100,
-        "last_update": 1671601274630,
+        "last_update": 1671603200869,
         "live": false,
         "participants": [
             {
@@ -186,7 +186,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1671686100,
         "season_number": "8",
-        "serial": 1671601274926,
+        "serial": 1671603200653,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -217,7 +217,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1671687000,
-        "last_update": 1671601274782,
+        "last_update": 1671603200869,
         "live": false,
         "participants": [
             {
@@ -247,7 +247,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1671687000,
         "season_number": "3",
-        "serial": 1671601275176,
+        "serial": 1671603200653,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
         "show_duration": 900,
@@ -258,5 +258,143 @@
         "title": "T-Shirt of the Dead",
         "title_id": "580100",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "N7RF",
+        "create_time": 1671602610887,
+        "episode_in_season": "6",
+        "episode_number": "S5:E06",
+        "external_id": "15957013",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1671687900,
+        "last_update": 1671603201048,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2008,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1671687900,
+        "season_number": "5",
+        "serial": 1671603200856,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "show_duration": 902,
+        "show_id": "1031630645",
+        "show_timestamp": 1671687900,
+        "status": "estimated",
+        "summary": "Master Shake's megalomania soars to new heights once he steals Frylock's laser-shooting contact lenses.",
+        "title": "Laser Lenses",
+        "title_id": "702582",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "4KWJC",
+        "create_time": 1671602610887,
+        "episode_in_season": "7",
+        "episode_number": "S4:E07",
+        "external_id": "15957029",
+        "feed_id": "as-east",
+        "franchise_id": "336141",
+        "franchise_name": "Boondocks, The",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1671688800,
+        "last_update": 1671603201048,
+        "live": false,
+        "participants": [
+            {
+                "character": "Riley Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Huey Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Robert Freeman",
+                "name": "John Witherspoon",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Ruckus",
+                "name": "Gary Anthony Williams",
+                "role": "Voice"
+            },
+            {
+                "character": "Tom Dubois",
+                "name": "Cedric Yarbrough",
+                "role": "Voice"
+            },
+            {
+                "character": "Sarah Dubois",
+                "name": "Jill Talley",
+                "role": "Voice"
+            },
+            {
+                "character": "Jazmine Dubois",
+                "name": "Gabby Soleil",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Aaron Mcgruder",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1671688800,
+        "season_number": "4",
+        "serial": 1671603200856,
+        "series_id": "610028",
+        "series_name": "The Boondocks",
+        "show_duration": 1808,
+        "show_id": "1031630672",
+        "show_timestamp": 1671688800,
+        "status": "estimated",
+        "summary": "The Freemans find Eddie Wuncler's new slavery theme park Freedomland may be a bit too authentic, when they are trapped there and forced to be slaves. Huey must find a way to uproot them from this situation.",
+        "title": "Freedomland",
+        "title_id": "2008061",
+        "tv_rating": "TV-MA"
     }
 ]
