@@ -18,7 +18,7 @@
             "Animation"
         ],
         "guide_timestamp": 1671944400,
-        "last_update": 1671869862339,
+        "last_update": 1671875310333,
         "live": false,
         "participants": [
             {
@@ -48,7 +48,7 @@
         "scheduled_duration": 1807,
         "scheduled_timestamp": 1671944400,
         "season_number": "2",
-        "serial": 1671869862132,
+        "serial": 1671875310624,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1807,
@@ -79,7 +79,7 @@
             "Animation"
         ],
         "guide_timestamp": 1671946200,
-        "last_update": 1671869862339,
+        "last_update": 1671875310333,
         "live": false,
         "participants": [
             {
@@ -109,7 +109,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1671946200,
         "season_number": "2",
-        "serial": 1671869862132,
+        "serial": 1671875310624,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1800,
@@ -140,7 +140,7 @@
             "Animation"
         ],
         "guide_timestamp": 1671948000,
-        "last_update": 1671869862339,
+        "last_update": 1671875310333,
         "live": false,
         "participants": [
             {
@@ -170,7 +170,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1671948000,
         "season_number": "2",
-        "serial": 1671869862132,
+        "serial": 1671875310624,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1800,
@@ -202,7 +202,7 @@
             "Animation"
         ],
         "guide_timestamp": 1671949800,
-        "last_update": 1671869862339,
+        "last_update": 1671875310333,
         "live": false,
         "participants": [
             {
@@ -232,7 +232,7 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1671949800,
         "season_number": "2",
-        "serial": 1671869862132,
+        "serial": 1671875310624,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1802,
@@ -263,7 +263,7 @@
             "Horror"
         ],
         "guide_timestamp": 1671951600,
-        "last_update": 1671869862339,
+        "last_update": 1671875310333,
         "live": false,
         "participants": [
             {
@@ -363,7 +363,7 @@
         "scheduled_duration": 7210,
         "scheduled_timestamp": 1671951600,
         "season_number": "1",
-        "serial": 1671869862132,
+        "serial": 1671875310624,
         "series_id": "2413216",
         "series_name": "Adult Swim Yule Log",
         "show_duration": 7210,
@@ -374,5 +374,84 @@
         "title": "Adult Swim Yule Log (aka The Fireplace)",
         "title_id": "2413217",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "V"
+        ],
+        "content_id": "1495J7",
+        "create_time": 1671875310333,
+        "episode_in_season": "2",
+        "episode_number": "S4:E02",
+        "external_id": "15957140",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1671958800,
+        "last_update": 1671875310333,
+        "live": false,
+        "premiere": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1671958800,
+        "season_number": "4",
+        "serial": 1671875310624,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1806,
+        "show_id": "1031417191",
+        "show_timestamp": 1671958800,
+        "status": "estimated",
+        "summary": "Bender is declared the new Santa after Santabot is frozen on Neptune.",
+        "title": "A Tale of Two Santas",
+        "title_id": "437697",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14RYKJ",
+        "create_time": 1671875310333,
+        "episode_in_season": "13",
+        "episode_number": "S7:E13",
+        "external_id": "15957145",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1671960600,
+        "last_update": 1671875310333,
+        "live": false,
+        "premiere": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1671960600,
+        "season_number": "7",
+        "serial": 1671875310624,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1031417213",
+        "show_timestamp": 1671960600,
+        "status": "estimated",
+        "summary": "In this festive three-part episode, the Planet Express crew races to preserve the traditional practices of the classic holidays of Xmas, Robanukah and Kwanzaa.",
+        "title": "Holiday Spectacular",
+        "title_id": "2161632",
+        "tv_rating": "TV-14"
     }
 ]
