@@ -18,7 +18,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1672030800,
-        "last_update": 1671946217596,
+        "last_update": 1671947400673,
         "live": false,
         "participants": [
             {
@@ -58,7 +58,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1672030800,
         "season_number": "1",
-        "serial": 1671946217300,
+        "serial": 1671947400927,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 900,
@@ -91,7 +91,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1672031700,
-        "last_update": 1671946217596,
+        "last_update": 1671947400673,
         "live": false,
         "participants": [
             {
@@ -131,7 +131,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1672031700,
         "season_number": "1",
-        "serial": 1671946217300,
+        "serial": 1671947400927,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 900,
@@ -162,7 +162,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1672032600,
-        "last_update": 1671946217596,
+        "last_update": 1671947400673,
         "live": false,
         "participants": [
             {
@@ -192,7 +192,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1672032600,
         "season_number": "7",
-        "serial": 1671946217300,
+        "serial": 1671947400927,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
         "show_duration": 901,
@@ -202,6 +202,64 @@
         "summary": "Frylock's safe sex campaign plants the seed of evil.",
         "title": "Rubberman",
         "title_id": "786546",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1HWP1",
+        "create_time": 1671947400673,
+        "episode_in_season": "4",
+        "episode_number": "S7:E04",
+        "external_id": "15960097",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1672033500,
+        "last_update": 1671947400673,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2010,
+        "runtime_minutes": 15,
+        "scheduled_duration": 905,
+        "scheduled_timestamp": 1672033500,
+        "season_number": "7",
+        "serial": 1671947400927,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "show_duration": 905,
+        "show_id": "1031630427",
+        "show_timestamp": 1672033500,
+        "status": "estimated",
+        "summary": "Shake's quest for pinball eggs leads him to the heart of Death Island.",
+        "title": "Eggball",
+        "title_id": "786547",
         "tv_rating": "TV-MA"
     }
 ]
