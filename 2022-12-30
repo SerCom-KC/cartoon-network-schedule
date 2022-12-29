@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1672376400,
-        "last_update": 1672297403872,
+        "last_update": 1672300861647,
         "live": false,
         "participants": [
             {
@@ -55,7 +55,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1672376400,
         "season_number": "5",
-        "serial": 1672297403145,
+        "serial": 1672300861069,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -88,7 +88,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1672378200,
-        "last_update": 1672297403872,
+        "last_update": 1672300861647,
         "live": false,
         "premiere": false,
         "release_year": 2015,
@@ -96,7 +96,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1672378200,
         "season_number": "2",
-        "serial": 1672297403145,
+        "serial": 1672300861069,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 1800,
@@ -126,7 +126,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1672380000,
-        "last_update": 1672297404031,
+        "last_update": 1672300861647,
         "live": false,
         "participants": [
             {
@@ -196,7 +196,7 @@
         "scheduled_duration": 909,
         "scheduled_timestamp": 1672380000,
         "season_number": "7",
-        "serial": 1672297403410,
+        "serial": 1672300861069,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 909,
@@ -227,7 +227,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1672380900,
-        "last_update": 1672297404031,
+        "last_update": 1672300861647,
         "live": false,
         "participants": [
             {
@@ -297,7 +297,7 @@
         "scheduled_duration": 925,
         "scheduled_timestamp": 1672380900,
         "season_number": "7",
-        "serial": 1672297403410,
+        "serial": 1672300861069,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 925,
@@ -330,7 +330,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1672381800,
-        "last_update": 1672297404031,
+        "last_update": 1672300861853,
         "live": false,
         "participants": [
             {
@@ -375,7 +375,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1672381800,
         "season_number": "15",
-        "serial": 1672297403410,
+        "serial": 1672300861334,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1803,
@@ -409,7 +409,7 @@
             "Animation"
         ],
         "guide_timestamp": 1672383600,
-        "last_update": 1672297404031,
+        "last_update": 1672300861853,
         "live": false,
         "participants": [
             {
@@ -444,7 +444,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1672383600,
         "season_number": "5",
-        "serial": 1672297403410,
+        "serial": 1672300861334,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1805,
@@ -454,6 +454,115 @@
         "summary": "Big man comin for dinner, broh. Better check the booze.",
         "title": "Mort Dinner Rick Andre",
         "title_id": "2270458",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "XW083",
+        "create_time": 1672300409458,
+        "episode_in_season": "2",
+        "episode_number": "S5:E02",
+        "external_id": "16020985",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1672385400,
+        "last_update": 1672300861853,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1672385400,
+        "season_number": "5",
+        "serial": 1672300861334,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1035280456",
+        "show_timestamp": 1672385400,
+        "status": "estimated",
+        "summary": "Who's even real, broh? Are you real? Broh?",
+        "title": "Mortyplicity",
+        "title_id": "2270459",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "2TTMK",
+        "create_time": 1672300861853,
+        "episode_in_season": "19",
+        "episode_number": "S2:E19",
+        "external_id": "16021339",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1672387200,
+        "last_update": 1672300861853,
+        "live": false,
+        "premiere": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1672387200,
+        "season_number": "2",
+        "serial": 1672300861334,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 1800,
+        "show_id": "1035280478",
+        "show_timestamp": 1672387200,
+        "status": "estimated",
+        "summary": "The mystery mobile breaks down in farm country.",
+        "title": "The Farmer's Daughter",
+        "title_id": "2069750",
         "tv_rating": "TV-14"
     }
 ]
