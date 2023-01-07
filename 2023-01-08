@@ -15,7 +15,7 @@
             "Action"
         ],
         "guide_timestamp": 1673154000,
-        "last_update": 1673075059658,
+        "last_update": 1673077356763,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -23,7 +23,7 @@
         "scheduled_duration": 1824,
         "scheduled_timestamp": 1673154000,
         "season_number": "6",
-        "serial": 1673075060033,
+        "serial": 1673077356494,
         "series_id": "2142267",
         "series_name": "My Hero Academia",
         "show_duration": 1824,
@@ -53,7 +53,7 @@
             "Fantasy"
         ],
         "guide_timestamp": 1673155800,
-        "last_update": 1673075059658,
+        "last_update": 1673077356763,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -61,7 +61,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1673155800,
         "season_number": "2",
-        "serial": 1673075060033,
+        "serial": 1673077356494,
         "series_id": "2356951",
         "series_name": "Made in Abyss",
         "show_duration": 1800,
@@ -92,7 +92,7 @@
             "Animation"
         ],
         "guide_timestamp": 1673157600,
-        "last_update": 1673075059855,
+        "last_update": 1673077356763,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -100,7 +100,7 @@
         "scheduled_duration": 1838,
         "scheduled_timestamp": 1673157600,
         "season_number": "2",
-        "serial": 1673075060268,
+        "serial": 1673077356494,
         "series_id": "2268280",
         "series_name": "Yashahime: Princess Half-Demon",
         "show_duration": 1838,
@@ -129,7 +129,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1673159400,
-        "last_update": 1673075059855,
+        "last_update": 1673077356763,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -137,7 +137,7 @@
         "scheduled_duration": 1875,
         "scheduled_timestamp": 1673159400,
         "season_number": "16",
-        "serial": 1673075060268,
+        "serial": 1673077356494,
         "series_id": "608007",
         "series_name": "One Piece",
         "show_duration": 1875,
@@ -165,7 +165,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1673161200,
-        "last_update": 1673075059855,
+        "last_update": 1673077356916,
         "live": false,
         "premiere": true,
         "release_year": 2015,
@@ -173,7 +173,7 @@
         "scheduled_duration": 1819,
         "scheduled_timestamp": 1673161200,
         "season_number": "8",
-        "serial": 1673075060268,
+        "serial": 1673077356697,
         "series_id": "812206",
         "series_name": "Naruto: Shippuden",
         "show_duration": 1819,
@@ -183,6 +183,67 @@
         "summary": "Konohamaru immediately begs Naruto to teach him a new jutsu and he starts to go over the basics...but his explanations are very vague.",
         "title": "Naruto's Rival",
         "title_id": "2177853",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "1F28PG",
+        "create_time": 1673077356916,
+        "episode_in_season": "9",
+        "episode_number": "S2:E09",
+        "external_id": "16021682",
+        "feed_id": "as-east",
+        "franchise_id": "459852",
+        "franchise_name": "Genndy Tartakovsky's Primal",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1673163000,
+        "last_update": 1673077356916,
+        "live": false,
+        "participants": [
+            {
+                "character": "Spear",
+                "name": "Aaron LaPlante",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Darrick Bachman",
+                "role": "Writer"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1673163000,
+        "season_number": "2",
+        "serial": 1673077356697,
+        "series_id": "2211157",
+        "series_name": "Genndy Tartakovsky's Primal",
+        "show_duration": 1800,
+        "show_id": "1035312050",
+        "show_timestamp": 1673163000,
+        "status": "estimated",
+        "summary": "Spear, Fang and Mira lead a daring escape from the Colossaeus and the Queen bent on their destruction.",
+        "title": "The Colossaeus, Part III",
+        "title_id": "2276165",
         "tv_rating": "TV-14"
     }
 ]
