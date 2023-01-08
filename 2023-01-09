@@ -17,7 +17,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1673240400,
-        "last_update": 1673155248199,
+        "last_update": 1673157383152,
         "live": false,
         "participants": [
             {
@@ -57,7 +57,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1673240400,
         "season_number": "1",
-        "serial": 1673155248073,
+        "serial": 1673157383027,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 900,
@@ -87,7 +87,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1673241300,
-        "last_update": 1673155248199,
+        "last_update": 1673157383152,
         "live": false,
         "participants": [
             {
@@ -127,7 +127,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1673241300,
         "season_number": "1",
-        "serial": 1673155248073,
+        "serial": 1673157383027,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 900,
@@ -139,5 +139,121 @@
         "title": "Planet Horoscope",
         "title_id": "2224730",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "Q9WM",
+        "create_time": 1673157383152,
+        "episode_in_season": "7",
+        "episode_number": "S7:E07",
+        "external_id": "15990594",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1673242200,
+        "last_update": 1673157383152,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2010,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1673242200,
+        "season_number": "7",
+        "serial": 1673157383027,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "show_duration": 900,
+        "show_id": "1035312262",
+        "show_timestamp": 1673242200,
+        "status": "estimated",
+        "summary": "Shake's new acquaintance has two loves in life:  The band Chickenfoot, and human replication.",
+        "title": "IAMAPOD",
+        "title_id": "786552",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "R4UM",
+        "create_time": 1673157383152,
+        "episode_in_season": "8",
+        "episode_number": "S7:E08",
+        "external_id": "15990595",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1673243100,
+        "last_update": 1673157383152,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2010,
+        "runtime_minutes": 15,
+        "scheduled_duration": 907,
+        "scheduled_timestamp": 1673243100,
+        "season_number": "7",
+        "serial": 1673157383027,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "show_duration": 907,
+        "show_id": "1035312283",
+        "show_timestamp": 1673243100,
+        "status": "estimated",
+        "summary": "When a vengeful angel makes him pay for his misdeeds, Shake looks to the forces of darkness for help.",
+        "title": "Juggalo",
+        "title_id": "786554",
+        "tv_rating": "TV-MA"
     }
 ]
