@@ -16,7 +16,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1673672400,
-        "last_update": 1673593980078,
+        "last_update": 1673595682179,
         "live": false,
         "participants": [
             {
@@ -56,7 +56,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1673672400,
         "season_number": "3",
-        "serial": 1673593979871,
+        "serial": 1673595681373,
         "series_id": "2022095",
         "series_name": "Black Jesus",
         "show_duration": 1800,
@@ -85,7 +85,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1673674200,
-        "last_update": 1673593980234,
+        "last_update": 1673595682179,
         "live": false,
         "participants": [
             {
@@ -125,7 +125,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1673674200,
         "season_number": "3",
-        "serial": 1673593980074,
+        "serial": 1673595681373,
         "series_id": "2022095",
         "series_name": "Black Jesus",
         "show_duration": 1805,
@@ -154,7 +154,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1673676000,
-        "last_update": 1673593980234,
+        "last_update": 1673595682378,
         "live": false,
         "participants": [
             {
@@ -194,7 +194,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1673676000,
         "season_number": "3",
-        "serial": 1673593980074,
+        "serial": 1673595681608,
         "series_id": "2022095",
         "series_name": "Black Jesus",
         "show_duration": 1800,
@@ -223,7 +223,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1673677800,
-        "last_update": 1673593980234,
+        "last_update": 1673595682378,
         "live": false,
         "participants": [
             {
@@ -263,7 +263,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1673677800,
         "season_number": "3",
-        "serial": 1673593980074,
+        "serial": 1673595681608,
         "series_id": "2022095",
         "series_name": "Black Jesus",
         "show_duration": 1800,
@@ -297,7 +297,7 @@
             "Animation"
         ],
         "guide_timestamp": 1673679600,
-        "last_update": 1673593980234,
+        "last_update": 1673595682378,
         "live": false,
         "participants": [
             {
@@ -332,7 +332,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1673679600,
         "season_number": "1",
-        "serial": 1673593980074,
+        "serial": 1673595681608,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -343,5 +343,43 @@
         "title": "Ricksy Business",
         "title_id": "2013516",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "149CY2",
+        "create_time": 1673595411281,
+        "episode_in_season": "1",
+        "episode_number": "S5:E01",
+        "external_id": "15970850",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1673681400,
+        "last_update": 1673595682378,
+        "live": false,
+        "premiere": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1673681400,
+        "season_number": "5",
+        "serial": 1673595681608,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1035660149",
+        "show_timestamp": 1673681400,
+        "status": "estimated",
+        "summary": "Al Gore's head holds an emergency summit in Kyoto, Japan, to deal with global warming caused by robot emissions.",
+        "title": "Crimes of the Hot",
+        "title_id": "442428",
+        "tv_rating": "TV-PG"
     }
 ]
