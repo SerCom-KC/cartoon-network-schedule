@@ -15,7 +15,7 @@
             "Drama"
         ],
         "guide_timestamp": 1673931600,
-        "last_update": 1673852736474,
+        "last_update": 1673855901808,
         "live": false,
         "participants": [
             {
@@ -65,7 +65,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1673931600,
         "season_number": "1",
-        "serial": 1673852736218,
+        "serial": 1673855901615,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -94,7 +94,7 @@
             "Drama"
         ],
         "guide_timestamp": 1673933400,
-        "last_update": 1673852736474,
+        "last_update": 1673855901808,
         "live": false,
         "participants": [
             {
@@ -144,7 +144,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1673933400,
         "season_number": "1",
-        "serial": 1673852736218,
+        "serial": 1673855901615,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1804,
@@ -172,7 +172,7 @@
             "Drama"
         ],
         "guide_timestamp": 1673935200,
-        "last_update": 1673852736474,
+        "last_update": 1673855901808,
         "live": false,
         "participants": [
             {
@@ -222,7 +222,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1673935200,
         "season_number": "3",
-        "serial": 1673852736218,
+        "serial": 1673855901615,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -250,7 +250,7 @@
             "Drama"
         ],
         "guide_timestamp": 1673937000,
-        "last_update": 1673852736474,
+        "last_update": 1673855901808,
         "live": false,
         "participants": [
             {
@@ -300,7 +300,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1673937000,
         "season_number": "3",
-        "serial": 1673852736218,
+        "serial": 1673855901615,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -333,7 +333,7 @@
             "Animation"
         ],
         "guide_timestamp": 1673938800,
-        "last_update": 1673852736474,
+        "last_update": 1673855901808,
         "live": false,
         "participants": [
             {
@@ -368,7 +368,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1673938800,
         "season_number": "4",
-        "serial": 1673852736218,
+        "serial": 1673855901615,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1805,
@@ -378,6 +378,72 @@
         "summary": "The one with the acid vat, broh.",
         "title": "The Vat of Acid Episode",
         "title_id": "2206493",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "2J7R9",
+        "create_time": 1673855901808,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "15970533",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1673940600,
+        "last_update": 1673855901808,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1673940600,
+        "season_number": "2",
+        "serial": 1673855901615,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1036073913",
+        "show_timestamp": 1673940600,
+        "status": "estimated",
+        "summary": "Rick don goofed this time and mussed up the whole time frame broh! Beth and Jerry get romantic!",
+        "title": "A Rickle in Time",
+        "title_id": "2060764",
         "tv_rating": "TV-14"
     }
 ]
