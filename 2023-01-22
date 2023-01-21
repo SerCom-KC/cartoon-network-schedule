@@ -15,7 +15,7 @@
             "Action"
         ],
         "guide_timestamp": 1674363600,
-        "last_update": 1674287999659,
+        "last_update": 1674289373142,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -23,7 +23,7 @@
         "scheduled_duration": 1870,
         "scheduled_timestamp": 1674363600,
         "season_number": "6",
-        "serial": 1674287999429,
+        "serial": 1674289372716,
         "series_id": "2142267",
         "series_name": "My Hero Academia",
         "show_duration": 1870,
@@ -51,7 +51,7 @@
             "Fantasy"
         ],
         "guide_timestamp": 1674365400,
-        "last_update": 1674287999842,
+        "last_update": 1674289373142,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -59,7 +59,7 @@
         "scheduled_duration": 1852,
         "scheduled_timestamp": 1674365400,
         "season_number": "2",
-        "serial": 1674287999632,
+        "serial": 1674289372716,
         "series_id": "2356951",
         "series_name": "Made in Abyss",
         "show_duration": 1852,
@@ -90,7 +90,7 @@
             "Animation"
         ],
         "guide_timestamp": 1674367200,
-        "last_update": 1674287999842,
+        "last_update": 1674289373142,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -98,7 +98,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1674367200,
         "season_number": "2",
-        "serial": 1674287999632,
+        "serial": 1674289372716,
         "series_id": "2268280",
         "series_name": "Yashahime: Princess Half-Demon",
         "show_duration": 1800,
@@ -127,7 +127,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1674369000,
-        "last_update": 1674287999842,
+        "last_update": 1674289373295,
         "live": false,
         "premiere": true,
         "release_year": 2022,
@@ -135,7 +135,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1674369000,
         "season_number": "16",
-        "serial": 1674287999632,
+        "serial": 1674289372920,
         "series_id": "608007",
         "series_name": "One Piece",
         "show_duration": 1801,
@@ -166,7 +166,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1674370800,
-        "last_update": 1674287999842,
+        "last_update": 1674289373295,
         "live": false,
         "premiere": true,
         "release_year": 2015,
@@ -174,7 +174,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1674370800,
         "season_number": "8",
-        "serial": 1674287999632,
+        "serial": 1674289372920,
         "series_id": "812206",
         "series_name": "Naruto: Shippuden",
         "show_duration": 1800,
@@ -205,7 +205,7 @@
             "Animation"
         ],
         "guide_timestamp": 1674372600,
-        "last_update": 1674287999842,
+        "last_update": 1674289373295,
         "live": false,
         "participants": [
             {
@@ -235,7 +235,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1674372600,
         "season_number": "2",
-        "serial": 1674287999632,
+        "serial": 1674289372920,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1800,
@@ -246,5 +246,61 @@
         "title": "Sea of Despair",
         "title_id": "2276157",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "34TC1",
+        "create_time": 1674289373295,
+        "episode_in_season": "10",
+        "episode_number": "S5:E10",
+        "external_id": "15970595",
+        "feed_id": "as-east",
+        "franchise_id": "318983",
+        "franchise_name": "Samurai Jack ",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1674374400,
+        "last_update": 1674289373295,
+        "live": false,
+        "participants": [
+            {
+                "character": "Samurai Jack",
+                "name": "Phil LaMarr",
+                "role": "Voice"
+            },
+            {
+                "character": "Aku",
+                "name": "Greg Baldwin",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1674374400,
+        "season_number": "5",
+        "serial": 1674289372920,
+        "series_id": "343621",
+        "series_name": "Samurai Jack",
+        "show_duration": 1800,
+        "show_id": "1036062092",
+        "show_timestamp": 1674374400,
+        "status": "estimated",
+        "summary": "The ending to the saga of Samurai Jack.",
+        "title": "CI",
+        "title_id": "2115101",
+        "tv_rating": "TV-PG"
     }
 ]
