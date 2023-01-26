@@ -675,7 +675,7 @@
             "Music"
         ],
         "guide_timestamp": 1674808200,
-        "last_update": 1674726097982,
+        "last_update": 1674732945589,
         "live": false,
         "participants": [
             {
@@ -711,7 +711,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1674808200,
         "season_number": "1",
-        "serial": 1674726097623,
+        "serial": 1674732945449,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 900,
@@ -743,7 +743,7 @@
             "Crime"
         ],
         "guide_timestamp": 1674809100,
-        "last_update": 1674728918915,
+        "last_update": 1674732945589,
         "live": false,
         "participants": [
             {
@@ -794,7 +794,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1674809100,
         "season_number": "2",
-        "serial": 1674728918817,
+        "serial": 1674732945449,
         "series_id": "666506",
         "series_name": "Superjail!",
         "show_duration": 903,
@@ -928,6 +928,53 @@
         "summary_long": "The Belcher kids go to Outdoor Education only to have it rain, but Tina doesn't let the inclement weather get in the way of her having a nature-piphany, with the help of a hermit living in the woods. Meanwhile, Bob and Linda experience what it's like to be empty-nesters.",
         "title": "Go Tina on the Mountain  ",
         "title_id": "2171455",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "3RT9J",
+        "create_time": 1674732945589,
+        "episode_in_season": "16",
+        "episode_number": "S8:E16",
+        "external_id": "16020829",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1674815400,
+        "last_update": 1674732945589,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1674815400,
+        "season_number": "8",
+        "serial": 1674732945449,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1037816965",
+        "show_timestamp": 1674815400,
+        "status": "estimated",
+        "summary": "After forgetting Bob's birthday, Linda and the kids attempt to plan a last-minute surprise party. In order to plan the party though, Linda asks Hugo if Bob can go with him while he's doing restaurant health inspections.",
+        "title": "Are You There Bob? It's Me Birthday ",
+        "title_id": "2171456",
         "tv_rating": "TV-PG"
     }
 ]
