@@ -171,7 +171,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1674799200,
-        "last_update": 1674719251348,
+        "last_update": 1674720566569,
         "live": false,
         "participants": [
             {
@@ -242,7 +242,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1674799200,
         "season_number": "8",
-        "serial": 1674719251037,
+        "serial": 1674720566033,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -276,7 +276,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1674800100,
-        "last_update": 1674719251348,
+        "last_update": 1674720566569,
         "live": false,
         "participants": [
             {
@@ -347,7 +347,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1674800100,
         "season_number": "8",
-        "serial": 1674719251037,
+        "serial": 1674720566033,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -378,7 +378,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1674801000,
-        "last_update": 1674719251348,
+        "last_update": 1674720566569,
         "live": false,
         "participants": [
             {
@@ -424,7 +424,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1674801000,
         "season_number": "1",
-        "serial": 1674719251037,
+        "serial": 1674720566033,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -458,7 +458,7 @@
             "Animation"
         ],
         "guide_timestamp": 1674802800,
-        "last_update": 1674719251348,
+        "last_update": 1674721003881,
         "live": false,
         "participants": [
             {
@@ -494,7 +494,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1674802800,
         "season_number": "3",
-        "serial": 1674719251037,
+        "serial": 1674721003355,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -573,6 +573,87 @@
         "summary": "Rick and Morty need a break in this one broh. Times getting tough.",
         "title": "Rest and Ricklaxation",
         "title_id": "2116835",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "2N6NV",
+        "create_time": 1674720566569,
+        "episode_in_season": "7",
+        "episode_number": "S2:E07",
+        "external_id": "16021355",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1674806400,
+        "last_update": 1674721003881,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 907,
+        "scheduled_timestamp": 1674806400,
+        "season_number": "2",
+        "serial": 1674721003355,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 907,
+        "show_id": "1037816527",
+        "show_timestamp": 1674806400,
+        "status": "estimated",
+        "summary": "Is the new location of a popular restaurant cursed?",
+        "title": "A Plaintive Wail",
+        "title_id": "2069735",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "2NTFG",
+        "create_time": 1674721003881,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "16021378",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1674807300,
+        "last_update": 1674721003881,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 903,
+        "scheduled_timestamp": 1674807300,
+        "season_number": "2",
+        "serial": 1674721003355,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 903,
+        "show_id": "1037816558",
+        "show_timestamp": 1674807300,
+        "status": "estimated",
+        "summary": "Pigeon is forced to confront his past at the house by the lake.",
+        "title": "Ogopogo!",
+        "title_id": "2069742",
         "tv_rating": "TV-14"
     }
 ]
