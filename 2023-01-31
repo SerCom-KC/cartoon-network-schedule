@@ -132,7 +132,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1675143900,
-        "last_update": 1675069260089,
+        "last_update": 1675073583976,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -141,7 +141,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1675143900,
         "season_number": "3",
-        "serial": 1675069259865,
+        "serial": 1675073583887,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -271,7 +271,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1675145700,
-        "last_update": 1675069260089,
+        "last_update": 1675073583976,
         "live": false,
         "participants": [
             {
@@ -342,7 +342,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1675145700,
         "season_number": "9",
-        "serial": 1675069259865,
+        "serial": 1675073583887,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -373,7 +373,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1675146600,
-        "last_update": 1675069260089,
+        "last_update": 1675073583976,
         "live": false,
         "participants": [
             {
@@ -419,7 +419,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1675146600,
         "season_number": "1",
-        "serial": 1675069259865,
+        "serial": 1675073583887,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1804,
@@ -633,7 +633,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1675152900,
-        "last_update": 1675069260395,
+        "last_update": 1675073584260,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -642,7 +642,7 @@
         "scheduled_duration": 907,
         "scheduled_timestamp": 1675152900,
         "season_number": "3",
-        "serial": 1675069260193,
+        "serial": 1675073584199,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 907,
@@ -673,7 +673,7 @@
             "Music"
         ],
         "guide_timestamp": 1675153800,
-        "last_update": 1675069260395,
+        "last_update": 1675073584260,
         "live": false,
         "participants": [
             {
@@ -709,7 +709,7 @@
         "scheduled_duration": 962,
         "scheduled_timestamp": 1675153800,
         "season_number": "1",
-        "serial": 1675069260193,
+        "serial": 1675073584199,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 962,
@@ -740,7 +740,7 @@
             "Crime"
         ],
         "guide_timestamp": 1675154700,
-        "last_update": 1675069260395,
+        "last_update": 1675073584260,
         "live": false,
         "participants": [
             {
@@ -791,7 +791,7 @@
         "scheduled_duration": 915,
         "scheduled_timestamp": 1675154700,
         "season_number": "2",
-        "serial": 1675069260193,
+        "serial": 1675073584199,
         "series_id": "666506",
         "series_name": "Superjail!",
         "show_duration": 915,
@@ -822,7 +822,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675155600,
-        "last_update": 1675069260395,
+        "last_update": 1675073584260,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -831,7 +831,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675155600,
         "season_number": "2",
-        "serial": 1675069260193,
+        "serial": 1675073584199,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -841,6 +841,90 @@
         "summary": "Fry begins a romance with the new bureaucrat when Hermes is sent away.",
         "title": "How Hermes Requisitioned His Groove Back",
         "title_id": "437555",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "14KF11",
+        "create_time": 1675073584260,
+        "episode_in_season": "15",
+        "episode_number": "S2:E15",
+        "external_id": "16020883",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1675157400,
+        "last_update": 1675073584260,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675157400,
+        "season_number": "2",
+        "serial": 1675073584199,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1038692464",
+        "show_timestamp": 1675157400,
+        "status": "estimated",
+        "summary": "Professor Farnsworth decides to retire and revives his clone.",
+        "title": "A Clone of My Own",
+        "title_id": "437556",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3RT8C",
+        "create_time": 1675073584260,
+        "episode_in_season": "17",
+        "episode_number": "S8:E17",
+        "external_id": "16020806",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1675159200,
+        "last_update": 1675073584260,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1675159200,
+        "season_number": "8",
+        "serial": 1675073584199,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1801,
+        "show_id": "1038692567",
+        "show_timestamp": 1675159200,
+        "status": "estimated",
+        "summary": "Tina decides to join the Junior Lifeguards, but one of her fellow junior guards tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free Wi-Fi at the restaurant, but it is soon threatened by a cyber-attack.",
+        "summary_long": "Tina decides to join the Junior Lifeguards, but when she struggles with the training, Parker - one of her fellow junior guards - tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free Wi-Fi at the restaurant, but it is soon threatened by a cyber-attack.",
+        "title": "Boywatch ",
+        "title_id": "2171457",
         "tv_rating": "TV-PG"
     }
 ]
