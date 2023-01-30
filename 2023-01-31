@@ -271,7 +271,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1675145700,
-        "last_update": 1675073583976,
+        "last_update": 1675075890706,
         "live": false,
         "participants": [
             {
@@ -342,7 +342,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1675145700,
         "season_number": "9",
-        "serial": 1675073583887,
+        "serial": 1675075890337,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -373,7 +373,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1675146600,
-        "last_update": 1675073583976,
+        "last_update": 1675075890706,
         "live": false,
         "participants": [
             {
@@ -419,7 +419,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1675146600,
         "season_number": "1",
-        "serial": 1675073583887,
+        "serial": 1675075890337,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1804,
@@ -522,7 +522,7 @@
             "Animation"
         ],
         "guide_timestamp": 1675150200,
-        "last_update": 1675069260395,
+        "last_update": 1675075890706,
         "live": false,
         "participants": [
             {
@@ -558,7 +558,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675150200,
         "season_number": "3",
-        "serial": 1675069260193,
+        "serial": 1675075890337,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -740,7 +740,7 @@
             "Crime"
         ],
         "guide_timestamp": 1675154700,
-        "last_update": 1675073584260,
+        "last_update": 1675075891079,
         "live": false,
         "participants": [
             {
@@ -791,7 +791,7 @@
         "scheduled_duration": 915,
         "scheduled_timestamp": 1675154700,
         "season_number": "2",
-        "serial": 1675073584199,
+        "serial": 1675075890744,
         "series_id": "666506",
         "series_name": "Superjail!",
         "show_duration": 915,
@@ -822,7 +822,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675155600,
-        "last_update": 1675073584260,
+        "last_update": 1675075891079,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -831,7 +831,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675155600,
         "season_number": "2",
-        "serial": 1675073584199,
+        "serial": 1675075890744,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -859,7 +859,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675157400,
-        "last_update": 1675073584260,
+        "last_update": 1675075891079,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -868,7 +868,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675157400,
         "season_number": "2",
-        "serial": 1675073584199,
+        "serial": 1675075890744,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -925,6 +925,52 @@
         "summary_long": "Tina decides to join the Junior Lifeguards, but when she struggles with the training, Parker - one of her fellow junior guards - tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free Wi-Fi at the restaurant, but it is soon threatened by a cyber-attack.",
         "title": "Boywatch ",
         "title_id": "2171457",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3RT8V",
+        "create_time": 1675075891079,
+        "episode_in_season": "18",
+        "episode_number": "S8:E18",
+        "external_id": "16020830",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1675161000,
+        "last_update": 1675075891079,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675161000,
+        "season_number": "8",
+        "serial": 1675075890744,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1038692681",
+        "show_timestamp": 1675161000,
+        "status": "estimated",
+        "summary": "When a malicious juice truck owner tries to set up shop in the Belcher's alley, Louise devises a plan to win back their turf. Meanwhile, Linda learns that she can't always run to her sister's defense.",
+        "title": "As I Walk Through the Alley of the Shadow of Ramps ",
+        "title_id": "2171458",
         "tv_rating": "TV-PG"
     }
 ]
