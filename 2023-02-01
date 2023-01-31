@@ -130,7 +130,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1675230300,
-        "last_update": 1675145152939,
+        "last_update": 1675152290605,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -139,7 +139,7 @@
         "scheduled_duration": 914,
         "scheduled_timestamp": 1675230300,
         "season_number": "3",
-        "serial": 1675145152431,
+        "serial": 1675152290012,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 914,
@@ -270,7 +270,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1675232100,
-        "last_update": 1675148819234,
+        "last_update": 1675152290605,
         "live": false,
         "participants": [
             {
@@ -341,7 +341,7 @@
         "scheduled_duration": 924,
         "scheduled_timestamp": 1675232100,
         "season_number": "9",
-        "serial": 1675148818887,
+        "serial": 1675152290012,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 924,
@@ -370,7 +370,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1675233000,
-        "last_update": 1675148819234,
+        "last_update": 1675152290605,
         "live": false,
         "participants": [
             {
@@ -416,7 +416,7 @@
         "scheduled_duration": 1815,
         "scheduled_timestamp": 1675233000,
         "season_number": "1",
-        "serial": 1675148818887,
+        "serial": 1675152290012,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1815,
@@ -495,6 +495,117 @@
         "summary": "Rick goes toe to toe with the President in this one broh.",
         "title": "The Rickchurian Mortydate",
         "title_id": "2116839",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "4XP7H",
+        "create_time": 1675152290605,
+        "episode_in_season": "1",
+        "episode_number": "S4:E01",
+        "external_id": "15970542",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1675236600,
+        "last_update": 1675152290605,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675236600,
+        "season_number": "4",
+        "serial": 1675152290012,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1038685711",
+        "show_timestamp": 1675236600,
+        "status": "estimated",
+        "summary": "Morty goes nuts this time. Rick does stuff.",
+        "title": "Edge of Tomorty: Rick Die Rickpeat",
+        "title_id": "2206489",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "374TF",
+        "create_time": 1675152290605,
+        "episode_in_season": "15",
+        "episode_number": "S3:E15",
+        "external_id": "16021357",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1675238400,
+        "last_update": 1675152290605,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1675238400,
+        "season_number": "3",
+        "serial": 1675152290012,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 900,
+        "show_id": "1038685772",
+        "show_timestamp": 1675238400,
+        "status": "estimated",
+        "summary": "The team goes to Dubai, at the behest of an old Saudi Prince.",
+        "title": "Tyson of Arabia",
+        "title_id": "2117695",
         "tv_rating": "TV-14"
     }
 ]
