@@ -740,7 +740,7 @@
             "Crime"
         ],
         "guide_timestamp": 1675327500,
-        "last_update": 1675241633929,
+        "last_update": 1675245606475,
         "live": false,
         "participants": [
             {
@@ -791,7 +791,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1675327500,
         "season_number": "2",
-        "serial": 1675241633698,
+        "serial": 1675245606990,
         "series_id": "666506",
         "series_name": "Superjail!",
         "show_duration": 900,
@@ -802,5 +802,129 @@
         "title": "Hotchick",
         "title_id": "840319",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "14M05D",
+        "create_time": 1675245606475,
+        "episode_in_season": "18",
+        "episode_number": "S2:E18",
+        "external_id": "16031390",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1675328400,
+        "last_update": 1675245606475,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1675328400,
+        "season_number": "2",
+        "serial": 1675245606990,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1802,
+        "show_id": "1038699490",
+        "show_timestamp": 1675328400,
+        "status": "estimated",
+        "summary": "The crew discovers an irresistible source of food on a new planet.",
+        "title": "The Problem with Popplers",
+        "title_id": "437691",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "13CMN7",
+        "create_time": 1675245606475,
+        "episode_in_season": "19",
+        "episode_number": "S2:E19",
+        "external_id": "16031391",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1675330200,
+        "last_update": 1675245606475,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675330200,
+        "season_number": "2",
+        "serial": 1675245606990,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1038699512",
+        "show_timestamp": 1675330200,
+        "status": "estimated",
+        "summary": "Mom wants world domination for a Mother's Day gift.",
+        "title": "Mother's Day",
+        "title_id": "437690",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3RT90",
+        "create_time": 1675245606475,
+        "episode_in_season": "21",
+        "episode_number": "S8:E21",
+        "external_id": "16031384",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1675332000,
+        "last_update": 1675245606475,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675332000,
+        "season_number": "8",
+        "serial": 1675245606990,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1038699534",
+        "show_timestamp": 1675332000,
+        "status": "estimated",
+        "summary": "Just as Bob wonders if working in the restaurant business is worth it, a couple who fell in love at the restaurant asks the Belchers to cater their wedding. When things don't go as planned, Linda steps in and attempts to save the day.",
+        "title": "Something Old, Something New, Something Bob Caters for You",
+        "title_id": "2171461",
+        "tv_rating": "TV-PG"
     }
 ]
