@@ -524,7 +524,7 @@
             "Animation"
         ],
         "guide_timestamp": 1675323000,
-        "last_update": 1675238470526,
+        "last_update": 1675241633684,
         "live": false,
         "participants": [
             {
@@ -560,7 +560,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675323000,
         "season_number": "4",
-        "serial": 1675238470766,
+        "serial": 1675241633432,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -633,7 +633,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1675325700,
-        "last_update": 1675240673945,
+        "last_update": 1675241633929,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -642,7 +642,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1675325700,
         "season_number": "3",
-        "serial": 1675240673413,
+        "serial": 1675241633698,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 905,
@@ -719,6 +719,88 @@
         "summary": "Murderface searches for a religion after a near-death experience leaves him longing for greater meaning.  He samples everything from Christianity to Satanism before finding his true church.",
         "title": "Religionklok",
         "title_id": "655950",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "ZUDN",
+        "create_time": 1675241633929,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "16031368",
+        "feed_id": "as-east",
+        "franchise_id": "347964",
+        "franchise_name": "Superjail",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Crime"
+        ],
+        "guide_timestamp": 1675327500,
+        "last_update": 1675241633929,
+        "live": false,
+        "participants": [
+            {
+                "character": "The Warden",
+                "name": "David Wain",
+                "role": "Voice"
+            },
+            {
+                "character": "Jared",
+                "name": "Teddy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Alice",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            },
+            {
+                "character": "The Doctor",
+                "name": "Christopher McCulloch",
+                "role": "Voice"
+            },
+            {
+                "character": "The Twins",
+                "name": "Richard Mather",
+                "role": "Voice"
+            },
+            {
+                "character": "Lord Stingray",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Jean Baptiste Le Ghei",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            },
+            {
+                "character": "Fatty",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1675327500,
+        "season_number": "2",
+        "serial": 1675241633698,
+        "series_id": "666506",
+        "series_name": "Superjail!",
+        "show_duration": 900,
+        "show_id": "1038742385",
+        "show_timestamp": 1675327500,
+        "status": "estimated",
+        "summary": "A mysterious and deadly invader from another world infiltrates SuperJail, and she's willing to kill anything that gets between her and what she wants. But what does she want? And why is she naked?",
+        "title": "Hotchick",
+        "title_id": "840319",
         "tv_rating": "TV-MA"
     }
 ]
