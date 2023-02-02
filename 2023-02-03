@@ -130,7 +130,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1675403100,
-        "last_update": 1675321193248,
+        "last_update": 1675331572791,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -139,7 +139,7 @@
         "scheduled_duration": 904,
         "scheduled_timestamp": 1675403100,
         "season_number": "3",
-        "serial": 1675321193101,
+        "serial": 1675331572155,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 904,
@@ -168,7 +168,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1675404000,
-        "last_update": 1675321193248,
+        "last_update": 1675331572791,
         "live": false,
         "participants": [
             {
@@ -239,7 +239,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1675404000,
         "season_number": "9",
-        "serial": 1675321193101,
+        "serial": 1675331572155,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 906,
@@ -371,7 +371,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1675405800,
-        "last_update": 1675320721737,
+        "last_update": 1675331572791,
         "live": false,
         "participants": [
             {
@@ -417,7 +417,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1675405800,
         "season_number": "4",
-        "serial": 1675320721348,
+        "serial": 1675331572155,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1803,
@@ -521,7 +521,7 @@
             "Animation"
         ],
         "guide_timestamp": 1675409400,
-        "last_update": 1675327999561,
+        "last_update": 1675331572791,
         "live": false,
         "participants": [
             {
@@ -557,7 +557,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675409400,
         "season_number": "4",
-        "serial": 1675327999007,
+        "serial": 1675331572155,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -588,7 +588,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1675411200,
-        "last_update": 1675327999561,
+        "last_update": 1675331572791,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -597,7 +597,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1675411200,
         "season_number": "3",
-        "serial": 1675327999007,
+        "serial": 1675331572155,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -735,7 +735,7 @@
             "Crime"
         ],
         "guide_timestamp": 1675413900,
-        "last_update": 1675328000130,
+        "last_update": 1675331572791,
         "live": false,
         "participants": [
             {
@@ -786,7 +786,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1675413900,
         "season_number": "2",
-        "serial": 1675327999632,
+        "serial": 1675331572155,
         "series_id": "666506",
         "series_name": "Superjail!",
         "show_duration": 900,
@@ -798,5 +798,85 @@
         "title": "Gay Wedding",
         "title_id": "840320",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "14M09C",
+        "create_time": 1675331573108,
+        "episode_in_season": "20",
+        "episode_number": "S2:E20",
+        "external_id": "16031392",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1675414800,
+        "last_update": 1675331573108,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675414800,
+        "season_number": "2",
+        "serial": 1675331572517,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1038696510",
+        "show_timestamp": 1675414800,
+        "status": "estimated",
+        "summary": "The professor invents a what if machine.",
+        "title": "Anthology of Interest I",
+        "title_id": "437692",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14M0C9",
+        "create_time": 1675331573108,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "16031393",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1675416600,
+        "last_update": 1675331573108,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675416600,
+        "season_number": "3",
+        "serial": 1675331572517,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1038696552",
+        "show_timestamp": 1675416600,
+        "status": "estimated",
+        "summary": "Bender must spend a full night in a gothic castle in order to collect an inheritance.",
+        "title": "The Honking",
+        "title_id": "437694",
+        "tv_rating": "TV-PG"
     }
 ]
