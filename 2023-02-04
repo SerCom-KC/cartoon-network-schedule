@@ -82,7 +82,7 @@
             "Music"
         ],
         "guide_timestamp": 1675487700,
-        "last_update": 1675410452008,
+        "last_update": 1675414015315,
         "live": false,
         "participants": [
             {
@@ -118,7 +118,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1675487700,
         "season_number": "4",
-        "serial": 1675410451560,
+        "serial": 1675414014804,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 900,
@@ -281,7 +281,7 @@
             "Music"
         ],
         "guide_timestamp": 1675490400,
-        "last_update": 1675410452008,
+        "last_update": 1675414015315,
         "live": false,
         "participants": [
             {
@@ -317,7 +317,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1675490400,
         "season_number": "4",
-        "serial": 1675410451560,
+        "serial": 1675414014804,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 900,
@@ -348,7 +348,7 @@
             "Music"
         ],
         "guide_timestamp": 1675491300,
-        "last_update": 1675407384719,
+        "last_update": 1675414015315,
         "live": false,
         "participants": [
             {
@@ -384,7 +384,7 @@
         "scheduled_duration": 902,
         "scheduled_timestamp": 1675491300,
         "season_number": "4",
-        "serial": 1675407384467,
+        "serial": 1675414014804,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 902,
@@ -549,7 +549,7 @@
             "Animation"
         ],
         "guide_timestamp": 1675494000,
-        "last_update": 1675410452279,
+        "last_update": 1675414015315,
         "live": false,
         "participants": [
             {
@@ -585,7 +585,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675494000,
         "season_number": "4",
-        "serial": 1675410451857,
+        "serial": 1675414014804,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -633,5 +633,85 @@
         "title": "Kif Gets Knocked Up a Notch",
         "title_id": "442425",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "14M0VW",
+        "create_time": 1675414015586,
+        "episode_in_season": "2",
+        "episode_number": "S3:E02",
+        "external_id": "16031380",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1675497600,
+        "last_update": 1675414015586,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675497600,
+        "season_number": "3",
+        "serial": 1675414015296,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1038692724",
+        "show_timestamp": 1675497600,
+        "status": "estimated",
+        "summary": "Fry and Bender join the military for soldiers' discounts.",
+        "title": "War Is the H-Word",
+        "title_id": "437693",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "V"
+        ],
+        "content_id": "14M0WV",
+        "create_time": 1675414015586,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "16031381",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1675499400,
+        "last_update": 1675414015586,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675499400,
+        "season_number": "3",
+        "serial": 1675414015296,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1038692834",
+        "show_timestamp": 1675499400,
+        "status": "estimated",
+        "summary": "Fry and Bender's behavior causes all the Planet Express crewmen to lose their jobs.",
+        "title": "The Cryonic Woman",
+        "title_id": "437695",
+        "tv_rating": "TV-PG"
     }
 ]
