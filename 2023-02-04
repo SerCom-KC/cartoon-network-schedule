@@ -348,7 +348,7 @@
             "Music"
         ],
         "guide_timestamp": 1675491300,
-        "last_update": 1675414015315,
+        "last_update": 1675420645764,
         "live": false,
         "participants": [
             {
@@ -384,7 +384,7 @@
         "scheduled_duration": 902,
         "scheduled_timestamp": 1675491300,
         "season_number": "4",
-        "serial": 1675414014804,
+        "serial": 1675420645600,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 902,
@@ -479,7 +479,7 @@
             "Music"
         ],
         "guide_timestamp": 1675493100,
-        "last_update": 1675410452279,
+        "last_update": 1675420645764,
         "live": false,
         "participants": [
             {
@@ -515,7 +515,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1675493100,
         "season_number": "4",
-        "serial": 1675410451857,
+        "serial": 1675420645600,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 900,
@@ -693,7 +693,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675499400,
-        "last_update": 1675417585939,
+        "last_update": 1675420645764,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -702,7 +702,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675499400,
         "season_number": "3",
-        "serial": 1675417585953,
+        "serial": 1675420645600,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -734,7 +734,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675501200,
-        "last_update": 1675417586188,
+        "last_update": 1675420645764,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -743,7 +743,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675501200,
         "season_number": "3",
-        "serial": 1675417586234,
+        "serial": 1675420645600,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -793,5 +793,84 @@
         "title": "Amazon Women in the Mood",
         "title_id": "437698",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "1336VF",
+        "create_time": 1675420645764,
+        "episode_in_season": "18",
+        "episode_number": "S13:E18",
+        "external_id": "16031388",
+        "feed_id": "as-east",
+        "franchise_id": "359714",
+        "franchise_name": "King Of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1675504800,
+        "last_update": 1675420645764,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675504800,
+        "season_number": "13",
+        "serial": 1675420645600,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "1038693119",
+        "show_timestamp": 1675504800,
+        "status": "estimated",
+        "summary": "When Boomhauer trades houses with a Canadian family for the summer, the Hills attempt to welcome their Canadian neighbors to America, but soon discover that the welcome wagon isn't so welcome.",
+        "title": "Uh-Oh Canada",
+        "title_id": "785977",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "1336X1",
+        "create_time": 1675420646047,
+        "episode_in_season": "19",
+        "episode_number": "S13:E19",
+        "external_id": "16031389",
+        "feed_id": "as-east",
+        "franchise_id": "359714",
+        "franchise_name": "King Of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1675506600,
+        "last_update": 1675420646047,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675506600,
+        "season_number": "13",
+        "serial": 1675420645946,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "1038693213",
+        "show_timestamp": 1675506600,
+        "status": "estimated",
+        "summary": "Boy Can't Help It, The: When Bobby is befriended by a trio of older girls, Hank worries his son is being emasculated; and Hank and the guys build the ultimate homeless cart for a local bum.",
+        "title": "The Boy Can't Help It",
+        "title_id": "785978",
+        "tv_rating": "TV-PG"
     }
 ]
