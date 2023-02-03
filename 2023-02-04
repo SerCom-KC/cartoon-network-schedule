@@ -549,7 +549,7 @@
             "Animation"
         ],
         "guide_timestamp": 1675494000,
-        "last_update": 1675414015315,
+        "last_update": 1675415326371,
         "live": false,
         "participants": [
             {
@@ -585,7 +585,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675494000,
         "season_number": "4",
-        "serial": 1675414014804,
+        "serial": 1675415326234,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -613,7 +613,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675495800,
-        "last_update": 1675410452279,
+        "last_update": 1675415326371,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -622,7 +622,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675495800,
         "season_number": "5",
-        "serial": 1675410451857,
+        "serial": 1675415326234,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -653,7 +653,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675497600,
-        "last_update": 1675414015586,
+        "last_update": 1675415326371,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -662,7 +662,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675497600,
         "season_number": "3",
-        "serial": 1675414015296,
+        "serial": 1675415326234,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -693,7 +693,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675499400,
-        "last_update": 1675414015586,
+        "last_update": 1675415326592,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -702,7 +702,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675499400,
         "season_number": "3",
-        "serial": 1675414015296,
+        "serial": 1675415326484,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -712,6 +712,47 @@
         "summary": "Fry and Bender's behavior causes all the Planet Express crewmen to lose their jobs.",
         "title": "The Cryonic Woman",
         "title_id": "437695",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14M551",
+        "create_time": 1675415326592,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "16031382",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1675501200,
+        "last_update": 1675415326592,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675501200,
+        "season_number": "3",
+        "serial": 1675415326484,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1038692931",
+        "show_timestamp": 1675501200,
+        "status": "estimated",
+        "summary": "Fry eats a sandwich infested with worms that make him stronger and smarter.",
+        "title": "Parasites Lost",
+        "title_id": "437696",
         "tv_rating": "TV-PG"
     }
 ]
