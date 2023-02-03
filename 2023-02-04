@@ -613,7 +613,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675495800,
-        "last_update": 1675415326371,
+        "last_update": 1675417585939,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -622,7 +622,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675495800,
         "season_number": "5",
-        "serial": 1675415326234,
+        "serial": 1675417585953,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -693,7 +693,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675499400,
-        "last_update": 1675415326592,
+        "last_update": 1675417585939,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -702,7 +702,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675499400,
         "season_number": "3",
-        "serial": 1675415326484,
+        "serial": 1675417585953,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -734,7 +734,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675501200,
-        "last_update": 1675415326592,
+        "last_update": 1675417586188,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -743,7 +743,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675501200,
         "season_number": "3",
-        "serial": 1675415326484,
+        "serial": 1675417586234,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -754,5 +754,44 @@
         "title": "Parasites Lost",
         "title_id": "437696",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "14M55C",
+        "create_time": 1675417586188,
+        "episode_in_season": "5",
+        "episode_number": "S3:E05",
+        "external_id": "16031383",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1675503000,
+        "last_update": 1675417586188,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675503000,
+        "season_number": "3",
+        "serial": 1675417586234,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1038693024",
+        "show_timestamp": 1675503000,
+        "status": "estimated",
+        "summary": "The ship crashes on a planet inhabited by a race of man-hating, giant women.",
+        "title": "Amazon Women in the Mood",
+        "title_id": "437698",
+        "tv_rating": "TV-14"
     }
 ]
