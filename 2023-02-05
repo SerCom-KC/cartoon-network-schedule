@@ -2993,7 +2993,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1675634400,
-        "last_update": 1675566502104,
+        "last_update": 1675567944248,
         "live": false,
         "participants": [
             {
@@ -3059,7 +3059,7 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1675634280,
         "season_number": "2",
-        "serial": 1675566501877,
+        "serial": 1675567944474,
         "series_id": "2106724",
         "series_name": "Lamput",
         "show_duration": 180,
@@ -3229,7 +3229,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1675637100,
-        "last_update": 1675566502385,
+        "last_update": 1675568147120,
         "live": false,
         "participants": [
             {
@@ -3270,7 +3270,7 @@
         "scheduled_duration": 973,
         "scheduled_timestamp": 1675637008,
         "season_number": "4",
-        "serial": 1675566502174,
+        "serial": 1675568146673,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 973,
@@ -3300,7 +3300,7 @@
             "Family"
         ],
         "guide_timestamp": 1675638000,
-        "last_update": 1675560811057,
+        "last_update": 1675567944534,
         "live": false,
         "participants": [
             {
@@ -3335,7 +3335,7 @@
         "runtime_minutes": 102,
         "scheduled_duration": 7484,
         "scheduled_timestamp": 1675638000,
-        "serial": 1675560811162,
+        "serial": 1675567944770,
         "series_name": "",
         "show_duration": 7484,
         "show_id": "1043250317",
@@ -3416,7 +3416,7 @@
             "Family"
         ],
         "guide_timestamp": 1675647000,
-        "last_update": 1675566502385,
+        "last_update": 1675568147120,
         "live": false,
         "participants": [
             {
@@ -3432,7 +3432,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1675647000,
         "season_number": "5",
-        "serial": 1675566502174,
+        "serial": 1675568146673,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -3465,7 +3465,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675648800,
-        "last_update": 1675566502385,
+        "last_update": 1675568147120,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -3474,7 +3474,7 @@
         "scheduled_duration": 1809,
         "scheduled_timestamp": 1675648800,
         "season_number": "8",
-        "serial": 1675566502174,
+        "serial": 1675568146673,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1809,
@@ -3506,7 +3506,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1675650600,
-        "last_update": 1675566502385,
+        "last_update": 1675568147120,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -3515,7 +3515,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1675650600,
         "season_number": "9",
-        "serial": 1675566502174,
+        "serial": 1675568146673,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1803,
@@ -3546,7 +3546,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1675652400,
-        "last_update": 1675566502385,
+        "last_update": 1675567944534,
         "live": false,
         "participants": [
             {
@@ -3592,7 +3592,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1675652400,
         "season_number": "17",
-        "serial": 1675566502174,
+        "serial": 1675567944770,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1803,
@@ -3602,6 +3602,83 @@
         "summary": "Roger and Steve try to save a dying mall.",
         "title": "You Are Here",
         "title_id": "2342104",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1F5JWV",
+        "create_time": 1675567944534,
+        "episode_in_season": "16",
+        "episode_number": "S17:E16",
+        "external_id": "15970338",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1675654200,
+        "last_update": 1675568147120,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1675654200,
+        "season_number": "17",
+        "serial": 1675568146673,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1038696122",
+        "show_timestamp": 1675654200,
+        "status": "estimated",
+        "summary": "Barry blows out his dad's speakers and Snot helps him replace them. Stan attempts to do a standing backflip.",
+        "title": "I Heard You Wanna Buy Some Speakers",
+        "title_id": "2342101",
         "tv_rating": "TV-14"
     }
 ]
