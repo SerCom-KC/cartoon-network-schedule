@@ -477,7 +477,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1676362500,
-        "last_update": 1676283163171,
+        "last_update": 1676284354303,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -486,7 +486,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1676362500,
         "season_number": "2",
-        "serial": 1676283162687,
+        "serial": 1676284354211,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 903,
@@ -621,7 +621,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1676367000,
-        "last_update": 1676283163171,
+        "last_update": 1676284354303,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -630,7 +630,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1676367000,
         "season_number": "3",
-        "serial": 1676283162687,
+        "serial": 1676284354211,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -661,7 +661,7 @@
             "Family"
         ],
         "guide_timestamp": 1676368800,
-        "last_update": 1676283163171,
+        "last_update": 1676284354303,
         "live": false,
         "participants": [
             {
@@ -677,7 +677,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1676368800,
         "season_number": "3",
-        "serial": 1676283162687,
+        "serial": 1676284354211,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -689,5 +689,54 @@
         "title": "My Fuzzy Valentine",
         "title_id": "2003524",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3GY3T",
+        "create_time": 1676284354303,
+        "episode_in_season": "11",
+        "episode_number": "S5:E11",
+        "external_id": "16056322",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1676370600,
+        "last_update": 1676284354303,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1676370600,
+        "season_number": "5",
+        "serial": 1676284354211,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1041833263",
+        "show_timestamp": 1676370600,
+        "status": "estimated",
+        "summary": "Tina teams up with Darryl to win the Cupid's Couple contest at the school dance. Meanwhile, Linda plans a full week of ambitious Valentine's Day activities for her and Bob.",
+        "title": "Can't Buy Me Math",
+        "title_id": "2065461",
+        "tv_rating": "TV-PG"
     }
 ]
