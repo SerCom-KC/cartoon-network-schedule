@@ -89,7 +89,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1676525400,
-        "last_update": 1676441670094,
+        "last_update": 1676444903970,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -98,7 +98,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1676525400,
         "season_number": "4",
-        "serial": 1676441669486,
+        "serial": 1676444903372,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -209,7 +209,7 @@
             "Talk"
         ],
         "guide_timestamp": 1676528100,
-        "last_update": 1676444009715,
+        "last_update": 1676444903970,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -218,7 +218,7 @@
         "scheduled_duration": 920,
         "scheduled_timestamp": 1676528100,
         "season_number": "4",
-        "serial": 1676444009548,
+        "serial": 1676444903372,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
         "show_duration": 920,
@@ -304,6 +304,75 @@
         "summary": "Stan's competitive streak is unleashed when he and Francine start ice dancing together. Stan dumps Francine to compete with Roger. Meanwhile, Steve and his friends get a mail order Russian bride.",
         "title": "Of Ice and Men",
         "title_id": "700758",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "C5YD0",
+        "create_time": 1676444903970,
+        "episode_in_season": "10",
+        "episode_number": "S4:E10",
+        "external_id": "16056228",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1676530800,
+        "last_update": 1676444903970,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1676530800,
+        "season_number": "4",
+        "serial": 1676444903372,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1041833670",
+        "show_timestamp": 1676530800,
+        "status": "estimated",
+        "summary": "Parenting is crazy broh. Stuff straight disappearin in this one.",
+        "title": "Star Mort Rickturn of the Jerri",
+        "title_id": "2206495",
         "tv_rating": "TV-14"
     }
 ]
