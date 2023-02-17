@@ -338,7 +338,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1676700000,
-        "last_update": 1676628981684,
+        "last_update": 1676634391460,
         "live": false,
         "participants": [
             {
@@ -384,7 +384,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1676700000,
         "season_number": "2",
-        "serial": 1676628981262,
+        "serial": 1676634391297,
         "series_id": "2137894",
         "series_name": "Ballmastrz: 9009",
         "show_duration": 900,
@@ -915,7 +915,7 @@
             "Drama"
         ],
         "guide_timestamp": 1676714400,
-        "last_update": 1676628497972,
+        "last_update": 1676634391729,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -924,7 +924,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1676714400,
         "season_number": "3",
-        "serial": 1676628497360,
+        "serial": 1676634391657,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
@@ -934,6 +934,45 @@
         "summary": "Good Hill Hunting: Hank prepares Bobby for a deer-hunting trip as part of his initiation into manhood.",
         "title": "Good Hill Hunting",
         "title_id": "731250",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "15N0N1",
+        "create_time": 1676634391729,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "16056349",
+        "feed_id": "as-east",
+        "franchise_id": "359714",
+        "franchise_name": "King Of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1676716200,
+        "last_update": 1676634391729,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1676716200,
+        "season_number": "3",
+        "serial": 1676634391657,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "1041835699",
+        "show_timestamp": 1676716200,
+        "status": "estimated",
+        "summary": "Hank and his friends become volunteer fire fighters...with disastrous consequences.",
+        "title": "A Fire Fighting We Will Go",
+        "title_id": "731252",
         "tv_rating": "TV-PG"
     }
 ]
