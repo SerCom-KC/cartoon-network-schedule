@@ -88,7 +88,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1676870100,
-        "last_update": 1676862505947,
+        "last_update": 1676864680634,
         "live": false,
         "participants": [
             {
@@ -129,7 +129,7 @@
         "scheduled_duration": 995,
         "scheduled_timestamp": 1676870100,
         "season_number": "2",
-        "serial": 1676862506210,
+        "serial": 1676864679969,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 930,
@@ -1023,7 +1023,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1676893500,
-        "last_update": 1676862506283,
+        "last_update": 1676864680966,
         "live": false,
         "participants": [
             {
@@ -1064,7 +1064,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1676893398,
         "season_number": "3",
-        "serial": 1676862506570,
+        "serial": 1676864680657,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -5341,7 +5341,7 @@
             "Family"
         ],
         "guide_timestamp": 1676946600,
-        "last_update": 1676862508475,
+        "last_update": 1676864683202,
         "live": false,
         "participants": [
             {
@@ -5357,7 +5357,7 @@
         "scheduled_duration": 1824,
         "scheduled_timestamp": 1676946600,
         "season_number": "1",
-        "serial": 1676862508771,
+        "serial": 1676864682719,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1824,
@@ -5417,5 +5417,82 @@
         "title": "Torpedo",
         "title_id": "2003435",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "3YF47",
+        "create_time": 1676864683202,
+        "episode_in_season": "22",
+        "episode_number": "S2:E22",
+        "external_id": "16056124",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1676950200,
+        "last_update": 1676864683202,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1676950200,
+        "season_number": "2",
+        "serial": 1676864682719,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1041845437",
+        "show_timestamp": 1676950200,
+        "status": "estimated",
+        "summary": "Stan takes Steve and his friends on a cattle drive through Langley Falls in an effort to turn them into men. But when Stan eats beef tainted with mad cow disease, it's up to the boys to save the day.",
+        "summary_long": "Stan takes Steve and his friends on a cattle drive through Langley Falls in an effort to turn them into men. But when Stan eats beef tainted with mad cow disease, it's up to the boys to save the day. Meanwhile, Roger pits Francine and Hayley against each other for his own amusement.",
+        "title": "The Magnificent Steven",
+        "title_id": "700769",
+        "tv_rating": "TV-14"
     }
 ]
