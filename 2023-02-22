@@ -169,7 +169,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1677045600,
-        "last_update": 1676963058899,
+        "last_update": 1676967610106,
         "live": false,
         "participants": [
             {
@@ -195,7 +195,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1677045600,
         "season_number": "2",
-        "serial": 1676963058148,
+        "serial": 1676967609420,
         "series_id": "2165429",
         "series_name": "The Shivering Truth",
         "show_duration": 906,
@@ -436,7 +436,7 @@
             "Animation"
         ],
         "guide_timestamp": 1677051000,
-        "last_update": 1676966340799,
+        "last_update": 1676967610106,
         "live": false,
         "participants": [
             {
@@ -472,7 +472,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1677051000,
         "season_number": "5",
-        "serial": 1676966341079,
+        "serial": 1676967609420,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -482,6 +482,89 @@
         "summary": "Check these ferrets broh. Gotta keep it in the family though.",
         "title": "Gotron Jerrysis Rickvangelion",
         "title_id": "2270461",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3XVJF",
+        "create_time": 1676967610106,
+        "episode_in_season": "9",
+        "episode_number": "S4:E09",
+        "external_id": "16062628",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1677052800,
+        "last_update": 1676967610106,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 911,
+        "scheduled_timestamp": 1677052800,
+        "season_number": "4",
+        "serial": 1676967609420,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 911,
+        "show_id": "1041844625",
+        "show_timestamp": 1677052800,
+        "status": "estimated",
+        "summary": "Yung Hee (finally) wonders if being on a mystery team is what she wants to do with her life.",
+        "title": "The Yung and the Restless",
+        "title_id": "2172006",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3XT0R",
+        "create_time": 1676967610106,
+        "episode_in_season": "10",
+        "episode_number": "S4:E10",
+        "external_id": "16062644",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1677053700,
+        "last_update": 1676967610106,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1677053700,
+        "season_number": "4",
+        "serial": 1676967609420,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 902,
+        "show_id": "1041844626",
+        "show_timestamp": 1677053700,
+        "status": "estimated",
+        "summary": "What do you do with baby octopus, plantains, smoked kippers and cream of mushroom soup?",
+        "title": "A Mystery in Little Italy",
+        "title_id": "2172007",
         "tv_rating": "TV-14"
     }
 ]
