@@ -19,7 +19,7 @@
             "Animation"
         ],
         "guide_timestamp": 1677214800,
-        "last_update": 1677134855063,
+        "last_update": 1677140216954,
         "live": false,
         "participants": [
             {
@@ -55,7 +55,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1677214800,
         "season_number": "6",
-        "serial": 1677134854806,
+        "serial": 1677140216864,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1801,
@@ -365,7 +365,7 @@
             "Animation"
         ],
         "guide_timestamp": 1677222000,
-        "last_update": 1677138088712,
+        "last_update": 1677140217370,
         "live": false,
         "participants": [
             {
@@ -401,7 +401,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1677222000,
         "season_number": "5",
-        "serial": 1677138087782,
+        "serial": 1677140217286,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -433,7 +433,7 @@
             "Animation"
         ],
         "guide_timestamp": 1677223800,
-        "last_update": 1677138088712,
+        "last_update": 1677140217370,
         "live": false,
         "participants": [
             {
@@ -469,7 +469,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1677223800,
         "season_number": "6",
-        "serial": 1677138087782,
+        "serial": 1677140217286,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -479,6 +479,89 @@
         "summary": "Last season's finale was a doozy, broh. What do we do now, broh?",
         "title": "Solaricks",
         "title_id": "2397933",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "46J7Y",
+        "create_time": 1677140217370,
+        "episode_in_season": "14",
+        "episode_number": "S4:E14",
+        "external_id": "16062630",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1677225600,
+        "last_update": 1677140217370,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1677225600,
+        "season_number": "4",
+        "serial": 1677140217286,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 900,
+        "show_id": "1041856769",
+        "show_timestamp": 1677225600,
+        "status": "estimated",
+        "summary": "The thrills and chills of sexting.",
+        "title": "Pilot Error",
+        "title_id": "2172011",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "473TR",
+        "create_time": 1677140217370,
+        "episode_in_season": "16",
+        "episode_number": "S4:E16",
+        "external_id": "16062646",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1677226500,
+        "last_update": 1677140217370,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1677226500,
+        "season_number": "4",
+        "serial": 1677140217286,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 900,
+        "show_id": "1041856780",
+        "show_timestamp": 1677226500,
+        "status": "estimated",
+        "summary": "Can the team bring holiday cheer to someone who's given up on life?",
+        "title": "The Christmas Episode",
+        "title_id": "2172013",
         "tv_rating": "TV-14"
     }
 ]
