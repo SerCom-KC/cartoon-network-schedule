@@ -88,7 +88,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1677216600,
-        "last_update": 1677141630517,
+        "last_update": 1677145511584,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -97,7 +97,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1677216600,
         "season_number": "4",
-        "serial": 1677141630118,
+        "serial": 1677145511154,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -223,7 +223,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1677219300,
-        "last_update": 1677138088712,
+        "last_update": 1677145511584,
         "live": false,
         "participants": [
             {
@@ -254,7 +254,7 @@
         "scheduled_duration": 922,
         "scheduled_timestamp": 1677219300,
         "season_number": "1",
-        "serial": 1677138087782,
+        "serial": 1677145511154,
         "series_id": "691917",
         "series_name": "Xavier: Renegade Angel",
         "show_duration": 922,
@@ -433,7 +433,7 @@
             "Animation"
         ],
         "guide_timestamp": 1677223800,
-        "last_update": 1677140217370,
+        "last_update": 1677145512059,
         "live": false,
         "participants": [
             {
@@ -469,7 +469,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1677223800,
         "season_number": "6",
-        "serial": 1677140217286,
+        "serial": 1677145511607,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -543,7 +543,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1677226500,
-        "last_update": 1677141630781,
+        "last_update": 1677145512059,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -552,7 +552,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1677226500,
         "season_number": "4",
-        "serial": 1677141630400,
+        "serial": 1677145511607,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -583,7 +583,7 @@
             "Music"
         ],
         "guide_timestamp": 1677227400,
-        "last_update": 1677141630781,
+        "last_update": 1677145512059,
         "live": false,
         "participants": [
             {
@@ -619,7 +619,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1677227400,
         "season_number": "2",
-        "serial": 1677141630400,
+        "serial": 1677145511607,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 1800,
@@ -631,5 +631,84 @@
         "title": "Snakes N Barrels II",
         "title_id": "730346",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "14C5YH",
+        "create_time": 1677145512059,
+        "episode_in_season": "8",
+        "episode_number": "S5:E08",
+        "external_id": "16056269",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1677229200,
+        "last_update": 1677145512059,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2003,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1677229200,
+        "season_number": "5",
+        "serial": 1677145511607,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1805,
+        "show_id": "1041856816",
+        "show_timestamp": 1677229200,
+        "status": "estimated",
+        "summary": "Fry becomes disheartened when Leela gets involved with the mayor's aide.",
+        "title": "The Why of Fry",
+        "title_id": "444753",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "14C6RD",
+        "create_time": 1677145512059,
+        "episode_in_season": "10",
+        "episode_number": "S5:E10",
+        "external_id": "16056293",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1677231000,
+        "last_update": 1677145512059,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2003,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1677231000,
+        "season_number": "5",
+        "serial": 1677145511607,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1803,
+        "show_id": "1041856838",
+        "show_timestamp": 1677231000,
+        "status": "estimated",
+        "summary": "The professor conducts an experiment which hurls Leela into a parallel universe.",
+        "title": "The Farnsworth Parabox",
+        "title_id": "444757",
+        "tv_rating": "TV-PG"
     }
 ]
