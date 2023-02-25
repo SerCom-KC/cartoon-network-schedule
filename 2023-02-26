@@ -57,7 +57,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1677389400,
-        "last_update": 1677305792252,
+        "last_update": 1677313647103,
         "live": false,
         "participants": [
             {
@@ -108,7 +108,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1677389400,
         "season_number": "3",
-        "serial": 1677305791600,
+        "serial": 1677313646769,
         "series_id": "2137894",
         "series_name": "Ballmastrz: 9009",
         "show_duration": 1800,
@@ -138,7 +138,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1677391200,
-        "last_update": 1677305792252,
+        "last_update": 1677313647103,
         "live": false,
         "participants": [
             {
@@ -188,7 +188,7 @@
         "runtime_minutes": 105,
         "scheduled_duration": 6300,
         "scheduled_timestamp": 1677391200,
-        "serial": 1677305791600,
+        "serial": 1677313646769,
         "series_name": "",
         "show_duration": 6300,
         "show_id": "1043456846",
@@ -198,6 +198,125 @@
         "summary_long": "From animation legend Bruce Timm comes an all-new DC Universe movie. The fate of the earth hangs in the balance when the Justice League face a powerful new threat - the Fatal Five! Superman, Batman and Wonder Woman seek answers as Mano, Persuader and Tharok terrorize Metropolis in search of budding Green Lantern Jessica Cruz. With Cruz's unwilling help, they aim to free remaining Fatal Five members Emerald Empress and Validus and carry out their sinister plan. Meanwhile, the Justice League discover an ally in the peculiar Star Boy, who's brimming with volatile power.",
         "title": "Justice League vs the Fatal Five",
         "title_id": "2244895",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1F4Y6J",
+        "create_time": 1677313647103,
+        "external_id": "16076746",
+        "feed_id": "as-east",
+        "franchise_id": "471412",
+        "franchise_name": "Rick and Morty: Extras",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "guide_timestamp": 1677397500,
+        "last_update": 1677313647103,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1677397500,
+        "season_number": "1",
+        "serial": 1677313646769,
+        "series_id": "2215150",
+        "series_name": "Rick and Morty: Extras",
+        "show_duration": 900,
+        "show_id": "1043456919",
+        "show_timestamp": 1677397500,
+        "status": "estimated",
+        "summary": "An unexpected guest livens up Summer's sleepover party in this trippy horror short from Claymation filmmaker Lee Hardcastle.",
+        "title": "Summer's Sleepover",
+        "title_id": "2413126",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1F5C6D",
+        "create_time": 1677313647103,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "16065278",
+        "feed_id": "as-east",
+        "franchise_id": "446772",
+        "franchise_name": "Ballmastrz: 9009",
+        "genres": [
+            "Action",
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1677398400,
+        "last_update": 1677313647103,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gaz Digzy",
+                "name": "Natasha Lyonne",
+                "role": "Voice"
+            },
+            {
+                "character": "Ace Ambling",
+                "name": "Jessica DiCicco",
+                "role": "Voice"
+            },
+            {
+                "character": "Duleena Duneeda",
+                "name": "Jessica DiCicco",
+                "role": "Voice"
+            },
+            {
+                "character": "Baby Ball",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Flip Champion",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Leto Otel",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Crayzar",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            },
+            {
+                "character": "Aboo Buvu",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1677398400,
+        "season_number": "3",
+        "serial": 1677313646769,
+        "series_id": "2137894",
+        "series_name": "Ballmastrz: 9009",
+        "show_duration": 1800,
+        "show_id": "1041858895",
+        "show_timestamp": 1677398400,
+        "status": "estimated",
+        "summary": "When secrets from Crayzar's past threaten the future of the planet, will he grow some balls and unite 'Team Earth' or add humanity to the intergalactic endangered species list?",
+        "title": "Ballmastrz: Rubicon",
+        "title_id": "2413271",
         "tv_rating": "TV-14"
     }
 ]
