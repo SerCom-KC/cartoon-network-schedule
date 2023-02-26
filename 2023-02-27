@@ -17,7 +17,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1677474000,
-        "last_update": 1677392741007,
+        "last_update": 1677400594736,
         "live": false,
         "participants": [
             {
@@ -58,7 +58,7 @@
         "scheduled_duration": 939,
         "scheduled_timestamp": 1677474000,
         "season_number": "2",
-        "serial": 1677392740977,
+        "serial": 1677400594794,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 939,
@@ -88,7 +88,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1677474900,
-        "last_update": 1677399051645,
+        "last_update": 1677400595029,
         "live": false,
         "participants": [
             {
@@ -129,7 +129,7 @@
         "scheduled_duration": 954,
         "scheduled_timestamp": 1677474900,
         "season_number": "2",
-        "serial": 1677399051329,
+        "serial": 1677400595107,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 954,
@@ -229,7 +229,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1677476700,
-        "last_update": 1677397850827,
+        "last_update": 1677400595029,
         "live": false,
         "participants": [
             {
@@ -265,7 +265,7 @@
         "scheduled_duration": 950,
         "scheduled_timestamp": 1677476700,
         "season_number": "8",
-        "serial": 1677397850054,
+        "serial": 1677400595107,
         "series_id": "847246",
         "series_name": "Aqua Unit Patrol Squad 1",
         "show_duration": 950,
@@ -298,7 +298,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1677477600,
-        "last_update": 1677392741007,
+        "last_update": 1677400595029,
         "live": false,
         "participants": [
             {
@@ -349,7 +349,7 @@
         "scheduled_duration": 1807,
         "scheduled_timestamp": 1677477600,
         "season_number": "3",
-        "serial": 1677392740977,
+        "serial": 1677400595107,
         "series_id": "2137894",
         "series_name": "Ballmastrz: 9009",
         "show_duration": 1807,
@@ -380,7 +380,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1677479400,
-        "last_update": 1677397850827,
+        "last_update": 1677400595029,
         "live": false,
         "participants": [
             {
@@ -426,7 +426,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1677479400,
         "season_number": "17",
-        "serial": 1677397850054,
+        "serial": 1677400595107,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1801,
@@ -606,7 +606,7 @@
             "Animation"
         ],
         "guide_timestamp": 1677484800,
-        "last_update": 1677399051645,
+        "last_update": 1677400595029,
         "live": false,
         "participants": [
             {
@@ -642,7 +642,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1677484800,
         "season_number": "4",
-        "serial": 1677399051329,
+        "serial": 1677400595107,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1806,
@@ -652,6 +652,77 @@
         "summary": "Morty gets a dragon in this one broh. It's a wild ride broh.",
         "title": "Claw and Hoarder: Special Ricktim's Morty",
         "title_id": "2206486",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "1F5D4F",
+        "create_time": 1677400595029,
+        "episode_in_season": "7",
+        "episode_number": "S2:E07",
+        "external_id": "16062726",
+        "feed_id": "as-east",
+        "franchise_id": "483312",
+        "franchise_name": "YOLO: Silver Destiny",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1677486600,
+        "last_update": 1677400595029,
+        "live": false,
+        "participants": [
+            {
+                "character": "Sarah",
+                "name": "Sarah Bishop",
+                "role": "Voice"
+            },
+            {
+                "character": "Rachel",
+                "name": "Todor Manojlovic",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Emma Fitzsimons",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Greta Lee Jackson",
+                "role": "Executive Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1677486600,
+        "season_number": "2",
+        "serial": 1677400595107,
+        "series_id": "2224723",
+        "series_name": "YOLO",
+        "show_duration": 900,
+        "show_id": "1041863438",
+        "show_timestamp": 1677486600,
+        "status": "estimated",
+        "summary": "Sarah is kidnapped by bees whilst tending to her flowering garden and taken to their honey castle where she is made Empress. Rachel and Lucas come to the rescue, only to find that she is violently drunk on the power. And honey drugs.",
+        "title": "Journey to the Chasm of the Bees",
+        "title_id": "2412385",
         "tv_rating": "TV-14"
     }
 ]
