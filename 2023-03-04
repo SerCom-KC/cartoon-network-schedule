@@ -264,7 +264,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1677909600,
-        "last_update": 1677826615718,
+        "last_update": 1677833824405,
         "live": false,
         "participants": [
             {
@@ -310,7 +310,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1677909600,
         "season_number": "2",
-        "serial": 1677826615717,
+        "serial": 1677833824049,
         "series_id": "2137894",
         "series_name": "Ballmastrz: 9009",
         "show_duration": 900,
@@ -500,7 +500,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1677912300,
-        "last_update": 1677826615718,
+        "last_update": 1677833824742,
         "live": false,
         "participants": [
             {
@@ -546,7 +546,7 @@
         "scheduled_duration": 902,
         "scheduled_timestamp": 1677912300,
         "season_number": "2",
-        "serial": 1677826615717,
+        "serial": 1677833824419,
         "series_id": "2137894",
         "series_name": "Ballmastrz: 9009",
         "show_duration": 902,
@@ -580,7 +580,7 @@
             "Animation"
         ],
         "guide_timestamp": 1677913200,
-        "last_update": 1677831816706,
+        "last_update": 1677833824742,
         "live": false,
         "participants": [
             {
@@ -616,7 +616,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1677913200,
         "season_number": "1",
-        "serial": 1677831816306,
+        "serial": 1677833824419,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1806,
@@ -648,7 +648,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1677915000,
-        "last_update": 1677831816706,
+        "last_update": 1677833824742,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -657,7 +657,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1677915000,
         "season_number": "6",
-        "serial": 1677831816306,
+        "serial": 1677833824419,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -688,7 +688,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1677916800,
-        "last_update": 1677831816706,
+        "last_update": 1677833824742,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -697,7 +697,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1677916800,
         "season_number": "6",
-        "serial": 1677831816306,
+        "serial": 1677833824419,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1801,
@@ -707,6 +707,47 @@
         "summary": "When doctors can't get through to Bender, they order a robotomy.",
         "title": "Bender's Game Part 2",
         "title_id": "2161613",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "12VXN6",
+        "create_time": 1677833824742,
+        "episode_in_season": "11",
+        "episode_number": "S6:E11",
+        "external_id": "16056493",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1677918600,
+        "last_update": 1677833824742,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1677918600,
+        "season_number": "6",
+        "serial": 1677833824419,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1044963684",
+        "show_timestamp": 1677918600,
+        "status": "estimated",
+        "summary": "While Bender is getting a robotomy, Farnsworth, Leela, and Fry wind up with Bender in his imaginary world of Dungeons and Dragons.",
+        "title": "Bender's Game Part 3",
+        "title_id": "2161614",
         "tv_rating": "TV-14"
     }
 ]
