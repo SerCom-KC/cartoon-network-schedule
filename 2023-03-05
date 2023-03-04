@@ -15,7 +15,7 @@
             "Action"
         ],
         "guide_timestamp": 1677992400,
-        "last_update": 1677906289996,
+        "last_update": 1677917072404,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -24,7 +24,7 @@
         "scheduled_duration": 1831,
         "scheduled_timestamp": 1677992400,
         "season_number": "6",
-        "serial": 1677906289698,
+        "serial": 1677917072233,
         "series_id": "2142267",
         "series_name": "My Hero Academia",
         "show_duration": 1831,
@@ -52,7 +52,7 @@
             "Action"
         ],
         "guide_timestamp": 1677994200,
-        "last_update": 1677915883663,
+        "last_update": 1677917072404,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -61,7 +61,7 @@
         "scheduled_duration": 1816,
         "scheduled_timestamp": 1677994200,
         "season_number": "6",
-        "serial": 1677915883059,
+        "serial": 1677917072233,
         "series_id": "2142267",
         "series_name": "My Hero Academia",
         "show_duration": 1816,
@@ -90,7 +90,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1677996000,
-        "last_update": 1677910513947,
+        "last_update": 1677917072404,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -99,7 +99,7 @@
         "scheduled_duration": 1857,
         "scheduled_timestamp": 1677996000,
         "season_number": "16",
-        "serial": 1677910513027,
+        "serial": 1677917072233,
         "series_id": "608007",
         "series_name": "One Piece",
         "show_duration": 1857,
@@ -163,7 +163,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1677999600,
-        "last_update": 1677913497358,
+        "last_update": 1677917072404,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -172,7 +172,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1677999600,
         "season_number": "8",
-        "serial": 1677913497280,
+        "serial": 1677917072233,
         "series_id": "812206",
         "series_name": "Naruto: Shippuden",
         "show_duration": 1800,
@@ -203,7 +203,7 @@
             "Animation"
         ],
         "guide_timestamp": 1678001400,
-        "last_update": 1677915883663,
+        "last_update": 1677917072404,
         "live": false,
         "participants": [
             {
@@ -234,7 +234,7 @@
         "scheduled_duration": 1808,
         "scheduled_timestamp": 1678001400,
         "season_number": "2",
-        "serial": 1677915883059,
+        "serial": 1677917072233,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1808,
@@ -244,6 +244,86 @@
         "summary": "Spear, Fang, and Mira are hunted by the last survivors of a village decimated by their carnage.",
         "title": "Vidarr",
         "title_id": "2276162",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "46YDT",
+        "create_time": 1677917072404,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "16065279",
+        "feed_id": "as-east",
+        "franchise_id": "446772",
+        "franchise_name": "Ballmastrz: 9009",
+        "genres": [
+            "Action",
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1678003200,
+        "last_update": 1677917072404,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gaz Digzy",
+                "name": "Natasha Lyonne",
+                "role": "Voice"
+            },
+            {
+                "character": "Ace Ambling",
+                "name": "Jessica DiCicco",
+                "role": "Voice"
+            },
+            {
+                "character": "Duleena Duneeda",
+                "name": "Jessica DiCicco",
+                "role": "Voice"
+            },
+            {
+                "character": "Baby Ball",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Flip Champion",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Leto Otel",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Crayzar",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1678003200,
+        "season_number": "2",
+        "serial": 1677917072233,
+        "series_id": "2137894",
+        "series_name": "Ballmastrz: 9009",
+        "show_duration": 900,
+        "show_id": "1044964929",
+        "show_timestamp": 1678003200,
+        "status": "estimated",
+        "summary": "When Ace gets depressed because he has no family to share the joy of his new fame in the game with, Gaz and Babyball make him one.",
+        "title": "Infinite Hugs: Cold Embrace of the Bloodless Progenitors!",
+        "title_id": "2199774",
         "tv_rating": "TV-14"
     }
 ]
