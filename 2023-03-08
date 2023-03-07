@@ -88,7 +88,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1678253400,
-        "last_update": 1678167825681,
+        "last_update": 1678174455809,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -97,7 +97,7 @@
         "scheduled_duration": 933,
         "scheduled_timestamp": 1678253400,
         "season_number": "2",
-        "serial": 1678167825281,
+        "serial": 1678174455248,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 933,
@@ -168,7 +168,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1678255200,
-        "last_update": 1678173727121,
+        "last_update": 1678174456458,
         "live": false,
         "participants": [
             {
@@ -209,7 +209,7 @@
         "scheduled_duration": 929,
         "scheduled_timestamp": 1678255200,
         "season_number": "2",
-        "serial": 1678173726235,
+        "serial": 1678174455734,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 929,
@@ -241,7 +241,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1678256100,
-        "last_update": 1678173727121,
+        "last_update": 1678174456458,
         "live": false,
         "participants": [
             {
@@ -272,7 +272,7 @@
         "scheduled_duration": 931,
         "scheduled_timestamp": 1678256100,
         "season_number": "1",
-        "serial": 1678173726235,
+        "serial": 1678174455734,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
         "show_duration": 931,
@@ -304,7 +304,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1678257000,
-        "last_update": 1678173727121,
+        "last_update": 1678174456458,
         "live": false,
         "participants": [
             {
@@ -350,7 +350,7 @@
         "scheduled_duration": 1824,
         "scheduled_timestamp": 1678257000,
         "season_number": "5",
-        "serial": 1678173726235,
+        "serial": 1678174455734,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1824,
@@ -430,6 +430,75 @@
         "summary": "Rick and Morty try to get to the bottom of a mystery in this M. Night Shamyaloin style twistaroony of an episode!",
         "title": "M. Night Shaym-Aliens!",
         "title_id": "2013509",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "CX371",
+        "create_time": 1678174456458,
+        "episode_in_season": "8",
+        "episode_number": "S4:E08",
+        "external_id": "16071470",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1678260600,
+        "last_update": 1678174456458,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1678260600,
+        "season_number": "4",
+        "serial": 1678174455734,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1046154415",
+        "show_timestamp": 1678260600,
+        "status": "estimated",
+        "summary": "The one with the acid vat, broh.",
+        "title": "The Vat of Acid Episode",
+        "title_id": "2206493",
         "tv_rating": "TV-14"
     }
 ]
