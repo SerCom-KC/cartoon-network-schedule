@@ -519,7 +519,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1678348800,
-        "last_update": 1678267277522,
+        "last_update": 1678267855272,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -528,7 +528,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1678348800,
         "season_number": "3",
-        "serial": 1678267276891,
+        "serial": 1678267855539,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 906,
@@ -598,7 +598,7 @@
             "Music"
         ],
         "guide_timestamp": 1678350600,
-        "last_update": 1678267277785,
+        "last_update": 1678267855272,
         "live": false,
         "participants": [
             {
@@ -634,7 +634,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1678350600,
         "season_number": "3",
-        "serial": 1678267277407,
+        "serial": 1678267855539,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 1800,
@@ -686,6 +686,47 @@
         "summary": "Earth is overrun by a race of intelligent felines.",
         "title": "That Darn Katz!",
         "title_id": "2161627",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14RY9P",
+        "create_time": 1678267855552,
+        "episode_in_season": "9",
+        "episode_number": "S7:E09",
+        "external_id": "16071536",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1678354200,
+        "last_update": 1678267855552,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1678354200,
+        "season_number": "7",
+        "serial": 1678267855852,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1046151335",
+        "show_timestamp": 1678354200,
+        "status": "estimated",
+        "summary": "The theory of evolution is put to the test on a planet inhabited by robots.",
+        "title": "A Clockwork Origin",
+        "title_id": "2161628",
         "tv_rating": "TV-14"
     }
 ]
