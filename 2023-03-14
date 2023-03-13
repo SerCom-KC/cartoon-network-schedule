@@ -299,7 +299,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1678771800,
-        "last_update": 1678692228959,
+        "last_update": 1678695309835,
         "live": false,
         "participants": [
             {
@@ -345,7 +345,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1678771800,
         "season_number": "6",
-        "serial": 1678692228404,
+        "serial": 1678695310209,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -379,7 +379,7 @@
             "Animation"
         ],
         "guide_timestamp": 1678773600,
-        "last_update": 1678690430532,
+        "last_update": 1678695309835,
         "live": false,
         "participants": [
             {
@@ -415,7 +415,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1678773600,
         "season_number": "1",
-        "serial": 1678690430186,
+        "serial": 1678695310209,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -446,7 +446,7 @@
             "Animation"
         ],
         "guide_timestamp": 1678775400,
-        "last_update": 1678692228959,
+        "last_update": 1678695309835,
         "live": false,
         "participants": [
             {
@@ -482,7 +482,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1678775400,
         "season_number": "2",
-        "serial": 1678692228404,
+        "serial": 1678695310209,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -576,5 +576,109 @@
         "title": "A Mine Is a Terrible Thing to Waste",
         "title_id": "2117689",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "VPTT",
+        "create_time": 1678695309835,
+        "episode_in_season": "9",
+        "episode_number": "S3:E09",
+        "external_id": "16082234",
+        "feed_id": "as-east",
+        "franchise_id": "341865",
+        "franchise_name": "Metalocalypse",
+        "genres": [
+            "Comedy",
+            "Music"
+        ],
+        "guide_timestamp": 1678779000,
+        "last_update": 1678695309835,
+        "live": false,
+        "participants": [
+            {
+                "character": "Nathan Explosion",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "Skwisgaar Skwigelf",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "William Murderface",
+                "name": "Tommy Blacha",
+                "role": "Voice"
+            },
+            {
+                "character": "Pickles",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "Toki Wartooth",
+                "name": "Tommy Blacha",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1678779000,
+        "season_number": "3",
+        "serial": 1678695310209,
+        "series_id": "648666",
+        "series_name": "Metalocalypse",
+        "show_duration": 1800,
+        "show_id": "1046249318",
+        "show_timestamp": 1678779000,
+        "status": "estimated",
+        "summary": "Toki tries to turn the life of his rock-and-roll clown friend, Dr. Rockzo, around by investing Dethklok's vacation fund. Everything goes smoothly until the media peers into Rockzo's past and discovers the clown's darkest secret.",
+        "summary_long": "Toki tries to turn the life of his rock-and-roll clown friend, Dr. Rockzo, around by investing Dethklok's vacation fund into the ultimate Zazz Blammymatazz reunion. Everything goes smoothly until the media peers into Rockzo's past and discovers the clown's darkest secret, the secret that tore his career apart, the secret love of a girl he couldn't have. Rockzo disappears from the public. When we learn that Toki CAN'T live without the clown, he recedes into a state of dark catatonia and Dethklok realizes that in order to save their bandmate Toki, they must save the clown.",
+        "title": "Dethzazz",
+        "title_id": "811442",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "1249F2",
+        "create_time": 1678695309835,
+        "episode_in_season": "5",
+        "episode_number": "S2:E05",
+        "external_id": "16095565",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1678780800,
+        "last_update": 1678695309835,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1821,
+        "scheduled_timestamp": 1678780800,
+        "season_number": "2",
+        "serial": 1678695310209,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1821,
+        "show_id": "1046379763",
+        "show_timestamp": 1678780800,
+        "status": "estimated",
+        "summary": "Professor Farnsworth installs an empathy chip in Bender.",
+        "title": "I Second That Emotion",
+        "title_id": "437546",
+        "tv_rating": "TV-PG"
     }
 ]
