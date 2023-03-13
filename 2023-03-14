@@ -128,7 +128,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1678769100,
-        "last_update": 1678690430532,
+        "last_update": 1678697133056,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -137,7 +137,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1678769100,
         "season_number": "3",
-        "serial": 1678690430186,
+        "serial": 1678697132348,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -236,7 +236,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1678770900,
-        "last_update": 1678692228959,
+        "last_update": 1678697133056,
         "live": false,
         "participants": [
             {
@@ -267,7 +267,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1678770900,
         "season_number": "1",
-        "serial": 1678692228404,
+        "serial": 1678697132348,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
         "show_duration": 900,
@@ -379,7 +379,7 @@
             "Animation"
         ],
         "guide_timestamp": 1678773600,
-        "last_update": 1678695309835,
+        "last_update": 1678697133668,
         "live": false,
         "participants": [
             {
@@ -415,7 +415,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1678773600,
         "season_number": "1",
-        "serial": 1678695310209,
+        "serial": 1678697132945,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -593,7 +593,7 @@
             "Music"
         ],
         "guide_timestamp": 1678779000,
-        "last_update": 1678695309835,
+        "last_update": 1678697133668,
         "live": false,
         "participants": [
             {
@@ -629,7 +629,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1678779000,
         "season_number": "3",
-        "serial": 1678695310209,
+        "serial": 1678697132945,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 1800,
@@ -680,5 +680,46 @@
         "title": "I Second That Emotion",
         "title_id": "437546",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14KGHK",
+        "create_time": 1678697133668,
+        "episode_in_season": "8",
+        "episode_number": "S8:E08",
+        "external_id": "16071540",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1678782600,
+        "last_update": 1678697133668,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1678782600,
+        "season_number": "8",
+        "serial": 1678697132945,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1046249519",
+        "show_timestamp": 1678782600,
+        "status": "estimated",
+        "summary": "Leela becomes obsessed with hunting down a mysterious, four-dimensional space whale.",
+        "title": "Mobius Dick",
+        "title_id": "2161634",
+        "tv_rating": "TV-14"
     }
 ]
