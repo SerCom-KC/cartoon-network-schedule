@@ -19,7 +19,7 @@
             "Animation"
         ],
         "guide_timestamp": 1678939200,
-        "last_update": 1678860460764,
+        "last_update": 1678870221064,
         "live": false,
         "participants": [
             {
@@ -55,7 +55,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1678939200,
         "season_number": "2",
-        "serial": 1678860459188,
+        "serial": 1678870220251,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -165,7 +165,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1678942800,
-        "last_update": 1678859509881,
+        "last_update": 1678870221540,
         "live": false,
         "participants": [
             {
@@ -206,7 +206,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1678942800,
         "season_number": "2",
-        "serial": 1678859509428,
+        "serial": 1678870220688,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 905,
@@ -510,7 +510,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1678950000,
-        "last_update": 1678866650085,
+        "last_update": 1678870221540,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -519,7 +519,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1678950000,
         "season_number": "3",
-        "serial": 1678866649377,
+        "serial": 1678870220688,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -550,7 +550,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1678950900,
-        "last_update": 1678864863320,
+        "last_update": 1678870221540,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -559,7 +559,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1678950900,
         "season_number": "3",
-        "serial": 1678864863087,
+        "serial": 1678870220688,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -654,7 +654,7 @@
             "Music"
         ],
         "guide_timestamp": 1678952700,
-        "last_update": 1678866650085,
+        "last_update": 1678870221540,
         "live": false,
         "participants": [
             {
@@ -690,7 +690,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1678952712,
         "season_number": "4",
-        "serial": 1678866649377,
+        "serial": 1678870220688,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 900,
@@ -702,5 +702,85 @@
         "title": "Diversityklok",
         "title_id": "892262",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "14KYWR",
+        "create_time": 1678870221540,
+        "episode_in_season": "11",
+        "episode_number": "S8:E11",
+        "external_id": "16071518",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1678953600,
+        "last_update": 1678870221540,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1678953600,
+        "season_number": "8",
+        "serial": 1678870220688,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1804,
+        "show_id": "1046249425",
+        "show_timestamp": 1678953600,
+        "status": "estimated",
+        "summary": "Fry's sneezing reintroduces the common cold to the world of the future, with devastating consequences.",
+        "title": "Cold Warriors",
+        "title_id": "2161643",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "14RN6K",
+        "create_time": 1678870221540,
+        "episode_in_season": "12",
+        "episode_number": "S8:E12",
+        "external_id": "16071542",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1678955400,
+        "last_update": 1678870221540,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1678955400,
+        "season_number": "8",
+        "serial": 1678870220688,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1806,
+        "show_id": "1046249522",
+        "show_timestamp": 1678955400,
+        "status": "estimated",
+        "summary": "Bender evolves into a godlike being after vastly increasing his processing power.",
+        "title": "Over Clock Wise",
+        "title_id": "2161644",
+        "tv_rating": "TV-14"
     }
 ]
