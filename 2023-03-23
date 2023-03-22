@@ -662,7 +662,7 @@
             "Music"
         ],
         "guide_timestamp": 1679557500,
-        "last_update": 1679473058159,
+        "last_update": 1679477187350,
         "live": false,
         "participants": [
             {
@@ -698,7 +698,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1679557506,
         "season_number": "4",
-        "serial": 1679473057692,
+        "serial": 1679477186657,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 900,
@@ -790,5 +790,52 @@
         "title": "2-D Blacktop",
         "title_id": "2161659",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "3HGWP",
+        "create_time": 1679477187350,
+        "episode_in_season": "10",
+        "episode_number": "S4:E10",
+        "external_id": "16071576",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1679562000,
+        "last_update": 1679477187350,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1679562000,
+        "season_number": "4",
+        "serial": 1679477186657,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1047463424",
+        "show_timestamp": 1679562000,
+        "status": "estimated",
+        "summary": "Presto Tina-O: Tina becomes a magician's assistant in order to get closer to Jimmy Jr., while Bob becomes the victim of a magician's \"curse.\"",
+        "title": "Presto Tina-O",
+        "title_id": "2030312",
+        "tv_rating": "TV-PG"
     }
 ]
