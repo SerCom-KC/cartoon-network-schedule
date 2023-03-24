@@ -140,7 +140,7 @@
             "Animation"
         ],
         "guide_timestamp": 1679724000,
-        "last_update": 1679639489513,
+        "last_update": 1679642735107,
         "live": false,
         "participants": [
             {
@@ -176,7 +176,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1679724000,
         "season_number": "3",
-        "serial": 1679639488847,
+        "serial": 1679642734372,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -209,7 +209,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1679725800,
-        "last_update": 1679639489842,
+        "last_update": 1679642735107,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -218,7 +218,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1679725800,
         "season_number": "10",
-        "serial": 1679639489207,
+        "serial": 1679642734372,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -228,6 +228,46 @@
         "summary": "At a maximum security prison, Bender meets a famous folk singer and attempts to make a copy of his precious guitar.",
         "title": "Forty Percent Leadbelly",
         "title_id": "2161662",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "1519W4",
+        "create_time": 1679642735107,
+        "episode_in_season": "5",
+        "episode_number": "S10:E05",
+        "external_id": "16071504",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1679727600,
+        "last_update": 1679642735107,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1679727600,
+        "season_number": "10",
+        "serial": 1679642734372,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1047462823",
+        "show_timestamp": 1679727600,
+        "status": "estimated",
+        "summary": "Bender becomes a famous firefighter, but the crew suspects him of arson.",
+        "title": "The Inhuman Torch",
+        "title_id": "2161663",
         "tv_rating": "TV-14"
     }
 ]
