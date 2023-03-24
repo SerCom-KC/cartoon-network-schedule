@@ -209,7 +209,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1679725800,
-        "last_update": 1679642735107,
+        "last_update": 1679645980306,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -218,7 +218,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1679725800,
         "season_number": "10",
-        "serial": 1679642734372,
+        "serial": 1679645979498,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -309,6 +309,48 @@
         "summary": "The Futurama gang stars in a trio of craptastic morning cartoons.",
         "title": "Saturday Morning Fun Pit",
         "title_id": "2161664",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "152MX9",
+        "create_time": 1679645980306,
+        "episode_in_season": "7",
+        "episode_number": "S10:E07",
+        "external_id": "16071526",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1679731200,
+        "last_update": 1679645980306,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1679731200,
+        "season_number": "10",
+        "serial": 1679645979498,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1047462992",
+        "show_timestamp": 1679731200,
+        "status": "estimated",
+        "summary": "Bender goes grave robbing to bring his favorite actor back to life.",
+        "title": "Calculon 2.0",
+        "title_id": "2161665",
         "tv_rating": "TV-14"
     }
 ]
