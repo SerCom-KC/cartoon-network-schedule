@@ -283,7 +283,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1679893200,
-        "last_update": 1679808292774,
+        "last_update": 1679814637367,
         "live": false,
         "participants": [
             {
@@ -314,7 +314,7 @@
         "scheduled_duration": 904,
         "scheduled_timestamp": 1679893200,
         "season_number": "9",
-        "serial": 1679808292005,
+        "serial": 1679814637682,
         "series_id": "896639",
         "series_name": "Aqua Something You Know Whatever",
         "show_duration": 904,
@@ -343,7 +343,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1679894100,
-        "last_update": 1679808292774,
+        "last_update": 1679814637367,
         "live": false,
         "participants": [
             {
@@ -374,7 +374,7 @@
         "scheduled_duration": 912,
         "scheduled_timestamp": 1679894100,
         "season_number": "9",
-        "serial": 1679808292005,
+        "serial": 1679814637682,
         "series_id": "896639",
         "series_name": "Aqua Something You Know Whatever",
         "show_duration": 912,
@@ -405,7 +405,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1679895000,
-        "last_update": 1679811538381,
+        "last_update": 1679814637367,
         "live": false,
         "participants": [
             {
@@ -451,7 +451,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1679895000,
         "season_number": "17",
-        "serial": 1679811538234,
+        "serial": 1679814637682,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -483,7 +483,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1679896800,
-        "last_update": 1679811538381,
+        "last_update": 1679814088891,
         "live": false,
         "participants": [
             {
@@ -529,7 +529,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1679896800,
         "season_number": "17",
-        "serial": 1679811538234,
+        "serial": 1679814088198,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1805,
@@ -539,6 +539,145 @@
         "summary": "To save a beloved restaurant from closing, Stan must bring the 1950s back to Langley.",
         "title": "American Dad Graffito",
         "title_id": "2342092",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "XVYPM",
+        "create_time": 1679814088891,
+        "episode_in_season": "1",
+        "episode_number": "S5:E01",
+        "external_id": "16108735",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1679898600,
+        "last_update": 1679814637367,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1679898600,
+        "season_number": "5",
+        "serial": 1679814637682,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1047457793",
+        "show_timestamp": 1679898600,
+        "status": "estimated",
+        "summary": "Big man comin for dinner, broh. Better check the booze.",
+        "title": "Mort Dinner Rick Andre",
+        "title_id": "2270458",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "XW083",
+        "create_time": 1679814088891,
+        "episode_in_season": "2",
+        "episode_number": "S5:E02",
+        "external_id": "16074453",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1679900400,
+        "last_update": 1679814637367,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1679900400,
+        "season_number": "5",
+        "serial": 1679814637682,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1047457831",
+        "show_timestamp": 1679900400,
+        "status": "estimated",
+        "summary": "Who's even real, broh? Are you real? Broh?",
+        "title": "Mortyplicity",
+        "title_id": "2270459",
         "tv_rating": "TV-14"
     }
 ]
