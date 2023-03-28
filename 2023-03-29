@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1680062400,
-        "last_update": 1679980343729,
+        "last_update": 1679986183584,
         "live": false,
         "participants": [
             {
@@ -56,7 +56,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1680062400,
         "season_number": "4",
-        "serial": 1679980343203,
+        "serial": 1679986182912,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -88,7 +88,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1680064200,
-        "last_update": 1679984596998,
+        "last_update": 1679986183584,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -97,7 +97,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1680064200,
         "season_number": "4",
-        "serial": 1679984596751,
+        "serial": 1679986182912,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -375,7 +375,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680067800,
-        "last_update": 1679983589644,
+        "last_update": 1679986183877,
         "live": false,
         "participants": [
             {
@@ -421,7 +421,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1680067800,
         "season_number": "8",
-        "serial": 1679983589259,
+        "serial": 1679986183255,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -500,6 +500,75 @@
         "summary": "Rick goes toe to toe with the President in this one broh.",
         "title": "The Rickchurian Mortydate",
         "title_id": "2116839",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "4XP7H",
+        "create_time": 1679986183877,
+        "episode_in_season": "1",
+        "episode_number": "S4:E01",
+        "external_id": "16071485",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1680071400,
+        "last_update": 1679986183877,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1680071400,
+        "season_number": "4",
+        "serial": 1679986183255,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1050001844",
+        "show_timestamp": 1680071400,
+        "status": "estimated",
+        "summary": "Morty goes nuts this time. Rick does stuff.",
+        "title": "Edge of Tomorty: Rick Die Rickpeat",
+        "title_id": "2206489",
         "tv_rating": "TV-14"
     }
 ]
