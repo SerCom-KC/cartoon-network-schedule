@@ -88,7 +88,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1680064200,
-        "last_update": 1679986183584,
+        "last_update": 1679992809725,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -97,7 +97,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1680064200,
         "season_number": "4",
-        "serial": 1679986182912,
+        "serial": 1679992809640,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -129,7 +129,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1680065100,
-        "last_update": 1679980343729,
+        "last_update": 1679992809725,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -138,7 +138,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1680065100,
         "season_number": "4",
-        "serial": 1679980343203,
+        "serial": 1679992809640,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -591,7 +591,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1680073200,
-        "last_update": 1679991155969,
+        "last_update": 1679992810064,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -600,7 +600,7 @@
         "scheduled_duration": 909,
         "scheduled_timestamp": 1680073200,
         "season_number": "4",
-        "serial": 1679991155609,
+        "serial": 1679992809953,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 909,
@@ -632,7 +632,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1680074100,
-        "last_update": 1679991155969,
+        "last_update": 1679992810064,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -641,7 +641,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1680074100,
         "season_number": "4",
-        "serial": 1679991155609,
+        "serial": 1679992809953,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -726,7 +726,7 @@
             "Drama"
         ],
         "guide_timestamp": 1680075900,
-        "last_update": 1679991155969,
+        "last_update": 1679992810064,
         "live": false,
         "participants": [
             {
@@ -762,7 +762,7 @@
         "scheduled_duration": 902,
         "scheduled_timestamp": 1680075900,
         "season_number": "1",
-        "serial": 1679991155609,
+        "serial": 1679992809953,
         "series_id": "629688",
         "series_name": "Moral Orel",
         "show_duration": 902,
@@ -811,6 +811,47 @@
         "summary": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
         "title": "Space Pilot 3000",
         "title_id": "437533",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14HD2W",
+        "create_time": 1679992810064,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16071553",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1680078600,
+        "last_update": 1679992810064,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1680078600,
+        "season_number": "1",
+        "serial": 1679992809953,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1050002121",
+        "show_timestamp": 1680078600,
+        "status": "estimated",
+        "summary": "Fry and Leela deliver a package to an amusement park on the moon.",
+        "title": "The Series Has Landed",
+        "title_id": "437534",
         "tv_rating": "TV-PG"
     }
 ]
