@@ -19,7 +19,7 @@
             "Animation"
         ],
         "guide_timestamp": 1680148800,
-        "last_update": 1680064735484,
+        "last_update": 1680065359461,
         "live": false,
         "participants": [
             {
@@ -55,7 +55,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1680148800,
         "season_number": "4",
-        "serial": 1680064735008,
+        "serial": 1680065359007,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -87,7 +87,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1680150600,
-        "last_update": 1680064735484,
+        "last_update": 1680065359461,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -96,7 +96,7 @@
         "scheduled_duration": 907,
         "scheduled_timestamp": 1680150600,
         "season_number": "4",
-        "serial": 1680064735008,
+        "serial": 1680065359007,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 907,
@@ -106,6 +106,48 @@
         "summary": "The team shares their highs and lows of the day around the dinner table but also they go to Scotland.",
         "title": "Pits and Peaks",
         "title_id": "2172002",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3XN5V",
+        "create_time": 1680065359461,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "16079868",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1680151500,
+        "last_update": 1680065359461,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 912,
+        "scheduled_timestamp": 1680151500,
+        "season_number": "4",
+        "serial": 1680065359007,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 912,
+        "show_id": "1050000225",
+        "show_timestamp": 1680151500,
+        "status": "estimated",
+        "summary": "Star crossed young lovers from feuding families ask the team for help.",
+        "title": "The Monahans and MacGoverns",
+        "title_id": "2172003",
         "tv_rating": "TV-14"
     }
 ]
