@@ -678,7 +678,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680247800,
-        "last_update": 1680164427499,
+        "last_update": 1680168637936,
         "live": false,
         "participants": [
             {
@@ -704,7 +704,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1680247800,
         "season_number": "1",
-        "serial": 1680164426474,
+        "serial": 1680168637462,
         "series_id": "2165429",
         "series_name": "The Shivering Truth",
         "show_duration": 900,
@@ -799,7 +799,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1680249600,
-        "last_update": 1680167675212,
+        "last_update": 1680168637936,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -808,7 +808,7 @@
         "scheduled_duration": 1807,
         "scheduled_timestamp": 1680249600,
         "season_number": "1",
-        "serial": 1680167674330,
+        "serial": 1680168637462,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1807,
@@ -839,7 +839,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1680251400,
-        "last_update": 1680167675212,
+        "last_update": 1680168637936,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -848,7 +848,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1680251400,
         "season_number": "1",
-        "serial": 1680167674330,
+        "serial": 1680168637462,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -907,6 +907,52 @@
         "summary_long": "When Gene's Die Hard-inspired musical doesn't get picked for the school's fall performance, he decides to stage an underground show with the help of Louise. But Wagstaff Middle School families begin to feud when they learn Eugene has planned his show on the very same night as Courtney's school-sanctioned Working Girl-inspired musical featuring Tina.",
         "title": "Work Hard or Die Trying, Girl",
         "title_id": "2065453",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3FV66",
+        "create_time": 1680168637936,
+        "episode_in_season": "2",
+        "episode_number": "S5:E02",
+        "external_id": "16071597",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1680255000,
+        "last_update": 1680168637936,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1680255000,
+        "season_number": "5",
+        "serial": 1680168637462,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1050004742",
+        "show_timestamp": 1680255000,
+        "status": "estimated",
+        "summary": "Tina begins an out-of-this-world romance with a ghost that is believed to be living in the Belcher's basement. And when Bob realizes that an in-house ghost may increase revenues, he too becomes a fan of the paranormal entity.",
+        "title": "Tina and the Real Ghost",
+        "title_id": "2065452",
         "tv_rating": "TV-PG"
     }
 ]
