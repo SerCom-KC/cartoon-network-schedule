@@ -15,7 +15,7 @@
         "franchise_id": "486092",
         "franchise_name": "Adult Swim",
         "guide_timestamp": 1680321600,
-        "last_update": 1680235522203,
+        "last_update": 1680240945268,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -24,7 +24,7 @@
         "scheduled_duration": 957,
         "scheduled_timestamp": 1680321600,
         "season_number": "1",
-        "serial": 1680235520864,
+        "serial": 1680240944572,
         "series_id": "2428457",
         "series_name": "Adult Swim",
         "show_duration": 957,
@@ -142,7 +142,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680325200,
-        "last_update": 1680240459582,
+        "last_update": 1680240945268,
         "live": false,
         "participants": [
             {
@@ -168,7 +168,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1680325200,
         "season_number": "1",
-        "serial": 1680240459262,
+        "serial": 1680240944572,
         "series_id": "2007823",
         "series_name": "Infomercials",
         "show_duration": 906,
@@ -240,5 +240,63 @@
         "title": "Broomshakalaka",
         "title_id": "2007826",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1FC72W",
+        "create_time": 1680240945268,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "16124544",
+        "feed_id": "as-east",
+        "franchise_id": "486093",
+        "franchise_name": "Ambient Swim",
+        "genres": [
+            "Animation"
+        ],
+        "guide_timestamp": 1680327000,
+        "last_update": 1680240945268,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Cody Dematteis",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Shane Dering",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Marty Schousboe",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Vanessa Palacios",
+                "role": "Producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1680327000,
+        "season_number": "1",
+        "serial": 1680240944572,
+        "series_id": "2348079",
+        "series_name": "Ambient Swim",
+        "show_duration": 1800,
+        "show_id": "1051679800",
+        "show_timestamp": 1680327000,
+        "status": "estimated",
+        "summary": "Low key content and music to help you relax.",
+        "title": "Vintertog",
+        "title_id": "2428469",
+        "tv_rating": "TV-G"
     }
 ]
