@@ -35,5 +35,94 @@
         "title": "TBD 1",
         "title_id": "2428458",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "1FC82R",
+        "create_time": 1680237411121,
+        "episode_number": "102",
+        "external_id": "16124543",
+        "feed_id": "as-east",
+        "franchise_id": "486092",
+        "franchise_name": "Adult Swim",
+        "guide_timestamp": 1680322500,
+        "last_update": 1680237411121,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1680322500,
+        "season_number": "1",
+        "serial": 1680237410393,
+        "series_id": "2428457",
+        "series_name": "Adult Swim",
+        "show_duration": 900,
+        "show_id": "1051679735",
+        "show_timestamp": 1680322500,
+        "status": "estimated",
+        "summary": "TBD",
+        "title": "TBD 2",
+        "title_id": "2428459",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3N6WV",
+        "create_time": 1680237411121,
+        "episode_in_season": "7",
+        "episode_number": "S6:E07",
+        "external_id": "16124524",
+        "feed_id": "as-east",
+        "franchise_id": "304555",
+        "franchise_name": "Space Ghost Coast To Coast",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1680323400,
+        "last_update": 1680237411121,
+        "live": false,
+        "participants": [
+            {
+                "character": "Space Ghost",
+                "name": "George Lowe",
+                "role": "Voice"
+            },
+            {
+                "character": "Zorak",
+                "name": "C Martin Croker",
+                "role": "Voice"
+            },
+            {
+                "character": "Moltar",
+                "name": "C Martin Croker",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1680323400,
+        "season_number": "6",
+        "serial": 1680237410393,
+        "series_id": "322328",
+        "series_name": "Space Ghost Coast to Coast",
+        "show_duration": 1800,
+        "show_id": "1051679750",
+        "show_timestamp": 1680323400,
+        "status": "estimated",
+        "summary": "Space Ghost and talk show host Conan O'Brien are engaged in riveting and witty repartee when a fire ant bites Space Ghost and everything goes Dada.",
+        "title": "Fire Ant",
+        "title_id": "333228",
+        "tv_rating": "TV-PG"
     }
 ]
