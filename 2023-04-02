@@ -211,7 +211,7 @@
             "Animation"
         ],
         "guide_timestamp": 1680417000,
-        "last_update": 1680332288385,
+        "last_update": 1680338848327,
         "live": false,
         "participants": [
             {
@@ -242,7 +242,7 @@
         "scheduled_duration": 1816,
         "scheduled_timestamp": 1680417000,
         "season_number": "2",
-        "serial": 1680332287349,
+        "serial": 1680338847474,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1816,
@@ -276,7 +276,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680418800,
-        "last_update": 1680336390245,
+        "last_update": 1680338848327,
         "live": false,
         "participants": [
             {
@@ -322,7 +322,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1680418800,
         "season_number": "2",
-        "serial": 1680336389779,
+        "serial": 1680338847474,
         "series_id": "2137894",
         "series_name": "Ballmastrz: 9009",
         "show_duration": 906,
@@ -355,7 +355,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680419700,
-        "last_update": 1680336390245,
+        "last_update": 1680338848327,
         "live": false,
         "participants": [
             {
@@ -401,7 +401,7 @@
         "scheduled_duration": 914,
         "scheduled_timestamp": 1680419700,
         "season_number": "2",
-        "serial": 1680336389779,
+        "serial": 1680338847474,
         "series_id": "2137894",
         "series_name": "Ballmastrz: 9009",
         "show_duration": 914,
@@ -615,5 +615,44 @@
         "title": "When Aliens Attack",
         "title_id": "437544",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "14JGJ6",
+        "create_time": 1680338848649,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "16071557",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1680424200,
+        "last_update": 1680338848649,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1826,
+        "scheduled_timestamp": 1680424200,
+        "season_number": "2",
+        "serial": 1680338848431,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1826,
+        "show_id": "1051841070",
+        "show_timestamp": 1680424200,
+        "status": "estimated",
+        "summary": "Fry learns the secret ingredient in Slurm while touring the soft drink's factory.",
+        "title": "Fry and the Slurm Factory",
+        "title_id": "437545",
+        "tv_rating": "TV-PG"
     }
 ]
