@@ -432,7 +432,7 @@
             "Crime"
         ],
         "guide_timestamp": 1680420600,
-        "last_update": 1680337632354,
+        "last_update": 1680339926546,
         "live": false,
         "participants": [
             {
@@ -483,7 +483,7 @@
         "scheduled_duration": 939,
         "scheduled_timestamp": 1680420600,
         "season_number": "4",
-        "serial": 1680337632202,
+        "serial": 1680339925817,
         "series_id": "666506",
         "series_name": "Superjail!",
         "show_duration": 939,
@@ -595,7 +595,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1680422400,
-        "last_update": 1680336390566,
+        "last_update": 1680339926546,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -604,7 +604,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1680422400,
         "season_number": "2",
-        "serial": 1680336390139,
+        "serial": 1680339925817,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -634,7 +634,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1680424200,
-        "last_update": 1680338848649,
+        "last_update": 1680339926546,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -643,7 +643,7 @@
         "scheduled_duration": 1826,
         "scheduled_timestamp": 1680424200,
         "season_number": "2",
-        "serial": 1680338848431,
+        "serial": 1680339925817,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1826,
@@ -653,6 +653,45 @@
         "summary": "Fry learns the secret ingredient in Slurm while touring the soft drink's factory.",
         "title": "Fry and the Slurm Factory",
         "title_id": "437545",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "14G52N",
+        "create_time": 1680339927285,
+        "episode_in_season": "12",
+        "episode_number": "S11:E12",
+        "external_id": "16071613",
+        "feed_id": "as-east",
+        "franchise_id": "359714",
+        "franchise_name": "King Of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1680426000,
+        "last_update": 1680339927285,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1680426000,
+        "season_number": "11",
+        "serial": 1680339926370,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "1050003781",
+        "show_timestamp": 1680426000,
+        "status": "estimated",
+        "summary": "When Hank talks Dale into hiring Lucky so he can pay for his wedding Luanne, Lucky gets hurt and they all get entangled in a bogus lawsuit.",
+        "title": "Lucky's Wedding Suit",
+        "title_id": "731554",
         "tv_rating": "TV-PG"
     }
 ]
