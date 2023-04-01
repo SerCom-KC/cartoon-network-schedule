@@ -52,7 +52,7 @@
             "Action"
         ],
         "guide_timestamp": 1680409800,
-        "last_update": 1680329316408,
+        "last_update": 1680332854796,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -61,7 +61,7 @@
         "scheduled_duration": 1830,
         "scheduled_timestamp": 1680409800,
         "season_number": "6",
-        "serial": 1680329315925,
+        "serial": 1680332853864,
         "series_id": "2142267",
         "series_name": "My Hero Academia",
         "show_duration": 1830,
@@ -131,7 +131,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1680413400,
-        "last_update": 1680332287605,
+        "last_update": 1680332854796,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -140,7 +140,7 @@
         "scheduled_duration": 1821,
         "scheduled_timestamp": 1680413400,
         "season_number": "16",
-        "serial": 1680332286803,
+        "serial": 1680332853864,
         "series_id": "608007",
         "series_name": "One Piece",
         "show_duration": 1821,
@@ -253,5 +253,85 @@
         "title": "Echoes of Eternity",
         "title_id": "2276166",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "46CVH",
+        "create_time": 1680332855110,
+        "episode_in_season": "7",
+        "episode_number": "S2:E07",
+        "external_id": "16085047",
+        "feed_id": "as-east",
+        "franchise_id": "446772",
+        "franchise_name": "Ballmastrz: 9009",
+        "genres": [
+            "Action",
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1680418800,
+        "last_update": 1680332855110,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gaz Digzy",
+                "name": "Natasha Lyonne",
+                "role": "Voice"
+            },
+            {
+                "character": "Ace Ambling",
+                "name": "Jessica DiCicco",
+                "role": "Voice"
+            },
+            {
+                "character": "Duleena Duneeda",
+                "name": "Jessica DiCicco",
+                "role": "Voice"
+            },
+            {
+                "character": "Baby Ball",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Flip Champion",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Leto Otel",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Crayzar",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 906,
+        "scheduled_timestamp": 1680418800,
+        "season_number": "2",
+        "serial": 1680332854745,
+        "series_id": "2137894",
+        "series_name": "Ballmastrz: 9009",
+        "show_duration": 906,
+        "show_id": "1050003506",
+        "show_timestamp": 1680418800,
+        "status": "estimated",
+        "summary": "Gaz and Dee Dee play matchmaker to an unlikely pair with dance-asterous results.",
+        "title": "Defective Affection?! Dodge the Wayward Strikes of Cupid's Calamitous Quiver!",
+        "title_id": "2199780",
+        "tv_rating": "TV-14"
     }
 ]
