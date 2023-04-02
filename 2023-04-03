@@ -1985,22 +1985,22 @@
             "Adventure",
             "Comedy"
         ],
-        "guide_timestamp": 1680523200,
-        "last_update": 1680470040556,
+        "guide_timestamp": 1680521400,
+        "last_update": 1680470725799,
         "live": false,
         "premiere": true,
         "press_hold": false,
         "release_year": 2022,
-        "runtime_minutes": 11,
-        "scheduled_duration": 669,
-        "scheduled_timestamp": 1680523246,
+        "runtime_minutes": 29,
+        "scheduled_duration": 1740,
+        "scheduled_timestamp": 1680521400,
         "season_number": "26",
-        "serial": 1680470040279,
+        "serial": 1680470725136,
         "series_id": "2274096",
         "series_name": "Thomas & Friends: All Engines Go",
-        "show_duration": 669,
+        "show_duration": 1740,
         "show_id": "1052455278",
-        "show_timestamp": 1680523246,
+        "show_timestamp": 1680521400,
         "status": "estimated",
         "summary": "When cars begin to disappear in the Mines, Thomas recruits the Biggest Adventure Club to dig into the history and uncover the mystery inside Lookout Mountain.",
         "summary_long": "When cars go missing in the Mines, Thomas and Percy think they have a perfect adventure for the Biggest Adventure Club. But then they uncover that there was a similar problem at Lookout Mountain years ago. Thomas and friends set out to solve the two-headed mystery. Their search takes them under waterfalls, into unknown tunnels, new Crystal Caverns and ultimately brings the kids face to face with a mythical Mine Monster!",
@@ -2971,7 +2971,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680534000,
-        "last_update": 1680450362978,
+        "last_update": 1680470726123,
         "live": false,
         "participants": [
             {
@@ -2997,7 +2997,7 @@
         "scheduled_duration": 1385,
         "scheduled_timestamp": 1680534000,
         "season_number": "1",
-        "serial": 1680450362113,
+        "serial": 1680470725607,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 1385,
@@ -3821,7 +3821,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680551100,
-        "last_update": 1680470042175,
+        "last_update": 1680470726510,
         "live": false,
         "participants": [
             {
@@ -3862,7 +3862,7 @@
         "scheduled_duration": 960,
         "scheduled_timestamp": 1680551065,
         "season_number": "4",
-        "serial": 1680470041404,
+        "serial": 1680470725982,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 960,
@@ -3962,7 +3962,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680552900,
-        "last_update": 1680470042175,
+        "last_update": 1680470726510,
         "live": false,
         "participants": [
             {
@@ -4003,7 +4003,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1680552905,
         "season_number": "4",
-        "serial": 1680470041404,
+        "serial": 1680470725982,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -4174,7 +4174,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680555600,
-        "last_update": 1680470042175,
+        "last_update": 1680470726510,
         "live": false,
         "participants": [
             {
@@ -4205,7 +4205,7 @@
         "scheduled_duration": 910,
         "scheduled_timestamp": 1680555600,
         "season_number": "4",
-        "serial": 1680470041404,
+        "serial": 1680470725982,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 910,
@@ -4215,6 +4215,66 @@
         "summary": "Craig, Cannonball, Sparkle Cadet and Diane find themselves wrapped up in a double dutch tournament.",
         "title": "The Jump Off",
         "title_id": "2266843",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1F1FGC",
+        "create_time": 1680470726510,
+        "episode_in_season": "30",
+        "episode_number": "S4:E30",
+        "external_id": "16099761",
+        "feed_id": "as-east",
+        "franchise_id": "446892",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1680556500,
+        "last_update": 1680470726510,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1680556500,
+        "season_number": "4",
+        "serial": 1680470725982,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 910,
+        "show_id": "1050431608",
+        "show_timestamp": 1680556500,
+        "status": "estimated",
+        "summary": "Craig goes to extreme lengths to keep up with the fall fashion trends.",
+        "title": "Back to Cool",
+        "title_id": "2266852",
         "tv_rating": "TV-Y7"
     }
 ]
