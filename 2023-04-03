@@ -20,7 +20,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680494400,
-        "last_update": 1680411016861,
+        "last_update": 1680412560396,
         "live": false,
         "participants": [
             {
@@ -131,7 +131,7 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1680494400,
         "season_number": "1",
-        "serial": 1680411016600,
+        "serial": 1680412559756,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1802,
@@ -231,7 +231,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680497100,
-        "last_update": 1680411016861,
+        "last_update": 1680412560396,
         "live": false,
         "participants": [
             {
@@ -272,7 +272,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1680497100,
         "season_number": "2",
-        "serial": 1680411016600,
+        "serial": 1680412559756,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 906,
@@ -283,6 +283,84 @@
         "summary_long": "After a wild night of hard partying, Sarah and Rachel stumble into a spiritual commune for a free sausage sizzle. There they encounter the Purple Fire God who tells them their destiny; Sarah will grow her own garden, and Rachel will become an Empress. Can it be true?",
         "title": "Sausage Sizzle",
         "title_id": "2412373",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "16MX2Y",
+        "create_time": 1680412560396,
+        "episode_in_season": "7",
+        "episode_number": "S17:E07",
+        "external_id": "16095584",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1680498000,
+        "last_update": 1680412560396,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1680498000,
+        "season_number": "17",
+        "serial": 1680412559756,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "1049997436",
+        "show_timestamp": 1680498000,
+        "status": "estimated",
+        "summary": "Francine is jealous of the new and improved Klaus and vows to take him down.",
+        "title": "Beyond the Alcove or: How I Learned to Stop Worrying and Love Klaus",
+        "title_id": "2342093",
         "tv_rating": "TV-14"
     }
 ]
