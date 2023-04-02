@@ -231,7 +231,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680497100,
-        "last_update": 1680412560396,
+        "last_update": 1680414175539,
         "live": false,
         "participants": [
             {
@@ -272,7 +272,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1680497100,
         "season_number": "2",
-        "serial": 1680412559756,
+        "serial": 1680414174640,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 906,
@@ -361,6 +361,84 @@
         "summary": "Francine is jealous of the new and improved Klaus and vows to take him down.",
         "title": "Beyond the Alcove or: How I Learned to Stop Worrying and Love Klaus",
         "title_id": "2342093",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "1F3FWV",
+        "create_time": 1680414175539,
+        "episode_in_season": "12",
+        "episode_number": "S17:E12",
+        "external_id": "16071444",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1680499800,
+        "last_update": 1680414175539,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1809,
+        "scheduled_timestamp": 1680499800,
+        "season_number": "17",
+        "serial": 1680414174640,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1809,
+        "show_id": "1049997502",
+        "show_timestamp": 1680499800,
+        "status": "estimated",
+        "summary": "Steve goes on a class trip to Philadelphia, where he hopes to fall in love.",
+        "title": "Smooshed: A Love Story",
+        "title_id": "2342100",
         "tv_rating": "TV-14"
     }
 ]
