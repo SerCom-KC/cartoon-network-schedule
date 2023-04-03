@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1680580800,
-        "last_update": 1680496291459,
+        "last_update": 1680499004449,
         "live": false,
         "participants": [
             {
@@ -56,7 +56,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1680580800,
         "season_number": "4",
-        "serial": 1680496290790,
+        "serial": 1680499003801,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -89,7 +89,7 @@
             "Animation"
         ],
         "guide_timestamp": 1680582600,
-        "last_update": 1680496291459,
+        "last_update": 1680499004449,
         "live": false,
         "participants": [
             {
@@ -125,7 +125,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1680582600,
         "season_number": "4",
-        "serial": 1680496290790,
+        "serial": 1680499003801,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1803,
@@ -136,5 +136,84 @@
         "title": "The Vat of Acid Episode",
         "title_id": "2206493",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "4JTV9",
+        "create_time": 1680499004449,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16111879",
+        "feed_id": "as-east",
+        "franchise_id": "336141",
+        "franchise_name": "Boondocks, The",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1680584400,
+        "last_update": 1680499004449,
+        "live": false,
+        "participants": [
+            {
+                "character": "Riley Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Huey Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Robert Freeman",
+                "name": "John Witherspoon",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Ruckus",
+                "name": "Gary Anthony Williams",
+                "role": "Voice"
+            },
+            {
+                "character": "Tom Dubois",
+                "name": "Cedric Yarbrough",
+                "role": "Voice"
+            },
+            {
+                "character": "Sarah Dubois",
+                "name": "Jill Talley",
+                "role": "Voice"
+            },
+            {
+                "character": "Jazmine Dubois",
+                "name": "Gabby Soleil",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Aaron Mcgruder",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1680584400,
+        "season_number": "1",
+        "serial": 1680499003801,
+        "series_id": "610028",
+        "series_name": "The Boondocks",
+        "show_duration": 1800,
+        "show_id": "1050436469",
+        "show_timestamp": 1680584400,
+        "status": "estimated",
+        "summary": "Granddad's perpetual fear that Huey and Riley will embarrass him in front of their new neighbors reaches paranoid heights when the family attends a stuffy, high-class garden party. The good news is: only one person gets shot.",
+        "title": "The Garden Party",
+        "title_id": "623580",
+        "tv_rating": "TV-MA"
     }
 ]
