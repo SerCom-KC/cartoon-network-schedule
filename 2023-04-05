@@ -165,7 +165,7 @@
             "Animation"
         ],
         "guide_timestamp": 1680669000,
-        "last_update": 1680582593449,
+        "last_update": 1680587367914,
         "live": false,
         "participants": [
             {
@@ -201,7 +201,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1680669000,
         "season_number": "4",
-        "serial": 1680582592921,
+        "serial": 1680587367509,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -211,6 +211,167 @@
         "summary": "Miracle of life broh. Whole family in this one broh.",
         "title": "Childrick of Mort",
         "title_id": "2206494",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "19JPYN",
+        "create_time": 1680587367914,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16111911",
+        "feed_id": "as-east",
+        "franchise_id": "336141",
+        "franchise_name": "Boondocks, The",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1680670800,
+        "last_update": 1680587367914,
+        "live": false,
+        "participants": [
+            {
+                "character": "Riley Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Huey Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Robert Freeman",
+                "name": "John Witherspoon",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Ruckus",
+                "name": "Gary Anthony Williams",
+                "role": "Voice"
+            },
+            {
+                "character": "Tom Dubois",
+                "name": "Cedric Yarbrough",
+                "role": "Voice"
+            },
+            {
+                "character": "Sarah Dubois",
+                "name": "Jill Talley",
+                "role": "Voice"
+            },
+            {
+                "character": "Jazmine Dubois",
+                "name": "Gabby Soleil",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Aaron Mcgruder",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1680670800,
+        "season_number": "1",
+        "serial": 1680587367509,
+        "series_id": "610028",
+        "series_name": "The Boondocks",
+        "show_duration": 1800,
+        "show_id": "1050347426",
+        "show_timestamp": 1680670800,
+        "status": "estimated",
+        "summary": "When the trial of R&B star R. Kelly comes to town, Huey and Riley are on opposing sides of the hot-button \"underage peeing\" issue.",
+        "title": "The Trial of Robert Kelly",
+        "title_id": "623578",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "2RP3N",
+        "create_time": 1680587367914,
+        "episode_in_season": "11",
+        "episode_number": "S2:E11",
+        "external_id": "16111905",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1680672600,
+        "last_update": 1680587367914,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1680672600,
+        "season_number": "2",
+        "serial": 1680587367509,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 900,
+        "show_id": "1050347448",
+        "show_timestamp": 1680672600,
+        "status": "estimated",
+        "summary": "Can the team help a woman in a coma?",
+        "title": "Life is But a Dream",
+        "title_id": "2069747",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "2RWC1",
+        "create_time": 1680587367914,
+        "episode_in_season": "12",
+        "episode_number": "S2:E12",
+        "external_id": "16111908",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1680673500,
+        "last_update": 1680587367914,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 914,
+        "scheduled_timestamp": 1680673500,
+        "season_number": "2",
+        "serial": 1680587367509,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 914,
+        "show_id": "1050347459",
+        "show_timestamp": 1680673500,
+        "status": "estimated",
+        "summary": "Coincidentally Snoop Dogg has a mystery solving team a lot like Mike Tyson's.",
+        "title": "Unsolved Situations",
+        "title_id": "2069748",
         "tv_rating": "TV-14"
     }
 ]
