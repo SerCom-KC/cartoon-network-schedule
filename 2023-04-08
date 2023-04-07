@@ -17,7 +17,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680926400,
-        "last_update": 1680850015203,
+        "last_update": 1680852058781,
         "live": false,
         "participants": [
             {
@@ -58,7 +58,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1680926400,
         "season_number": "2",
-        "serial": 1680850014952,
+        "serial": 1680852058539,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 905,
@@ -374,7 +374,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680930900,
-        "last_update": 1680846444794,
+        "last_update": 1680852059254,
         "live": false,
         "participants": [
             {
@@ -415,7 +415,7 @@
         "scheduled_duration": 2704,
         "scheduled_timestamp": 1680930900,
         "season_number": "2",
-        "serial": 1680846443728,
+        "serial": 1680852059169,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 2704,
@@ -449,7 +449,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680933600,
-        "last_update": 1680850469723,
+        "last_update": 1680852059254,
         "live": false,
         "participants": [
             {
@@ -560,7 +560,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1680933600,
         "season_number": "1",
-        "serial": 1680850469215,
+        "serial": 1680852059169,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
@@ -638,5 +638,45 @@
         "title": "Bethic Twinstinct",
         "title_id": "2397936",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "14KF10",
+        "create_time": 1680852059254,
+        "episode_in_season": "14",
+        "episode_number": "S2:E14",
+        "external_id": "16101559",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1680937200,
+        "last_update": 1680852059254,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1680937200,
+        "season_number": "2",
+        "serial": 1680852059169,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1050390790",
+        "show_timestamp": 1680937200,
+        "status": "estimated",
+        "summary": "Fry begins a romance with the new bureaucrat when Hermes is sent away.",
+        "title": "How Hermes Requisitioned His Groove Back",
+        "title_id": "437555",
+        "tv_rating": "TV-PG"
     }
 ]
