@@ -88,7 +88,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680927300,
-        "last_update": 1680850469723,
+        "last_update": 1680857153597,
         "live": false,
         "participants": [
             {
@@ -129,7 +129,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1680927300,
         "season_number": "2",
-        "serial": 1680850469215,
+        "serial": 1680857153027,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 906,
@@ -374,7 +374,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680930900,
-        "last_update": 1680852059254,
+        "last_update": 1680857153597,
         "live": false,
         "participants": [
             {
@@ -415,7 +415,7 @@
         "scheduled_duration": 2704,
         "scheduled_timestamp": 1680930900,
         "season_number": "2",
-        "serial": 1680852059169,
+        "serial": 1680857153027,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 2704,
@@ -449,7 +449,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1680933600,
-        "last_update": 1680852059254,
+        "last_update": 1680857153597,
         "live": false,
         "participants": [
             {
@@ -560,7 +560,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1680933600,
         "season_number": "1",
-        "serial": 1680852059169,
+        "serial": 1680857153027,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
@@ -591,7 +591,7 @@
             "Animation"
         ],
         "guide_timestamp": 1680935400,
-        "last_update": 1680853585693,
+        "last_update": 1680857153597,
         "live": false,
         "participants": [
             {
@@ -627,7 +627,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1680935400,
         "season_number": "6",
-        "serial": 1680853585386,
+        "serial": 1680857153027,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -698,7 +698,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1680939000,
-        "last_update": 1680853585693,
+        "last_update": 1680857153948,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -707,7 +707,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1680939000,
         "season_number": "2",
-        "serial": 1680853585386,
+        "serial": 1680857153576,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -717,6 +717,85 @@
         "summary": "Bender's giant hook causes the Planet Express to sink.",
         "title": "The Deep South",
         "title_id": "437557",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "14M01G",
+        "create_time": 1680857032762,
+        "episode_in_season": "17",
+        "episode_number": "S2:E17",
+        "external_id": "16101519",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1680940800,
+        "last_update": 1680857153948,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1680940800,
+        "season_number": "2",
+        "serial": 1680857153576,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1050390834",
+        "show_timestamp": 1680940800,
+        "status": "estimated",
+        "summary": "Bender works in Elzar's kitchen and waits on some robot mobsters, who \"make\" him into one of them. Their first heist is the Planet Express's cargo of Zuban cigars. Can bender fire on his own buddies?",
+        "title": "Bender Gets Made",
+        "title_id": "437558",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "14M05D",
+        "create_time": 1680857032762,
+        "episode_in_season": "18",
+        "episode_number": "S2:E18",
+        "external_id": "16101539",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1680942600,
+        "last_update": 1680857153948,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1680942600,
+        "season_number": "2",
+        "serial": 1680857153576,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1804,
+        "show_id": "1050390856",
+        "show_timestamp": 1680942600,
+        "status": "estimated",
+        "summary": "The crew discovers an irresistible source of food on a new planet.",
+        "title": "The Problem with Popplers",
+        "title_id": "437691",
         "tv_rating": "TV-PG"
     }
 ]
