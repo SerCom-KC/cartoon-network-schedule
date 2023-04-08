@@ -1832,7 +1832,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681048500,
-        "last_update": 1680988188819,
+        "last_update": 1680989892792,
         "live": false,
         "participants": [
             {
@@ -1858,7 +1858,7 @@
         "scheduled_duration": 650,
         "scheduled_timestamp": 1681048475,
         "season_number": "1",
-        "serial": 1680988188154,
+        "serial": 1680989892842,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 650,
@@ -2787,7 +2787,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681059300,
-        "last_update": 1680988189223,
+        "last_update": 1680989893281,
         "live": false,
         "participants": [
             {
@@ -2818,7 +2818,7 @@
         "scheduled_duration": 670,
         "scheduled_timestamp": 1681059222,
         "season_number": "4",
-        "serial": 1680988188560,
+        "serial": 1680989893327,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 670,
@@ -3575,6 +3575,90 @@
         "summary": "Robin introduces the other Titans to a money making application but they soon learn the dangers of a shareconomy.",
         "title": "Lication",
         "title_id": "2128483",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1FC8C1",
+        "create_time": 1680989893652,
+        "external_id": "16105893",
+        "feed_id": "as-east",
+        "franchise_id": "469533",
+        "franchise_name": "Family Weekend Movies",
+        "genres": [
+            "Adventure"
+        ],
+        "guide_timestamp": 1681075800,
+        "last_update": 1680989893652,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Richard Donner",
+                "role": "Director"
+            },
+            {
+                "character": "Superman",
+                "name": "Christopher Reeve",
+                "role": "Actor"
+            },
+            {
+                "character": "Clark Kent",
+                "name": "Christopher Reeve",
+                "role": "Actor"
+            },
+            {
+                "character": "Jor-El",
+                "name": "Marlon Brando",
+                "role": "Actor"
+            },
+            {
+                "character": "Lois Lane",
+                "name": "Margot Kidder",
+                "role": "Actor"
+            },
+            {
+                "character": "Lex Luthor",
+                "name": "Gene Hackman",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Jerry Siegel",
+                "role": "Characters as Source Material"
+            },
+            {
+                "character": null,
+                "name": "Joe Shuster",
+                "role": "Characters as Source Material"
+            },
+            {
+                "character": null,
+                "name": "Mario Puzo",
+                "role": "Screenplay"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1978,
+        "runtime_minutes": 143,
+        "scheduled_duration": 10927,
+        "scheduled_timestamp": 1681075800,
+        "serial": 1680989893738,
+        "series_name": "",
+        "show_duration": 10927,
+        "show_id": "1052960002",
+        "show_timestamp": 1681075800,
+        "status": "estimated",
+        "summary": "Jor-El of Krypton sends his baby to Earth, where he grows up as Clark Kent and works at the Daily Planet.",
+        "summary_long": "Just before the destruction of the planet Krypton, scientist Jor-El sends his infant son Kal-El on a spaceship to Earth. Raised by kindly farmers Jonathan and Martha Kent, young Clark discovers the source of his superhuman powers and moves to Metropolis to fight evil. As Superman, he battles the villainous Lex Luthor, while, as novice reporter Clark Kent, he attempts to woo co-worker Lois Lane.",
+        "title": "Superman",
+        "title_id": "91973",
         "tv_rating": "TV-PG"
     }
 ]
