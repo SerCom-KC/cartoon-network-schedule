@@ -130,7 +130,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1681018200,
-        "last_update": 1680935725121,
+        "last_update": 1680941549802,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -139,7 +139,7 @@
         "scheduled_duration": 1816,
         "scheduled_timestamp": 1681018200,
         "season_number": "16",
-        "serial": 1680935724858,
+        "serial": 1680941549475,
         "series_id": "608007",
         "series_name": "One Piece",
         "show_duration": 1816,
@@ -269,7 +269,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681023600,
-        "last_update": 1680939247610,
+        "last_update": 1680941550358,
         "live": false,
         "participants": [
             {
@@ -315,7 +315,7 @@
         "scheduled_duration": 917,
         "scheduled_timestamp": 1681023600,
         "season_number": "2",
-        "serial": 1680939247170,
+        "serial": 1680941550053,
         "series_id": "2137894",
         "series_name": "Ballmastrz: 9009",
         "show_duration": 917,
@@ -425,7 +425,7 @@
             "Crime"
         ],
         "guide_timestamp": 1681025400,
-        "last_update": 1680939247610,
+        "last_update": 1680941550358,
         "live": false,
         "participants": [
             {
@@ -476,7 +476,7 @@
         "scheduled_duration": 925,
         "scheduled_timestamp": 1681025400,
         "season_number": "4",
-        "serial": 1680939247170,
+        "serial": 1680941550053,
         "series_id": "666506",
         "series_name": "Superjail!",
         "show_duration": 925,
@@ -487,5 +487,126 @@
         "title": "Superstorm!",
         "title_id": "2021783",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "275CW",
+        "create_time": 1680941550358,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "16112001",
+        "feed_id": "as-east",
+        "franchise_id": "347964",
+        "franchise_name": "Superjail",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Crime"
+        ],
+        "guide_timestamp": 1681026300,
+        "last_update": 1680941550358,
+        "live": false,
+        "participants": [
+            {
+                "character": "The Warden",
+                "name": "David Wain",
+                "role": "Voice"
+            },
+            {
+                "character": "Jared",
+                "name": "Teddy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Alice",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            },
+            {
+                "character": "The Doctor",
+                "name": "Christopher McCulloch",
+                "role": "Voice"
+            },
+            {
+                "character": "The Twins",
+                "name": "Richard Mather",
+                "role": "Voice"
+            },
+            {
+                "character": "Lord Stingray",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Jean Baptiste Le Ghei",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            },
+            {
+                "character": "Fatty",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 15,
+        "scheduled_duration": 920,
+        "scheduled_timestamp": 1681026300,
+        "season_number": "4",
+        "serial": 1680941550053,
+        "series_id": "666506",
+        "series_name": "Superjail!",
+        "show_duration": 920,
+        "show_id": "1050412564",
+        "show_timestamp": 1681026300,
+        "status": "estimated",
+        "summary": "Superjail's darkest secret leads to backwater neighbors who throw a killer hoedown.",
+        "title": "The Superjail Six",
+        "title_id": "2021784",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "13CMN7",
+        "create_time": 1680941550358,
+        "episode_in_season": "19",
+        "episode_number": "S2:E19",
+        "external_id": "16107307",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1681027200,
+        "last_update": 1680941550358,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1835,
+        "scheduled_timestamp": 1681027200,
+        "season_number": "2",
+        "serial": 1680941550053,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1835,
+        "show_id": "1050412578",
+        "show_timestamp": 1681027200,
+        "status": "estimated",
+        "summary": "Mom wants world domination for a Mother's Day gift.",
+        "title": "Mother's Day",
+        "title_id": "437690",
+        "tv_rating": "TV-14"
     }
 ]
