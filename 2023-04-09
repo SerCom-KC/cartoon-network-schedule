@@ -92,7 +92,7 @@
             "Food"
         ],
         "guide_timestamp": 1681016400,
-        "last_update": 1680957098280,
+        "last_update": 1680961952920,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -101,7 +101,7 @@
         "scheduled_duration": 1810,
         "scheduled_timestamp": 1681016400,
         "season_number": "5",
-        "serial": 1680957097911,
+        "serial": 1680961952716,
         "series_id": "2201017",
         "series_name": "Food Wars!",
         "show_duration": 1810,
@@ -1099,7 +1099,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681038000,
-        "last_update": 1680953528040,
+        "last_update": 1680961953616,
         "live": false,
         "participants": [
             {
@@ -1140,7 +1140,7 @@
         "scheduled_duration": 1704,
         "scheduled_timestamp": 1681038000,
         "season_number": "6",
-        "serial": 1680953527625,
+        "serial": 1680961953157,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 1704,
@@ -1170,7 +1170,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681039800,
-        "last_update": 1680957098611,
+        "last_update": 1680961953616,
         "live": false,
         "participants": [
             {
@@ -1211,7 +1211,7 @@
         "scheduled_duration": 660,
         "scheduled_timestamp": 1681039699,
         "season_number": "6",
-        "serial": 1680957098255,
+        "serial": 1680961953157,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 660,
@@ -1241,7 +1241,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681039800,
-        "last_update": 1680957098611,
+        "last_update": 1680961953616,
         "live": false,
         "participants": [
             {
@@ -1282,7 +1282,7 @@
         "scheduled_duration": 1669,
         "scheduled_timestamp": 1681039800,
         "season_number": "6",
-        "serial": 1680957098255,
+        "serial": 1680961953157,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 1669,
@@ -1454,7 +1454,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681043100,
-        "last_update": 1680957098611,
+        "last_update": 1680961954192,
         "live": false,
         "participants": [
             {
@@ -1495,7 +1495,7 @@
         "scheduled_duration": 660,
         "scheduled_timestamp": 1681043244,
         "season_number": "6",
-        "serial": 1680957098255,
+        "serial": 1680961953816,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 660,
@@ -1525,7 +1525,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681043400,
-        "last_update": 1680960667849,
+        "last_update": 1680961954192,
         "live": false,
         "participants": [
             {
@@ -1566,7 +1566,7 @@
         "scheduled_duration": 1578,
         "scheduled_timestamp": 1681043400,
         "season_number": "6",
-        "serial": 1680960667454,
+        "serial": 1680961953816,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 1578,
@@ -1596,7 +1596,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681044900,
-        "last_update": 1680960667849,
+        "last_update": 1680961954192,
         "live": false,
         "participants": [
             {
@@ -1637,7 +1637,7 @@
         "scheduled_duration": 660,
         "scheduled_timestamp": 1681044958,
         "season_number": "6",
-        "serial": 1680960667454,
+        "serial": 1680961953816,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 660,
@@ -1758,6 +1758,61 @@
         "summary": "Kelsey accepts a quest from the Elders of the Creek, but is she ready for her terrifying opponent?",
         "title": "Kelsey Quest",
         "title_id": "2158813",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3JVYK",
+        "create_time": 1680961954192,
+        "episode_in_season": "20",
+        "episode_number": "S1:E20",
+        "external_id": "16105813",
+        "feed_id": "as-east",
+        "franchise_id": "446892",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1681047000,
+        "last_update": 1680961954192,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 19,
+        "scheduled_duration": 1485,
+        "scheduled_timestamp": 1681047000,
+        "season_number": "1",
+        "serial": 1680961953816,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 1485,
+        "show_id": "1050395552",
+        "show_timestamp": 1681047000,
+        "status": "estimated",
+        "summary": "JP decides to follow his heart and tries to join the Horse Girls.",
+        "title": "JPony",
+        "title_id": "2159521",
         "tv_rating": "TV-Y7"
     }
 ]
