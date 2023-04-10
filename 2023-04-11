@@ -151,7 +151,7 @@
             "Drama"
         ],
         "guide_timestamp": 1681189200,
-        "last_update": 1681106261591,
+        "last_update": 1681117739503,
         "live": false,
         "participants": [
             {
@@ -202,7 +202,7 @@
         "scheduled_duration": 1809,
         "scheduled_timestamp": 1681189200,
         "season_number": "1",
-        "serial": 1681106261146,
+        "serial": 1681117738875,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1809,
@@ -235,7 +235,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1681191000,
-        "last_update": 1681113141483,
+        "last_update": 1681117739503,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -244,7 +244,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1681191000,
         "season_number": "2",
-        "serial": 1681113140391,
+        "serial": 1681117738875,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -315,7 +315,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681192800,
-        "last_update": 1681113141483,
+        "last_update": 1681117739503,
         "live": false,
         "participants": [
             {
@@ -351,7 +351,7 @@
         "scheduled_duration": 907,
         "scheduled_timestamp": 1681192800,
         "season_number": "8",
-        "serial": 1681113140391,
+        "serial": 1681117738875,
         "series_id": "847246",
         "series_name": "Aqua Unit Patrol Squad 1",
         "show_duration": 907,
@@ -860,7 +860,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1681200000,
-        "last_update": 1681114168855,
+        "last_update": 1681117740478,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -869,7 +869,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1681200000,
         "season_number": "3",
-        "serial": 1681114168526,
+        "serial": 1681117739430,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -879,6 +879,94 @@
         "summary": "Bender must spend a full night in a gothic castle in order to collect an inheritance.",
         "title": "The Honking",
         "title_id": "437694",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "14M0VW",
+        "create_time": 1681117740478,
+        "episode_in_season": "2",
+        "episode_number": "S3:E02",
+        "external_id": "16101540",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1681201800,
+        "last_update": 1681117740478,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1681201800,
+        "season_number": "3",
+        "serial": 1681117739430,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1050658906",
+        "show_timestamp": 1681201800,
+        "status": "estimated",
+        "summary": "Fry and Bender join the military for soldiers' discounts.",
+        "title": "War Is the H-Word",
+        "title_id": "437693",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "3GY3R",
+        "create_time": 1681117740478,
+        "episode_in_season": "12",
+        "episode_number": "S5:E12",
+        "external_id": "16101487",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1681203600,
+        "last_update": 1681117740478,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1681203600,
+        "season_number": "5",
+        "serial": 1681117739430,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1807,
+        "show_id": "1050658990",
+        "show_timestamp": 1681203600,
+        "status": "estimated",
+        "summary": "Tina and Louise volunteer to run Jimmy Junior's class president campaign in order to keep Millie from winning, and ruining the school. Meanwhile, Bob becomes obsessed with a knife after talking himself into buying it for $300.",
+        "title": "The Millie-Churian Candidate",
+        "title_id": "2065460",
         "tv_rating": "TV-PG"
     }
 ]
