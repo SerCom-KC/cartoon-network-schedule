@@ -492,7 +492,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681281900,
-        "last_update": 1681204617625,
+        "last_update": 1681205557650,
         "live": false,
         "participants": [
             {
@@ -563,7 +563,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1681281900,
         "season_number": "6",
-        "serial": 1681204617255,
+        "serial": 1681205557522,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -733,7 +733,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1681286400,
-        "last_update": 1681204617625,
+        "last_update": 1681205557650,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -742,7 +742,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1681286400,
         "season_number": "3",
-        "serial": 1681204617255,
+        "serial": 1681205557522,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -815,7 +815,7 @@
             "Family"
         ],
         "guide_timestamp": 1681290000,
-        "last_update": 1681204617625,
+        "last_update": 1681205557650,
         "live": false,
         "participants": [
             {
@@ -831,7 +831,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1681290000,
         "season_number": "5",
-        "serial": 1681204617255,
+        "serial": 1681205557522,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -842,6 +842,54 @@
         "summary_long": "Bob becomes obsessed with his new automatic helicopter. When it falls apart for no reason, he demands a refund and ends up in a dispute with the manufacturer. Gene assists Bob in his quest but things quickly get out of hand and end in a crazy helicopter battle. Meanwhile, Louise and Linda help Tina prepare for her oral book report.",
         "title": "Li'l Hard Dad",
         "title_id": "2065463",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "3GY4G",
+        "create_time": 1681205557650,
+        "episode_in_season": "15",
+        "episode_number": "S5:E15",
+        "external_id": "16101504",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1681291800,
+        "last_update": 1681205557650,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1681291800,
+        "season_number": "5",
+        "serial": 1681205557522,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1050658367",
+        "show_timestamp": 1681291800,
+        "status": "estimated",
+        "summary": "Bob and Linda head out on the town for a date but to Linda's dismay, Bob's idea of romance proves trivial. Meanwhile, a wild chinchilla chase ensues after the school pet that Louis was charged with watching escapes out the front door.",
+        "title": "Adventures in Chinchilla-Sitting",
+        "title_id": "2065464",
         "tv_rating": "TV-PG"
     }
 ]
