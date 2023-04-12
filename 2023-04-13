@@ -370,7 +370,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681366500,
-        "last_update": 1681281540224,
+        "last_update": 1681291268798,
         "live": false,
         "participants": [
             {
@@ -396,7 +396,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1681366500,
         "season_number": "10",
-        "serial": 1681281539635,
+        "serial": 1681291268654,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
         "show_duration": 900,
@@ -696,7 +696,7 @@
             "Animation"
         ],
         "guide_timestamp": 1681371000,
-        "last_update": 1681288315418,
+        "last_update": 1681291269124,
         "live": false,
         "participants": [
             {
@@ -732,7 +732,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1681371000,
         "season_number": "1",
-        "serial": 1681288314493,
+        "serial": 1681291268987,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -762,7 +762,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1681372800,
-        "last_update": 1681288315418,
+        "last_update": 1681291153894,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -771,7 +771,7 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1681372800,
         "season_number": "3",
-        "serial": 1681288314493,
+        "serial": 1681291153694,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1802,
@@ -801,7 +801,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1681374600,
-        "last_update": 1681288315418,
+        "last_update": 1681291269124,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -810,7 +810,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1681374600,
         "season_number": "3",
-        "serial": 1681288314493,
+        "serial": 1681291268987,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -820,6 +820,54 @@
         "summary": "Bender meets a charming fembot in the Bending Factory when Farnsworth sends him there for rehabilitation.",
         "title": "Bendless Love",
         "title_id": "437699",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "3GY4H",
+        "create_time": 1681291153894,
+        "episode_in_season": "16",
+        "episode_number": "S5:E16",
+        "external_id": "16101489",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1681376400,
+        "last_update": 1681291153894,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1681376400,
+        "season_number": "5",
+        "serial": 1681291153694,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1805,
+        "show_id": "1050659124",
+        "show_timestamp": 1681376400,
+        "status": "estimated",
+        "summary": "The kids are sentenced to Saturday detention and will do anything it takes to leave early so they can attend the Cotton Candy Festival. Meanwhile, Bob and Linda believe that they are being scammed by a young girl at the restaurant.",
+        "title": "The Runway Club",
+        "title_id": "2065465",
         "tv_rating": "TV-PG"
     }
 ]
