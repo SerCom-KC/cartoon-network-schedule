@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1681444800,
-        "last_update": 1681362825888,
+        "last_update": 1681363671203,
         "live": false,
         "participants": [
             {
@@ -57,7 +57,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1681444800,
         "season_number": "1",
-        "serial": 1681362825579,
+        "serial": 1681363671488,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -157,7 +157,7 @@
             "Drama"
         ],
         "guide_timestamp": 1681448400,
-        "last_update": 1681362825888,
+        "last_update": 1681363852296,
         "live": false,
         "participants": [
             {
@@ -208,7 +208,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1681448400,
         "season_number": "1",
-        "serial": 1681362825579,
+        "serial": 1681363851970,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -218,6 +218,47 @@
         "summary": "Granddad opens \"The Itis,\" the first and only soul food restaurant in Woodcrest. White people never expected it. They also didn't expect high cholesterol, heart disease and obesity.",
         "title": "The Itis",
         "title_id": "627809",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "34MD9",
+        "create_time": 1681363852296,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "16112559",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1681450200,
+        "last_update": 1681363852296,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1681450200,
+        "season_number": "3",
+        "serial": 1681363851970,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 901,
+        "show_id": "1050657952",
+        "show_timestamp": 1681450200,
+        "status": "estimated",
+        "summary": "The team goes sailing. (Yard sale-ing!)",
+        "title": "Love Letters",
+        "title_id": "2117686",
         "tv_rating": "TV-14"
     }
 ]
