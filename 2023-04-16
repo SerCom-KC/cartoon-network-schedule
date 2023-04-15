@@ -1333,7 +1333,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681651800,
-        "last_update": 1681559464887,
+        "last_update": 1681567463993,
         "live": false,
         "participants": [
             {
@@ -1359,7 +1359,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1681651800,
         "season_number": "1",
-        "serial": 1681559464579,
+        "serial": 1681567463889,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 840,
@@ -1388,7 +1388,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681652700,
-        "last_update": 1681559464887,
+        "last_update": 1681567463993,
         "live": false,
         "participants": [
             {
@@ -1414,7 +1414,7 @@
         "scheduled_duration": 875,
         "scheduled_timestamp": 1681652580,
         "season_number": "1",
-        "serial": 1681559464579,
+        "serial": 1681567463889,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 875,
@@ -1662,7 +1662,7 @@
             "Animation"
         ],
         "guide_timestamp": 1681657800,
-        "last_update": 1681566459216,
+        "last_update": 1681567463993,
         "live": false,
         "participants": [
             {
@@ -1713,7 +1713,7 @@
         "scheduled_duration": 907,
         "scheduled_timestamp": 1681657722,
         "season_number": "6",
-        "serial": 1681566458484,
+        "serial": 1681567463889,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 907,
@@ -1742,7 +1742,7 @@
             "Animation"
         ],
         "guide_timestamp": 1681659000,
-        "last_update": 1681566459216,
+        "last_update": 1681567463993,
         "live": false,
         "participants": [
             {
@@ -1793,7 +1793,7 @@
         "scheduled_duration": 780,
         "scheduled_timestamp": 1681659000,
         "season_number": "6",
-        "serial": 1681566458484,
+        "serial": 1681567463889,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 780,
@@ -1884,5 +1884,118 @@
         "title": "Lucky Stars",
         "title_id": "2225139",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3R7FN",
+        "create_time": 1681567366450,
+        "episode_in_season": "24",
+        "episode_number": "S5:E24",
+        "external_id": "16105829",
+        "feed_id": "as-east",
+        "franchise_id": "393474",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1681660200,
+        "last_update": 1681567463993,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 10,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1681660196,
+        "season_number": "5",
+        "serial": 1681567463889,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 600,
+        "show_id": "1054997759",
+        "show_timestamp": 1681660196,
+        "status": "estimated",
+        "summary": "In order to quickly get through their chores and karate lessons, the Titans learn how to montage",
+        "title": "Them Soviet Boys",
+        "title_id": "2187160",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1FC1F7",
+        "create_time": 1681567366450,
+        "external_id": "16108453",
+        "feed_id": "as-east",
+        "franchise_id": "450712",
+        "franchise_name": "Total Dramarama",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1681660800,
+        "last_update": 1681567366450,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 60,
+        "scheduled_duration": 3600,
+        "scheduled_timestamp": 1681660800,
+        "serial": 1681567365773,
+        "series_name": "",
+        "show_duration": 3600,
+        "show_id": "1050652551",
+        "show_timestamp": 1681660800,
+        "status": "estimated",
+        "summary": "When Duncan destroys the school using an unsafe app Chef ends up with a big cash settlement, but rather than rebuilding the school, he takes the kids on a cross country adventure to a waterpark.",
+        "title": "Total Dramarama: A Very Special Special That's Quite Special",
+        "title_id": "2424732",
+        "tv_rating": "TV-Y7-FV"
     }
 ]
