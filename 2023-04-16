@@ -3993,7 +3993,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681693200,
-        "last_update": 1681599912723,
+        "last_update": 1681603061382,
         "live": false,
         "participants": [
             {
@@ -4039,7 +4039,7 @@
         "scheduled_duration": 1808,
         "scheduled_timestamp": 1681693200,
         "season_number": "17",
-        "serial": 1681599912622,
+        "serial": 1681603060719,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1808,
@@ -4070,7 +4070,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681695000,
-        "last_update": 1681601425065,
+        "last_update": 1681606402077,
         "live": false,
         "participants": [
             {
@@ -4116,7 +4116,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1681695000,
         "season_number": "17",
-        "serial": 1681601424422,
+        "serial": 1681606402117,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -4126,6 +4126,152 @@
         "summary": "Roger and Steve try to save a dying mall.",
         "title": "You Are Here",
         "title_id": "2342104",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1F5JWV",
+        "create_time": 1681604921353,
+        "episode_in_season": "16",
+        "episode_number": "S17:E16",
+        "external_id": "16107348",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1681696800,
+        "last_update": 1681606402077,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1681696800,
+        "season_number": "17",
+        "serial": 1681606402117,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1050656552",
+        "show_timestamp": 1681696800,
+        "status": "estimated",
+        "summary": "Barry blows out his dad's speakers and Snot helps him replace them. Stan attempts to do a standing backflip.",
+        "title": "I Heard You Wanna Buy Some Speakers",
+        "title_id": "2342101",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "Y0V82",
+        "create_time": 1681606402077,
+        "episode_in_season": "6",
+        "episode_number": "S5:E06",
+        "external_id": "16112786",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1681698600,
+        "last_update": 1681606631596,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1681698600,
+        "season_number": "5",
+        "serial": 1681606630858,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1050656719",
+        "show_timestamp": 1681698600,
+        "status": "estimated",
+        "summary": "Gobble gobble broh. Rick and Morty givin thanks in this one.",
+        "title": "Rick & Morty's Thanksploitation Spectacular",
+        "title_id": "2270464",
         "tv_rating": "TV-14"
     }
 ]
