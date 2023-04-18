@@ -425,7 +425,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681885800,
-        "last_update": 1681792712758,
+        "last_update": 1681798387527,
         "live": false,
         "participants": [
             {
@@ -496,7 +496,7 @@
         "scheduled_duration": 923,
         "scheduled_timestamp": 1681885800,
         "season_number": "6",
-        "serial": 1681792712404,
+        "serial": 1681798386804,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 923,
@@ -698,7 +698,7 @@
             "Animation"
         ],
         "guide_timestamp": 1681889400,
-        "last_update": 1681796283006,
+        "last_update": 1681798387859,
         "live": false,
         "participants": [
             {
@@ -734,7 +734,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1681889400,
         "season_number": "2",
-        "serial": 1681796282555,
+        "serial": 1681798387110,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1805,
@@ -745,5 +745,44 @@
         "title": "A Rickle in Time",
         "title_id": "2060764",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "1495DX",
+        "create_time": 1681798387859,
+        "episode_in_season": "15",
+        "episode_number": "S3:E15",
+        "external_id": "16101526",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1681891200,
+        "last_update": 1681798387859,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1681891200,
+        "season_number": "3",
+        "serial": 1681798387110,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1052039185",
+        "show_timestamp": 1681891200,
+        "status": "estimated",
+        "summary": "Fry falls in love with a virtual humanoid downloaded from a computer.",
+        "title": "I Dated a Robot",
+        "title_id": "438047",
+        "tv_rating": "TV-PG"
     }
 ]
