@@ -275,7 +275,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1681969500,
-        "last_update": 1681876947653,
+        "last_update": 1681881958182,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -284,7 +284,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1681969500,
         "season_number": "3",
-        "serial": 1681876947141,
+        "serial": 1681881957720,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -530,7 +530,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1681973100,
-        "last_update": 1681880190728,
+        "last_update": 1681881958182,
         "live": false,
         "participants": [
             {
@@ -601,7 +601,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1681973100,
         "season_number": "7",
-        "serial": 1681880190291,
+        "serial": 1681881957720,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -613,5 +613,73 @@
         "title": "Secret of the Booze",
         "title_id": "2020458",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "2JGN2",
+        "create_time": 1681881958182,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16112616",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1681974000,
+        "last_update": 1681881958182,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1681974000,
+        "season_number": "2",
+        "serial": 1681881957720,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1803,
+        "show_id": "1052036445",
+        "show_timestamp": 1681974000,
+        "status": "estimated",
+        "summary": "Morty don tries to save a life in this one broh! Get strapped in broh!",
+        "title": "Mortynight Run",
+        "title_id": "2060765",
+        "tv_rating": "TV-14"
     }
 ]
