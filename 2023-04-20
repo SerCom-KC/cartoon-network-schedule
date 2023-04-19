@@ -634,7 +634,7 @@
             "Animation"
         ],
         "guide_timestamp": 1681974000,
-        "last_update": 1681881958182,
+        "last_update": 1681886677252,
         "live": false,
         "participants": [
             {
@@ -670,7 +670,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1681974000,
         "season_number": "2",
-        "serial": 1681881957720,
+        "serial": 1681886676947,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1803,
@@ -769,7 +769,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1681977600,
-        "last_update": 1681885528668,
+        "last_update": 1681886677252,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -778,7 +778,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1681977600,
         "season_number": "4",
-        "serial": 1681885528127,
+        "serial": 1681886676947,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -788,6 +788,43 @@
         "summary": "Bender falls in love with the spaceship's new, sexy voice.",
         "title": "Love and Rocket",
         "title_id": "438511",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "14968H",
+        "create_time": 1681886117764,
+        "episode_in_season": "5",
+        "episode_number": "S4:E05",
+        "external_id": "16101547",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1681979400,
+        "last_update": 1681886677252,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1681979400,
+        "season_number": "4",
+        "serial": 1681886676947,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1052036696",
+        "show_timestamp": 1681979400,
+        "status": "estimated",
+        "summary": "The orphanarium where Leela grew up honors her for her success as a starship captain.",
+        "title": "Leela's Homeworld",
+        "title_id": "438510",
         "tv_rating": "TV-PG"
     }
 ]
