@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682049600,
-        "last_update": 1681961735141,
+        "last_update": 1681964979742,
         "live": false,
         "participants": [
             {
@@ -56,7 +56,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1682049600,
         "season_number": "2",
-        "serial": 1681961735049,
+        "serial": 1681964979725,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1803,
@@ -88,7 +88,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682051400,
-        "last_update": 1681958489356,
+        "last_update": 1681964414331,
         "live": false,
         "participants": [
             {
@@ -124,7 +124,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1682051400,
         "season_number": "2",
-        "serial": 1681958489389,
+        "serial": 1681964413496,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1801,
@@ -152,7 +152,7 @@
             "Drama"
         ],
         "guide_timestamp": 1682053200,
-        "last_update": 1681961735141,
+        "last_update": 1681964414331,
         "live": false,
         "participants": [
             {
@@ -203,7 +203,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1682053200,
         "season_number": "2",
-        "serial": 1681961735049,
+        "serial": 1681964413496,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -234,7 +234,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1682055000,
-        "last_update": 1681961735141,
+        "last_update": 1681964979742,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -243,7 +243,7 @@
         "scheduled_duration": 902,
         "scheduled_timestamp": 1682055000,
         "season_number": "3",
-        "serial": 1681961735049,
+        "serial": 1681964979725,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 902,
@@ -253,6 +253,157 @@
         "summary": "Yung goes on Spring Break and the team sort of tags along.",
         "title": "Spring Break",
         "title_id": "2117700",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "374TH",
+        "create_time": 1681964414331,
+        "episode_in_season": "12",
+        "episode_number": "S3:E12",
+        "external_id": "16112575",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1682055900,
+        "last_update": 1681964979742,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 903,
+        "scheduled_timestamp": 1682055900,
+        "season_number": "3",
+        "serial": 1681964979725,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 903,
+        "show_id": "1052091158",
+        "show_timestamp": 1682055900,
+        "status": "estimated",
+        "summary": "The team gets the Mystery Mobile a regular car wash for $9.99.",
+        "title": "At the Car Wash",
+        "title_id": "2117699",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "17Y96R",
+        "create_time": 1681964414331,
+        "episode_in_season": "3",
+        "episode_number": "S11:E03",
+        "external_id": "16115814",
+        "feed_id": "as-east",
+        "franchise_id": "418932",
+        "franchise_name": "Aqua Teen Hunger Force Forever",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1682056800,
+        "last_update": 1681964979742,
+        "live": false,
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1682056800,
+        "season_number": "11",
+        "serial": 1681964979725,
+        "series_id": "2059880",
+        "series_name": "Aqua Teen Hunger Force Forever",
+        "show_duration": 900,
+        "show_id": "1052041391",
+        "show_timestamp": 1682056800,
+        "status": "estimated",
+        "summary": "The ultimate party bus has bachelors screaming for medical attention.",
+        "title": "The Hairy Bus",
+        "title_id": "2059923",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "17Y9CY",
+        "create_time": 1681964414331,
+        "episode_in_season": "4",
+        "episode_number": "S11:E04",
+        "external_id": "16115815",
+        "feed_id": "as-east",
+        "franchise_id": "418932",
+        "franchise_name": "Aqua Teen Hunger Force Forever",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1682057700,
+        "last_update": 1681964979742,
+        "live": false,
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 909,
+        "scheduled_timestamp": 1682057700,
+        "season_number": "11",
+        "serial": 1681964979725,
+        "series_id": "2059880",
+        "series_name": "Aqua Teen Hunger Force Forever",
+        "show_duration": 909,
+        "show_id": "1052041402",
+        "show_timestamp": 1682057700,
+        "status": "estimated",
+        "summary": "When Frylock's bees stop producing honey, he enlists a miniaturized Carl to help him find out why.",
+        "title": "Sweet C",
+        "title_id": "2059924",
         "tv_rating": "TV-14"
     }
 ]
