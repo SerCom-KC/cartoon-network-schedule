@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682049600,
-        "last_update": 1681957687002,
+        "last_update": 1681961735141,
         "live": false,
         "participants": [
             {
@@ -56,7 +56,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1682049600,
         "season_number": "2",
-        "serial": 1681957686376,
+        "serial": 1681961735049,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1803,
@@ -134,6 +134,125 @@
         "summary": "Rick and Morty don gotta step up and save things in this one broh. A new religion starts up too broh.",
         "title": "Get Schwifty",
         "title_id": "2060768",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "19KTK8",
+        "create_time": 1681961735141,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "16112551",
+        "feed_id": "as-east",
+        "franchise_id": "336141",
+        "franchise_name": "Boondocks, The",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1682053200,
+        "last_update": 1681961735141,
+        "live": false,
+        "participants": [
+            {
+                "character": "Riley Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Huey Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Robert Freeman",
+                "name": "John Witherspoon",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Ruckus",
+                "name": "Gary Anthony Williams",
+                "role": "Voice"
+            },
+            {
+                "character": "Tom Dubois",
+                "name": "Cedric Yarbrough",
+                "role": "Voice"
+            },
+            {
+                "character": "Sarah Dubois",
+                "name": "Jill Talley",
+                "role": "Voice"
+            },
+            {
+                "character": "Jazmine Dubois",
+                "name": "Gabby Soleil",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Aaron Mcgruder",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1682053200,
+        "season_number": "2",
+        "serial": 1681961735049,
+        "series_id": "610028",
+        "series_name": "The Boondocks",
+        "show_duration": 1800,
+        "show_id": "1052041344",
+        "show_timestamp": 1682053200,
+        "status": "estimated",
+        "summary": "Granddad's nemesis, Colonel H. Stinkmeaner, returns from hell to seek vengeance on the Freemans and picks an unlikely vessel in poor Tom.",
+        "title": "Stinkmeaner Strikes Back",
+        "title_id": "682876",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "3C1VW",
+        "create_time": 1681961735141,
+        "episode_in_season": "11",
+        "episode_number": "S3:E11",
+        "external_id": "16112563",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1682055000,
+        "last_update": 1681961735141,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1682055000,
+        "season_number": "3",
+        "serial": 1681961735049,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 902,
+        "show_id": "1052091147",
+        "show_timestamp": 1682055000,
+        "status": "estimated",
+        "summary": "Yung goes on Spring Break and the team sort of tags along.",
+        "title": "Spring Break",
+        "title_id": "2117700",
         "tv_rating": "TV-14"
     }
 ]
