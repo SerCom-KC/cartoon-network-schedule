@@ -3913,7 +3913,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682280000,
-        "last_update": 1682187988233,
+        "last_update": 1682189360578,
         "live": false,
         "participants": [
             {
@@ -3964,7 +3964,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1682280000,
         "season_number": "1",
-        "serial": 1682187987703,
+        "serial": 1682189361130,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 840,
@@ -4071,7 +4071,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682281800,
-        "last_update": 1682187988233,
+        "last_update": 1682189360578,
         "live": false,
         "participants": [
             {
@@ -4122,7 +4122,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1682281800,
         "season_number": "1",
-        "serial": 1682187987703,
+        "serial": 1682189361130,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 840,
@@ -4132,6 +4132,85 @@
         "summary": "Raven shows the rest of the Titans that books can be fun.",
         "title": "Books",
         "title_id": "2002496",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1YNHP",
+        "create_time": 1682189360578,
+        "episode_number": "S1:EL28",
+        "external_id": "16105432",
+        "feed_id": "as-east",
+        "franchise_id": "393474",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1682282100,
+        "last_update": 1682189360578,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 18,
+        "scheduled_duration": 1080,
+        "scheduled_timestamp": 1682282084,
+        "season_number": "1",
+        "serial": 1682189361130,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 1080,
+        "show_id": "1055666697",
+        "show_timestamp": 1682282084,
+        "status": "estimated",
+        "summary": "When the Titans replace the couch with a treadmill, Cyborg and Beast Boy must get guidance from the couch spirit.",
+        "title": "Lazy Sunday",
+        "title_id": "2002497",
         "tv_rating": "TV-PG"
     }
 ]
