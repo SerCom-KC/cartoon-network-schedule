@@ -351,7 +351,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1682234100,
-        "last_update": 1682141391112,
+        "last_update": 1682145681989,
         "live": false,
         "participants": [
             {
@@ -397,7 +397,7 @@
         "scheduled_duration": 902,
         "scheduled_timestamp": 1682234100,
         "season_number": "2",
-        "serial": 1682141390926,
+        "serial": 1682145681793,
         "series_id": "2137894",
         "series_name": "Ballmastrz: 9009",
         "show_duration": 902,
@@ -510,7 +510,7 @@
             "Crime"
         ],
         "guide_timestamp": 1682235900,
-        "last_update": 1682143770671,
+        "last_update": 1682145682377,
         "live": false,
         "participants": [
             {
@@ -561,7 +561,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1682235900,
         "season_number": "1",
-        "serial": 1682143770478,
+        "serial": 1682145682183,
         "series_id": "666506",
         "series_name": "Superjail!",
         "show_duration": 900,
@@ -592,7 +592,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1682236800,
-        "last_update": 1682143770671,
+        "last_update": 1682145682377,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -601,7 +601,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1682236800,
         "season_number": "4",
-        "serial": 1682143770478,
+        "serial": 1682145682183,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -611,6 +611,45 @@
         "summary": "Fry travels to forbidden planet Omega 3 to retrieve all 79 episodes of Star Trek.",
         "title": "Where No Fan Has Gone Before",
         "title_id": "438512",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "149CY2",
+        "create_time": 1682145682377,
+        "episode_in_season": "1",
+        "episode_number": "S5:E01",
+        "external_id": "16107313",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1682238600,
+        "last_update": 1682145682377,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1682238600,
+        "season_number": "5",
+        "serial": 1682145682183,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1051316208",
+        "show_timestamp": 1682238600,
+        "status": "estimated",
+        "summary": "Al Gore's head holds an emergency summit in Kyoto, Japan, to deal with global warming caused by robot emissions.",
+        "title": "Crimes of the Hot",
+        "title_id": "442428",
         "tv_rating": "TV-PG"
     }
 ]
