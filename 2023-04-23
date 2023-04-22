@@ -2490,7 +2490,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682264400,
-        "last_update": 1682171330506,
+        "last_update": 1682174638466,
         "live": false,
         "participants": [
             {
@@ -2541,7 +2541,7 @@
         "scheduled_duration": 960,
         "scheduled_timestamp": 1682264413,
         "season_number": "1",
-        "serial": 1682171330564,
+        "serial": 1682174637957,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 960,
@@ -2788,6 +2788,85 @@
         "summary": "Beast Boy and Cyborg try their best to slow the pizza delivery boy so they can get free pizza.",
         "title": "Hey Pizza!",
         "title_id": "2002480",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "GW81C",
+        "create_time": 1682174638814,
+        "episode_number": "S1:EL12",
+        "external_id": "16105424",
+        "feed_id": "as-east",
+        "franchise_id": "393474",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1682267700,
+        "last_update": 1682174638814,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 16,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1682267845,
+        "season_number": "1",
+        "serial": 1682174638645,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 960,
+        "show_id": "1051555226",
+        "show_timestamp": 1682267845,
+        "status": "estimated",
+        "summary": "Beast Boy takes over as Alpha male of the Titans when he is in Gorilla-mode and Robin has to figure out how to get back on top.",
+        "title": "Gorilla",
+        "title_id": "2002481",
         "tv_rating": "TV-PG"
     }
 ]
