@@ -428,7 +428,7 @@
             "Crime"
         ],
         "guide_timestamp": 1682235000,
-        "last_update": 1682142078140,
+        "last_update": 1682151487646,
         "live": false,
         "participants": [
             {
@@ -479,7 +479,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1682235000,
         "season_number": "1",
-        "serial": 1682142077881,
+        "serial": 1682151486990,
         "series_id": "666506",
         "series_name": "Superjail!",
         "show_duration": 905,
@@ -731,5 +731,74 @@
         "title": "Take Me out of the Ball Game",
         "title_id": "731277",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1JK39",
+        "create_time": 1682151488126,
+        "episode_number": "19",
+        "external_id": "16105830",
+        "feed_id": "as-east",
+        "franchise_id": "376453",
+        "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1682244000,
+        "last_update": 1682151488126,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1682244000,
+        "season_number": "2",
+        "serial": 1682151487659,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 1810,
+        "show_id": "1051313691",
+        "show_timestamp": 1682244000,
+        "status": "estimated",
+        "summary": "The Knights: Gumball and Tobias compete for Penny's affection by putting on the lamest duel in history. The Colossus: Gumball and Darwin learn that it isn't wise to upset Hector, Elmore's resident Giant.",
+        "title": "The Knights/The Colossus",
+        "title_id": "894289",
+        "tv_rating": "TV-Y7-FV"
     }
 ]
