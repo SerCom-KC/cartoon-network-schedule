@@ -129,7 +129,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1682227800,
-        "last_update": 1682134252271,
+        "last_update": 1682142077832,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -138,7 +138,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1682227800,
         "season_number": "16",
-        "serial": 1682134251369,
+        "serial": 1682142077568,
         "series_id": "608007",
         "series_name": "One Piece",
         "show_duration": 1800,
@@ -271,7 +271,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1682233200,
-        "last_update": 1682139911936,
+        "last_update": 1682142077832,
         "live": false,
         "participants": [
             {
@@ -317,7 +317,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1682233200,
         "season_number": "2",
-        "serial": 1682139910888,
+        "serial": 1682142077568,
         "series_id": "2137894",
         "series_name": "Ballmastrz: 9009",
         "show_duration": 903,
@@ -408,5 +408,87 @@
         "title": "Shameful Disease of Yackety Yack! Don't Talk Back! Be Silenced Forever!",
         "title_id": "2199775",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "P32K",
+        "create_time": 1682142078140,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16112709",
+        "feed_id": "as-east",
+        "franchise_id": "347964",
+        "franchise_name": "Superjail",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Crime"
+        ],
+        "guide_timestamp": 1682235000,
+        "last_update": 1682142078140,
+        "live": false,
+        "participants": [
+            {
+                "character": "The Warden",
+                "name": "David Wain",
+                "role": "Voice"
+            },
+            {
+                "character": "Jared",
+                "name": "Teddy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Alice",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            },
+            {
+                "character": "The Doctor",
+                "name": "Christopher McCulloch",
+                "role": "Voice"
+            },
+            {
+                "character": "The Twins",
+                "name": "Richard Mather",
+                "role": "Voice"
+            },
+            {
+                "character": "Lord Stingray",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Jean Baptiste Le Ghei",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            },
+            {
+                "character": "Fatty",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2008,
+        "runtime_minutes": 15,
+        "scheduled_duration": 905,
+        "scheduled_timestamp": 1682235000,
+        "season_number": "1",
+        "serial": 1682142077881,
+        "series_id": "666506",
+        "series_name": "Superjail!",
+        "show_duration": 905,
+        "show_id": "1051316114",
+        "show_timestamp": 1682235000,
+        "status": "estimated",
+        "summary": "The Warden and his staff unearth an ancient fighting arena.",
+        "title": "Combaticus",
+        "title_id": "730968",
+        "tv_rating": "TV-MA"
     }
 ]
