@@ -1253,7 +1253,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682332800,
-        "last_update": 1682240237007,
+        "last_update": 1682240988407,
         "live": false,
         "participants": [
             {
@@ -1304,7 +1304,7 @@
         "scheduled_duration": 804,
         "scheduled_timestamp": 1682332792,
         "season_number": "1",
-        "serial": 1682240236219,
+        "serial": 1682240987970,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 804,
@@ -1394,6 +1394,85 @@
         "summary": "After the T-Car is towed due to outstanding parking tickets, Robin has Cyborg enter a golf tournament for the cash prize.",
         "title": "Winning a Golf Tournament Is the Solution to All of Life's Money Problems",
         "title_id": "2409307",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "21P80",
+        "create_time": 1682240988407,
+        "episode_number": "S1:EL35",
+        "external_id": "16105635",
+        "feed_id": "as-east",
+        "franchise_id": "393474",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1682334000,
+        "last_update": 1682240988407,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 4,
+        "scheduled_duration": 992,
+        "scheduled_timestamp": 1682334000,
+        "season_number": "1",
+        "serial": 1682240987970,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 992,
+        "show_id": "1053896877",
+        "show_timestamp": 1682334000,
+        "status": "estimated",
+        "summary": "The Titans trick Starfire into believing in second Christmas with second Santa.",
+        "title": "Second Christmas",
+        "title_id": "2002499",
         "tv_rating": "TV-PG"
     }
 ]
