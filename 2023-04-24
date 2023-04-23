@@ -2766,7 +2766,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682346600,
-        "last_update": 1682258680273,
+        "last_update": 1682260277663,
         "live": false,
         "participants": [
             {
@@ -2817,7 +2817,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1682346600,
         "season_number": "1",
-        "serial": 1682258680136,
+        "serial": 1682260276861,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 840,
@@ -2845,7 +2845,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682347200,
-        "last_update": 1682258680273,
+        "last_update": 1682260277663,
         "live": false,
         "participants": [
             {
@@ -2896,7 +2896,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1682347082,
         "season_number": "1",
-        "serial": 1682258680136,
+        "serial": 1682260276861,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -3162,7 +3162,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682350200,
-        "last_update": 1682258680273,
+        "last_update": 1682260277663,
         "live": false,
         "participants": [
             {
@@ -3213,7 +3213,7 @@
         "scheduled_duration": 1315,
         "scheduled_timestamp": 1682350200,
         "season_number": "1",
-        "serial": 1682258680136,
+        "serial": 1682260276861,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 1315,
@@ -3320,7 +3320,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682352000,
-        "last_update": 1682258680273,
+        "last_update": 1682260277663,
         "live": false,
         "participants": [
             {
@@ -3371,7 +3371,7 @@
         "scheduled_duration": 1276,
         "scheduled_timestamp": 1682352000,
         "season_number": "1",
-        "serial": 1682258680136,
+        "serial": 1682260276861,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 1276,
@@ -3381,6 +3381,85 @@
         "summary": "A glimpse inside each Titan's dream world.",
         "title": "Dreams",
         "title_id": "2004587",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250JC",
+        "create_time": 1682260277663,
+        "episode_number": "S1:EL50",
+        "external_id": "16105449",
+        "feed_id": "as-east",
+        "franchise_id": "393474",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1682353200,
+        "last_update": 1682260277663,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 11,
+        "scheduled_duration": 660,
+        "scheduled_timestamp": 1682353241,
+        "season_number": "1",
+        "serial": 1682260276861,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 660,
+        "show_id": "1053897989",
+        "show_timestamp": 1682353241,
+        "status": "estimated",
+        "summary": "In order to defeat Mother Mae Eye, Cyborg starts using a grandma voice but soon that persona takes over and he begins making the other Titans dress warmly and clean their dishes.",
+        "title": "Grandma Voice",
+        "title_id": "2004588",
         "tv_rating": "TV-PG"
     }
 ]
