@@ -472,7 +472,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1682491500,
-        "last_update": 1682398367627,
+        "last_update": 1682401988359,
         "live": false,
         "participants": [
             {
@@ -543,7 +543,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1682491500,
         "season_number": "7",
-        "serial": 1682398366993,
+        "serial": 1682401988554,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -623,5 +623,73 @@
         "title": "Pickle Rick",
         "title_id": "2116832",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "3VWXC",
+        "create_time": 1682401973863,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "16112633",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1682494200,
+        "last_update": 1682401988681,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1682494200,
+        "season_number": "3",
+        "serial": 1682401988902,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1053904379",
+        "show_timestamp": 1682494200,
+        "status": "estimated",
+        "summary": "This one is real good broh. It has action and heroes.",
+        "title": "Vindicators 3: The Return of Worldender",
+        "title_id": "2116833",
+        "tv_rating": "TV-MA"
     }
 ]
