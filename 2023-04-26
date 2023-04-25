@@ -576,7 +576,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682492400,
-        "last_update": 1682399454129,
+        "last_update": 1682408766223,
         "live": false,
         "participants": [
             {
@@ -612,7 +612,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1682492400,
         "season_number": "3",
-        "serial": 1682399453427,
+        "serial": 1682408766559,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1803,
@@ -784,7 +784,7 @@
             "Family"
         ],
         "guide_timestamp": 1682499600,
-        "last_update": 1682407173069,
+        "last_update": 1682408766223,
         "live": false,
         "participants": [
             {
@@ -800,7 +800,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1682499600,
         "season_number": "6",
-        "serial": 1682407172843,
+        "serial": 1682408766559,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -811,6 +811,53 @@
         "summary_long": "When there is a bounce house crisis at regular-sized Rudy's birthday party, the Belcher kids devise a scheme to save the day. Meanwhile, Bob deals with an unexpected guest at the restaurant and is forced to come to terms with a longstanding fear.",
         "title": "House of 1000 Bounces",
         "title_id": "2097199",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "3GYM5",
+        "create_time": 1682408766541,
+        "episode_in_season": "12",
+        "episode_number": "S6:E12",
+        "external_id": "16101512",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1682501400,
+        "last_update": 1682409186678,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1682501400,
+        "season_number": "6",
+        "serial": 1682409186379,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1053904557",
+        "show_timestamp": 1682501400,
+        "status": "estimated",
+        "summary": "When Gene overhears talk about a mystical creature that lives nearby, he leads the Belcher kids and their friends on a journey to find it. Meanwhile, Linda's competitive nature takes over during downtime at the restaurant.",
+        "title": "Stand by Gene",
+        "title_id": "2097200",
         "tv_rating": "TV-PG"
     }
 ]
