@@ -530,7 +530,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1682577900,
-        "last_update": 1682484897755,
+        "last_update": 1682490686594,
         "live": false,
         "participants": [
             {
@@ -601,7 +601,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1682577900,
         "season_number": "7",
-        "serial": 1682484896706,
+        "serial": 1682490686559,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 900,
@@ -771,7 +771,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1682582400,
-        "last_update": 1682488843680,
+        "last_update": 1682490686594,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -780,7 +780,7 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1682582400,
         "season_number": "5",
-        "serial": 1682488842788,
+        "serial": 1682490686559,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1802,
@@ -790,6 +790,45 @@
         "summary": "Fry, Leela and Bender develop superhuman powers and fight crime in the Big Apple.",
         "title": "Less Than Hero",
         "title_id": "444750",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "14C6RD",
+        "create_time": 1682490686594,
+        "episode_in_season": "10",
+        "episode_number": "S5:E10",
+        "external_id": "16101552",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1682584200,
+        "last_update": 1682490686594,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2003,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1682584200,
+        "season_number": "5",
+        "serial": 1682490686559,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1803,
+        "show_id": "1053900694",
+        "show_timestamp": 1682584200,
+        "status": "estimated",
+        "summary": "The professor conducts an experiment which hurls Leela into a parallel universe.",
+        "title": "The Farnsworth Parabox",
+        "title_id": "444757",
         "tv_rating": "TV-PG"
     }
 ]
