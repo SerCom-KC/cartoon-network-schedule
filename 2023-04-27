@@ -810,7 +810,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1682584200,
-        "last_update": 1682490686594,
+        "last_update": 1682492614919,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -819,7 +819,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1682584200,
         "season_number": "5",
-        "serial": 1682490686559,
+        "serial": 1682492614020,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1803,
@@ -829,6 +829,53 @@
         "summary": "The professor conducts an experiment which hurls Leela into a parallel universe.",
         "title": "The Farnsworth Parabox",
         "title_id": "444757",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "3GYR2",
+        "create_time": 1682492614919,
+        "episode_in_season": "13",
+        "episode_number": "S6:E13",
+        "external_id": "16101497",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1682586000,
+        "last_update": 1682492614919,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1682586000,
+        "season_number": "6",
+        "serial": 1682492614020,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1808,
+        "show_id": "1053900817",
+        "show_timestamp": 1682586000,
+        "status": "estimated",
+        "summary": "When Bob's longtime friend, Critter, finds himself in jail for unpaid parking tickets, the Belchers decide to do what they can to help him out. Meanwhile, Linda takes on a babysitting job that becomes more work than she signed up for.",
+        "title": "Wag the Hog",
+        "title_id": "2097201",
         "tv_rating": "TV-PG"
     }
 ]
