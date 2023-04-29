@@ -4451,7 +4451,7 @@
             "Animation"
         ],
         "guide_timestamp": 1682889300,
-        "last_update": 1682796014533,
+        "last_update": 1682806038961,
         "live": false,
         "participants": [
             {
@@ -4502,7 +4502,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1682889204,
         "season_number": "8",
-        "serial": 1682796013732,
+        "serial": 1682806039407,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -4694,5 +4694,115 @@
         "title": "Superman IV: The Quest for Peace",
         "title_id": "91976",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3JX3G",
+        "create_time": 1682805970320,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "16108402",
+        "feed_id": "as-east",
+        "franchise_id": "318983",
+        "franchise_name": "Samurai Jack ",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1682897400,
+        "last_update": 1682806038961,
+        "live": false,
+        "participants": [
+            {
+                "character": "Samurai Jack",
+                "name": "Phil LaMarr",
+                "role": "Voice"
+            },
+            {
+                "character": "Aku",
+                "name": "Mako",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1911,
+        "scheduled_timestamp": 1682897400,
+        "season_number": "1",
+        "serial": 1682806039407,
+        "series_id": "343621",
+        "series_name": "Samurai Jack",
+        "show_duration": 1911,
+        "show_id": "1056875712",
+        "show_timestamp": 1682897400,
+        "status": "estimated",
+        "summary": "Jack must get past three blind archers to reach an all-powerful wishing well.",
+        "title": "VII",
+        "title_id": "343634",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3JXWT",
+        "create_time": 1682805970320,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "16109784",
+        "feed_id": "as-east",
+        "franchise_id": "318983",
+        "franchise_name": "Samurai Jack ",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1682899200,
+        "last_update": 1682806038961,
+        "live": false,
+        "participants": [
+            {
+                "character": "Samurai Jack",
+                "name": "Phil LaMarr",
+                "role": "Voice"
+            },
+            {
+                "character": "Aku",
+                "name": "Mako",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2003,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1860,
+        "scheduled_timestamp": 1682899200,
+        "season_number": "3",
+        "serial": 1682806039407,
+        "series_id": "343621",
+        "series_name": "Samurai Jack",
+        "show_duration": 1860,
+        "show_id": "1056875726",
+        "show_timestamp": 1682899200,
+        "status": "estimated",
+        "summary": "Aku leads Jack to a graveyard where the dead begin to rise. An evil spirit takes over Jack's sword, leading Jack to defend himself against his own weapon. When Aku gets hold of the sword, Jack fears he's finally met his end.",
+        "title": "XXX",
+        "title_id": "434835",
+        "tv_rating": "TV-Y7-FV"
     }
 ]
