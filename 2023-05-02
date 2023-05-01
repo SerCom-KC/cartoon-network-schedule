@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1683000000,
-        "last_update": 1682906855216,
+        "last_update": 1682912477529,
         "live": false,
         "participants": [
             {
@@ -57,7 +57,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683000000,
         "season_number": "4",
-        "serial": 1682906855836,
+        "serial": 1682912476850,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -294,6 +294,73 @@
         "summary": "To make a little girl's wish come true, the team must visit the Wishing Well in Fantasy Forest.",
         "title": "Make a Wish and Blow",
         "title_id": "2171999",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1A4DX",
+        "create_time": 1682912477529,
+        "episode_in_season": "3",
+        "episode_number": "S8:E03",
+        "external_id": "16143070",
+        "feed_id": "as-east",
+        "franchise_id": "377032",
+        "franchise_name": "Aqua Unit Patrol Squad 1",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1683005400,
+        "last_update": 1682912477529,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "George Lowe",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1683005400,
+        "season_number": "8",
+        "serial": 1682912476850,
+        "series_id": "847246",
+        "series_name": "Aqua Unit Patrol Squad 1",
+        "show_duration": 900,
+        "show_id": "1056455736",
+        "show_timestamp": 1683005400,
+        "status": "estimated",
+        "summary": "In this very special episode of Aqua Unit Patrol Squad 1, Carl's drinking problem comes to an ugly head.",
+        "title": "Intervention",
+        "title_id": "846829",
         "tv_rating": "TV-14"
     }
 ]
