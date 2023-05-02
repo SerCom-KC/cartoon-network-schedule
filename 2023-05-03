@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1683086400,
-        "last_update": 1682993886393,
+        "last_update": 1682999474672,
         "live": false,
         "participants": [
             {
@@ -57,7 +57,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1683086400,
         "season_number": "4",
-        "serial": 1682993886091,
+        "serial": 1682999474888,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1803,
@@ -233,7 +233,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1683090000,
-        "last_update": 1682997383520,
+        "last_update": 1682999474672,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -242,7 +242,7 @@
         "scheduled_duration": 909,
         "scheduled_timestamp": 1683090000,
         "season_number": "4",
-        "serial": 1682997383121,
+        "serial": 1682999474888,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 909,
@@ -274,7 +274,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1683090900,
-        "last_update": 1682997383520,
+        "last_update": 1682999474672,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -283,7 +283,7 @@
         "scheduled_duration": 915,
         "scheduled_timestamp": 1683090900,
         "season_number": "4",
-        "serial": 1682997383121,
+        "serial": 1682999474888,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 915,
@@ -293,6 +293,141 @@
         "summary": "Sometimes it's not as easy as \"ordering online\".",
         "title": "The Missing Package",
         "title_id": "2172001",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "1C98D",
+        "create_time": 1682999474672,
+        "episode_in_season": "5",
+        "episode_number": "S8:E05",
+        "external_id": "16143136",
+        "feed_id": "as-east",
+        "franchise_id": "377032",
+        "franchise_name": "Aqua Unit Patrol Squad 1",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1683091800,
+        "last_update": 1682999474672,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "George Lowe",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1683091800,
+        "season_number": "8",
+        "serial": 1682999474888,
+        "series_id": "847246",
+        "series_name": "Aqua Unit Patrol Squad 1",
+        "show_duration": 902,
+        "show_id": "1056455978",
+        "show_timestamp": 1683091800,
+        "status": "estimated",
+        "summary": "Shake succumbs to predatory lending and the possibility of having his skull ripped out of his head.",
+        "title": "The Creditor",
+        "title_id": "846830",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1A4ME",
+        "create_time": 1682999474672,
+        "episode_in_season": "6",
+        "episode_number": "S8:E06",
+        "external_id": "16143137",
+        "feed_id": "as-east",
+        "franchise_id": "377032",
+        "franchise_name": "Aqua Unit Patrol Squad 1",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1683092700,
+        "last_update": 1682999474672,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "George Lowe",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 903,
+        "scheduled_timestamp": 1683092700,
+        "season_number": "8",
+        "serial": 1682999474888,
+        "series_id": "847246",
+        "series_name": "Aqua Unit Patrol Squad 1",
+        "show_duration": 903,
+        "show_id": "1056455990",
+        "show_timestamp": 1683092700,
+        "status": "estimated",
+        "summary": "In a world where a vampire inducing virus has decimated mankind, the Aqua Unit Patrol Squad 1 may have stumbled upon a cure.",
+        "title": "Vampirus",
+        "title_id": "846831",
         "tv_rating": "TV-14"
     }
 ]
