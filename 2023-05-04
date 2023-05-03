@@ -447,7 +447,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1683180000,
-        "last_update": 1683086585211,
+        "last_update": 1683098064528,
         "live": false,
         "participants": [
             {
@@ -518,7 +518,7 @@
         "scheduled_duration": 909,
         "scheduled_timestamp": 1683180000,
         "season_number": "7",
-        "serial": 1683086584433,
+        "serial": 1683098064300,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 909,
@@ -796,7 +796,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1683185400,
-        "last_update": 1683093121321,
+        "last_update": 1683098064528,
         "live": false,
         "participants": [
             {
@@ -907,7 +907,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1683185400,
         "season_number": "1",
-        "serial": 1683093120963,
+        "serial": 1683098064300,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1805,
@@ -982,7 +982,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1683189000,
-        "last_update": 1683096761983,
+        "last_update": 1683098064528,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -991,7 +991,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683189000,
         "season_number": "6",
-        "serial": 1683096761539,
+        "serial": 1683098064300,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -1002,5 +1002,52 @@
         "title": "The Beast with a Billion Backs Part 2",
         "title_id": "2161609",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3GNWX",
+        "create_time": 1683098018967,
+        "episode_in_season": "2",
+        "episode_number": "S7:E02",
+        "external_id": "16129643",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1683190800,
+        "last_update": 1683098064528,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1683190800,
+        "season_number": "7",
+        "serial": 1683098064300,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1055720249",
+        "show_timestamp": 1683190800,
+        "status": "estimated",
+        "summary": "Teddy organizes a day trip on his refurbished boat in an effort to impress his ex-wife, Denise. Meanwhile, Tina attempts to show that she is responsible enough for a cell phone by taking care of Bob's chalkboard eraser from the restaurant.",
+        "summary_long": "Teddy organizes a day trip on his newly refurbished boat in an effort to impress his ex-wife, Denise. Meanwhile, Tina attempts to show that she is responsible enough for a cell phone by taking care of Bob's prized chalkboard eraser from the restaurant. Can both Teddy and Tina prove themselves?",
+        "title": "Sea Me Now",
+        "title_id": "2132972",
+        "tv_rating": "TV-PG"
     }
 ]
