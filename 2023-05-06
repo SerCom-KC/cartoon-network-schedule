@@ -88,7 +88,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1683349200,
-        "last_update": 1683256678290,
+        "last_update": 1683266717150,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -96,7 +96,7 @@
         "runtime_minutes": 45,
         "scheduled_duration": 3600,
         "scheduled_timestamp": 1683349200,
-        "serial": 1683256677780,
+        "serial": 1683266716817,
         "series_name": "",
         "show_duration": 3600,
         "show_id": "1055724287",
@@ -410,7 +410,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1683358200,
-        "last_update": 1683264759034,
+        "last_update": 1683266717150,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -419,7 +419,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683358200,
         "season_number": "6",
-        "serial": 1683264758391,
+        "serial": 1683266716817,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -429,6 +429,46 @@
         "summary": "When Leela loses her cool over some redneck bullies, Farnsworth orders her to wear an electrical collar to help control her temper; and Bender loses his mind over Dungeons and Dragons.",
         "title": "Bender's Game Part 1",
         "title_id": "2161612",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "12VXM0",
+        "create_time": 1683266632114,
+        "episode_in_season": "10",
+        "episode_number": "S6:E10",
+        "external_id": "16129565",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1683360000,
+        "last_update": 1683266632114,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1683360000,
+        "season_number": "6",
+        "serial": 1683266631498,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1056486358",
+        "show_timestamp": 1683360000,
+        "status": "estimated",
+        "summary": "When doctors can't get through to Bender, they order a robotomy.",
+        "title": "Bender's Game Part 2",
+        "title_id": "2161613",
         "tv_rating": "TV-14"
     }
 ]
