@@ -273,7 +273,7 @@
             "Animation"
         ],
         "guide_timestamp": 1683354600,
-        "last_update": 1683261118462,
+        "last_update": 1683262969423,
         "live": false,
         "participants": [
             {
@@ -309,7 +309,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683354600,
         "season_number": "4",
-        "serial": 1683261117915,
+        "serial": 1683262969028,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -319,6 +319,75 @@
         "summary": "Miracle of life broh. Whole family in this one broh.",
         "title": "Childrick of Mort",
         "title_id": "2206494",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "C5YD0",
+        "create_time": 1683262969423,
+        "episode_in_season": "10",
+        "episode_number": "S4:E10",
+        "external_id": "16143190",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1683356400,
+        "last_update": 1683263315861,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1683356400,
+        "season_number": "4",
+        "serial": 1683263315293,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1056486336",
+        "show_timestamp": 1683356400,
+        "status": "estimated",
+        "summary": "Parenting is crazy broh. Stuff straight disappearin in this one.",
+        "title": "Star Mort Rickturn of the Jerri",
+        "title_id": "2206495",
         "tv_rating": "TV-14"
     }
 ]
