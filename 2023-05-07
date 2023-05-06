@@ -450,7 +450,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1683446400,
-        "last_update": 1683353038890,
+        "last_update": 1683363597637,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -459,7 +459,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683446400,
         "season_number": "7",
-        "serial": 1683353038429,
+        "serial": 1683363597835,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -530,7 +530,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1683450000,
-        "last_update": 1683359673845,
+        "last_update": 1683363597637,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -539,7 +539,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683450000,
         "season_number": "2",
-        "serial": 1683359673255,
+        "serial": 1683363597835,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -569,7 +569,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1683451800,
-        "last_update": 1683359673845,
+        "last_update": 1683363597637,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -578,7 +578,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683451800,
         "season_number": "2",
-        "serial": 1683359673255,
+        "serial": 1683363597835,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -606,7 +606,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1683453600,
-        "last_update": 1683362990614,
+        "last_update": 1683363597637,
         "live": false,
         "participants": [
             {
@@ -647,7 +647,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683453600,
         "season_number": "2",
-        "serial": 1683362989975,
+        "serial": 1683363597835,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 1800,
@@ -675,7 +675,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1683455400,
-        "last_update": 1683362990614,
+        "last_update": 1683363597637,
         "live": false,
         "participants": [
             {
@@ -716,7 +716,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683455400,
         "season_number": "2",
-        "serial": 1683362989975,
+        "serial": 1683363597835,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 1800,
@@ -726,6 +726,75 @@
         "summary": "The Tape: Gumball and Darwin fail to make some instant homemade movie classics. The Sweaters: Gumball and Darwin's reputation is challenged and they really couldn't care less...",
         "title": "The Tape/The Sweaters",
         "title_id": "2000123",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1VDVX",
+        "create_time": 1683363421098,
+        "episode_number": "37",
+        "external_id": "16129865",
+        "feed_id": "as-east",
+        "franchise_id": "376453",
+        "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1683457200,
+        "last_update": 1683363597637,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1683457200,
+        "season_number": "2",
+        "serial": 1683363597835,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 1800,
+        "show_id": "1055718480",
+        "show_timestamp": 1683457200,
+        "status": "estimated",
+        "summary": "The Internet: Gumball accidentally uploads a video of himself, and then demands The Internet take it down...personally! The Plan: The Watterson kids come up with a fool-proof plan to save their mom, but is it Gumball-proof?",
+        "title": "The Internet/The Plan",
+        "title_id": "2000124",
         "tv_rating": "TV-Y7-FV"
     }
 ]
