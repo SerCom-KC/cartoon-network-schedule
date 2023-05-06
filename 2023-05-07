@@ -3370,7 +3370,7 @@
             "Animation"
         ],
         "guide_timestamp": 1683503100,
-        "last_update": 1683411473320,
+        "last_update": 1683414765120,
         "live": false,
         "participants": [
             {
@@ -3416,7 +3416,7 @@
         "scheduled_duration": 1877,
         "scheduled_timestamp": 1683503100,
         "season_number": "1",
-        "serial": 1683411473335,
+        "serial": 1683414764100,
         "series_id": "2267325",
         "series_name": "Unicorn: Warriors Eternal",
         "show_duration": 1877,
@@ -3503,5 +3503,117 @@
         "title": "The Awakening, Part 2",
         "title_id": "2267327",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3TT4P",
+        "create_time": 1683414765120,
+        "external_id": "16138343",
+        "feed_id": "as-east",
+        "franchise_id": "458592",
+        "franchise_name": "Adult Swim Smalls Presents",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1683506700,
+        "last_update": 1683414765120,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1683506700,
+        "season_number": "1",
+        "serial": 1683414764100,
+        "series_id": "2192788",
+        "series_name": "Adult Swim Smalls Presents: SHOP: A Pop Opera",
+        "show_duration": 900,
+        "show_id": "1058045680",
+        "show_timestamp": 1683506700,
+        "status": "estimated",
+        "summary": "An indecisive man's grocery trip is impeded by strange characters and musical ruminations.",
+        "title": "Adult Swim Smalls Presents: SHOP: A Pop Opera",
+        "title_id": "2192789",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "149DMJ",
+        "create_time": 1683414765120,
+        "episode_in_season": "1",
+        "episode_number": "S17:E01",
+        "external_id": "16129764",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1683507600,
+        "last_update": 1683414765120,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1683507600,
+        "season_number": "17",
+        "serial": 1683414764100,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1808,
+        "show_id": "1055720219",
+        "show_timestamp": 1683507600,
+        "status": "estimated",
+        "summary": "Francine becomes a realtor in Langley's world of high-end real estate, while the rest of the family sells coffee from the front yard.",
+        "title": "Langley Dollar Listings",
+        "title_id": "2342087",
+        "tv_rating": "TV-14"
     }
 ]
