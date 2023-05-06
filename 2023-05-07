@@ -1359,7 +1359,7 @@
             "Animation"
         ],
         "guide_timestamp": 1683468000,
-        "last_update": 1683374519183,
+        "last_update": 1683376259112,
         "live": false,
         "participants": [
             {
@@ -1410,7 +1410,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683468000,
         "season_number": "8",
-        "serial": 1683374519130,
+        "serial": 1683376258483,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 1800,
@@ -1421,6 +1421,86 @@
         "summary_long": "The Brain's home life is disrupted when his slacker brother Brian comes to visit. Now The Brain and Mallah have to deal with Brian's messes and keep him from ruining their big secret scheme.",
         "title": "The Brain of the Family",
         "title_id": "2409299",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "R8KD2",
+        "create_time": 1683376259112,
+        "episode_in_season": "6",
+        "episode_number": "S7:E06",
+        "external_id": "16129887",
+        "feed_id": "as-east",
+        "franchise_id": "393474",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1683469800,
+        "last_update": 1683376259112,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 13,
+        "scheduled_duration": 780,
+        "scheduled_timestamp": 1683469800,
+        "season_number": "7",
+        "serial": 1683376258483,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 780,
+        "show_id": "1055718910",
+        "show_timestamp": 1683469800,
+        "status": "estimated",
+        "summary": "When they receive a distress call from the TTG animators and artists, the Titans must tone down their actions and avoid big adventures.",
+        "title": "A Little Help Please",
+        "title_id": "2239488",
         "tv_rating": "TV-PG"
     }
 ]
