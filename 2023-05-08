@@ -4962,7 +4962,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1683583200,
-        "last_update": 1683491415905,
+        "last_update": 1683495378020,
         "live": false,
         "participants": [
             {
@@ -5028,7 +5028,7 @@
         "scheduled_duration": 158,
         "scheduled_timestamp": 1683583110,
         "season_number": "2",
-        "serial": 1683491415550,
+        "serial": 1683495378325,
         "series_id": "2106724",
         "series_name": "Lamput",
         "show_duration": 158,
@@ -5217,7 +5217,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1683585000,
-        "last_update": 1683491415905,
+        "last_update": 1683495378310,
         "live": false,
         "participants": [
             {
@@ -5248,7 +5248,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683585000,
         "season_number": "1",
-        "serial": 1683491415550,
+        "serial": 1683495378637,
         "series_id": "2168685",
         "series_name": "Scooby-Doo and Guess Who?",
         "show_duration": 1800,
@@ -5260,5 +5260,86 @@
         "title": "Now You Sia, Now You Don't!",
         "title_id": "2168698",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "161XGH",
+        "create_time": 1683495058400,
+        "episode_in_season": "7",
+        "episode_number": "S6:E07",
+        "external_id": "16129042",
+        "feed_id": "as-east",
+        "franchise_id": "359714",
+        "franchise_name": "King Of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1683586800,
+        "last_update": 1683495378310,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1683586800,
+        "season_number": "6",
+        "serial": 1683495378637,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "1056632859",
+        "show_timestamp": 1683586800,
+        "status": "estimated",
+        "summary": "Hank is chosen to carry the Olympic torch through Arlen.",
+        "title": "Torch Song Hillogy",
+        "title_id": "731359",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "161X00",
+        "create_time": 1683495058400,
+        "episode_in_season": "8",
+        "episode_number": "S6:E08",
+        "external_id": "16129062",
+        "feed_id": "as-east",
+        "franchise_id": "359714",
+        "franchise_name": "King Of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1683588600,
+        "last_update": 1683495378310,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1683588600,
+        "season_number": "6",
+        "serial": 1683495378637,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "1056632964",
+        "show_timestamp": 1683588600,
+        "status": "estimated",
+        "summary": "Hank tries to win the Renaissance Faire propane account by getting Peggy to work at the Faire.  But, when Peggy is sentenced to the stocks for protesting the treatment of female employees, Hank must joust to defend his wife's honor.",
+        "title": "Joust like a Woman",
+        "title_id": "731362",
+        "tv_rating": "TV-PG"
     }
 ]
