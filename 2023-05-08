@@ -3193,7 +3193,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1683557100,
-        "last_update": 1683465924437,
+        "last_update": 1683473536220,
         "live": false,
         "participants": [
             {
@@ -3259,7 +3259,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1683557085,
         "season_number": "1",
-        "serial": 1683465923835,
+        "serial": 1683473536108,
         "series_id": "2141710",
         "series_name": "Total Dramarama",
         "show_duration": 900,
@@ -3588,7 +3588,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1683562500,
-        "last_update": 1683469321852,
+        "last_update": 1683473536528,
         "live": false,
         "participants": [
             {
@@ -3619,7 +3619,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1683562518,
         "season_number": "2",
-        "serial": 1683469321132,
+        "serial": 1683473536483,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 900,
@@ -3708,7 +3708,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1683564300,
-        "last_update": 1683472640338,
+        "last_update": 1683473536528,
         "live": false,
         "participants": [
             {
@@ -3739,7 +3739,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1683564335,
         "season_number": "2",
-        "serial": 1683472639611,
+        "serial": 1683473536483,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 900,
@@ -3768,7 +3768,7 @@
             "Animation"
         ],
         "guide_timestamp": 1683565200,
-        "last_update": 1683472640338,
+        "last_update": 1683473536528,
         "live": false,
         "participants": [
             {
@@ -3819,7 +3819,7 @@
         "scheduled_duration": 896,
         "scheduled_timestamp": 1683565200,
         "season_number": "7",
-        "serial": 1683472639611,
+        "serial": 1683473536483,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 896,
@@ -3848,7 +3848,7 @@
             "Animation"
         ],
         "guide_timestamp": 1683566100,
-        "last_update": 1683472640338,
+        "last_update": 1683473536528,
         "live": false,
         "participants": [
             {
@@ -3899,7 +3899,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1683566096,
         "season_number": "7",
-        "serial": 1683472639611,
+        "serial": 1683473536483,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 840,
@@ -3909,6 +3909,86 @@
         "summary": "Since the commercials are the only part of the show he likes, Control Freak creates extra ads to torment the Titans.",
         "title": "We'll Be Right Back",
         "title_id": "2263321",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "17N4JR",
+        "create_time": 1683473536528,
+        "episode_in_season": "37",
+        "episode_number": "S7:E37",
+        "external_id": "16125871",
+        "feed_id": "as-east",
+        "franchise_id": "393474",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1683567000,
+        "last_update": 1683473536528,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1683567000,
+        "season_number": "7",
+        "serial": 1683473536483,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 900,
+        "show_id": "1058179056",
+        "show_timestamp": 1683567000,
+        "status": "estimated",
+        "summary": "After their package is stolen, the Titans must join a crew of porch pirates to get it back.",
+        "title": "Porch Pirates",
+        "title_id": "2263322",
         "tv_rating": "TV-PG"
     }
 ]
