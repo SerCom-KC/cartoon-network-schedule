@@ -230,7 +230,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1683608400,
-        "last_update": 1683515778494,
+        "last_update": 1683532138816,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -239,7 +239,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1683608400,
         "season_number": "4",
-        "serial": 1683515778218,
+        "serial": 1683532139167,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -955,7 +955,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1683621000,
-        "last_update": 1683528499752,
+        "last_update": 1683531650282,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -964,7 +964,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1683621000,
         "season_number": "6",
-        "serial": 1683528500063,
+        "serial": 1683531649757,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1806,
@@ -975,5 +975,98 @@
         "title": "Into the Wild Green Yonder Part 2",
         "title_id": "2161617",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3GP9P",
+        "create_time": 1683531650282,
+        "episode_in_season": "10",
+        "episode_number": "S7:E10",
+        "external_id": "16129646",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1683622800,
+        "last_update": 1683532139159,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1683622800,
+        "season_number": "7",
+        "serial": 1683532139480,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1808,
+        "show_id": "1056634848",
+        "show_timestamp": 1683622800,
+        "status": "estimated",
+        "summary": "When Gayle's cat, Mr. Business, lands himself a pet agent, Ian Amberson, Bob finds out that Linda may have been helping to fund the cat's career.",
+        "summary_long": "When Gayle's cat, Mr. Business, lands himself a pet agent, Ian Amberson, Bob finds out that Linda may have been helping to fund the cat's career. Ever the skeptic, Bob is prepared to shut it down, but learns that Mr. Business could be on the verge of his big break.",
+        "title": "There's No Business Like Mr. Business Business",
+        "title_id": "2132978",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3GP9X",
+        "create_time": 1683531650282,
+        "episode_in_season": "11",
+        "episode_number": "S7:E11",
+        "external_id": "16129671",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1683624600,
+        "last_update": 1683532139159,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1683624600,
+        "season_number": "7",
+        "serial": 1683532139480,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1056634943",
+        "show_timestamp": 1683624600,
+        "status": "estimated",
+        "summary": "Louise is put in a sticky situation when she must defend one of her biggest foes at Wagstaff during a mock trial. Meanwhile, after they're both taken in by a food scammer, Bob teams up with Jimmy Pesto to exact their revenge.",
+        "title": "A Few 'gurt Men",
+        "title_id": "2132980",
+        "tv_rating": "TV-PG"
     }
 ]
