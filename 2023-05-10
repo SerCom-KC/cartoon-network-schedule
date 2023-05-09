@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1683691200,
-        "last_update": 1683599369530,
+        "last_update": 1683603241422,
         "live": false,
         "participants": [
             {
@@ -57,7 +57,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683691200,
         "season_number": "5",
-        "serial": 1683599368790,
+        "serial": 1683603241335,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -273,7 +273,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1683695700,
-        "last_update": 1683602689363,
+        "last_update": 1683603241422,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -282,7 +282,7 @@
         "scheduled_duration": 907,
         "scheduled_timestamp": 1683695700,
         "season_number": "4",
-        "serial": 1683602688607,
+        "serial": 1683603241335,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 907,
@@ -293,5 +293,65 @@
         "title": "Your Old Man",
         "title_id": "2172008",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "S"
+        ],
+        "content_id": "1J3UG",
+        "create_time": 1683603241422,
+        "episode_in_season": "3",
+        "episode_number": "S9:E03",
+        "external_id": "16143613",
+        "feed_id": "as-east",
+        "franchise_id": "387072",
+        "franchise_name": "Aqua Something You Know Whatever",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1683696600,
+        "last_update": 1683603241422,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 921,
+        "scheduled_timestamp": 1683696600,
+        "season_number": "9",
+        "serial": 1683603241335,
+        "series_id": "896639",
+        "series_name": "Aqua Something You Know Whatever",
+        "show_duration": 921,
+        "show_id": "1056911266",
+        "show_timestamp": 1683696600,
+        "status": "estimated",
+        "summary": "Wearing Carl's amazing rock-and-roll fantasy shirt comes at a heavy price.",
+        "title": "Shirt Herpes",
+        "title_id": "896642",
+        "tv_rating": "TV-MA"
     }
 ]
