@@ -1003,7 +1003,7 @@
             "Family"
         ],
         "guide_timestamp": 1683795600,
-        "last_update": 1683703303523,
+        "last_update": 1683703766372,
         "live": false,
         "participants": [
             {
@@ -1019,7 +1019,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683795600,
         "season_number": "7",
-        "serial": 1683703302710,
+        "serial": 1683703766218,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -1029,6 +1029,52 @@
         "summary": "When Tina learns that the aquarium is in danger of closing, the Belcher children devise a scheme to keep it running. Meanwhile, Bob realizes that he could learn a thing or two from Linda's customer service skills.",
         "title": "Aquaticism",
         "title_id": "2132979",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3GPDK",
+        "create_time": 1683704005570,
+        "episode_in_season": "15",
+        "episode_number": "S7:E15",
+        "external_id": "16129673",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1683797400,
+        "last_update": 1683704005570,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1683797400,
+        "season_number": "7",
+        "serial": 1683704004822,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1056636282",
+        "show_timestamp": 1683797400,
+        "status": "estimated",
+        "summary": "When Tina is recruited by the debate team, she finds unexpected success and an even more unexpected relationship. Meanwhile, Louise and Gene convince their parents to help fund a stop-motion movie focusing on a surprising subject matter.",
+        "title": "Ain't Miss Debatin'",
+        "title_id": "2132981",
         "tv_rating": "TV-PG"
     }
 ]
