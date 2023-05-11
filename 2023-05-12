@@ -917,7 +917,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1683878400,
-        "last_update": 1683786423061,
+        "last_update": 1683788445259,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -926,7 +926,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1683878400,
         "season_number": "7",
-        "serial": 1683786423314,
+        "serial": 1683788444721,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1803,
@@ -937,5 +937,92 @@
         "title": "The Duh-Vinci Code",
         "title_id": "2161624",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "14RX70",
+        "create_time": 1683788445259,
+        "episode_in_season": "6",
+        "episode_number": "S7:E06",
+        "external_id": "16129600",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1683880200,
+        "last_update": 1683788445259,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1683880200,
+        "season_number": "7",
+        "serial": 1683788444721,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1056635176",
+        "show_timestamp": 1683880200,
+        "status": "estimated",
+        "summary": "Bender learns that he suffers from a mortal manufacturing defect.",
+        "title": "Lethal Inspection",
+        "title_id": "2161625",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3GPDP",
+        "create_time": 1683788445259,
+        "episode_in_season": "16",
+        "episode_number": "S7:E16",
+        "external_id": "16129649",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1683882000,
+        "last_update": 1683788445259,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1683882000,
+        "season_number": "7",
+        "serial": 1683788444721,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1056635259",
+        "show_timestamp": 1683882000,
+        "status": "estimated",
+        "summary": "The annual Easter egg hunt always brings out the competitive sides of Bob and Linda, but this time, the game goes awry.",
+        "summary_long": "The annual Easter egg hunt always brings out the competitive sides of Bob and Linda, but this time, the game goes awry. After the Belcher parents have a little too much fun hiding the eggs, the entire family is enlisted in finding the lone egg that is quickly rotting in its hiding place.",
+        "title": "Eggs for Days",
+        "title_id": "2132982",
+        "tv_rating": "TV-PG"
     }
 ]
