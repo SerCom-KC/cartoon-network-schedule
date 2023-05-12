@@ -293,7 +293,7 @@
             "Animation"
         ],
         "guide_timestamp": 1683957600,
-        "last_update": 1683866278396,
+        "last_update": 1683872035799,
         "live": false,
         "participants": [
             {
@@ -329,7 +329,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683957600,
         "season_number": "6",
-        "serial": 1683866277895,
+        "serial": 1683872035877,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -431,7 +431,7 @@
             "Animation"
         ],
         "guide_timestamp": 1683961200,
-        "last_update": 1683869704617,
+        "last_update": 1683872035799,
         "live": false,
         "participants": [
             {
@@ -467,7 +467,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1683961200,
         "season_number": "6",
-        "serial": 1683869704034,
+        "serial": 1683872035877,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -499,7 +499,7 @@
             "Animation"
         ],
         "guide_timestamp": 1683963000,
-        "last_update": 1683869704617,
+        "last_update": 1683872035799,
         "live": false,
         "participants": [
             {
@@ -535,7 +535,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1683963000,
         "season_number": "6",
-        "serial": 1683869704034,
+        "serial": 1683872035877,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1803,
@@ -545,6 +545,47 @@
         "summary": "Merry Rickmas, broh!",
         "title": "Ricktional Mortpoon's Rickmas Mortcation",
         "title_id": "2397943",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14RY9P",
+        "create_time": 1683872035799,
+        "episode_in_season": "9",
+        "episode_number": "S7:E09",
+        "external_id": "16129571",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1683964800,
+        "last_update": 1683872035799,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1683964800,
+        "season_number": "7",
+        "serial": 1683872035877,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1056635113",
+        "show_timestamp": 1683964800,
+        "status": "estimated",
+        "summary": "The theory of evolution is put to the test on a planet inhabited by robots.",
+        "title": "A Clockwork Origin",
+        "title_id": "2161628",
         "tv_rating": "TV-14"
     }
 ]
