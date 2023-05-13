@@ -309,7 +309,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684047600,
-        "last_update": 1683957824686,
+        "last_update": 1683964388330,
         "live": false,
         "participants": [
             {
@@ -340,7 +340,7 @@
         "scheduled_duration": 1837,
         "scheduled_timestamp": 1684047600,
         "season_number": "6",
-        "serial": 1683957824925,
+        "serial": 1683964388220,
         "series_id": "439722",
         "series_name": "The Venture Bros.",
         "show_duration": 1837,
@@ -475,7 +475,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1684053000,
-        "last_update": 1683961078203,
+        "last_update": 1683964388330,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -484,7 +484,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684053000,
         "season_number": "7",
-        "serial": 1683961077733,
+        "serial": 1683964388220,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -534,5 +534,44 @@
         "title": "The Problem with Popplers",
         "title_id": "437691",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "13CMN7",
+        "create_time": 1683964388330,
+        "episode_in_season": "19",
+        "episode_number": "S2:E19",
+        "external_id": "16143699",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1684056600,
+        "last_update": 1683964388330,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1684056600,
+        "season_number": "2",
+        "serial": 1683964388220,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1056889630",
+        "show_timestamp": 1684056600,
+        "status": "estimated",
+        "summary": "Mom wants world domination for a Mother's Day gift.",
+        "title": "Mother's Day",
+        "title_id": "437690",
+        "tv_rating": "TV-14"
     }
 ]
