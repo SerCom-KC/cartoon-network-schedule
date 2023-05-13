@@ -553,7 +553,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1684056600,
-        "last_update": 1683964388330,
+        "last_update": 1683965608639,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -562,7 +562,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684056600,
         "season_number": "2",
-        "serial": 1683964388220,
+        "serial": 1683965608129,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -573,5 +573,74 @@
         "title": "Mother's Day",
         "title_id": "437690",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1CGKK",
+        "create_time": 1683965608639,
+        "episode_number": "S1:EL17",
+        "external_id": "16130044",
+        "feed_id": "as-east",
+        "franchise_id": "376453",
+        "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1684058400,
+        "last_update": 1683965608639,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 1,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1684058400,
+        "season_number": "1",
+        "serial": 1683965608129,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "1056656424",
+        "show_timestamp": 1684058400,
+        "status": "estimated",
+        "summary": "Gumball and Darwin are invited to a high school party, and have to bring a date!",
+        "title": "The Party",
+        "title_id": "839550",
+        "tv_rating": "TV-Y7-FV"
     }
 ]
