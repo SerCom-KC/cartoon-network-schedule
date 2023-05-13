@@ -94,7 +94,7 @@
             "Animation"
         ],
         "guide_timestamp": 1684038600,
-        "last_update": 1683945796022,
+        "last_update": 1683951079702,
         "live": false,
         "participants": [
             {
@@ -125,7 +125,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684038600,
         "season_number": "2",
-        "serial": 1683945795754,
+        "serial": 1683951079873,
         "series_id": "2211157",
         "series_name": "Genndy Tartakovsky's Primal",
         "show_duration": 1800,
@@ -194,7 +194,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1684042200,
-        "last_update": 1683949616373,
+        "last_update": 1683951079702,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -203,7 +203,7 @@
         "scheduled_duration": 1814,
         "scheduled_timestamp": 1684042200,
         "season_number": "16",
-        "serial": 1683949616092,
+        "serial": 1683951079873,
         "series_id": "608007",
         "series_name": "One Piece",
         "show_duration": 1814,
@@ -214,5 +214,42 @@
         "title": "A Surprising Outcome! White Chase vs. Vergo!",
         "title_id": "2402508",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1F8DVH",
+        "create_time": 1683951079702,
+        "episode_in_season": "23",
+        "episode_number": "S8:E23",
+        "external_id": "16145903",
+        "feed_id": "as-east",
+        "franchise_id": "391933",
+        "franchise_name": "Naruto:Shippuden",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "guide_timestamp": 1684044000,
+        "last_update": 1683951079702,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1684044000,
+        "season_number": "8",
+        "serial": 1683951079873,
+        "series_id": "812206",
+        "series_name": "Naruto: Shippuden",
+        "show_duration": 1800,
+        "show_id": "1056896396",
+        "show_timestamp": 1684044000,
+        "status": "estimated",
+        "summary": "Jiraiya weakens the seal on the Nine Tails in order to help Naruto learn how to control the Tailed Beast's power.",
+        "title": "The Child of Prophecy",
+        "title_id": "2177869",
+        "tv_rating": "TV-PG"
     }
 ]
