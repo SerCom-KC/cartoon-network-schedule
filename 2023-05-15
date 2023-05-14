@@ -91,7 +91,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684124100,
-        "last_update": 1684034256907,
+        "last_update": 1684037544263,
         "live": false,
         "participants": [
             {
@@ -137,7 +137,7 @@
         "scheduled_duration": 904,
         "scheduled_timestamp": 1684124100,
         "season_number": "2",
-        "serial": 1684034256949,
+        "serial": 1684037544370,
         "series_id": "2211644",
         "series_name": "Three Busy Debras",
         "show_duration": 904,
@@ -242,7 +242,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684125900,
-        "last_update": 1684034256907,
+        "last_update": 1684037544263,
         "live": false,
         "participants": [
             {
@@ -288,7 +288,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1684125900,
         "season_number": "2",
-        "serial": 1684034256949,
+        "serial": 1684037544370,
         "series_id": "2211644",
         "series_name": "Three Busy Debras",
         "show_duration": 903,
@@ -319,7 +319,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684126800,
-        "last_update": 1684034256907,
+        "last_update": 1684037544263,
         "live": false,
         "participants": [
             {
@@ -365,7 +365,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684126800,
         "season_number": "17",
-        "serial": 1684034256949,
+        "serial": 1684037544370,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -375,6 +375,154 @@
         "summary": "Steve and Snot's friendship is put to the test when their mothers get in a fight.",
         "title": "A Roger Story",
         "title_id": "2342090",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "15KRFG",
+        "create_time": 1684037544263,
+        "episode_in_season": "6",
+        "episode_number": "S17:E06",
+        "external_id": "16129730",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1684128600,
+        "last_update": 1684037682805,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1684128600,
+        "season_number": "17",
+        "serial": 1684037682351,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "1056657546",
+        "show_timestamp": 1684128600,
+        "status": "estimated",
+        "summary": "To save a beloved restaurant from closing, Stan must bring the 1950s back to Langley.",
+        "title": "American Dad Graffito",
+        "title_id": "2342092",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "1F3Y6K",
+        "create_time": 1684037544263,
+        "episode_in_season": "4",
+        "episode_number": "S6:E04",
+        "external_id": "16129720",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1684130400,
+        "last_update": 1684037682805,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1684130400,
+        "season_number": "6",
+        "serial": 1684037682351,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1056657569",
+        "show_timestamp": 1684130400,
+        "status": "estimated",
+        "summary": "Broh I'm scared.",
+        "title": "Night Family",
+        "title_id": "2397937",
         "tv_rating": "TV-14"
     }
 ]
