@@ -16,7 +16,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684123200,
-        "last_update": 1684047389486,
+        "last_update": 1684050670627,
         "live": false,
         "participants": [
             {
@@ -62,7 +62,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1684123200,
         "season_number": "1",
-        "serial": 1684047388894,
+        "serial": 1684050670108,
         "series_id": "2211644",
         "series_name": "Three Busy Debras",
         "show_duration": 906,
@@ -397,7 +397,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684128600,
-        "last_update": 1684040826645,
+        "last_update": 1684050670627,
         "live": false,
         "participants": [
             {
@@ -443,7 +443,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1684128600,
         "season_number": "17",
-        "serial": 1684040826769,
+        "serial": 1684050670108,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1801,
@@ -477,7 +477,7 @@
             "Animation"
         ],
         "guide_timestamp": 1684130400,
-        "last_update": 1684037682805,
+        "last_update": 1684050670627,
         "live": false,
         "participants": [
             {
@@ -513,7 +513,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684130400,
         "season_number": "6",
-        "serial": 1684037682351,
+        "serial": 1684050670108,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -546,7 +546,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684132200,
-        "last_update": 1684047389859,
+        "last_update": 1684050670980,
         "live": false,
         "participants": [
             {
@@ -657,7 +657,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684132200,
         "season_number": "1",
-        "serial": 1684047389300,
+        "serial": 1684050670484,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
@@ -828,7 +828,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684135800,
-        "last_update": 1684047389859,
+        "last_update": 1684050670980,
         "live": false,
         "participants": [
             {
@@ -869,7 +869,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1684135800,
         "season_number": "2",
-        "serial": 1684047389300,
+        "serial": 1684050670484,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 900,
@@ -1001,7 +1001,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1684139400,
-        "last_update": 1684049144766,
+        "last_update": 1684050670980,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1010,7 +1010,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1684139400,
         "season_number": "2",
-        "serial": 1684049144379,
+        "serial": 1684050670484,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1805,
@@ -1038,7 +1038,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1684141200,
-        "last_update": 1684048324169,
+        "last_update": 1684050670980,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1047,7 +1047,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684141200,
         "season_number": "3",
-        "serial": 1684048323782,
+        "serial": 1684050670484,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -1057,6 +1057,45 @@
         "summary": "Dr. Zoidberg breaks into show business by making a movie with his uncle.",
         "title": "That's Lobstertainment!",
         "title_id": "437701",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "148NCY",
+        "create_time": 1684050670980,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "16143706",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1684143000,
+        "last_update": 1684050670980,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1684143000,
+        "season_number": "3",
+        "serial": 1684050670484,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1056888951",
+        "show_timestamp": 1684143000,
+        "status": "estimated",
+        "summary": "Fry quests to recover a seven-leaf clover he possessed as a child.",
+        "title": "Luck of the Fryrish",
+        "title_id": "437703",
         "tv_rating": "TV-PG"
     }
 ]
