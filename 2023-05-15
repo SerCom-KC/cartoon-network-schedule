@@ -4779,7 +4779,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684179900,
-        "last_update": 1684090635077,
+        "last_update": 1684093022429,
         "live": false,
         "participants": [
             {
@@ -4820,7 +4820,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1684179908,
         "season_number": "4",
-        "serial": 1684090634198,
+        "serial": 1684093021808,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -5174,5 +5174,145 @@
         "title": "Chrono Moss",
         "title_id": "2260165",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "153RFD",
+        "create_time": 1684093022429,
+        "episode_in_season": "20",
+        "episode_number": "S4:E20",
+        "external_id": "16126099",
+        "feed_id": "as-east",
+        "franchise_id": "446892",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1684185300,
+        "last_update": 1684093022429,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1684185315,
+        "season_number": "4",
+        "serial": 1684093021808,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "1057144973",
+        "show_timestamp": 1684185315,
+        "status": "estimated",
+        "summary": "Craig helps Raj sneak his grandmother away to the Creek.",
+        "title": "Grandma Smugglers",
+        "title_id": "2260173",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1F8N2Y",
+        "create_time": 1684093022429,
+        "episode_in_season": "11",
+        "episode_number": "S8:E11",
+        "external_id": "16131338",
+        "feed_id": "as-east",
+        "franchise_id": "393474",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1684186200,
+        "last_update": 1684093022429,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 911,
+        "scheduled_timestamp": 1684186200,
+        "season_number": "8",
+        "serial": 1684093021808,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 911,
+        "show_id": "1057145031",
+        "show_timestamp": 1684186200,
+        "status": "estimated",
+        "summary": "Robin threatens to fire Dr. Light unless he starts coming up with more inventive schemes.",
+        "title": "Arthur",
+        "title_id": "2409317",
+        "tv_rating": "TV-PG"
     }
 ]
