@@ -4568,7 +4568,7 @@
             "Family"
         ],
         "guide_timestamp": 1684177200,
-        "last_update": 1684084070827,
+        "last_update": 1684086172712,
         "live": false,
         "participants": [
             {
@@ -4679,7 +4679,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684177200,
         "season_number": "1",
-        "serial": 1684084071154,
+        "serial": 1684086172164,
         "series_id": "2239398",
         "series_name": "We Baby Bears",
         "show_duration": 1800,
@@ -4690,5 +4690,76 @@
         "title": "The Little Fallen Star",
         "title_id": "2417914",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "2K1CM",
+        "create_time": 1684086172712,
+        "episode_in_season": "7",
+        "episode_number": "S4:E07",
+        "external_id": "16125776",
+        "feed_id": "as-east",
+        "franchise_id": "376453",
+        "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1684179000,
+        "last_update": 1684086172712,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1684179000,
+        "season_number": "4",
+        "serial": 1684086172164,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "1057144775",
+        "show_timestamp": 1684179000,
+        "status": "estimated",
+        "summary": "When they find Anais training herself for a brutal showdown, Gumball and Darwin realize their sister is being pestered at school by Billy. They try to teach her how to resolve the problem peacefully but Billy has other ideas.",
+        "summary_long": "When they find Anais training herself for a brutal showdown, Gumball and Darwin realize their sister is being pestered at school by an annoying kid, Billy. They try to teach her how to resolve the problem peacefully but Billy has other ideas.",
+        "title": "The Pest",
+        "title_id": "2062751",
+        "tv_rating": "TV-Y7-FV"
     }
 ]
