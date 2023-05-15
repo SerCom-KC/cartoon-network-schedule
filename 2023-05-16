@@ -90,7 +90,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684211400,
-        "last_update": 1684120538910,
+        "last_update": 1684130605811,
         "live": false,
         "participants": [
             {
@@ -201,7 +201,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1684211400,
         "season_number": "1",
-        "serial": 1684120537823,
+        "serial": 1684130605112,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1805,
@@ -643,7 +643,7 @@
             "Animation"
         ],
         "guide_timestamp": 1684218600,
-        "last_update": 1684125578344,
+        "last_update": 1684130606660,
         "live": false,
         "participants": [
             {
@@ -679,7 +679,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684218600,
         "season_number": "1",
-        "serial": 1684125577878,
+        "serial": 1684130605615,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -713,7 +713,7 @@
             "Animation"
         ],
         "guide_timestamp": 1684220400,
-        "last_update": 1684127317796,
+        "last_update": 1684130862242,
         "live": false,
         "participants": [
             {
@@ -749,7 +749,7 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1684220400,
         "season_number": "1",
-        "serial": 1684127317503,
+        "serial": 1684130861585,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1802,
@@ -782,7 +782,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684222200,
-        "last_update": 1684129398790,
+        "last_update": 1684130606660,
         "live": false,
         "participants": [
             {
@@ -893,7 +893,7 @@
         "scheduled_duration": 1808,
         "scheduled_timestamp": 1684222200,
         "season_number": "1",
-        "serial": 1684129398294,
+        "serial": 1684130605615,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1808,
@@ -903,6 +903,47 @@
         "summary": "It's time for the team to head to beautiful Primm, Nevada and attend the Super Bowl for global snack food companies, \"CrackerCon.\"",
         "title": "CrackerCon",
         "title_id": "2388934",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14RYKJ",
+        "create_time": 1684130606660,
+        "episode_in_season": "13",
+        "episode_number": "S7:E13",
+        "external_id": "16129573",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1684224000,
+        "last_update": 1684130606660,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1684224000,
+        "season_number": "7",
+        "serial": 1684130605615,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1057145569",
+        "show_timestamp": 1684224000,
+        "status": "estimated",
+        "summary": "In this festive three-part episode, the Planet Express crew races to preserve the traditional practices of the classic holidays of Xmas, Robanukah and Kwanzaa.",
+        "title": "Holiday Spectacular",
+        "title_id": "2161632",
         "tv_rating": "TV-14"
     }
 ]
