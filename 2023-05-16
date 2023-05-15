@@ -90,7 +90,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684211400,
-        "last_update": 1684117937266,
+        "last_update": 1684120538910,
         "live": false,
         "participants": [
             {
@@ -201,7 +201,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1684211400,
         "season_number": "1",
-        "serial": 1684117936913,
+        "serial": 1684120537823,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1805,
@@ -211,6 +211,89 @@
         "summary": "It's time for the team to head to beautiful Primm, Nevada and attend the Super Bowl for global snack food companies, \"CrackerCon.\"",
         "title": "CrackerCon",
         "title_id": "2388934",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "473TR",
+        "create_time": 1684120417634,
+        "episode_in_season": "16",
+        "episode_number": "S4:E16",
+        "external_id": "16143710",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1684213200,
+        "last_update": 1684120538910,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 915,
+        "scheduled_timestamp": 1684213200,
+        "season_number": "4",
+        "serial": 1684120537823,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 915,
+        "show_id": "1057145428",
+        "show_timestamp": 1684213200,
+        "status": "estimated",
+        "summary": "Can the team bring holiday cheer to someone who's given up on life?",
+        "title": "The Christmas Episode",
+        "title_id": "2172013",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "48R11",
+        "create_time": 1684120538910,
+        "episode_in_season": "18",
+        "episode_number": "S4:E18",
+        "external_id": "16143718",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1684214100,
+        "last_update": 1684120538910,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 917,
+        "scheduled_timestamp": 1684214100,
+        "season_number": "4",
+        "serial": 1684120537823,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 917,
+        "show_id": "1057145439",
+        "show_timestamp": 1684214100,
+        "status": "estimated",
+        "summary": "For once (and surely the only time), Mike's attorney needs Mike's help.",
+        "title": "The Stein Way",
+        "title_id": "2172015",
         "tv_rating": "TV-14"
     }
 ]
