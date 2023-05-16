@@ -234,7 +234,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1684299600,
-        "last_update": 1684206372669,
+        "last_update": 1684208301550,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -243,7 +243,7 @@
         "scheduled_duration": 922,
         "scheduled_timestamp": 1684299600,
         "season_number": "4",
-        "serial": 1684206372404,
+        "serial": 1684208301739,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 922,
@@ -253,6 +253,102 @@
         "summary": "An unspeakable tragedy haunts Pat and his brother Nat and their Clam Shack.",
         "title": "Clam Bam Thank You Ma'am",
         "title_id": "2172016",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "4DJ78",
+        "create_time": 1684208301550,
+        "episode_in_season": "20",
+        "episode_number": "S4:E20",
+        "external_id": "16143719",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1684300500,
+        "last_update": 1684208301550,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 951,
+        "scheduled_timestamp": 1684300500,
+        "season_number": "4",
+        "serial": 1684208301739,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 951,
+        "show_id": "1057144660",
+        "show_timestamp": 1684300500,
+        "status": "estimated",
+        "summary": "Every time a bell rings\u2026",
+        "title": "You Can't Go Home Again",
+        "title_id": "2172017",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L"
+        ],
+        "content_id": "1XKXP",
+        "create_time": 1684208301550,
+        "episode_in_season": "1",
+        "episode_number": "S10:E01",
+        "external_id": "16143728",
+        "feed_id": "as-east",
+        "franchise_id": "397292",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1684301400,
+        "last_update": 1684208301550,
+        "live": false,
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 930,
+        "scheduled_timestamp": 1684301400,
+        "season_number": "10",
+        "serial": 1684208301739,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 930,
+        "show_id": "1057144686",
+        "show_timestamp": 1684301400,
+        "status": "estimated",
+        "summary": "After a health scare lands Shake in the hospital, he decides to get into shape - by chugging an illegal fitness beverage.",
+        "title": "Muscles",
+        "title_id": "2005991",
         "tv_rating": "TV-14"
     }
 ]
