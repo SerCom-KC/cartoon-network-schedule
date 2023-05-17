@@ -87,7 +87,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684384200,
-        "last_update": 1684291574314,
+        "last_update": 1684293038276,
         "live": false,
         "participants": [
             {
@@ -198,7 +198,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684384200,
         "season_number": "1",
-        "serial": 1684291574166,
+        "serial": 1684293037765,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
@@ -209,5 +209,45 @@
         "title": "Casa de Darby",
         "title_id": "2388933",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "34F5V",
+        "create_time": 1684293038276,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "16143712",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1684386000,
+        "last_update": 1684293038276,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1684386000,
+        "season_number": "3",
+        "serial": 1684293037765,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 901,
+        "show_id": "1057142710",
+        "show_timestamp": 1684386000,
+        "status": "estimated",
+        "summary": "When you have nowhere to go maybe still don't go to Deezy's.",
+        "title": "Help a Brother Out",
+        "title_id": "2117684",
+        "tv_rating": "TV-14"
     }
 ]
