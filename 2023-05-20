@@ -619,7 +619,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1684569600,
-        "last_update": 1684476183671,
+        "last_update": 1684477975213,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -628,7 +628,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684569600,
         "season_number": "8",
-        "serial": 1684476183682,
+        "serial": 1684477974974,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -638,6 +638,46 @@
         "summary": "The crew uncovers a dark secret concerning a covert mission undertaken by the Professor and Dr. Zoidberg many years earlier.",
         "title": "The Tip of the Zoidberg",
         "title_id": "2161637",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "14KYWR",
+        "create_time": 1684477975213,
+        "episode_in_season": "11",
+        "episode_number": "S8:E11",
+        "external_id": "16129607",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1684571400,
+        "last_update": 1684477975213,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1684571400,
+        "season_number": "8",
+        "serial": 1684477974974,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1805,
+        "show_id": "1057160090",
+        "show_timestamp": 1684571400,
+        "status": "estimated",
+        "summary": "Fry's sneezing reintroduces the common cold to the world of the future, with devastating consequences.",
+        "title": "Cold Warriors",
+        "title_id": "2161643",
         "tv_rating": "TV-14"
     }
 ]
