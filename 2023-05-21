@@ -1304,7 +1304,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684672200,
-        "last_update": 1684578110444,
+        "last_update": 1684581269663,
         "live": false,
         "participants": [
             {
@@ -1345,7 +1345,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1684672200,
         "season_number": "4",
-        "serial": 1684578110100,
+        "serial": 1684581270047,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 840,
@@ -1427,5 +1427,131 @@
         "title": "The Wicked",
         "title_id": "2062760",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3JXC7",
+        "create_time": 1684581269663,
+        "episode_in_season": "30",
+        "episode_number": "S6:E30",
+        "external_id": "16129954",
+        "feed_id": "as-east",
+        "franchise_id": "376453",
+        "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1684673400,
+        "last_update": 1684581269663,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 11,
+        "scheduled_duration": 660,
+        "scheduled_timestamp": 1684673325,
+        "season_number": "6",
+        "serial": 1684581270047,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 660,
+        "show_id": "1059141329",
+        "show_timestamp": 1684673325,
+        "status": "estimated",
+        "summary": "Anais and Jamie form an unlikely partnership when they're accused of a crime they didn't commit.",
+        "summary_long": "Anais and school psycho Jamie are accused of the same techno-crime. They are forced to team up to discover the real culprit in order to prove their innocence. After solving the case, they realize that they have more in common than they thought...",
+        "title": "The Buddy",
+        "title_id": "2167831",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3VR4T",
+        "create_time": 1684581269986,
+        "episode_in_season": "11",
+        "episode_number": "S2:E11",
+        "external_id": "16129955",
+        "feed_id": "as-east",
+        "franchise_id": "446892",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1684674000,
+        "last_update": 1684581269986,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1684674000,
+        "season_number": "2",
+        "serial": 1684581270406,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "1057228212",
+        "show_timestamp": 1684674000,
+        "status": "estimated",
+        "summary": "The circle game wreaks havoc on the Creek, so Craig forms a council to restore order.",
+        "title": "Council of the Creek",
+        "title_id": "2186681",
+        "tv_rating": "TV-Y7"
     }
 ]
