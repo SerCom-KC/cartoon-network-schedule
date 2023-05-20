@@ -951,7 +951,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684667400,
-        "last_update": 1684576371881,
+        "last_update": 1684581750592,
         "live": false,
         "participants": [
             {
@@ -992,7 +992,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1684667425,
         "season_number": "4",
-        "serial": 1684576371678,
+        "serial": 1684581750225,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -1021,7 +1021,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684668600,
-        "last_update": 1684577377212,
+        "last_update": 1684581750592,
         "live": false,
         "participants": [
             {
@@ -1062,7 +1062,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1684668600,
         "season_number": "4",
-        "serial": 1684577377557,
+        "serial": 1684581750225,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 840,
@@ -1234,7 +1234,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684670700,
-        "last_update": 1684577377212,
+        "last_update": 1684581750592,
         "live": false,
         "participants": [
             {
@@ -1275,7 +1275,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1684670805,
         "season_number": "4",
-        "serial": 1684577377557,
+        "serial": 1684581750225,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -1445,7 +1445,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684673400,
-        "last_update": 1684581269663,
+        "last_update": 1684581750592,
         "live": false,
         "participants": [
             {
@@ -1486,7 +1486,7 @@
         "scheduled_duration": 660,
         "scheduled_timestamp": 1684673325,
         "season_number": "6",
-        "serial": 1684581270047,
+        "serial": 1684581750225,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 660,
@@ -1516,7 +1516,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684674000,
-        "last_update": 1684581269986,
+        "last_update": 1684581750911,
         "live": false,
         "participants": [
             {
@@ -1542,7 +1542,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1684674000,
         "season_number": "2",
-        "serial": 1684581270406,
+        "serial": 1684581750600,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -1552,6 +1552,61 @@
         "summary": "The circle game wreaks havoc on the Creek, so Craig forms a council to restore order.",
         "title": "Council of the Creek",
         "title_id": "2186681",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3YCWN",
+        "create_time": 1684581750911,
+        "episode_in_season": "21",
+        "episode_number": "S2:E21",
+        "external_id": "16129955",
+        "feed_id": "as-east",
+        "franchise_id": "446892",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1684674900,
+        "last_update": 1684581750911,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1684674870,
+        "season_number": "2",
+        "serial": 1684581750600,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "1057228213",
+        "show_timestamp": 1684674870,
+        "status": "estimated",
+        "summary": "JP invites his friends over for a sleepover, but it happens to be on the night of a huge game of Flashlight Tag in the Creek!",
+        "title": "Sleepover at JP's",
+        "title_id": "2193799",
         "tv_rating": "TV-Y7"
     }
 ]
