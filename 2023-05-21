@@ -3752,7 +3752,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684699200,
-        "last_update": 1684607239650,
+        "last_update": 1684624085247,
         "live": false,
         "participants": [
             {
@@ -3813,7 +3813,7 @@
         "scheduled_duration": 60,
         "scheduled_timestamp": 1684699149,
         "season_number": "1",
-        "serial": 1684607239228,
+        "serial": 1684624084992,
         "series_id": "2106724",
         "series_name": "Lamput",
         "show_duration": 60,
@@ -4103,7 +4103,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1684713600,
-        "last_update": 1684622290873,
+        "last_update": 1684624085583,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -4112,7 +4112,7 @@
         "scheduled_duration": 1903,
         "scheduled_timestamp": 1684713600,
         "season_number": "3",
-        "serial": 1684622290443,
+        "serial": 1684624085575,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1903,
@@ -4143,7 +4143,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1684715400,
-        "last_update": 1684622290873,
+        "last_update": 1684624085583,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -4152,7 +4152,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684715400,
         "season_number": "3",
-        "serial": 1684622290443,
+        "serial": 1684624085575,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -4163,5 +4163,83 @@
         "title": "The Cryonic Woman",
         "title_id": "437695",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "16MX48",
+        "create_time": 1684624085583,
+        "episode_in_season": "7",
+        "episode_number": "S17:E07",
+        "external_id": "16129766",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1684717200,
+        "last_update": 1684624085583,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1684717200,
+        "season_number": "17",
+        "serial": 1684624085575,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1057648701",
+        "show_timestamp": 1684717200,
+        "status": "estimated",
+        "summary": "Francine is jealous of the new and improved Klaus and vows to take him down.",
+        "title": "Beyond the Alcove or: How I Learned to Stop Worrying and Love Klaus",
+        "title_id": "2342093",
+        "tv_rating": "TV-14"
     }
 ]
