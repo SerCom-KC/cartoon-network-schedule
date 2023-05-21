@@ -17,7 +17,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684728000,
-        "last_update": 1684636545223,
+        "last_update": 1684647438073,
         "live": false,
         "participants": [
             {
@@ -58,7 +58,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1684728000,
         "season_number": "2",
-        "serial": 1684636544999,
+        "serial": 1684647437654,
         "series_id": "2224723",
         "series_name": "YOLO",
         "show_duration": 905,
@@ -344,7 +344,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684733400,
-        "last_update": 1684642128284,
+        "last_update": 1684647438390,
         "live": false,
         "participants": [
             {
@@ -390,7 +390,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684733400,
         "season_number": "17",
-        "serial": 1684642128080,
+        "serial": 1684647438154,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -422,7 +422,7 @@
             "Animation"
         ],
         "guide_timestamp": 1684735200,
-        "last_update": 1684642128284,
+        "last_update": 1684647438390,
         "live": false,
         "participants": [
             {
@@ -458,7 +458,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684735200,
         "season_number": "6",
-        "serial": 1684642128080,
+        "serial": 1684647438154,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -634,7 +634,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684738800,
-        "last_update": 1684645408070,
+        "last_update": 1684647438390,
         "live": false,
         "participants": [
             {
@@ -745,7 +745,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1684738800,
         "season_number": "1",
-        "serial": 1684645407823,
+        "serial": 1684647438154,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1801,
@@ -755,6 +755,78 @@
         "summary": "It's time for the team to head to beautiful Primm, Nevada and attend the Super Bowl for global snack food companies, \"CrackerCon.\"",
         "title": "CrackerCon",
         "title_id": "2388934",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "1F5D4G",
+        "create_time": 1684647438390,
+        "episode_in_season": "8",
+        "episode_number": "S2:E08",
+        "external_id": "16144203",
+        "feed_id": "as-east",
+        "franchise_id": "483312",
+        "franchise_name": "YOLO: Silver Destiny",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1684740600,
+        "last_update": 1684647438390,
+        "live": false,
+        "participants": [
+            {
+                "character": "Sarah",
+                "name": "Sarah Bishop",
+                "role": "Voice"
+            },
+            {
+                "character": "Rachel",
+                "name": "Todor Manojlovic",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Emma Fitzsimons",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Greta Lee Jackson",
+                "role": "Executive Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 907,
+        "scheduled_timestamp": 1684740600,
+        "season_number": "2",
+        "serial": 1684647438154,
+        "series_id": "2224723",
+        "series_name": "YOLO",
+        "show_duration": 907,
+        "show_id": "1057229215",
+        "show_timestamp": 1684740600,
+        "status": "estimated",
+        "summary": "Sarah posts a picture of her garden that makes her an overnight Internet sensation and causes a paradigm shift. Rachel's jealousy drives her into the arms of dead Mega-Bilby. Can the girls ever reconcile?",
+        "summary_long": "Sarah posts a picture of her garden that makes her an overnight Internet sensation and causes a paradigm shift. Rachel's jealousy drives her into the arms of dead Mega-Bilby. Can the girls ever reconcile? And now that Lucas has all the ingredients for his love potion, will it work?",
+        "title": "This is LITERALLY the Finale Part I",
+        "title_id": "2412387",
         "tv_rating": "TV-14"
     }
 ]
