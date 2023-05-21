@@ -3583,7 +3583,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684769400,
-        "last_update": 1684682673720,
+        "last_update": 1684704442494,
         "live": false,
         "participants": [
             {
@@ -3614,7 +3614,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1684769400,
         "season_number": "4",
-        "serial": 1684682673591,
+        "serial": 1684704442285,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -5258,7 +5258,7 @@
             "Animation"
         ],
         "guide_timestamp": 1684791900,
-        "last_update": 1684702136989,
+        "last_update": 1684704443106,
         "live": false,
         "participants": [
             {
@@ -5309,7 +5309,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1684791900,
         "season_number": "8",
-        "serial": 1684702137164,
+        "serial": 1684704442895,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -5460,5 +5460,45 @@
         "title": "Too Many Dummies!",
         "title_id": "2196863",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "148JMD",
+        "create_time": 1684704443106,
+        "episode_in_season": "10",
+        "episode_number": "S8:E10",
+        "external_id": "16129050",
+        "feed_id": "as-east",
+        "franchise_id": "359714",
+        "franchise_name": "King Of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1684796400,
+        "last_update": 1684704443106,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2004,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1684796400,
+        "season_number": "8",
+        "serial": 1684704442895,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1801,
+        "show_id": "1059346627",
+        "show_timestamp": 1684796400,
+        "status": "estimated",
+        "summary": "A new Strickland Propane employee revels in making off-color jokes, driving Hank crazy.",
+        "title": "That's What She Said",
+        "title_id": "731500",
+        "tv_rating": "TV-PG"
     }
 ]
