@@ -4854,7 +4854,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684786500,
-        "last_update": 1684694606801,
+        "last_update": 1684698806032,
         "live": false,
         "participants": [
             {
@@ -4895,7 +4895,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1684786495,
         "season_number": "6",
-        "serial": 1684694606548,
+        "serial": 1684698805872,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -5067,7 +5067,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684789200,
-        "last_update": 1684697885373,
+        "last_update": 1684698806032,
         "live": false,
         "participants": [
             {
@@ -5093,7 +5093,7 @@
         "scheduled_duration": 915,
         "scheduled_timestamp": 1684789200,
         "season_number": "1",
-        "serial": 1684697884995,
+        "serial": 1684698805872,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 915,
@@ -5177,7 +5177,7 @@
             "Animation"
         ],
         "guide_timestamp": 1684791000,
-        "last_update": 1684698244611,
+        "last_update": 1684698806032,
         "live": false,
         "participants": [
             {
@@ -5228,7 +5228,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1684791000,
         "season_number": "8",
-        "serial": 1684698244732,
+        "serial": 1684698805872,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -5239,6 +5239,86 @@
         "summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home. The teens will deal with everyday issues of adolescence including laundry contests and quests to construct the perfect sandwich.",
         "title": "Plot Holes",
         "title_id": "2409319",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1FC9NV",
+        "create_time": 1684698806032,
+        "episode_in_season": "14",
+        "episode_number": "S8:E14",
+        "external_id": "16131340",
+        "feed_id": "as-east",
+        "franchise_id": "393474",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1684791900,
+        "last_update": 1684698806032,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1684791900,
+        "season_number": "8",
+        "serial": 1684698805872,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 900,
+        "show_id": "1058199809",
+        "show_timestamp": 1684791900,
+        "status": "estimated",
+        "summary": "Worried that he's only special because of his utility belt, Robin donates it to a thrift store.",
+        "title": "Utility Belt",
+        "title_id": "2409321",
         "tv_rating": "TV-PG"
     }
 ]
