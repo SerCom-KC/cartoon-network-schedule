@@ -344,7 +344,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684733400,
-        "last_update": 1684640186315,
+        "last_update": 1684642128284,
         "live": false,
         "participants": [
             {
@@ -390,7 +390,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684733400,
         "season_number": "17",
-        "serial": 1684640186075,
+        "serial": 1684642128080,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -400,6 +400,74 @@
         "summary": "Wheels and the Legman try to hunt down the perpetrators who destroyed Steve's secret swimming hole. Meanwhile, Klaus helps an aging Principal Lewis reclaim his confidence.",
         "title": "The Curious Case of the Old Hole",
         "title_id": "2342097",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "1F4GGG",
+        "create_time": 1684642128284,
+        "episode_in_season": "6",
+        "episode_number": "S6:E06",
+        "external_id": "16129721",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1684735200,
+        "last_update": 1684642128284,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1684735200,
+        "season_number": "6",
+        "serial": 1684642128080,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1057229149",
+        "show_timestamp": 1684735200,
+        "status": "estimated",
+        "summary": "They're back, broh.",
+        "title": "JuRicksic Mort",
+        "title_id": "2397939",
         "tv_rating": "TV-14"
     }
 ]
