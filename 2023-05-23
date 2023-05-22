@@ -427,7 +427,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684819800,
-        "last_update": 1684727935675,
+        "last_update": 1684737175503,
         "live": false,
         "participants": [
             {
@@ -453,7 +453,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1684819800,
         "season_number": "11",
-        "serial": 1684727934938,
+        "serial": 1684737175031,
         "series_id": "2059880",
         "series_name": "Aqua Teen Hunger Force Forever",
         "show_duration": 906,
@@ -902,7 +902,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1684828800,
-        "last_update": 1684735219265,
+        "last_update": 1684737235418,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -911,7 +911,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684828800,
         "season_number": "9",
-        "serial": 1684735219052,
+        "serial": 1684737235239,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -921,6 +921,47 @@
         "summary": "Bender fathers a child with the office soda machine.",
         "title": "The Bots and the Bees",
         "title_id": "2161646",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14X3H8",
+        "create_time": 1684737175503,
+        "episode_in_season": "2",
+        "episode_number": "S9:E02",
+        "external_id": "16129609",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1684830600,
+        "last_update": 1684737235418,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1684830600,
+        "season_number": "9",
+        "serial": 1684737235239,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1803,
+        "show_id": "1058201392",
+        "show_timestamp": 1684830600,
+        "status": "estimated",
+        "summary": "An ancient prophecy predicts the world will end in the year 3012.",
+        "title": "A Farewell to Arms",
+        "title_id": "2161647",
         "tv_rating": "TV-14"
     }
 ]
