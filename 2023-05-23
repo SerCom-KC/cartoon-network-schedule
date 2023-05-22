@@ -19,7 +19,7 @@
             "Animation"
         ],
         "guide_timestamp": 1684814400,
-        "last_update": 1684721607722,
+        "last_update": 1684738859312,
         "live": false,
         "participants": [
             {
@@ -55,7 +55,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1684814400,
         "season_number": "2",
-        "serial": 1684721607586,
+        "serial": 1684738859028,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1803,
@@ -759,7 +759,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684827000,
-        "last_update": 1684733956249,
+        "last_update": 1684738859628,
         "live": false,
         "participants": [
             {
@@ -870,7 +870,7 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1684827000,
         "season_number": "1",
-        "serial": 1684733956028,
+        "serial": 1684738859358,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1802,
@@ -943,7 +943,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1684830600,
-        "last_update": 1684737235418,
+        "last_update": 1684738859628,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -952,7 +952,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1684830600,
         "season_number": "9",
-        "serial": 1684737235239,
+        "serial": 1684738859358,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1803,
@@ -963,5 +963,51 @@
         "title": "A Farewell to Arms",
         "title_id": "2161647",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3NTGK",
+        "create_time": 1684738859628,
+        "episode_in_season": "9",
+        "episode_number": "S8:E09",
+        "external_id": "16129656",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1684832400,
+        "last_update": 1684738859628,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1684832400,
+        "season_number": "8",
+        "serial": 1684738859358,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1801,
+        "show_id": "1059349385",
+        "show_timestamp": 1684832400,
+        "status": "estimated",
+        "summary": "When a new playground game is introduced, the school's social hierarchy is turned upside-down and Gene disapproves. Meanwhile, Linda fills in for the local library storyteller and pulls out all the stops to perfect her storyteller persona.",
+        "title": "Y Tu Ga-Ga Tambien ",
+        "title_id": "2171449",
+        "tv_rating": "TV-PG"
     }
 ]
