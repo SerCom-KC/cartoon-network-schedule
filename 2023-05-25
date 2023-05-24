@@ -433,7 +433,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684992600,
-        "last_update": 1684900147126,
+        "last_update": 1684901687049,
         "live": false,
         "participants": [
             {
@@ -459,7 +459,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1684992600,
         "season_number": "11",
-        "serial": 1684900146925,
+        "serial": 1684901686797,
         "series_id": "2059880",
         "series_name": "Aqua Teen Hunger Force Forever",
         "show_duration": 903,
@@ -525,6 +525,84 @@
         "summary": "Something is very odd about Master Shake after he returns from a long, mysterious journey with a talking rabbit.",
         "title": "Rabbit, not Rabbot",
         "title_id": "2059926",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3H0V1",
+        "create_time": 1684901687049,
+        "episode_in_season": "7",
+        "episode_number": "S11:E07",
+        "external_id": "16159234",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1684994400,
+        "last_update": 1684901687049,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1684994400,
+        "season_number": "11",
+        "serial": 1684901686797,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1058202736",
+        "show_timestamp": 1684994400,
+        "status": "estimated",
+        "summary": "When Stan is given the task of putting together the CIA calendar, Hayley attempts to destroy it. Meanwhile, Roger gets a Discover card and fakes his death to get out of paying the enormous balance.",
+        "title": "The Devil Wears a Lapel Pin",
+        "title_id": "2041481",
         "tv_rating": "TV-14"
     }
 ]
