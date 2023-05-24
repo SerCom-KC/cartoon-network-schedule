@@ -547,7 +547,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1684994400,
-        "last_update": 1684902294328,
+        "last_update": 1684903787468,
         "live": false,
         "participants": [
             {
@@ -593,7 +593,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1684994400,
         "season_number": "11",
-        "serial": 1684902294216,
+        "serial": 1684903787201,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -603,6 +603,75 @@
         "summary": "When Stan is given the task of putting together the CIA calendar, Hayley attempts to destroy it. Meanwhile, Roger gets a Discover card and fakes his death to get out of paying the enormous balance.",
         "title": "The Devil Wears a Lapel Pin",
         "title_id": "2041481",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "2M11M",
+        "create_time": 1684903787468,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "16143769",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1684996200,
+        "last_update": 1684903787468,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1684996200,
+        "season_number": "2",
+        "serial": 1684903787201,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1058202783",
+        "show_timestamp": 1684996200,
+        "status": "estimated",
+        "summary": "Things go ham in this one broh. They all don mussed up this time. The whole family mussed up broh.",
+        "title": "The Wedding Squanchers",
+        "title_id": "2060772",
         "tv_rating": "TV-14"
     }
 ]
