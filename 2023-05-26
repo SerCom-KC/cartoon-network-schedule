@@ -499,7 +499,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685080800,
-        "last_update": 1684995604759,
+        "last_update": 1685000235085,
         "live": false,
         "participants": [
             {
@@ -545,7 +545,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685080800,
         "season_number": "11",
-        "serial": 1684995603697,
+        "serial": 1685000234841,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -965,6 +965,53 @@
         "summary_long": "The Belcher kids go to Outdoor Education only to have it rain, but Tina doesn't let the inclement weather get in the way of her having a nature-piphany, with the help of a hermit living in the woods. Meanwhile, Bob and Linda experience what it's like to be empty-nesters.",
         "title": "Go Tina on the Mountain  ",
         "title_id": "2171455",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "3RT9J",
+        "create_time": 1685000235085,
+        "episode_in_season": "16",
+        "episode_number": "S8:E16",
+        "external_id": "16129684",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1685093400,
+        "last_update": 1685000235085,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1685093400,
+        "season_number": "8",
+        "serial": 1685000234841,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1059349873",
+        "show_timestamp": 1685093400,
+        "status": "estimated",
+        "summary": "After forgetting Bob's birthday, Linda and the kids attempt to plan a last-minute surprise party. In order to plan the party though, Linda asks Hugo if Bob can go with him while he's doing restaurant health inspections.",
+        "title": "Are You There Bob? It's Me Birthday ",
+        "title_id": "2171456",
         "tv_rating": "TV-PG"
     }
 ]
