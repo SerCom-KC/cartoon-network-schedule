@@ -1023,7 +1023,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685172600,
-        "last_update": 1685079763268,
+        "last_update": 1685082114779,
         "live": false,
         "participants": [
             {
@@ -1134,7 +1134,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685172600,
         "season_number": "1",
-        "serial": 1685079762809,
+        "serial": 1685082114077,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
@@ -1144,6 +1144,47 @@
         "summary": "When Matt's computer is destroyed by an internet prankster named Zane, he takes a job at Royal Crackers to save enough money to buy a replacement.",
         "title": "Craftopia",
         "title_id": "2388935",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14VR62",
+        "create_time": 1685082114779,
+        "episode_in_season": "9",
+        "episode_number": "S9:E09",
+        "external_id": "16129583",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1685174400,
+        "last_update": 1685082114779,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1685174400,
+        "season_number": "9",
+        "serial": 1685082114077,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1804,
+        "show_id": "1058207429",
+        "show_timestamp": 1685174400,
+        "status": "estimated",
+        "summary": "Bender embarks on a quest for the meaning of life after discovering that as a robot he lacks free will.",
+        "title": "Free Will Hunting",
+        "title_id": "2161654",
         "tv_rating": "TV-14"
     }
 ]
