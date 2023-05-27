@@ -4723,7 +4723,7 @@
             "Drama"
         ],
         "guide_timestamp": 1685233800,
-        "last_update": 1685142235399,
+        "last_update": 1685147175959,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -4732,7 +4732,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1685233800,
         "season_number": "3",
-        "serial": 1685142235114,
+        "serial": 1685147175875,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1801,
@@ -4764,7 +4764,7 @@
             "Animation"
         ],
         "guide_timestamp": 1685235600,
-        "last_update": 1685144772684,
+        "last_update": 1685147175959,
         "live": false,
         "participants": [
             {
@@ -4800,7 +4800,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685235600,
         "season_number": "2",
-        "serial": 1685144772259,
+        "serial": 1685147175875,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -4832,7 +4832,7 @@
             "Animation"
         ],
         "guide_timestamp": 1685237400,
-        "last_update": 1685144772684,
+        "last_update": 1685147175959,
         "live": false,
         "participants": [
             {
@@ -4868,7 +4868,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685237400,
         "season_number": "2",
-        "serial": 1685144772259,
+        "serial": 1685147175875,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -4878,6 +4878,75 @@
         "summary": "Morty goofs this time broh and now they gotta chill out and wait. Jerry and Summer explore their father daughter relationship too broh.",
         "title": "Look Who's Purging Now",
         "title_id": "2060773",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "2M11M",
+        "create_time": 1685147175959,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "16144163",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1685239200,
+        "last_update": 1685147175959,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1841,
+        "scheduled_timestamp": 1685239200,
+        "season_number": "2",
+        "serial": 1685147175875,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1841,
+        "show_id": "1058203714",
+        "show_timestamp": 1685239200,
+        "status": "estimated",
+        "summary": "Things go ham in this one broh. They all don mussed up this time. The whole family mussed up broh.",
+        "title": "The Wedding Squanchers",
+        "title_id": "2060772",
         "tv_rating": "TV-14"
     }
 ]
