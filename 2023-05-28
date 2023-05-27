@@ -1864,7 +1864,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685287800,
-        "last_update": 1685194045925,
+        "last_update": 1685194882882,
         "live": false,
         "participants": [
             {
@@ -1890,7 +1890,7 @@
         "scheduled_duration": 780,
         "scheduled_timestamp": 1685287800,
         "season_number": "3",
-        "serial": 1685194046064,
+        "serial": 1685194882717,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 780,
@@ -1900,6 +1900,61 @@
         "summary": "Craig enters a food competition in the Creek but worries he may be out of his league.",
         "title": "Afterschool Snackdown",
         "title_id": "2227876",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "GY0V7",
+        "create_time": 1685194882882,
+        "episode_in_season": "14",
+        "episode_number": "S3:E14",
+        "external_id": "16129994",
+        "feed_id": "as-east",
+        "franchise_id": "446892",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685288100,
+        "last_update": 1685194882882,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1685288249,
+        "season_number": "3",
+        "serial": 1685194882717,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "1060251014",
+        "show_timestamp": 1685288249,
+        "status": "estimated",
+        "summary": "Craig finds himself being chased by a monster in the Creek that's straight out of the movies!",
+        "title": "Creature Feature",
+        "title_id": "2227877",
         "tv_rating": "TV-Y7"
     }
 ]
