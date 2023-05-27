@@ -93,7 +93,7 @@
             "Animation"
         ],
         "guide_timestamp": 1685248200,
-        "last_update": 1685155695951,
+        "last_update": 1685172414501,
         "live": false,
         "participants": [
             {
@@ -139,7 +139,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685248200,
         "season_number": "1",
-        "serial": 1685155695535,
+        "serial": 1685172414176,
         "series_id": "2267325",
         "series_name": "Unicorn: Warriors Eternal",
         "show_duration": 1800,
@@ -646,7 +646,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1685262600,
-        "last_update": 1685170439154,
+        "last_update": 1685171923083,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -655,7 +655,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1685262600,
         "season_number": "9",
-        "serial": 1685170438822,
+        "serial": 1685171922824,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1805,
@@ -666,5 +666,42 @@
         "title": "31st Century Fox",
         "title_id": "2161656",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "120T78",
+        "create_time": 1685171923083,
+        "episode_in_season": "9",
+        "episode_number": "S1:E09",
+        "external_id": "16144182",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1685264400,
+        "last_update": 1685171923083,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1685264400,
+        "season_number": "1",
+        "serial": 1685171922824,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1059350237",
+        "show_timestamp": 1685264400,
+        "status": "estimated",
+        "summary": "Bender is condemned to robot hell.",
+        "title": "Hell Is Other Robots",
+        "title_id": "437541",
+        "tv_rating": "TV-PG"
     }
 ]
