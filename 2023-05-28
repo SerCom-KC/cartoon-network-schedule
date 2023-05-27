@@ -3170,7 +3170,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685307600,
-        "last_update": 1685214126358,
+        "last_update": 1685215672858,
         "live": false,
         "participants": [
             {
@@ -3201,7 +3201,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1685307600,
         "season_number": "3",
-        "serial": 1685214125837,
+        "serial": 1685215672002,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 840,
@@ -3271,6 +3271,66 @@
         "summary": "Craig puts a plan into motion to save the Creek.",
         "title": "Capture The Flag Part IV: The Plan",
         "title_id": "2244270",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "RX0NJ",
+        "create_time": 1685215672858,
+        "episode_in_season": "37",
+        "episode_number": "S3:E37",
+        "external_id": "16130020",
+        "feed_id": "as-east",
+        "franchise_id": "446892",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685309400,
+        "last_update": 1685215672858,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 8,
+        "scheduled_duration": 1121,
+        "scheduled_timestamp": 1685309400,
+        "season_number": "3",
+        "serial": 1685215672002,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 1121,
+        "show_id": "1060251016",
+        "show_timestamp": 1685309400,
+        "status": "estimated",
+        "summary": "It all comes down to this, the fate of the Creek is at stake!",
+        "title": "Capture The Flag Part V: The Game",
+        "title_id": "2242212",
         "tv_rating": "TV-Y7"
     }
 ]
