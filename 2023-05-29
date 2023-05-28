@@ -1873,7 +1873,7 @@
             "Family"
         ],
         "guide_timestamp": 1685359800,
-        "last_update": 1685283842881,
+        "last_update": 1685288546510,
         "live": false,
         "participants": [
             {
@@ -1984,7 +1984,7 @@
         "scheduled_duration": 120,
         "scheduled_timestamp": 1685359674,
         "season_number": "2",
-        "serial": 1685283842377,
+        "serial": 1685288546638,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
         "show_duration": 120,
@@ -2275,7 +2275,7 @@
             "Family"
         ],
         "guide_timestamp": 1685361600,
-        "last_update": 1685270824237,
+        "last_update": 1685288546510,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2284,7 +2284,7 @@
         "scheduled_duration": 240,
         "scheduled_timestamp": 1685361600,
         "season_number": "1",
-        "serial": 1685270823974,
+        "serial": 1685288546638,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 240,
@@ -3569,7 +3569,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685372400,
-        "last_update": 1685280666243,
+        "last_update": 1685288547123,
         "live": false,
         "participants": [
             {
@@ -3600,7 +3600,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1685372400,
         "season_number": "4",
-        "serial": 1685280665879,
+        "serial": 1685288547247,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -3809,7 +3809,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685376000,
-        "last_update": 1685287389121,
+        "last_update": 1685288547123,
         "live": false,
         "participants": [
             {
@@ -3840,7 +3840,7 @@
         "scheduled_duration": 915,
         "scheduled_timestamp": 1685376000,
         "season_number": "4",
-        "serial": 1685287388959,
+        "serial": 1685288547247,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 915,
@@ -3869,7 +3869,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685376900,
-        "last_update": 1685287389121,
+        "last_update": 1685288547123,
         "live": false,
         "participants": [
             {
@@ -3900,7 +3900,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1685376915,
         "season_number": "4",
-        "serial": 1685287388959,
+        "serial": 1685288547247,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -3929,7 +3929,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685377800,
-        "last_update": 1685287483643,
+        "last_update": 1685288547123,
         "live": false,
         "participants": [
             {
@@ -3960,7 +3960,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1685377800,
         "season_number": "4",
-        "serial": 1685287483489,
+        "serial": 1685288547247,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -3989,7 +3989,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685378700,
-        "last_update": 1685287483643,
+        "last_update": 1685288547123,
         "live": false,
         "participants": [
             {
@@ -4020,7 +4020,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1685378675,
         "season_number": "4",
-        "serial": 1685287483489,
+        "serial": 1685288547247,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 905,
@@ -4150,6 +4150,66 @@
         "summary": "Bored on a rainy day, Craig, Kelsey and JP put together their broken board games and find themselves transported into the ultimate gaming challenge.",
         "title": "Bored Games",
         "title_id": "2266833",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "18FT8P",
+        "create_time": 1685288547123,
+        "episode_in_season": "23",
+        "episode_number": "S4:E23",
+        "external_id": "16138802",
+        "feed_id": "as-east",
+        "franchise_id": "446892",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685381400,
+        "last_update": 1685288547123,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1685381400,
+        "season_number": "4",
+        "serial": 1685288547247,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "1059582465",
+        "show_timestamp": 1685381400,
+        "status": "estimated",
+        "summary": "Craig finds himself with an unlikely house guest when Jason the Junior Forest Scout sleeps over.",
+        "title": "Scoutguest",
+        "title_id": "2266836",
         "tv_rating": "TV-Y7"
     }
 ]
