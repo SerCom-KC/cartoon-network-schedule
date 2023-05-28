@@ -1659,7 +1659,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685358000,
-        "last_update": 1685265454132,
+        "last_update": 1685267543344,
         "live": false,
         "participants": [
             {
@@ -1725,7 +1725,7 @@
         "scheduled_duration": 120,
         "scheduled_timestamp": 1685357902,
         "season_number": "2",
-        "serial": 1685265453853,
+        "serial": 1685267543086,
         "series_id": "2106724",
         "series_name": "Lamput",
         "show_duration": 120,
@@ -1754,7 +1754,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685358000,
-        "last_update": 1685265454132,
+        "last_update": 1685267543344,
         "live": false,
         "participants": [
             {
@@ -1785,7 +1785,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1685358000,
         "season_number": "4",
-        "serial": 1685265453853,
+        "serial": 1685267543086,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 840,
@@ -1814,7 +1814,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685358900,
-        "last_update": 1685266558998,
+        "last_update": 1685267543344,
         "live": false,
         "participants": [
             {
@@ -1845,7 +1845,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1685358830,
         "season_number": "4",
-        "serial": 1685266558710,
+        "serial": 1685267543086,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 840,
@@ -2014,7 +2014,7 @@
             "Family"
         ],
         "guide_timestamp": 1685359800,
-        "last_update": 1685266558998,
+        "last_update": 1685267543344,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2023,7 +2023,7 @@
         "scheduled_duration": 203,
         "scheduled_timestamp": 1685359800,
         "season_number": "1",
-        "serial": 1685266558710,
+        "serial": 1685267543086,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 203,
@@ -2071,6 +2071,118 @@
         "summary": "Bounce along in the bus all over town with this favorite nursery rhyme!",
         "title": "Wheels on the Bus",
         "title_id": "2357149",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "152D2R",
+        "create_time": 1685267543344,
+        "episode_in_season": "38",
+        "episode_number": "S1:E38",
+        "external_id": "16159410",
+        "feed_id": "as-east",
+        "franchise_id": "477192",
+        "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1685360100,
+        "last_update": 1685267543344,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 5,
+        "scheduled_duration": 300,
+        "scheduled_timestamp": 1685360201,
+        "season_number": "1",
+        "serial": 1685267543086,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 300,
+        "show_id": "1059622776",
+        "show_timestamp": 1685360201,
+        "status": "estimated",
+        "summary": "It's bath time for the sheep! But we'll have to catch him first! Sing along with this familiar nursery rhyme!",
+        "title": "Baa Baa Black Sheep",
+        "title_id": "2357153",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1F3T08",
+        "create_time": 1685267543344,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16138760",
+        "feed_id": "as-east",
+        "franchise_id": "481332",
+        "franchise_name": "Batwheels",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1685360700,
+        "last_update": 1685267543344,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 9,
+        "scheduled_duration": 659,
+        "scheduled_timestamp": 1685360700,
+        "season_number": "1",
+        "serial": 1685267543086,
+        "series_id": "2267111",
+        "series_name": "Batwheels",
+        "show_duration": 659,
+        "show_id": "1060847503",
+        "show_timestamp": 1685360700,
+        "status": "estimated",
+        "summary": "After snagging an ultra-fuel-cell upgrade, Penguin's Ducky Boat suddenly becomes the fastest vehicle in Gotham. Confident leader Bam must rally the Batwheels to stop the turbo-Ducky!",
+        "title": "Stop That Ducky!",
+        "title_id": "2267114",
         "tv_rating": "TV-Y"
     }
 ]
