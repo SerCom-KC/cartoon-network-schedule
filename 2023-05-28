@@ -3350,7 +3350,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685310600,
-        "last_update": 1685217852043,
+        "last_update": 1685233695043,
         "live": false,
         "participants": [
             {
@@ -3381,7 +3381,7 @@
         "scheduled_duration": 720,
         "scheduled_timestamp": 1685310491,
         "season_number": "4",
-        "serial": 1685217851737,
+        "serial": 1685233694250,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 720,
@@ -3563,7 +3563,7 @@
             "Animation"
         ],
         "guide_timestamp": 1685314800,
-        "last_update": 1685224413521,
+        "last_update": 1685233695398,
         "live": false,
         "participants": [
             {
@@ -3609,7 +3609,7 @@
         "scheduled_duration": 1864,
         "scheduled_timestamp": 1685314800,
         "season_number": "1",
-        "serial": 1685224413359,
+        "serial": 1685233694719,
         "series_id": "2267325",
         "series_name": "Unicorn: Warriors Eternal",
         "show_duration": 1864,
@@ -3834,7 +3834,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685322000,
-        "last_update": 1685228694328,
+        "last_update": 1685233695398,
         "live": false,
         "participants": [
             {
@@ -3880,7 +3880,7 @@
         "scheduled_duration": 1808,
         "scheduled_timestamp": 1685322000,
         "season_number": "17",
-        "serial": 1685228694108,
+        "serial": 1685233694719,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1808,
@@ -3967,6 +3967,84 @@
         "summary": "Francine's newfound friendship with a frog brings excitement to the whole Smith household. Unfortunately, it drives their neighbor, Greg, crazy.",
         "title": "The Three Fs",
         "title_id": "2342099",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "1F3FXT",
+        "create_time": 1685232335859,
+        "episode_in_season": "12",
+        "episode_number": "S17:E12",
+        "external_id": "16129752",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1685325600,
+        "last_update": 1685233695398,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1685325600,
+        "season_number": "17",
+        "serial": 1685233694719,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1058206497",
+        "show_timestamp": 1685325600,
+        "status": "estimated",
+        "summary": "Steve goes on a class trip to Philadelphia, where he hopes to fall in love.",
+        "title": "Smooshed: A Love Story",
+        "title_id": "2342100",
         "tv_rating": "TV-14"
     }
 ]
