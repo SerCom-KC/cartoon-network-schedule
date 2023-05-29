@@ -2514,7 +2514,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685452500,
-        "last_update": 1685360658973,
+        "last_update": 1685387207401,
         "live": false,
         "participants": [
             {
@@ -2530,7 +2530,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1685452443,
         "season_number": "3",
-        "serial": 1685360658750,
+        "serial": 1685387207513,
         "series_id": "2062459",
         "series_name": "New Looney Tunes",
         "show_duration": 840,
@@ -4091,7 +4091,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685465100,
-        "last_update": 1685372671291,
+        "last_update": 1685387207801,
         "live": false,
         "participants": [
             {
@@ -4122,7 +4122,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1685465081,
         "season_number": "1",
-        "serial": 1685372671017,
+        "serial": 1685387207872,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 900,
@@ -4152,7 +4152,7 @@
             "Animation"
         ],
         "guide_timestamp": 1685466000,
-        "last_update": 1685375220370,
+        "last_update": 1685387207801,
         "live": false,
         "participants": [
             {
@@ -4203,7 +4203,7 @@
         "scheduled_duration": 960,
         "scheduled_timestamp": 1685466000,
         "season_number": "3",
-        "serial": 1685375219946,
+        "serial": 1685387207872,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 960,
@@ -4311,7 +4311,7 @@
             "Animation"
         ],
         "guide_timestamp": 1685467800,
-        "last_update": 1685375953290,
+        "last_update": 1685387207801,
         "live": false,
         "participants": [
             {
@@ -4362,7 +4362,7 @@
         "scheduled_duration": 1699,
         "scheduled_timestamp": 1685467800,
         "season_number": "2",
-        "serial": 1685375952994,
+        "serial": 1685387207872,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 1699,
@@ -5386,7 +5386,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685478600,
-        "last_update": 1685386142363,
+        "last_update": 1685387208123,
         "live": false,
         "participants": [
             {
@@ -5427,7 +5427,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1685478600,
         "season_number": "6",
-        "serial": 1685386141942,
+        "serial": 1685387208263,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 903,
@@ -5457,7 +5457,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685479500,
-        "last_update": 1685386142363,
+        "last_update": 1685387208123,
         "live": false,
         "participants": [
             {
@@ -5498,7 +5498,7 @@
         "scheduled_duration": 910,
         "scheduled_timestamp": 1685479488,
         "season_number": "6",
-        "serial": 1685386141942,
+        "serial": 1685387208263,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 910,
@@ -5510,5 +5510,65 @@
         "title": "The Web",
         "title_id": "2171538",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1F19CV",
+        "create_time": 1685387208123,
+        "episode_in_season": "40",
+        "episode_number": "S4:E40",
+        "external_id": "16159344",
+        "feed_id": "as-east",
+        "franchise_id": "446892",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685480400,
+        "last_update": 1685387208123,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 925,
+        "scheduled_timestamp": 1685480400,
+        "season_number": "4",
+        "serial": 1685387208263,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 925,
+        "show_id": "1059587041",
+        "show_timestamp": 1685480400,
+        "status": "estimated",
+        "summary": "Craig and his friends venture into an ancient cavern in their quest for the Heart of the Forest, and find something far more sinister.",
+        "title": "Left in the Dark",
+        "title_id": "2266851",
+        "tv_rating": "TV-Y7"
     }
 ]
