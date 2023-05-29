@@ -20,7 +20,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685332800,
-        "last_update": 1685277553419,
+        "last_update": 1685323842351,
         "live": false,
         "participants": [
             {
@@ -131,7 +131,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1685332800,
         "season_number": "1",
-        "serial": 1685277553284,
+        "serial": 1685323841914,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1801,
@@ -164,7 +164,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685334600,
-        "last_update": 1685281160566,
+        "last_update": 1685322073078,
         "live": false,
         "participants": [
             {
@@ -275,12 +275,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685334600,
         "season_number": "1",
-        "serial": 1685281160540,
+        "serial": 1685322073113,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1800,
+        "show_duration": 1798,
         "show_id": "1058206713",
-        "show_timestamp": 1685334600,
+        "show_timestamp": 1685334601,
         "status": "estimated",
         "summary": "When Theo's old charismatic friend and former bandmate shows up unexpectedly at the Hornsby Manor, Stebe is thrown into a full-blown identity crisis.",
         "title": "Stebe",
@@ -5852,5 +5852,151 @@
         "title": "Hot Scoomp",
         "title_id": "2238759",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "TPRY5",
+        "create_time": 1685323477112,
+        "episode_in_season": "12",
+        "episode_number": "S16:E12",
+        "external_id": "16129294",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1685415600,
+        "last_update": 1685324074189,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1685415600,
+        "season_number": "16",
+        "serial": 1685324073986,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1059583508",
+        "show_timestamp": 1685415600,
+        "status": "estimated",
+        "summary": "Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck.",
+        "title": "Lumberjerk",
+        "title_id": "2238761",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "3VWXC",
+        "create_time": 1685324074189,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "16144262",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1685417400,
+        "last_update": 1685324074189,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1685417400,
+        "season_number": "3",
+        "serial": 1685324073986,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1059583555",
+        "show_timestamp": 1685417400,
+        "status": "estimated",
+        "summary": "This one is real good broh. It has action and heroes.",
+        "title": "Vindicators 3: The Return of Worldender",
+        "title_id": "2116833",
+        "tv_rating": "TV-MA"
     }
 ]
