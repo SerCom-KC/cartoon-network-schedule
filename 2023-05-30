@@ -332,7 +332,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685423700,
-        "last_update": 1685331808761,
+        "last_update": 1685333316347,
         "live": false,
         "participants": [
             {
@@ -403,7 +403,7 @@
         "scheduled_duration": 922,
         "scheduled_timestamp": 1685423700,
         "season_number": "9",
-        "serial": 1685331809021,
+        "serial": 1685333316037,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 922,
@@ -434,7 +434,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685424600,
-        "last_update": 1685331358571,
+        "last_update": 1685333316347,
         "live": false,
         "participants": [
             {
@@ -460,7 +460,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1685424600,
         "season_number": "11",
-        "serial": 1685331358290,
+        "serial": 1685333316037,
         "series_id": "2059880",
         "series_name": "Aqua Teen Hunger Force Forever",
         "show_duration": 900,
@@ -471,5 +471,137 @@
         "title": "Hospice",
         "title_id": "2059927",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "17Y9DK",
+        "create_time": 1685333316347,
+        "episode_in_season": "9",
+        "episode_number": "S11:E09",
+        "external_id": "16144220",
+        "feed_id": "as-east",
+        "franchise_id": "418932",
+        "franchise_name": "Aqua Teen Hunger Force Forever",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1685425500,
+        "last_update": 1685333316347,
+        "live": false,
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1685425500,
+        "season_number": "11",
+        "serial": 1685333316037,
+        "series_id": "2059880",
+        "series_name": "Aqua Teen Hunger Force Forever",
+        "show_duration": 910,
+        "show_id": "1059583759",
+        "show_timestamp": 1685425500,
+        "status": "estimated",
+        "summary": "In the final installment of Aqua Teen Hunger Force, an all-star cast that has entertained millions finally makes its last, definitive, and finalmostest lastly final curtain call.",
+        "title": "The Greatest Story Ever Told",
+        "title_id": "2059930",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "19KWDD",
+        "create_time": 1685333316347,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "16165406",
+        "feed_id": "as-east",
+        "franchise_id": "336141",
+        "franchise_name": "Boondocks, The",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1685426400,
+        "last_update": 1685333316347,
+        "live": false,
+        "participants": [
+            {
+                "character": "Riley Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Huey Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Robert Freeman",
+                "name": "John Witherspoon",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Ruckus",
+                "name": "Gary Anthony Williams",
+                "role": "Voice"
+            },
+            {
+                "character": "Tom Dubois",
+                "name": "Cedric Yarbrough",
+                "role": "Voice"
+            },
+            {
+                "character": "Sarah Dubois",
+                "name": "Jill Talley",
+                "role": "Voice"
+            },
+            {
+                "character": "Jazmine Dubois",
+                "name": "Gabby Soleil",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Aaron Mcgruder",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1685426400,
+        "season_number": "2",
+        "serial": 1685333316037,
+        "series_id": "610028",
+        "series_name": "The Boondocks",
+        "show_duration": 1800,
+        "show_id": "1059583787",
+        "show_timestamp": 1685426400,
+        "status": "estimated",
+        "summary": "When Granddad takes a much needed vacation from the boys, Huey takes control of the house but has to contend with a vicious insurgency from Riley.",
+        "title": "Home Alone",
+        "title_id": "683094",
+        "tv_rating": "TV-MA"
     }
 ]
