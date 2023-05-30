@@ -649,7 +649,7 @@
             "Animation"
         ],
         "guide_timestamp": 1685516400,
-        "last_update": 1685425142373,
+        "last_update": 1685433818509,
         "live": false,
         "participants": [
             {
@@ -685,7 +685,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685516400,
         "season_number": "3",
-        "serial": 1685425142192,
+        "serial": 1685433818163,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -968,5 +968,54 @@
         "title": "Human Flesh",
         "title_id": "2003423",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "3G7J6",
+        "create_time": 1685433818509,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16129687",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1685525400,
+        "last_update": 1685434053610,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1685525400,
+        "season_number": "1",
+        "serial": 1685434053944,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1059589095",
+        "show_timestamp": 1685525400,
+        "status": "estimated",
+        "summary": "Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways.",
+        "summary_long": "When Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways behind the walls. Bob manages to run the restaurant by ordering the family around from the safety of his wall maze, but then actually becomes stuck and begins to get a touch of cabin fever.",
+        "title": "Crawl Space",
+        "title_id": "2003424",
+        "tv_rating": "TV-PG"
     }
 ]
