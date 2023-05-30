@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1685419200,
-        "last_update": 1685354583449,
+        "last_update": 1685412067847,
         "live": false,
         "participants": [
             {
@@ -57,12 +57,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685419200,
         "season_number": "3",
-        "serial": 1685354583378,
+        "serial": 1685412067373,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1797,
         "show_id": "1059583600",
-        "show_timestamp": 1685419200,
+        "show_timestamp": 1685419202,
         "status": "estimated",
         "summary": "Beth blows it as a mom in this one broh. Summer has body issues.",
         "title": "The Whirly Dirly Conspiracy",
@@ -90,7 +90,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685421000,
-        "last_update": 1685330036908,
+        "last_update": 1685412047890,
         "live": false,
         "participants": [
             {
@@ -201,12 +201,12 @@
         "scheduled_duration": 1809,
         "scheduled_timestamp": 1685421000,
         "season_number": "1",
-        "serial": 1685330036689,
+        "serial": 1685412046894,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1809,
+        "show_duration": 1812,
         "show_id": "1059583643",
-        "show_timestamp": 1685421000,
+        "show_timestamp": 1685420998,
         "status": "estimated",
         "summary": "Deb becomes the target of intense internet backlash after an altercation at the local grocery store earns her widespread infamy.",
         "title": "Business Mom",
@@ -230,7 +230,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685422800,
-        "last_update": 1685347374101,
+        "last_update": 1685412064315,
         "live": false,
         "participants": [
             {
@@ -301,12 +301,12 @@
         "scheduled_duration": 912,
         "scheduled_timestamp": 1685422800,
         "season_number": "9",
-        "serial": 1685347374099,
+        "serial": 1685412063749,
         "series_id": "608360",
         "series_name": "Robot Chicken",
-        "show_duration": 912,
+        "show_duration": 903,
         "show_id": "1059583688",
-        "show_timestamp": 1685422800,
+        "show_timestamp": 1685422809,
         "status": "estimated",
         "summary": "The minds at Robot Chicken uncover the real reason Indiana Jones hates snakes. Maxwell Lord gets an inside look at Supergirl's weakness. Date My Mom focuses on Jessica Rabbit's huge... personality.",
         "title": "Never Forget",
@@ -6229,7 +6229,7 @@
             "Family"
         ],
         "guide_timestamp": 1685494800,
-        "last_update": 1685402187257,
+        "last_update": 1685411621037,
         "live": false,
         "participants": [
             {
@@ -6245,7 +6245,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685494800,
         "season_number": "1",
-        "serial": 1685402187001,
+        "serial": 1685411620553,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -6480,7 +6480,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685502000,
-        "last_update": 1685408746718,
+        "last_update": 1685411621037,
         "live": false,
         "participants": [
             {
@@ -6526,7 +6526,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685502000,
         "season_number": "16",
-        "serial": 1685408746435,
+        "serial": 1685411620553,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -6536,6 +6536,75 @@
         "summary": "After Stan sells off the coveted family plot, the family opens their own cemetery in the backyard with the help of basketball Hall-of-Famer Scottie Pippen.",
         "title": "Plot Heavy",
         "title_id": "2238760",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "36YM8",
+        "create_time": 1685411621377,
+        "episode_in_season": "6",
+        "episode_number": "S3:E06",
+        "external_id": "16144299",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1685503800,
+        "last_update": 1685412027077,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1685503800,
+        "season_number": "3",
+        "serial": 1685412026742,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1059588363",
+        "show_timestamp": 1685503800,
+        "status": "estimated",
+        "summary": "Rick and Morty need a break in this one broh. Times getting tough.",
+        "title": "Rest and Ricklaxation",
+        "title_id": "2116835",
         "tv_rating": "TV-14"
     }
 ]
