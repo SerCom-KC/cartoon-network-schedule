@@ -935,7 +935,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1685606400,
-        "last_update": 1685513339942,
+        "last_update": 1685516975252,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -944,7 +944,7 @@
         "scheduled_duration": 1814,
         "scheduled_timestamp": 1685606400,
         "season_number": "10",
-        "serial": 1685513339951,
+        "serial": 1685516975054,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1814,
@@ -954,6 +954,95 @@
         "summary": "The Futurama gang stars in a trio of craptastic morning cartoons.",
         "title": "Saturday Morning Fun Pit",
         "title_id": "2161664",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "152MX9",
+        "create_time": 1685516943173,
+        "episode_in_season": "7",
+        "episode_number": "S10:E07",
+        "external_id": "16129617",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1685608200,
+        "last_update": 1685516943173,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1838,
+        "scheduled_timestamp": 1685608200,
+        "season_number": "10",
+        "serial": 1685516943211,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1838,
+        "show_id": "1059589413",
+        "show_timestamp": 1685608200,
+        "status": "estimated",
+        "summary": "Bender goes grave robbing to bring his favorite actor back to life.",
+        "title": "Calculon 2.0",
+        "title_id": "2161665",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "3G7M4",
+        "create_time": 1685516943173,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16129663",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1685610000,
+        "last_update": 1685516943173,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1685610000,
+        "season_number": "1",
+        "serial": 1685516943211,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1059589435",
+        "show_timestamp": 1685610000,
+        "status": "estimated",
+        "summary": "When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement about animal cruelty, Bob is livid when it starts to scare away customers.",
+        "title": "Sacred Cow",
+        "title_id": "2003425",
         "tv_rating": "TV-14"
     }
 ]
