@@ -442,7 +442,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685683800,
-        "last_update": 1685591082650,
+        "last_update": 1685592449856,
         "live": false,
         "participants": [
             {
@@ -478,7 +478,7 @@
         "scheduled_duration": 918,
         "scheduled_timestamp": 1685683800,
         "season_number": "8",
-        "serial": 1685591082386,
+        "serial": 1685592449605,
         "series_id": "847246",
         "series_name": "Aqua Unit Patrol Squad 1",
         "show_duration": 918,
@@ -489,5 +489,151 @@
         "title": "The Creditor",
         "title_id": "846830",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1A4ME",
+        "create_time": 1685592449856,
+        "episode_in_season": "6",
+        "episode_number": "S8:E06",
+        "external_id": "16144225",
+        "feed_id": "as-east",
+        "franchise_id": "377032",
+        "franchise_name": "Aqua Unit Patrol Squad 1",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1685684700,
+        "last_update": 1685592449856,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "George Lowe",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 922,
+        "scheduled_timestamp": 1685684700,
+        "season_number": "8",
+        "serial": 1685592449605,
+        "series_id": "847246",
+        "series_name": "Aqua Unit Patrol Squad 1",
+        "show_duration": 922,
+        "show_id": "1059583760",
+        "show_timestamp": 1685684700,
+        "status": "estimated",
+        "summary": "In a world where a vampire inducing virus has decimated mankind, the Aqua Unit Patrol Squad 1 may have stumbled upon a cure.",
+        "title": "Vampirus",
+        "title_id": "846831",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "19KW5M",
+        "create_time": 1685592449856,
+        "episode_in_season": "13",
+        "episode_number": "S2:E13",
+        "external_id": "16165409",
+        "feed_id": "as-east",
+        "franchise_id": "336141",
+        "franchise_name": "Boondocks, The",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1685685600,
+        "last_update": 1685592449856,
+        "live": false,
+        "participants": [
+            {
+                "character": "Riley Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Huey Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Robert Freeman",
+                "name": "John Witherspoon",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Ruckus",
+                "name": "Gary Anthony Williams",
+                "role": "Voice"
+            },
+            {
+                "character": "Tom Dubois",
+                "name": "Cedric Yarbrough",
+                "role": "Voice"
+            },
+            {
+                "character": "Sarah Dubois",
+                "name": "Jill Talley",
+                "role": "Voice"
+            },
+            {
+                "character": "Jazmine Dubois",
+                "name": "Gabby Soleil",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Aaron Mcgruder",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1685685600,
+        "season_number": "2",
+        "serial": 1685592449605,
+        "series_id": "610028",
+        "series_name": "The Boondocks",
+        "show_duration": 1801,
+        "show_id": "1059583788",
+        "show_timestamp": 1685685600,
+        "status": "estimated",
+        "summary": "Gangstalicious is back with a new hit song, a new clothing line, but the same old secret. Gayness ensues.",
+        "title": "The Story of Gangstalicious Part 2",
+        "title_id": "683096",
+        "tv_rating": "TV-MA"
     }
 ]
