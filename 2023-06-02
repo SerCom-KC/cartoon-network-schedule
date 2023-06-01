@@ -792,7 +792,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685691000,
-        "last_update": 1685602290420,
+        "last_update": 1685604010547,
         "live": false,
         "participants": [
             {
@@ -903,7 +903,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685691000,
         "season_number": "1",
-        "serial": 1685602290136,
+        "serial": 1685604010465,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
@@ -936,7 +936,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1685692800,
-        "last_update": 1685602372934,
+        "last_update": 1685604010547,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -945,7 +945,7 @@
         "scheduled_duration": 1805,
         "scheduled_timestamp": 1685692800,
         "season_number": "10",
-        "serial": 1685602372534,
+        "serial": 1685604010465,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1805,
@@ -977,7 +977,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1685694600,
-        "last_update": 1685602372934,
+        "last_update": 1685604010547,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -986,7 +986,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685694600,
         "season_number": "10",
-        "serial": 1685602372534,
+        "serial": 1685604010465,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -997,5 +997,53 @@
         "title": "Leela and the Genestalk",
         "title_id": "2161667",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "2WNHG",
+        "create_time": 1685604010547,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "16129664",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1685696400,
+        "last_update": 1685604010547,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1685696400,
+        "season_number": "1",
+        "serial": 1685604010465,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1059584053",
+        "show_timestamp": 1685696400,
+        "status": "estimated",
+        "summary": "Hamburger Dinner Theater: Bob reluctantly lets Linda and the kids stage a musical murder mystery dinner theater in the restaurant, but on opening night, an abrupt interruption changes the play's creative direction.",
+        "title": "Hamburger Dinner Theater",
+        "title_id": "2003427",
+        "tv_rating": "TV-PG"
     }
 ]
