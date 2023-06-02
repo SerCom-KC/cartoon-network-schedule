@@ -17,7 +17,7 @@
             "Talk"
         ],
         "guide_timestamp": 1685764800,
-        "last_update": 1685682667681,
+        "last_update": 1685687760962,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -26,7 +26,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1685764800,
         "season_number": "5",
-        "serial": 1685682667484,
+        "serial": 1685687760783,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
         "show_duration": 905,
@@ -296,7 +296,7 @@
             "Talk"
         ],
         "guide_timestamp": 1685771100,
-        "last_update": 1685686310040,
+        "last_update": 1685687760962,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -305,7 +305,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1685771100,
         "season_number": "5",
-        "serial": 1685686309805,
+        "serial": 1685687760783,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
         "show_duration": 901,
@@ -338,7 +338,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685772000,
-        "last_update": 1685679934085,
+        "last_update": 1685687760962,
         "live": false,
         "participants": [
             {
@@ -449,7 +449,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685772000,
         "season_number": "1",
-        "serial": 1685679932781,
+        "serial": 1685687760783,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
@@ -619,7 +619,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1685777400,
-        "last_update": 1685684479818,
+        "last_update": 1685687147818,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -628,7 +628,7 @@
         "scheduled_duration": 1812,
         "scheduled_timestamp": 1685777400,
         "season_number": "10",
-        "serial": 1685684479672,
+        "serial": 1685687147773,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1812,
@@ -660,7 +660,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1685779200,
-        "last_update": 1685686310397,
+        "last_update": 1685687761270,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -669,7 +669,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685779200,
         "season_number": "10",
-        "serial": 1685686310211,
+        "serial": 1685687761111,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -679,6 +679,47 @@
         "summary": "Dr. Zoidberg meets the love of his life while Bender squares off in a deadly tap dancing competition.",
         "title": "Stench and Stenchibility",
         "title_id": "2161670",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "159PH2",
+        "create_time": 1685687761270,
+        "episode_in_season": "13",
+        "episode_number": "S10:E13",
+        "external_id": "16129619",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1685781000,
+        "last_update": 1685687761270,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1827,
+        "scheduled_timestamp": 1685781000,
+        "season_number": "10",
+        "serial": 1685687761111,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1827,
+        "show_id": "1059590746",
+        "show_timestamp": 1685781000,
+        "status": "estimated",
+        "summary": "Fry asks Leela to marry him, and they face their destiny together as the Professor's latest invention alters the fabric of time.",
+        "title": "Meanwhile",
+        "title_id": "2161671",
         "tv_rating": "TV-14"
     }
 ]
