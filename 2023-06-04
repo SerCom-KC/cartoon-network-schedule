@@ -2476,7 +2476,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685910000,
-        "last_update": 1685823102568,
+        "last_update": 1685829550181,
         "live": false,
         "participants": [
             {
@@ -2502,7 +2502,7 @@
         "scheduled_duration": 480,
         "scheduled_timestamp": 1685910074,
         "season_number": "2",
-        "serial": 1685823102179,
+        "serial": 1685829549808,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 480,
@@ -2728,7 +2728,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685912700,
-        "last_update": 1685825044065,
+        "last_update": 1685829550181,
         "live": false,
         "participants": [
             {
@@ -2764,7 +2764,7 @@
         "scheduled_duration": 660,
         "scheduled_timestamp": 1685912737,
         "season_number": "2",
-        "serial": 1685825044431,
+        "serial": 1685829549808,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 660,
@@ -2964,7 +2964,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685914800,
-        "last_update": 1685822224847,
+        "last_update": 1685829551167,
         "live": false,
         "participants": [
             {
@@ -2995,7 +2995,7 @@
         "scheduled_duration": 660,
         "scheduled_timestamp": 1685914836,
         "season_number": "2",
-        "serial": 1685822224535,
+        "serial": 1685829550151,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 660,
@@ -3205,5 +3205,41 @@
         "title": "Justice League: Crisis on Two Earths",
         "title_id": "2064515",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3TT4P",
+        "create_time": 1685829551167,
+        "external_id": "16159570",
+        "feed_id": "as-east",
+        "franchise_id": "454472",
+        "franchise_name": "SHOP: A Pop Opera",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1685922300,
+        "last_update": 1685829551167,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 1009,
+        "scheduled_timestamp": 1685922300,
+        "season_number": "1",
+        "serial": 1685829550151,
+        "series_id": "2192788",
+        "series_name": "Adult Swim Smalls Presents: SHOP: A Pop Opera",
+        "show_duration": 1009,
+        "show_id": "1061607194",
+        "show_timestamp": 1685922300,
+        "status": "estimated",
+        "summary": "An indecisive man's grocery trip is impeded by strange characters and musical ruminations.",
+        "title": "Adult Swim Smalls Presents: SHOP: A Pop Opera",
+        "title_id": "2192789",
+        "tv_rating": "TV-PG"
     }
 ]
