@@ -206,7 +206,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1685858400,
-        "last_update": 1685800365462,
+        "last_update": 1685807649488,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -215,7 +215,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685858400,
         "season_number": "8",
-        "serial": 1685800364912,
+        "serial": 1685807648635,
         "series_id": "812206",
         "series_name": "Naruto: Shippuden",
         "show_duration": 1800,
@@ -703,7 +703,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685874600,
-        "last_update": 1685785444365,
+        "last_update": 1685807649866,
         "live": false,
         "participants": [
             {
@@ -724,7 +724,7 @@
         "scheduled_duration": 720,
         "scheduled_timestamp": 1685874600,
         "season_number": "1",
-        "serial": 1685785444109,
+        "serial": 1685807649302,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 720,
@@ -1405,7 +1405,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685887200,
-        "last_update": 1685806692101,
+        "last_update": 1685807649866,
         "live": false,
         "participants": [
             {
@@ -1471,7 +1471,7 @@
         "scheduled_duration": 120,
         "scheduled_timestamp": 1685887128,
         "season_number": "2",
-        "serial": 1685806691805,
+        "serial": 1685807649302,
         "series_id": "2106724",
         "series_name": "Lamput",
         "show_duration": 120,
@@ -1638,7 +1638,7 @@
             "War"
         ],
         "guide_timestamp": 1685892600,
-        "last_update": 1685799971078,
+        "last_update": 1685807015894,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1647,7 +1647,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685892600,
         "season_number": "2",
-        "serial": 1685799970816,
+        "serial": 1685807015632,
         "series_id": "313487",
         "series_name": "Tom & Jerry Kids Show",
         "show_duration": 1800,
@@ -1675,7 +1675,7 @@
             "Musical"
         ],
         "guide_timestamp": 1685894400,
-        "last_update": 1685804008896,
+        "last_update": 1685807650266,
         "live": false,
         "participants": [
             {
@@ -1785,7 +1785,7 @@
         "runtime_minutes": 85,
         "scheduled_duration": 6367,
         "scheduled_timestamp": 1685894400,
-        "serial": 1685804008357,
+        "serial": 1685807649708,
         "series_name": "",
         "show_duration": 6367,
         "show_id": "1061497083",
@@ -1794,6 +1794,124 @@
         "summary": "Dorothy, Tom and Jerry get sent back to Oz when an evil gnome king takes over Emerald City and sends the flying monkeys to Kansas to steal the ruby slippers.",
         "title": "Tom and Jerry: Back to Oz",
         "title_id": "2069988",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3VTMM",
+        "create_time": 1685807650266,
+        "episode_number": "S3:EL04",
+        "external_id": "16144105",
+        "feed_id": "as-east",
+        "franchise_id": "327186",
+        "franchise_name": "MOVIE:",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685900700,
+        "last_update": 1685807650266,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Gene Deitch",
+                "role": "Director"
+            },
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1962,
+        "runtime_minutes": 6,
+        "scheduled_duration": 360,
+        "scheduled_timestamp": 1685900812,
+        "season_number": "3",
+        "serial": 1685807649708,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 360,
+        "show_id": "1061497084",
+        "show_timestamp": 1685900812,
+        "status": "estimated",
+        "summary": "The usual antics of Tom and Jerry interfere with a man trying to barbecue.",
+        "title": "High Steaks",
+        "title_id": "311990",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "38G70",
+        "create_time": 1685807650266,
+        "episode_number": "S2:EL15",
+        "external_id": "16144105",
+        "feed_id": "as-east",
+        "franchise_id": "327186",
+        "franchise_name": "MOVIE:",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685901300,
+        "last_update": 1685807650266,
+        "live": false,
+        "participants": [
+            {
+                "character": "Quacker Jeff Duck",
+                "name": "Red Coffey (Red Coffee)",
+                "role": "Animated Character"
+            },
+            {
+                "character": null,
+                "name": "Joseph Barbera",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "William Hanna",
+                "role": "Director"
+            },
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1953,
+        "runtime_minutes": 6,
+        "scheduled_duration": 363,
+        "scheduled_timestamp": 1685901204,
+        "season_number": "2",
+        "serial": 1685807649708,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 363,
+        "show_id": "1061497085",
+        "show_timestamp": 1685901204,
+        "status": "estimated",
+        "summary": "When a duckling becomes separated  from his mama duck, Jerry rescues the duckling  from a hungry Tom.",
+        "title": "Just Ducky",
+        "title_id": "312006",
         "tv_rating": "TV-G"
     }
 ]
