@@ -2326,7 +2326,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685908200,
-        "last_update": 1685816537908,
+        "last_update": 1685817832004,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2335,7 +2335,7 @@
         "scheduled_duration": 480,
         "scheduled_timestamp": 1685908335,
         "season_number": "2",
-        "serial": 1685816537729,
+        "serial": 1685817832236,
         "series_id": "2011437",
         "series_name": "The Tom and Jerry Show",
         "show_duration": 480,
@@ -2412,7 +2412,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685909400,
-        "last_update": 1685816537908,
+        "last_update": 1685817832004,
         "live": false,
         "participants": [
             {
@@ -2448,7 +2448,7 @@
         "scheduled_duration": 720,
         "scheduled_timestamp": 1685909422,
         "season_number": "2",
-        "serial": 1685816537729,
+        "serial": 1685817832236,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 720,
@@ -2476,7 +2476,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685910000,
-        "last_update": 1685816537908,
+        "last_update": 1685817832004,
         "live": false,
         "participants": [
             {
@@ -2502,7 +2502,7 @@
         "scheduled_duration": 480,
         "scheduled_timestamp": 1685910074,
         "season_number": "2",
-        "serial": 1685816537729,
+        "serial": 1685817832236,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 480,
@@ -2512,6 +2512,107 @@
         "summary": "Tom, an award-winning mouse catcher, arrives in Spain to catch the flamenco dancing El Magnifico, (Jerry).",
         "title": "Mucho Mouse",
         "title_id": "312037",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3VW4V",
+        "create_time": 1685817832004,
+        "external_id": "16144115",
+        "feed_id": "as-east",
+        "franchise_id": "304014",
+        "franchise_name": "Tom & Jerry ",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685910600,
+        "last_update": 1685817832004,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Abe Levitow",
+                "role": "Director"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1966,
+        "runtime_minutes": 6,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1685910600,
+        "season_number": "1",
+        "serial": 1685817832236,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 600,
+        "show_id": "1059586699",
+        "show_timestamp": 1685910600,
+        "status": "estimated",
+        "summary": "With the help of a shark, Jerry protects a pet goldfish from a hungry Tom.",
+        "title": "Filet Meow",
+        "title_id": "311970",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3W080",
+        "create_time": 1685817832004,
+        "external_id": "16144115",
+        "feed_id": "as-east",
+        "franchise_id": "304014",
+        "franchise_name": "Tom & Jerry ",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685911200,
+        "last_update": 1685817832004,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1966,
+        "runtime_minutes": 5,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1685911061,
+        "season_number": "1",
+        "serial": 1685817832236,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 600,
+        "show_id": "1059586702",
+        "show_timestamp": 1685911061,
+        "status": "estimated",
+        "summary": "Tom and Jerry go to the movies and see the past fights among themselves and start beating each other again while the characters in the movie watch.",
+        "title": "Matinee Mouse",
+        "title_id": "312019",
         "tv_rating": "TV-G"
     }
 ]
