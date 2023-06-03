@@ -93,7 +93,7 @@
             "Action"
         ],
         "guide_timestamp": 1685853000,
-        "last_update": 1685778159118,
+        "last_update": 1685781801198,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -102,7 +102,7 @@
         "scheduled_duration": 1819,
         "scheduled_timestamp": 1685853000,
         "season_number": "3",
-        "serial": 1685778158619,
+        "serial": 1685781800979,
         "series_id": "2207385",
         "series_name": "Dr. Stone",
         "show_duration": 1819,
@@ -485,7 +485,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1685869200,
-        "last_update": 1685778159465,
+        "last_update": 1685781801198,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -494,7 +494,7 @@
         "scheduled_duration": 1809,
         "scheduled_timestamp": 1685869200,
         "season_number": "1",
-        "serial": 1685778159010,
+        "serial": 1685781800979,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1809,
@@ -558,7 +558,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685872800,
-        "last_update": 1685780123945,
+        "last_update": 1685781600739,
         "live": false,
         "participants": [
             {
@@ -579,7 +579,7 @@
         "scheduled_duration": 570,
         "scheduled_timestamp": 1685872800,
         "season_number": "1",
-        "serial": 1685780123766,
+        "serial": 1685781600707,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 570,
@@ -606,7 +606,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685873400,
-        "last_update": 1685780123945,
+        "last_update": 1685781801582,
         "live": false,
         "participants": [
             {
@@ -627,7 +627,7 @@
         "scheduled_duration": 660,
         "scheduled_timestamp": 1685873380,
         "season_number": "1",
-        "serial": 1685780123766,
+        "serial": 1685781801354,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 660,
@@ -637,6 +637,152 @@
         "summary": "After Tom gets pulverized by a downtown train, he ends up chasing Jerry throughout the toy section of a large department store.",
         "title": "I'm Just Wild About Jerry",
         "title_id": "311993",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3V6N9",
+        "create_time": 1685781600739,
+        "external_id": "16144096",
+        "feed_id": "as-east",
+        "franchise_id": "304014",
+        "franchise_name": "Tom & Jerry ",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685874000,
+        "last_update": 1685781801582,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1953,
+        "runtime_minutes": 6,
+        "scheduled_duration": 420,
+        "scheduled_timestamp": 1685874018,
+        "season_number": "3",
+        "serial": 1685781801354,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 420,
+        "show_id": "1059584445",
+        "show_timestamp": 1685874018,
+        "status": "estimated",
+        "summary": "Jerry takes advantage of Tom's fear of an exploding white mouse by dunking himself in white shoe polish.",
+        "title": "The Missing Mouse",
+        "title_id": "312025",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3V77W",
+        "create_time": 1685781600739,
+        "episode_number": "S1:EL15",
+        "external_id": "16144097",
+        "feed_id": "as-east",
+        "franchise_id": "304014",
+        "franchise_name": "Tom & Jerry ",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685874600,
+        "last_update": 1685781600739,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1947,
+        "runtime_minutes": 7,
+        "scheduled_duration": 720,
+        "scheduled_timestamp": 1685874600,
+        "season_number": "1",
+        "serial": 1685781600707,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 720,
+        "show_id": "1059584534",
+        "show_timestamp": 1685874600,
+        "status": "estimated",
+        "summary": "Tom Cat is a concert pianist who plays beautifully until he is interrupted by Jerry Mouse.",
+        "title": "The Cat Concerto",
+        "title_id": "311945",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3V7WT",
+        "create_time": 1685781600739,
+        "episode_number": "S1:EL17",
+        "external_id": "16144097",
+        "feed_id": "as-east",
+        "franchise_id": "304014",
+        "franchise_name": "Tom & Jerry ",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685875200,
+        "last_update": 1685781801582,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1947,
+        "runtime_minutes": 7,
+        "scheduled_duration": 756,
+        "scheduled_timestamp": 1685875061,
+        "season_number": "1",
+        "serial": 1685781801354,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 756,
+        "show_id": "1059584536",
+        "show_timestamp": 1685875061,
+        "status": "estimated",
+        "summary": "Jerry turns invisible after diving into a bottle of invisible ink and then gets back at Tom.",
+        "title": "The Invisible Mouse",
+        "title_id": "311995",
         "tv_rating": "TV-G"
     }
 ]
