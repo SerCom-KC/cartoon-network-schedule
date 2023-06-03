@@ -17,7 +17,7 @@
             "Animation"
         ],
         "guide_timestamp": 1685851200,
-        "last_update": 1685759790830,
+        "last_update": 1685773562884,
         "live": false,
         "participants": [
             {
@@ -63,7 +63,7 @@
         "scheduled_duration": 1812,
         "scheduled_timestamp": 1685851200,
         "season_number": "1",
-        "serial": 1685759790356,
+        "serial": 1685773562434,
         "series_id": "2267325",
         "series_name": "Unicorn: Warriors Eternal",
         "show_duration": 1812,
@@ -93,7 +93,7 @@
             "Action"
         ],
         "guide_timestamp": 1685853000,
-        "last_update": 1685770281853,
+        "last_update": 1685773562884,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -102,7 +102,7 @@
         "scheduled_duration": 1819,
         "scheduled_timestamp": 1685853000,
         "season_number": "3",
-        "serial": 1685770281627,
+        "serial": 1685773562434,
         "series_id": "2207385",
         "series_name": "Dr. Stone",
         "show_duration": 1819,
@@ -281,7 +281,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685862000,
-        "last_update": 1685770783212,
+        "last_update": 1685773563301,
         "live": false,
         "participants": [
             {
@@ -312,7 +312,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685862000,
         "season_number": "6",
-        "serial": 1685770783226,
+        "serial": 1685773563095,
         "series_id": "439722",
         "series_name": "The Venture Bros.",
         "show_duration": 1800,
@@ -340,7 +340,7 @@
             "Music"
         ],
         "guide_timestamp": 1685863800,
-        "last_update": 1685770783212,
+        "last_update": 1685773563301,
         "live": false,
         "participants": [
             {
@@ -376,7 +376,7 @@
         "scheduled_duration": 1818,
         "scheduled_timestamp": 1685863800,
         "season_number": "3",
-        "serial": 1685770783226,
+        "serial": 1685773563095,
         "series_id": "648666",
         "series_name": "Metalocalypse",
         "show_duration": 1818,
@@ -388,5 +388,44 @@
         "title": "Fatherklok",
         "title_id": "773413",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "14HCTN",
+        "create_time": 1685773563301,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16129590",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1685865600,
+        "last_update": 1685773563301,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1816,
+        "scheduled_timestamp": 1685865600,
+        "season_number": "1",
+        "serial": 1685773563095,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1816,
+        "show_id": "1059588053",
+        "show_timestamp": 1685865600,
+        "status": "estimated",
+        "summary": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
+        "title": "Space Pilot 3000",
+        "title_id": "437533",
+        "tv_rating": "TV-PG"
     }
 ]
