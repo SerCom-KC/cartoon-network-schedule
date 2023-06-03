@@ -2631,7 +2631,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685911500,
-        "last_update": 1685819820081,
+        "last_update": 1685821437077,
         "live": false,
         "participants": [
             {
@@ -2652,7 +2652,7 @@
         "scheduled_duration": 600,
         "scheduled_timestamp": 1685911640,
         "season_number": "1",
-        "serial": 1685819819843,
+        "serial": 1685821437215,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 600,
@@ -2679,7 +2679,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685912400,
-        "last_update": 1685819820081,
+        "last_update": 1685821437077,
         "live": false,
         "participants": [
             {
@@ -2700,7 +2700,7 @@
         "scheduled_duration": 600,
         "scheduled_timestamp": 1685912400,
         "season_number": "1",
-        "serial": 1685819819843,
+        "serial": 1685821437215,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 600,
@@ -2833,6 +2833,178 @@
         "summary": "Tom and Jerry are touring through Naples and they encounter an Italian mouse.",
         "title": "Neapolitan Mouse",
         "title_id": "312039",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3VWJ5",
+        "create_time": 1685821437077,
+        "external_id": "16144117",
+        "feed_id": "as-east",
+        "franchise_id": "304014",
+        "franchise_name": "Tom & Jerry ",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685914200,
+        "last_update": 1685821437077,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Uncle Pecos",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1965,
+        "runtime_minutes": 6,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1685914200,
+        "season_number": "1",
+        "serial": 1685821437215,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 600,
+        "show_id": "1061497090",
+        "show_timestamp": 1685914200,
+        "status": "estimated",
+        "summary": "Jerry's uncle, a magician, comes to visit Jerry and torment Tom.",
+        "summary_long": "Jerry's uncle, a magician,  comes to visit him and along with freeing some animals Tom has eaten, causes all kinds of havoc for the cat.",
+        "title": "Haunted Mouse",
+        "title_id": "311986",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3V88Y",
+        "create_time": 1685821437077,
+        "episode_number": "S1:EL06",
+        "external_id": "16144117",
+        "feed_id": "as-east",
+        "franchise_id": "304014",
+        "franchise_name": "Tom & Jerry ",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685914500,
+        "last_update": 1685821437077,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Joseph Barbera",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "William Hanna",
+                "role": "Director"
+            },
+            {
+                "character": "Tom Cat",
+                "name": "William Hanna",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1944,
+        "runtime_minutes": 7,
+        "scheduled_duration": 480,
+        "scheduled_timestamp": 1685914407,
+        "season_number": "1",
+        "serial": 1685821437215,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 480,
+        "show_id": "1061497091",
+        "show_timestamp": 1685914407,
+        "status": "estimated",
+        "summary": "Tom will inherit a million dollars if he doesn't harm any living thing, including Jerry.",
+        "title": "The Million Dollar Cat",
+        "title_id": "312024",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "38H7D",
+        "create_time": 1685821437077,
+        "episode_number": "S2:EL27",
+        "external_id": "16144117",
+        "feed_id": "as-east",
+        "franchise_id": "304014",
+        "franchise_name": "Tom & Jerry ",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685914800,
+        "last_update": 1685821437077,
+        "live": false,
+        "participants": [
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Spike Bulldog",
+                "name": "Additional Voice Actor",
+                "role": "Voice"
+            },
+            {
+                "character": "Butch the Alley Cat",
+                "name": "Daws Butler",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1955,
+        "runtime_minutes": 6,
+        "scheduled_duration": 660,
+        "scheduled_timestamp": 1685914836,
+        "season_number": "2",
+        "serial": 1685821437215,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 660,
+        "show_id": "1061497092",
+        "show_timestamp": 1685914836,
+        "status": "estimated",
+        "summary": "Tom and his alley cat pals are laughing as they watch home movies involving Tom outwitting Spike but Jerry decides to let the bulldog know about it.",
+        "title": "Smarty Cat",
+        "title_id": "312079",
         "tv_rating": "TV-G"
     }
 ]
