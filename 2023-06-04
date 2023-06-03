@@ -843,7 +843,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685876400,
-        "last_update": 1685783405564,
+        "last_update": 1685788813432,
         "live": false,
         "participants": [
             {
@@ -864,7 +864,7 @@
         "scheduled_duration": 720,
         "scheduled_timestamp": 1685876400,
         "season_number": "3",
-        "serial": 1685783405404,
+        "serial": 1685788813486,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 720,
@@ -1105,7 +1105,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685878800,
-        "last_update": 1685786686630,
+        "last_update": 1685788813432,
         "live": false,
         "participants": [
             {
@@ -1126,7 +1126,7 @@
         "scheduled_duration": 720,
         "scheduled_timestamp": 1685878933,
         "season_number": "1",
-        "serial": 1685786686399,
+        "serial": 1685788813486,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 720,
@@ -1154,7 +1154,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685879400,
-        "last_update": 1685786686630,
+        "last_update": 1685788813432,
         "live": false,
         "participants": [
             {
@@ -1180,7 +1180,7 @@
         "scheduled_duration": 480,
         "scheduled_timestamp": 1685879518,
         "season_number": "1",
-        "serial": 1685786686399,
+        "serial": 1685788813486,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 480,
@@ -1240,6 +1240,55 @@
         "summary_long": "Tom guards a set of power rings but when Jerry shows up, he and Tom put on the rings and fight. Tom's dream of being a supercat becomes real when a chase with Jerry leads them into a crime fighter's lair. A scientist zaps Jerry with a gamma ray.",
         "title": "More Powers to You/Catch Me Though You Can't/Power Tom",
         "title_id": "696229",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1EK9V",
+        "create_time": 1685788813432,
+        "episode_in_season": "11",
+        "episode_number": "S1:E11",
+        "external_id": "16144106",
+        "feed_id": "as-east",
+        "franchise_id": "367473",
+        "franchise_name": "Tom and Jerry Tales",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1685881800,
+        "last_update": 1685788813432,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1818,
+        "scheduled_timestamp": 1685881800,
+        "season_number": "1",
+        "serial": 1685788813486,
+        "series_id": "627595",
+        "series_name": "Tom and Jerry Tales",
+        "show_duration": 1818,
+        "show_id": "1059584920",
+        "show_timestamp": 1685881800,
+        "status": "estimated",
+        "summary": "Tom chases Jerry into a construction site. Tom and Jerry win the lottery. With their piles of cash, they battle to see who can build the biggest mansion. A construction accident leads Spike to draft Tom to finish constructing a building.",
+        "title": "Destruction Junction/Battle of the Power Tools/Jackhammered Cat",
+        "title_id": "633947",
         "tv_rating": "TV-Y7"
     }
 ]
