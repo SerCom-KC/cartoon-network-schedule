@@ -522,7 +522,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1685871000,
-        "last_update": 1685778159465,
+        "last_update": 1685780123945,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -531,7 +531,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685871000,
         "season_number": "1",
-        "serial": 1685778159010,
+        "serial": 1685780123766,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -542,5 +542,101 @@
         "title": "Love's Labour's Lost in Space",
         "title_id": "437536",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3VVNJ",
+        "create_time": 1685780123945,
+        "external_id": "16144096",
+        "feed_id": "as-east",
+        "franchise_id": "304014",
+        "franchise_name": "Tom & Jerry ",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685872800,
+        "last_update": 1685780123945,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1967,
+        "runtime_minutes": 5,
+        "scheduled_duration": 570,
+        "scheduled_timestamp": 1685872800,
+        "season_number": "1",
+        "serial": 1685780123766,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 570,
+        "show_id": "1059584441",
+        "show_timestamp": 1685872800,
+        "status": "estimated",
+        "summary": "Tom is a space security guard and he uses his cat robot to chase Jerry's mouse robot as it attempts to sneak some cheese out of the Mining Facility.",
+        "title": "Advance and Be Mechanized",
+        "title_id": "311926",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3V7WR",
+        "create_time": 1685780123945,
+        "external_id": "16144096",
+        "feed_id": "as-east",
+        "franchise_id": "304014",
+        "franchise_name": "Tom & Jerry ",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685873400,
+        "last_update": 1685780123945,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1965,
+        "runtime_minutes": 6,
+        "scheduled_duration": 660,
+        "scheduled_timestamp": 1685873380,
+        "season_number": "1",
+        "serial": 1685780123766,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 660,
+        "show_id": "1059584443",
+        "show_timestamp": 1685873380,
+        "status": "estimated",
+        "summary": "After Tom gets pulverized by a downtown train, he ends up chasing Jerry throughout the toy section of a large department store.",
+        "title": "I'm Just Wild About Jerry",
+        "title_id": "311993",
+        "tv_rating": "TV-G"
     }
 ]
