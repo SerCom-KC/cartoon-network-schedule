@@ -994,7 +994,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685878200,
-        "last_update": 1685785444365,
+        "last_update": 1685786686630,
         "live": false,
         "participants": [
             {
@@ -1030,7 +1030,7 @@
         "scheduled_duration": 600,
         "scheduled_timestamp": 1685878200,
         "season_number": "2",
-        "serial": 1685785444109,
+        "serial": 1685786686399,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 600,
@@ -1105,7 +1105,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685878800,
-        "last_update": 1685785444365,
+        "last_update": 1685786686630,
         "live": false,
         "participants": [
             {
@@ -1126,7 +1126,7 @@
         "scheduled_duration": 720,
         "scheduled_timestamp": 1685878933,
         "season_number": "1",
-        "serial": 1685785444109,
+        "serial": 1685786686399,
         "series_id": "313477",
         "series_name": "Tom and Jerry",
         "show_duration": 720,
@@ -1138,5 +1138,108 @@
         "title": "Kitty Hawk Kitty",
         "title_id": "312008",
         "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "3VVYN",
+        "create_time": 1685786686630,
+        "external_id": "16144099",
+        "feed_id": "as-east",
+        "franchise_id": "304014",
+        "franchise_name": "Tom & Jerry ",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1685879400,
+        "last_update": 1685786686630,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Chuck Jones (Charles)",
+                "role": "Director"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Tom Cat",
+                "name": "Terence Monck",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1967,
+        "runtime_minutes": 6,
+        "scheduled_duration": 480,
+        "scheduled_timestamp": 1685879518,
+        "season_number": "1",
+        "serial": 1685786686399,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 480,
+        "show_id": "1061497080",
+        "show_timestamp": 1685879518,
+        "status": "estimated",
+        "summary": "On a wharf, an opera singing Tom Cat and a feline rival compete for Jerry Mouse.",
+        "title": "Cat and Dupli-cat",
+        "title_id": "311950",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1EN10",
+        "create_time": 1685786686630,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "16144101",
+        "feed_id": "as-east",
+        "franchise_id": "367473",
+        "franchise_name": "Tom and Jerry Tales",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1685880000,
+        "last_update": 1685786686630,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1862,
+        "scheduled_timestamp": 1685880000,
+        "season_number": "2",
+        "serial": 1685786686399,
+        "series_id": "627595",
+        "series_name": "Tom and Jerry Tales",
+        "show_duration": 1862,
+        "show_id": "1059584825",
+        "show_timestamp": 1685880000,
+        "status": "estimated",
+        "summary": "Tom guards a set of power rings but when Jerry shows up, he and Tom put on the rings and fight. Tom's dream of being a supercat becomes real when a chase with Jerry leads them into a crime fighter's lair.",
+        "summary_long": "Tom guards a set of power rings but when Jerry shows up, he and Tom put on the rings and fight. Tom's dream of being a supercat becomes real when a chase with Jerry leads them into a crime fighter's lair. A scientist zaps Jerry with a gamma ray.",
+        "title": "More Powers to You/Catch Me Though You Can't/Power Tom",
+        "title_id": "696229",
+        "tv_rating": "TV-Y7"
     }
 ]
