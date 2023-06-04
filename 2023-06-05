@@ -17,7 +17,7 @@
             "Talk"
         ],
         "guide_timestamp": 1685937600,
-        "last_update": 1685855242762,
+        "last_update": 1685861092703,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -26,7 +26,7 @@
         "scheduled_duration": 920,
         "scheduled_timestamp": 1685937600,
         "season_number": "6",
-        "serial": 1685855242458,
+        "serial": 1685861092430,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
         "show_duration": 920,
@@ -228,7 +228,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685941200,
-        "last_update": 1685851601431,
+        "last_update": 1685861093027,
         "live": false,
         "participants": [
             {
@@ -254,7 +254,7 @@
         "scheduled_duration": 920,
         "scheduled_timestamp": 1685941200,
         "season_number": "10",
-        "serial": 1685851601187,
+        "serial": 1685861092904,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
         "show_duration": 920,
@@ -566,7 +566,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1685948400,
-        "last_update": 1685855243169,
+        "last_update": 1685861093027,
         "live": false,
         "participants": [
             {
@@ -677,7 +677,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685948400,
         "season_number": "1",
-        "serial": 1685855242848,
+        "serial": 1685861092904,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
@@ -747,7 +747,7 @@
             "Talk"
         ],
         "guide_timestamp": 1685951100,
-        "last_update": 1685859362455,
+        "last_update": 1685861093027,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -756,7 +756,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1685951100,
         "season_number": "6",
-        "serial": 1685859362221,
+        "serial": 1685861092904,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
         "show_duration": 900,
@@ -786,7 +786,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1685952000,
-        "last_update": 1685859362455,
+        "last_update": 1685861093027,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -795,7 +795,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1685952000,
         "season_number": "1",
-        "serial": 1685859362221,
+        "serial": 1685861092904,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -805,6 +805,46 @@
         "summary": "Bender delivers a package to a planet inhabited solely by robots.",
         "title": "Fear of a Bot Planet",
         "title_id": "437537",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "14HDKT",
+        "create_time": 1685861093027,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "16136588",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1685953800,
+        "last_update": 1685861093027,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1685953800,
+        "season_number": "1",
+        "serial": 1685861092904,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1805,
+        "show_id": "1059588813",
+        "show_timestamp": 1685953800,
+        "status": "estimated",
+        "summary": "Fry's savings have accrued for 1000 years, and he buys ancient anchovies with his sudden riches.",
+        "title": "A Fishful of Dollars",
+        "title_id": "437538",
         "tv_rating": "TV-PG"
     }
 ]
