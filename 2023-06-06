@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1686024000,
-        "last_update": 1685935327687,
+        "last_update": 1685935902322,
         "live": false,
         "participants": [
             {
@@ -57,7 +57,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1686024000,
         "season_number": "4",
-        "serial": 1685935327339,
+        "serial": 1685935901616,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1801,
@@ -89,7 +89,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686025800,
-        "last_update": 1685935327687,
+        "last_update": 1685935902322,
         "live": false,
         "participants": [
             {
@@ -200,7 +200,7 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1686025800,
         "season_number": "1",
-        "serial": 1685935327339,
+        "serial": 1685935901616,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1802,
@@ -234,7 +234,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686027600,
-        "last_update": 1685935327687,
+        "last_update": 1685935902322,
         "live": false,
         "participants": [
             {
@@ -305,7 +305,7 @@
         "scheduled_duration": 910,
         "scheduled_timestamp": 1686027600,
         "season_number": "9",
-        "serial": 1685935327339,
+        "serial": 1685935901616,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 910,
@@ -420,6 +420,74 @@
         "summary": "Betty Spaghetty tries her best to save an elevator full of people. RC finds out what goes on behind Bert and Ernie's closed bedroom doors. Godzilla: The Musical comes to a Broadway theatre and brings the house down.",
         "title": "Molly Lucero in: Your Friend's Boob",
         "title_id": "2201004",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "17YCHV",
+        "create_time": 1685935902322,
+        "episode_in_season": "7",
+        "episode_number": "S8:E07",
+        "external_id": "16168963",
+        "feed_id": "as-east",
+        "franchise_id": "377032",
+        "franchise_name": "Aqua Unit Patrol Squad 1",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1686029400,
+        "last_update": 1685935902322,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "George Lowe",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 918,
+        "scheduled_timestamp": 1686029400,
+        "season_number": "8",
+        "serial": 1685935901616,
+        "series_id": "847246",
+        "series_name": "Aqua Unit Patrol Squad 1",
+        "show_duration": 918,
+        "show_id": "1060792837",
+        "show_timestamp": 1686029400,
+        "status": "estimated",
+        "summary": "Frylock's new smartphone causes catastrophic levels of apathy and views of the sitcom Entourage.",
+        "title": "Wi-tri",
+        "title_id": "846833",
         "tv_rating": "TV-14"
     }
 ]
