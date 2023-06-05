@@ -89,7 +89,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686025800,
-        "last_update": 1685935902322,
+        "last_update": 1685937341091,
         "live": false,
         "participants": [
             {
@@ -200,7 +200,7 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1686025800,
         "season_number": "1",
-        "serial": 1685935901616,
+        "serial": 1685937341154,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1802,
@@ -442,7 +442,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686029400,
-        "last_update": 1685935902322,
+        "last_update": 1685938610149,
         "live": false,
         "participants": [
             {
@@ -478,7 +478,7 @@
         "scheduled_duration": 918,
         "scheduled_timestamp": 1686029400,
         "season_number": "8",
-        "serial": 1685935901616,
+        "serial": 1685938609635,
         "series_id": "847246",
         "series_name": "Aqua Unit Patrol Squad 1",
         "show_duration": 918,
@@ -489,5 +489,153 @@
         "title": "Wi-tri",
         "title_id": "846833",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1C1ZV",
+        "create_time": 1685937341400,
+        "episode_in_season": "8",
+        "episode_number": "S8:E08",
+        "external_id": "16168964",
+        "feed_id": "as-east",
+        "franchise_id": "377032",
+        "franchise_name": "Aqua Unit Patrol Squad 1",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1686030300,
+        "last_update": 1685938610149,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "George Lowe",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1686030300,
+        "season_number": "8",
+        "serial": 1685938609635,
+        "series_id": "847246",
+        "series_name": "Aqua Unit Patrol Squad 1",
+        "show_duration": 900,
+        "show_id": "1060792854",
+        "show_timestamp": 1686030300,
+        "status": "estimated",
+        "summary": "Shake and Carl manage to score a date with the same woman at the same time.",
+        "title": "Jumpy George",
+        "title_id": "846834",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "19TNWJ",
+        "create_time": 1685938610708,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "16166775",
+        "feed_id": "as-east",
+        "franchise_id": "336141",
+        "franchise_name": "Boondocks, The",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1686031200,
+        "last_update": 1685938610708,
+        "live": false,
+        "participants": [
+            {
+                "character": "Riley Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Huey Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Robert Freeman",
+                "name": "John Witherspoon",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Ruckus",
+                "name": "Gary Anthony Williams",
+                "role": "Voice"
+            },
+            {
+                "character": "Tom Dubois",
+                "name": "Cedric Yarbrough",
+                "role": "Voice"
+            },
+            {
+                "character": "Sarah Dubois",
+                "name": "Jill Talley",
+                "role": "Voice"
+            },
+            {
+                "character": "Jazmine Dubois",
+                "name": "Gabby Soleil",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Aaron Mcgruder",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1686031200,
+        "season_number": "3",
+        "serial": 1685938610197,
+        "series_id": "610028",
+        "series_name": "The Boondocks",
+        "show_duration": 1800,
+        "show_id": "1060792883",
+        "show_timestamp": 1686031200,
+        "status": "estimated",
+        "summary": "Colonel H. Stinkmeaner had no family and no friends but he did have a mean crew. Three of Stinkmeaner's old crew arrive in town to exact payback on the Freeman family. Is revenge a dish best served old?",
+        "title": "Stinkmeaner 3: The Hateocracy",
+        "title_id": "798556",
+        "tv_rating": "TV-MA"
     }
 ]
