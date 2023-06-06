@@ -502,7 +502,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686116700,
-        "last_update": 1686024597446,
+        "last_update": 1686034440767,
         "live": false,
         "participants": [
             {
@@ -538,7 +538,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1686116700,
         "season_number": "8",
-        "serial": 1686024597179,
+        "serial": 1686034440268,
         "series_id": "847246",
         "series_name": "Aqua Unit Patrol Squad 1",
         "show_duration": 900,
@@ -928,7 +928,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1686124800,
-        "last_update": 1686031811732,
+        "last_update": 1686034441302,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -937,7 +937,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1686124800,
         "season_number": "1",
-        "serial": 1686031811594,
+        "serial": 1686034440797,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -947,6 +947,43 @@
         "summary": "Bender is condemned to robot hell.",
         "title": "Hell Is Other Robots",
         "title_id": "437541",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "14HDTT",
+        "create_time": 1686034441302,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "16164644",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1686126600,
+        "last_update": 1686034441302,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1824,
+        "scheduled_timestamp": 1686126600,
+        "season_number": "2",
+        "serial": 1686034440797,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1824,
+        "show_id": "1060792540",
+        "show_timestamp": 1686126600,
+        "status": "estimated",
+        "summary": "Romance and danger follow Bender and Fry on the space cruise ship, Titanic.",
+        "title": "A Flight to Remember",
+        "title_id": "437542",
         "tv_rating": "TV-PG"
     }
 ]
