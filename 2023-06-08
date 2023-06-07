@@ -503,7 +503,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686203100,
-        "last_update": 1686112858736,
+        "last_update": 1686115087701,
         "live": false,
         "participants": [
             {
@@ -534,7 +534,7 @@
         "scheduled_duration": 932,
         "scheduled_timestamp": 1686203100,
         "season_number": "9",
-        "serial": 1686112858493,
+        "serial": 1686115086507,
         "series_id": "896639",
         "series_name": "Aqua Something You Know Whatever",
         "show_duration": 932,
@@ -566,7 +566,7 @@
             "Drama"
         ],
         "guide_timestamp": 1686204000,
-        "last_update": 1686113834415,
+        "last_update": 1686115087701,
         "live": false,
         "participants": [
             {
@@ -617,7 +617,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1686204000,
         "season_number": "2",
-        "serial": 1686113833928,
+        "serial": 1686115086507,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -696,6 +696,76 @@
         "summary": "The one with the acid vat, broh.",
         "title": "The Vat of Acid Episode",
         "title_id": "2206493",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "C5Y4R",
+        "create_time": 1686115088193,
+        "episode_in_season": "9",
+        "episode_number": "S4:E09",
+        "external_id": "16164600",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1686207600,
+        "last_update": 1686115088193,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1686207600,
+        "season_number": "4",
+        "serial": 1686115087038,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1808,
+        "show_id": "1059658862",
+        "show_timestamp": 1686207600,
+        "status": "estimated",
+        "summary": "Miracle of life broh. Whole family in this one broh.",
+        "title": "Childrick of Mort",
+        "title_id": "2206494",
         "tv_rating": "TV-14"
     }
 ]
