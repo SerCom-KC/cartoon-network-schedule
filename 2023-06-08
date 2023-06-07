@@ -789,7 +789,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686209400,
-        "last_update": 1686117116425,
+        "last_update": 1686118694790,
         "live": false,
         "participants": [
             {
@@ -900,7 +900,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1686209400,
         "season_number": "1",
-        "serial": 1686117116218,
+        "serial": 1686118694660,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
@@ -911,5 +911,42 @@
         "title": "Theo's Comeback Tour",
         "title_id": "2388929",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "14JG9C",
+        "create_time": 1686118694790,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16164630",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1686211200,
+        "last_update": 1686118694790,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1686211200,
+        "season_number": "2",
+        "serial": 1686118694660,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1803,
+        "show_id": "1060792956",
+        "show_timestamp": 1686211200,
+        "status": "estimated",
+        "summary": "Fry goes to college to prove the adage: Once, a dropout; always, a dropout.",
+        "title": "Mars University",
+        "title_id": "437543",
+        "tv_rating": "TV-PG"
     }
 ]
