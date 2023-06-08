@@ -938,5 +938,101 @@
         "title": "I Second That Emotion",
         "title_id": "437546",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "3GC26",
+        "create_time": 1686209802803,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16164661",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1686301200,
+        "last_update": 1686209802803,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1686301200,
+        "season_number": "2",
+        "serial": 1686209802620,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1059659782",
+        "show_timestamp": 1686301200,
+        "status": "estimated",
+        "summary": "A bank robber holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis.",
+        "title": "Bob Day Afternoon",
+        "title_id": "2003437",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "3GC34",
+        "create_time": 1686209802803,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": "16164676",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1686303000,
+        "last_update": 1686209802803,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1686303000,
+        "season_number": "2",
+        "serial": 1686209802620,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1059659854",
+        "show_timestamp": 1686303000,
+        "status": "estimated",
+        "summary": "The kids con their way out of gym class with a bogus synchronized swimming independent study. Meanwhile, Bob welcomes a new soft serve ice cream machine to the restaurant.",
+        "title": "Synchronized Swimming",
+        "title_id": "2003438",
+        "tv_rating": "TV-PG"
     }
 ]
