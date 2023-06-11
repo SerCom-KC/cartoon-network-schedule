@@ -3348,7 +3348,7 @@
             "Animation"
         ],
         "guide_timestamp": 1686517200,
-        "last_update": 1686423198283,
+        "last_update": 1686441276465,
         "live": false,
         "participants": [
             {
@@ -3399,7 +3399,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1686517200,
         "season_number": "7",
-        "serial": 1686423197954,
+        "serial": 1686441276215,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 840,
@@ -3964,6 +3964,161 @@
         "summary": "Roger and Steve try to save a dying mall.",
         "title": "You Are Here",
         "title_id": "2342104",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1F5JWV",
+        "create_time": 1686441049020,
+        "episode_in_season": "16",
+        "episode_number": "S17:E16",
+        "external_id": "16164739",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1686533400,
+        "last_update": 1686441049020,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1686533400,
+        "season_number": "17",
+        "serial": 1686441048797,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1804,
+        "show_id": "1060990855",
+        "show_timestamp": 1686533400,
+        "status": "estimated",
+        "summary": "Barry blows out his dad's speakers and Snot helps him replace them. Stan attempts to do a standing backflip.",
+        "title": "I Heard You Wanna Buy Some Speakers",
+        "title_id": "2342101",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "1F5MC6",
+        "create_time": 1686442090581,
+        "episode_in_season": "17",
+        "episode_number": "S17:E17",
+        "external_id": "16164747",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1686535200,
+        "last_update": 1686442090581,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1686535200,
+        "season_number": "17",
+        "serial": 1686442090222,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "1060990878",
+        "show_timestamp": 1686535200,
+        "status": "estimated",
+        "summary": "Stan is forced to co-lead a scouts troop with Hayley while Steve blunders in his fantasy world.",
+        "title": "Hayley Was a Girl Scout?",
+        "title_id": "2342103",
         "tv_rating": "TV-14"
     }
 ]
