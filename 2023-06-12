@@ -711,7 +711,7 @@
             "Talk"
         ],
         "guide_timestamp": 1686555900,
-        "last_update": 1686462718141,
+        "last_update": 1686464176167,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -720,7 +720,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1686555900,
         "season_number": "6",
-        "serial": 1686462717939,
+        "serial": 1686464175948,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
         "show_duration": 900,
@@ -731,5 +731,44 @@
         "title": "Football Is Back",
         "title_id": "2418684",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "14KF0X",
+        "create_time": 1686464176167,
+        "episode_in_season": "13",
+        "episode_number": "S2:E13",
+        "external_id": "16164779",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1686556800,
+        "last_update": 1686464176167,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1686556800,
+        "season_number": "2",
+        "serial": 1686464175948,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1060792640",
+        "show_timestamp": 1686556800,
+        "status": "estimated",
+        "summary": "Leela accepts a male cyclops' marriage proposal.",
+        "title": "A Bicyclops Built for Two",
+        "title_id": "437554",
+        "tv_rating": "TV-14"
     }
 ]
