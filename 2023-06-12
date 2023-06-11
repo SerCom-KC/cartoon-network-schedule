@@ -4464,7 +4464,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686596400,
-        "last_update": 1686502908042,
+        "last_update": 1686506139780,
         "live": false,
         "participants": [
             {
@@ -4505,7 +4505,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1686596400,
         "season_number": "6",
-        "serial": 1686502908164,
+        "serial": 1686506139570,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 905,
@@ -4535,7 +4535,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686597300,
-        "last_update": 1686503958384,
+        "last_update": 1686506139780,
         "live": false,
         "participants": [
             {
@@ -4576,7 +4576,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1686597305,
         "season_number": "6",
-        "serial": 1686503958095,
+        "serial": 1686506139570,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -4604,7 +4604,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686598200,
-        "last_update": 1686506081301,
+        "last_update": 1686506139780,
         "live": false,
         "participants": [
             {
@@ -4645,7 +4645,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1686598200,
         "season_number": "2",
-        "serial": 1686506081137,
+        "serial": 1686506139570,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 1800,
@@ -4655,6 +4655,75 @@
         "summary": "The Promise: Darwin has promised to play video games with Gumball, but there is a Banana Joe-shaped problem... The Voice: When Gumball and Darwin receive a scary email, everyone is a suspect... including themselves!",
         "title": "The Promise/The Voice",
         "title_id": "2000121",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1VDVN",
+        "create_time": 1686507206014,
+        "episode_number": "35",
+        "external_id": "16138555",
+        "feed_id": "as-east",
+        "franchise_id": "376453",
+        "franchise_name": "Amazing World of Gumball",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1686600000,
+        "last_update": 1686507206014,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1686600000,
+        "season_number": "2",
+        "serial": 1686507205773,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 1805,
+        "show_id": "1060064425",
+        "show_timestamp": 1686600000,
+        "status": "estimated",
+        "summary": "The Boombox: Gumball and Darwin try to understand Juke's urgent Beatbox message, but why won't he just speak English?!! The Castle: When Mom is away \"anything goes\" and Dad's lack of rules soon attracts unwelcome houseguests.",
+        "title": "The Boombox/The Castle",
+        "title_id": "2000122",
         "tv_rating": "TV-Y7-FV"
     }
 ]
