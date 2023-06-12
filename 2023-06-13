@@ -125,7 +125,7 @@
             "Talk"
         ],
         "guide_timestamp": 1686631500,
-        "last_update": 1686540540505,
+        "last_update": 1686544710481,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -134,7 +134,7 @@
         "scheduled_duration": 907,
         "scheduled_timestamp": 1686631500,
         "season_number": "3",
-        "serial": 1686540540754,
+        "serial": 1686544710109,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
         "show_duration": 907,
@@ -272,7 +272,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686633300,
-        "last_update": 1686540540505,
+        "last_update": 1686544710481,
         "live": false,
         "participants": [
             {
@@ -343,7 +343,7 @@
         "scheduled_duration": 917,
         "scheduled_timestamp": 1686633300,
         "season_number": "10",
-        "serial": 1686540540754,
+        "serial": 1686544710109,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 917,
@@ -489,7 +489,7 @@
             "Drama"
         ],
         "guide_timestamp": 1686636000,
-        "last_update": 1686543394468,
+        "last_update": 1686544710481,
         "live": false,
         "participants": [
             {
@@ -540,7 +540,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1686636000,
         "season_number": "2",
-        "serial": 1686543394109,
+        "serial": 1686544710109,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -552,5 +552,81 @@
         "title": "The Uncle Ruckus Reality Show",
         "title_id": "682885",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "3GN99",
+        "create_time": 1686544271736,
+        "episode_in_season": "6",
+        "episode_number": "S2:E06",
+        "external_id": "16184884",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1686637800,
+        "last_update": 1686544710481,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1686637800,
+        "season_number": "2",
+        "serial": 1686544710109,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1062591624",
+        "show_timestamp": 1686637800,
+        "status": "estimated",
+        "summary": "Steve starts dating an overweight girl. Stan's insecurity about his own body image leads him to anorexia.",
+        "title": "The American Dad After School Special",
+        "title_id": "700753",
+        "tv_rating": "TV-14"
     }
 ]
