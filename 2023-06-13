@@ -86,7 +86,7 @@
             "Talk"
         ],
         "guide_timestamp": 1686630600,
-        "last_update": 1686537142114,
+        "last_update": 1686551800514,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -95,7 +95,7 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1686630600,
         "season_number": "3",
-        "serial": 1686537142378,
+        "serial": 1686551800294,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
         "show_duration": 903,
@@ -168,7 +168,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686632400,
-        "last_update": 1686540540505,
+        "last_update": 1686551800514,
         "live": false,
         "participants": [
             {
@@ -239,7 +239,7 @@
         "scheduled_duration": 910,
         "scheduled_timestamp": 1686632400,
         "season_number": "10",
-        "serial": 1686540540754,
+        "serial": 1686551800294,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 910,
@@ -370,7 +370,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686634200,
-        "last_update": 1686543394468,
+        "last_update": 1686551801034,
         "live": false,
         "participants": [
             {
@@ -401,7 +401,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1686634200,
         "season_number": "9",
-        "serial": 1686543394109,
+        "serial": 1686551800748,
         "series_id": "896639",
         "series_name": "Aqua Something You Know Whatever",
         "show_duration": 900,
@@ -720,7 +720,7 @@
             "Animation"
         ],
         "guide_timestamp": 1686641400,
-        "last_update": 1686549885045,
+        "last_update": 1686551801034,
         "live": false,
         "participants": [
             {
@@ -756,7 +756,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1686641400,
         "season_number": "5",
-        "serial": 1686549884743,
+        "serial": 1686551800748,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1804,
@@ -803,6 +803,46 @@
         "summary": "Professor Farnsworth decides to retire and revives his clone.",
         "title": "A Clone of My Own",
         "title_id": "437556",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "14KF12",
+        "create_time": 1686551801034,
+        "episode_in_season": "16",
+        "episode_number": "S2:E16",
+        "external_id": "16164648",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1686645000,
+        "last_update": 1686551801034,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1824,
+        "scheduled_timestamp": 1686645000,
+        "season_number": "2",
+        "serial": 1686551800748,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1824,
+        "show_id": "1060795600",
+        "show_timestamp": 1686645000,
+        "status": "estimated",
+        "summary": "Bender's giant hook causes the Planet Express to sink.",
+        "title": "The Deep South",
+        "title_id": "437557",
         "tv_rating": "TV-PG"
     }
 ]
