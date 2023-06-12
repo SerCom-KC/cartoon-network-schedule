@@ -2025,7 +2025,7 @@
             "Family"
         ],
         "guide_timestamp": 1686658200,
-        "last_update": 1686609404012,
+        "last_update": 1686613159278,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2034,7 +2034,7 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1686658307,
         "season_number": "1",
-        "serial": 1686609403397,
+        "serial": 1686613159677,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 180,
@@ -2062,7 +2062,7 @@
             "Family"
         ],
         "guide_timestamp": 1686658500,
-        "last_update": 1686609404012,
+        "last_update": 1686613159278,
         "live": false,
         "participants": [
             {
@@ -2173,7 +2173,7 @@
         "scheduled_duration": 123,
         "scheduled_timestamp": 1686658457,
         "season_number": "1",
-        "serial": 1686609403397,
+        "serial": 1686613159677,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
         "show_duration": 123,
@@ -3955,7 +3955,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686671100,
-        "last_update": 1686609406696,
+        "last_update": 1686613159809,
         "live": false,
         "participants": [
             {
@@ -3981,7 +3981,7 @@
         "scheduled_duration": 875,
         "scheduled_timestamp": 1686671105,
         "season_number": "1",
-        "serial": 1686609406116,
+        "serial": 1686613160349,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 875,
@@ -6054,7 +6054,7 @@
             "Family"
         ],
         "guide_timestamp": 1686704400,
-        "last_update": 1686611621920,
+        "last_update": 1686613160507,
         "live": false,
         "participants": [
             {
@@ -6070,7 +6070,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1686704400,
         "season_number": "2",
-        "serial": 1686611621676,
+        "serial": 1686613160902,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -6080,6 +6080,54 @@
         "summary": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.",
         "title": "Beefsquatch",
         "title_id": "2003444",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "3GJP5",
+        "create_time": 1686612761693,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "16164441",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1686706200,
+        "last_update": 1686613160507,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1686706200,
+        "season_number": "3",
+        "serial": 1686613160902,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1060795493",
+        "show_timestamp": 1686706200,
+        "status": "estimated",
+        "summary": "A biker gang hangs out at Bob's Burgers as they mourn the loss of their beloved leader \"Horny Dave.\" Meanwhile, Louise has an identity crisis when her bunny ears are stolen and everyone - including the biker gang - rallies around her.",
+        "title": "Ear-sy Rider",
+        "title_id": "2003512",
         "tv_rating": "TV-14"
     }
 ]
