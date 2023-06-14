@@ -5021,7 +5021,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686771000,
-        "last_update": 1686695434220,
+        "last_update": 1686706029525,
         "live": false,
         "participants": [
             {
@@ -5062,7 +5062,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1686771000,
         "season_number": "3",
-        "serial": 1686695433664,
+        "serial": 1686706029028,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 1800,
@@ -6169,7 +6169,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686796200,
-        "last_update": 1686702991721,
+        "last_update": 1686705755002,
         "live": false,
         "participants": [
             {
@@ -6215,7 +6215,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1686796200,
         "season_number": "2",
-        "serial": 1686702991477,
+        "serial": 1686705754654,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -6226,6 +6226,151 @@
         "summary_long": "When Steve realizes he's smarter than Stan, he throws it in Stan's face and moves with Roger to New York City to become writers. There, they quickly realize they're short on street smarts when they fall in with the pretentious hairdresser, Mr. Beauregard. Meanwhile, we catch a glimpse of the lives of the squirrels living in the Smith's backyard.",
         "title": "Irregarding Steve",
         "title_id": "700759",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "3GNFV",
+        "create_time": 1686704861515,
+        "episode_in_season": "14",
+        "episode_number": "S2:E14",
+        "external_id": "16164485",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1686798000,
+        "last_update": 1686705755002,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1686798000,
+        "season_number": "2",
+        "serial": 1686705754654,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1803,
+        "show_id": "1060795247",
+        "show_timestamp": 1686798000,
+        "status": "estimated",
+        "summary": "President Bush comes to dinner when Stan wins an essay-writing contest. Hayley is determined to bring down the presidency after Roger accidentally gets Bush drunk. Meanwhile, Roger thinks he's found Osama bin Laden.",
+        "title": "Bush Comes to Dinner",
+        "title_id": "700761",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "Y1T0D",
+        "create_time": 1686706619558,
+        "episode_in_season": "8",
+        "episode_number": "S5:E08",
+        "external_id": "16164500",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1686799800,
+        "last_update": 1686706619558,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1686799800,
+        "season_number": "5",
+        "serial": 1686706619383,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1060795248",
+        "show_timestamp": 1686799800,
+        "status": "estimated",
+        "summary": "Friendship is hard. It's like a journey of the mind, broh.",
+        "title": "Rickternal Friendshine of the Spotless Mort",
+        "title_id": "2270465",
         "tv_rating": "TV-14"
     }
 ]
