@@ -715,7 +715,7 @@
             "Animation"
         ],
         "guide_timestamp": 1686814200,
-        "last_update": 1686721032729,
+        "last_update": 1686722850366,
         "live": false,
         "participants": [
             {
@@ -751,7 +751,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1686814200,
         "season_number": "5",
-        "serial": 1686721032564,
+        "serial": 1686722850352,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1806,
@@ -761,6 +761,45 @@
         "summary": "Two Crows, broh. These guys are mad smart.",
         "title": "Forgetting Sarick Mortshall",
         "title_id": "2270466",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "13CMN7",
+        "create_time": 1686722850366,
+        "episode_in_season": "19",
+        "episode_number": "S2:E19",
+        "external_id": "16164635",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1686816000,
+        "last_update": 1686722850366,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1686816000,
+        "season_number": "2",
+        "serial": 1686722850352,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1810,
+        "show_id": "1060795487",
+        "show_timestamp": 1686816000,
+        "status": "estimated",
+        "summary": "Mom wants world domination for a Mother's Day gift.",
+        "title": "Mother's Day",
+        "title_id": "437690",
         "tv_rating": "TV-14"
     }
 ]
