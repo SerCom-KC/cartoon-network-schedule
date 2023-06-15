@@ -135,7 +135,7 @@
             "Talk"
         ],
         "guide_timestamp": 1686890700,
-        "last_update": 1686798059923,
+        "last_update": 1686803793834,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -144,7 +144,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1686890700,
         "season_number": "4",
-        "serial": 1686798059598,
+        "serial": 1686803793352,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
         "show_duration": 901,
@@ -554,5 +554,82 @@
         "title": "Pause",
         "title_id": "790590",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "2WN9D",
+        "create_time": 1686803793834,
+        "episode_in_season": "15",
+        "episode_number": "S2:E15",
+        "external_id": "16184887",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1686897000,
+        "last_update": 1686803793834,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1686897000,
+        "season_number": "2",
+        "serial": 1686803793352,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1062591553",
+        "show_timestamp": 1686897000,
+        "status": "estimated",
+        "summary": "Stan feels like he's not climbing the ladder fast enough at work, so he turns to his lifelong ambition of making festive teddy bears.",
+        "summary_long": "Stan feels like he's not climbing the ladder fast enough at work, so he turns to his lifelong ambition of making festive teddy bears. However, when he realizes that making a quick profit takes a lot of work, he resorts to using illegal aliens as cheap labor.",
+        "title": "American Dream Factory",
+        "title_id": "700762",
+        "tv_rating": "TV-14"
     }
 ]
