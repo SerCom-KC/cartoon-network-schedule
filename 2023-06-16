@@ -723,7 +723,7 @@
             "Animation"
         ],
         "guide_timestamp": 1686900600,
-        "last_update": 1686807877567,
+        "last_update": 1686808790610,
         "live": false,
         "participants": [
             {
@@ -759,7 +759,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1686900600,
         "season_number": "1",
-        "serial": 1686807877412,
+        "serial": 1686808790140,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1803,
@@ -770,5 +770,46 @@
         "title": "Pilot",
         "title_id": "2013517",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14M0C9",
+        "create_time": 1686808830859,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "16164636",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1686902400,
+        "last_update": 1686809547825,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1686902400,
+        "season_number": "3",
+        "serial": 1686809547546,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1060795712",
+        "show_timestamp": 1686902400,
+        "status": "estimated",
+        "summary": "Bender must spend a full night in a gothic castle in order to collect an inheritance.",
+        "title": "The Honking",
+        "title_id": "437694",
+        "tv_rating": "TV-PG"
     }
 ]
