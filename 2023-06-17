@@ -456,7 +456,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1686985200,
-        "last_update": 1686891718506,
+        "last_update": 1686894533179,
         "live": false,
         "participants": [
             {
@@ -502,7 +502,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1686985200,
         "season_number": "2",
-        "serial": 1686891718256,
+        "serial": 1686894532883,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1803,
@@ -513,5 +513,45 @@
         "title": "When Stan Loves a Woman",
         "title_id": "700767",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "V"
+        ],
+        "content_id": "14M0WV",
+        "create_time": 1686894286140,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "16164626",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1686987000,
+        "last_update": 1686894533179,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1686987000,
+        "season_number": "3",
+        "serial": 1686894532883,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1808,
+        "show_id": "1060796073",
+        "show_timestamp": 1686987000,
+        "status": "estimated",
+        "summary": "Fry and Bender's behavior causes all the Planet Express crewmen to lose their jobs.",
+        "title": "The Cryonic Woman",
+        "title_id": "437695",
+        "tv_rating": "TV-PG"
     }
 ]
