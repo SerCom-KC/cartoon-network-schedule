@@ -242,7 +242,7 @@
             "Action"
         ],
         "guide_timestamp": 1687069800,
-        "last_update": 1686976176733,
+        "last_update": 1686983649879,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -251,7 +251,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1687069800,
         "season_number": "6",
-        "serial": 1686976176494,
+        "serial": 1686983649206,
         "series_id": "2142267",
         "series_name": "My Hero Academia",
         "show_duration": 1800,
@@ -410,7 +410,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1687075200,
-        "last_update": 1686982878309,
+        "last_update": 1686983650288,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -419,7 +419,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1687075200,
         "season_number": "3",
-        "serial": 1686982878028,
+        "serial": 1686983649596,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -429,6 +429,46 @@
         "summary": "Bender meets a charming fembot in the Bending Factory when Farnsworth sends him there for rehabilitation.",
         "title": "Bendless Love",
         "title_id": "437699",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "14M59V",
+        "create_time": 1686983650288,
+        "episode_in_season": "9",
+        "episode_number": "S3:E09",
+        "external_id": "16164792",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1687077000,
+        "last_update": 1686983650288,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1687077000,
+        "season_number": "3",
+        "serial": 1686983649596,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "1060795185",
+        "show_timestamp": 1687077000,
+        "status": "estimated",
+        "summary": "Bender transports hazardous cargo through a penguin refuge on Pluto.",
+        "title": "Birdbot of Ice-Catraz",
+        "title_id": "437702",
         "tv_rating": "TV-PG"
     }
 ]
