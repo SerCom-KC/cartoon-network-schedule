@@ -711,7 +711,7 @@
             "Talk"
         ],
         "guide_timestamp": 1687160700,
-        "last_update": 1687067284966,
+        "last_update": 1687068992865,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -720,7 +720,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1687160700,
         "season_number": "6",
-        "serial": 1687067284506,
+        "serial": 1687068992695,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
         "show_duration": 905,
@@ -731,5 +731,44 @@
         "title": "Don't You Say a Word",
         "title_id": "2418686",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "14M579",
+        "create_time": 1687068992865,
+        "episode_in_season": "7",
+        "episode_number": "S3:E07",
+        "external_id": "16164780",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1687161600,
+        "last_update": 1687068992865,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1687161600,
+        "season_number": "3",
+        "serial": 1687068992695,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1802,
+        "show_id": "1060794987",
+        "show_timestamp": 1687161600,
+        "status": "estimated",
+        "summary": "Flying brains with the power to reduce human intelligence conquer Earth.",
+        "title": "The Day the Earth Stood Stupid",
+        "title_id": "437700",
+        "tv_rating": "TV-PG"
     }
 ]
