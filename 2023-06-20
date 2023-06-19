@@ -6155,7 +6155,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1687300200,
-        "last_update": 1687208114935,
+        "last_update": 1687215872209,
         "live": false,
         "participants": [
             {
@@ -6216,7 +6216,7 @@
         "scheduled_duration": 60,
         "scheduled_timestamp": 1687300121,
         "season_number": "1",
-        "serial": 1687208114679,
+        "serial": 1687215871338,
         "series_id": "2106724",
         "series_name": "Lamput",
         "show_duration": 60,
@@ -6478,7 +6478,7 @@
             "Drama"
         ],
         "guide_timestamp": 1687307400,
-        "last_update": 1687214818799,
+        "last_update": 1687215872209,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -6487,7 +6487,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1687307400,
         "season_number": "7",
-        "serial": 1687214818632,
+        "serial": 1687215871338,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
@@ -6497,6 +6497,53 @@
         "summary": "After Hank catches Bobby freak dancing at a concert, he forbids his son from attending a boys-and-girls slumber party-but Bobby sneaks off on his own.",
         "title": "Get Your Freak Off",
         "title_id": "731398",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "3GJP9",
+        "create_time": 1687215872209,
+        "episode_in_season": "12",
+        "episode_number": "S3:E12",
+        "external_id": "16164431",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1687309200,
+        "last_update": 1687215872209,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1687309200,
+        "season_number": "3",
+        "serial": 1687215871338,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1060803088",
+        "show_timestamp": 1687309200,
+        "status": "estimated",
+        "summary": "There is a \"Mad Pooper\" running wild at the Belcher children's middle school and Tina finds herself on a mission to get to the \"bottom\" of the situation.",
+        "title": "Broadcast Wagstaff School News",
+        "title_id": "2003523",
         "tv_rating": "TV-PG"
     }
 ]
