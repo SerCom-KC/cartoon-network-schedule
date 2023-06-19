@@ -6518,7 +6518,7 @@
             "Family"
         ],
         "guide_timestamp": 1687309200,
-        "last_update": 1687215872209,
+        "last_update": 1687218170050,
         "live": false,
         "participants": [
             {
@@ -6534,7 +6534,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1687309200,
         "season_number": "3",
-        "serial": 1687215871338,
+        "serial": 1687218169788,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -6545,5 +6545,53 @@
         "title": "Broadcast Wagstaff School News",
         "title_id": "2003523",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "3GK0P",
+        "create_time": 1687218170050,
+        "episode_in_season": "13",
+        "episode_number": "S3:E13",
+        "external_id": "16164446",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1687311000,
+        "last_update": 1687218170050,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1687311000,
+        "season_number": "3",
+        "serial": 1687218169788,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1060803230",
+        "show_timestamp": 1687311000,
+        "status": "estimated",
+        "summary": "When a heart-shaped pancake simply doesn't cut it, the kids convince Bob to let them skip school in order to help him find a Valentine's Day gift that will \"wow\" Linda.",
+        "summary_long": "When a heart-shaped pancake simply doesn't cut it, the kids convince Bob to let them skip school in order to help him find a Valentine's Day gift that will \"wow\" Linda. Meanwhile, in the spirit of the romantic holiday, Linda sets up a speed-dating event at the restaurant that doesn't go exactly as planned.",
+        "title": "My Fuzzy Valentine",
+        "title_id": "2003524",
+        "tv_rating": "TV-14"
     }
 ]
