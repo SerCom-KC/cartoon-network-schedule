@@ -379,7 +379,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1687325400,
-        "last_update": 1687234033601,
+        "last_update": 1687238582046,
         "live": false,
         "participants": [
             {
@@ -405,7 +405,7 @@
         "scheduled_duration": 937,
         "scheduled_timestamp": 1687325400,
         "season_number": "10",
-        "serial": 1687234033330,
+        "serial": 1687238581383,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
         "show_duration": 937,
@@ -435,7 +435,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1687326300,
-        "last_update": 1687234033601,
+        "last_update": 1687238582046,
         "live": false,
         "participants": [
             {
@@ -461,7 +461,7 @@
         "scheduled_duration": 913,
         "scheduled_timestamp": 1687326300,
         "season_number": "10",
-        "serial": 1687234033330,
+        "serial": 1687238581383,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
         "show_duration": 913,
@@ -551,5 +551,152 @@
         "title": "Mr. Medicinal",
         "title_id": "798564",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "3GNH1",
+        "create_time": 1687238281395,
+        "episode_in_season": "2",
+        "episode_number": "S3:E02",
+        "external_id": "16184975",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1687329000,
+        "last_update": 1687238582046,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1687329000,
+        "season_number": "3",
+        "serial": 1687238581383,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1062683667",
+        "show_timestamp": 1687329000,
+        "status": "estimated",
+        "summary": "Stan prays for a friend and thinks God sent him one, but the friend turns out to be an atheist. Stan tries to convince his friend that God exists by making his life extremely hard, but the plan backfires.",
+        "summary_long": "Stan prays for a friend and thinks God sent him one, but the friend turns out to be an atheist. Stan tries to convince his friend that God exists by making his life extremely hard, but the plan backfires. Meanwhile, Roger convinces Steve that he has been accepted to Hogwarts.",
+        "title": "Dope and Faith",
+        "title_id": "700735",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "3W972",
+        "create_time": 1687238281395,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "16164609",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1687330800,
+        "last_update": 1687238281395,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1687330800,
+        "season_number": "1",
+        "serial": 1687238281091,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1062683689",
+        "show_timestamp": 1687330800,
+        "status": "estimated",
+        "summary": "Rick helps Morty win over the girl of his dreams in this one, broh. Fist bump me, broh.",
+        "title": "Rick Potion #9",
+        "title_id": "2013508",
+        "tv_rating": "TV-14"
     }
 ]
