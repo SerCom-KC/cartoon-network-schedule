@@ -721,7 +721,7 @@
             "Animation"
         ],
         "guide_timestamp": 1687332600,
-        "last_update": 1687241491596,
+        "last_update": 1687246335623,
         "live": false,
         "participants": [
             {
@@ -757,7 +757,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1687332600,
         "season_number": "1",
-        "serial": 1687241491371,
+        "serial": 1687246334819,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -826,7 +826,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1687336200,
-        "last_update": 1687244985949,
+        "last_update": 1687246336212,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -835,7 +835,7 @@
         "scheduled_duration": 1833,
         "scheduled_timestamp": 1687336200,
         "season_number": "3",
-        "serial": 1687244985707,
+        "serial": 1687246335366,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1833,
@@ -866,7 +866,7 @@
             "Family"
         ],
         "guide_timestamp": 1687338000,
-        "last_update": 1687244985949,
+        "last_update": 1687246336212,
         "live": false,
         "participants": [
             {
@@ -882,7 +882,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1687338000,
         "season_number": "3",
-        "serial": 1687244985707,
+        "serial": 1687246335366,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1806,
@@ -893,5 +893,53 @@
         "title": "Broadcast Wagstaff School News",
         "title_id": "2003523",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "3GK0P",
+        "create_time": 1687246336212,
+        "episode_in_season": "13",
+        "episode_number": "S3:E13",
+        "external_id": "16164684",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1687339800,
+        "last_update": 1687246336212,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1687339800,
+        "season_number": "3",
+        "serial": 1687246335366,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1060804915",
+        "show_timestamp": 1687339800,
+        "status": "estimated",
+        "summary": "When a heart-shaped pancake simply doesn't cut it, the kids convince Bob to let them skip school in order to help him find a Valentine's Day gift that will \"wow\" Linda.",
+        "summary_long": "When a heart-shaped pancake simply doesn't cut it, the kids convince Bob to let them skip school in order to help him find a Valentine's Day gift that will \"wow\" Linda. Meanwhile, in the spirit of the romantic holiday, Linda sets up a speed-dating event at the restaurant that doesn't go exactly as planned.",
+        "title": "My Fuzzy Valentine",
+        "title_id": "2003524",
+        "tv_rating": "TV-14"
     }
 ]
