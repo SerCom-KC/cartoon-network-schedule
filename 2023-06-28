@@ -552,5 +552,83 @@
         "title": "Good Times",
         "title_id": "2008053",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "3GNN5",
+        "create_time": 1687840882393,
+        "episode_in_season": "19",
+        "episode_number": "S3:E19",
+        "external_id": "16184980",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1687933800,
+        "last_update": 1687840882393,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1687933800,
+        "season_number": "3",
+        "serial": 1687840882165,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1063699465",
+        "show_timestamp": 1687933800,
+        "status": "estimated",
+        "summary": "Stan becomes jealous when he finds out Francine was once engaged to a pilot whose plane crashed, and she seemed to settle for Stan before learning her former fianc\u00e9 was alive. Francine must choose between her husband and her lost love.",
+        "summary_long": "Stan becomes jealous when he finds out Francine was once engaged to a pilot whose plane crashed, and she seemed to settle for Stan before learning her former fianc\u00e9 was still alive. Stan and Roger try to track the man down, while Francine must choose between her husband and her lost love.",
+        "title": "Choosey Wives Choose Smith",
+        "title_id": "700747",
+        "tv_rating": "TV-14"
     }
 ]
