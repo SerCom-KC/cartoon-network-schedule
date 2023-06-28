@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1687924800,
-        "last_update": 1687832840726,
+        "last_update": 1687914119598,
         "live": false,
         "participants": [
             {
@@ -56,10 +56,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1687924800,
         "season_number": "2",
-        "serial": 1687832840448,
+        "serial": 1687914119412,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1766,
         "show_id": "1061633892",
         "show_timestamp": 1687924800,
         "status": "estimated",
@@ -87,7 +87,7 @@
             "Talk"
         ],
         "guide_timestamp": 1687926600,
-        "last_update": 1687833901496,
+        "last_update": 1687912284562,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -96,12 +96,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1687926600,
         "season_number": "5",
-        "serial": 1687833901182,
+        "serial": 1687912284244,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
-        "show_duration": 900,
+        "show_duration": 910,
         "show_id": "1063698769",
-        "show_timestamp": 1687926600,
+        "show_timestamp": 1687926566,
         "status": "estimated",
         "summary": "Eric welcomes Mercedes Javid and Brenda Song and punishes Grimes. He also gives his dead boss some ranch!",
         "title": "The A$AP Ferg Show",
@@ -6294,6 +6294,163 @@
         "summary_long": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. However, things take a turn for the worse when the kids build their own fort and find themselves held hostage by Louise's wacko friend, Millie.",
         "title": "Fort Night",
         "title_id": "2030305",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3GNWF",
+        "create_time": 1687911279777,
+        "episode_in_season": "22",
+        "episode_number": "S3:E22",
+        "external_id": "16164854",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1688004000,
+        "last_update": 1687911279777,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1688004000,
+        "season_number": "3",
+        "serial": 1687911279312,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "1061637353",
+        "show_timestamp": 1688004000,
+        "status": "estimated",
+        "summary": "Congress has cut the CIA torture budget in favor of helping kids learn to read. The CIA must figure out a way to raise $1 million to fund their torture program. Stan wants to prove he's an idea man so he struggles to figure it out.",
+        "summary_long": "Congress has cut the CIA torture budget in favor of using that money to help inner city kids learn how to read. The CIA must figure out a new way to raise $1 million to fund their torture program. Stan wants to prove he's an idea man so he struggles to figure out a way to raise the money. Roger mentions to Stan that a telethon would be a great idea. At first Stan dismisses it; but the next day Stan bounds into the house and announces to his family his boss loved his idea of a CIA telethon.",
+        "title": "Phantom of the Telethon",
+        "title_id": "711535",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "3GW73",
+        "create_time": 1687913264765,
+        "episode_in_season": "1",
+        "episode_number": "S4:E01",
+        "external_id": "16164859",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1688005800,
+        "last_update": 1687913264765,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1688005800,
+        "season_number": "4",
+        "serial": 1687913264454,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1061637402",
+        "show_timestamp": 1688005800,
+        "status": "estimated",
+        "summary": "While Steve is showering after gym class, it is pointed out to him that he has scoliosis! Stan takes him to the doctor, who confirms the ugly truth, and gives him a huge back brace to wear to correct the curvature.",
+        "summary_long": "While Steve is showering after gym class, it is pointed out to him that he has scoliosis! Stan takes him to the doctor, who confirms the ugly truth, and gives him a huge back brace to wear to correct the curvature. Steve is absolutely mortified, and refuses to go to school. Stan persuades him into going by pointing out it's not the outside that matters, but the inside.",
+        "title": "Chimdale",
+        "title_id": "711539",
         "tv_rating": "TV-14"
     }
 ]
