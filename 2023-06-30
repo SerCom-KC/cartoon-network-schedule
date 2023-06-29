@@ -788,5 +788,53 @@
         "title": "The Sting",
         "title_id": "444754",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "2YFVH",
+        "create_time": 1688022987629,
+        "episode_in_season": "3",
+        "episode_number": "S4:E03",
+        "external_id": "16164924",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1688115600,
+        "last_update": 1688022987629,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1688115600,
+        "season_number": "4",
+        "serial": 1688022987450,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1061633655",
+        "show_timestamp": 1688115600,
+        "status": "estimated",
+        "summary": "Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of \"Upskirt Kurt,\" the most charming pilot in the air.",
+        "title": "Seaplane!",
+        "title_id": "2030306",
+        "tv_rating": "TV-14"
     }
 ]
