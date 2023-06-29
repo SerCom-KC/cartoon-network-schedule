@@ -5219,5 +5219,130 @@
         "title": "The Suitor",
         "title_id": "977614",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1V4VW",
+        "create_time": 1688072565465,
+        "episode_number": "S5:EL26",
+        "external_id": "16175112",
+        "feed_id": "as-east",
+        "franchise_id": "368594",
+        "franchise_name": "Adventure Time",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1688165100,
+        "last_update": 1688072565465,
+        "live": false,
+        "participants": [
+            {
+                "character": "Finn",
+                "name": "Jeremy Shada",
+                "role": "Voice"
+            },
+            {
+                "character": "Jake",
+                "name": "John DiMaggio",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1688165103,
+        "season_number": "5",
+        "serial": 1688072565178,
+        "series_id": "757073",
+        "series_name": "Adventure Time",
+        "show_duration": 900,
+        "show_id": "1061635507",
+        "show_timestamp": 1688165103,
+        "status": "estimated",
+        "summary": "Princess Bubblegum believes magic is nothing but a bunch of hooey. When Starchy gets sick and asks her to use magic to cure him, she asks Finn and Jake to help her sneak into Wizard City to get a cold spell.",
+        "title": "Wizards Only, Fools",
+        "title_id": "977613",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "1FC9KW",
+        "create_time": 1688072565465,
+        "episode_in_season": "9",
+        "episode_number": "S1:E09",
+        "external_id": "16164826",
+        "feed_id": "as-east",
+        "franchise_id": "486212",
+        "franchise_name": "Unicorn: Warriors Eternal",
+        "genres": [
+            "Action",
+            "Animation"
+        ],
+        "guide_timestamp": 1688166000,
+        "last_update": 1688072565465,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Darrick Bachman",
+                "role": "Writer"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Shareena Carlson",
+                "role": "Producer"
+            },
+            {
+                "character": "Melinda",
+                "name": "Hazel Doupe",
+                "role": "Voice"
+            },
+            {
+                "character": "Edred",
+                "name": "Tom Milligan",
+                "role": "Voice"
+            },
+            {
+                "character": "Seng",
+                "name": "Demari Hunte",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1688166000,
+        "season_number": "1",
+        "serial": 1688072565178,
+        "series_id": "2267325",
+        "series_name": "Unicorn: Warriors Eternal",
+        "show_duration": 1800,
+        "show_id": "1061635536",
+        "show_timestamp": 1688166000,
+        "status": "estimated",
+        "summary": "Unicorn's struggle with the Evil Entity takes them to an unexpected place where their foe's power grows exponentially.",
+        "title": "A Love's Last Light",
+        "title_id": "2267334",
+        "tv_rating": "TV-PG"
     }
 ]
