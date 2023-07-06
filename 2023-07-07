@@ -548,5 +548,83 @@
         "title": "Freedomland",
         "title_id": "2008061",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3GPWH",
+        "create_time": 1688617886631,
+        "episode_in_season": "19",
+        "episode_number": "S4:E19",
+        "external_id": "16186696",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1688711400,
+        "last_update": 1688617886631,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1688711400,
+        "season_number": "4",
+        "serial": 1688617886430,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1064440423",
+        "show_timestamp": 1688711400,
+        "status": "estimated",
+        "summary": "Upset that Francine has let herself go, Stan takes drastic measures when she asks him to renew their wedding vows.",
+        "title": "Shallow Vows",
+        "title_id": "748131",
+        "tv_rating": "TV-14"
     }
 ]
