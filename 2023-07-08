@@ -21,7 +21,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1688788800,
-        "last_update": 1688778083814,
+        "last_update": 1688781682823,
         "live": false,
         "participants": [
             {
@@ -92,12 +92,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1688788800,
         "season_number": "5",
-        "serial": 1688778081887,
+        "serial": 1688781682507,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 1797,
         "show_id": "1064439562",
-        "show_timestamp": 1688788800,
+        "show_timestamp": 1688788808,
         "status": "estimated",
         "summary": "The Robot Chicken Nerd, the Humping Robot, Composite Santa, and the Mad Scientist join characters of the DC Comics universe to poke fun at those with the most impressive powers and the lesser ones who can't really be called superheroes.",
         "title": "Robot Chicken: DC Comics Special",
@@ -124,7 +124,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1688790600,
-        "last_update": 1688699953469,
+        "last_update": 1688779910417,
         "live": false,
         "participants": [
             {
@@ -195,12 +195,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1688790600,
         "season_number": "7",
-        "serial": 1688699953209,
+        "serial": 1688779910219,
         "series_id": "608360",
         "series_name": "Robot Chicken",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "1064439596",
-        "show_timestamp": 1688790600,
+        "show_timestamp": 1688790598,
         "status": "estimated",
         "summary": "The Robot Chicken crew takes a peek at what happens when the DC villains end up on the same beach as the DC heroes at spring break!",
         "summary_long": "The Robot Chicken crew takes a peek at what it's like working in the Hall of Doom, the grief Batman goes through whenever he has to ride in one of Green Lantern's power ring bubbles, the origin of Starro, and what happens when the DC villains end up on the same beach as the DC heroes at spring break!",
@@ -229,7 +229,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1688792400,
-        "last_update": 1688699953469,
+        "last_update": 1688779910417,
         "live": false,
         "participants": [
             {
@@ -300,12 +300,12 @@
         "scheduled_duration": 1836,
         "scheduled_timestamp": 1688792400,
         "season_number": "8",
-        "serial": 1688699953209,
+        "serial": 1688779910219,
         "series_id": "608360",
         "series_name": "Robot Chicken",
-        "show_duration": 1836,
+        "show_duration": 1840,
         "show_id": "1064439618",
-        "show_timestamp": 1688792400,
+        "show_timestamp": 1688792396,
         "status": "estimated",
         "summary": "The Robot Chicken writers don their capes and masks one more time for this epic special! Batman and Superman's bromance takes a competitive turn and the fate of the universe somehow hangs in the balance.",
         "title": "Robot Chicken DC: Comics Special III: Magical Friendship",
@@ -4664,6 +4664,83 @@
         "summary": "When Roger and Francine go wine-tasting, Roger plants a big kiss on Francine in a drunken moment. Francine decides to tell Stan about this incident, but when they sit down to talk, Roger convinces Stan that Francine started it all.",
         "title": "Merlot Down Dirty Shame",
         "title_id": "798357",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "3GRJ8",
+        "create_time": 1688780596651,
+        "episode_in_season": "7",
+        "episode_number": "S5:E07",
+        "external_id": "16186613",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1688873400,
+        "last_update": 1688780596651,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1688873400,
+        "season_number": "5",
+        "serial": 1688780596426,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1064443081",
+        "show_timestamp": 1688873400,
+        "status": "estimated",
+        "summary": "Stan becomes tired of Steve never standing up for himself. To help, he becomes a bully and picks on Steve. Meanwhile, Reginald finally asks Hayley out on a date.",
+        "title": "Bully for Steve",
+        "title_id": "798359",
         "tv_rating": "TV-14"
     }
 ]
