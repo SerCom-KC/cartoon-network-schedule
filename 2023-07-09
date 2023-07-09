@@ -15,7 +15,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1688875200,
-        "last_update": 1688782049892,
+        "last_update": 1688869891036,
         "live": false,
         "participants": [
             {
@@ -51,12 +51,12 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1688875200,
         "season_number": "1",
-        "serial": 1688782049183,
+        "serial": 1688869890576,
         "series_id": "2288454",
         "series_name": "My Adventures with Superman",
         "show_duration": 1806,
         "show_id": "1064443105",
-        "show_timestamp": 1688875200,
+        "show_timestamp": 1688875209,
         "status": "estimated",
         "summary": "Secret alien Clark Kent and his best friend Jimmy Olsen start their internship at The Daily Planet and meet fellow intern Lois Lane - who ropes them into investigating stolen military robots threatening Metropolis!",
         "title": "Adventures of a Normal Man Pt. 1",
@@ -81,7 +81,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1688877000,
-        "last_update": 1688783917341,
+        "last_update": 1688868919739,
         "live": false,
         "participants": [
             {
@@ -117,12 +117,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1688877000,
         "season_number": "1",
-        "serial": 1688783917134,
+        "serial": 1688868915475,
         "series_id": "2288454",
         "series_name": "My Adventures with Superman",
-        "show_duration": 1800,
+        "show_duration": 1777,
         "show_id": "1064443128",
-        "show_timestamp": 1688877000,
+        "show_timestamp": 1688877007,
         "status": "estimated",
         "summary": "Clark returns to the Kent farm with questions about where he's from - and who he wants to be. Meanwhile, Lois and Jimmy track down the mercenary Livewire\u2026and encounter \"Superman\" once again!",
         "title": "Adventures of a Normal Man Pt. 2",
@@ -146,7 +146,7 @@
             "Action"
         ],
         "guide_timestamp": 1688878800,
-        "last_update": 1688785941374,
+        "last_update": 1688869891036,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -155,12 +155,12 @@
         "scheduled_duration": 1811,
         "scheduled_timestamp": 1688878800,
         "season_number": "3",
-        "serial": 1688785941118,
+        "serial": 1688869890576,
         "series_id": "2207385",
         "series_name": "Dr. Stone",
-        "show_duration": 1811,
+        "show_duration": 1828,
         "show_id": "1064443151",
-        "show_timestamp": 1688878800,
+        "show_timestamp": 1688878784,
         "status": "estimated",
         "summary": "Kaseki's efforts to build the science vessel Perseus hit a roadblock when he realizes that it's impossible to get all the parts to fit in practice.",
         "title": "Science Vessel Perseus",
@@ -182,7 +182,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1688880600,
-        "last_update": 1688787232984,
+        "last_update": 1688869901661,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -191,12 +191,12 @@
         "scheduled_duration": 1817,
         "scheduled_timestamp": 1688880600,
         "season_number": "16",
-        "serial": 1688787232623,
+        "serial": 1688869901298,
         "series_id": "608007",
         "series_name": "One Piece",
-        "show_duration": 1817,
+        "show_duration": 1806,
         "show_id": "1064443174",
-        "show_timestamp": 1688880600,
+        "show_timestamp": 1688880611,
         "status": "estimated",
         "summary": "A dragon regains his boyish form, a noble warrior once feared dead makes a shocking resurrection, and bitter enemies set aside their differences to enjoy a well-deserved feast!",
         "title": "A Touching Reunion! Momonosuke and Kin'emon!",
@@ -4293,6 +4293,75 @@
         "summary": "Lots of things in space broh. Snakes and sharp stuff. Watch this broh.",
         "title": "Rattlestar Ricklactica",
         "title_id": "2206490",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "CM79C",
+        "create_time": 1688866306275,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "16186557",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1688959800,
+        "last_update": 1688866306275,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1688959800,
+        "season_number": "4",
+        "serial": 1688866306004,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1064442125",
+        "show_timestamp": 1688959800,
+        "status": "estimated",
+        "summary": "Choo Choo, broh. Catch this train broh.",
+        "title": "Never Ricking Morty",
+        "title_id": "2206492",
         "tv_rating": "TV-14"
     }
 ]
