@@ -266,5 +266,110 @@
         "title": "Foxcroft Academy for Boys",
         "title_id": "2117688",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "352ND",
+        "create_time": 1689135110072,
+        "episode_in_season": "6",
+        "episode_number": "S3:E06",
+        "external_id": "16201947",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1689227100,
+        "last_update": 1689135110072,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 905,
+        "scheduled_timestamp": 1689227100,
+        "season_number": "3",
+        "serial": 1689135109723,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 905,
+        "show_id": "1066881306",
+        "show_timestamp": 1689227100,
+        "status": "estimated",
+        "summary": "Mike Tyson celebrates the mining industry.",
+        "title": "A Mine Is a Terrible Thing to Waste",
+        "title_id": "2117689",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "1874V6",
+        "create_time": 1689135110712,
+        "episode_in_season": "1",
+        "episode_number": "S9:E01",
+        "external_id": "16201930",
+        "feed_id": "as-east",
+        "franchise_id": "387072",
+        "franchise_name": "Aqua Something You Know Whatever",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1689228000,
+        "last_update": 1689135110712,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 906,
+        "scheduled_timestamp": 1689228000,
+        "season_number": "9",
+        "serial": 1689135110333,
+        "series_id": "896639",
+        "series_name": "Aqua Something You Know Whatever",
+        "show_duration": 906,
+        "show_id": "1066881320",
+        "show_timestamp": 1689228000,
+        "status": "estimated",
+        "summary": "A case of MILF fever makes Frylock mentor an at-risk youth.",
+        "title": "Big Bro",
+        "title_id": "896641",
+        "tv_rating": "TV-14"
     }
 ]
