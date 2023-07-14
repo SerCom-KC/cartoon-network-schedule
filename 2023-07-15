@@ -515,5 +515,46 @@
         "title": "Neutopia",
         "title_id": "2161639",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "14KDP4",
+        "create_time": 1689315714738,
+        "episode_in_season": "2",
+        "episode_number": "S8:E02",
+        "external_id": "16186413",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1689408000,
+        "last_update": 1689315714738,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1689408000,
+        "season_number": "8",
+        "serial": 1689315714534,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1801,
+        "show_id": "1065018828",
+        "show_timestamp": 1689408000,
+        "status": "estimated",
+        "summary": "Bender gains the ability to self-replicate, threatening to overrun Earth with vast swarms of copies of himself.",
+        "title": "Benderama",
+        "title_id": "2161636",
+        "tv_rating": "TV-14"
     }
 ]
