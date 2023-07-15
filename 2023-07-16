@@ -1722,5 +1722,60 @@
         "title": "The Demon",
         "title_id": "2088720",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "2YR4G",
+        "create_time": 1689426270621,
+        "episode_in_season": "19",
+        "episode_number": "S2:E19",
+        "external_id": "16185296",
+        "feed_id": "as-east",
+        "franchise_id": "419032",
+        "franchise_name": "We Bare Bears",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1689519600,
+        "last_update": 1689426270621,
+        "live": false,
+        "participants": [
+            {
+                "character": "Grizzly",
+                "name": "Eric Edelstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Demetri Martin",
+                "role": "Voice"
+            },
+            {
+                "character": "Panda",
+                "name": "Bobby Moynihan",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1689519600,
+        "season_number": "2",
+        "serial": 1689426270424,
+        "series_id": "2056641",
+        "series_name": "We Bare Bears",
+        "show_duration": 900,
+        "show_id": "1065019445",
+        "show_timestamp": 1689519600,
+        "status": "estimated",
+        "summary": "Through a standard video browsing session online, we get a glimpse of the different kinds of videos the Bears have posted.",
+        "title": "Everyone's Tube",
+        "title_id": "2075016",
+        "tv_rating": "TV-Y7"
     }
 ]
