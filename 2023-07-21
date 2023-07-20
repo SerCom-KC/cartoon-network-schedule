@@ -307,5 +307,61 @@
         "title": "Carol",
         "title_id": "2117697",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L"
+        ],
+        "content_id": "17YX50",
+        "create_time": 1689826448444,
+        "episode_in_season": "1",
+        "episode_number": "S10:E01",
+        "external_id": "16201940",
+        "feed_id": "as-east",
+        "franchise_id": "397292",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1689919200,
+        "last_update": 1689826448444,
+        "live": false,
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 914,
+        "scheduled_timestamp": 1689919200,
+        "season_number": "10",
+        "serial": 1689826448193,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 914,
+        "show_id": "1067029741",
+        "show_timestamp": 1689919200,
+        "status": "estimated",
+        "summary": "After a health scare lands Shake in the hospital, he decides to get into shape - by chugging an illegal fitness beverage.",
+        "title": "Muscles",
+        "title_id": "2005991",
+        "tv_rating": "TV-14"
     }
 ]
