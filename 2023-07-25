@@ -290,5 +290,143 @@
         "title": "The Real",
         "title_id": "623582",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "36FMM",
+        "create_time": 1690171842644,
+        "episode_in_season": "17",
+        "episode_number": "S3:E17",
+        "external_id": "16202047",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1690263000,
+        "last_update": 1690171842644,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 903,
+        "scheduled_timestamp": 1690263000,
+        "season_number": "3",
+        "serial": 1690171842394,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 903,
+        "show_id": "1068142237",
+        "show_timestamp": 1690263000,
+        "status": "estimated",
+        "summary": "Mike Tyson visits some land he owns in New Mexico.",
+        "title": "Mike Tysonland",
+        "title_id": "2117698",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "37JTP",
+        "create_time": 1690171842644,
+        "episode_in_season": "18",
+        "episode_number": "S3:E18",
+        "external_id": "16202048",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1690263900,
+        "last_update": 1690171842644,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1690263900,
+        "season_number": "3",
+        "serial": 1690171842394,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 900,
+        "show_id": "1068142248",
+        "show_timestamp": 1690263900,
+        "status": "estimated",
+        "summary": "The team helps a man find an anniversary gift for his wife.",
+        "title": "The Gift",
+        "title_id": "2117701",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L"
+        ],
+        "content_id": "17YX14",
+        "create_time": 1690171842644,
+        "episode_in_season": "3",
+        "episode_number": "S10:E03",
+        "external_id": "16202032",
+        "feed_id": "as-east",
+        "franchise_id": "397292",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1690264800,
+        "last_update": 1690171842644,
+        "live": false,
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1690264800,
+        "season_number": "10",
+        "serial": 1690171842394,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 900,
+        "show_id": "1068142262",
+        "show_timestamp": 1690264800,
+        "status": "estimated",
+        "summary": "Master Shake's crippling addiction to shellfish leads to a long-overdue intervention.",
+        "title": "Merlo Sauvignon Blanco",
+        "title_id": "2005990",
+        "tv_rating": "TV-14"
     }
 ]
