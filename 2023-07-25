@@ -843,5 +843,83 @@
         "title": "Ricky Spanish",
         "title_id": "748178",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3GRVX",
+        "create_time": 1690180303066,
+        "episode_in_season": "18",
+        "episode_number": "S7:E18",
+        "external_id": "16202064",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1690273800,
+        "last_update": 1690180303066,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1690273800,
+        "season_number": "7",
+        "serial": 1690180302869,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1805,
+        "show_id": "1068142376",
+        "show_timestamp": 1690273800,
+        "status": "estimated",
+        "summary": "Stan wants Steve to stop playing with toys and be a man, so he brings Steve to Mexico to make love to a prostitute; Roger attempts to retrieve a bottle of wine from Terry and Greg.",
+        "title": "Toy Whorey",
+        "title_id": "748177",
+        "tv_rating": "TV-14"
     }
 ]
