@@ -240,5 +240,122 @@
         "title": "Anti-weed",
         "title_id": "2418687",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "S"
+        ],
+        "content_id": "1F8J9W",
+        "create_time": 1690688982167,
+        "episode_in_season": "8",
+        "episode_number": "S6:E08",
+        "external_id": "16216416",
+        "feed_id": "as-east",
+        "franchise_id": "386452",
+        "franchise_name": "Eric Andre Show",
+        "genres": [
+            "Comedy",
+            "Talk"
+        ],
+        "guide_timestamp": 1690780500,
+        "last_update": 1690688982167,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1690780500,
+        "season_number": "6",
+        "serial": 1690688981870,
+        "series_id": "895948",
+        "series_name": "The Eric Andre Show",
+        "show_duration": 900,
+        "show_id": "1068980314",
+        "show_timestamp": 1690780500,
+        "status": "estimated",
+        "summary": "Eric welcomes Jaden Smith and Chloe Cherry. The Chainsmokers finally chain smoke. A desperate Dad hang glides into a gender reveal party gone awry.",
+        "title": "Old Yeller",
+        "title_id": "2418688",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "1F541T",
+        "create_time": 1690688982167,
+        "episode_in_season": "15",
+        "episode_number": "S17:E15",
+        "external_id": "16186596",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1690781400,
+        "last_update": 1690688982167,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1690781400,
+        "season_number": "17",
+        "serial": 1690688981870,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1068138175",
+        "show_timestamp": 1690781400,
+        "status": "estimated",
+        "summary": "Roger and Steve try to save a dying mall.",
+        "title": "You Are Here",
+        "title_id": "2342104",
+        "tv_rating": "TV-14"
     }
 ]
