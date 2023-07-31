@@ -848,5 +848,84 @@
         "title": "Da Flippity Flop",
         "title_id": "748221",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3GRW6",
+        "create_time": 1690786526385,
+        "episode_in_season": "1",
+        "episode_number": "S9:E01",
+        "external_id": "16202072",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1690878600,
+        "last_update": 1690786526385,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1837,
+        "scheduled_timestamp": 1690878600,
+        "season_number": "9",
+        "serial": 1690786526230,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1837,
+        "show_id": "1069598932",
+        "show_timestamp": 1690878600,
+        "status": "estimated",
+        "summary": "Stan reveals that the C.I.A. has a cloning machine at work.  Steve and Snot decide to use the machine to clone girls so that they will finally have prom dates.",
+        "summary_long": "Stan reveals that the C.I.A. has a cloning machine at work.  Steve and Snot decide to use the machine to clone girls so that they will finally have prom dates. The cloning process backfires as the girls emerge as babies.",
+        "title": "Steve and Snot's Test-Tubular Adventure",
+        "title_id": "2007872",
+        "tv_rating": "TV-14"
     }
 ]
