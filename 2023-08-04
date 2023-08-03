@@ -784,5 +784,132 @@
         "title": "Faking Bad",
         "title_id": "2007879",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "394CH",
+        "create_time": 1691045840385,
+        "episode_in_season": "8",
+        "episode_number": "S9:E08",
+        "external_id": "16202078",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy",
+            "Holiday"
+        ],
+        "guide_timestamp": 1691137800,
+        "last_update": 1691045840385,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1691137800,
+        "season_number": "9",
+        "serial": 1691045840223,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1805,
+        "show_id": "1069610978",
+        "show_timestamp": 1691137800,
+        "status": "estimated",
+        "summary": "When Steve starts acting like a spoiled brat during the holidays, Stan takes him to see his Grandpa Jack, who tells him the story of how he caught a legendary demon who punishes naughty children on Christmas.",
+        "summary_long": "When Steve starts acting like a spoiled brat during the holidays, Stan takes him to see his incarcerated Grandpa Jack, who tells him the story of how he caught Minstrel Krampus, a legendary demon who punishes naughty children on Christmas. Stan decides that releasing Krampus is the only way to straighten out Steve's attitude. But when Krampus kidnaps Steve, it's up to Stan and Roger to get him back. Meanwhile, Hayley gets a job at the airport, but quickly realizes that she might not be cut out for customer service.",
+        "title": "Minstrel Krampus",
+        "title_id": "748219",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "3GYM5",
+        "create_time": 1691046614231,
+        "episode_in_season": "12",
+        "episode_number": "S6:E12",
+        "external_id": "16186340",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1691139600,
+        "last_update": 1691046614231,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1691139600,
+        "season_number": "6",
+        "serial": 1691046614027,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1069880153",
+        "show_timestamp": 1691139600,
+        "status": "estimated",
+        "summary": "When Gene overhears talk about a mystical creature that lives nearby, he leads the Belcher kids and their friends on a journey to find it. Meanwhile, Linda's competitive nature takes over during downtime at the restaurant.",
+        "title": "Stand by Gene",
+        "title_id": "2097200",
+        "tv_rating": "TV-PG"
     }
 ]
