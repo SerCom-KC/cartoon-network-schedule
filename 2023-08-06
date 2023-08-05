@@ -5861,5 +5861,82 @@
         "title": "Please Please Jeff",
         "title_id": "2342105",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1F5R46",
+        "create_time": 1691279097534,
+        "episode_in_season": "19",
+        "episode_number": "S17:E19",
+        "external_id": "16186582",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1691371800,
+        "last_update": 1691279097534,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1691371800,
+        "season_number": "17",
+        "serial": 1691279097217,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "1069621382",
+        "show_timestamp": 1691371800,
+        "status": "estimated",
+        "summary": "When Francine successfully grows a garden, it reminds Roger he knows a recipe for truly authentic jambalaya.",
+        "title": "Jambalaya",
+        "title_id": "2342106",
+        "tv_rating": "TV-14"
     }
 ]
