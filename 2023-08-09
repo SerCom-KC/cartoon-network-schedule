@@ -333,5 +333,105 @@
         "title": "Shop 'Til You Drop",
         "title_id": "2172012",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "473TR",
+        "create_time": 1691467361198,
+        "episode_in_season": "16",
+        "episode_number": "S4:E16",
+        "external_id": "16214945",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1691559900,
+        "last_update": 1691467361198,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1691559900,
+        "season_number": "4",
+        "serial": 1691467360717,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 900,
+        "show_id": "1071448142",
+        "show_timestamp": 1691559900,
+        "status": "estimated",
+        "summary": "Can the team bring holiday cheer to someone who's given up on life?",
+        "title": "The Christmas Episode",
+        "title_id": "2172013",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "1864MV",
+        "create_time": 1691467361198,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16215596",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1691560800,
+        "last_update": 1691467361198,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 12,
+        "scheduled_duration": 954,
+        "scheduled_timestamp": 1691560800,
+        "season_number": "1",
+        "serial": 1691467360717,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "show_duration": 954,
+        "show_id": "1070171879",
+        "show_timestamp": 1691560800,
+        "status": "estimated",
+        "summary": "Dr. Weird invents a giant mechanical robot that destroys Carl's car.  The Aqua Teens head to the mall to see if they can solve the mystery.",
+        "title": "Rabbot",
+        "title_id": "340538",
+        "tv_rating": "TV-MA"
     }
 ]
