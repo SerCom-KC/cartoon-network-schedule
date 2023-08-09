@@ -761,5 +761,132 @@
         "title": "Independent Movie",
         "title_id": "2007875",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3H06H",
+        "create_time": 1691565224308,
+        "episode_in_season": "1",
+        "episode_number": "S10:E01",
+        "external_id": "16214766",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1691656200,
+        "last_update": 1691565224308,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1691656200,
+        "season_number": "10",
+        "serial": 1691565224108,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1070177758",
+        "show_timestamp": 1691656200,
+        "status": "estimated",
+        "summary": "When her efforts to save the planet prove hopeless, Hayley decides that she might get more attention if she becomes a blonde. Meanwhile, Stan and Steve go on a mission to find a new home for the Smiths.",
+        "title": "Blonde Ambition",
+        "title_id": "2019416",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "3GNW1",
+        "create_time": 1691565224308,
+        "episode_in_season": "1",
+        "episode_number": "S7:E01",
+        "external_id": "16214726",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1691658000,
+        "last_update": 1691565224308,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1691658000,
+        "season_number": "7",
+        "serial": 1691565224108,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1071187698",
+        "show_timestamp": 1691658000,
+        "status": "estimated",
+        "summary": "When the youngest Belcher comes down with an epic case of the flu, Linda has a mishap as she tries to deliver Louise's favorite toy to her daughter's bedside.",
+        "summary_long": "When the youngest Belcher comes down with an epic case of the flu, Linda has a mishap as she tries to deliver Louise's favorite toy to her daughter's bedside. After Louise vows that she will never forgive her family for their mistake, she falls into a wild fever dream filled with familiar faces, zany musical numbers and a crazy adventure.",
+        "title": "Flu-Ouise",
+        "title_id": "2132990",
+        "tv_rating": "TV-PG"
     }
 ]
