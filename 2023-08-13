@@ -162,7 +162,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1691904600,
-        "last_update": 1691906462598,
+        "last_update": 1691910084549,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -171,7 +171,7 @@
         "scheduled_duration": 1808,
         "scheduled_timestamp": 1691904600,
         "season_number": "16",
-        "serial": 1691906462365,
+        "serial": 1691910084200,
         "series_id": "608007",
         "series_name": "One Piece",
         "show_duration": 1791,
@@ -236,7 +236,7 @@
             "Action"
         ],
         "guide_timestamp": 1691908200,
-        "last_update": 1691908177332,
+        "last_update": 1691910035713,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -245,13 +245,13 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1691908200,
         "season_number": "6",
-        "serial": 1691908177088,
+        "serial": 1691910035439,
         "series_id": "2142267",
         "series_name": "My Hero Academia",
-        "show_duration": 1839,
+        "show_duration": 1842,
         "show_id": "1070171632",
         "show_timestamp": 1691908171,
-        "status": "current",
+        "status": "actual",
         "summary": "The heroes wrestle with changing public opinion as they deal with the aftermath of the fierce battle and mourn those they lost in the fight.",
         "title": "Hellish Hell",
         "title_id": "2417789",
@@ -276,7 +276,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1691910000,
-        "last_update": 1691908177332,
+        "last_update": 1691910035713,
         "live": false,
         "participants": [
             {
@@ -307,13 +307,13 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1691910000,
         "season_number": "7",
-        "serial": 1691908177088,
+        "serial": 1691910035439,
         "series_id": "439722",
         "series_name": "The Venture Bros.",
-        "show_duration": 1781,
+        "show_duration": 1778,
         "show_id": "1070171687",
-        "show_timestamp": 1691910010,
-        "status": "estimated",
+        "show_timestamp": 1691910013,
+        "status": "current",
         "summary": "Dr. Venture's latest invention is a real game-changer. And the new game is deadly!",
         "title": "The Unicorn in Captivity",
         "title_id": "2165023",
@@ -1386,6 +1386,95 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "19HV8M",
+        "create_time": 1691838334501,
+        "episode_number": "122",
+        "external_id": "16196181",
+        "feed_id": "as-east",
+        "franchise_id": "397852",
+        "franchise_name": "Uncle Grandpa",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1691931600,
+        "last_update": 1691910015207,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Concept By"
+            },
+            {
+                "character": null,
+                "name": "Anand Babu",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Abhilash Narayanan",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Rajiv Eipe",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Upamanyu Bhattacharyya",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Roto Shah",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Advait Nemlekar",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Inspidea",
+                "role": "Animation"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Studios",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 1,
+        "scheduled_duration": 60,
+        "scheduled_timestamp": 1691931601,
+        "season_number": "1",
+        "serial": 1691910015005,
+        "series_id": "2106724",
+        "series_name": "Lamput",
+        "show_duration": 20,
+        "show_id": "1071964160",
+        "show_timestamp": 1691931547,
+        "status": "estimated",
+        "summary": "The Fat Doc finally throws Lamput in jail.",
+        "title": "Prison Cell",
+        "title_id": "2115127",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "3TKV0",
         "create_time": 1691838334919,
         "external_id": "16191832",
@@ -1448,95 +1537,6 @@
         "title": "Scooby-Doo and the Gourmet Ghost",
         "title_id": "2161953",
         "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "19HV8M",
-        "create_time": 1691838334501,
-        "episode_number": "122",
-        "external_id": "16196181",
-        "feed_id": "as-east",
-        "franchise_id": "397852",
-        "franchise_name": "Uncle Grandpa",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1691931600,
-        "last_update": 1691838334501,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Concept By"
-            },
-            {
-                "character": null,
-                "name": "Anand Babu",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Abhilash Narayanan",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Rajiv Eipe",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Upamanyu Bhattacharyya",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Roto Shah",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Advait Nemlekar",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Inspidea",
-                "role": "Animation"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Studios",
-                "role": "Producer"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 1,
-        "scheduled_duration": 60,
-        "scheduled_timestamp": 1691931601,
-        "season_number": "1",
-        "serial": 1691838334286,
-        "series_id": "2106724",
-        "series_name": "Lamput",
-        "show_duration": 60,
-        "show_id": "1071964160",
-        "show_timestamp": 1691931601,
-        "status": "estimated",
-        "summary": "The Fat Doc finally throws Lamput in jail.",
-        "title": "Prison Cell",
-        "title_id": "2115127",
-        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
