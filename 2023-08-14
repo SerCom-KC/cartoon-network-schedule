@@ -18,7 +18,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1691985600,
-        "last_update": 1691894336262,
+        "last_update": 1691976639081,
         "live": false,
         "participants": [
             {
@@ -49,10 +49,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1691985600,
         "season_number": "2",
-        "serial": 1691894336002,
+        "serial": 1691976638884,
         "series_id": "2292228",
         "series_name": "Teenage Euthanasia",
-        "show_duration": 1800,
+        "show_duration": 1796,
         "show_id": "1070175210",
         "show_timestamp": 1691985600,
         "status": "estimated",
@@ -4567,6 +4567,75 @@
         "summary": "American Dad is sold to a Chinese businessman. Meanwhile, Stan has Francine committed to an insane asylum when he forgets their anniversary.",
         "title": "American Fung",
         "title_id": "2019429",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "36YM8",
+        "create_time": 1691976984935,
+        "episode_in_season": "6",
+        "episode_number": "S3:E06",
+        "external_id": "16214660",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1692070200,
+        "last_update": 1691976984935,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1692070200,
+        "season_number": "3",
+        "serial": 1691976984752,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1070382070",
+        "show_timestamp": 1692070200,
+        "status": "estimated",
+        "summary": "Rick and Morty need a break in this one broh. Times getting tough.",
+        "title": "Rest and Ricklaxation",
+        "title_id": "2116835",
         "tv_rating": "TV-14"
     }
 ]
