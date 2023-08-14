@@ -776,5 +776,82 @@
         "title": "Factory 37",
         "title_id": "2388928",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "3H0DX",
+        "create_time": 1691992841781,
+        "episode_in_season": "13",
+        "episode_number": "S10:E13",
+        "external_id": "16214784",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1692086400,
+        "last_update": 1691992841781,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus Heissler",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1692086400,
+        "season_number": "10",
+        "serial": 1691992841607,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1070382652",
+        "show_timestamp": 1692086400,
+        "status": "estimated",
+        "summary": "Jeff returns from space. Or does he? Meanwhile, Steve watches after Snot's hamster.",
+        "title": "Holy S***, Jeff's Back!",
+        "title_id": "2019428",
+        "tv_rating": "TV-14"
     }
 ]
