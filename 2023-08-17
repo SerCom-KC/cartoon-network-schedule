@@ -422,5 +422,136 @@
         "title": "Bad Replicant",
         "title_id": "434945",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "186C2H",
+        "create_time": 1692160798188,
+        "episode_in_season": "12",
+        "episode_number": "S1:E12",
+        "external_id": "16215616",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1692252900,
+        "last_update": 1692160798188,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 15,
+        "scheduled_duration": 912,
+        "scheduled_timestamp": 1692252900,
+        "season_number": "1",
+        "serial": 1692160797909,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "show_duration": 912,
+        "show_id": "1070381862",
+        "show_timestamp": 1692252900,
+        "status": "estimated",
+        "summary": "Circus: Master Shake sells Meatwad to the circus, only to become jealous when Meatwad becomes a huge success. Shake tries to become a circus performer too, but no one likes him.",
+        "title": "Circus",
+        "title_id": "434940",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "38D73",
+        "create_time": 1692160798188,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "16214834",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1692253800,
+        "last_update": 1692160798188,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1692253800,
+        "season_number": "3",
+        "serial": 1692160797909,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1070381908",
+        "show_timestamp": 1692253800,
+        "status": "estimated",
+        "summary": "Rick goes toe to toe with the President in this one broh.",
+        "title": "The Rickchurian Mortydate",
+        "title_id": "2116839",
+        "tv_rating": "TV-14"
     }
 ]
