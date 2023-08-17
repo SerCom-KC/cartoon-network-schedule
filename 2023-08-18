@@ -767,5 +767,81 @@
         "title": "Mayworth",
         "title_id": "2388931",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "2W2PV",
+        "create_time": 1692253308865,
+        "episode_in_season": "5",
+        "episode_number": "S11:E05",
+        "external_id": "16214787",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1692345600,
+        "last_update": 1692253308865,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1692345600,
+        "season_number": "11",
+        "serial": 1692253308653,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1803,
+        "show_id": "1070383210",
+        "show_timestamp": 1692345600,
+        "status": "estimated",
+        "summary": "Stan goes undercover as a surfer a la Point Break. Steve befriends a drifter, Hayley might be pregnant and Roger wants the World Cup to be held in their backyard.",
+        "title": "Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers",
+        "title_id": "2041478",
+        "tv_rating": "TV-14"
     }
 ]
