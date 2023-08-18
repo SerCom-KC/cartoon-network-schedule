@@ -550,5 +550,45 @@
         "title": "Anchorfran",
         "title_id": "2041484",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "V"
+        ],
+        "content_id": "14M0WV",
+        "create_time": 1692337639957,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "16214857",
+        "feed_id": "as-east",
+        "franchise_id": "324815",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1692430200,
+        "last_update": 1692337639957,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1692430200,
+        "season_number": "3",
+        "serial": 1692337639718,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1802,
+        "show_id": "1070382864",
+        "show_timestamp": 1692430200,
+        "status": "estimated",
+        "summary": "Fry and Bender's behavior causes all the Planet Express crewmen to lose their jobs.",
+        "title": "The Cryonic Woman",
+        "title_id": "437695",
+        "tv_rating": "TV-PG"
     }
 ]
