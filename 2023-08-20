@@ -4328,5 +4328,83 @@
         "title": "Dressed Down",
         "title_id": "2342088",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "156G71",
+        "create_time": 1692488565490,
+        "episode_in_season": "3",
+        "episode_number": "S17:E03",
+        "external_id": "16214701",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1692581400,
+        "last_update": 1692488565490,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1692581400,
+        "season_number": "17",
+        "serial": 1692488565267,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "1070376034",
+        "show_timestamp": 1692581400,
+        "status": "estimated",
+        "summary": "Stan takes Steve to his favorite barbershop to hang with his crew; Jeff starts journaling to help with his bad memory.",
+        "title": "The Book of Fischer",
+        "title_id": "2342089",
+        "tv_rating": "TV-14"
     }
 ]
