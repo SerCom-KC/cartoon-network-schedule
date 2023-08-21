@@ -771,5 +771,82 @@
         "title": "The .1%",
         "title_id": "2388932",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "37G2J",
+        "create_time": 1692597974266,
+        "episode_in_season": "15",
+        "episode_number": "S11:E15",
+        "external_id": "16214788",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1692691200,
+        "last_update": 1692597974266,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1692691200,
+        "season_number": "11",
+        "serial": 1692597974028,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1810,
+        "show_id": "1071650982",
+        "show_timestamp": 1692691200,
+        "status": "estimated",
+        "summary": "Stan loses his faith in religion after Steve questions everything in the Bible. He takes the family to Korea to investigate the rumors of a reinvented \"Noah's Ark.\"",
+        "title": "Daesong Heavy Industries",
+        "title_id": "2041488",
+        "tv_rating": "TV-14"
     }
 ]
