@@ -846,5 +846,51 @@
         "title": "Standard Deviation",
         "title_id": "2046306",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3GPFY",
+        "create_time": 1692775430240,
+        "episode_in_season": "21",
+        "episode_number": "S7:E21",
+        "external_id": "16214736",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1692867600,
+        "last_update": 1692775430240,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1692867600,
+        "season_number": "7",
+        "serial": 1692775430018,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1073957827",
+        "show_timestamp": 1692867600,
+        "status": "estimated",
+        "summary": "When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of an easy win. As the parade goes awry, Bob realizes he might need an attitude adjustment.",
+        "title": "Paraders of the Lost Float",
+        "title_id": "2132988",
+        "tv_rating": "TV-PG"
     }
 ]
