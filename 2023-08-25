@@ -430,5 +430,138 @@
         "title": "Super Bowl",
         "title_id": "444403",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "188J20",
+        "create_time": 1692850920507,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "16215621",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1692944100,
+        "last_update": 1692850920507,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2003,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1692944100,
+        "season_number": "2",
+        "serial": 1692850920310,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "show_duration": 910,
+        "show_id": "1071649141",
+        "show_timestamp": 1692944100,
+        "status": "estimated",
+        "summary": "Frylock builds a supercomputer with mysterious powers.  A guest from pre-history shows up to cash in on the invention.",
+        "title": "Super Computer",
+        "title_id": "442146",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "24Y5X",
+        "create_time": 1692851458227,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16214839",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1692945000,
+        "last_update": 1692851458227,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1692945000,
+        "season_number": "1",
+        "serial": 1692851458066,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1071649210",
+        "show_timestamp": 1692945000,
+        "status": "estimated",
+        "summary": "Rick moves in with his daughter's family and establishes himself as a bad influence on his grandson, Morty.",
+        "title": "Pilot",
+        "title_id": "2013517",
+        "tv_rating": "TV-14"
     }
 ]
