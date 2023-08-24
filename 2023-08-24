@@ -19,7 +19,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1692849600,
-        "last_update": 1692757411233,
+        "last_update": 1692840586701,
         "live": false,
         "participants": [
             {
@@ -50,10 +50,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1692849600,
         "season_number": "2",
-        "serial": 1692757410956,
+        "serial": 1692840586439,
         "series_id": "2292228",
         "series_name": "Teenage Euthanasia",
-        "show_duration": 1800,
+        "show_duration": 1793,
         "show_id": "1071643006",
         "show_timestamp": 1692849600,
         "status": "estimated",
@@ -5791,6 +5791,76 @@
         "summary": "Hayley takes Roger with her to a meditation center and he quickly takes over, becoming one of the world's leading authorities on meditation. Stan and Steve become apprentices as they are taught the art of making sushi.",
         "title": "The Enlightenment of Ragi-Baba",
         "title_id": "2069534",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "24Y5X",
+        "create_time": 1692840648704,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16214667",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1692934200,
+        "last_update": 1692840648704,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1692934200,
+        "season_number": "1",
+        "serial": 1692840648487,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1071648498",
+        "show_timestamp": 1692934200,
+        "status": "estimated",
+        "summary": "Rick moves in with his daughter's family and establishes himself as a bad influence on his grandson, Morty.",
+        "title": "Pilot",
+        "title_id": "2013517",
         "tv_rating": "TV-14"
     }
 ]
