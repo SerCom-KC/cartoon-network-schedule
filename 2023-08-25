@@ -327,5 +327,108 @@
         "title": "Tyson of Arabia",
         "title_id": "2117695",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "35M0P",
+        "create_time": 1692850065143,
+        "episode_in_season": "16",
+        "episode_number": "S3:E16",
+        "external_id": "16214955",
+        "feed_id": "as-east",
+        "franchise_id": "411252",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1692942300,
+        "last_update": 1692850065143,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1692942300,
+        "season_number": "3",
+        "serial": 1692850064916,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 900,
+        "show_id": "1071649024",
+        "show_timestamp": 1692942300,
+        "status": "estimated",
+        "summary": "A woman, Carol, receives gifts from a secret admirer at her work.",
+        "title": "Carol",
+        "title_id": "2117697",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "188K48",
+        "create_time": 1692850065143,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": "16215609",
+        "feed_id": "as-east",
+        "franchise_id": "316905",
+        "franchise_name": "Aqua Teen ",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1692943200,
+        "last_update": 1692850065143,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2003,
+        "runtime_minutes": 15,
+        "scheduled_duration": 906,
+        "scheduled_timestamp": 1692943200,
+        "season_number": "2",
+        "serial": 1692850064916,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "show_duration": 906,
+        "show_id": "1071649092",
+        "show_timestamp": 1692943200,
+        "status": "estimated",
+        "summary": "Meatwad wins some tickets to the Super Bowl.  Who will he take with him to the big game?",
+        "title": "Super Bowl",
+        "title_id": "444403",
+        "tv_rating": "TV-PG"
     }
 ]
