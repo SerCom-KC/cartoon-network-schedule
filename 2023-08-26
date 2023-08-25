@@ -537,5 +537,83 @@
         "title": "Anatomy Park",
         "title_id": "2013511",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "2VJ7N",
+        "create_time": 1692938640092,
+        "episode_in_season": "4",
+        "episode_number": "S12:E04",
+        "external_id": "16214850",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1693031400,
+        "last_update": 1692938640092,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1693031400,
+        "season_number": "12",
+        "serial": 1692938639907,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1071647959",
+        "show_timestamp": 1693031400,
+        "status": "estimated",
+        "summary": "Stan is embarrassed when a painting of Francine's genitals, done by a famous artist, is unveiled at the museum. Steve turns to helping people after masturbation is ruined by his mom's portrait.",
+        "title": "Portrait of Francine's Genitals",
+        "title_id": "2069535",
+        "tv_rating": "TV-14"
     }
 ]
