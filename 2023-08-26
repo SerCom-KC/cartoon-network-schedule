@@ -121,5 +121,67 @@
         "title": "Variety Pack",
         "title_id": "2438489",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "1FHM0V",
+        "create_time": 1692931435562,
+        "episode_in_season": "3",
+        "episode_number": "S5:E03",
+        "external_id": "16217958",
+        "feed_id": "as-east",
+        "franchise_id": "488712",
+        "franchise_name": "Adult Swim SMALLS",
+        "genres": [
+            "Animation",
+            "Short"
+        ],
+        "guide_timestamp": 1693024200,
+        "last_update": 1692931435562,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Danya Levine",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Paula Navarro",
+                "role": "Production Assistant"
+            },
+            {
+                "character": null,
+                "name": "Jordan Felton",
+                "role": "Production Assistant"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 903,
+        "scheduled_timestamp": 1693024200,
+        "season_number": "5",
+        "serial": 1692931435404,
+        "series_id": "2326791",
+        "series_name": "Adult Swim SMALLS",
+        "show_duration": 903,
+        "show_id": "1072885990",
+        "show_timestamp": 1693024200,
+        "status": "estimated",
+        "summary": "3 roommates try to live big city life to the fullest, by any means necessary.",
+        "title": "DAP",
+        "title_id": "2438491",
+        "tv_rating": "TV-14"
     }
 ]
