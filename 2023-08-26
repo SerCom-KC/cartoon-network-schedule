@@ -18,7 +18,7 @@
             "Short"
         ],
         "guide_timestamp": 1693022400,
-        "last_update": 1692929636306,
+        "last_update": 1693015247351,
         "live": false,
         "participants": [
             {
@@ -49,12 +49,12 @@
         "scheduled_duration": 904,
         "scheduled_timestamp": 1693022400,
         "season_number": "5",
-        "serial": 1692929636074,
+        "serial": 1693015246943,
         "series_id": "2326791",
         "series_name": "Adult Swim SMALLS",
         "show_duration": 904,
         "show_id": "1071647484",
-        "show_timestamp": 1693022400,
+        "show_timestamp": 1693022401,
         "status": "estimated",
         "summary": "Three delightful himbos and their grieving father find laughter and love in this family oriented series.",
         "title": "Haha You Clowns",
@@ -79,7 +79,7 @@
             "Short"
         ],
         "guide_timestamp": 1693023300,
-        "last_update": 1692930124266,
+        "last_update": 1693015247351,
         "live": false,
         "participants": [
             {
@@ -110,12 +110,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1693023300,
         "season_number": "5",
-        "serial": 1692930124070,
+        "serial": 1693015246943,
         "series_id": "2326791",
         "series_name": "Adult Swim SMALLS",
-        "show_duration": 900,
+        "show_duration": 893,
         "show_id": "1071647537",
-        "show_timestamp": 1693023300,
+        "show_timestamp": 1693023304,
         "status": "estimated",
         "summary": "This Smalls Variety Pack features work from Nic Collins, Felipe De Poi, Kelly Cooper, and Sarah Schmidt.",
         "title": "Variety Pack",
@@ -5371,6 +5371,84 @@
         "summary": "Klaus gets transferred into the navigation system of Stan's car after Stan refuses to pay for a life-saving surgery. Steve and his friends prank Roger's Frank character and he terrorizes them for revenge.",
         "title": "A Nice Night for a Drive",
         "title_id": "2069541",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "2VM60",
+        "create_time": 1693013989757,
+        "episode_in_season": "11",
+        "episode_number": "S12:E11",
+        "external_id": "16214653",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1693107000,
+        "last_update": 1693013989757,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1693107000,
+        "season_number": "12",
+        "serial": 1693013989558,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1071650208",
+        "show_timestamp": 1693107000,
+        "status": "estimated",
+        "summary": "Francine steals from the CIA and pretends to be a sexy supervillain to incite Stan to be more seductive. Roger tricks Hayley and Steve into trapping Jay Leno so he can take revenge on him.",
+        "title": "Casino Normale",
+        "title_id": "2069542",
         "tv_rating": "TV-14"
     }
 ]
