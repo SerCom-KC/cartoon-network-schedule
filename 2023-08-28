@@ -4925,5 +4925,75 @@
         "title": "Camp Campawanda",
         "title_id": "2069539",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "27YPX",
+        "create_time": 1693187725638,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16214668",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1693279800,
+        "last_update": 1693187725638,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1693279800,
+        "season_number": "1",
+        "serial": 1693187725411,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1070660578",
+        "show_timestamp": 1693279800,
+        "status": "estimated",
+        "summary": "Rick and Morty try to get to the bottom of a mystery in this M. Night Shamyaloin style twistaroony of an episode!",
+        "title": "M. Night Shaym-Aliens!",
+        "title_id": "2013509",
+        "tv_rating": "TV-14"
     }
 ]
