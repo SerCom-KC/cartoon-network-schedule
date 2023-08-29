@@ -594,5 +594,75 @@
         "title": "Rick Potion #9",
         "title_id": "2013508",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "27YJR",
+        "create_time": 1693287322611,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "16222785",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1693380600,
+        "last_update": 1693287322611,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1693380600,
+        "season_number": "1",
+        "serial": 1693287322375,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1072085942",
+        "show_timestamp": 1693380600,
+        "status": "estimated",
+        "summary": "Morty convinces Rick to buy him a sexy robot. Guess what tho? Trouble happens, dog.",
+        "title": "Raising Gazorpazorp",
+        "title_id": "2013513",
+        "tv_rating": "TV-14"
     }
 ]
