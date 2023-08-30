@@ -4763,5 +4763,75 @@
         "title": "Stan Fixes a Shingle",
         "title_id": "2392757",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "281V6",
+        "create_time": 1693359542273,
+        "episode_in_season": "8",
+        "episode_number": "S1:E08",
+        "external_id": "16214670",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1693452600,
+        "last_update": 1693359542273,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1693452600,
+        "season_number": "1",
+        "serial": 1693359542085,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1070660264",
+        "show_timestamp": 1693452600,
+        "status": "estimated",
+        "summary": "Rick hacks the cable box to allow access to TV from multiple realities. But guess what, broh? Jerry, Beth, and Summer are focused on one of Rick's other inventions. They don't care, broh.",
+        "title": "Rixty Minutes",
+        "title_id": "2013514",
+        "tv_rating": "TV-14"
     }
 ]
