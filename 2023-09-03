@@ -16,7 +16,7 @@
             "Animation"
         ],
         "guide_timestamp": 1693713600,
-        "last_update": 1693620579860,
+        "last_update": 1693702813801,
         "live": false,
         "participants": [
             {
@@ -52,12 +52,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1693713600,
         "season_number": "1",
-        "serial": 1693620579414,
+        "serial": 1693702813443,
         "series_id": "2288454",
         "series_name": "My Adventures with Superman",
-        "show_duration": 1800,
+        "show_duration": 1794,
         "show_id": "1070660738",
-        "show_timestamp": 1693713600,
+        "show_timestamp": 1693713601,
         "status": "estimated",
         "summary": "It's Thanksgiving, and Clark, Lois, and Jimmy are heading to the Kent farm to celebrate - but the holiday turns into a fight for survival as Task Force X, family, and Kryptonite collide!",
         "title": "Hearts of the Fathers",
@@ -84,7 +84,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1693715400,
-        "last_update": 1693622237184,
+        "last_update": 1693702813801,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -93,12 +93,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1693715400,
         "season_number": "3",
-        "serial": 1693622236918,
+        "serial": 1693702813443,
         "series_id": "2162173",
         "series_name": "FLCL: Alternative",
-        "show_duration": 1800,
+        "show_duration": 1780,
         "show_id": "1072084889",
-        "show_timestamp": 1693715400,
+        "show_timestamp": 1693715394,
         "status": "estimated",
         "summary": "Kana Koumoto - a cheerful 17 year old who can often be a klutz and nosey. One day, while hanging out with her besties (Pets, Mossan and Hijiri), Mossan starts making a rocket using empty soda bottles.",
         "title": "Flying Memory",
@@ -3434,6 +3434,84 @@
         "summary": "Wheels and the Legman try to hunt down the perpetrators who destroyed Steve's secret swimming hole. Meanwhile, Klaus helps an aging Principal Lewis reclaim his confidence.",
         "title": "The Curious Case of the Old Hole",
         "title_id": "2342097",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "1F39D5",
+        "create_time": 1693700306340,
+        "episode_in_season": "10",
+        "episode_number": "S17:E10",
+        "external_id": "16214707",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1693792800,
+        "last_update": 1693700306340,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1693792800,
+        "season_number": "17",
+        "serial": 1693700305926,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1070687062",
+        "show_timestamp": 1693792800,
+        "status": "estimated",
+        "summary": "The Smiths return from a difficult, quarrelsome vacation, but they can't get a break from each other.",
+        "title": "Gold Top Nuts",
+        "title_id": "2342095",
         "tv_rating": "TV-14"
     }
 ]
