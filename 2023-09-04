@@ -17,7 +17,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1693800000,
-        "last_update": 1693789244501,
+        "last_update": 1693791053469,
         "live": false,
         "participants": [
             {
@@ -48,12 +48,12 @@
         "scheduled_duration": 7200,
         "scheduled_timestamp": 1693800000,
         "season_number": "7",
-        "serial": 1693789244239,
+        "serial": 1693791053122,
         "series_id": "439722",
         "series_name": "The Venture Bros.",
         "show_duration": 7119,
         "show_id": "1072084721",
-        "show_timestamp": 1693800000,
+        "show_timestamp": 1693800001,
         "status": "estimated",
         "summary": "Doc's latest invention could bankrupt the Ventures or launch them to new heights. The Monarch is out for blood as Hank searches for himself, Dean searches for Hank, and a mysterious woman threatens to bring their entire world crashing down.",
         "summary_long": "Doc's latest invention will either bankrupt the Ventures or launch them to new heights, as Hank searches for himself, Dean searches for Hank, The Monarch searches for answers, and a mysterious woman from their pasts threatens to bring their entire world crashing down on them.",
@@ -81,7 +81,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1693807200,
-        "last_update": 1693714004711,
+        "last_update": 1693792004884,
         "live": false,
         "participants": [
             {
@@ -127,12 +127,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1693807200,
         "season_number": "17",
-        "serial": 1693714004349,
+        "serial": 1693792004698,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1842,
         "show_id": "1070687230",
-        "show_timestamp": 1693807200,
+        "show_timestamp": 1693807119,
         "status": "estimated",
         "summary": "The Smiths return from a difficult, quarrelsome vacation, but they can't get a break from each other.",
         "title": "Gold Top Nuts",
@@ -3310,6 +3310,75 @@
         "summary": "Francine falls in with a group of tough girls after becoming the new school guidance counselor. Jeff panics when he loses his hat.",
         "title": "Mean Francine",
         "title_id": "2069566",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1FGM90",
+        "create_time": 1693792005576,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": "16227088",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1693884600,
+        "last_update": 1693792005576,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1693884600,
+        "season_number": "2",
+        "serial": 1693792005260,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1074037381",
+        "show_timestamp": 1693884600,
+        "status": "estimated",
+        "summary": "Rick don gets straight emotional in this one broh. Beth and Jerry going ham on each other broh.",
+        "title": "Auto Erotic Assimilation",
+        "title_id": "2060766",
         "tv_rating": "TV-14"
     }
 ]
