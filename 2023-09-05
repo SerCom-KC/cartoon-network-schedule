@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1693886400,
-        "last_update": 1693793254377,
+        "last_update": 1693875539171,
         "live": false,
         "participants": [
             {
@@ -56,12 +56,12 @@
         "scheduled_duration": 1807,
         "scheduled_timestamp": 1693886400,
         "season_number": "2",
-        "serial": 1693793253870,
+        "serial": 1693875538919,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1807,
         "show_id": "1074037389",
-        "show_timestamp": 1693886400,
+        "show_timestamp": 1693886407,
         "status": "estimated",
         "summary": "We don get to meet all sorts of new friends in this one broh. Morty goes ham in this one broh.",
         "title": "Total Rickall",
@@ -89,7 +89,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1693888200,
-        "last_update": 1693795753388,
+        "last_update": 1693873811716,
         "live": false,
         "participants": [
             {
@@ -200,12 +200,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1693888200,
         "season_number": "1",
-        "serial": 1693795753044,
+        "serial": 1693873811506,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1800,
+        "show_duration": 1784,
         "show_id": "1074037414",
-        "show_timestamp": 1693888200,
+        "show_timestamp": 1693888207,
         "status": "estimated",
         "summary": "The Hornsby family attends a deviant billionaire's annual yacht party, which is reserved exclusively for \"The .1%,\" the richest billionaires in the world.",
         "title": "The .1%",
@@ -4209,6 +4209,239 @@
         "summary": "Jeff starts hanging out with Stan's favorite celebrity chef while in search of an identity. Klaus and Roger start their own valet operation.",
         "title": "Flavortown",
         "title_id": "2069568",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "39FWF",
+        "create_time": 1693872688750,
+        "episode_in_season": "16",
+        "episode_number": "S13:E16",
+        "external_id": "16227110",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1693965600,
+        "last_update": 1693872688750,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1814,
+        "scheduled_timestamp": 1693965600,
+        "season_number": "13",
+        "serial": 1693872688527,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1814,
+        "show_id": "1074034766",
+        "show_timestamp": 1693965600,
+        "status": "estimated",
+        "summary": "In the show's 250th episode, Stan has to take over Roger's different personas after a tumor takes him out of commission. Principal Lewis pressures Steve and the school choir to do whatever it takes to win.",
+        "title": "Persona Assistant",
+        "title_id": "2069569",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "3C1W2",
+        "create_time": 1693875009451,
+        "episode_in_season": "17",
+        "episode_number": "S13:E17",
+        "external_id": "16227085",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1693967400,
+        "last_update": 1693875009451,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1693967400,
+        "season_number": "13",
+        "serial": 1693875009288,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1074034809",
+        "show_timestamp": 1693967400,
+        "status": "estimated",
+        "summary": "Steve gets competitive during the father-son events at Possum Lake. Roger learns how to ride a bike.",
+        "title": "The Legend of Old Ulysses",
+        "title_id": "2069570",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3C1W5",
+        "create_time": 1693876111543,
+        "episode_in_season": "18",
+        "episode_number": "S13:E18",
+        "external_id": "16227081",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1693969200,
+        "last_update": 1693876111543,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1693969200,
+        "season_number": "13",
+        "serial": 1693876111379,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1074034856",
+        "show_timestamp": 1693969200,
+        "status": "estimated",
+        "summary": "Steve and Roger restart their career as a twin brother acting duo. The family becomes addicted to a novelty gift shop.",
+        "title": "Twinanigans",
+        "title_id": "2069571",
         "tv_rating": "TV-14"
     }
 ]
