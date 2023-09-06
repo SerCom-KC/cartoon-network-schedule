@@ -771,5 +771,54 @@
         "title": "Pilot",
         "title_id": "2262181",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "3RT9H",
+        "create_time": 1693984240458,
+        "episode_in_season": "19",
+        "episode_number": "S8:E19",
+        "external_id": "16215673",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1694077200,
+        "last_update": 1693984240458,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1694077200,
+        "season_number": "8",
+        "serial": 1693984240291,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1801,
+        "show_id": "1074347446",
+        "show_timestamp": 1694077200,
+        "status": "estimated",
+        "summary": "The Belchers attend open houses for the free food, per Linda's \"momnipotent\" Mother's Day request. When Linda meets a real estate agent and agrees to a private showing, the family ends up at the helm of a real estate scheme.",
+        "summary_long": "The Belchers attend open houses for the free food, per Linda's \"momnipotent\" Mother's Day request. When Linda meets a charming real estate agent and agrees to a private showing, the kids stumble upon an unexpected surprise and the family ends up at the helm of a real estate scheme.",
+        "title": "Mo Mommy Mo Problems",
+        "title_id": "2171459",
+        "tv_rating": "TV-PG"
     }
 ]
