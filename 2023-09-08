@@ -912,5 +912,52 @@
         "title": "Something Old, Something New, Something Bob Caters for You",
         "title_id": "2171461",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "3G7J5",
+        "create_time": 1694072285517,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16215679",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1694165400,
+        "last_update": 1694072285517,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1694165400,
+        "season_number": "1",
+        "serial": 1694072285192,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1074349211",
+        "show_timestamp": 1694165400,
+        "status": "estimated",
+        "summary": "Bob rallies the team to cook up some business for Grand Re-Re-Re-Opening of Bob's Burgers, sending middle child Gene to push samples in the streets, eldest daughter Tina to work the grill and youngest daughter Louise to staff the counter.",
+        "title": "Human Flesh",
+        "title_id": "2003423",
+        "tv_rating": "TV-14"
     }
 ]
