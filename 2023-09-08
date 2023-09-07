@@ -866,5 +866,51 @@
         "title": "ShareBear",
         "title_id": "2262182",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "3RT90",
+        "create_time": 1694070375960,
+        "episode_in_season": "21",
+        "episode_number": "S8:E21",
+        "external_id": "16215674",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1694163600,
+        "last_update": 1694070375960,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1694163600,
+        "season_number": "8",
+        "serial": 1694070375712,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1074347514",
+        "show_timestamp": 1694163600,
+        "status": "estimated",
+        "summary": "Just as Bob wonders if working in the restaurant business is worth it, a couple who fell in love at the restaurant asks the Belchers to cater their wedding. When things don't go as planned, Linda steps in and attempts to save the day.",
+        "title": "Something Old, Something New, Something Bob Caters for You",
+        "title_id": "2171461",
+        "tv_rating": "TV-PG"
     }
 ]
