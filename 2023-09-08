@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1694145600,
-        "last_update": 1694052061870,
+        "last_update": 1694136650028,
         "live": false,
         "participants": [
             {
@@ -56,10 +56,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1694145600,
         "season_number": "2",
-        "serial": 1694052061637,
+        "serial": 1694136649771,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1798,
         "show_id": "1074036220",
         "show_timestamp": 1694145600,
         "status": "estimated",
@@ -89,7 +89,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1694147400,
-        "last_update": 1694054996257,
+        "last_update": 1694136650028,
         "live": false,
         "participants": [
             {
@@ -200,12 +200,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1694147400,
         "season_number": "1",
-        "serial": 1694054996011,
+        "serial": 1694136649771,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1800,
+        "show_duration": 1802,
         "show_id": "1074036262",
-        "show_timestamp": 1694147400,
+        "show_timestamp": 1694147398,
         "status": "estimated",
         "summary": "It's time for the team to head to beautiful Primm, Nevada and attend the Super Bowl for global snack food companies, \"CrackerCon.\"",
         "title": "CrackerCon",
@@ -4267,5 +4267,142 @@
         "title": "The Long March",
         "title_id": "2186657",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1FGNX1",
+        "create_time": 1694136571629,
+        "episode_in_season": "2",
+        "episode_number": "S3:E02",
+        "external_id": "16227093",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1694228400,
+        "last_update": 1694136571629,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1694228400,
+        "season_number": "3",
+        "serial": 1694136571305,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1074035441",
+        "show_timestamp": 1694228400,
+        "status": "estimated",
+        "summary": "Summer starts acting out in this one, broh. Morty goes ham too broh.",
+        "title": "Rickmancing the Stone",
+        "title_id": "2116831",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "1FGNY8",
+        "create_time": 1694136571629,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "16227092",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1694230200,
+        "last_update": 1694136571629,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1694230200,
+        "season_number": "3",
+        "serial": 1694136571305,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1074035462",
+        "show_timestamp": 1694230200,
+        "status": "estimated",
+        "summary": "This one is real good broh. It has action and heroes.",
+        "title": "Vindicators 3: The Return of Worldender",
+        "title_id": "2116833",
+        "tv_rating": "TV-MA"
     }
 ]
