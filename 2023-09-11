@@ -907,5 +907,52 @@
         "title": "Crawl Space",
         "title_id": "2003424",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "3G7M4",
+        "create_time": 1694331486665,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16226974",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1694424600,
+        "last_update": 1694331486665,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1694424600,
+        "season_number": "1",
+        "serial": 1694331486407,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1808,
+        "show_id": "1075655878",
+        "show_timestamp": 1694424600,
+        "status": "estimated",
+        "summary": "When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement about animal cruelty, Bob is livid when it starts to scare away customers.",
+        "title": "Sacred Cow",
+        "title_id": "2003425",
+        "tv_rating": "TV-14"
     }
 ]
