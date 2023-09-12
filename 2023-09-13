@@ -290,5 +290,83 @@
         "title": "The Lovely Ebony Brown",
         "title_id": "798563",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "3Y524",
+        "create_time": 1694489631783,
+        "episode_in_season": "17",
+        "episode_number": "S14:E17",
+        "external_id": "16227890",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1694583000,
+        "last_update": 1694489631783,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1694583000,
+        "season_number": "14",
+        "serial": 1694489631632,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1803,
+        "show_id": "1074083351",
+        "show_timestamp": 1694583000,
+        "status": "estimated",
+        "summary": "Roger helps Stan enter Francine's dreams after he becomes insecure about their contents.",
+        "title": "Enter Stanman",
+        "title_id": "2186666",
+        "tv_rating": "TV-14"
     }
 ]
