@@ -585,5 +585,74 @@
         "title": "The ABC's of Beth",
         "title_id": "2116837",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1FGP11",
+        "create_time": 1694584226044,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "16227918",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1694676600,
+        "last_update": 1694584226044,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1694676600,
+        "season_number": "3",
+        "serial": 1694584225742,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1074087258",
+        "show_timestamp": 1694676600,
+        "status": "estimated",
+        "summary": "Rick goes toe to toe with the President in this one broh.",
+        "title": "The Rickchurian Mortydate",
+        "title_id": "2116839",
+        "tv_rating": "TV-14"
     }
 ]
