@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1694750400,
-        "last_update": 1694657487988,
+        "last_update": 1694741465948,
         "live": false,
         "participants": [
             {
@@ -57,12 +57,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1694750400,
         "season_number": "4",
-        "serial": 1694657487535,
+        "serial": 1694741464977,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1797,
         "show_id": "1074083762",
-        "show_timestamp": 1694750400,
+        "show_timestamp": 1694750401,
         "status": "estimated",
         "summary": "We all have one thing in common broh. I don't know broh. Watch this one.",
         "title": "The Old Man and the Seat",
@@ -90,7 +90,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1694752200,
-        "last_update": 1694660805360,
+        "last_update": 1694741465948,
         "live": false,
         "participants": [
             {
@@ -201,12 +201,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1694752200,
         "season_number": "1",
-        "serial": 1694660805150,
+        "serial": 1694741464977,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1800,
+        "show_duration": 1797,
         "show_id": "1074083784",
-        "show_timestamp": 1694752200,
+        "show_timestamp": 1694752197,
         "status": "estimated",
         "summary": "Royal Crackers' most profitable factory is due for an inspection, but when a brand new no-nonsense health inspector arrives, the team has to work extra hard to make sure Factory 37 is up to code.",
         "title": "Factory 37",
@@ -4886,6 +4886,160 @@
         "summary": "Jeff, Francine and Roger decide to team up and start their own bus tour business, with murderous results!",
         "title": "Exquisite Corpses",
         "title_id": "2197411",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "GV9K6",
+        "create_time": 1694740820380,
+        "episode_in_season": "8",
+        "episode_number": "S15:E08",
+        "external_id": "16227216",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1694831400,
+        "last_update": 1694740820380,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1694831400,
+        "season_number": "15",
+        "serial": 1694740820143,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1074219734",
+        "show_timestamp": 1694831400,
+        "status": "estimated",
+        "summary": "After Stan is injured, Francine nurses him back to health and he becomes dependent to her. The family discovers Tuttle is a Korean reality show star.",
+        "title": "Trophy Wife, Trophy Life",
+        "title_id": "2197414",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "44TGT",
+        "create_time": 1694740820380,
+        "episode_in_season": "9",
+        "episode_number": "S15:E09",
+        "external_id": "16227223",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1694833200,
+        "last_update": 1694740820380,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1694833200,
+        "season_number": "15",
+        "serial": 1694740820143,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1074219757",
+        "show_timestamp": 1694833200,
+        "status": "estimated",
+        "summary": "Stan drags the family to a labyrinth for family game night; Roger gets some geese.",
+        "title": "Game Night",
+        "title_id": "2197413",
         "tv_rating": "TV-14"
     }
 ]
