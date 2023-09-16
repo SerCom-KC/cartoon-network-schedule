@@ -5110,5 +5110,105 @@
         "title": "The Ollie",
         "title_id": "2097634",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1D5GRX",
+        "create_time": 1694890919968,
+        "external_id": "16018344",
+        "feed_id": "as-east",
+        "franchise_id": "484292",
+        "franchise_name": "ACME Night - Adult",
+        "genres": [
+            "Crime",
+            "Fantasy"
+        ],
+        "guide_timestamp": 1694984400,
+        "last_update": 1694890919968,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Tim Burton",
+                "role": "Director"
+            },
+            {
+                "character": "The Joker",
+                "name": "Jack Nicholson",
+                "role": "Actor"
+            },
+            {
+                "character": "Batman",
+                "name": "Michael Keaton",
+                "role": "Actor"
+            },
+            {
+                "character": "Bruce Wayne",
+                "name": "Michael Keaton",
+                "role": "Actor"
+            },
+            {
+                "character": "Victoria Vale",
+                "name": "Kim Basinger",
+                "role": "Actor"
+            },
+            {
+                "character": "Alexander Knox",
+                "name": "Robert Wuhl",
+                "role": "Actor"
+            },
+            {
+                "character": "James Gordon",
+                "name": "Pat Hingle",
+                "role": "Actor"
+            },
+            {
+                "character": "Harvey Dent",
+                "name": "Billy Dee Williams",
+                "role": "Actor"
+            },
+            {
+                "character": "Alfred Pennyworth",
+                "name": "Michael Gough",
+                "role": "Actor"
+            },
+            {
+                "character": "Carl Grissom",
+                "name": "Jack Palance",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Sam Hamm",
+                "role": "Screenplay"
+            },
+            {
+                "character": null,
+                "name": "Warren Skaaren",
+                "role": "Screenplay"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1989,
+        "runtime_minutes": 124,
+        "scheduled_duration": 9000,
+        "scheduled_timestamp": 1694984400,
+        "serial": 1694890919698,
+        "series_name": "",
+        "show_duration": 9000,
+        "show_id": "1076933990",
+        "show_timestamp": 1694984400,
+        "status": "estimated",
+        "summary": "The Caped Crusader saves dismal Gotham City and gorgeous Vicki Vale from the freaky Joker.",
+        "summary_long": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman who calls himself  the Joker seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+        "title": "Batman",
+        "title_id": "68178",
+        "tv_rating": "TV-14"
     }
 ]
