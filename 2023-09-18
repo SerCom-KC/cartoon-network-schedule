@@ -438,5 +438,82 @@
         "title": "You Are Here",
         "title_id": "2342104",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1F5JWV",
+        "create_time": 1694925874813,
+        "episode_in_season": "16",
+        "episode_number": "S17:E16",
+        "external_id": "16227905",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1695018600,
+        "last_update": 1694925874813,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1695018600,
+        "season_number": "17",
+        "serial": 1694925874614,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1076934126",
+        "show_timestamp": 1695018600,
+        "status": "estimated",
+        "summary": "Barry blows out his dad's speakers and Snot helps him replace them. Stan attempts to do a standing backflip.",
+        "title": "I Heard You Wanna Buy Some Speakers",
+        "title_id": "2342101",
+        "tv_rating": "TV-14"
     }
 ]
