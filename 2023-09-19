@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695096000,
-        "last_update": 1695003316457,
+        "last_update": 1695088620554,
         "live": false,
         "participants": [
             {
@@ -57,12 +57,12 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1695096000,
         "season_number": "4",
-        "serial": 1695003316255,
+        "serial": 1695088620316,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1801,
         "show_id": "1074450980",
-        "show_timestamp": 1695096000,
+        "show_timestamp": 1695096003,
         "status": "estimated",
         "summary": "Lots of things in space broh. Snakes and sharp stuff. Watch this broh.",
         "title": "Rattlestar Ricklactica",
@@ -90,7 +90,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695097800,
-        "last_update": 1695005378753,
+        "last_update": 1695088620554,
         "live": false,
         "participants": [
             {
@@ -201,12 +201,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1695097800,
         "season_number": "1",
-        "serial": 1695005378545,
+        "serial": 1695088620316,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1800,
+        "show_duration": 1790,
         "show_id": "1074451013",
-        "show_timestamp": 1695097800,
+        "show_timestamp": 1695097802,
         "status": "estimated",
         "summary": "When Theo's old charismatic friend and former bandmate shows up unexpectedly at the Hornsby Manor, Stebe is thrown into a full-blown identity crisis.",
         "title": "Stebe",
@@ -229,7 +229,7 @@
             "Drama"
         ],
         "guide_timestamp": 1695099600,
-        "last_update": 1695006811971,
+        "last_update": 1695088620554,
         "live": false,
         "participants": [
             {
@@ -280,12 +280,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1695099600,
         "season_number": "3",
-        "serial": 1695006811773,
+        "serial": 1695088620316,
         "series_id": "610028",
         "series_name": "The Boondocks",
-        "show_duration": 1800,
+        "show_duration": 1804,
         "show_id": "1074451057",
-        "show_timestamp": 1695099600,
+        "show_timestamp": 1695099591,
         "status": "estimated",
         "summary": "If you loved The Color Purple and can't get enough of Precious, we present a powerful, emotionally gripping story of people beating on each other. Uncle Ruckus's family comes to town and Ruckus must settle some old business with his father.",
         "summary_long": "If you loved The Color Purple and can't get enough of Precious, we present an equally powerful, emotionally gripping story of people senselessly beating on each other. Uncle Ruckus's family comes to town and Ruckus must settle some old business with his father. It's a tale of abuse, and triumph, and actually no, it's just a tale of abuse.",
@@ -5444,6 +5444,75 @@
         "summary": "American Dad becomes the 25th scripted prime-time show in the History of Television to reach 300 episodes and Roger's past comes back to haunt him.",
         "title": "300",
         "title_id": "2197426",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1FGPY2",
+        "create_time": 1695088075268,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "16228749",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1695180600,
+        "last_update": 1695088075268,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1695180600,
+        "season_number": "4",
+        "serial": 1695088074990,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1074456961",
+        "show_timestamp": 1695180600,
+        "status": "estimated",
+        "summary": "Choo Choo, broh. Catch this train broh.",
+        "title": "Never Ricking Morty",
+        "title_id": "2206492",
         "tv_rating": "TV-14"
     }
 ]
