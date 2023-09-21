@@ -880,5 +880,54 @@
         "title": "Nighttime Friend",
         "title_id": "2266168",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "3GTF6",
+        "create_time": 1695279655979,
+        "episode_in_season": "16",
+        "episode_number": "S3:E16",
+        "external_id": "16237628",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1695373200,
+        "last_update": 1695279655979,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1695373200,
+        "season_number": "3",
+        "serial": 1695279655766,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1076145231",
+        "show_timestamp": 1695373200,
+        "status": "estimated",
+        "summary": "Topsy: Sparks fly when Louise is determined to take down her Thomas Edison-obsessed science teacher by recreating a famous experiment where Thomas Edison (played by Gene) electrocutes an elephant named Topsy (played by Tina).",
+        "title": "Topsy",
+        "title_id": "2003527",
+        "tv_rating": "TV-PG"
     }
 ]
