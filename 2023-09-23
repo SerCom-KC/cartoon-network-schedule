@@ -19,7 +19,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695441600,
-        "last_update": 1695348813503,
+        "last_update": 1695432241681,
         "live": false,
         "participants": [
             {
@@ -55,12 +55,12 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1695441600,
         "season_number": "2",
-        "serial": 1695348813234,
+        "serial": 1695432241435,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1802,
         "show_id": "1074450340",
-        "show_timestamp": 1695441600,
+        "show_timestamp": 1695441602,
         "status": "estimated",
         "summary": "Morty don tries to save a life in this one broh! Get strapped in broh!",
         "title": "Mortynight Run",
@@ -88,7 +88,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695443400,
-        "last_update": 1695349919208,
+        "last_update": 1695432241682,
         "live": false,
         "participants": [
             {
@@ -124,12 +124,12 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1695443400,
         "season_number": "2",
-        "serial": 1695349918801,
+        "serial": 1695432241435,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1806,
+        "show_duration": 1804,
         "show_id": "1074450362",
-        "show_timestamp": 1695443400,
+        "show_timestamp": 1695443403,
         "status": "estimated",
         "summary": "Rick don gets straight emotional in this one broh. Beth and Jerry going ham on each other broh.",
         "title": "Auto Erotic Assimilation",
@@ -157,7 +157,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695445200,
-        "last_update": 1695353234703,
+        "last_update": 1695432241682,
         "live": false,
         "participants": [
             {
@@ -193,12 +193,12 @@
         "scheduled_duration": 1808,
         "scheduled_timestamp": 1695445200,
         "season_number": "2",
-        "serial": 1695353234495,
+        "serial": 1695432241435,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1808,
+        "show_duration": 1802,
         "show_id": "1074459941",
-        "show_timestamp": 1695445200,
+        "show_timestamp": 1695445206,
         "status": "estimated",
         "summary": "We don get to meet all sorts of new friends in this one broh. Morty goes ham in this one broh.",
         "title": "Total Rickall",
@@ -4477,6 +4477,152 @@
         "summary": "Stan and Francine go back in time to settle an argument.",
         "title": "Stan & Francine & Stan & Francine & Radika",
         "title_id": "2238762",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "V3PH9",
+        "create_time": 1695429799662,
+        "episode_in_season": "14",
+        "episode_number": "S16:E14",
+        "external_id": "16228842",
+        "feed_id": "as-east",
+        "franchise_id": "332142",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1695522600,
+        "last_update": 1695429799662,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1695522600,
+        "season_number": "16",
+        "serial": 1695429799439,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "1074449902",
+        "show_timestamp": 1695522600,
+        "status": "estimated",
+        "summary": "Francine and Roger get lost in a good book (or five) after Francine escapes an embarrassing situation. Stan reluctantly hangs out at the library.",
+        "title": "Flush After Reading",
+        "title_id": "2238763",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "1FG1XT",
+        "create_time": 1695431020125,
+        "episode_in_season": "5",
+        "episode_number": "S6:E05",
+        "external_id": "16228843",
+        "feed_id": "as-east",
+        "franchise_id": "401312",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1695524400,
+        "last_update": 1695431020125,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1695524400,
+        "season_number": "6",
+        "serial": 1695431019836,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "1074449909",
+        "show_timestamp": 1695524400,
+        "status": "estimated",
+        "summary": "Fortune cookies, broh.",
+        "title": "Final DeSmithation",
+        "title_id": "2397938",
         "tv_rating": "TV-14"
     }
 ]
