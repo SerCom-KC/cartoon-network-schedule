@@ -906,5 +906,52 @@
         "title": "My Big Fat Greek Bob",
         "title_id": "2030304",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "3GWTX",
+        "create_time": 1695541838770,
+        "episode_in_season": "5",
+        "episode_number": "S4:E05",
+        "external_id": "16229001",
+        "feed_id": "as-east",
+        "franchise_id": "395593",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1695634200,
+        "last_update": 1695541838770,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1695634200,
+        "season_number": "4",
+        "serial": 1695541838337,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "1076144785",
+        "show_timestamp": 1695634200,
+        "status": "estimated",
+        "summary": "Determined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage.",
+        "title": "Turkey in a Can",
+        "title_id": "2030308",
+        "tv_rating": "TV-14"
     }
 ]
