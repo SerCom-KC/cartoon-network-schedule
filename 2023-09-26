@@ -288,5 +288,83 @@
         "title": "Breaking Granddad",
         "title_id": "2008054",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232850_015_02_851",
+        "create_time": 1695614265744,
+        "episode_in_season": "15",
+        "episode_number": "S16:E15",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S94775",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1695706200,
+        "last_update": 1695614265744,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1695706200,
+        "season_number": "16",
+        "serial": 1695614265529,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13474374",
+        "show_timestamp": 1695706200,
+        "status": "estimated",
+        "summary": "Stan finally decides to do something about his secret baldness and enlists the help of Josay Bosay, Roger's famed hair-stylist-to-the-stars persona.",
+        "title": "Comb Over: A Hair Piece",
+        "title_id": "2238764",
+        "tv_rating": "TV-14"
     }
 ]
