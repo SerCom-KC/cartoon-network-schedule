@@ -4308,7 +4308,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695661200,
-        "last_update": 1695665750382,
+        "last_update": 1695669907717,
         "live": false,
         "participants": [
             {
@@ -4334,7 +4334,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695661200,
         "season_number": "2",
-        "serial": 1695665750193,
+        "serial": 1695669907534,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 901,
@@ -4768,7 +4768,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695664800,
-        "last_update": 1695665756741,
+        "last_update": 1695669359345,
         "live": false,
         "participants": [
             {
@@ -4818,7 +4818,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695664800,
         "season_number": "3",
-        "serial": 1695665756547,
+        "serial": 1695669359146,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 904,
@@ -5391,7 +5391,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695668400,
-        "last_update": 1695668433857,
+        "last_update": 1695669305515,
         "live": false,
         "participants": [
             {
@@ -5431,17 +5431,87 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695668400,
         "season_number": "6",
-        "serial": 1695668433617,
+        "serial": 1695669305327,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 880,
         "show_id": "13474349",
         "show_timestamp": 1695668401,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball spends all day with Bomb Kid who discovers that he may well be unprankable.",
         "summary_long": "Gumball spends the day with Bomb Kid, who has decided Gumball is the perfect target for him and his friends to play pranks on. However he soon learns that Gumball is so gullible that pranks bounce off him.",
         "title": "The Sucker",
         "title_id": "2131263",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228423_004_03_851",
+        "create_time": 1695591745056,
+        "episode_in_season": "4",
+        "episode_number": "S6:E04",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92235",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1695669300,
+        "last_update": 1695669305514,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2017,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1695669300,
+        "season_number": "6",
+        "serial": 1695669305327,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 919,
+        "show_id": "13474350",
+        "show_timestamp": 1695669281,
+        "status": "current",
+        "summary": "Gumball and Darwin have decided to do nothing for a whole day, but sometimes it's much harder to do nothing than something.",
+        "summary_long": "Gumball and Darwin want to have a lazy day on the sofa, and have come up with various tricks to stop themselves having to move. Gradually more and more people arrive, seemingly to get them to move, until finally they realize that if they have to move, they'll do it in the laziest way possible.",
+        "title": "The Vegging",
+        "title_id": "2149374",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -5506,76 +5576,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274022760",
-        "show_timestamp": 1695669300,
-        "status": "estimated",
-        "summary": "Gumball and Darwin have decided to do nothing for a whole day, but sometimes it's much harder to do nothing than something.",
-        "summary_long": "Gumball and Darwin want to have a lazy day on the sofa, and have come up with various tricks to stop themselves having to move. Gradually more and more people arrive, seemingly to get them to move, until finally they realize that if they have to move, they'll do it in the laziest way possible.",
-        "title": "The Vegging",
-        "title_id": "2149374",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228423_004_03_851",
-        "create_time": 1695591745056,
-        "episode_in_season": "4",
-        "episode_number": "S6:E04",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92235",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1695669300,
-        "last_update": 1695591745056,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2017,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1695669300,
-        "season_number": "6",
-        "serial": 1695591744512,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13474350",
         "show_timestamp": 1695669300,
         "status": "estimated",
         "summary": "Gumball and Darwin have decided to do nothing for a whole day, but sometimes it's much harder to do nothing than something.",
