@@ -801,5 +801,67 @@
         "title": "CrackerCon",
         "title_id": "2388934",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "228480_005_02_851",
+        "create_time": 1695624176979,
+        "episode_in_season": "5",
+        "episode_number": "S2:E05",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92249",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1695717000,
+        "last_update": 1695624176979,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tuca Toucan",
+                "name": "Tiffany Haddish",
+                "role": "Voice"
+            },
+            {
+                "character": "Roberta Songthrush",
+                "name": "Ali Wong",
+                "role": "Voice"
+            },
+            {
+                "character": "Speckle",
+                "name": "Steven Yeun",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Lisa Hanawalt",
+                "role": "Creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2021,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1695717000,
+        "season_number": "2",
+        "serial": 1695624176538,
+        "series_id": "2266164",
+        "series_name": "Tuca & Bertie",
+        "show_duration": 1800,
+        "show_id": "13546072",
+        "show_timestamp": 1695717000,
+        "status": "estimated",
+        "summary": "Bertie's vibrator is giving her intrusive-yet-titillating thoughts, it must be broken... or maybe it's her bed... or her brain? Tuca wonders if her new friendship could be something more. Speckle's reeeally into his new video game.",
+        "title": "Vibe Check",
+        "title_id": "2266169",
+        "tv_rating": "TV-14"
     }
 ]
