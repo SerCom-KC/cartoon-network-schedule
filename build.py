@@ -26,7 +26,7 @@ if __name__ == "__main__":
     }
 
     for show in response["shows"]:
-        time = datetime.utcfromtimestamp(show["scheduled_timestamp"]).replace(
+        time = datetime.utcfromtimestamp(show["guide_timestamp"]).replace(
             tzinfo=pytz.timezone("UTC")).astimezone(tz=pytz.timezone("US/Eastern"))
         date_string = time.strftime("%Y-%m-%d")
         if date_string not in schedule:
