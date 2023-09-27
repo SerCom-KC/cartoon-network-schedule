@@ -7303,5 +7303,81 @@
         "title": "Gene It On",
         "title_id": "2030321",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "S",
+            "V"
+        ],
+        "content_id": "232854_003_03_851",
+        "create_time": 1695858159277,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S94775",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1695951000,
+        "last_update": 1695858159277,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2005,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1695951000,
+        "season_number": "1",
+        "serial": 1695858158821,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13474570",
+        "show_timestamp": 1695951000,
+        "status": "estimated",
+        "summary": "Hayley comes home with her hair dyed green, much to the dismay of Stan, who decides to cut it off while she is sleeping. To get Stan back, Hayley moves into her boyfriend's van and gets a job as a waitress at a strip club.",
+        "title": "Stan Knows Best",
+        "title_id": "611820",
+        "tv_rating": "TV-14"
     }
 ]
