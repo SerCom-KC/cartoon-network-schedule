@@ -3083,7 +3083,7 @@
             "Family"
         ],
         "guide_timestamp": 1695905100,
-        "last_update": 1695906005575,
+        "last_update": 1695909610876,
         "live": false,
         "participants": [
             {
@@ -3153,7 +3153,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695905100,
         "season_number": "1",
-        "serial": 1695906004284,
+        "serial": 1695909610067,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
         "show_duration": 900,
@@ -3281,7 +3281,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695906000,
-        "last_update": 1695906902105,
+        "last_update": 1695910503733,
         "live": false,
         "participants": [
             {
@@ -3331,7 +3331,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695906000,
         "season_number": "4",
-        "serial": 1695906901825,
+        "serial": 1695910503371,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -3998,7 +3998,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695908700,
-        "last_update": 1695908703207,
+        "last_update": 1695909602314,
         "live": false,
         "participants": [
             {
@@ -4049,13 +4049,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695908700,
         "season_number": "4",
-        "serial": 1695908702658,
+        "serial": 1695909601801,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
         "show_id": "274035098",
         "show_timestamp": 1695908700,
-        "status": "current",
+        "status": "actual",
         "summary": "It's Movie Night and the Titans have a hard time deciding who gets to choose which movie they watch.",
         "title": "Movie Night",
         "title_id": "2109208",
@@ -4144,6 +4144,60 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229075_011_03_851",
+        "create_time": 1695841668615,
+        "episode_in_season": "11",
+        "episode_number": "S2:E11",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92618",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1695909600,
+        "last_update": 1695910503728,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1695909600,
+        "season_number": "2",
+        "serial": 1695910503371,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "274035099",
+        "show_timestamp": 1695909600,
+        "status": "actual",
+        "summary": "The circle game wreaks havoc on the Creek, so Craig forms a council to restore order.",
+        "title": "Council of the Creek",
+        "title_id": "2186681",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229075_011_03_851",
         "create_time": 1695817231558,
         "episode_in_season": "11",
         "episode_number": "S2:E11",
@@ -4197,10 +4251,10 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229075_011_03_851",
-        "create_time": 1695841668615,
-        "episode_in_season": "11",
-        "episode_number": "S2:E11",
+        "content_id": "229075_012_03_851",
+        "create_time": 1695841668616,
+        "episode_in_season": "12",
+        "episode_number": "S2:E12",
         "external_id": null,
         "feed_id": "as-east",
         "franchise_id": "S92618",
@@ -4210,8 +4264,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1695909600,
-        "last_update": 1695895217681,
+        "guide_timestamp": 1695910500,
+        "last_update": 1695910503728,
         "live": false,
         "participants": [
             {
@@ -4234,18 +4288,18 @@
         "press_hold": false,
         "release_year": 2019,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1695909600,
+        "scheduled_timestamp": 1695910500,
         "season_number": "2",
-        "serial": 1695895217395,
+        "serial": 1695910503371,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
-        "show_id": "274035099",
-        "show_timestamp": 1695909600,
-        "status": "estimated",
-        "summary": "The circle game wreaks havoc on the Creek, so Craig forms a council to restore order.",
-        "title": "Council of the Creek",
-        "title_id": "2186681",
+        "show_id": "274035100",
+        "show_timestamp": 1695910500,
+        "status": "current",
+        "summary": "Craig, Kelsey and JP team up with an intergalactic hero named Sparkle Cadet, hoping to save the Creek from negativity.",
+        "title": "Sparkle Cadet",
+        "title_id": "2186682",
         "tv_rating": "TV-Y7"
     },
     {
@@ -4295,60 +4349,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274034994",
-        "show_timestamp": 1695910500,
-        "status": "estimated",
-        "summary": "Craig, Kelsey and JP team up with an intergalactic hero named Sparkle Cadet, hoping to save the Creek from negativity.",
-        "title": "Sparkle Cadet",
-        "title_id": "2186682",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229075_012_03_851",
-        "create_time": 1695841668616,
-        "episode_in_season": "12",
-        "episode_number": "S2:E12",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92618",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1695910500,
-        "last_update": 1695895855550,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2019,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1695910500,
-        "season_number": "2",
-        "serial": 1695895855328,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "274035100",
         "show_timestamp": 1695910500,
         "status": "estimated",
         "summary": "Craig, Kelsey and JP team up with an intergalactic hero named Sparkle Cadet, hoping to save the Creek from negativity.",
@@ -4427,7 +4427,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695911400,
-        "last_update": 1695895855550,
+        "last_update": 1695910621077,
         "live": false,
         "participants": [
             {
@@ -4452,7 +4452,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695911400,
         "season_number": "2",
-        "serial": 1695895855328,
+        "serial": 1695910620862,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -4535,7 +4535,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695912300,
-        "last_update": 1695895855551,
+        "last_update": 1695909948022,
         "live": false,
         "participants": [
             {
@@ -4560,7 +4560,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695912300,
         "season_number": "2",
-        "serial": 1695895855328,
+        "serial": 1695909947761,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -4659,7 +4659,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695913200,
-        "last_update": 1695895855551,
+        "last_update": 1695909650943,
         "live": false,
         "participants": [
             {
@@ -4699,7 +4699,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695913200,
         "season_number": "6",
-        "serial": 1695895855328,
+        "serial": 1695909650175,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -4799,7 +4799,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695914100,
-        "last_update": 1695895855552,
+        "last_update": 1695909650944,
         "live": false,
         "participants": [
             {
@@ -4839,7 +4839,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695914100,
         "season_number": "6",
-        "serial": 1695895855328,
+        "serial": 1695909650175,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -4939,7 +4939,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695915000,
-        "last_update": 1695895855552,
+        "last_update": 1695909650945,
         "live": false,
         "participants": [
             {
@@ -4979,7 +4979,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695915000,
         "season_number": "6",
-        "serial": 1695895855328,
+        "serial": 1695909650175,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -5079,7 +5079,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695915900,
-        "last_update": 1695895855552,
+        "last_update": 1695909650946,
         "live": false,
         "participants": [
             {
@@ -5119,7 +5119,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695915900,
         "season_number": "6",
-        "serial": 1695895855328,
+        "serial": 1695909650175,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -5253,7 +5253,7 @@
             "Children"
         ],
         "guide_timestamp": 1695916800,
-        "last_update": 1695895855553,
+        "last_update": 1695909651482,
         "live": false,
         "participants": [
             {
@@ -5328,7 +5328,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695916800,
         "season_number": "2",
-        "serial": 1695895855328,
+        "serial": 1695909651300,
         "series_id": "2131007",
         "series_name": "Summer Camp Island",
         "show_duration": 900,
@@ -5461,7 +5461,7 @@
             "Children"
         ],
         "guide_timestamp": 1695917700,
-        "last_update": 1695895855553,
+        "last_update": 1695909651482,
         "live": false,
         "participants": [
             {
@@ -5536,7 +5536,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695917700,
         "season_number": "2",
-        "serial": 1695895855328,
+        "serial": 1695909651300,
         "series_id": "2131007",
         "series_name": "Summer Camp Island",
         "show_duration": 900,
@@ -5565,7 +5565,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695918600,
-        "last_update": 1695827394645,
+        "last_update": 1695909651483,
         "live": false,
         "participants": [
             {
@@ -5606,7 +5606,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695918600,
         "season_number": "6",
-        "serial": 1695827394364,
+        "serial": 1695909651300,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -5636,7 +5636,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695919500,
-        "last_update": 1695827394646,
+        "last_update": 1695909655456,
         "live": false,
         "participants": [
             {
@@ -5677,7 +5677,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695919500,
         "season_number": "6",
-        "serial": 1695827394364,
+        "serial": 1695909655236,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -5707,7 +5707,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695920400,
-        "last_update": 1695827394647,
+        "last_update": 1695909655457,
         "live": false,
         "participants": [
             {
@@ -5733,7 +5733,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695920400,
         "season_number": "1",
-        "serial": 1695827394364,
+        "serial": 1695909655236,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -5762,7 +5762,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695921300,
-        "last_update": 1695827787603,
+        "last_update": 1695909655457,
         "live": false,
         "participants": [
             {
@@ -5788,7 +5788,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695921300,
         "season_number": "2",
-        "serial": 1695827787371,
+        "serial": 1695909655236,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -5817,7 +5817,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695922200,
-        "last_update": 1695831074375,
+        "last_update": 1695909655457,
         "live": false,
         "participants": [
             {
@@ -5842,7 +5842,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695922200,
         "season_number": "1",
-        "serial": 1695831074091,
+        "serial": 1695909655236,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -5871,7 +5871,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695923100,
-        "last_update": 1695831074376,
+        "last_update": 1695909655458,
         "live": false,
         "participants": [
             {
@@ -5896,7 +5896,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695923100,
         "season_number": "1",
-        "serial": 1695831074091,
+        "serial": 1695909655236,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -5925,7 +5925,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695924000,
-        "last_update": 1695841669702,
+        "last_update": 1695909655458,
         "live": false,
         "participants": [
             {
@@ -5975,7 +5975,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695924000,
         "season_number": "4",
-        "serial": 1695841669257,
+        "serial": 1695909655236,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -6004,7 +6004,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695924900,
-        "last_update": 1695831608282,
+        "last_update": 1695909991967,
         "live": false,
         "participants": [
             {
@@ -6054,7 +6054,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695924900,
         "season_number": "4",
-        "serial": 1695831608073,
+        "serial": 1695909991687,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -6083,7 +6083,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695925800,
-        "last_update": 1695835179728,
+        "last_update": 1695909991968,
         "live": false,
         "participants": [
             {
@@ -6133,7 +6133,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695925800,
         "season_number": "4",
-        "serial": 1695835179465,
+        "serial": 1695909991687,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -6162,7 +6162,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695926700,
-        "last_update": 1695835179729,
+        "last_update": 1695909991969,
         "live": false,
         "participants": [
             {
@@ -6212,7 +6212,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695926700,
         "season_number": "4",
-        "serial": 1695835179465,
+        "serial": 1695909991687,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -6241,7 +6241,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695927600,
-        "last_update": 1695835179730,
+        "last_update": 1695909993017,
         "live": false,
         "participants": [
             {
@@ -6281,7 +6281,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695927600,
         "season_number": "6",
-        "serial": 1695835179465,
+        "serial": 1695909992750,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -6311,7 +6311,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695928500,
-        "last_update": 1695835179731,
+        "last_update": 1695909993017,
         "live": false,
         "participants": [
             {
@@ -6351,7 +6351,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695928500,
         "season_number": "6",
-        "serial": 1695835179465,
+        "serial": 1695909992750,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -6381,7 +6381,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695929400,
-        "last_update": 1695835966154,
+        "last_update": 1695909993018,
         "live": false,
         "participants": [
             {
@@ -6421,7 +6421,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695929400,
         "season_number": "6",
-        "serial": 1695835965987,
+        "serial": 1695909992750,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -6451,7 +6451,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695930300,
-        "last_update": 1695838280112,
+        "last_update": 1695909993018,
         "live": false,
         "participants": [
             {
@@ -6491,7 +6491,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695930300,
         "season_number": "6",
-        "serial": 1695838279773,
+        "serial": 1695909992750,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -6521,7 +6521,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695931200,
-        "last_update": 1695838280112,
+        "last_update": 1695909993018,
         "live": false,
         "participants": [
             {
@@ -6561,7 +6561,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695931200,
         "season_number": "6",
-        "serial": 1695838279773,
+        "serial": 1695909992750,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -6591,7 +6591,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695932100,
-        "last_update": 1695841670387,
+        "last_update": 1695909993019,
         "live": false,
         "participants": [
             {
@@ -6631,7 +6631,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695932100,
         "season_number": "6",
-        "serial": 1695841670085,
+        "serial": 1695909992750,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -6661,7 +6661,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695933000,
-        "last_update": 1695841670387,
+        "last_update": 1695909993019,
         "live": false,
         "participants": [
             {
@@ -6701,7 +6701,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695933000,
         "season_number": "6",
-        "serial": 1695841670085,
+        "serial": 1695909992750,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -6731,7 +6731,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695933900,
-        "last_update": 1695841670388,
+        "last_update": 1695909993019,
         "live": false,
         "participants": [
             {
@@ -6771,7 +6771,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1695933900,
         "season_number": "6",
-        "serial": 1695841670085,
+        "serial": 1695909992750,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -6801,7 +6801,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695934800,
-        "last_update": 1695845921223,
+        "last_update": 1695909993020,
         "live": false,
         "participants": [
             {
@@ -6827,7 +6827,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1695934800,
         "season_number": "2",
-        "serial": 1695845920923,
+        "serial": 1695909992750,
         "series_id": "100106",
         "series_name": "Dexter's Laboratory",
         "show_duration": 1800,
@@ -6913,7 +6913,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695936600,
-        "last_update": 1695883794504,
+        "last_update": 1695909993060,
         "live": false,
         "participants": [
             {
@@ -6939,7 +6939,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1695936600,
         "season_number": "2",
-        "serial": 1695883794213,
+        "serial": 1695909992750,
         "series_id": "100106",
         "series_name": "Dexter's Laboratory",
         "show_duration": 1800,
