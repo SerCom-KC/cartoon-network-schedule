@@ -5222,5 +5222,52 @@
         "title": "Wharf Horse",
         "title_id": "2030322",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169796_022_04_851",
+        "create_time": 1695940619214,
+        "episode_in_season": "22",
+        "episode_number": "S4:E22",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S54636",
+        "franchise_name": null,
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1696033800,
+        "last_update": 1695940619214,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696033800,
+        "season_number": "4",
+        "serial": 1695940619022,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13474635",
+        "show_timestamp": 1696033800,
+        "status": "estimated",
+        "summary": "It's Linda and the kids to the rescue when Felix takes desperate measures, and puts Bob and Mr. Fischoeder in danger.",
+        "title": "World Wharf II: The Wharfening",
+        "title_id": "2030323",
+        "tv_rating": "TV-14"
     }
 ]
