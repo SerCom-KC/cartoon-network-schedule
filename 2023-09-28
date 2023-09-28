@@ -17,7 +17,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695873600,
-        "last_update": 1695780240300,
+        "last_update": 1695864952737,
         "live": false,
         "participants": [
             {
@@ -47,12 +47,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1695873600,
         "season_number": "2",
-        "serial": 1695780240064,
+        "serial": 1695864952336,
         "series_id": "2292228",
         "series_name": "Teenage Euthanasia",
         "show_duration": 1800,
         "show_id": "13546172",
-        "show_timestamp": 1695873600,
+        "show_timestamp": 1695873601,
         "status": "estimated",
         "summary": "While Tender Endings gets fumigated, the Fantasy family decide to take their first vacation. But Trophy's uneven eyebrows threaten to ruin everything.",
         "title": "A Very Fantasy Vacation",
@@ -7604,6 +7604,74 @@
         "summary_long": "Francine decides to throw a block party to get in touch with the neighborhood. Stan learns his new neighbors are Iranian and immediately suspects that they are terrorists. To prepare Steve for living near terrorists, Stan makes Steve join a group of scouts, who turn out to be troublemakers.",
         "title": "Homeland Insecurity",
         "title_id": "611812",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251794_010_03_851",
+        "create_time": 1695865795509,
+        "episode_in_season": "10",
+        "episode_number": "S5:E10",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S51427",
+        "franchise_name": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1695958200,
+        "last_update": 1695865795509,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2021,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1695958200,
+        "season_number": "5",
+        "serial": 1695865795061,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13474574",
+        "show_timestamp": 1695958200,
+        "status": "estimated",
+        "summary": "Tryin something new broh. Doin it big.",
+        "title": "Rickmurai Jack",
+        "title_id": "2270467",
         "tv_rating": "TV-14"
     }
 ]
