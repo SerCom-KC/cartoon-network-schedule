@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1695960000,
-        "last_update": 1695867403895,
+        "last_update": 1695947526500,
         "live": false,
         "participants": [
             {
@@ -55,12 +55,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1695960000,
         "season_number": "5",
-        "serial": 1695867403604,
+        "serial": 1695947526155,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
         "show_id": "13682205",
-        "show_timestamp": 1695960000,
+        "show_timestamp": 1695960015,
         "status": "estimated",
         "summary": "Two Crows, broh. These guys are mad smart.",
         "title": "Forgetting Sarick Mortshall",
@@ -88,7 +88,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1695961800,
-        "last_update": 1695869580623,
+        "last_update": 1695947526500,
         "live": false,
         "participants": [
             {
@@ -198,12 +198,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1695961800,
         "season_number": "1",
-        "serial": 1695869580248,
+        "serial": 1695947526155,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
         "show_id": "13474576",
-        "show_timestamp": 1695961800,
+        "show_timestamp": 1695961807,
         "status": "estimated",
         "summary": "Tragedy strikes the Hornsby family when their beloved patriarch and founder of Royal Crackers, Theodore Hornsby Sr., falls into a 'super coma'.",
         "title": "Pilot",
@@ -5391,6 +5391,160 @@
         "summary": "Stan goes to great lengths to compete against his rival, Chuck White, and become the new deacon of their church. Meanwhile, Steve is falling in love with Chuck's daughter, Betsy.",
         "title": "Deacon Stan, Jesus Man",
         "title_id": "611813",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232854_008_02_851",
+        "create_time": 1695947432851,
+        "episode_in_season": "8",
+        "episode_number": "S1:E08",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S94775",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1696039200,
+        "last_update": 1695947432851,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2005,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696039200,
+        "season_number": "1",
+        "serial": 1695947432671,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13474638",
+        "show_timestamp": 1696039200,
+        "status": "estimated",
+        "summary": "Hayley dumps Jeff and dates Bullock. Stan withholds his objections in order to get a promotion.",
+        "title": "Bullocks to Stan",
+        "title_id": "611815",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232854_009_02_851",
+        "create_time": 1695947432852,
+        "episode_in_season": "9",
+        "episode_number": "S1:E09",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S94775",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1696041000,
+        "last_update": 1695947432852,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2005,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696041000,
+        "season_number": "1",
+        "serial": 1695947432671,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13474639",
+        "show_timestamp": 1696041000,
+        "status": "estimated",
+        "summary": "Steve injures Stan's groin and feels terrible, inadvertently leading Stan to discover masturbation. Meanwhile, Roger opens a bar in the attic.",
+        "title": "A Smith in the Hand",
+        "title_id": "611816",
         "tv_rating": "TV-14"
     }
 ]
