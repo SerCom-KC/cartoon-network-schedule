@@ -1462,6 +1462,7 @@
         "content_advisories": [],
         "content_id": "168445_002_02_851",
         "create_time": 1696088541755,
+        "episode_in_season": "2",
         "external_id": "16252800",
         "feed_id": "as-east",
         "franchise_id": "489898",
@@ -1471,7 +1472,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696181400,
-        "last_update": 1696088541755,
+        "last_update": 1696115369734,
         "live": false,
         "participants": [
             {
@@ -1511,7 +1512,7 @@
         "runtime_minutes": 69,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1696181400,
-        "serial": 1696088541507,
+        "serial": 1696115369561,
         "series_name": "",
         "show_duration": 1800,
         "show_id": "13682662",
@@ -1519,7 +1520,7 @@
         "status": "estimated",
         "summary": "To face a Goblin King, courage is crucial. So for Scooby-Doo and Shaggy, the odds are against them!",
         "title": "Scooby-Doo! and the Goblin King",
-        "title_id": "694156",
+        "title_id": "541349",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -2182,5 +2183,83 @@
         "title": "Speakeasy Rider",
         "title_id": "2065459",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_020_02_851",
+        "create_time": 1696115370101,
+        "episode_in_season": "20",
+        "episode_number": "S17:E20",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S94775",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1696208400,
+        "last_update": 1696115370101,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696208400,
+        "season_number": "17",
+        "serial": 1696115369951,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13474743",
+        "show_timestamp": 1696208400,
+        "status": "estimated",
+        "summary": "Hoping to teach him the value of sharing, the family recreates a television show from Klaus's childhood. Roger has a piano recital.",
+        "title": "Gernot and Strudel",
+        "title_id": "2342107",
+        "tv_rating": "TV-14"
     }
 ]
