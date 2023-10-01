@@ -438,5 +438,72 @@
         "title": "Echoes",
         "title_id": "2342108",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251792_003_02_851",
+        "create_time": 1696134624759,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S51427",
+        "franchise_name": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1696228200,
+        "last_update": 1696134624759,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696228200,
+        "season_number": "3",
+        "serial": 1696134624538,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13569509",
+        "show_timestamp": 1696228200,
+        "status": "estimated",
+        "summary": "It's family therapy time in this one broh. Classic stuff. Pickle Rick too.",
+        "title": "Pickle Rick",
+        "title_id": "2116832",
+        "tv_rating": "TV-14"
     }
 ]
