@@ -80,7 +80,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696221000,
-        "last_update": 1696209409106,
+        "last_update": 1696211993210,
         "live": false,
         "participants": [
             {
@@ -190,7 +190,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1696221000,
         "season_number": "1",
-        "serial": 1696209404891,
+        "serial": 1696211979926,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
@@ -262,7 +262,7 @@
             "Talk"
         ],
         "guide_timestamp": 1696223700,
-        "last_update": 1696209517078,
+        "last_update": 1696210836714,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -271,7 +271,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696223700,
         "season_number": "6",
-        "serial": 1696209498669,
+        "serial": 1696210830479,
         "series_id": "895948",
         "series_name": "The Eric Andre Show",
         "show_duration": 900,
@@ -303,7 +303,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696224600,
-        "last_update": 1696210449951,
+        "last_update": 1696212332832,
         "live": false,
         "participants": [
             {
@@ -349,7 +349,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1696224600,
         "season_number": "17",
-        "serial": 1696210435511,
+        "serial": 1696212320504,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -381,7 +381,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696226400,
-        "last_update": 1696133205623,
+        "last_update": 1696212409744,
         "live": false,
         "participants": [
             {
@@ -427,7 +427,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1696226400,
         "season_number": "17",
-        "serial": 1696133205176,
+        "serial": 1696212399489,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -4303,6 +4303,76 @@
         "summary_long": "As Stan continues to dominate the household, Francine finds herself idolizing a group of women who seem to have it all. She tries to impress them and even lies in order to gain acceptance into their group, until she realizes they aren't as perfect as they seem. Meanwhile, loyalties are tested when Stan gets a new best friend.",
         "title": "Not Particularly Desperate Housewives",
         "title_id": "631389",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "156102_002_03_851",
+        "create_time": 1696212304960,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16260747",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1696303800,
+        "last_update": 1696212304960,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696303800,
+        "season_number": "1",
+        "serial": 1696212304703,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13591745",
+        "show_timestamp": 1696303800,
+        "status": "estimated",
+        "summary": "Rick helps Jerry out with the dog, broh. Don't even trip about this episode because they also incept Goldenfold.",
+        "title": "Lawnmower Dog",
+        "title_id": "2013507",
         "tv_rating": "TV-14"
     }
 ]
