@@ -719,5 +719,111 @@
         "title": " Remember Fun?",
         "title_id": "2423862",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "S"
+        ],
+        "content_id": "228480_009_02_851",
+        "create_time": 1696230449074,
+        "episode_in_season": "9",
+        "episode_number": "S2:E09",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92249",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1696321800,
+        "last_update": 1696230449074,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tuca Toucan",
+                "name": "Tiffany Haddish",
+                "role": "Voice"
+            },
+            {
+                "character": "Roberta Songthrush",
+                "name": "Ali Wong",
+                "role": "Voice"
+            },
+            {
+                "character": "Speckle",
+                "name": "Steven Yeun",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Lisa Hanawalt",
+                "role": "Creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2021,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696321800,
+        "season_number": "2",
+        "serial": 1696230448889,
+        "series_id": "2266164",
+        "series_name": "Tuca & Bertie",
+        "show_duration": 1800,
+        "show_id": "13591755",
+        "show_timestamp": 1696321800,
+        "status": "estimated",
+        "summary": "Bertie hasn't seen Tuca in weeks and she isn't sure whether to give her space or fight for their friendship! Some drama goes down at the annual Bird Town Carnival.",
+        "title": "The Dance",
+        "title_id": "2266173",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250263_005_03_851",
+        "create_time": 1696230449075,
+        "episode_in_season": "5",
+        "episode_number": "S9:E05",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S54636",
+        "franchise_name": null,
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1696323600,
+        "last_update": 1696230449075,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696323600,
+        "season_number": "9",
+        "serial": 1696230448889,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13591756",
+        "show_timestamp": 1696323600,
+        "status": "estimated",
+        "summary": "Louise, Tina and Gene seek the ultimate revenge.",
+        "summary_long": "The kids learn the dangers of revenge when their plan to get back at the school guidance counselor gets them entangled in a deep rooted sibling rivalry between two pilots. Meanwhile, Linda and Bob put their game faces on when Teddy invites them to a paper airplane contest.",
+        "title": "Live and Let Fly",
+        "title_id": "2438921",
+        "tv_rating": "TV-PG"
     }
 ]
