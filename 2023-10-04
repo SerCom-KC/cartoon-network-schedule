@@ -544,7 +544,7 @@
             "Animation"
         ],
         "guide_timestamp": 1696402800,
-        "last_update": 1696311881620,
+        "last_update": 1696316496447,
         "live": false,
         "participants": [
             {
@@ -580,7 +580,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1696402800,
         "season_number": "1",
-        "serial": 1696311881522,
+        "serial": 1696316496291,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -680,7 +680,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696406400,
-        "last_update": 1696315526052,
+        "last_update": 1696316496448,
         "live": false,
         "participants": [
             {
@@ -710,7 +710,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1696406400,
         "season_number": "2",
-        "serial": 1696315525911,
+        "serial": 1696316496291,
         "series_id": "2292228",
         "series_name": "Teenage Euthanasia",
         "show_duration": 1800,
@@ -740,7 +740,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696408200,
-        "last_update": 1696315526053,
+        "last_update": 1696316496449,
         "live": false,
         "participants": [
             {
@@ -770,7 +770,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1696408200,
         "season_number": "3",
-        "serial": 1696315525911,
+        "serial": 1696316496291,
         "series_id": "2266164",
         "series_name": "Tuca & Bertie",
         "show_duration": 1800,
@@ -781,5 +781,53 @@
         "title": "Leveling Up",
         "title_id": "2388611",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169687_015_04_851",
+        "create_time": 1696316496450,
+        "episode_in_season": "15",
+        "episode_number": "S5:E15",
+        "external_id": "16263066",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1696410000,
+        "last_update": 1696316496450,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696410000,
+        "season_number": "5",
+        "serial": 1696316496291,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13591821",
+        "show_timestamp": 1696410000,
+        "status": "estimated",
+        "summary": "Bob and Linda head out on the town for a date but to Linda's dismay, Bob's idea of romance proves trivial. Meanwhile, a wild chinchilla chase ensues after the school pet that Louis was charged with watching escapes out the front door.",
+        "title": "Adventures in Chinchilla-Sitting",
+        "title_id": "2065464",
+        "tv_rating": "TV-PG"
     }
 ]
