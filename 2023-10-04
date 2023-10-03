@@ -1382,7 +1382,7 @@
             "Family"
         ],
         "guide_timestamp": 1696420800,
-        "last_update": 1696328078675,
+        "last_update": 1696336991444,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -1390,7 +1390,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696420800,
         "season_number": "1",
-        "serial": 1696328078576,
+        "serial": 1696336991335,
         "series_id": "2368373",
         "series_name": "Jessica's Big Little World",
         "show_duration": 900,
@@ -1628,7 +1628,7 @@
             "Animation"
         ],
         "guide_timestamp": 1696424400,
-        "last_update": 1696331828326,
+        "last_update": 1696336991788,
         "live": false,
         "participants": [
             {
@@ -1679,7 +1679,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696424400,
         "season_number": "4",
-        "serial": 1696331828207,
+        "serial": 1696336991648,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -1868,7 +1868,7 @@
             "Animation"
         ],
         "guide_timestamp": 1696427100,
-        "last_update": 1696335577618,
+        "last_update": 1696336991791,
         "live": false,
         "participants": [
             {
@@ -1919,7 +1919,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696427100,
         "season_number": "4",
-        "serial": 1696335577511,
+        "serial": 1696336991648,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -1948,7 +1948,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696428000,
-        "last_update": 1696335577619,
+        "last_update": 1696336991792,
         "live": false,
         "participants": [
             {
@@ -1979,7 +1979,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696428000,
         "season_number": "4",
-        "serial": 1696335577511,
+        "serial": 1696336991648,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -2026,5 +2026,59 @@
         "title": "The Big Kid Playground",
         "title_id": "2368374",
         "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229075_024_03_851",
+        "create_time": 1696336991793,
+        "episode_in_season": "24",
+        "episode_number": "S2:E24",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92618",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1696429800,
+        "last_update": 1696336991793,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1696429800,
+        "season_number": "2",
+        "serial": 1696336991648,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "274059454",
+        "show_timestamp": 1696429800,
+        "status": "estimated",
+        "summary": "Craig, Kelsey and JP discover an ancient fort that belonged to the first kids in the Creek.",
+        "title": "Ancients of the Creek",
+        "title_id": "2196197",
+        "tv_rating": "TV-Y7"
     }
 ]
