@@ -614,7 +614,7 @@
             "Animation"
         ],
         "guide_timestamp": 1696404600,
-        "last_update": 1696312747046,
+        "last_update": 1696319055637,
         "live": false,
         "participants": [
             {
@@ -650,7 +650,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1696404600,
         "season_number": "1",
-        "serial": 1696312746944,
+        "serial": 1696319055520,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -828,6 +828,53 @@
         "summary": "Bob and Linda head out on the town for a date but to Linda's dismay, Bob's idea of romance proves trivial. Meanwhile, a wild chinchilla chase ensues after the school pet that Louis was charged with watching escapes out the front door.",
         "title": "Adventures in Chinchilla-Sitting",
         "title_id": "2065464",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169687_016_04_851",
+        "create_time": 1696319055639,
+        "episode_in_season": "16",
+        "episode_number": "S5:E16",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S54636",
+        "franchise_name": null,
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1696411800,
+        "last_update": 1696319168799,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696411800,
+        "season_number": "5",
+        "serial": 1696319168678,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13591822",
+        "show_timestamp": 1696411800,
+        "status": "estimated",
+        "summary": "The kids are sentenced to Saturday detention and will do anything it takes to leave early so they can attend the Cotton Candy Festival. Meanwhile, Bob and Linda believe that they are being scammed by a young girl at the restaurant.",
+        "title": "The Runway Club",
+        "title_id": "2065465",
         "tv_rating": "TV-PG"
     }
 ]
