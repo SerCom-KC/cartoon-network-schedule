@@ -1309,7 +1309,7 @@
             "Family"
         ],
         "guide_timestamp": 1696419000,
-        "last_update": 1696327099179,
+        "last_update": 1696331494340,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -1317,7 +1317,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696419000,
         "season_number": "1",
-        "serial": 1696327099085,
+        "serial": 1696331494229,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 900,
@@ -1346,7 +1346,7 @@
             "Family"
         ],
         "guide_timestamp": 1696419900,
-        "last_update": 1696328078674,
+        "last_update": 1696331494642,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -1354,7 +1354,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696419900,
         "season_number": "1",
-        "serial": 1696328078576,
+        "serial": 1696331494510,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 900,
@@ -1418,7 +1418,7 @@
             "Family"
         ],
         "guide_timestamp": 1696421700,
-        "last_update": 1696330344039,
+        "last_update": 1696331494643,
         "live": false,
         "participants": [
             {
@@ -1463,7 +1463,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696421700,
         "season_number": "1",
-        "serial": 1696330343924,
+        "serial": 1696331494510,
         "series_id": "2267111",
         "series_name": "Batwheels",
         "show_duration": 900,
@@ -1492,7 +1492,7 @@
             "Family"
         ],
         "guide_timestamp": 1696422600,
-        "last_update": 1696330344039,
+        "last_update": 1696331494643,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -1500,7 +1500,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696422600,
         "season_number": "1",
-        "serial": 1696330343924,
+        "serial": 1696331494510,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 900,
@@ -1610,5 +1610,85 @@
         "title": "Big Feet",
         "title_id": "2267164",
         "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229466_034_03_851",
+        "create_time": 1696331494644,
+        "episode_in_season": "34",
+        "episode_number": "S4:E34",
+        "external_id": "16262152",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1696424400,
+        "last_update": 1696331494644,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1696424400,
+        "season_number": "4",
+        "serial": 1696331494510,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 900,
+        "show_id": "274059394",
+        "show_timestamp": 1696424400,
+        "status": "estimated",
+        "summary": "Robin forces the other Titans to forget their dreams and find regular, boring jobs.",
+        "title": "Career Day",
+        "title_id": "2132182",
+        "tv_rating": "TV-PG"
     }
 ]
