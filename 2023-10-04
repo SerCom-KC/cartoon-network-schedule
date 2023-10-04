@@ -4552,7 +4552,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696441500,
-        "last_update": 1696442418976,
+        "last_update": 1696446025093,
         "live": false,
         "participants": [
             {
@@ -4577,7 +4577,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696441500,
         "season_number": "2",
-        "serial": 1696442418482,
+        "serial": 1696446024859,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -5134,7 +5134,7 @@
             "Animation"
         ],
         "guide_timestamp": 1696445100,
-        "last_update": 1696445107910,
+        "last_update": 1696446000714,
         "live": false,
         "participants": [
             {
@@ -5184,13 +5184,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696445100,
         "season_number": "4",
-        "serial": 1696445107644,
+        "serial": 1696446000494,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
         "show_id": "13591854",
         "show_timestamp": 1696445100,
-        "status": "current",
+        "status": "actual",
         "summary": "Trigon makes Raven attend her prom and she brings along the other Titans to upset him.",
         "title": "Demon Prom",
         "title_id": "2134804",
@@ -5279,6 +5279,75 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228419_013_03_851",
+        "create_time": 1696366054198,
+        "episode_in_season": "13",
+        "episode_number": "S1:EL13",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92235",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1696446000,
+        "last_update": 1696446000712,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1696446000,
+        "season_number": "1",
+        "serial": 1696446000494,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13591855",
+        "show_timestamp": 1696446000,
+        "status": "current",
+        "summary": "Gumball sets out to solve the mystery of who stuffed Principal Brown into his locker.",
+        "title": "The Mystery",
+        "title_id": "839548",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228419_013_03_851",
         "create_time": 1696353123460,
         "episode_in_season": "13",
         "episode_number": "S1:EL13",
@@ -5337,75 +5406,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274059614",
-        "show_timestamp": 1696446000,
-        "status": "estimated",
-        "summary": "Gumball sets out to solve the mystery of who stuffed Principal Brown into his locker.",
-        "title": "The Mystery",
-        "title_id": "839548",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228419_013_03_851",
-        "create_time": 1696366054198,
-        "episode_in_season": "13",
-        "episode_number": "S1:EL13",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92235",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1696446000,
-        "last_update": 1696367898022,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2011,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1696446000,
-        "season_number": "1",
-        "serial": 1696367897837,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13591855",
         "show_timestamp": 1696446000,
         "status": "estimated",
         "summary": "Gumball sets out to solve the mystery of who stuffed Principal Brown into his locker.",
