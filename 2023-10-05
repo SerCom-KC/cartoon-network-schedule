@@ -582,5 +582,136 @@
         "title": "Rick Potion #9",
         "title_id": "2013508",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251737_007_03_851",
+        "create_time": 1696400323818,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "16260762",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1696491000,
+        "last_update": 1696400323818,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696491000,
+        "season_number": "1",
+        "serial": 1696400323418,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13591883",
+        "show_timestamp": 1696491000,
+        "status": "estimated",
+        "summary": "Morty convinces Rick to buy him a sexy robot. Guess what tho? Trouble happens, dog.",
+        "title": "Raising Gazorpazorp",
+        "title_id": "2013513",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "246600_003_02_851",
+        "create_time": 1696400323819,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92884",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1696492800,
+        "last_update": 1696400323819,
+        "live": false,
+        "participants": [
+            {
+                "character": "Trophy Fantasy",
+                "name": "Maria Bamford",
+                "role": "Voice"
+            },
+            {
+                "character": "Euthanasia Fantasy",
+                "name": "Jo Firestone",
+                "role": "Voice"
+            },
+            {
+                "character": "Baba",
+                "name": "Bebe Neuwirth",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Pete",
+                "name": "Tim Robinson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2023,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696492800,
+        "season_number": "2",
+        "serial": 1696400323418,
+        "series_id": "2292228",
+        "series_name": "Teenage Euthanasia",
+        "show_duration": 1800,
+        "show_id": "13591884",
+        "show_timestamp": 1696492800,
+        "status": "estimated",
+        "summary": "As Trophy tries for viral video fame with her new butt-enhancing leggings, Baba fills in for a recently deceased morning-show DJ and Annie forms an unexpected friendship.",
+        "title": "Radio Frankenstein",
+        "title_id": "2423867",
+        "tv_rating": "TV-14"
     }
 ]
