@@ -740,7 +740,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696408200,
-        "last_update": 1696410005704,
+        "last_update": 1696413609706,
         "live": false,
         "participants": [
             {
@@ -770,7 +770,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1696408200,
         "season_number": "3",
-        "serial": 1696410005464,
+        "serial": 1696413608522,
         "series_id": "2266164",
         "series_name": "Tuca & Bertie",
         "show_duration": 1800,
@@ -850,7 +850,7 @@
             "Family"
         ],
         "guide_timestamp": 1696411800,
-        "last_update": 1696411802370,
+        "last_update": 1696413609705,
         "live": false,
         "participants": [
             {
@@ -865,17 +865,86 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1696411800,
         "season_number": "5",
-        "serial": 1696411801478,
+        "serial": 1696413608522,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
         "show_id": "13591822",
         "show_timestamp": 1696411800,
-        "status": "current",
+        "status": "actual",
         "summary": "The kids are sentenced to Saturday detention and will do anything it takes to leave early so they can attend the Cotton Candy Festival. Meanwhile, Bob and Linda believe that they are being scammed by a young girl at the restaurant.",
         "title": "The Runway Club",
         "title_id": "2065465",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228423_047_02_851",
+        "create_time": 1696366052058,
+        "episode_in_season": "47",
+        "episode_number": "S6:E47",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92235",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1696413600,
+        "last_update": 1696413609705,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1696413600,
+        "season_number": "6",
+        "serial": 1696413608522,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13591823",
+        "show_timestamp": 1696413600,
+        "status": "current",
+        "summary": "Darwin sets out to find a photo of Carrie for the cover of the school yearbook - but they end up reminiscing about all their past spooky shenanigans. Featuring hilarious clips from the first six seasons of 'The Amazing World of Gumball'.",
+        "title": "Darwin's Yearbook - Carrie",
+        "title_id": "2211944",
+        "tv_rating": "TV-Y7-FV"
     },
     {
         "blackout_type": "none",
@@ -939,75 +1008,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274059274",
-        "show_timestamp": 1696413600,
-        "status": "estimated",
-        "summary": "Darwin sets out to find a photo of Carrie for the cover of the school yearbook - but they end up reminiscing about all their past spooky shenanigans. Featuring hilarious clips from the first six seasons of 'The Amazing World of Gumball'.",
-        "title": "Darwin's Yearbook - Carrie",
-        "title_id": "2211944",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228423_047_02_851",
-        "create_time": 1696366052058,
-        "episode_in_season": "47",
-        "episode_number": "S6:E47",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92235",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1696413600,
-        "last_update": 1696367897161,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2019,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1696413600,
-        "season_number": "6",
-        "serial": 1696367897040,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13591823",
         "show_timestamp": 1696413600,
         "status": "estimated",
         "summary": "Darwin sets out to find a photo of Carrie for the cover of the school yearbook - but they end up reminiscing about all their past spooky shenanigans. Featuring hilarious clips from the first six seasons of 'The Amazing World of Gumball'.",
