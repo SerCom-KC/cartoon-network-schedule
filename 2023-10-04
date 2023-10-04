@@ -1584,7 +1584,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696418100,
-        "last_update": 1696419005153,
+        "last_update": 1696422609501,
         "live": false,
         "participants": [
             {
@@ -1624,7 +1624,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696418100,
         "season_number": "6",
-        "serial": 1696419004830,
+        "serial": 1696422608663,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -1724,7 +1724,7 @@
             "Family"
         ],
         "guide_timestamp": 1696419000,
-        "last_update": 1696419901271,
+        "last_update": 1696423510204,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -1732,7 +1732,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696419000,
         "season_number": "1",
-        "serial": 1696419901049,
+        "serial": 1696423506902,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 900,
@@ -1943,7 +1943,7 @@
             "Family"
         ],
         "guide_timestamp": 1696421700,
-        "last_update": 1696421715241,
+        "last_update": 1696422604207,
         "live": false,
         "participants": [
             {
@@ -1988,13 +1988,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696421700,
         "season_number": "1",
-        "serial": 1696421714776,
+        "serial": 1696422602655,
         "series_id": "2267111",
         "series_name": "Batwheels",
         "show_duration": 900,
         "show_id": "13591832",
         "show_timestamp": 1696421700,
-        "status": "current",
+        "status": "actual",
         "summary": "After Jestah's insults get the best of her, a short-tempered Bibi tries to not let the big-wheeled bully's words get to her so she can help Batgirl catch Harley.",
         "title": "Keep Calm and Roll On",
         "title_id": "2267115",
@@ -2077,6 +2077,43 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "252832_022_01_851",
+        "create_time": 1696366052924,
+        "episode_in_season": "22",
+        "episode_number": "1022",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S89508",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1696422600,
+        "last_update": 1696423510203,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2006,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1696422600,
+        "season_number": "1",
+        "serial": 1696423506902,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 900,
+        "show_id": "13591833",
+        "show_timestamp": 1696422600,
+        "status": "actual",
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "Getting Ready for School Song/ Daisy Bell (Bicycle Built for Two)/ Doctor Checkup Song/ The Lunch Song",
+        "title_id": "2435695",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "252832_022_01_851",
         "create_time": 1696330344039,
         "episode_in_season": "22",
         "episode_number": "1022",
@@ -2113,38 +2150,100 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "252832_022_01_851",
-        "create_time": 1696366052924,
-        "episode_in_season": "22",
-        "episode_number": "1022",
+        "content_id": "228558_014_02_851",
+        "create_time": 1696366052925,
+        "episode_in_season": "14",
+        "episode_number": "S1:E14",
         "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "S89508",
+        "franchise_id": "S92277",
         "franchise_name": null,
         "genres": [
             "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1696422600,
-        "last_update": 1696367897559,
+        "guide_timestamp": 1696423500,
+        "last_update": 1696423510202,
         "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
         "premiere": true,
         "press_hold": false,
-        "release_year": 2006,
+        "release_year": 2022,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1696422600,
+        "scheduled_timestamp": 1696423500,
         "season_number": "1",
-        "serial": 1696367897368,
-        "series_id": "2357112",
-        "series_name": "CoComelon",
+        "serial": 1696423506902,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
         "show_duration": 900,
-        "show_id": "13591833",
-        "show_timestamp": 1696422600,
-        "status": "estimated",
-        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
-        "title": "Getting Ready for School Song/ Daisy Bell (Bicycle Built for Two)/ Doctor Checkup Song/ The Lunch Song",
-        "title_id": "2435695",
+        "show_id": "13591834",
+        "show_timestamp": 1696423500,
+        "status": "current",
+        "summary": "Mayor Leghorn hires The Looney Builders to build a water wheel in the forest where Porky worries about a mythical creature named \"Big Feet.\"",
+        "title": "Big Feet",
+        "title_id": "2267164",
         "tv_rating": "TV-Y"
     },
     {
@@ -2239,105 +2338,6 @@
         "series_name": "Bugs Bunny Builders",
         "show_duration": 900,
         "show_id": "274059384",
-        "show_timestamp": 1696423500,
-        "status": "estimated",
-        "summary": "Mayor Leghorn hires The Looney Builders to build a water wheel in the forest where Porky worries about a mythical creature named \"Big Feet.\"",
-        "title": "Big Feet",
-        "title_id": "2267164",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228558_014_02_851",
-        "create_time": 1696366052925,
-        "episode_in_season": "14",
-        "episode_number": "S1:E14",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92277",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1696423500,
-        "last_update": 1696366052925,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2022,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1696423500,
-        "season_number": "1",
-        "serial": 1696366052397,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 900,
-        "show_id": "13591834",
         "show_timestamp": 1696423500,
         "status": "estimated",
         "summary": "Mayor Leghorn hires The Looney Builders to build a water wheel in the forest where Porky worries about a mythical creature named \"Big Feet.\"",
