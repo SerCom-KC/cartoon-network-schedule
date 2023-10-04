@@ -5134,7 +5134,7 @@
             "Animation"
         ],
         "guide_timestamp": 1696445100,
-        "last_update": 1696446000714,
+        "last_update": 1696449606486,
         "live": false,
         "participants": [
             {
@@ -5184,7 +5184,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696445100,
         "season_number": "4",
-        "serial": 1696446000494,
+        "serial": 1696449606228,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -5706,7 +5706,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696448700,
-        "last_update": 1696448707114,
+        "last_update": 1696449606486,
         "live": false,
         "participants": [
             {
@@ -5746,13 +5746,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696448700,
         "season_number": "1",
-        "serial": 1696448706921,
+        "serial": 1696449606228,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "13591858",
         "show_timestamp": 1696448700,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball is traumatised when accidentally kissed on the mouth by his Grandma JoJo.",
         "title": "The Kiss",
         "title_id": "839536",
@@ -5831,6 +5831,75 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228419_017_04_851",
+        "create_time": 1696366055244,
+        "episode_in_season": "17",
+        "episode_number": "S1:EL17",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92235",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1696449600,
+        "last_update": 1696449606485,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1696449600,
+        "season_number": "1",
+        "serial": 1696449606228,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13591859",
+        "show_timestamp": 1696449600,
+        "status": "current",
+        "summary": "Gumball and Darwin are invited to a high school party, and have to bring a date!",
+        "title": "The Party",
+        "title_id": "839550",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228419_017_04_851",
         "create_time": 1696357096339,
         "episode_in_season": "17",
         "episode_number": "S1:EL17",
@@ -5889,75 +5958,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274059654",
-        "show_timestamp": 1696449600,
-        "status": "estimated",
-        "summary": "Gumball and Darwin are invited to a high school party, and have to bring a date!",
-        "title": "The Party",
-        "title_id": "839550",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228419_017_04_851",
-        "create_time": 1696366055244,
-        "episode_in_season": "17",
-        "episode_number": "S1:EL17",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92235",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1696449600,
-        "last_update": 1696367898026,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2011,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1696449600,
-        "season_number": "1",
-        "serial": 1696367897837,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13591859",
         "show_timestamp": 1696449600,
         "status": "estimated",
         "summary": "Gumball and Darwin are invited to a high school party, and have to bring a date!",
