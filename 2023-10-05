@@ -713,5 +713,112 @@
         "title": "Radio Frankenstein",
         "title_id": "2423867",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "251871_002_01_851",
+        "create_time": 1696404038856,
+        "episode_in_season": "2",
+        "episode_number": "S3:E02",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92249",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1696494600,
+        "last_update": 1696404038856,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tuca Toucan",
+                "name": "Tiffany Haddish",
+                "role": "Voice"
+            },
+            {
+                "character": "Roberta Songthrush",
+                "name": "Ali Wong",
+                "role": "Voice"
+            },
+            {
+                "character": "Speckle",
+                "name": "Steven Yeun",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Lisa Hanawalt",
+                "role": "Creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2022,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696494600,
+        "season_number": "3",
+        "serial": 1696404038633,
+        "series_id": "2266164",
+        "series_name": "Tuca & Bertie",
+        "show_duration": 1800,
+        "show_id": "13591885",
+        "show_timestamp": 1696494600,
+        "status": "estimated",
+        "summary": "Tuca is forced to confront a mysterious chronic health issue, and Bertie takes a liking to Tuca's beau... accidentally.",
+        "title": "The Pain Garden",
+        "title_id": "2388612",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169687_018_04_851",
+        "create_time": 1696404038857,
+        "episode_in_season": "18",
+        "episode_number": "S5:E18",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S54636",
+        "franchise_name": null,
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1696496400,
+        "last_update": 1696404038857,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696496400,
+        "season_number": "5",
+        "serial": 1696404038633,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13591886",
+        "show_timestamp": 1696496400,
+        "status": "estimated",
+        "summary": "It's Linda's birthday and Bob needs more time to plan her birthday surprise. But when he sends her out of the house as a distraction, she goes missing! Mayhem ensues as the Belchers must work together to find Linda.",
+        "title": "Eat, Spray, Linda",
+        "title_id": "2065467",
+        "tv_rating": "TV-PG"
     }
 ]
