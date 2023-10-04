@@ -3830,7 +3830,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696434300,
-        "last_update": 1696435203816,
+        "last_update": 1696438805974,
         "live": false,
         "participants": [
             {
@@ -3870,7 +3870,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696434300,
         "season_number": "6",
-        "serial": 1696435202813,
+        "serial": 1696438805723,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -4087,7 +4087,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1696437000,
-        "last_update": 1696437007075,
+        "last_update": 1696438805973,
         "live": false,
         "participants": [
             {
@@ -4117,13 +4117,13 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1696437000,
         "season_number": "1",
-        "serial": 1696437005237,
+        "serial": 1696438805723,
         "series_id": "2168685",
         "series_name": "Scooby-Doo and Guess Who?",
         "show_duration": 1800,
         "show_id": "13591846",
         "show_timestamp": 1696437000,
-        "status": "current",
+        "status": "actual",
         "summary": "When a marble statue comes to life at a museum in Greece, our gang is caught between a braying minotaur and a sword-wielding Wonder Woman! Teaming up with Themyscira, the Mystery Inc. gang experiences a little rift of boys versus girls.",
         "summary_long": "When a marble statue comes to life at a museum in Greece, our gang is caught between a braying minotaur and a sword-wielding Wonder Woman! Teaming up with the Amazonian princess from Themyscira, the Mystery Inc. gang experiences a little rift of boys versus girls. Who can solve this mystery better?",
         "title": "The Scooby of a Thousand Faces!",
@@ -4193,6 +4193,66 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228549_010_02_851",
+        "create_time": 1696366054195,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "16262139",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1696438800,
+        "last_update": 1696438805972,
+        "live": false,
+        "participants": [
+            {
+                "character": "Clarence Wendle",
+                "name": "Spencer Rothbell",
+                "role": "Voice"
+            },
+            {
+                "character": "Jeff Randell",
+                "name": "Sean Giambrone",
+                "role": "Voice"
+            },
+            {
+                "character": "Sumo",
+                "name": "Tom Kenny",
+                "role": "Voice"
+            },
+            {
+                "character": "Mary Wendle",
+                "name": "Katie Crown",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1696438800,
+        "season_number": "2",
+        "serial": 1696438805723,
+        "series_id": "2012957",
+        "series_name": "Clarence",
+        "show_duration": 900,
+        "show_id": "13591847",
+        "show_timestamp": 1696438800,
+        "status": "current",
+        "summary": "Clarence, Jeff and Sumo investigate a high school party down the street, which they mistake for an alien invasion.",
+        "title": "Attack the Block Party",
+        "title_id": "2065514",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228549_010_02_851",
         "create_time": 1696345734986,
         "episode_in_season": "10",
         "episode_number": "S2:E10",
@@ -4242,66 +4302,6 @@
         "series_name": "Clarence",
         "show_duration": 900,
         "show_id": "274059534",
-        "show_timestamp": 1696438800,
-        "status": "estimated",
-        "summary": "Clarence, Jeff and Sumo investigate a high school party down the street, which they mistake for an alien invasion.",
-        "title": "Attack the Block Party",
-        "title_id": "2065514",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228549_010_02_851",
-        "create_time": 1696366054195,
-        "episode_in_season": "10",
-        "episode_number": "S2:E10",
-        "external_id": "16262139",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "BROADVIEW-CTN",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1696438800,
-        "last_update": 1696367898013,
-        "live": false,
-        "participants": [
-            {
-                "character": "Clarence Wendle",
-                "name": "Spencer Rothbell",
-                "role": "Voice"
-            },
-            {
-                "character": "Jeff Randell",
-                "name": "Sean Giambrone",
-                "role": "Voice"
-            },
-            {
-                "character": "Sumo",
-                "name": "Tom Kenny",
-                "role": "Voice"
-            },
-            {
-                "character": "Mary Wendle",
-                "name": "Katie Crown",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1696438800,
-        "season_number": "2",
-        "serial": 1696367897837,
-        "series_id": "2012957",
-        "series_name": "Clarence",
-        "show_duration": 900,
-        "show_id": "13591847",
         "show_timestamp": 1696438800,
         "status": "estimated",
         "summary": "Clarence, Jeff and Sumo investigate a high school party down the street, which they mistake for an alien invasion.",
