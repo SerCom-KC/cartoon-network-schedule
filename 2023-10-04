@@ -4444,7 +4444,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1696440600,
-        "last_update": 1696440604489,
+        "last_update": 1696441510604,
         "live": false,
         "participants": [
             {
@@ -4469,13 +4469,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1696440600,
         "season_number": "2",
-        "serial": 1696440602212,
+        "serial": 1696441510253,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "13591849",
         "show_timestamp": 1696440600,
-        "status": "current",
+        "status": "actual",
         "summary": "Tragedy strikes the Creek when the Elders get trapped under Elder Rock, and it's up to Craig, Kelsey and JP to rescue them.",
         "title": "Crisis at Elder Rock",
         "title_id": "2200653",
@@ -4539,6 +4539,60 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229075_030_03_851",
+        "create_time": 1696366054196,
+        "episode_in_season": "30",
+        "episode_number": "S2:E30",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92618",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1696441500,
+        "last_update": 1696441510603,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1696441500,
+        "season_number": "2",
+        "serial": 1696441510253,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13591850",
+        "show_timestamp": 1696441500,
+        "status": "current",
+        "summary": "Craig tries to figure out how an ancient war that decimated the Creek began in hopes of stopping history from repeating itself.",
+        "title": "The End Was Here",
+        "title_id": "2204198",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229075_030_03_851",
         "create_time": 1696349527720,
         "episode_in_season": "30",
         "episode_number": "S2:E30",
@@ -4582,60 +4636,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274059564",
-        "show_timestamp": 1696441500,
-        "status": "estimated",
-        "summary": "Craig tries to figure out how an ancient war that decimated the Creek began in hopes of stopping history from repeating itself.",
-        "title": "The End Was Here",
-        "title_id": "2204198",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229075_030_03_851",
-        "create_time": 1696366054196,
-        "episode_in_season": "30",
-        "episode_number": "S2:E30",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92618",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1696441500,
-        "last_update": 1696367898017,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2019,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1696441500,
-        "season_number": "2",
-        "serial": 1696367897837,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13591850",
         "show_timestamp": 1696441500,
         "status": "estimated",
         "summary": "Craig tries to figure out how an ancient war that decimated the Creek began in hopes of stopping history from repeating itself.",
