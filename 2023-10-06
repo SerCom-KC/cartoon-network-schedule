@@ -364,5 +364,82 @@
         "title": "The American Dad After School Special",
         "title_id": "700753",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232853_007_02_851",
+        "create_time": 1696479168997,
+        "episode_in_season": "7",
+        "episode_number": "S2:E07",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S94775",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1696572000,
+        "last_update": 1696479168997,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696572000,
+        "season_number": "2",
+        "serial": 1696479168787,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13591945",
+        "show_timestamp": 1696572000,
+        "status": "estimated",
+        "summary": "Stan loses his confidence, and his job, when a car salesman gets the best of him in a negotiation. Meanwhile, Roger and Steve set up a makeshift drive-in to try to get to first base with popular schoolgirls.",
+        "title": "Failure Is Not a Factory-Installed Option",
+        "title_id": "700754",
+        "tv_rating": "TV-14"
     }
 ]
