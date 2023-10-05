@@ -660,5 +660,66 @@
         "title": "Something Ricked This Way Comes",
         "title_id": "2013515",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "246600_004_02_851",
+        "create_time": 1696486590596,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92884",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1696579200,
+        "last_update": 1696486590596,
+        "live": false,
+        "participants": [
+            {
+                "character": "Trophy Fantasy",
+                "name": "Maria Bamford",
+                "role": "Voice"
+            },
+            {
+                "character": "Euthanasia Fantasy",
+                "name": "Jo Firestone",
+                "role": "Voice"
+            },
+            {
+                "character": "Baba",
+                "name": "Bebe Neuwirth",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Pete",
+                "name": "Tim Robinson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2023,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696579200,
+        "season_number": "2",
+        "serial": 1696486590375,
+        "series_id": "2292228",
+        "series_name": "Teenage Euthanasia",
+        "show_duration": 1800,
+        "show_id": "13591949",
+        "show_timestamp": 1696579200,
+        "status": "estimated",
+        "summary": "When George W. Bush Senior High School's hologram teachers go on strike, Pete, Trophy, and Baba have to pick up their slack. But to Annie's horror, Trophy is now her Sex Ed teacher.",
+        "title": "Sexually Educated ",
+        "title_id": "2423868",
+        "tv_rating": "TV-14"
     }
 ]
