@@ -2891,5 +2891,88 @@
         "title": "The Colossus",
         "title_id": "894308",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "135003_000_06_851",
+        "create_time": 1696705676243,
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S72896",
+        "franchise_name": null,
+        "genres": [
+            "Adventure"
+        ],
+        "guide_timestamp": 1696798800,
+        "last_update": 1696705676243,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Richard Donner",
+                "role": "Director"
+            },
+            {
+                "character": "Mikey",
+                "name": "Sean Astin",
+                "role": "Actor"
+            },
+            {
+                "character": "Brand",
+                "name": "Josh Brolin",
+                "role": "Actor"
+            },
+            {
+                "character": "Chunk",
+                "name": "Jeff Cohen",
+                "role": "Actor"
+            },
+            {
+                "character": "Mouth",
+                "name": "Corey Feldman",
+                "role": "Actor"
+            },
+            {
+                "character": "Stef",
+                "name": "Martha Plimpton",
+                "role": "Actor"
+            },
+            {
+                "character": "Andy",
+                "name": "Kerri Lee Green",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Chris Columbus",
+                "role": "Screenplay"
+            },
+            {
+                "character": null,
+                "name": "Steven Spielberg",
+                "role": "Story By"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1985,
+        "runtime_minutes": 114,
+        "scheduled_duration": 9000,
+        "scheduled_timestamp": 1696798800,
+        "serial": 1696705676053,
+        "series_name": "",
+        "show_duration": 9000,
+        "show_id": "13599471",
+        "show_timestamp": 1696798800,
+        "status": "estimated",
+        "summary": "A band of young boys find a treasure map and embark on a magical adventure.",
+        "title": "The Goonies",
+        "title_id": "18329",
+        "tv_rating": "TV-PG"
     }
 ]
