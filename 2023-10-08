@@ -1189,5 +1189,129 @@
         "title": "Happy Halloween Scooby-Doo!",
         "title_id": "2214280",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228771_010_02_851",
+        "create_time": 1696681437414,
+        "episode_in_season": "10",
+        "episode_number": "S4:E10",
+        "external_id": "16260804",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1696772700,
+        "last_update": 1696681437414,
+        "live": false,
+        "participants": [
+            {
+                "character": "Grizzly",
+                "name": "Eric Edelstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Demetri Martin",
+                "role": "Voice"
+            },
+            {
+                "character": "Panda",
+                "name": "Bobby Moynihan",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1696772700,
+        "season_number": "4",
+        "serial": 1696681437100,
+        "series_id": "2056641",
+        "series_name": "We Bare Bears",
+        "show_duration": 900,
+        "show_id": "13682668",
+        "show_timestamp": 1696772700,
+        "status": "estimated",
+        "summary": "The Baby Bears enter a Mexican wrestling tournament.",
+        "title": "Escandalosos",
+        "title_id": "2162797",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "251383_000_02_851",
+        "create_time": 1696681437416,
+        "external_id": "16260741",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "guide_timestamp": 1696773600,
+        "last_update": 1696681437416,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696773600,
+        "serial": 1696681437100,
+        "series_name": "",
+        "show_duration": 1800,
+        "show_id": "13682669",
+        "show_timestamp": 1696773600,
+        "status": "estimated",
+        "summary": "The park can be a very scary place at night.",
+        "title": "Regular Show: Terror Tales of the Park",
+        "title_id": "869752",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "251392_000_02_851",
+        "create_time": 1696681902052,
+        "external_id": "16260745",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "guide_timestamp": 1696775400,
+        "last_update": 1696681902052,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 22,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696775400,
+        "serial": 1696681901778,
+        "series_name": "",
+        "show_duration": 1800,
+        "show_id": "13682670",
+        "show_timestamp": 1696775400,
+        "status": "estimated",
+        "summary": "The park can be a very scary place at night.",
+        "title": "Regular Show Presents: Terror Tales of the Park II",
+        "title_id": "965944",
+        "tv_rating": "TV-PG"
     }
 ]
