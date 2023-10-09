@@ -433,5 +433,82 @@
         "title": "Four Little Words",
         "title_id": "700766",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232853_020_02_851",
+        "create_time": 1696824261270,
+        "episode_in_season": "20",
+        "episode_number": "S2:E20",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S94775",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1696917600,
+        "last_update": 1696824261270,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696917600,
+        "season_number": "2",
+        "serial": 1696824260865,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13592076",
+        "show_timestamp": 1696917600,
+        "status": "estimated",
+        "summary": "Stan gets jealous when he discovers how promiscuous Francine was in the past. He decides the only way to even the score is to divorce Francine and sow some wild oats of his own. Meanwhile, Steve gets addicted to an energy drink.",
+        "title": "When Stan Loves a Woman",
+        "title_id": "700767",
+        "tv_rating": "TV-14"
     }
 ]
