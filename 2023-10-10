@@ -655,5 +655,137 @@
         "title": "Close Rick-Counters of the Rick Kind",
         "title_id": "2013512",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251737_011_03_851",
+        "create_time": 1696831612070,
+        "episode_in_season": "11",
+        "episode_number": "S1:E11",
+        "external_id": "16260768",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1696923000,
+        "last_update": 1696831612070,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696923000,
+        "season_number": "1",
+        "serial": 1696831611805,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13592079",
+        "show_timestamp": 1696923000,
+        "status": "estimated",
+        "summary": "Beth and Jerry head off on a romantic getaway. Rick and Summer throw a huge intergalactic house party, broh.",
+        "title": "Ricksy Business",
+        "title_id": "2013516",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "246600_005_02_851",
+        "create_time": 1696831612071,
+        "episode_in_season": "5",
+        "episode_number": "S2:E05",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92884",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1696924800,
+        "last_update": 1696831612071,
+        "live": false,
+        "participants": [
+            {
+                "character": "Trophy Fantasy",
+                "name": "Maria Bamford",
+                "role": "Voice"
+            },
+            {
+                "character": "Euthanasia Fantasy",
+                "name": "Jo Firestone",
+                "role": "Voice"
+            },
+            {
+                "character": "Baba",
+                "name": "Bebe Neuwirth",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Pete",
+                "name": "Tim Robinson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2023,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696924800,
+        "season_number": "2",
+        "serial": 1696831611805,
+        "series_id": "2292228",
+        "series_name": "Teenage Euthanasia",
+        "show_duration": 1800,
+        "show_id": "13592080",
+        "show_timestamp": 1696924800,
+        "status": "estimated",
+        "summary": "Pete has to drive a former mob limousine named Vic after totaling the hearse in a car accident. But the amnesia Annie gets from the crash leads to confidence, a new career, and a chance at love.",
+        "title": " CARS 4",
+        "title_id": "2423861",
+        "tv_rating": "TV-14"
     }
 ]
