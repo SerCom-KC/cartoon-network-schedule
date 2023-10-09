@@ -787,5 +787,66 @@
         "title": " CARS 4",
         "title_id": "2423861",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "230900_003_02_851",
+        "create_time": 1696833238099,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92249",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1696926600,
+        "last_update": 1696833238099,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tuca Toucan",
+                "name": "Tiffany Haddish",
+                "role": "Voice"
+            },
+            {
+                "character": "Roberta Songthrush",
+                "name": "Ali Wong",
+                "role": "Voice"
+            },
+            {
+                "character": "Speckle",
+                "name": "Steven Yeun",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Lisa Hanawalt",
+                "role": "Creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2022,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1696926600,
+        "season_number": "3",
+        "serial": 1696833237889,
+        "series_id": "2266164",
+        "series_name": "Tuca & Bertie",
+        "show_duration": 1800,
+        "show_id": "13592081",
+        "show_timestamp": 1696926600,
+        "status": "estimated",
+        "summary": "Bertie gets eaten by a snake!!!",
+        "title": "The One Where Bertie Gets Eaten by a Snake",
+        "title_id": "2388613",
+        "tv_rating": "TV-14"
     }
 ]
