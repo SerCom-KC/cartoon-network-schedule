@@ -949,7 +949,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697018400,
-        "last_update": 1697019310312,
+        "last_update": 1697022915385,
         "live": false,
         "participants": [
             {
@@ -989,7 +989,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697018400,
         "season_number": "4",
-        "serial": 1697019309975,
+        "serial": 1697022915181,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -1507,7 +1507,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697022000,
-        "last_update": 1697022006181,
+        "last_update": 1697022904626,
         "live": false,
         "participants": [
             {
@@ -1547,13 +1547,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697022000,
         "season_number": "4",
-        "serial": 1697022005378,
+        "serial": 1697022903056,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "13592154",
         "show_timestamp": 1697022000,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball and Darwin try to find a single nice quality about their neighbor, Mrs Robinson.",
         "title": "The Wicked",
         "title_id": "2062760",
@@ -1632,6 +1632,75 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228427_019_03_851",
+        "create_time": 1696951017428,
+        "episode_in_season": "19",
+        "episode_number": "S4:E19",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92235",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697022900,
+        "last_update": 1697022904626,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697022900,
+        "season_number": "4",
+        "serial": 1697022903056,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13592155",
+        "show_timestamp": 1697022900,
+        "status": "current",
+        "summary": "When Alan ditches Gumball to do something more fun, Gumball is desperate to track him down and make him pay for his betrayal.",
+        "title": "The Traitor",
+        "title_id": "2074668",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228427_019_03_851",
         "create_time": 1696929614692,
         "episode_in_season": "19",
         "episode_number": "S4:E19",
@@ -1690,75 +1759,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274087996",
-        "show_timestamp": 1697022900,
-        "status": "estimated",
-        "summary": "When Alan ditches Gumball to do something more fun, Gumball is desperate to track him down and make him pay for his betrayal.",
-        "title": "The Traitor",
-        "title_id": "2074668",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228427_019_03_851",
-        "create_time": 1696951017428,
-        "episode_in_season": "19",
-        "episode_number": "S4:E19",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92235",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697022900,
-        "last_update": 1696951017428,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2016,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697022900,
-        "season_number": "4",
-        "serial": 1696951016902,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13592155",
         "show_timestamp": 1697022900,
         "status": "estimated",
         "summary": "When Alan ditches Gumball to do something more fun, Gumball is desperate to track him down and make him pay for his betrayal.",
