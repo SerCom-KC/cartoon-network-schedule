@@ -2223,7 +2223,7 @@
             "Family"
         ],
         "guide_timestamp": 1697028300,
-        "last_update": 1697029202033,
+        "last_update": 1697032818793,
         "live": false,
         "participants": [
             {
@@ -2293,7 +2293,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697028300,
         "season_number": "1",
-        "serial": 1697029201773,
+        "serial": 1697032818525,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
         "show_duration": 900,
@@ -2899,7 +2899,7 @@
             "Animation"
         ],
         "guide_timestamp": 1697031900,
-        "last_update": 1697031903021,
+        "last_update": 1697032801271,
         "live": false,
         "participants": [
             {
@@ -2950,13 +2950,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697031900,
         "season_number": "4",
-        "serial": 1697031902685,
+        "serial": 1697032800977,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
         "show_id": "13683348",
         "show_timestamp": 1697031900,
-        "status": "current",
+        "status": "actual",
         "summary": "When the male Titans are injured, Raven and Starfire must become bros to stop the Bropocalypse.",
         "title": "Bro-Pocalypse",
         "title_id": "2142327",
@@ -3046,6 +3046,60 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229075_017_03_851",
+        "create_time": 1696951017437,
+        "episode_in_season": "17",
+        "episode_number": "S2:E17",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92618",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697032800,
+        "last_update": 1697032801271,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697032800,
+        "season_number": "2",
+        "serial": 1697032800977,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13592164",
+        "show_timestamp": 1697032800,
+        "status": "current",
+        "summary": "Craig and his friends find themselves being followed by a creepy doll and its haunted dollhouse.",
+        "title": "The Haunted Dollhouse",
+        "title_id": "2196825",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229075_017_03_851",
         "create_time": 1696940317271,
         "episode_in_season": "17",
         "episode_number": "S2:E17",
@@ -3089,60 +3143,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274088106",
-        "show_timestamp": 1697032800,
-        "status": "estimated",
-        "summary": "Craig and his friends find themselves being followed by a creepy doll and its haunted dollhouse.",
-        "title": "The Haunted Dollhouse",
-        "title_id": "2196825",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229075_017_03_851",
-        "create_time": 1696951017437,
-        "episode_in_season": "17",
-        "episode_number": "S2:E17",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92618",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697032800,
-        "last_update": 1696951017437,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2019,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697032800,
-        "season_number": "2",
-        "serial": 1696951016902,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13592164",
         "show_timestamp": 1697032800,
         "status": "estimated",
         "summary": "Craig and his friends find themselves being followed by a creepy doll and its haunted dollhouse.",
