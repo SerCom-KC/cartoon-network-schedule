@@ -2581,7 +2581,7 @@
             "Animation"
         ],
         "guide_timestamp": 1697030100,
-        "last_update": 1697031008727,
+        "last_update": 1697034611327,
         "live": false,
         "participants": [
             {
@@ -2632,7 +2632,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697030100,
         "season_number": "6",
-        "serial": 1697031008455,
+        "serial": 1697034611024,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -3167,7 +3167,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697033700,
-        "last_update": 1697033700966,
+        "last_update": 1697034602764,
         "live": false,
         "participants": [
             {
@@ -3197,13 +3197,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697033700,
         "season_number": "3",
-        "serial": 1697033700561,
+        "serial": 1697034602499,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "13592165",
         "show_timestamp": 1697033700,
-        "status": "current",
+        "status": "actual",
         "summary": "Craig and his friends desperately want a Snow Day, so they turn to the most powerful people they know... The Witches of the Creek!",
         "title": "Snow Day",
         "title_id": "2228213",
@@ -3272,6 +3272,60 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229072_001_03_851",
+        "create_time": 1696951017438,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92618",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697034600,
+        "last_update": 1697034602763,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1697034600,
+        "season_number": "3",
+        "serial": 1697034602499,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 1800,
+        "show_id": "13592166",
+        "show_timestamp": 1697034600,
+        "status": "current",
+        "summary": "The Tournament - Hoping to win a special prize for his Dad's birthday, Craig and his friends compete in a tournament on the Other Side of the Creek!",
+        "title": "The Other Side: The Tournament",
+        "title_id": "2214532",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229072_001_03_851",
         "create_time": 1696941704125,
         "episode_in_season": "1",
         "episode_number": "S3:E01",
@@ -3315,60 +3369,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 1800,
         "show_id": "274088126",
-        "show_timestamp": 1697034600,
-        "status": "estimated",
-        "summary": "The Tournament - Hoping to win a special prize for his Dad's birthday, Craig and his friends compete in a tournament on the Other Side of the Creek!",
-        "title": "The Other Side: The Tournament",
-        "title_id": "2214532",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229072_001_03_851",
-        "create_time": 1696951017438,
-        "episode_in_season": "1",
-        "episode_number": "S3:E01",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92618",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697034600,
-        "last_update": 1696951017438,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2019,
-        "scheduled_duration": 1800,
-        "scheduled_timestamp": 1697034600,
-        "season_number": "3",
-        "serial": 1696951016902,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 1800,
-        "show_id": "13592166",
         "show_timestamp": 1697034600,
         "status": "estimated",
         "summary": "The Tournament - Hoping to win a special prize for his Dad's birthday, Craig and his friends compete in a tournament on the Other Side of the Creek!",
