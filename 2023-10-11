@@ -904,7 +904,7 @@
             "Family"
         ],
         "guide_timestamp": 1697016600,
-        "last_update": 1697018400542,
+        "last_update": 1697022006181,
         "live": false,
         "participants": [
             {
@@ -919,7 +919,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1697016600,
         "season_number": "7",
-        "serial": 1697018400224,
+        "serial": 1697022005378,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -1367,7 +1367,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697021100,
-        "last_update": 1697021107134,
+        "last_update": 1697022006181,
         "live": false,
         "participants": [
             {
@@ -1407,13 +1407,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697021100,
         "season_number": "4",
-        "serial": 1697021106690,
+        "serial": 1697022005378,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "13592153",
         "show_timestamp": 1697021100,
-        "status": "current",
+        "status": "actual",
         "summary": "When Darwin taunts Gumball about how predictable he is, Gumball tries to prove he can still surprise his buddy. He thinks greeting a kid he barely knows with a hug will do the trick.",
         "summary_long": "When Darwin taunts Gumball about how predictable he is, Gumball tries to prove he can still surprise his buddy. He thinks greeting a kid he barely knows with a hug will do the trick. He's right but doesn't see the awkward social repercussions of the hug coming.",
         "title": "The Hug",
@@ -1494,6 +1494,75 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228427_018_03_851",
+        "create_time": 1696951016543,
+        "episode_in_season": "18",
+        "episode_number": "S4:E18",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92235",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697022000,
+        "last_update": 1697022006181,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697022000,
+        "season_number": "4",
+        "serial": 1697022005378,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13592154",
+        "show_timestamp": 1697022000,
+        "status": "current",
+        "summary": "Gumball and Darwin try to find a single nice quality about their neighbor, Mrs Robinson.",
+        "title": "The Wicked",
+        "title_id": "2062760",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228427_018_03_851",
         "create_time": 1696929614692,
         "episode_in_season": "18",
         "episode_number": "S4:E18",
@@ -1552,75 +1621,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274087986",
-        "show_timestamp": 1697022000,
-        "status": "estimated",
-        "summary": "Gumball and Darwin try to find a single nice quality about their neighbor, Mrs Robinson.",
-        "title": "The Wicked",
-        "title_id": "2062760",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228427_018_03_851",
-        "create_time": 1696951016543,
-        "episode_in_season": "18",
-        "episode_number": "S4:E18",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92235",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697022000,
-        "last_update": 1696951016543,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2016,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697022000,
-        "season_number": "4",
-        "serial": 1696951016246,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13592154",
         "show_timestamp": 1697022000,
         "status": "estimated",
         "summary": "Gumball and Darwin try to find a single nice quality about their neighbor, Mrs Robinson.",
