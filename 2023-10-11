@@ -2002,7 +2002,7 @@
             "Family"
         ],
         "guide_timestamp": 1697026500,
-        "last_update": 1697027401884,
+        "last_update": 1697031008728,
         "live": false,
         "participants": [
             {
@@ -2047,7 +2047,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697026500,
         "season_number": "1",
-        "serial": 1697027401400,
+        "serial": 1697031008455,
         "series_id": "2267111",
         "series_name": "Batwheels",
         "show_duration": 900,
@@ -2581,7 +2581,7 @@
             "Animation"
         ],
         "guide_timestamp": 1697030100,
-        "last_update": 1697030101132,
+        "last_update": 1697031008727,
         "live": false,
         "participants": [
             {
@@ -2632,13 +2632,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697030100,
         "season_number": "6",
-        "serial": 1697030100883,
+        "serial": 1697031008455,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
         "show_id": "13683346",
         "show_timestamp": 1697030100,
-        "status": "current",
+        "status": "actual",
         "summary": "As the other Titans engage in an all out thumb wrestling war, Starfire tries to broker peace.",
         "title": "Thumb War",
         "title_id": "2225135",
@@ -2728,6 +2728,85 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "252847_025_03_851",
+        "create_time": 1696951017435,
+        "episode_in_season": "25",
+        "episode_number": "S6:E25",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92881",
+        "franchise_name": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1697031000,
+        "last_update": 1697031008723,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697031000,
+        "season_number": "6",
+        "serial": 1697031008455,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 900,
+        "show_id": "13683347",
+        "show_timestamp": 1697031000,
+        "status": "current",
+        "summary": "Control Freak thinks the Titans' humor is too juvenile for their time-slot, so he ages them down to a preschool show.",
+        "title": "Toddler Titans...Yay!",
+        "title_id": "2225137",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "252847_025_03_851",
         "create_time": 1696938244924,
         "episode_in_season": "25",
         "episode_number": "S6:E25",
@@ -2796,85 +2875,6 @@
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
         "show_id": "274088086",
-        "show_timestamp": 1697031000,
-        "status": "estimated",
-        "summary": "Control Freak thinks the Titans' humor is too juvenile for their time-slot, so he ages them down to a preschool show.",
-        "title": "Toddler Titans...Yay!",
-        "title_id": "2225137",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "252847_025_03_851",
-        "create_time": 1696951017435,
-        "episode_in_season": "25",
-        "episode_number": "S6:E25",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92881",
-        "franchise_name": null,
-        "genres": [
-            "Action",
-            "Adventure",
-            "Animation"
-        ],
-        "guide_timestamp": 1697031000,
-        "last_update": 1696951017435,
-        "live": false,
-        "participants": [
-            {
-                "character": "Robin",
-                "name": "Scott Menville",
-                "role": "Voice"
-            },
-            {
-                "character": "Starfire",
-                "name": "Hynden Walch",
-                "role": "Voice"
-            },
-            {
-                "character": "Raven",
-                "name": "Tara Strong",
-                "role": "Voice"
-            },
-            {
-                "character": "Cyborg",
-                "name": "Khary Payton",
-                "role": "Voice"
-            },
-            {
-                "character": "Beast Boy",
-                "name": "Greg Cipes",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Sam Register",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Michael Jelenic",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Aaron Horvath",
-                "role": "Producer"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2020,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697031000,
-        "season_number": "6",
-        "serial": 1696951016902,
-        "series_id": "2000349",
-        "series_name": "Teen Titans Go!",
-        "show_duration": 900,
-        "show_id": "13683347",
         "show_timestamp": 1697031000,
         "status": "estimated",
         "summary": "Control Freak thinks the Titans' humor is too juvenile for their time-slot, so he ages them down to a preschool show.",
