@@ -3285,7 +3285,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697034600,
-        "last_update": 1697036411959,
+        "last_update": 1697040017642,
         "live": false,
         "participants": [
             {
@@ -3310,7 +3310,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1697034600,
         "season_number": "3",
-        "serial": 1697036405632,
+        "serial": 1697040017323,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 1800,
@@ -3807,7 +3807,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697039100,
-        "last_update": 1697039106536,
+        "last_update": 1697040001110,
         "live": false,
         "participants": [
             {
@@ -3847,13 +3847,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697039100,
         "season_number": "2",
-        "serial": 1697039106246,
+        "serial": 1697040000248,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "13592170",
         "show_timestamp": 1697039100,
-        "status": "current",
+        "status": "actual",
         "summary": "When Mom is away \"anything goes\" and Dad's lack of rules soon attracts unwelcome houseguests.",
         "title": "The Castle",
         "title_id": "2000134",
@@ -3932,6 +3932,65 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229159_015_02_851",
+        "create_time": 1696951018446,
+        "episode_in_season": "15",
+        "episode_number": "S1:E15",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92680",
+        "franchise_name": null,
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1697040000,
+        "last_update": 1697040001110,
+        "live": false,
+        "participants": [
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "Voice"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Kate Micucci",
+                "role": "Voice"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Fred Jones Sr.",
+                "name": "Frank Welker",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1697040000,
+        "season_number": "1",
+        "serial": 1697040000248,
+        "series_id": "2168685",
+        "series_name": "Scooby-Doo and Guess Who?",
+        "show_duration": 1800,
+        "show_id": "13592171",
+        "show_timestamp": 1697040000,
+        "status": "current",
+        "summary": "Shaggy and Scooby take the gang to meet their good friend, Kenan Thompson. He's preparing to broadcast a one-man show. But when a Ghost Clown attacks, all the many characters Kenan has created will never see the light of day.",
+        "summary_long": "Shaggy and Scooby take the gang to meet their good friend actor and comedian, Kenan Thompson. He's preparing to broadcast a special one-man show to save a struggling old TV station in Atlanta, Georgia. But when a Ghost Clown attacks, they all freak. It seems that all the many characters Kenan has created for his special one-man show will never see the light of day if the ghost clown has his way.",
+        "title": "Quit Clowning!",
+        "title_id": "2188609",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229159_015_02_851",
         "create_time": 1696947449760,
         "episode_in_season": "15",
         "episode_number": "S1:E15",
@@ -3979,65 +4038,6 @@
         "series_name": "Scooby-Doo and Guess Who?",
         "show_duration": 1800,
         "show_id": "274088176",
-        "show_timestamp": 1697040000,
-        "status": "estimated",
-        "summary": "Shaggy and Scooby take the gang to meet their good friend, Kenan Thompson. He's preparing to broadcast a one-man show. But when a Ghost Clown attacks, all the many characters Kenan has created will never see the light of day.",
-        "summary_long": "Shaggy and Scooby take the gang to meet their good friend actor and comedian, Kenan Thompson. He's preparing to broadcast a special one-man show to save a struggling old TV station in Atlanta, Georgia. But when a Ghost Clown attacks, they all freak. It seems that all the many characters Kenan has created for his special one-man show will never see the light of day if the ghost clown has his way.",
-        "title": "Quit Clowning!",
-        "title_id": "2188609",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229159_015_02_851",
-        "create_time": 1696951018446,
-        "episode_in_season": "15",
-        "episode_number": "S1:E15",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92680",
-        "franchise_name": null,
-        "genres": [
-            "Comedy",
-            "Mystery"
-        ],
-        "guide_timestamp": 1697040000,
-        "last_update": 1696951018446,
-        "live": false,
-        "participants": [
-            {
-                "character": "Shaggy Rogers",
-                "name": "Matthew Lillard",
-                "role": "Voice"
-            },
-            {
-                "character": "Velma Dinkley",
-                "name": "Kate Micucci",
-                "role": "Voice"
-            },
-            {
-                "character": "Daphne Blake",
-                "name": "Grey DeLisle (Griffin)",
-                "role": "Voice"
-            },
-            {
-                "character": "Fred Jones Sr.",
-                "name": "Frank Welker",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2019,
-        "scheduled_duration": 1800,
-        "scheduled_timestamp": 1697040000,
-        "season_number": "1",
-        "serial": 1696951018137,
-        "series_id": "2168685",
-        "series_name": "Scooby-Doo and Guess Who?",
-        "show_duration": 1800,
-        "show_id": "13592171",
         "show_timestamp": 1697040000,
         "status": "estimated",
         "summary": "Shaggy and Scooby take the gang to meet their good friend, Kenan Thompson. He's preparing to broadcast a one-man show. But when a Ghost Clown attacks, all the many characters Kenan has created will never see the light of day.",
