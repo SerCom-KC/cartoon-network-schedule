@@ -1943,7 +1943,7 @@
             "Family"
         ],
         "guide_timestamp": 1697112900,
-        "last_update": 1697113805711,
+        "last_update": 1697117415298,
         "live": false,
         "participants": [
             {
@@ -1988,7 +1988,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697112900,
         "season_number": "1",
-        "serial": 1697113805438,
+        "serial": 1697117415124,
         "series_id": "2267111",
         "series_name": "Batwheels",
         "show_duration": 900,
@@ -2522,7 +2522,7 @@
             "Animation"
         ],
         "guide_timestamp": 1697116500,
-        "last_update": 1697116500793,
+        "last_update": 1697117405028,
         "live": false,
         "participants": [
             {
@@ -2573,13 +2573,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697116500,
         "season_number": "4",
-        "serial": 1697116500570,
+        "serial": 1697117404794,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
         "show_id": "13683350",
         "show_timestamp": 1697116500,
-        "status": "current",
+        "status": "actual",
         "summary": "Batman is more interested in watching TV than participating in his birthday party.",
         "title": "TV Knight 3",
         "title_id": "2142326",
@@ -2669,6 +2669,86 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229460_005_03_851",
+        "create_time": 1697037334639,
+        "episode_in_season": "5",
+        "episode_number": "S5:E05",
+        "external_id": "16262168",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1697117400,
+        "last_update": 1697117405028,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697117400,
+        "season_number": "5",
+        "serial": 1697117404794,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 900,
+        "show_id": "13683351",
+        "show_timestamp": 1697117400,
+        "status": "current",
+        "summary": "Following the destruction of their Tower by Slade, the Titans go house hunting.",
+        "title": "Tower Renovation",
+        "title_id": "2167654",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229460_005_03_851",
         "create_time": 1697026514326,
         "episode_in_season": "5",
         "episode_number": "S5:E05",
@@ -2738,86 +2818,6 @@
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
         "show_id": "274092182",
-        "show_timestamp": 1697117400,
-        "status": "estimated",
-        "summary": "Following the destruction of their Tower by Slade, the Titans go house hunting.",
-        "title": "Tower Renovation",
-        "title_id": "2167654",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229460_005_03_851",
-        "create_time": 1697037334639,
-        "episode_in_season": "5",
-        "episode_number": "S5:E05",
-        "external_id": "16262168",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "BROADVIEW-CTN",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Animation"
-        ],
-        "guide_timestamp": 1697117400,
-        "last_update": 1697037334639,
-        "live": false,
-        "participants": [
-            {
-                "character": "Robin",
-                "name": "Scott Menville",
-                "role": "Voice"
-            },
-            {
-                "character": "Starfire",
-                "name": "Hynden Walch",
-                "role": "Voice"
-            },
-            {
-                "character": "Raven",
-                "name": "Tara Strong",
-                "role": "Voice"
-            },
-            {
-                "character": "Cyborg",
-                "name": "Khary Payton",
-                "role": "Voice"
-            },
-            {
-                "character": "Beast Boy",
-                "name": "Greg Cipes",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Sam Register",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Michael Jelenic",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Aaron Horvath",
-                "role": "Producer"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2018,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697117400,
-        "season_number": "5",
-        "serial": 1697037334089,
-        "series_id": "2000349",
-        "series_name": "Teen Titans Go!",
-        "show_duration": 900,
-        "show_id": "13683351",
         "show_timestamp": 1697117400,
         "status": "estimated",
         "summary": "Following the destruction of their Tower by Slade, the Titans go house hunting.",
