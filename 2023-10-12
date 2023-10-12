@@ -793,7 +793,7 @@
             "Family"
         ],
         "guide_timestamp": 1697101200,
-        "last_update": 1697103001661,
+        "last_update": 1697106603977,
         "live": false,
         "participants": [
             {
@@ -808,7 +808,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1697101200,
         "season_number": "7",
-        "serial": 1697103000963,
+        "serial": 1697106603744,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -1024,7 +1024,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697105700,
-        "last_update": 1697105703482,
+        "last_update": 1697106603977,
         "live": false,
         "participants": [
             {
@@ -1065,13 +1065,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697105700,
         "season_number": "2",
-        "serial": 1697105703216,
+        "serial": 1697106603744,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "13592215",
         "show_timestamp": 1697105700,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball and Darwin make friends with classmate Clayton, a compulsive liar who can shape-change!",
         "title": "The Skull",
         "title_id": "894323",
@@ -1151,6 +1151,76 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228418_014_04_851",
+        "create_time": 1697037333739,
+        "episode_in_season": "14",
+        "episode_number": "S2:EL14",
+        "external_id": "16260744",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697106600,
+        "last_update": 1697106603976,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697106600,
+        "season_number": "2",
+        "serial": 1697106603744,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13592216",
+        "show_timestamp": 1697106600,
+        "status": "current",
+        "summary": "When Bobert becomes Gumball's servant for a week, Gumball realizes robots obey everyone's command... even if that means destroying you!",
+        "title": "The Bet",
+        "title_id": "894321",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228418_014_04_851",
         "create_time": 1697013078794,
         "episode_in_season": "14",
         "episode_number": "S2:EL14",
@@ -1210,76 +1280,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274092062",
-        "show_timestamp": 1697106600,
-        "status": "estimated",
-        "summary": "When Bobert becomes Gumball's servant for a week, Gumball realizes robots obey everyone's command... even if that means destroying you!",
-        "title": "The Bet",
-        "title_id": "894321",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228418_014_04_851",
-        "create_time": 1697037333739,
-        "episode_in_season": "14",
-        "episode_number": "S2:EL14",
-        "external_id": "16260744",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "BROADVIEW-CTN",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697106600,
-        "last_update": 1697037333739,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2012,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697106600,
-        "season_number": "2",
-        "serial": 1697037333401,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13592216",
         "show_timestamp": 1697106600,
         "status": "estimated",
         "summary": "When Bobert becomes Gumball's servant for a week, Gumball realizes robots obey everyone's command... even if that means destroying you!",
