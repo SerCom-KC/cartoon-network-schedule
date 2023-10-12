@@ -733,7 +733,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697099400,
-        "last_update": 1697101210733,
+        "last_update": 1697104812810,
         "live": false,
         "participants": [
             {
@@ -763,7 +763,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1697099400,
         "season_number": "3",
-        "serial": 1697101210502,
+        "serial": 1697104812328,
         "series_id": "2266164",
         "series_name": "Tuca & Bertie",
         "show_duration": 1800,
@@ -840,7 +840,7 @@
             "Family"
         ],
         "guide_timestamp": 1697103000,
-        "last_update": 1697103001661,
+        "last_update": 1697104810447,
         "live": false,
         "participants": [
             {
@@ -855,17 +855,87 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1697103000,
         "season_number": "7",
-        "serial": 1697103000963,
+        "serial": 1697104810214,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
         "show_id": "13592213",
         "show_timestamp": 1697103000,
-        "status": "current",
+        "status": "actual",
         "summary": "With Valentine's Day approaching, Tina, Gene and Louise each find themselves wrapped up in love-caused chaos. Meanwhile, Bob decides on a romantic gesture in order to impress Linda.",
         "title": "Bob Actually",
         "title_id": "2132983",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228418_012_03_851",
+        "create_time": 1697037333738,
+        "episode_in_season": "12",
+        "episode_number": "S2:EL12",
+        "external_id": "16280316",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697104800,
+        "last_update": 1697104810447,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697104800,
+        "season_number": "2",
+        "serial": 1697104810214,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13592214",
+        "show_timestamp": 1697104800,
+        "status": "current",
+        "summary": "Darwin is too polite to speak his mind, so Gumball teaches him to be direct via an epic battle of insults.",
+        "title": "The Words",
+        "title_id": "894315",
+        "tv_rating": "TV-Y7-FV"
     },
     {
         "blackout_type": "none",
@@ -930,76 +1000,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274092042",
-        "show_timestamp": 1697104800,
-        "status": "estimated",
-        "summary": "Darwin is too polite to speak his mind, so Gumball teaches him to be direct via an epic battle of insults.",
-        "title": "The Words",
-        "title_id": "894315",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228418_012_03_851",
-        "create_time": 1697037333738,
-        "episode_in_season": "12",
-        "episode_number": "S2:EL12",
-        "external_id": "16280316",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "BROADVIEW-CTN",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697104800,
-        "last_update": 1697037333738,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2012,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697104800,
-        "season_number": "2",
-        "serial": 1697037333401,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13592214",
         "show_timestamp": 1697104800,
         "status": "estimated",
         "summary": "Darwin is too polite to speak his mind, so Gumball teaches him to be direct via an epic battle of insults.",
