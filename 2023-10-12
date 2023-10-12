@@ -840,7 +840,7 @@
             "Family"
         ],
         "guide_timestamp": 1697103000,
-        "last_update": 1697104810447,
+        "last_update": 1697108416376,
         "live": false,
         "participants": [
             {
@@ -855,7 +855,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1697103000,
         "season_number": "7",
-        "serial": 1697104810214,
+        "serial": 1697108416038,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -1304,7 +1304,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697107500,
-        "last_update": 1697107504216,
+        "last_update": 1697108402725,
         "live": false,
         "participants": [
             {
@@ -1344,13 +1344,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697107500,
         "season_number": "2",
-        "serial": 1697107503990,
+        "serial": 1697108402347,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "13592217",
         "show_timestamp": 1697107500,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball and Darwin learn that getting a family heirloom back off an old man is harder than you might think.",
         "title": "The Watch",
         "title_id": "894322",
@@ -1429,6 +1429,76 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228418_017_03_851",
+        "create_time": 1697037333740,
+        "episode_in_season": "17",
+        "episode_number": "S2:EL17",
+        "external_id": "16280317",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697108400,
+        "last_update": 1697108402724,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697108400,
+        "season_number": "2",
+        "serial": 1697108402347,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13592218",
+        "show_timestamp": 1697108400,
+        "status": "current",
+        "summary": "Envious of his rustic lifestyle, Gumball invites Idaho over to teach the Wattersons how to live like a potato.",
+        "title": "The Bumpkin",
+        "title_id": "894303",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228418_017_03_851",
         "create_time": 1697014946854,
         "episode_in_season": "17",
         "episode_number": "S2:EL17",
@@ -1488,76 +1558,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274092082",
-        "show_timestamp": 1697108400,
-        "status": "estimated",
-        "summary": "Envious of his rustic lifestyle, Gumball invites Idaho over to teach the Wattersons how to live like a potato.",
-        "title": "The Bumpkin",
-        "title_id": "894303",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228418_017_03_851",
-        "create_time": 1697037333740,
-        "episode_in_season": "17",
-        "episode_number": "S2:EL17",
-        "external_id": "16280317",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "BROADVIEW-CTN",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697108400,
-        "last_update": 1697037333740,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2012,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697108400,
-        "season_number": "2",
-        "serial": 1697037333401,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13592218",
         "show_timestamp": 1697108400,
         "status": "estimated",
         "summary": "Envious of his rustic lifestyle, Gumball invites Idaho over to teach the Wattersons how to live like a potato.",
