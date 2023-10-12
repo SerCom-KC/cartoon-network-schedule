@@ -1869,7 +1869,7 @@
             "Family"
         ],
         "guide_timestamp": 1697112000,
-        "last_update": 1697112915095,
+        "last_update": 1697116517915,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1878,7 +1878,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697112000,
         "season_number": "1",
-        "serial": 1697112911134,
+        "serial": 1697116517679,
         "series_id": "2368373",
         "series_name": "Jessica's Big Little World",
         "show_duration": 900,
@@ -2362,7 +2362,7 @@
             "Animation"
         ],
         "guide_timestamp": 1697115600,
-        "last_update": 1697115603551,
+        "last_update": 1697116500795,
         "live": false,
         "participants": [
             {
@@ -2413,13 +2413,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697115600,
         "season_number": "4",
-        "serial": 1697115602881,
+        "serial": 1697116500570,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
         "show_id": "13683349",
         "show_timestamp": 1697115600,
-        "status": "current",
+        "status": "actual",
         "summary": "The Titans make Robin give them a tour of Wayne Manor and discover how fun it is to be rich.",
         "title": "Mo' Money Mo' Problems",
         "title_id": "2141034",
@@ -2509,6 +2509,86 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229466_048_03_851",
+        "create_time": 1697037334638,
+        "episode_in_season": "48",
+        "episode_number": "S4:E48",
+        "external_id": "16262162",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1697116500,
+        "last_update": 1697116500793,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697116500,
+        "season_number": "4",
+        "serial": 1697116500570,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 900,
+        "show_id": "13683350",
+        "show_timestamp": 1697116500,
+        "status": "current",
+        "summary": "Batman is more interested in watching TV than participating in his birthday party.",
+        "title": "TV Knight 3",
+        "title_id": "2142326",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229466_048_03_851",
         "create_time": 1697026514325,
         "episode_in_season": "48",
         "episode_number": "S4:E48",
@@ -2578,86 +2658,6 @@
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
         "show_id": "274092172",
-        "show_timestamp": 1697116500,
-        "status": "estimated",
-        "summary": "Batman is more interested in watching TV than participating in his birthday party.",
-        "title": "TV Knight 3",
-        "title_id": "2142326",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229466_048_03_851",
-        "create_time": 1697037334638,
-        "episode_in_season": "48",
-        "episode_number": "S4:E48",
-        "external_id": "16262162",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "BROADVIEW-CTN",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Animation"
-        ],
-        "guide_timestamp": 1697116500,
-        "last_update": 1697037334638,
-        "live": false,
-        "participants": [
-            {
-                "character": "Robin",
-                "name": "Scott Menville",
-                "role": "Voice"
-            },
-            {
-                "character": "Starfire",
-                "name": "Hynden Walch",
-                "role": "Voice"
-            },
-            {
-                "character": "Raven",
-                "name": "Tara Strong",
-                "role": "Voice"
-            },
-            {
-                "character": "Cyborg",
-                "name": "Khary Payton",
-                "role": "Voice"
-            },
-            {
-                "character": "Beast Boy",
-                "name": "Greg Cipes",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Sam Register",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Michael Jelenic",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Aaron Horvath",
-                "role": "Producer"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697116500,
-        "season_number": "4",
-        "serial": 1697037334089,
-        "series_id": "2000349",
-        "series_name": "Teen Titans Go!",
-        "show_duration": 900,
-        "show_id": "13683350",
         "show_timestamp": 1697116500,
         "status": "estimated",
         "summary": "Batman is more interested in watching TV than participating in his birthday party.",
