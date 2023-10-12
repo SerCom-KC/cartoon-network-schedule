@@ -1796,7 +1796,7 @@
             "Family"
         ],
         "guide_timestamp": 1697111100,
-        "last_update": 1697112010784,
+        "last_update": 1697115614832,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -1804,7 +1804,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697111100,
         "season_number": "1",
-        "serial": 1697112010489,
+        "serial": 1697115614544,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 900,
@@ -2164,7 +2164,7 @@
             "Family"
         ],
         "guide_timestamp": 1697114700,
-        "last_update": 1697114707991,
+        "last_update": 1697115603552,
         "live": false,
         "participants": [
             {
@@ -2234,13 +2234,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697114700,
         "season_number": "1",
-        "serial": 1697114707708,
+        "serial": 1697115602881,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
         "show_duration": 900,
         "show_id": "13592225",
         "show_timestamp": 1697114700,
-        "status": "current",
+        "status": "actual",
         "summary": "When Marvin the Martian crash lands in Looneyburg, he's in a hurry to leave and hires The Looney Builders to build him a spaceship.",
         "title": "Blast Off",
         "title_id": "2267162",
@@ -2349,6 +2349,86 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229466_047_03_851",
+        "create_time": 1697037334637,
+        "episode_in_season": "47",
+        "episode_number": "S4:E47",
+        "external_id": "16262160",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1697115600,
+        "last_update": 1697115603551,
+        "live": false,
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697115600,
+        "season_number": "4",
+        "serial": 1697115602881,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 900,
+        "show_id": "13683349",
+        "show_timestamp": 1697115600,
+        "status": "current",
+        "summary": "The Titans make Robin give them a tour of Wayne Manor and discover how fun it is to be rich.",
+        "title": "Mo' Money Mo' Problems",
+        "title_id": "2141034",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229466_047_03_851",
         "create_time": 1697022657540,
         "episode_in_season": "47",
         "episode_number": "S4:E47",
@@ -2418,86 +2498,6 @@
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
         "show_id": "274092162",
-        "show_timestamp": 1697115600,
-        "status": "estimated",
-        "summary": "The Titans make Robin give them a tour of Wayne Manor and discover how fun it is to be rich.",
-        "title": "Mo' Money Mo' Problems",
-        "title_id": "2141034",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229466_047_03_851",
-        "create_time": 1697037334637,
-        "episode_in_season": "47",
-        "episode_number": "S4:E47",
-        "external_id": "16262160",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "BROADVIEW-CTN",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Animation"
-        ],
-        "guide_timestamp": 1697115600,
-        "last_update": 1697037334637,
-        "live": false,
-        "participants": [
-            {
-                "character": "Robin",
-                "name": "Scott Menville",
-                "role": "Voice"
-            },
-            {
-                "character": "Starfire",
-                "name": "Hynden Walch",
-                "role": "Voice"
-            },
-            {
-                "character": "Raven",
-                "name": "Tara Strong",
-                "role": "Voice"
-            },
-            {
-                "character": "Cyborg",
-                "name": "Khary Payton",
-                "role": "Voice"
-            },
-            {
-                "character": "Beast Boy",
-                "name": "Greg Cipes",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Sam Register",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Michael Jelenic",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Aaron Horvath",
-                "role": "Producer"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697115600,
-        "season_number": "4",
-        "serial": 1697037334089,
-        "series_id": "2000349",
-        "series_name": "Teen Titans Go!",
-        "show_duration": 900,
-        "show_id": "13683349",
         "show_timestamp": 1697115600,
         "status": "estimated",
         "summary": "The Titans make Robin give them a tour of Wayne Manor and discover how fun it is to be rich.",
