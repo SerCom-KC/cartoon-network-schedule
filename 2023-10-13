@@ -195,7 +195,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697172300,
-        "last_update": 1697079042022,
+        "last_update": 1697125161043,
         "live": false,
         "participants": [
             {
@@ -263,13 +263,13 @@
         "press_hold": false,
         "release_year": 2017,
         "runtime_minutes": 15,
-        "scheduled_duration": 900,
+        "scheduled_duration": 914,
         "scheduled_timestamp": 1697172300,
         "season_number": "9",
-        "serial": 1697079041805,
+        "serial": 1697125160896,
         "series_id": "608360",
         "series_name": "Robot Chicken",
-        "show_duration": 900,
+        "show_duration": 914,
         "show_id": "13592269",
         "show_timestamp": 1697172300,
         "status": "estimated",
@@ -677,7 +677,7 @@
             "Animation"
         ],
         "guide_timestamp": 1697182200,
-        "last_update": 1697089203405,
+        "last_update": 1697125161437,
         "live": false,
         "participants": [
             {
@@ -710,13 +710,13 @@
         "press_hold": false,
         "release_year": 2015,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1805,
         "scheduled_timestamp": 1697182200,
         "season_number": "2",
-        "serial": 1697089203248,
+        "serial": 1697125161286,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1805,
         "show_id": "13592275",
         "show_timestamp": 1697182200,
         "status": "estimated",
@@ -806,7 +806,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697185800,
-        "last_update": 1697092591631,
+        "last_update": 1697125161437,
         "live": false,
         "participants": [
             {
@@ -834,13 +834,13 @@
         "press_hold": false,
         "release_year": 2022,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1801,
         "scheduled_timestamp": 1697185800,
         "season_number": "3",
-        "serial": 1697092591486,
+        "serial": 1697125161286,
         "series_id": "2266164",
         "series_name": "Tuca & Bertie",
-        "show_duration": 1800,
+        "show_duration": 1801,
         "show_id": "13592277",
         "show_timestamp": 1697185800,
         "status": "estimated",
@@ -2633,5 +2633,108 @@
         "title": "Chapter 9: Into the Unknown",
         "title_id": "2020163",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229205_010_02_851",
+        "create_time": 1697125161941,
+        "episode_in_season": "10",
+        "episode_number": "S1:E10",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S18459",
+        "franchise_name": null,
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697217300,
+        "last_update": 1697125161941,
+        "live": false,
+        "participants": [
+            {
+                "character": "Wirt",
+                "name": "Elijah Wood",
+                "role": "Voice"
+            },
+            {
+                "character": "Gregory",
+                "name": "Collin Dean",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697217300,
+        "season_number": "1",
+        "serial": 1697125161755,
+        "series_id": "2017785",
+        "series_name": "Over the Garden Wall",
+        "show_duration": 900,
+        "show_id": "13592304",
+        "show_timestamp": 1697217300,
+        "status": "estimated",
+        "summary": "The Beast has come. The final chapter begins.",
+        "title": "Chapter 10: The Unknown",
+        "title_id": "2020164",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229072_014_03_851",
+        "create_time": 1697125161942,
+        "episode_in_season": "14",
+        "episode_number": "S3:E14",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92618",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697218200,
+        "last_update": 1697125161942,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697218200,
+        "season_number": "3",
+        "serial": 1697125161755,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13592305",
+        "show_timestamp": 1697218200,
+        "status": "estimated",
+        "summary": "Craig finds himself being chased by a monster in the Creek that's straight out of the movies!",
+        "title": "Creature Feature",
+        "title_id": "2227877",
+        "tv_rating": "TV-Y7"
     }
 ]
