@@ -2682,7 +2682,7 @@
             "Animation"
         ],
         "guide_timestamp": 1697117400,
-        "last_update": 1697118306704,
+        "last_update": 1697121914616,
         "live": false,
         "participants": [
             {
@@ -2733,7 +2733,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697117400,
         "season_number": "5",
-        "serial": 1697118306403,
+        "serial": 1697121914361,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -3238,7 +3238,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697121000,
-        "last_update": 1697121006403,
+        "last_update": 1697121901502,
         "live": false,
         "participants": [
             {
@@ -3268,13 +3268,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697121000,
         "season_number": "3",
-        "serial": 1697121006161,
+        "serial": 1697121901255,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "13592230",
         "show_timestamp": 1697121000,
-        "status": "current",
+        "status": "actual",
         "summary": "Craig and his friends create their own neighborhood in the snow!",
         "title": "Welcome to Creek Street",
         "title_id": "2233281",
@@ -3343,6 +3343,65 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229072_025_03_851",
+        "create_time": 1697037334643,
+        "episode_in_season": "25",
+        "episode_number": "S3:E25",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92618",
+        "franchise_name": "- Craig of the Creek (Season 3): Fan or Foe",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697121900,
+        "last_update": 1697121901501,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697121900,
+        "season_number": "3",
+        "serial": 1697121901255,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13592231",
+        "show_timestamp": 1697121900,
+        "status": "current",
+        "summary": "When Elder Con comes to the Creek, Craig, Kelsey and JP each have a con experience they'll never forget.",
+        "title": "Fan or Foe",
+        "title_id": "2235308",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229072_025_03_851",
         "create_time": 1697029985936,
         "episode_in_season": "25",
         "episode_number": "S3:E25",
@@ -3391,65 +3450,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274092232",
-        "show_timestamp": 1697121900,
-        "status": "estimated",
-        "summary": "When Elder Con comes to the Creek, Craig, Kelsey and JP each have a con experience they'll never forget.",
-        "title": "Fan or Foe",
-        "title_id": "2235308",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229072_025_03_851",
-        "create_time": 1697037334643,
-        "episode_in_season": "25",
-        "episode_number": "S3:E25",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92618",
-        "franchise_name": "- Craig of the Creek (Season 3): Fan or Foe",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697121900,
-        "last_update": 1697061998038,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Georgie Kidder",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2020,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697121900,
-        "season_number": "3",
-        "serial": 1697061997716,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13592231",
         "show_timestamp": 1697121900,
         "status": "estimated",
         "summary": "When Elder Con comes to the Creek, Craig, Kelsey and JP each have a con experience they'll never forget.",
