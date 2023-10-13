@@ -295,7 +295,7 @@
             "Animation"
         ],
         "guide_timestamp": 1697263200,
-        "last_update": 1697172768277,
+        "last_update": 1697238808498,
         "live": false,
         "participants": [
             {
@@ -327,13 +327,13 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2021,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1802,
         "scheduled_timestamp": 1697263200,
         "season_number": "5",
-        "serial": 1697172768058,
+        "serial": 1697238808177,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1802,
         "show_id": "13592329",
         "show_timestamp": 1697263200,
         "status": "estimated",
@@ -3227,5 +3227,80 @@
         "title": "Mom, Lies, and Videotape",
         "title_id": "2132987",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "232843_014_02_851",
+        "create_time": 1697238809187,
+        "episode_in_season": "14",
+        "episode_number": "S3:E14",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S94775",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1697331600,
+        "last_update": 1697238809187,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2007,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1697331600,
+        "season_number": "3",
+        "serial": 1697238808849,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1806,
+        "show_id": "13592377",
+        "show_timestamp": 1697331600,
+        "status": "estimated",
+        "summary": "After officially being declared dead due to an accident, Stan comes back to life and realizes he dreams of leaving a legacy on the world. He excavates his home in search of Ollie North's Contra-band buried treasure.",
+        "title": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "title_id": "700750",
+        "tv_rating": "TV-14"
     }
 ]
