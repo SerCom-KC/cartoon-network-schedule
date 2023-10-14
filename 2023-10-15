@@ -3025,5 +3025,91 @@
         "title": "Tim Burton's Corpse Bride",
         "title_id": "535004",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233122_001_01_851",
+        "create_time": 1697317850072,
+        "episode_in_season": "1",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S94840",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1697409900,
+        "last_update": 1697317850072,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1697409900,
+        "season_number": "1",
+        "serial": 1697317849827,
+        "series_id": "2192788",
+        "series_name": "Adult Swim Smalls Presents: SHOP: A Pop Opera",
+        "show_duration": 901,
+        "show_id": "13653498",
+        "show_timestamp": 1697409900,
+        "status": "estimated",
+        "summary": "An indecisive man's grocery trip is impeded by strange characters and musical ruminations.",
+        "title": "Adult Swim Smalls Presents: SHOP: A Pop Opera",
+        "title_id": "2192789",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169771_002_04_851",
+        "create_time": 1697317850072,
+        "episode_in_season": "2",
+        "episode_number": "S3:E02",
+        "external_id": "16253497",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1697410800,
+        "last_update": 1697317850072,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1697410800,
+        "season_number": "3",
+        "serial": 1697317849827,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13653499",
+        "show_timestamp": 1697410800,
+        "status": "estimated",
+        "summary": "The Belcher kids break their Halloween tradition by ditching their usual trick-or-treating route and venturing off to Kingshead Island, a posh neighborhood that is known for distributing full-sized candy bars.",
+        "summary_long": "The Belcher kids break their Halloween tradition by ditching their usual trick-or-treating route and venturing off to Kingshead Island, a posh neighborhood that is known for distributing full-sized candy bars. Meanwhile, Bob and Linda attend Teddy's annual \"Black and Orange\" party.",
+        "title": "Full Bars",
+        "title_id": "2003513",
+        "tv_rating": "TV-PG"
     }
 ]
