@@ -287,7 +287,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697434200,
-        "last_update": 1697341403430,
+        "last_update": 1697384672130,
         "live": false,
         "participants": [
             {
@@ -329,13 +329,13 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2010,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1810,
         "scheduled_timestamp": 1697434200,
         "season_number": "6",
-        "serial": 1697341403223,
+        "serial": 1697384671929,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1810,
         "show_id": "13592448",
         "show_timestamp": 1697434200,
         "status": "estimated",
@@ -565,7 +565,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697441400,
-        "last_update": 1697347834999,
+        "last_update": 1697384672814,
         "live": false,
         "participants": [
             {
@@ -672,13 +672,13 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2023,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1808,
         "scheduled_timestamp": 1697441400,
         "season_number": "1",
-        "serial": 1697347834777,
+        "serial": 1697384672445,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1800,
+        "show_duration": 1808,
         "show_id": "13592452",
         "show_timestamp": 1697441400,
         "status": "estimated",
@@ -900,7 +900,7 @@
             "Family"
         ],
         "guide_timestamp": 1697446800,
-        "last_update": 1697354556064,
+        "last_update": 1697384672815,
         "live": false,
         "participants": [
             {
@@ -912,13 +912,13 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2012,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1804,
         "scheduled_timestamp": 1697446800,
         "season_number": "3",
-        "serial": 1697354555844,
+        "serial": 1697384672445,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1800,
+        "show_duration": 1804,
         "show_id": "13592457",
         "show_timestamp": 1697446800,
         "status": "estimated",
@@ -2563,5 +2563,64 @@
         "title": "Classroom",
         "title_id": "2085288",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229083_004_02_851",
+        "create_time": 1697384673382,
+        "episode_in_season": "4",
+        "episode_number": "S4:E04",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92618",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697477400,
+        "last_update": 1697384673382,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2021,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697477400,
+        "season_number": "4",
+        "serial": 1697384673148,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13592485",
+        "show_timestamp": 1697477400,
+        "status": "estimated",
+        "summary": "Craig offers to help the Sewer Queen by going undercover as a member of the swim team.",
+        "title": "Sink or Swim Team",
+        "title_id": "2260156",
+        "tv_rating": "TV-Y7"
     }
 ]
