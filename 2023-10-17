@@ -1752,5 +1752,54 @@
         "title": "Dear John",
         "title_id": "894369",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235002_013_02_851",
+        "create_time": 1697456891090,
+        "episode_in_season": "13",
+        "episode_number": "S2:E13",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S55140",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697549400,
+        "last_update": 1697456891090,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1697549400,
+        "season_number": "2",
+        "serial": 1697456890743,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1800,
+        "show_id": "274112652",
+        "show_timestamp": 1697549400,
+        "status": "estimated",
+        "summary": "When Tina's dad comes to town, Daffy decides to pretend he is a lawyer in order to impress him.  By default, Bugs is forced to pretend to be Daffy's slacker, deadbeat roommate.",
+        "title": "Daffy Duck Esquire",
+        "title_id": "894370",
+        "tv_rating": "TV-PG"
     }
 ]
