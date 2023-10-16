@@ -806,5 +806,67 @@
         "title": "Made Ya Look",
         "title_id": "2073006",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "251871_008_01_851",
+        "create_time": 1697437904221,
+        "episode_in_season": "8",
+        "episode_number": "S3:E08",
+        "external_id": "16279914",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1697531400,
+        "last_update": 1697437904221,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tuca Toucan",
+                "name": "Tiffany Haddish",
+                "role": "Voice"
+            },
+            {
+                "character": "Roberta Songthrush",
+                "name": "Ali Wong",
+                "role": "Voice"
+            },
+            {
+                "character": "Speckle",
+                "name": "Steven Yeun",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Lisa Hanawalt",
+                "role": "Creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1697531400,
+        "season_number": "3",
+        "serial": 1697437903898,
+        "series_id": "2266164",
+        "series_name": "Tuca & Bertie",
+        "show_duration": 1801,
+        "show_id": "13592517",
+        "show_timestamp": 1697531400,
+        "status": "estimated",
+        "summary": "Bertie might have some mommy issues! Tuca coaches Speckle through a tough transitional life stage.",
+        "title": "Fledging Day",
+        "title_id": "2388618",
+        "tv_rating": "TV-14"
     }
 ]
