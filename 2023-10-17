@@ -1401,7 +1401,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697539500,
-        "last_update": 1697540388083,
+        "last_update": 1697544002956,
         "live": false,
         "participants": [
             {
@@ -1441,7 +1441,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697539500,
         "season_number": "5",
-        "serial": 1697540387823,
+        "serial": 1697544002676,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 895,
@@ -1541,7 +1541,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697540400,
-        "last_update": 1697541330035,
+        "last_update": 1697544936924,
         "live": false,
         "participants": [
             {
@@ -1581,7 +1581,7 @@
         "scheduled_duration": 910,
         "scheduled_timestamp": 1697540400,
         "season_number": "6",
-        "serial": 1697541329602,
+        "serial": 1697544936735,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 911,
@@ -1681,7 +1681,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697541300,
-        "last_update": 1697542327241,
+        "last_update": 1697545934837,
         "live": false,
         "participants": [
             {
@@ -1721,7 +1721,7 @@
         "scheduled_duration": 910,
         "scheduled_timestamp": 1697541300,
         "season_number": "5",
-        "serial": 1697542326780,
+        "serial": 1697545934651,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 910,
@@ -1932,7 +1932,7 @@
             "Family"
         ],
         "guide_timestamp": 1697543100,
-        "last_update": 1697543287430,
+        "last_update": 1697544002956,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -1940,16 +1940,53 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697543100,
         "season_number": "1",
-        "serial": 1697543287198,
+        "serial": 1697544002676,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 889,
         "show_id": "13592527",
         "show_timestamp": 1697543101,
-        "status": "current",
+        "status": "actual",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "Winter Show & Tell/ Yes Yes Dress for the Rain/ Construction Vehicles Song",
         "title_id": "2435786",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250994_008_02_851",
+        "create_time": 1697470645674,
+        "episode_in_season": "8",
+        "episode_number": "S1:E04",
+        "external_id": "16260720",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1697544000,
+        "last_update": 1697544971471,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1697544000,
+        "season_number": "1",
+        "serial": 1697544971258,
+        "series_id": "2368373",
+        "series_name": "Jessica's Big Little World",
+        "show_duration": 901,
+        "show_id": "13592528",
+        "show_timestamp": 1697543990,
+        "status": "actual",
+        "summary": "While helping Duane at the supermarket, Jessica meets a new friend and has trouble staying focused on her responsibilities.",
+        "title": "Grocery Store Friend",
+        "title_id": "2387263",
         "tv_rating": "TV-Y"
     },
     {
@@ -1992,38 +2029,74 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "250994_008_02_851",
+        "content_id": "228868_018_02_851",
         "create_time": 1697470645674,
-        "episode_in_season": "8",
-        "episode_number": "S1:E04",
-        "external_id": "16260720",
+        "episode_in_season": "18",
+        "episode_number": "S1:E18",
+        "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "BROADVIEW-CTN",
+        "franchise_id": "S92494",
+        "franchise_name": null,
         "genres": [
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1697544000,
-        "last_update": 1697543287431,
+        "guide_timestamp": 1697544900,
+        "last_update": 1697545869727,
         "live": false,
-        "premiere": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2023,
-        "runtime_minutes": 15,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1697544000,
+        "release_year": 2022,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697544900,
         "season_number": "1",
-        "serial": 1697543287198,
-        "series_id": "2368373",
-        "series_name": "Jessica's Big Little World",
-        "show_duration": 901,
-        "show_id": "13592528",
-        "show_timestamp": 1697544001,
-        "status": "estimated",
-        "summary": "While helping Duane at the supermarket, Jessica meets a new friend and has trouble staying focused on her responsibilities.",
-        "title": "Grocery Store Friend",
-        "title_id": "2387263",
+        "serial": 1697545869466,
+        "series_id": "2267111",
+        "series_name": "Batwheels",
+        "show_duration": 900,
+        "show_id": "13592529",
+        "show_timestamp": 1697544891,
+        "status": "actual",
+        "summary": "Bam brings Catwoman's Catmobile, Kitty, to life so the Batwheels can have even teams for their game of \"Bat-Ball,\" but the Kitty \"Kitty\" is too wild to be contained, despite Bam's best attempts to convince her to play along.",
+        "title": "Bam's Clawful Mistake",
+        "title_id": "2267133",
         "tv_rating": "TV-Y"
     },
     {
@@ -2102,74 +2175,38 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228868_018_02_851",
-        "create_time": 1697470645674,
-        "episode_in_season": "18",
-        "episode_number": "S1:E18",
+        "content_id": "252832_001_01_851",
+        "create_time": 1697470645675,
+        "episode_in_season": "1",
+        "episode_number": "1001",
         "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "S92494",
+        "franchise_id": "S89508",
         "franchise_name": null,
         "genres": [
+            "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1697544900,
-        "last_update": 1697543287432,
+        "guide_timestamp": 1697545800,
+        "last_update": 1697545918830,
         "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Caroline Kermel",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Fink",
-                "role": "Producer"
-            },
-            {
-                "character": "Buff",
-                "name": "Noah Kaye Bentley",
-                "role": "Voice"
-            },
-            {
-                "character": "Bam",
-                "name": "Jacob Bertrand",
-                "role": "Voice"
-            },
-            {
-                "character": "Batman",
-                "name": "Ethan Hawke",
-                "role": "Voice"
-            },
-            {
-                "character": "Robin",
-                "name": "AJ Hudson",
-                "role": "Voice"
-            },
-            {
-                "character": "Bibi",
-                "name": "Madigan Kacmar",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
-        "release_year": 2022,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697544900,
+        "release_year": 2006,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1697545800,
         "season_number": "1",
-        "serial": 1697543287198,
-        "series_id": "2267111",
-        "series_name": "Batwheels",
-        "show_duration": 899,
-        "show_id": "13592529",
-        "show_timestamp": 1697544900,
-        "status": "estimated",
-        "summary": "Bam brings Catwoman's Catmobile, Kitty, to life so the Batwheels can have even teams for their game of \"Bat-Ball,\" but the Kitty \"Kitty\" is too wild to be contained, despite Bam's best attempts to convince her to play along.",
-        "title": "Bam's Clawful Mistake",
-        "title_id": "2267133",
+        "serial": 1697545918549,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 902,
+        "show_id": "13592530",
+        "show_timestamp": 1697545791,
+        "status": "current",
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "Five Senses Song/ Three Little Pigs/ Row, Row, Row Your Boat/ Finger Family",
+        "title_id": "2435107",
         "tv_rating": "TV-Y"
     },
     {
@@ -2212,38 +2249,100 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "252832_001_01_851",
+        "content_id": "228558_023_02_851",
         "create_time": 1697470645675,
-        "episode_in_season": "1",
-        "episode_number": "1001",
+        "episode_in_season": "23",
+        "episode_number": "S1:E23",
         "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "S89508",
+        "franchise_id": "S92277",
         "franchise_name": null,
         "genres": [
             "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1697545800,
-        "last_update": 1697543529144,
+        "guide_timestamp": 1697546700,
+        "last_update": 1697545918830,
         "live": false,
-        "premiere": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2006,
-        "scheduled_duration": 902,
-        "scheduled_timestamp": 1697545800,
+        "release_year": 2021,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697546700,
         "season_number": "1",
-        "serial": 1697543528910,
-        "series_id": "2357112",
-        "series_name": "CoComelon",
-        "show_duration": 902,
-        "show_id": "13592530",
-        "show_timestamp": 1697545800,
+        "serial": 1697545918549,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 896,
+        "show_id": "13592531",
+        "show_timestamp": 1697546691,
         "status": "estimated",
-        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
-        "title": "Five Senses Song/ Three Little Pigs/ Row, Row, Row Your Boat/ Finger Family",
-        "title_id": "2435107",
+        "summary": "The Mouse Sisters hire The Looney Builders to build a cheese caf\u00e9 featuring a mural by Sylvester who is having a bad day.",
+        "title": "Cheddar Days",
+        "title_id": "2267186",
         "tv_rating": "TV-Y"
     },
     {
@@ -2348,101 +2447,51 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228558_023_02_851",
-        "create_time": 1697470645675,
-        "episode_in_season": "23",
-        "episode_number": "S1:E23",
+        "content_id": "235002_012_02_851",
+        "create_time": 1697470645676,
+        "episode_in_season": "12",
+        "episode_number": "S2:E12",
         "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "S92277",
+        "franchise_id": "S55140",
         "franchise_name": null,
         "genres": [
             "Animation",
             "Children",
-            "Family"
+            "Comedy"
         ],
-        "guide_timestamp": 1697546700,
-        "last_update": 1697543287434,
+        "guide_timestamp": 1697547600,
+        "last_update": 1697546049310,
         "live": false,
         "participants": [
             {
                 "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
                 "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
                 "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
             }
         ],
         "premiere": true,
         "press_hold": false,
-        "release_year": 2021,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697546700,
-        "season_number": "1",
-        "serial": 1697543287198,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 896,
-        "show_id": "13592531",
-        "show_timestamp": 1697546700,
+        "release_year": 2013,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1697547600,
+        "season_number": "2",
+        "serial": 1697546049040,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1791,
+        "show_id": "13592532",
+        "show_timestamp": 1697547594,
         "status": "estimated",
-        "summary": "The Mouse Sisters hire The Looney Builders to build a cheese caf\u00e9 featuring a mural by Sylvester who is having a bad day.",
-        "title": "Cheddar Days",
-        "title_id": "2267186",
-        "tv_rating": "TV-Y"
+        "summary": "Lola joins a monastery and Bugs buys a boat to sail around the world when they each mistakenly believe the other has ended their relationship.",
+        "title": "Dear John",
+        "title_id": "894369",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -2496,10 +2545,10 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235002_012_02_851",
-        "create_time": 1697470645676,
-        "episode_in_season": "12",
-        "episode_number": "S2:E12",
+        "content_id": "235002_013_02_851",
+        "create_time": 1697470646772,
+        "episode_in_season": "13",
+        "episode_number": "S2:E13",
         "external_id": null,
         "feed_id": "as-east",
         "franchise_id": "S55140",
@@ -2509,8 +2558,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1697547600,
-        "last_update": 1697543287435,
+        "guide_timestamp": 1697549400,
+        "last_update": 1697545918810,
         "live": false,
         "participants": [
             {
@@ -2528,18 +2577,18 @@
         "press_hold": false,
         "release_year": 2013,
         "scheduled_duration": 1800,
-        "scheduled_timestamp": 1697547600,
+        "scheduled_timestamp": 1697549400,
         "season_number": "2",
-        "serial": 1697543287198,
+        "serial": 1697545918546,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1791,
-        "show_id": "13592532",
-        "show_timestamp": 1697547600,
+        "show_duration": 1800,
+        "show_id": "13592533",
+        "show_timestamp": 1697549397,
         "status": "estimated",
-        "summary": "Lola joins a monastery and Bugs buys a boat to sail around the world when they each mistakenly believe the other has ended their relationship.",
-        "title": "Dear John",
-        "title_id": "894369",
+        "summary": "When Tina's dad comes to town, Daffy decides to pretend he is a lawyer in order to impress him.  By default, Bugs is forced to pretend to be Daffy's slacker, deadbeat roommate.",
+        "title": "Daffy Duck Esquire",
+        "title_id": "894370",
         "tv_rating": "TV-PG"
     },
     {
@@ -2594,51 +2643,61 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235002_013_02_851",
+        "content_id": "229072_033_02_851",
         "create_time": 1697470646772,
-        "episode_in_season": "13",
-        "episode_number": "S2:E13",
+        "episode_in_season": "33",
+        "episode_number": "S3:E33",
         "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "S55140",
+        "franchise_id": "S92618",
         "franchise_name": null,
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1697549400,
-        "last_update": 1697543287436,
+        "guide_timestamp": 1697551200,
+        "last_update": 1697545918811,
         "live": false,
         "participants": [
             {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
                 "role": "Voice"
             },
             {
-                "character": "Daffy Duck",
-                "name": "Jeff Bergman",
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
                 "role": "Voice"
             }
         ],
         "premiere": true,
         "press_hold": false,
-        "release_year": 2013,
-        "scheduled_duration": 1800,
-        "scheduled_timestamp": 1697549400,
-        "season_number": "2",
-        "serial": 1697543287198,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1800,
-        "show_id": "13592533",
-        "show_timestamp": 1697549400,
+        "release_year": 2021,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1697551200,
+        "season_number": "3",
+        "serial": 1697545918546,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 901,
+        "show_id": "13592534",
+        "show_timestamp": 1697551199,
         "status": "estimated",
-        "summary": "When Tina's dad comes to town, Daffy decides to pretend he is a lawyer in order to impress him.  By default, Bugs is forced to pretend to be Daffy's slacker, deadbeat roommate.",
-        "title": "Daffy Duck Esquire",
-        "title_id": "894370",
-        "tv_rating": "TV-PG"
+        "summary": "When mysterious circumstances cause issues at the Trading Tree, Craig tries to save the day!",
+        "title": "Capture The Flag Part I: The Candy",
+        "title_id": "2243830",
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -2702,10 +2761,10 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229072_033_02_851",
-        "create_time": 1697470646772,
-        "episode_in_season": "33",
-        "episode_number": "S3:E33",
+        "content_id": "229072_034_02_851",
+        "create_time": 1697470646773,
+        "episode_in_season": "34",
+        "episode_number": "S3:E34",
         "external_id": null,
         "feed_id": "as-east",
         "franchise_id": "S92618",
@@ -2715,8 +2774,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1697551200,
-        "last_update": 1697543287437,
+        "guide_timestamp": 1697552100,
+        "last_update": 1697545918832,
         "live": false,
         "participants": [
             {
@@ -2742,20 +2801,20 @@
         ],
         "premiere": true,
         "press_hold": false,
-        "release_year": 2021,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1697551200,
+        "release_year": 2020,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697552100,
         "season_number": "3",
-        "serial": 1697543287198,
+        "serial": 1697545918549,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 901,
-        "show_id": "13592534",
-        "show_timestamp": 1697551200,
+        "show_duration": 900,
+        "show_id": "13592535",
+        "show_timestamp": 1697552099,
         "status": "estimated",
-        "summary": "When mysterious circumstances cause issues at the Trading Tree, Craig tries to save the day!",
-        "title": "Capture The Flag Part I: The Candy",
-        "title_id": "2243830",
+        "summary": "The Creek gets help from an unlikely friend.",
+        "title": "Capture The Flag Part II: The King",
+        "title_id": "2244269",
         "tv_rating": "TV-Y7"
     },
     {
@@ -2810,65 +2869,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274112672",
-        "show_timestamp": 1697552100,
-        "status": "estimated",
-        "summary": "The Creek gets help from an unlikely friend.",
-        "title": "Capture The Flag Part II: The King",
-        "title_id": "2244269",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229072_034_02_851",
-        "create_time": 1697470646773,
-        "episode_in_season": "34",
-        "episode_number": "S3:E34",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92618",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697552100,
-        "last_update": 1697470646773,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Georgie Kidder",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2020,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697552100,
-        "season_number": "3",
-        "serial": 1697470646308,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13592535",
         "show_timestamp": 1697552100,
         "status": "estimated",
         "summary": "The Creek gets help from an unlikely friend.",
