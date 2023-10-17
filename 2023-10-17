@@ -18,7 +18,7 @@
             "Animation"
         ],
         "guide_timestamp": 1697515200,
-        "last_update": 1697494186022,
+        "last_update": 1697508160694,
         "live": false,
         "participants": [
             {
@@ -54,12 +54,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1697515200,
         "season_number": "2",
-        "serial": 1697494185742,
+        "serial": 1697508160440,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1790,
         "show_id": "13592506",
-        "show_timestamp": 1697515205,
+        "show_timestamp": 1697515208,
         "status": "estimated",
         "summary": "Things going ham in this one broh. Jerry gots all sick and Rick sparks up the TV broh.",
         "title": "Interdimensional Cable 2: Tempting Fate",
@@ -88,7 +88,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697517000,
-        "last_update": 1697494186022,
+        "last_update": 1697508160694,
         "live": false,
         "participants": [
             {
@@ -159,12 +159,12 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1697517000,
         "season_number": "9",
-        "serial": 1697494185742,
+        "serial": 1697508160440,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 898,
         "show_id": "13592507",
-        "show_timestamp": 1697517005,
+        "show_timestamp": 1697517006,
         "status": "estimated",
         "summary": "The writers of Robot Chicken tell Two-Face the most they've ever lost on a coin toss. The Joker bombs on stage, but not in our hearts. Jon Snow faces the greatest threat Westeros has ever seen!",
         "title": "No Wait, He Has a Cane",
@@ -193,7 +193,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697517900,
-        "last_update": 1697494186023,
+        "last_update": 1697506433458,
         "live": false,
         "participants": [
             {
@@ -264,7 +264,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1697517900,
         "season_number": "9",
-        "serial": 1697494185742,
+        "serial": 1697506433261,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "show_duration": 895,
@@ -294,7 +294,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697518800,
-        "last_update": 1697494186023,
+        "last_update": 1697506433458,
         "live": false,
         "participants": [
             {
@@ -324,7 +324,7 @@
         "scheduled_duration": 911,
         "scheduled_timestamp": 1697518800,
         "season_number": "2",
-        "serial": 1697494185742,
+        "serial": 1697506433261,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
         "show_duration": 906,
@@ -5706,6 +5706,74 @@
         "summary_long": "Every night Stan comes home from work exhausted and is faced with the task of spending time with his family and then going straight to bed, eliminating the chance of any alone time. In ten years, he still hasn't been able to get through one chapter of a book. A co-worker slips him some pills that allow him to stay up all night and still feel rested. He jumps at the opportunity, and uses his extra time to do all of the things he hasn't had time to do. He finishes his book, teaches himself the piano and shoots hoops. He feels great. When Francine uncovers his late-night activities and what he's taking in order to make it happen, she demands her own pills.",
         "title": "Stan Time",
         "title_id": "751046",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251739_009_03_851",
+        "create_time": 1697507860022,
+        "episode_in_season": "9",
+        "episode_number": "S2:E09",
+        "external_id": "16260791",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1697599800,
+        "last_update": 1697507860022,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1697599800,
+        "season_number": "2",
+        "serial": 1697507859809,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1804,
+        "show_id": "13592572",
+        "show_timestamp": 1697599800,
+        "status": "estimated",
+        "summary": "Morty goofs this time broh and now they gotta chill out and wait. Jerry and Summer explore their father daughter relationship too broh.",
+        "title": "Look Who's Purging Now",
+        "title_id": "2060773",
         "tv_rating": "TV-14"
     }
 ]
