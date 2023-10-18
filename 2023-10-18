@@ -2564,7 +2564,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697635800,
-        "last_update": 1697637641342,
+        "last_update": 1697641245312,
         "live": false,
         "participants": [
             {
@@ -2584,7 +2584,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1697635800,
         "season_number": "2",
-        "serial": 1697637641051,
+        "serial": 1697641245004,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1805,
@@ -3016,7 +3016,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697640300,
-        "last_update": 1697640345547,
+        "last_update": 1697641302389,
         "live": false,
         "participants": [
             {
@@ -3046,13 +3046,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697640300,
         "season_number": "4",
-        "serial": 1697640345281,
+        "serial": 1697641302149,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 910,
+        "show_duration": 901,
         "show_id": "13592604",
         "show_timestamp": 1697640290,
-        "status": "current",
+        "status": "actual",
         "summary": "When Craig is having trouble with some math homework, Sparkle Cadet comes to the rescue.",
         "title": "The Sparkle Solution",
         "title_id": "2260159",
@@ -3121,6 +3121,76 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228427_039_03_851",
+        "create_time": 1697556192843,
+        "episode_in_season": "39",
+        "episode_number": "S4:E39",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92235",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697641200,
+        "last_update": 1697641302388,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1697641200,
+        "season_number": "4",
+        "serial": 1697641302149,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 919,
+        "show_id": "13592605",
+        "show_timestamp": 1697641191,
+        "status": "current",
+        "summary": "Gumball and Darwin go to extreme lengths to help Molly make her dull stories more interesting.",
+        "summary_long": "Fed up with having to listen to Molly's long, tedious anecdotes, Gumball and Darwin try to teach her how to make them sound more exciting. When this doesn't work, they decide their only option is to give Molly a story worth telling.",
+        "title": "The Stories",
+        "title_id": "2088995",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228427_039_03_851",
         "create_time": 1697550375428,
         "episode_in_season": "39",
         "episode_number": "S4:E39",
@@ -3179,76 +3249,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274116798",
-        "show_timestamp": 1697641200,
-        "status": "estimated",
-        "summary": "Gumball and Darwin go to extreme lengths to help Molly make her dull stories more interesting.",
-        "summary_long": "Fed up with having to listen to Molly's long, tedious anecdotes, Gumball and Darwin try to teach her how to make them sound more exciting. When this doesn't work, they decide their only option is to give Molly a story worth telling.",
-        "title": "The Stories",
-        "title_id": "2088995",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228427_039_03_851",
-        "create_time": 1697556192843,
-        "episode_in_season": "39",
-        "episode_number": "S4:E39",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92235",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697641200,
-        "last_update": 1697575784027,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2016,
-        "scheduled_duration": 910,
-        "scheduled_timestamp": 1697641200,
-        "season_number": "4",
-        "serial": 1697575783806,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 910,
-        "show_id": "13592605",
         "show_timestamp": 1697641200,
         "status": "estimated",
         "summary": "Gumball and Darwin go to extreme lengths to help Molly make her dull stories more interesting.",
