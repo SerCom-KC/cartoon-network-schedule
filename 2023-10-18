@@ -2466,7 +2466,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697634000,
-        "last_update": 1697635846180,
+        "last_update": 1697639455209,
         "live": false,
         "participants": [
             {
@@ -2486,7 +2486,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1697634000,
         "season_number": "2",
-        "serial": 1697635845897,
+        "serial": 1697639454933,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1798,
@@ -2780,7 +2780,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697638500,
-        "last_update": 1697638572570,
+        "last_update": 1697639475840,
         "live": false,
         "participants": [
             {
@@ -2810,13 +2810,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697638500,
         "season_number": "4",
-        "serial": 1697638572300,
+        "serial": 1697639475585,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 911,
+        "show_duration": 901,
         "show_id": "13592602",
         "show_timestamp": 1697638488,
-        "status": "current",
+        "status": "actual",
         "summary": "Craig tries to rid himself of a bad nickname.",
         "title": "The Quick Name",
         "title_id": "2260158",
@@ -2885,6 +2885,65 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229083_006_02_851",
+        "create_time": 1697556192842,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92618",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697639400,
+        "last_update": 1697639475839,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2021,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697639400,
+        "season_number": "4",
+        "serial": 1697639475585,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 911,
+        "show_id": "13592603",
+        "show_timestamp": 1697639389,
+        "status": "current",
+        "summary": "Craig and his friends find themselves entering a cooking battle for a piece of the cube.",
+        "title": "The Chef's Challenge",
+        "title_id": "2260157",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229083_006_02_851",
         "create_time": 1697546080347,
         "episode_in_season": "6",
         "episode_number": "S4:E06",
@@ -2933,65 +2992,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274116778",
-        "show_timestamp": 1697639400,
-        "status": "estimated",
-        "summary": "Craig and his friends find themselves entering a cooking battle for a piece of the cube.",
-        "title": "The Chef's Challenge",
-        "title_id": "2260157",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229083_006_02_851",
-        "create_time": 1697556192842,
-        "episode_in_season": "6",
-        "episode_number": "S4:E06",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92618",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697639400,
-        "last_update": 1697556192842,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Georgie Kidder",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2021,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697639400,
-        "season_number": "4",
-        "serial": 1697556192248,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13592603",
         "show_timestamp": 1697639400,
         "status": "estimated",
         "summary": "Craig and his friends find themselves entering a cooking battle for a piece of the cube.",
