@@ -894,7 +894,7 @@
             "Family"
         ],
         "guide_timestamp": 1697619600,
-        "last_update": 1697621534374,
+        "last_update": 1697625139673,
         "live": false,
         "participants": [
             {
@@ -910,7 +910,7 @@
         "scheduled_duration": 1824,
         "scheduled_timestamp": 1697619600,
         "season_number": "8",
-        "serial": 1697621534101,
+        "serial": 1697625139460,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1822,
@@ -1126,7 +1126,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697624100,
-        "last_update": 1697624174125,
+        "last_update": 1697625105747,
         "live": false,
         "participants": [
             {
@@ -1166,13 +1166,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697624100,
         "season_number": "5",
-        "serial": 1697624173830,
+        "serial": 1697625105366,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 903,
+        "show_duration": 895,
         "show_id": "13592588",
         "show_timestamp": 1697624097,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball and Darwin have to stop Alan from becoming Class President of Elmore Junior High.",
         "summary_long": "When Gumball and Darwin accidentally find a sinister secret manifesto on Alan's memory stick, they decide they have to foil his plan for total world domination. As the fantasy of Alan's new world order spins out of control, Gumball and Darwin resort to desperate measures.",
         "title": "The Vision",
@@ -1253,6 +1253,76 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228422_005_02_851",
+        "create_time": 1697556191936,
+        "episode_in_season": "5",
+        "episode_number": "S5:E05",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92235",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697625000,
+        "last_update": 1697625105747,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697625000,
+        "season_number": "5",
+        "serial": 1697625105366,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 913,
+        "show_id": "13592589",
+        "show_timestamp": 1697624992,
+        "status": "current",
+        "summary": "Nicole remembers the day she first met Richard and the different choices she could have made.",
+        "summary_long": "When a typically stressful Watterson family dinner pushes her to the edge of her sanity, Nicole starts reminiscing about the time she met Richard. Might her life have been better if she'd never stopped to talk to her future husband and taken a different path instead?",
+        "title": "The Choices",
+        "title_id": "2088999",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228422_005_02_851",
         "create_time": 1697531632298,
         "episode_in_season": "5",
         "episode_number": "S5:E05",
@@ -1311,76 +1381,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274116638",
-        "show_timestamp": 1697625000,
-        "status": "estimated",
-        "summary": "Nicole remembers the day she first met Richard and the different choices she could have made.",
-        "summary_long": "When a typically stressful Watterson family dinner pushes her to the edge of her sanity, Nicole starts reminiscing about the time she met Richard. Might her life have been better if she'd never stopped to talk to her future husband and taken a different path instead?",
-        "title": "The Choices",
-        "title_id": "2088999",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228422_005_02_851",
-        "create_time": 1697556191936,
-        "episode_in_season": "5",
-        "episode_number": "S5:E05",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92235",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697625000,
-        "last_update": 1697556191936,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2016,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697625000,
-        "season_number": "5",
-        "serial": 1697556191639,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13592589",
         "show_timestamp": 1697625000,
         "status": "estimated",
         "summary": "Nicole remembers the day she first met Richard and the different choices she could have made.",
@@ -1476,7 +1476,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697625900,
-        "last_update": 1697556191937,
+        "last_update": 1697625033093,
         "live": false,
         "participants": [
             {
@@ -1516,12 +1516,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697625900,
         "season_number": "5",
-        "serial": 1697556191639,
+        "serial": 1697625032899,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 895,
         "show_id": "13592590",
-        "show_timestamp": 1697625900,
+        "show_timestamp": 1697625910,
         "status": "estimated",
         "summary": "When the Wattersons' internet cuts out, they have to adapt to a world without it.",
         "summary_long": "Gumball learns the Wattersons have been stealing Mr. Robinson's wi-fi for years. When it goes down, they try and live without it but life offline proves too hard. Gumball and Darwin decide to hack their way through cyberspace to learn Mr Robinson's passcode.",
@@ -1616,7 +1616,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697626800,
-        "last_update": 1697575783396,
+        "last_update": 1697625033093,
         "live": false,
         "participants": [
             {
@@ -1656,12 +1656,12 @@
         "scheduled_duration": 910,
         "scheduled_timestamp": 1697626800,
         "season_number": "6",
-        "serial": 1697575783213,
+        "serial": 1697625032899,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 910,
         "show_id": "13592591",
-        "show_timestamp": 1697626800,
+        "show_timestamp": 1697626806,
         "status": "estimated",
         "summary": "Halloween isn't what it used to be. Can Gumball and Darwin help the ghouls get their scare back?",
         "summary_long": "It's Halloween in Elmore. As the kids go trick or treating we see what everyone in town is up to. The ghosts and ghouls are finding it increasingly difficult to scare children, and are only scaring part-time. Can Gumball and Darwin help them get their scare back?",
@@ -1756,7 +1756,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697627700,
-        "last_update": 1697556192837,
+        "last_update": 1697625473205,
         "live": false,
         "participants": [
             {
@@ -1796,12 +1796,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697627700,
         "season_number": "5",
-        "serial": 1697556192248,
+        "serial": 1697625472974,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 895,
         "show_id": "13592592",
-        "show_timestamp": 1697627700,
+        "show_timestamp": 1697627702,
         "status": "estimated",
         "summary": "At Halloween show and tell, the class isn't buying Gumball's story about Gargaroth the Devourer until Carrie fakes a terrifying haunting. The kids convince the school to hire them as ghost exterminators and take their payment in candy.",
         "summary_long": "At Halloween show and tell, the class isn't buying Gumball's story about Gargaroth the Devourer until Carrie fakes a terrifying haunting. The kids convince the school to hire them as ghost exterminators and take their payment in Halloween candy. But when it turns out Gargaroth is real, suddenly Gumball is expected to be the town's savior.",
@@ -1863,7 +1863,7 @@
             "Family"
         ],
         "guide_timestamp": 1697628600,
-        "last_update": 1697556192838,
+        "last_update": 1697625033094,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1871,12 +1871,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697628600,
         "season_number": "1",
-        "serial": 1697556192248,
+        "serial": 1697625032899,
         "series_id": "2357112",
         "series_name": "CoComelon",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13592593",
-        "show_timestamp": 1697628600,
+        "show_timestamp": 1697628601,
         "status": "estimated",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "The Duck Hide and Seek Song/Three Little Kittens/Head Shoulders Knees and Toes/Take Me Out to the Ball Game",
@@ -1937,7 +1937,7 @@
             "Family"
         ],
         "guide_timestamp": 1697629500,
-        "last_update": 1697556192839,
+        "last_update": 1697625033094,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1945,10 +1945,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697629500,
         "season_number": "1",
-        "serial": 1697556192248,
+        "serial": 1697625032899,
         "series_id": "2357112",
         "series_name": "CoComelon",
-        "show_duration": 900,
+        "show_duration": 898,
         "show_id": "13592594",
         "show_timestamp": 1697629500,
         "status": "estimated",
@@ -2010,7 +2010,7 @@
             "Family"
         ],
         "guide_timestamp": 1697630400,
-        "last_update": 1697556192839,
+        "last_update": 1697625033095,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2019,10 +2019,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697630400,
         "season_number": "1",
-        "serial": 1697556192248,
+        "serial": 1697625032899,
         "series_id": "2368373",
         "series_name": "Jessica's Big Little World",
-        "show_duration": 900,
+        "show_duration": 895,
         "show_id": "13592595",
         "show_timestamp": 1697630400,
         "status": "estimated",
@@ -2367,7 +2367,7 @@
             "Family"
         ],
         "guide_timestamp": 1697633100,
-        "last_update": 1697556192840,
+        "last_update": 1697625033095,
         "live": false,
         "participants": [
             {
@@ -2437,10 +2437,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697633100,
         "season_number": "1",
-        "serial": 1697556192248,
+        "serial": 1697625032899,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 900,
+        "show_duration": 895,
         "show_id": "13592598",
         "show_timestamp": 1697633100,
         "status": "estimated",
@@ -2515,7 +2515,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697634000,
-        "last_update": 1697556192841,
+        "last_update": 1697625033749,
         "live": false,
         "participants": [
             {
@@ -2535,10 +2535,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1697634000,
         "season_number": "2",
-        "serial": 1697556192248,
+        "serial": 1697625033493,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1800,
+        "show_duration": 1798,
         "show_id": "13592599",
         "show_timestamp": 1697634000,
         "status": "estimated",
