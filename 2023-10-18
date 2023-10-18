@@ -894,7 +894,7 @@
             "Family"
         ],
         "guide_timestamp": 1697619600,
-        "last_update": 1697625139673,
+        "last_update": 1697629294782,
         "live": false,
         "participants": [
             {
@@ -910,7 +910,7 @@
         "scheduled_duration": 1824,
         "scheduled_timestamp": 1697619600,
         "season_number": "8",
-        "serial": 1697625139460,
+        "serial": 1697629294525,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1822,
@@ -1266,7 +1266,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697625000,
-        "last_update": 1697625964918,
+        "last_update": 1697629571233,
         "live": false,
         "participants": [
             {
@@ -1306,7 +1306,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697625000,
         "season_number": "5",
-        "serial": 1697625964681,
+        "serial": 1697629571015,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 895,
@@ -1826,7 +1826,7 @@
             "Family"
         ],
         "guide_timestamp": 1697628600,
-        "last_update": 1697628683479,
+        "last_update": 1697629507904,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1834,13 +1834,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697628600,
         "season_number": "1",
-        "serial": 1697628683240,
+        "serial": 1697629507603,
         "series_id": "2357112",
         "series_name": "CoComelon",
-        "show_duration": 909,
+        "show_duration": 896,
         "show_id": "13592593",
         "show_timestamp": 1697628588,
-        "status": "current",
+        "status": "actual",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "The Duck Hide and Seek Song/Three Little Kittens/Head Shoulders Knees and Toes/Take Me Out to the Ball Game",
         "title_id": "2435108",
@@ -1887,6 +1887,43 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "252832_003_01_851",
+        "create_time": 1697556192839,
+        "episode_in_season": "3",
+        "episode_number": "1003",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S89508",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1697629500,
+        "last_update": 1697629524986,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697629500,
+        "season_number": "1",
+        "serial": 1697629524697,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 898,
+        "show_id": "13592594",
+        "show_timestamp": 1697629484,
+        "status": "current",
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "The Country Mouse and the City Mouse/Jobs and Career Song",
+        "title_id": "2435109",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "252832_003_01_851",
         "create_time": 1697536182530,
         "episode_in_season": "3",
         "episode_number": "1003",
@@ -1923,38 +1960,38 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "252832_003_01_851",
+        "content_id": "250994_002_02_851",
         "create_time": 1697556192839,
-        "episode_in_season": "3",
-        "episode_number": "1003",
-        "external_id": null,
+        "episode_in_season": "2",
+        "episode_number": "S1:E03",
+        "external_id": "16279909",
         "feed_id": "as-east",
-        "franchise_id": "S89508",
-        "franchise_name": null,
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
         "genres": [
-            "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1697629500,
-        "last_update": 1697625033094,
+        "guide_timestamp": 1697630400,
+        "last_update": 1697629524987,
         "live": false,
         "premiere": false,
         "press_hold": false,
-        "release_year": 2006,
+        "release_year": 2023,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1697629500,
+        "scheduled_timestamp": 1697630400,
         "season_number": "1",
-        "serial": 1697625032899,
-        "series_id": "2357112",
-        "series_name": "CoComelon",
-        "show_duration": 898,
-        "show_id": "13592594",
-        "show_timestamp": 1697629500,
+        "serial": 1697629524697,
+        "series_id": "2368373",
+        "series_name": "Jessica's Big Little World",
+        "show_duration": 895,
+        "show_id": "13592595",
+        "show_timestamp": 1697630384,
         "status": "estimated",
-        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
-        "title": "The Country Mouse and the City Mouse/Jobs and Career Song",
-        "title_id": "2435109",
+        "summary": "Jessica goes in the big kid part of the playground for the first time, and befriends Stanleigh.",
+        "title": "The Big Kid Playground",
+        "title_id": "2368374",
         "tv_rating": "TV-Y"
     },
     {
@@ -1997,38 +2034,74 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "250994_002_02_851",
+        "content_id": "228868_019_02_851",
         "create_time": 1697556192839,
-        "episode_in_season": "2",
-        "episode_number": "S1:E03",
-        "external_id": "16279909",
+        "episode_in_season": "19",
+        "episode_number": "S1:E19",
+        "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "BROADVIEW-CTN",
+        "franchise_id": "S92494",
+        "franchise_name": null,
         "genres": [
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1697630400,
-        "last_update": 1697625033095,
+        "guide_timestamp": 1697631300,
+        "last_update": 1697629524987,
         "live": false,
-        "premiere": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2023,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697630400,
+        "release_year": 2022,
+        "scheduled_duration": 906,
+        "scheduled_timestamp": 1697631300,
         "season_number": "1",
-        "serial": 1697625032899,
-        "series_id": "2368373",
-        "series_name": "Jessica's Big Little World",
-        "show_duration": 895,
-        "show_id": "13592595",
-        "show_timestamp": 1697630400,
+        "serial": 1697629524697,
+        "series_id": "2267111",
+        "series_name": "Batwheels",
+        "show_duration": 906,
+        "show_id": "13592596",
+        "show_timestamp": 1697631287,
         "status": "estimated",
-        "summary": "Jessica goes in the big kid part of the playground for the first time, and befriends Stanleigh.",
-        "title": "The Big Kid Playground",
-        "title_id": "2368374",
+        "summary": "Everyone assumes that Harley Quinn is the culprit in a recent burglary. But as Batman and Bam pursue Harley, Bibi and Redbird begin to suspect that she may actually be innocent.",
+        "title": "Harley Did It",
+        "title_id": "2267137",
         "tv_rating": "TV-Y"
     },
     {
@@ -2107,74 +2180,38 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228868_019_02_851",
-        "create_time": 1697556192839,
-        "episode_in_season": "19",
-        "episode_number": "S1:E19",
+        "content_id": "252832_004_01_851",
+        "create_time": 1697556192840,
+        "episode_in_season": "4",
+        "episode_number": "1004",
         "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "S92494",
+        "franchise_id": "S89508",
         "franchise_name": null,
         "genres": [
+            "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1697631300,
-        "last_update": 1697575784026,
+        "guide_timestamp": 1697632200,
+        "last_update": 1697629594988,
         "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Caroline Kermel",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Fink",
-                "role": "Producer"
-            },
-            {
-                "character": "Buff",
-                "name": "Noah Kaye Bentley",
-                "role": "Voice"
-            },
-            {
-                "character": "Bam",
-                "name": "Jacob Bertrand",
-                "role": "Voice"
-            },
-            {
-                "character": "Batman",
-                "name": "Ethan Hawke",
-                "role": "Voice"
-            },
-            {
-                "character": "Robin",
-                "name": "AJ Hudson",
-                "role": "Voice"
-            },
-            {
-                "character": "Bibi",
-                "name": "Madigan Kacmar",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
-        "release_year": 2022,
-        "scheduled_duration": 906,
-        "scheduled_timestamp": 1697631300,
+        "release_year": 2006,
+        "scheduled_duration": 903,
+        "scheduled_timestamp": 1697632200,
         "season_number": "1",
-        "serial": 1697575783806,
-        "series_id": "2267111",
-        "series_name": "Batwheels",
-        "show_duration": 906,
-        "show_id": "13592596",
-        "show_timestamp": 1697631300,
+        "serial": 1697629594653,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 903,
+        "show_id": "13592597",
+        "show_timestamp": 1697632191,
         "status": "estimated",
-        "summary": "Everyone assumes that Harley Quinn is the culprit in a recent burglary. But as Batman and Bam pursue Harley, Bibi and Redbird begin to suspect that she may actually be innocent.",
-        "title": "Harley Did It",
-        "title_id": "2267137",
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "Ten in the Bed/The Bear Went Over the Mountain/Hickory Dickory Dock",
+        "title_id": "2435110",
         "tv_rating": "TV-Y"
     },
     {
@@ -2217,38 +2254,100 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "252832_004_01_851",
+        "content_id": "228558_026_02_851",
         "create_time": 1697556192840,
-        "episode_in_season": "4",
-        "episode_number": "1004",
+        "episode_in_season": "26",
+        "episode_number": "S1:E31",
         "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "S89508",
+        "franchise_id": "S92277",
         "franchise_name": null,
         "genres": [
             "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1697632200,
-        "last_update": 1697575784026,
+        "guide_timestamp": 1697633100,
+        "last_update": 1697629524989,
         "live": false,
-        "premiere": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2006,
-        "scheduled_duration": 903,
-        "scheduled_timestamp": 1697632200,
+        "release_year": 2021,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697633100,
         "season_number": "1",
-        "serial": 1697575783806,
-        "series_id": "2357112",
-        "series_name": "CoComelon",
-        "show_duration": 903,
-        "show_id": "13592597",
-        "show_timestamp": 1697632200,
+        "serial": 1697629524697,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 895,
+        "show_id": "13592598",
+        "show_timestamp": 1697633095,
         "status": "estimated",
-        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
-        "title": "Ten in the Bed/The Bear Went Over the Mountain/Hickory Dickory Dock",
-        "title_id": "2435110",
+        "summary": "The Beaver Brothers hire The Looney Builders to build them a log cabin, but soon sidetrack the job by goofing around too much.",
+        "title": "Goofballs",
+        "title_id": "2267184",
         "tv_rating": "TV-Y"
     },
     {
@@ -2353,101 +2452,51 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228558_026_02_851",
-        "create_time": 1697556192840,
-        "episode_in_season": "26",
-        "episode_number": "S1:E31",
+        "content_id": "235002_014_02_851",
+        "create_time": 1697556192841,
+        "episode_in_season": "14",
+        "episode_number": "S2:E14",
         "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "S92277",
+        "franchise_id": "S55140",
         "franchise_name": null,
         "genres": [
             "Animation",
             "Children",
-            "Family"
+            "Comedy"
         ],
-        "guide_timestamp": 1697633100,
-        "last_update": 1697625033095,
+        "guide_timestamp": 1697634000,
+        "last_update": 1697629524990,
         "live": false,
         "participants": [
             {
                 "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
                 "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
                 "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
             }
         ],
         "premiere": true,
         "press_hold": false,
-        "release_year": 2021,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697633100,
-        "season_number": "1",
-        "serial": 1697625032899,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 895,
-        "show_id": "13592598",
-        "show_timestamp": 1697633100,
+        "release_year": 2013,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1697634000,
+        "season_number": "2",
+        "serial": 1697629524697,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1798,
+        "show_id": "13592599",
+        "show_timestamp": 1697633998,
         "status": "estimated",
-        "summary": "The Beaver Brothers hire The Looney Builders to build them a log cabin, but soon sidetrack the job by goofing around too much.",
-        "title": "Goofballs",
-        "title_id": "2267184",
-        "tv_rating": "TV-Y"
+        "summary": "Daffy and Porky attend a self-help seminar, which inspires Daffy to want to learn how to fly.  When that doesn't work, he settles for becoming an airline stewardess.",
+        "title": "Spread Those Wings and Fly",
+        "title_id": "894371",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -2501,10 +2550,10 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235002_014_02_851",
+        "content_id": "235002_015_02_851",
         "create_time": 1697556192841,
-        "episode_in_season": "14",
-        "episode_number": "S2:E14",
+        "episode_in_season": "15",
+        "episode_number": "S2:E15",
         "external_id": null,
         "feed_id": "as-east",
         "franchise_id": "S55140",
@@ -2514,8 +2563,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1697634000,
-        "last_update": 1697625033749,
+        "guide_timestamp": 1697635800,
+        "last_update": 1697629524990,
         "live": false,
         "participants": [
             {
@@ -2532,19 +2581,19 @@
         "premiere": true,
         "press_hold": false,
         "release_year": 2013,
-        "scheduled_duration": 1800,
-        "scheduled_timestamp": 1697634000,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1697635800,
         "season_number": "2",
-        "serial": 1697625033493,
+        "serial": 1697629524697,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1798,
-        "show_id": "13592599",
-        "show_timestamp": 1697634000,
+        "show_duration": 1806,
+        "show_id": "13592600",
+        "show_timestamp": 1697635799,
         "status": "estimated",
-        "summary": "Daffy and Porky attend a self-help seminar, which inspires Daffy to want to learn how to fly.  When that doesn't work, he settles for becoming an airline stewardess.",
-        "title": "Spread Those Wings and Fly",
-        "title_id": "894371",
+        "summary": "Daffy decides he needs to go on Spring Break, and drags Porky along when nobody else will go with him.",
+        "title": "The Black Widow",
+        "title_id": "895348",
         "tv_rating": "TV-PG"
     },
     {
@@ -2589,55 +2638,6 @@
         "series_name": "The Looney Tunes Show",
         "show_duration": 1800,
         "show_id": "274116748",
-        "show_timestamp": 1697635800,
-        "status": "estimated",
-        "summary": "Daffy decides he needs to go on Spring Break, and drags Porky along when nobody else will go with him.",
-        "title": "The Black Widow",
-        "title_id": "895348",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "235002_015_02_851",
-        "create_time": 1697556192841,
-        "episode_in_season": "15",
-        "episode_number": "S2:E15",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S55140",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697635800,
-        "last_update": 1697575784027,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2013,
-        "scheduled_duration": 1806,
-        "scheduled_timestamp": 1697635800,
-        "season_number": "2",
-        "serial": 1697575783806,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1806,
-        "show_id": "13592600",
         "show_timestamp": 1697635800,
         "status": "estimated",
         "summary": "Daffy decides he needs to go on Spring Break, and drags Porky along when nobody else will go with him.",
