@@ -294,7 +294,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697691600,
-        "last_update": 1697664203900,
+        "last_update": 1697670219080,
         "live": false,
         "participants": [
             {
@@ -321,13 +321,13 @@
         "premiere": true,
         "press_hold": false,
         "release_year": 2003,
-        "scheduled_duration": 958,
+        "scheduled_duration": 900,
         "scheduled_timestamp": 1697691600,
         "season_number": "2",
-        "serial": 1697664203685,
+        "serial": 1697670218942,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
-        "show_duration": 958,
+        "show_duration": 900,
         "show_id": "13592642",
         "show_timestamp": 1697691600,
         "status": "estimated",
@@ -491,7 +491,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697695200,
-        "last_update": 1697659462113,
+        "last_update": 1697670219080,
         "live": false,
         "participants": [
             {
@@ -534,13 +534,13 @@
         "press_hold": false,
         "release_year": 2009,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1820,
         "scheduled_timestamp": 1697695200,
         "season_number": "4",
-        "serial": 1697659461914,
+        "serial": 1697670218942,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1820,
         "show_id": "13592645",
         "show_timestamp": 1697695200,
         "status": "estimated",
@@ -569,7 +569,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697697000,
-        "last_update": 1697660815945,
+        "last_update": 1697670219081,
         "live": false,
         "participants": [
             {
@@ -612,13 +612,13 @@
         "press_hold": false,
         "release_year": 2023,
         "runtime_minutes": 30,
-        "scheduled_duration": 1831,
+        "scheduled_duration": 1801,
         "scheduled_timestamp": 1697697000,
         "season_number": "18",
-        "serial": 1697660815617,
+        "serial": 1697670218942,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1831,
+        "show_duration": 1801,
         "show_id": "13592646",
         "show_timestamp": 1697697000,
         "status": "estimated",
@@ -922,7 +922,7 @@
             "Family"
         ],
         "guide_timestamp": 1697707800,
-        "last_update": 1697664204385,
+        "last_update": 1697670219081,
         "live": false,
         "participants": [
             {
@@ -935,13 +935,13 @@
         "press_hold": false,
         "release_year": 2017,
         "runtime_minutes": 30,
-        "scheduled_duration": 1875,
+        "scheduled_duration": 1815,
         "scheduled_timestamp": 1697707800,
         "season_number": "8",
-        "serial": 1697664204200,
+        "serial": 1697670218942,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1875,
+        "show_duration": 1815,
         "show_id": "13592652",
         "show_timestamp": 1697707800,
         "status": "estimated",
@@ -5190,6 +5190,100 @@
         "summary_long": "The Belcher kids go to Outdoor Education only to have it rain, but Tina doesn't let the inclement weather get in the way of her having a nature-piphany, with the help of a hermit living in the woods. Meanwhile, Bob and Linda experience what it's like to be empty-nesters.",
         "title": "Go Tina on the Mountain  ",
         "title_id": "2171455",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "166124_016_03_851",
+        "create_time": 1697670219728,
+        "episode_in_season": "16",
+        "episode_number": "S8:E16",
+        "external_id": "16288455",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1697761800,
+        "last_update": 1697670219728,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1697761800,
+        "season_number": "8",
+        "serial": 1697670219488,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13592699",
+        "show_timestamp": 1697761800,
+        "status": "estimated",
+        "summary": "After forgetting Bob's birthday, Linda and the kids attempt to plan a last-minute surprise party. In order to plan the party though, Linda asks Hugo if Bob can go with him while he's doing restaurant health inspections.",
+        "title": "Are You There Bob? It's Me Birthday ",
+        "title_id": "2171456",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "166124_017_03_851",
+        "create_time": 1697670219729,
+        "episode_in_season": "17",
+        "episode_number": "S8:E17",
+        "external_id": "16288505",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1697763600,
+        "last_update": 1697670219729,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1697763600,
+        "season_number": "8",
+        "serial": 1697670219488,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13592700",
+        "show_timestamp": 1697763600,
+        "status": "estimated",
+        "summary": "Tina decides to join the Junior Lifeguards, but one of her fellow junior guards tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free Wi-Fi at the restaurant, but it is soon threatened by a cyber-attack.",
+        "summary_long": "Tina decides to join the Junior Lifeguards, but when she struggles with the training, Parker - one of her fellow junior guards - tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free Wi-Fi at the restaurant, but it is soon threatened by a cyber-attack.",
+        "title": "Boywatch ",
+        "title_id": "2171457",
         "tv_rating": "TV-PG"
     }
 ]
