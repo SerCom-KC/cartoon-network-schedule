@@ -797,5 +797,65 @@
         "title": "Bark Bark Yum Yum",
         "title_id": "2073008",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "251870_008_01_851",
+        "create_time": 1697611806258,
+        "episode_in_season": "8",
+        "episode_number": "S2:E08",
+        "external_id": "16279907",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "BROADVIEW-CTN",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1697704200,
+        "last_update": 1697611806258,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tuca Toucan",
+                "name": "Tiffany Haddish",
+                "role": "Voice"
+            },
+            {
+                "character": "Roberta Songthrush",
+                "name": "Ali Wong",
+                "role": "Voice"
+            },
+            {
+                "character": "Speckle",
+                "name": "Steven Yeun",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Lisa Hanawalt",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1697704200,
+        "season_number": "2",
+        "serial": 1697611806099,
+        "series_id": "2266164",
+        "series_name": "Tuca & Bertie",
+        "show_duration": 1800,
+        "show_id": "13592650",
+        "show_timestamp": 1697704200,
+        "status": "estimated",
+        "summary": "Happy Cadaveri! It's Corpse Week and the gang are visiting Tuca and Bertie's families for the holidays. What's spookier, all the morbid imagery or the complicated family dynamics?",
+        "title": "Corpse Week",
+        "title_id": "2266172",
+        "tv_rating": "TV-14"
     }
 ]
