@@ -815,7 +815,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697704200,
-        "last_update": 1697706037771,
+        "last_update": 1697709639685,
         "live": false,
         "participants": [
             {
@@ -846,7 +846,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1697704200,
         "season_number": "2",
-        "serial": 1697706037568,
+        "serial": 1697709639417,
         "series_id": "2266164",
         "series_name": "Tuca & Bertie",
         "show_duration": 1752,
@@ -922,7 +922,7 @@
             "Family"
         ],
         "guide_timestamp": 1697707800,
-        "last_update": 1697707850322,
+        "last_update": 1697709716423,
         "live": false,
         "participants": [
             {
@@ -938,13 +938,13 @@
         "scheduled_duration": 1815,
         "scheduled_timestamp": 1697707800,
         "season_number": "8",
-        "serial": 1697707849986,
+        "serial": 1697709716051,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1826,
+        "show_duration": 1802,
         "show_id": "13592652",
         "show_timestamp": 1697707789,
-        "status": "current",
+        "status": "actual",
         "summary": "Gene gets invited to his first sleepover and is nervous about it, and when things don't go as planned, he realizes he had a right to be. Meanwhile, Bob and Linda record themselves while sleeping to prove which of them snores more.",
         "title": "Cheer Up Sleepy Gene   ",
         "title_id": "2171453",
@@ -1036,7 +1036,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697709600,
-        "last_update": 1697643706626,
+        "last_update": 1697710585792,
         "live": false,
         "participants": [
             {
@@ -1076,16 +1076,85 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1697709600,
         "season_number": "4",
-        "serial": 1697643706173,
+        "serial": 1697710585526,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 905,
+        "show_duration": 895,
         "show_id": "13592653",
-        "show_timestamp": 1697709600,
-        "status": "estimated",
+        "show_timestamp": 1697709601,
+        "status": "actual",
         "summary": "Gumball develops a strange stutter, and it makes him accidentally offend Darwin.",
         "title": "The Signal",
         "title_id": "2074670",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228427_025_03_851",
+        "create_time": 1697643706627,
+        "episode_in_season": "25",
+        "episode_number": "S4:E25",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92235",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1697710500,
+        "last_update": 1697710631986,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697710500,
+        "season_number": "4",
+        "serial": 1697710631601,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 890,
+        "show_id": "13592654",
+        "show_timestamp": 1697710496,
+        "status": "current",
+        "summary": "Anais has made a new friend, but Gumball and Darwin aren't sure their relationship is equal.",
+        "title": "The Parasite",
+        "title_id": "2074672",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1160,10 +1229,10 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228427_025_03_851",
-        "create_time": 1697643706627,
-        "episode_in_season": "25",
-        "episode_number": "S4:E25",
+        "content_id": "228427_026_03_851",
+        "create_time": 1697643706628,
+        "episode_in_season": "26",
+        "episode_number": "S4:E26",
         "external_id": null,
         "feed_id": "as-east",
         "franchise_id": "S92235",
@@ -1173,8 +1242,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1697710500,
-        "last_update": 1697643706627,
+        "guide_timestamp": 1697711400,
+        "last_update": 1697710631987,
         "live": false,
         "participants": [
             {
@@ -1212,18 +1281,18 @@
         "press_hold": false,
         "release_year": 2016,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1697710500,
+        "scheduled_timestamp": 1697711400,
         "season_number": "4",
-        "serial": 1697643706173,
+        "serial": 1697710631601,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13592654",
-        "show_timestamp": 1697710500,
+        "show_duration": 895,
+        "show_id": "13592655",
+        "show_timestamp": 1697711396,
         "status": "estimated",
-        "summary": "Anais has made a new friend, but Gumball and Darwin aren't sure their relationship is equal.",
-        "title": "The Parasite",
-        "title_id": "2074672",
+        "summary": "The residents of Elmore search for the meaning of love.",
+        "title": "The Love",
+        "title_id": "2074673",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1298,10 +1367,10 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228427_026_03_851",
+        "content_id": "228427_027_03_851",
         "create_time": 1697643706628,
-        "episode_in_season": "26",
-        "episode_number": "S4:E26",
+        "episode_in_season": "27",
+        "episode_number": "S4:E27",
         "external_id": null,
         "feed_id": "as-east",
         "franchise_id": "S92235",
@@ -1311,8 +1380,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1697711400,
-        "last_update": 1697643706628,
+        "guide_timestamp": 1697712300,
+        "last_update": 1697710632024,
         "live": false,
         "participants": [
             {
@@ -1350,18 +1419,18 @@
         "press_hold": false,
         "release_year": 2016,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1697711400,
+        "scheduled_timestamp": 1697712300,
         "season_number": "4",
-        "serial": 1697643706173,
+        "serial": 1697710631601,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13592655",
-        "show_timestamp": 1697711400,
+        "show_duration": 895,
+        "show_id": "13592656",
+        "show_timestamp": 1697712299,
         "status": "estimated",
-        "summary": "The residents of Elmore search for the meaning of love.",
-        "title": "The Love",
-        "title_id": "2074673",
+        "summary": "Gumball is walking in the same direction as Hot Dog Guy, and with each step it becomes increasingly awkward.",
+        "title": "The Awkwardness",
+        "title_id": "2074675",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1426,75 +1495,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274120744",
-        "show_timestamp": 1697712300,
-        "status": "estimated",
-        "summary": "Gumball is walking in the same direction as Hot Dog Guy, and with each step it becomes increasingly awkward.",
-        "title": "The Awkwardness",
-        "title_id": "2074675",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228427_027_03_851",
-        "create_time": 1697643706628,
-        "episode_in_season": "27",
-        "episode_number": "S4:E27",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S92235",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697712300,
-        "last_update": 1697643706628,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2016,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697712300,
-        "season_number": "4",
-        "serial": 1697643706173,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13592656",
         "show_timestamp": 1697712300,
         "status": "estimated",
         "summary": "Gumball is walking in the same direction as Hot Dog Guy, and with each step it becomes increasingly awkward.",
@@ -1729,7 +1729,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697714100,
-        "last_update": 1697643706630,
+        "last_update": 1697710632025,
         "live": false,
         "participants": [
             {
@@ -1769,10 +1769,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697714100,
         "season_number": "4",
-        "serial": 1697643706173,
+        "serial": 1697710631601,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 895,
         "show_id": "13592658",
         "show_timestamp": 1697714100,
         "status": "estimated",
@@ -1836,7 +1836,7 @@
             "Family"
         ],
         "guide_timestamp": 1697715000,
-        "last_update": 1697643706630,
+        "last_update": 1697710632025,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1844,10 +1844,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697715000,
         "season_number": "1",
-        "serial": 1697643706173,
+        "serial": 1697710631601,
         "series_id": "2357112",
         "series_name": "CoComelon",
-        "show_duration": 900,
+        "show_duration": 898,
         "show_id": "13592659",
         "show_timestamp": 1697715000,
         "status": "estimated",
@@ -1910,7 +1910,7 @@
             "Family"
         ],
         "guide_timestamp": 1697715900,
-        "last_update": 1697643707600,
+        "last_update": 1697710632026,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1918,10 +1918,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697715900,
         "season_number": "1",
-        "serial": 1697643706986,
+        "serial": 1697710631601,
         "series_id": "2357112",
         "series_name": "CoComelon",
-        "show_duration": 900,
+        "show_duration": 899,
         "show_id": "13592660",
         "show_timestamp": 1697715900,
         "status": "estimated",
@@ -2340,7 +2340,7 @@
             "Family"
         ],
         "guide_timestamp": 1697719500,
-        "last_update": 1697643707601,
+        "last_update": 1697710632567,
         "live": false,
         "participants": [
             {
@@ -2410,10 +2410,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697719500,
         "season_number": "1",
-        "serial": 1697643706986,
+        "serial": 1697710632373,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13592664",
         "show_timestamp": 1697719500,
         "status": "estimated",
@@ -2488,7 +2488,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697720400,
-        "last_update": 1697643707601,
+        "last_update": 1697710632568,
         "live": false,
         "participants": [
             {
@@ -2508,10 +2508,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1697720400,
         "season_number": "2",
-        "serial": 1697643706986,
+        "serial": 1697710632373,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1800,
+        "show_duration": 1788,
         "show_id": "13592665",
         "show_timestamp": 1697720400,
         "status": "estimated",
