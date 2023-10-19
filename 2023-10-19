@@ -1381,7 +1381,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697712300,
-        "last_update": 1697713259666,
+        "last_update": 1697716860881,
         "live": false,
         "participants": [
             {
@@ -1421,7 +1421,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697712300,
         "season_number": "4",
-        "serial": 1697713259421,
+        "serial": 1697716860618,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 896,
@@ -1519,7 +1519,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1697713200,
-        "last_update": 1697714101555,
+        "last_update": 1697717708106,
         "live": false,
         "participants": [
             {
@@ -1559,7 +1559,7 @@
         "scheduled_duration": 910,
         "scheduled_timestamp": 1697713200,
         "season_number": "4",
-        "serial": 1697714101034,
+        "serial": 1697717707798,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 910,
@@ -1873,7 +1873,7 @@
             "Family"
         ],
         "guide_timestamp": 1697715900,
-        "last_update": 1697715968823,
+        "last_update": 1697716910247,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1881,13 +1881,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1697715900,
         "season_number": "1",
-        "serial": 1697715968438,
+        "serial": 1697716909947,
         "series_id": "2357112",
         "series_name": "CoComelon",
-        "show_duration": 940,
+        "show_duration": 899,
         "show_id": "13592660",
         "show_timestamp": 1697715882,
-        "status": "current",
+        "status": "actual",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "The Hiccup Song/ The Laughing Song/ Happy Birthday Song/ Rock-a-bye Baby/ Skidamarink",
         "title_id": "2435678",
@@ -1934,6 +1934,43 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "250994_003_02_851",
+        "create_time": 1697643707600,
+        "episode_in_season": "3",
+        "episode_number": "S1:E02",
+        "external_id": "16279910",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jessica's Big Little World",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1697716800,
+        "last_update": 1697717727728,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1697716800,
+        "season_number": "1",
+        "serial": 1697717727558,
+        "series_id": "2368373",
+        "series_name": "Jessica's Big Little World",
+        "show_duration": 911,
+        "show_id": "13592661",
+        "show_timestamp": 1697716781,
+        "status": "actual",
+        "summary": "When Jessica discovers her favorite toy is dirty she volunteers to give him a bath.",
+        "title": "Small Uncle's Big Bath",
+        "title_id": "2368375",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250994_003_02_851",
         "create_time": 1697623378917,
         "episode_in_season": "3",
         "episode_number": "S1:E02",
@@ -1970,38 +2007,74 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "250994_003_02_851",
+        "content_id": "228868_020_02_851",
         "create_time": 1697643707600,
-        "episode_in_season": "3",
-        "episode_number": "S1:E02",
-        "external_id": "16279910",
+        "episode_in_season": "20",
+        "episode_number": "S1:E20",
+        "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Jessica's Big Little World",
+        "franchise_id": "S92494",
+        "franchise_name": null,
         "genres": [
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1697716800,
-        "last_update": 1697715920979,
+        "guide_timestamp": 1697717700,
+        "last_update": 1697717765086,
         "live": false,
-        "premiere": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2023,
-        "runtime_minutes": 15,
-        "scheduled_duration": 910,
-        "scheduled_timestamp": 1697716800,
+        "release_year": 2022,
+        "scheduled_duration": 904,
+        "scheduled_timestamp": 1697717700,
         "season_number": "1",
-        "serial": 1697715920767,
-        "series_id": "2368373",
-        "series_name": "Jessica's Big Little World",
-        "show_duration": 910,
-        "show_id": "13592661",
-        "show_timestamp": 1697716823,
-        "status": "estimated",
-        "summary": "When Jessica discovers her favorite toy is dirty she volunteers to give him a bath.",
-        "title": "Small Uncle's Big Bath",
-        "title_id": "2368375",
+        "serial": 1697717764821,
+        "series_id": "2267111",
+        "series_name": "Batwheels",
+        "show_duration": 904,
+        "show_id": "13592662",
+        "show_timestamp": 1697717692,
+        "status": "current",
+        "summary": "Buff trains with Batwing to improve his gracefulness and uses her lessons on a delicate mission against the Riddler.",
+        "title": "Buff in a China Shop",
+        "title_id": "2267148",
         "tv_rating": "TV-Y"
     },
     {
@@ -2080,74 +2153,38 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228868_020_02_851",
+        "content_id": "252832_007_01_851",
         "create_time": 1697643707600,
-        "episode_in_season": "20",
-        "episode_number": "S1:E20",
+        "episode_in_season": "7",
+        "episode_number": "1007",
         "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "S92494",
+        "franchise_id": "S89508",
         "franchise_name": null,
         "genres": [
+            "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1697717700,
-        "last_update": 1697715920979,
+        "guide_timestamp": 1697718600,
+        "last_update": 1697717765087,
         "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Caroline Kermel",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Fink",
-                "role": "Producer"
-            },
-            {
-                "character": "Buff",
-                "name": "Noah Kaye Bentley",
-                "role": "Voice"
-            },
-            {
-                "character": "Bam",
-                "name": "Jacob Bertrand",
-                "role": "Voice"
-            },
-            {
-                "character": "Batman",
-                "name": "Ethan Hawke",
-                "role": "Voice"
-            },
-            {
-                "character": "Robin",
-                "name": "AJ Hudson",
-                "role": "Voice"
-            },
-            {
-                "character": "Bibi",
-                "name": "Madigan Kacmar",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
-        "release_year": 2022,
-        "scheduled_duration": 904,
-        "scheduled_timestamp": 1697717700,
+        "release_year": 2006,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1697718600,
         "season_number": "1",
-        "serial": 1697715920767,
-        "series_id": "2267111",
-        "series_name": "Batwheels",
-        "show_duration": 904,
-        "show_id": "13592662",
-        "show_timestamp": 1697717719,
+        "serial": 1697717764821,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 901,
+        "show_id": "13592663",
+        "show_timestamp": 1697718592,
         "status": "estimated",
-        "summary": "Buff trains with Batwing to improve his gracefulness and uses her lessons on a delicate mission against the Riddler.",
-        "title": "Buff in a China Shop",
-        "title_id": "2267148",
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "Are You Sleeping (Brother John)?/ Hot Cross Buns/ Clean Up Song/ Three Little Pigs V2 (Pirate Version)",
+        "title_id": "2435679",
         "tv_rating": "TV-Y"
     },
     {
@@ -2190,38 +2227,100 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "252832_007_01_851",
-        "create_time": 1697643707600,
-        "episode_in_season": "7",
-        "episode_number": "1007",
+        "content_id": "228558_028_02_851",
+        "create_time": 1697643707601,
+        "episode_in_season": "28",
+        "episode_number": "S1:E32",
         "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "S89508",
+        "franchise_id": "S92277",
         "franchise_name": null,
         "genres": [
             "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1697718600,
-        "last_update": 1697716355888,
+        "guide_timestamp": 1697719500,
+        "last_update": 1697717765088,
         "live": false,
-        "premiere": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2006,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1697718600,
+        "release_year": 2021,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1697719500,
         "season_number": "1",
-        "serial": 1697716355683,
-        "series_id": "2357112",
-        "series_name": "CoComelon",
-        "show_duration": 901,
-        "show_id": "13592663",
-        "show_timestamp": 1697718615,
+        "serial": 1697717764821,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 896,
+        "show_id": "13592664",
+        "show_timestamp": 1697719495,
         "status": "estimated",
-        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
-        "title": "Are You Sleeping (Brother John)?/ Hot Cross Buns/ Clean Up Song/ Three Little Pigs V2 (Pirate Version)",
-        "title_id": "2435679",
+        "summary": "The Looney Builders build a skate park for the kids, but it soon interferes with Hoots Talon and his friends' activities.",
+        "title": "Skate Park",
+        "title_id": "2267185",
         "tv_rating": "TV-Y"
     },
     {
@@ -2326,101 +2425,51 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228558_028_02_851",
+        "content_id": "235002_016_02_851",
         "create_time": 1697643707601,
-        "episode_in_season": "28",
-        "episode_number": "S1:E32",
+        "episode_in_season": "16",
+        "episode_number": "S2:E16",
         "external_id": null,
         "feed_id": "as-east",
-        "franchise_id": "S92277",
+        "franchise_id": "S55140",
         "franchise_name": null,
         "genres": [
             "Animation",
             "Children",
-            "Family"
+            "Comedy"
         ],
-        "guide_timestamp": 1697719500,
-        "last_update": 1697715920980,
+        "guide_timestamp": 1697720400,
+        "last_update": 1697717765088,
         "live": false,
         "participants": [
             {
                 "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
                 "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
                 "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
             }
         ],
         "premiere": true,
         "press_hold": false,
-        "release_year": 2021,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1697719500,
-        "season_number": "1",
-        "serial": 1697715920767,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 896,
-        "show_id": "13592664",
-        "show_timestamp": 1697719511,
+        "release_year": 2013,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1697720400,
+        "season_number": "2",
+        "serial": 1697717764821,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1788,
+        "show_id": "13592665",
+        "show_timestamp": 1697720399,
         "status": "estimated",
-        "summary": "The Looney Builders build a skate park for the kids, but it soon interferes with Hoots Talon and his friends' activities.",
-        "title": "Skate Park",
-        "title_id": "2267185",
-        "tv_rating": "TV-Y"
+        "summary": "Tensions flare when Bugs and Porky start a business together selling carrot cake.",
+        "title": "Mrs. Porkbunny's",
+        "title_id": "896891",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -2465,55 +2514,6 @@
         "show_duration": 1800,
         "show_id": "274120834",
         "show_timestamp": 1697720400,
-        "status": "estimated",
-        "summary": "Tensions flare when Bugs and Porky start a business together selling carrot cake.",
-        "title": "Mrs. Porkbunny's",
-        "title_id": "896891",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "235002_016_02_851",
-        "create_time": 1697643707601,
-        "episode_in_season": "16",
-        "episode_number": "S2:E16",
-        "external_id": null,
-        "feed_id": "as-east",
-        "franchise_id": "S55140",
-        "franchise_name": null,
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1697720400,
-        "last_update": 1697715920980,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2013,
-        "scheduled_duration": 1800,
-        "scheduled_timestamp": 1697720400,
-        "season_number": "2",
-        "serial": 1697715920767,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1788,
-        "show_id": "13592665",
-        "show_timestamp": 1697720407,
         "status": "estimated",
         "summary": "Tensions flare when Bugs and Porky start a business together selling carrot cake.",
         "title": "Mrs. Porkbunny's",
