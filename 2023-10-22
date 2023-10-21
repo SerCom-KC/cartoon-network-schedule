@@ -2872,5 +2872,160 @@
         "title": "The Saint",
         "title_id": "2034047",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228423_051_02_851",
+        "create_time": 1697915029130,
+        "episode_in_season": "51",
+        "episode_number": "S6:E51",
+        "external_id": "16297435",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1698007500,
+        "last_update": 1697915029130,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 911,
+        "scheduled_timestamp": 1698007500,
+        "season_number": "6",
+        "serial": 1697915028737,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 911,
+        "show_id": "13592810",
+        "show_timestamp": 1698007500,
+        "status": "estimated",
+        "summary": "When Gumball's schoolfriend Leslie finds an old video tape, the creepy mystery of Elmore's ghostly past unfolds. Featuring spooky and hilarious clips from the first six seasons of 'The Amazing World of Gumball'.",
+        "title": "The Gumball Chronicles: The Curse of Elmore",
+        "title_id": "2230106",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "135196_000_05_851",
+        "create_time": 1697915029166,
+        "external_id": "16288322",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Beetlejuice",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1698008400,
+        "last_update": 1697915029166,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Tim Burton",
+                "role": "Director"
+            },
+            {
+                "character": "Betelgeuse",
+                "name": "Michael Keaton",
+                "role": "Actor"
+            },
+            {
+                "character": "Adam Maitland",
+                "name": "Alec Baldwin",
+                "role": "Actor"
+            },
+            {
+                "character": "Barbara Maitland",
+                "name": "Geena Davis",
+                "role": "Actor"
+            },
+            {
+                "character": "Lydia Deetz",
+                "name": "Winona Ryder",
+                "role": "Actor"
+            },
+            {
+                "character": "Charles Deetz",
+                "name": "Jeffrey Jones",
+                "role": "Actor"
+            },
+            {
+                "character": "Delia Deetz",
+                "name": "Catherine O'Hara",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Michael McDowell",
+                "role": "Screenplay"
+            },
+            {
+                "character": null,
+                "name": "Warren Skaaren",
+                "role": "Screenplay"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1988,
+        "runtime_minutes": 92,
+        "scheduled_duration": 7202,
+        "scheduled_timestamp": 1698008400,
+        "serial": 1697915028737,
+        "series_name": "",
+        "show_duration": 7202,
+        "show_id": "13592811",
+        "show_timestamp": 1698008400,
+        "status": "estimated",
+        "summary": "The ghosts of a happy couple enlist a bio-exorcist to evict the new owners of their former home.",
+        "title": "Beetlejuice",
+        "title_id": "68348",
+        "tv_rating": "TV-PG"
     }
 ]
