@@ -5454,5 +5454,54 @@
         "title": "Aisle 8A",
         "title_id": "731285",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "169767_007_04_851",
+        "create_time": 1698186568644,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "16312803",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1698278400,
+        "last_update": 1698186568644,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1698278400,
+        "season_number": "1",
+        "serial": 1698186568208,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1803,
+        "show_id": "13593018",
+        "show_timestamp": 1698278400,
+        "status": "estimated",
+        "summary": "With a long weekend approaching, Linda sees an opportunity to capitalize on the tourist traffic by turning their home into a bed and breakfast. As usual, she goes overboard and gets a little crazy when her efforts aren't appreciated.",
+        "title": "Bed & Breakfast",
+        "title_id": "2003429",
+        "tv_rating": "TV-14"
     }
 ]
