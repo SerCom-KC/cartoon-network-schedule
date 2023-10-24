@@ -2707,7 +2707,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698152400,
-        "last_update": 1698154248849,
+        "last_update": 1698157849809,
         "live": false,
         "participants": [
             {
@@ -2728,7 +2728,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1698152400,
         "season_number": "2",
-        "serial": 1698154248590,
+        "serial": 1698157849505,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1794,
@@ -3027,7 +3027,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698156900,
-        "last_update": 1698156927608,
+        "last_update": 1698157830618,
         "live": false,
         "participants": [
             {
@@ -3058,13 +3058,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1698156900,
         "season_number": "4",
-        "serial": 1698156927161,
+        "serial": 1698157830314,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 902,
+        "show_duration": 901,
         "show_id": "13592920",
         "show_timestamp": 1698156897,
-        "status": "current",
+        "status": "actual",
         "summary": "Craig joins his former enemies, the Champions of the Other Side of the Creek, on a hike to a secret waterfall.",
         "title": "The Champion's Hike",
         "title_id": "2266835",
@@ -3134,6 +3134,66 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229083_022_02_851",
+        "create_time": 1698077194988,
+        "episode_in_season": "22",
+        "episode_number": "S4:E22",
+        "external_id": "16297929",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1698157800,
+        "last_update": 1698157857108,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1698157800,
+        "season_number": "4",
+        "serial": 1698157856763,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 901,
+        "show_id": "13592921",
+        "show_timestamp": 1698157798,
+        "status": "current",
+        "summary": "Bored on a rainy day, Craig, Kelsey and JP put together their broken board games and find themselves transported into the ultimate gaming challenge.",
+        "title": "Bored Games",
+        "title_id": "2266833",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229083_022_02_851",
         "create_time": 1698064609856,
         "episode_in_season": "22",
         "episode_number": "S4:E22",
@@ -3193,11 +3253,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229083_022_02_851",
+        "content_id": "229083_023_02_851",
         "create_time": 1698077194988,
-        "episode_in_season": "22",
-        "episode_number": "S4:E22",
-        "external_id": "16297929",
+        "episode_in_season": "23",
+        "episode_number": "S4:E23",
+        "external_id": "16297930",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -3206,8 +3266,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1698157800,
-        "last_update": 1698093962749,
+        "guide_timestamp": 1698158700,
+        "last_update": 1698157857108,
         "live": false,
         "participants": [
             {
@@ -3235,19 +3295,19 @@
         "press_hold": false,
         "release_year": 2021,
         "runtime_minutes": 15,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1698157800,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1698158700,
         "season_number": "4",
-        "serial": 1698093962357,
+        "serial": 1698157856763,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 901,
-        "show_id": "13592921",
-        "show_timestamp": 1698157800,
+        "show_duration": 900,
+        "show_id": "13592922",
+        "show_timestamp": 1698158698,
         "status": "estimated",
-        "summary": "Bored on a rainy day, Craig, Kelsey and JP put together their broken board games and find themselves transported into the ultimate gaming challenge.",
-        "title": "Bored Games",
-        "title_id": "2266833",
+        "summary": "Craig finds himself with an unlikely house guest when Jason the Junior Forest Scout sleeps over.",
+        "title": "Scoutguest",
+        "title_id": "2266836",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3313,62 +3373,73 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229083_023_02_851",
-        "create_time": 1698077194988,
-        "episode_in_season": "23",
-        "episode_number": "S4:E23",
-        "external_id": "16297930",
+        "content_id": "228422_038_02_851",
+        "create_time": 1698077194989,
+        "episode_in_season": "38",
+        "episode_number": "S5:E38",
+        "external_id": "16297931",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
+        "franchise_name": "Amazing World of Gumball, The",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1698158700,
-        "last_update": 1698077194988,
+        "guide_timestamp": 1698159600,
+        "last_update": 1698157857144,
         "live": false,
         "participants": [
             {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
                 "role": "Voice"
             },
             {
-                "character": "Kelsey",
-                "name": "Georgie Kidder",
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
                 "role": "Voice"
             },
             {
-                "character": "Kelsey",
-                "name": "Noel Wells",
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
                 "role": "Voice"
             },
             {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
                 "role": "Voice"
             }
         ],
-        "premiere": false,
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2021,
+        "release_year": 2016,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1698158700,
-        "season_number": "4",
-        "serial": 1698077194386,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13592922",
-        "show_timestamp": 1698158700,
+        "scheduled_timestamp": 1698159600,
+        "season_number": "5",
+        "serial": 1698157856763,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 895,
+        "show_id": "13592923",
+        "show_timestamp": 1698159599,
         "status": "estimated",
-        "summary": "Craig finds himself with an unlikely house guest when Jason the Junior Forest Scout sleeps over.",
-        "title": "Scoutguest",
-        "title_id": "2266836",
-        "tv_rating": "TV-Y7"
+        "summary": "The Wattersons will do whatever it takes to get into the first screening of the latest Stellar Odyssey sequel.",
+        "summary_long": "The family has waited in line outside the movie theater all night. They are devastated when Larry tells them they won't get into the first screening of the Stellar Odyssey sequel. But, hardcore fans that they are, the Wattersons are determined to be the first to see the movie and so set about battling their way to the front of the queue.",
+        "title": "The Line",
+        "title_id": "2089031",
+        "tv_rating": "TV-Y7-FV"
     },
     {
         "blackout_type": "none",
@@ -3444,11 +3515,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228422_038_02_851",
+        "content_id": "228423_001_04_851",
         "create_time": 1698077194989,
-        "episode_in_season": "38",
-        "episode_number": "S5:E38",
-        "external_id": "16297931",
+        "episode_in_season": "1",
+        "episode_number": "S6:E01",
+        "external_id": "16297932",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -3457,8 +3528,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1698159600,
-        "last_update": 1698077194989,
+        "guide_timestamp": 1698160500,
+        "last_update": 1698158297712,
         "live": false,
         "participants": [
             {
@@ -3492,24 +3563,24 @@
                 "role": "Voice"
             }
         ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
-        "release_year": 2016,
+        "release_year": 2017,
         "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1698159600,
-        "season_number": "5",
-        "serial": 1698077194386,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1698160500,
+        "season_number": "6",
+        "serial": 1698158297357,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13592923",
-        "show_timestamp": 1698159600,
+        "show_duration": 910,
+        "show_id": "13592924",
+        "show_timestamp": 1698160499,
         "status": "estimated",
-        "summary": "The Wattersons will do whatever it takes to get into the first screening of the latest Stellar Odyssey sequel.",
-        "summary_long": "The family has waited in line outside the movie theater all night. They are devastated when Larry tells them they won't get into the first screening of the Stellar Odyssey sequel. But, hardcore fans that they are, the Wattersons are determined to be the first to see the movie and so set about battling their way to the front of the queue.",
-        "title": "The Line",
-        "title_id": "2089031",
+        "summary": "Sparks fly between Gumball and Darwin and a new member of the Watterson family.",
+        "summary_long": "The Wattersons look back on Anais' first days in the Watterson house. Gumball and Darwin quickly find themselves up an opponent who is able to outsmart them at every turn.",
+        "title": "The Rival",
+        "title_id": "2131265",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -3575,77 +3646,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274141384",
-        "show_timestamp": 1698160500,
-        "status": "estimated",
-        "summary": "Sparks fly between Gumball and Darwin and a new member of the Watterson family.",
-        "summary_long": "The Wattersons look back on Anais' first days in the Watterson house. Gumball and Darwin quickly find themselves up an opponent who is able to outsmart them at every turn.",
-        "title": "The Rival",
-        "title_id": "2131265",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228423_001_04_851",
-        "create_time": 1698077194989,
-        "episode_in_season": "1",
-        "episode_number": "S6:E01",
-        "external_id": "16297932",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1698160500,
-        "last_update": 1698093962750,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 15,
-        "scheduled_duration": 910,
-        "scheduled_timestamp": 1698160500,
-        "season_number": "6",
-        "serial": 1698093962357,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 910,
-        "show_id": "13592924",
         "show_timestamp": 1698160500,
         "status": "estimated",
         "summary": "Sparks fly between Gumball and Darwin and a new member of the Watterson family.",
@@ -3742,7 +3742,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698161400,
-        "last_update": 1698077194989,
+        "last_update": 1698157857145,
         "live": false,
         "participants": [
             {
@@ -3783,10 +3783,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1698161400,
         "season_number": "6",
-        "serial": 1698077194386,
+        "serial": 1698157856763,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 880,
         "show_id": "13592925",
         "show_timestamp": 1698161400,
         "status": "estimated",
@@ -4014,7 +4014,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1698163200,
-        "last_update": 1698077196088,
+        "last_update": 1698157857145,
         "live": false,
         "participants": [
             {
@@ -4045,10 +4045,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1698163200,
         "season_number": "2",
-        "serial": 1698077195714,
+        "serial": 1698157856763,
         "series_id": "2168685",
         "series_name": "Scooby-Doo and Guess Who?",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "13592927",
         "show_timestamp": 1698163200,
         "status": "estimated",
@@ -4134,7 +4134,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1698165000,
-        "last_update": 1698077196088,
+        "last_update": 1698157857146,
         "live": false,
         "participants": [
             {
@@ -4165,10 +4165,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1698165000,
         "season_number": "2",
-        "serial": 1698077195714,
+        "serial": 1698157856763,
         "series_id": "2168685",
         "series_name": "Scooby-Doo and Guess Who?",
-        "show_duration": 1800,
+        "show_duration": 1796,
         "show_id": "13592928",
         "show_timestamp": 1698165000,
         "status": "estimated",
