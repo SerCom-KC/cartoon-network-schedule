@@ -2630,7 +2630,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698238800,
-        "last_update": 1698240640554,
+        "last_update": 1698244243116,
         "live": false,
         "participants": [
             {
@@ -2651,7 +2651,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1698238800,
         "season_number": "2",
-        "serial": 1698240640226,
+        "serial": 1698244242854,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1801,
@@ -2950,7 +2950,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698243300,
-        "last_update": 1698243368312,
+        "last_update": 1698244293274,
         "live": false,
         "participants": [
             {
@@ -2981,13 +2981,13 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1698243300,
         "season_number": "5",
-        "serial": 1698243367982,
+        "serial": 1698244293038,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 912,
+        "show_duration": 901,
         "show_id": "13592988",
         "show_timestamp": 1698243288,
-        "status": "current",
+        "status": "actual",
         "summary": "The former King of the Other Side of the Creek shares his story.",
         "title": "The Once And Future King",
         "title_id": "2396427",
@@ -3057,6 +3057,66 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "246605_034_02_851",
+        "create_time": 1698160118385,
+        "episode_in_season": "34",
+        "episode_number": "S5:E04",
+        "external_id": "16312774",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1698244200,
+        "last_update": 1698244293273,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1698244200,
+        "season_number": "5",
+        "serial": 1698244293038,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 911,
+        "show_id": "13592989",
+        "show_timestamp": 1698244189,
+        "status": "current",
+        "summary": "Maya makes her way back into the world of sports.",
+        "title": "A League of Maya's Own",
+        "title_id": "2396430",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "246605_034_02_851",
         "create_time": 1698151874365,
         "episode_in_season": "34",
         "episode_number": "S5:E04",
@@ -3106,66 +3166,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274145450",
-        "show_timestamp": 1698244200,
-        "status": "estimated",
-        "summary": "Maya makes her way back into the world of sports.",
-        "title": "A League of Maya's Own",
-        "title_id": "2396430",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "246605_034_02_851",
-        "create_time": 1698160118385,
-        "episode_in_season": "34",
-        "episode_number": "S5:E04",
-        "external_id": "16312774",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1698244200,
-        "last_update": 1698160118385,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Georgie Kidder",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2023,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1698244200,
-        "season_number": "5",
-        "serial": 1698160117710,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13592989",
         "show_timestamp": 1698244200,
         "status": "estimated",
         "summary": "Maya makes her way back into the world of sports.",
