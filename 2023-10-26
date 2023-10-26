@@ -1312,7 +1312,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698315300,
-        "last_update": 1698316230133,
+        "last_update": 1698319830727,
         "live": false,
         "participants": [
             {
@@ -1353,7 +1353,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1698315300,
         "season_number": "5",
-        "serial": 1698316229896,
+        "serial": 1698319830409,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 895,
@@ -1880,7 +1880,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698318900,
-        "last_update": 1698318994712,
+        "last_update": 1698319853787,
         "live": false,
         "participants": [
             {
@@ -1921,13 +1921,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1698318900,
         "season_number": "5",
-        "serial": 1698318994467,
+        "serial": 1698319853331,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 892,
+        "show_duration": 895,
         "show_id": "13593046",
         "show_timestamp": 1698318894,
-        "status": "current",
+        "status": "actual",
         "summary": "The residents of Elmore go to extreme lengths to ditch the Wattersons.",
         "summary_long": "The Wattersons fear the worst when they are summoned to a Town Hall meeting, but are pleasantly surprised when they're offered a brand new house.  Until they discover it's in a different state! The Mayor of Elmore has decided they are bringing down the real estate value of the entire town so the family have to prove that they're upstanding members of the community.",
         "title": "The Nuisance",
@@ -2022,7 +2022,7 @@
             "Family"
         ],
         "guide_timestamp": 1698319800,
-        "last_update": 1698318994713,
+        "last_update": 1698319853786,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2031,13 +2031,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1698319800,
         "season_number": "1",
-        "serial": 1698318994467,
+        "serial": 1698319853331,
         "series_id": "2357112",
         "series_name": "CoComelon",
-        "show_duration": 899,
+        "show_duration": 918,
         "show_id": "13593047",
-        "show_timestamp": 1698319795,
-        "status": "estimated",
+        "show_timestamp": 1698319789,
+        "status": "current",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "The Boo Boo Song/ Potty Training Song/ My Daddy Song/ Peek A Boo",
         "title_id": "2435692",
@@ -2079,80 +2079,6 @@
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "The Boo Boo Song/ Potty Training Song/ My Daddy Song/ Peek A Boo",
         "title_id": "2435692",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228868_024_02_851",
-        "create_time": 1698246496714,
-        "episode_in_season": "24",
-        "episode_number": "S1:E24",
-        "external_id": "16312833",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Batwheels",
-        "genres": [
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1698320700,
-        "last_update": 1698315334647,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Caroline Kermel",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Fink",
-                "role": "Producer"
-            },
-            {
-                "character": "Buff",
-                "name": "Noah Kaye Bentley",
-                "role": "Voice"
-            },
-            {
-                "character": "Bam",
-                "name": "Jacob Bertrand",
-                "role": "Voice"
-            },
-            {
-                "character": "Batman",
-                "name": "Ethan Hawke",
-                "role": "Voice"
-            },
-            {
-                "character": "Robin",
-                "name": "AJ Hudson",
-                "role": "Voice"
-            },
-            {
-                "character": "Bibi",
-                "name": "Madigan Kacmar",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2022,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1698320700,
-        "season_number": "1",
-        "serial": 1698315334199,
-        "series_id": "2267111",
-        "series_name": "Batwheels",
-        "show_duration": 892,
-        "show_id": "13593048",
-        "show_timestamp": 1698320699,
-        "status": "estimated",
-        "summary": "After Kitty the Catmobile saves Bam when he's in a tight spot, Bam decides to take her on a ride along patrol in the hopes of recruiting her as a Batwheel if he can convince her to stop playing long enough to focus on their mission!",
-        "title": "Ride Along",
-        "title_id": "2267138",
         "tv_rating": "TV-Y"
     },
     {
@@ -2232,6 +2158,80 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228868_024_02_851",
+        "create_time": 1698246496714,
+        "episode_in_season": "24",
+        "episode_number": "S1:E24",
+        "external_id": "16312833",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Batwheels",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1698320700,
+        "last_update": 1698319814348,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1698320700,
+        "season_number": "1",
+        "serial": 1698319814048,
+        "series_id": "2267111",
+        "series_name": "Batwheels",
+        "show_duration": 892,
+        "show_id": "13593048",
+        "show_timestamp": 1698320708,
+        "status": "estimated",
+        "summary": "After Kitty the Catmobile saves Bam when he's in a tight spot, Bam decides to take her on a ride along patrol in the hopes of recruiting her as a Batwheel if he can convince her to stop playing long enough to focus on their mission!",
+        "title": "Ride Along",
+        "title_id": "2267138",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "252832_021_01_851",
         "create_time": 1698228982631,
         "episode_in_season": "21",
@@ -2284,7 +2284,7 @@
             "Family"
         ],
         "guide_timestamp": 1698321600,
-        "last_update": 1698317168522,
+        "last_update": 1698319814350,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2293,12 +2293,12 @@
         "scheduled_duration": 903,
         "scheduled_timestamp": 1698321600,
         "season_number": "1",
-        "serial": 1698317168138,
+        "serial": 1698319814048,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 903,
         "show_id": "13593049",
-        "show_timestamp": 1698321600,
+        "show_timestamp": 1698321604,
         "status": "estimated",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "Shape Song/ My Body Song/ Hide and Go Seek in the Snow (Jingle Bells)",
@@ -2574,7 +2574,7 @@
             "Family"
         ],
         "guide_timestamp": 1698324300,
-        "last_update": 1698246496718,
+        "last_update": 1698319814350,
         "live": false,
         "participants": [
             {
@@ -2645,10 +2645,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1698324300,
         "season_number": "1",
-        "serial": 1698246496051,
+        "serial": 1698319814048,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 900,
+        "show_duration": 895,
         "show_id": "13593052",
         "show_timestamp": 1698324300,
         "status": "estimated",
