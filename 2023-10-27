@@ -221,5 +221,82 @@
         "title": "Vampirus",
         "title_id": "846831",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232842_003_02_851",
+        "create_time": 1698291684795,
+        "episode_in_season": "3",
+        "episode_number": "S6:E03",
+        "external_id": "16312883",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1698384600,
+        "last_update": 1698291684795,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1698384600,
+        "season_number": "6",
+        "serial": 1698291684581,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13593098",
+        "show_timestamp": 1698384600,
+        "status": "estimated",
+        "summary": "After hosting the scariest haunted house in the neighborhood for years, Stan is threatened by a competitive neighbor.",
+        "title": "Best Little Horror House in Langley Falls",
+        "title_id": "822206",
+        "tv_rating": "TV-14"
     }
 ]
