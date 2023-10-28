@@ -1205,5 +1205,77 @@
         "title": "Grilled Cheese Deluxe",
         "title_id": "810161",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229019_024_02_851",
+        "create_time": 1698489510118,
+        "episode_in_season": "24",
+        "episode_number": "S6:E24",
+        "external_id": "16321813",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1698582600,
+        "last_update": 1698489510118,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 22,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1698582600,
+        "season_number": "6",
+        "serial": 1698489509774,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 1802,
+        "show_id": "13701638",
+        "show_timestamp": 1698582600,
+        "status": "estimated",
+        "summary": "The park guys want to get rid of a very large bird in the park.",
+        "title": "Brilliant Century Duck Crisis Special",
+        "title_id": "2054279",
+        "tv_rating": "TV-PG"
     }
 ]
