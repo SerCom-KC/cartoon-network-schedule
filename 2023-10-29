@@ -1085,7 +1085,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1698580800,
-        "last_update": 1698525273932,
+        "last_update": 1698528129890,
         "live": false,
         "participants": [
             {
@@ -1125,7 +1125,7 @@
         "runtime_minutes": 120,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1698580800,
-        "serial": 1698525273628,
+        "serial": 1698528129651,
         "series_name": "",
         "show_duration": 900,
         "show_id": "13701636",
@@ -1134,7 +1134,7 @@
         "summary": "When the gang meets up with writer Ben Ravencroft, he invites them to New England for his hometown's Autumn Harvest Festival. Things take a supernatural detour when they learn the place is haunted by Ben's ancestor Sarah!",
         "summary_long": "When the gang meets up with famous fright-writer Ben Ravencroft, he invited them to New England for his hometown's bit Autumn Harvest Festival. Things take a supernatural detour when they learn the place is haunted by Ben's ancestor Sarah! Will the mystery reveal that Sarah was a good-hearted healer or a spell-casting witch? Before you can say, \"Scooby Snacks\", the gang is on the case tangling with bumbling mummies, monster turkeys and (zoinks) a ghostly secret hidden in the Ravencroft family's past! Grooving to the tunes of the movie's rocking band The Hex Girls, it's Scooby-Doo at his spellbinding, spine-tingling, super-sleuthing best!",
         "title": "Scooby-Doo and the Witch's Ghost",
-        "title_id": "812803",
+        "title_id": "332000",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -3142,6 +3142,67 @@
         "summary_long": "A gadget salesman is looking for a special gift for his son and finds one at a store in Chinatown. The shopkeeper is reluctant to sell him the mogwai but does with the warning to never expose him to bright light, water or to feed him after midnight. All of this happens and a gang of gremlins decide to tear up the town on Christmas Eve.",
         "title": "Gremlins",
         "title_id": "16786",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251789_004_02_851",
+        "create_time": 1698528130490,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16313051",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Smiling Friends",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1698621300,
+        "last_update": 1698528130490,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Zach Hadel",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": "Charlie",
+                "name": "Zach Hadel",
+                "role": "Voice"
+            },
+            {
+                "character": "Pim",
+                "name": "Michael Cusack",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1698621300,
+        "season_number": "1",
+        "serial": 1698528130151,
+        "series_id": "2224721",
+        "series_name": "Smiling Friends",
+        "show_duration": 900,
+        "show_id": "13692348",
+        "show_timestamp": 1698621300,
+        "status": "estimated",
+        "summary": "Pim ventures into the forest across the road to fetch firewood for the office Halloween party.",
+        "title": "A Silly Halloween Special",
+        "title_id": "2322679",
         "tv_rating": "TV-14"
     }
 ]
