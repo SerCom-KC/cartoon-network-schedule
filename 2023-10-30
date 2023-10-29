@@ -761,5 +761,61 @@
         "title": "The Cold Episode",
         "title_id": "2418690",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251836_006_03_851",
+        "create_time": 1698561590060,
+        "episode_in_season": "6",
+        "episode_number": "S11:E06",
+        "external_id": "16313073",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua Teen Hunger Force Forever",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1698654600,
+        "last_update": 1698561590060,
+        "live": false,
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1698654600,
+        "season_number": "11",
+        "serial": 1698561589855,
+        "series_id": "2059880",
+        "series_name": "Aqua Teen Hunger Force Forever",
+        "show_duration": 900,
+        "show_id": "13593282",
+        "show_timestamp": 1698654600,
+        "status": "estimated",
+        "summary": "Something is very odd about Master Shake after he returns from a long, mysterious journey with a talking rabbit.",
+        "title": "Rabbit, not Rabbot",
+        "title_id": "2059926",
+        "tv_rating": "TV-14"
     }
 ]
