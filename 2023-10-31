@@ -722,7 +722,7 @@
             "Animation"
         ],
         "guide_timestamp": 1698737400,
-        "last_update": 1698644013649,
+        "last_update": 1698699906781,
         "live": false,
         "participants": [
             {
@@ -755,13 +755,13 @@
         "press_hold": false,
         "release_year": 2017,
         "runtime_minutes": 30,
-        "scheduled_duration": 1802,
+        "scheduled_duration": 1800,
         "scheduled_timestamp": 1698737400,
         "season_number": "3",
-        "serial": 1698644013419,
+        "serial": 1698699906440,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1802,
+        "show_duration": 1800,
         "show_id": "13597756",
         "show_timestamp": 1698737400,
         "status": "estimated",
@@ -4830,6 +4830,102 @@
         "summary": "Jack, a headless prankster from Grim's past, uses Billy to steal Grim's scythe so he can destroy Grim and take over the world with demons from the Netherworld.",
         "title": "Billy and Mandy's Jacked Up Halloween",
         "title_id": "445532",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228267_003_03_851",
+        "create_time": 1698699907379,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16312160",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Courage the Cowardly Dog",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1698791400,
+        "last_update": 1698699907379,
+        "live": false,
+        "participants": [
+            {
+                "character": "Courage",
+                "name": "Marty Grabstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Muriel Bagge",
+                "name": "Thea White",
+                "role": "Voice"
+            },
+            {
+                "character": "Eustace Bagge",
+                "name": "Lionel Wilson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1698791400,
+        "season_number": "1",
+        "serial": 1698699907096,
+        "series_id": "330149",
+        "series_name": "Courage the Cowardly Dog",
+        "show_duration": 1800,
+        "show_id": "13598504",
+        "show_timestamp": 1698791400,
+        "status": "estimated",
+        "summary": "Muriel needs a new mattress. The one she orders comes with a bonus: a demon. Courage must find a way to get rid of the demon and the new mattress. Then, Muriel's nephew Fred comes for a visit at the farm. Fred is a deranged barber.",
+        "summary_long": "The Demon in the Mattress: Muriel needs a new mattress. The one she orders comes with a bonus: a demon, which takes over her body. Courage must find a way to get rid of the demon and the new mattress./Freaky Fred: Muriel's nephew Fred comes for a visit at the farm. Fred is a deranged barber; he and Courage get locked in the bathroom, much to Courage's distress.",
+        "title": "The Demon in the Mattress/Freaky Fred",
+        "title_id": "331804",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233050_004_02_851",
+        "create_time": 1698699907379,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "16312161",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1698793200,
+        "last_update": 1698699907379,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1997,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1698793200,
+        "season_number": "2",
+        "serial": 1698699907096,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13598505",
+        "show_timestamp": 1698793200,
+        "status": "estimated",
+        "summary": "Hilloween: Hank is outraged when a conservative church member attempts to outlaw Halloween.",
+        "title": "Hilloween",
+        "title_id": "728417",
         "tv_rating": "TV-PG"
     }
 ]
