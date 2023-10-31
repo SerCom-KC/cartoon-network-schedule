@@ -969,5 +969,123 @@
         "title": "Full Bars",
         "title_id": "2003513",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L"
+        ],
+        "content_id": "169796_002_04_851",
+        "create_time": 1698739938565,
+        "episode_in_season": "2",
+        "episode_number": "S4:E02",
+        "external_id": "16312184",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1698831000,
+        "last_update": 1698739938565,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1830,
+        "scheduled_timestamp": 1698831000,
+        "season_number": "4",
+        "serial": 1698739938290,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1830,
+        "show_id": "13598528",
+        "show_timestamp": 1698831000,
+        "status": "estimated",
+        "summary": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. Things take a turn for the worse when the kids build a fort and find themselves held hostage by Millie.",
+        "summary_long": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. However, things take a turn for the worse when the kids build their own fort and find themselves held hostage by Louise's wacko friend, Millie.",
+        "title": "Fort Night",
+        "title_id": "2030305",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228418_001_02_851",
+        "create_time": 1698739938600,
+        "episode_in_season": "1",
+        "episode_number": "S2:EL01",
+        "external_id": "16319114",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1698832800,
+        "last_update": 1698739938600,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1698832800,
+        "season_number": "2",
+        "serial": 1698739938290,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "274173962",
+        "show_timestamp": 1698832800,
+        "status": "estimated",
+        "summary": "Gumball and Darwin learn that it isn't wise to upset Hector, Elmore's resident Giant.",
+        "title": "The Colossus",
+        "title_id": "894308",
+        "tv_rating": "TV-Y7-FV"
     }
 ]
