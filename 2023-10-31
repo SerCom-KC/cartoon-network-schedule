@@ -971,7 +971,7 @@
             "Fantasy"
         ],
         "guide_timestamp": 1698741900,
-        "last_update": 1698742867000,
+        "last_update": 1698746471668,
         "live": false,
         "participants": [
             {
@@ -1082,7 +1082,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1698741900,
         "season_number": "2",
-        "serial": 1698742866504,
+        "serial": 1698746471342,
         "series_id": "828177",
         "series_name": "Your Pretty Face Is Going to Hell",
         "show_duration": 870,
@@ -1160,7 +1160,7 @@
             "Family"
         ],
         "guide_timestamp": 1698744600,
-        "last_update": 1698744714960,
+        "last_update": 1698746401533,
         "live": false,
         "participants": [
             {
@@ -1176,13 +1176,13 @@
         "scheduled_duration": 1845,
         "scheduled_timestamp": 1698744600,
         "season_number": "9",
-        "serial": 1698744714727,
+        "serial": 1698746401292,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1830,
         "show_id": "13597761",
         "show_timestamp": 1698744562,
-        "status": "current",
+        "status": "actual",
         "summary": "Linda joins the P.T.A.",
         "summary_long": "Linda attempts to become more involved with the P.T.A., inspired by its seemingly perfect president, Joanne. Meanwhile, Bob tries to cheer up a hardware store owner after unknowingly making a joke about his pet parrot that recently flew away.",
         "title": "PTA It Ain't So",
@@ -1276,7 +1276,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698746400,
-        "last_update": 1698679140713,
+        "last_update": 1698747398295,
         "live": false,
         "participants": [
             {
@@ -1317,16 +1317,87 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1698746400,
         "season_number": "2",
-        "serial": 1698679140440,
+        "serial": 1698747397998,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 906,
+        "show_duration": 896,
         "show_id": "13598461",
-        "show_timestamp": 1698746400,
-        "status": "estimated",
+        "show_timestamp": 1698746402,
+        "status": "actual",
         "summary": "Carrie takes Gumball, Darwin and Anais to a real haunted house party on Halloween!",
         "title": "Halloween",
         "title_id": "894318",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228420_010_02_851",
+        "create_time": 1698679140714,
+        "episode_in_season": "10",
+        "episode_number": "S3:EL10",
+        "external_id": "16312126",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1698747300,
+        "last_update": 1698747398294,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1698747300,
+        "season_number": "3",
+        "serial": 1698747397998,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 889,
+        "show_id": "13598462",
+        "show_timestamp": 1698747298,
+        "status": "current",
+        "summary": "The Wattersons set off on a relaxing vacation and end up running for their lives!",
+        "summary_long": "The Wattersons set off on a relaxing vacation and end up running for their lives! The Wattersons are swapping scary stories on a family vacation, when their car breaks down in the middle of the desert. They are left with no alternative but to trust a complete stranger, whose appearance matches the scary guy in Mom's story. When the stranger brings them to a derelict gas station, just as he did in mom's made-up scary story, the Wattersons can no longer pretend the story isn't coming true . . .",
+        "title": "The Vacation",
+        "title_id": "2014438",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1403,11 +1474,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228420_010_02_851",
-        "create_time": 1698679140714,
-        "episode_in_season": "10",
-        "episode_number": "S3:EL10",
-        "external_id": "16312126",
+        "content_id": "228420_023_03_851",
+        "create_time": 1698679140715,
+        "episode_in_season": "23",
+        "episode_number": "S3:EL23",
+        "external_id": "16312127",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -1416,8 +1487,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1698747300,
-        "last_update": 1698679140714,
+        "guide_timestamp": 1698748200,
+        "last_update": 1698746513509,
         "live": false,
         "participants": [
             {
@@ -1456,19 +1527,19 @@
         "release_year": 2014,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1698747300,
+        "scheduled_timestamp": 1698748200,
         "season_number": "3",
-        "serial": 1698679140440,
+        "serial": 1698746513303,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13598462",
-        "show_timestamp": 1698747300,
+        "show_duration": 895,
+        "show_id": "13598463",
+        "show_timestamp": 1698748195,
         "status": "estimated",
-        "summary": "The Wattersons set off on a relaxing vacation and end up running for their lives!",
-        "summary_long": "The Wattersons set off on a relaxing vacation and end up running for their lives! The Wattersons are swapping scary stories on a family vacation, when their car breaks down in the middle of the desert. They are left with no alternative but to trust a complete stranger, whose appearance matches the scary guy in Mom's story. When the stranger brings them to a derelict gas station, just as he did in mom's made-up scary story, the Wattersons can no longer pretend the story isn't coming true . . .",
-        "title": "The Vacation",
-        "title_id": "2014438",
+        "summary": "When Gumball refuses to forward a scare email, the curse becomes all too real. Gumball receives a scare email from a freaky ghost and decides to ignore it despite Darwin's advice. He refuses to admit it but the curse starts to come true.",
+        "summary_long": "When Gumball refuses to forward a scare email, the curse becomes all too real. Gumball receives a scare email from a freaky ghost and decides to ignore it despite Darwin's advice. He refuses to admit it but the curse starts to come true and his whole family gets dragged into another dimension. Gumball and Darwin, with help from Carrie, set out to save their family.",
+        "title": "The Mirror",
+        "title_id": "2028425",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1545,11 +1616,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228420_023_03_851",
+        "content_id": "228422_007_02_851",
         "create_time": 1698679140715,
-        "episode_in_season": "23",
-        "episode_number": "S3:EL23",
-        "external_id": "16312127",
+        "episode_in_season": "7",
+        "episode_number": "S5:E07",
+        "external_id": "16312128",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -1558,8 +1629,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1698748200,
-        "last_update": 1698679140715,
+        "guide_timestamp": 1698749100,
+        "last_update": 1698746952040,
         "live": false,
         "participants": [
             {
@@ -1595,22 +1666,22 @@
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2014,
+        "release_year": 2016,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1698748200,
-        "season_number": "3",
-        "serial": 1698679140440,
+        "scheduled_timestamp": 1698749100,
+        "season_number": "5",
+        "serial": 1698746951675,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13598463",
-        "show_timestamp": 1698748200,
+        "show_duration": 895,
+        "show_id": "13598464",
+        "show_timestamp": 1698749099,
         "status": "estimated",
-        "summary": "When Gumball refuses to forward a scare email, the curse becomes all too real. Gumball receives a scare email from a freaky ghost and decides to ignore it despite Darwin's advice. He refuses to admit it but the curse starts to come true.",
-        "summary_long": "When Gumball refuses to forward a scare email, the curse becomes all too real. Gumball receives a scare email from a freaky ghost and decides to ignore it despite Darwin's advice. He refuses to admit it but the curse starts to come true and his whole family gets dragged into another dimension. Gumball and Darwin, with help from Carrie, set out to save their family.",
-        "title": "The Mirror",
-        "title_id": "2028425",
+        "summary": "At Halloween show and tell, the class isn't buying Gumball's story about Gargaroth the Devourer until Carrie fakes a terrifying haunting. The kids convince the school to hire them as ghost exterminators and take their payment in candy.",
+        "summary_long": "At Halloween show and tell, the class isn't buying Gumball's story about Gargaroth the Devourer until Carrie fakes a terrifying haunting. The kids convince the school to hire them as ghost exterminators and take their payment in Halloween candy. But when it turns out Gargaroth is real, suddenly Gumball is expected to be the town's savior.",
+        "title": "The Scam",
+        "title_id": "2074674",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1676,77 +1747,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274169896",
-        "show_timestamp": 1698749100,
-        "status": "estimated",
-        "summary": "At Halloween show and tell, the class isn't buying Gumball's story about Gargaroth the Devourer until Carrie fakes a terrifying haunting. The kids convince the school to hire them as ghost exterminators and take their payment in candy.",
-        "summary_long": "At Halloween show and tell, the class isn't buying Gumball's story about Gargaroth the Devourer until Carrie fakes a terrifying haunting. The kids convince the school to hire them as ghost exterminators and take their payment in Halloween candy. But when it turns out Gargaroth is real, suddenly Gumball is expected to be the town's savior.",
-        "title": "The Scam",
-        "title_id": "2074674",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228422_007_02_851",
-        "create_time": 1698679140715,
-        "episode_in_season": "7",
-        "episode_number": "S5:E07",
-        "external_id": "16312128",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1698749100,
-        "last_update": 1698679140715,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1698749100,
-        "season_number": "5",
-        "serial": 1698679140440,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13598464",
         "show_timestamp": 1698749100,
         "status": "estimated",
         "summary": "At Halloween show and tell, the class isn't buying Gumball's story about Gargaroth the Devourer until Carrie fakes a terrifying haunting. The kids convince the school to hire them as ghost exterminators and take their payment in candy.",
@@ -1843,7 +1843,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698750000,
-        "last_update": 1698679140716,
+        "last_update": 1698746513510,
         "live": false,
         "participants": [
             {
@@ -1884,10 +1884,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1698750000,
         "season_number": "6",
-        "serial": 1698679140440,
+        "serial": 1698746513303,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 895,
         "show_id": "13598465",
         "show_timestamp": 1698750000,
         "status": "estimated",
