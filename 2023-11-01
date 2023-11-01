@@ -797,7 +797,7 @@
             "Fantasy"
         ],
         "guide_timestamp": 1698828300,
-        "last_update": 1698829202579,
+        "last_update": 1698832806005,
         "live": false,
         "participants": [
             {
@@ -908,7 +908,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1698828300,
         "season_number": "2",
-        "serial": 1698829202387,
+        "serial": 1698832805613,
         "series_id": "828177",
         "series_name": "Your Pretty Face Is Going to Hell",
         "show_duration": 880,
@@ -989,7 +989,7 @@
             "Family"
         ],
         "guide_timestamp": 1698831000,
-        "last_update": 1698831295840,
+        "last_update": 1698832800312,
         "live": false,
         "participants": [
             {
@@ -1005,18 +1005,88 @@
         "scheduled_duration": 1815,
         "scheduled_timestamp": 1698831000,
         "season_number": "4",
-        "serial": 1698831295636,
+        "serial": 1698832800028,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
         "show_id": "13598528",
         "show_timestamp": 1698830991,
-        "status": "current",
+        "status": "actual",
         "summary": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. Things take a turn for the worse when the kids build a fort and find themselves held hostage by Millie.",
         "summary_long": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. However, things take a turn for the worse when the kids build their own fort and find themselves held hostage by Louise's wacko friend, Millie.",
         "title": "Fort Night",
         "title_id": "2030305",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228418_001_02_851",
+        "create_time": 1698765425573,
+        "episode_in_season": "1",
+        "episode_number": "S2:EL01",
+        "external_id": "16319114",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1698832800,
+        "last_update": 1698832800312,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1698832800,
+        "season_number": "2",
+        "serial": 1698832800028,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13597762",
+        "show_timestamp": 1698832800,
+        "status": "current",
+        "summary": "Gumball and Darwin learn that it isn't wise to upset Hector, Elmore's resident Giant.",
+        "title": "The Colossus",
+        "title_id": "894308",
+        "tv_rating": "TV-Y7-FV"
     },
     {
         "blackout_type": "none",
@@ -1081,76 +1151,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274173962",
-        "show_timestamp": 1698832800,
-        "status": "estimated",
-        "summary": "Gumball and Darwin learn that it isn't wise to upset Hector, Elmore's resident Giant.",
-        "title": "The Colossus",
-        "title_id": "894308",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228418_001_02_851",
-        "create_time": 1698765425573,
-        "episode_in_season": "1",
-        "episode_number": "S2:EL01",
-        "external_id": "16319114",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1698832800,
-        "last_update": 1698765425573,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2012,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1698832800,
-        "season_number": "2",
-        "serial": 1698765425093,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13597762",
         "show_timestamp": 1698832800,
         "status": "estimated",
         "summary": "Gumball and Darwin learn that it isn't wise to upset Hector, Elmore's resident Giant.",
