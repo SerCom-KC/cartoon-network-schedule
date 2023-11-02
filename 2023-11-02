@@ -3168,7 +3168,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698934500,
-        "last_update": 1698935436816,
+        "last_update": 1698939041278,
         "live": false,
         "participants": [
             {
@@ -3199,7 +3199,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1698934500,
         "season_number": "5",
-        "serial": 1698935436621,
+        "serial": 1698939041037,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 901,
@@ -3488,7 +3488,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698938100,
-        "last_update": 1698938113435,
+        "last_update": 1698939019982,
         "live": false,
         "participants": [
             {
@@ -3529,13 +3529,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1698938100,
         "season_number": "1",
-        "serial": 1698938113109,
+        "serial": 1698939019769,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 908,
+        "show_duration": 900,
         "show_id": "13597851",
         "show_timestamp": 1698938092,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball almost loses his mind trying to guess Darwin's secret.",
         "title": "The Secret",
         "title_id": "839538",
@@ -3615,6 +3615,76 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228419_023_02_851",
+        "create_time": 1698852179090,
+        "episode_in_season": "23",
+        "episode_number": "S1:EL23",
+        "external_id": "16319023",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1698939000,
+        "last_update": 1698939052022,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1698939000,
+        "season_number": "1",
+        "serial": 1698939051813,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 899,
+        "show_id": "13597852",
+        "show_timestamp": 1698938992,
+        "status": "current",
+        "summary": "Gumball and Darwin are taught confusing lessons about honesty by the school councilor.",
+        "title": "The Sock",
+        "title_id": "839569",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228419_023_02_851",
         "create_time": 1698848753577,
         "episode_in_season": "23",
         "episode_number": "S1:EL23",
@@ -3684,11 +3754,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228419_023_02_851",
-        "create_time": 1698852179090,
-        "episode_in_season": "23",
-        "episode_number": "S1:EL23",
-        "external_id": "16319023",
+        "content_id": "228419_024_02_851",
+        "create_time": 1698852180197,
+        "episode_in_season": "24",
+        "episode_number": "S1:EL24",
+        "external_id": "16319024",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -3697,8 +3767,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1698939000,
-        "last_update": 1698852179090,
+        "guide_timestamp": 1698939900,
+        "last_update": 1698939052023,
         "live": false,
         "participants": [
             {
@@ -3737,18 +3807,18 @@
         "release_year": 2011,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1698939000,
+        "scheduled_timestamp": 1698939900,
         "season_number": "1",
-        "serial": 1698852178487,
+        "serial": 1698939051813,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
-        "show_id": "13597852",
-        "show_timestamp": 1698939000,
+        "show_id": "13597853",
+        "show_timestamp": 1698939892,
         "status": "estimated",
-        "summary": "Gumball and Darwin are taught confusing lessons about honesty by the school councilor.",
-        "title": "The Sock",
-        "title_id": "839569",
+        "summary": "Darwin is sent away to a government institute for geniuses. Yes. Really.",
+        "title": "The Genius",
+        "title_id": "839568",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -3824,72 +3894,91 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228419_024_02_851",
-        "create_time": 1698852180197,
-        "episode_in_season": "24",
-        "episode_number": "S1:EL24",
-        "external_id": "16319024",
+        "content_id": "250417_002_02_851",
+        "create_time": 1698852180231,
+        "episode_in_season": "2",
+        "episode_number": "S1:E03",
+        "external_id": "16319025",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
+        "franchise_name": "Tiny Toons Looniversity",
         "genres": [
             "Animation",
-            "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1698939900,
-        "last_update": 1698852180197,
+        "guide_timestamp": 1698940800,
+        "last_update": 1698939487341,
         "live": false,
         "participants": [
             {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Spielberg",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Darryl Frank",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Justin Falvey",
+                "role": "Executive Producer"
+            },
+            {
+                "character": "Buster Bunny",
+                "name": "Ben Giroux",
                 "role": "Voice"
             },
             {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
                 "role": "Voice"
             },
             {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
+                "character": "Foghorn Leghorn",
+                "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
+                "character": "Sylvester James Pussycat, Jr.",
+                "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
+                "character": "Elmer J. Fudd",
+                "name": "Eric Bauza",
                 "role": "Voice"
             }
         ],
-        "premiere": false,
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2011,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1698939900,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1698940800,
         "season_number": "1",
-        "serial": 1698852179831,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13597853",
-        "show_timestamp": 1698939900,
+        "serial": 1698939487006,
+        "series_id": "2267298",
+        "series_name": "Tiny Toons Looniversity",
+        "show_duration": 1797,
+        "show_id": "13597854",
+        "show_timestamp": 1698940795,
         "status": "estimated",
-        "summary": "Darwin is sent away to a government institute for geniuses. Yes. Really.",
-        "title": "The Genius",
-        "title_id": "839568",
-        "tv_rating": "TV-Y7-FV"
+        "summary": "Babs realizes Acme Loo's school paper has closed so she starts a new one with her pal Sweetie. But when Plucky starts a gossipy tabloid to compete against them, which paper will come out on top?",
+        "title": "Extra, So Extra",
+        "title_id": "2267301",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -3983,90 +4072,62 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "250417_002_02_851",
-        "create_time": 1698852180231,
-        "episode_in_season": "2",
-        "episode_number": "S1:E03",
-        "external_id": "16319025",
+        "content_id": "228544_003_02_851",
+        "create_time": 1698852180232,
+        "episode_in_season": "3",
+        "episode_number": "S4:E03",
+        "external_id": "16318849",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Tiny Toons Looniversity",
+        "franchise_name": "Clarence",
         "genres": [
             "Animation",
+            "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1698940800,
-        "last_update": 1698852180231,
+        "guide_timestamp": 1698942600,
+        "last_update": 1698939052024,
         "live": false,
         "participants": [
             {
-                "character": null,
-                "name": "Sam Register",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Spielberg",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Darryl Frank",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Justin Falvey",
-                "role": "Executive Producer"
-            },
-            {
-                "character": "Buster Bunny",
-                "name": "Ben Giroux",
+                "character": "Clarence Wendle",
+                "name": "Spencer Rothbell",
                 "role": "Voice"
             },
             {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
+                "character": "Jeff Randell",
+                "name": "Sean Giambrone",
                 "role": "Voice"
             },
             {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
+                "character": "Sumo",
+                "name": "Tom Kenny",
                 "role": "Voice"
             },
             {
-                "character": "Foghorn Leghorn",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Jr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Elmer J. Fudd",
-                "name": "Eric Bauza",
+                "character": "Mary Wendle",
+                "name": "Katie Crown",
                 "role": "Voice"
             }
         ],
         "premiere": true,
         "press_hold": false,
-        "release_year": 2023,
-        "runtime_minutes": 30,
-        "scheduled_duration": 1800,
-        "scheduled_timestamp": 1698940800,
-        "season_number": "1",
-        "serial": 1698852179831,
-        "series_id": "2267298",
-        "series_name": "Tiny Toons Looniversity",
-        "show_duration": 1800,
-        "show_id": "13597854",
-        "show_timestamp": 1698940800,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1698942600,
+        "season_number": "4",
+        "serial": 1698939051813,
+        "series_id": "2012957",
+        "series_name": "Clarence",
+        "show_duration": 901,
+        "show_id": "13597855",
+        "show_timestamp": 1698942598,
         "status": "estimated",
-        "summary": "Babs realizes Acme Loo's school paper has closed so she starts a new one with her pal Sweetie. But when Plucky starts a gossipy tabloid to compete against them, which paper will come out on top?",
-        "title": "Extra, So Extra",
-        "title_id": "2267301",
+        "summary": "When Chad realizes his lazy habits might be rubbing off on Clarence, he decides to participate in the Aberdale Marathon. However, Chad doesn't know the first thing about being a runner and must enlist the help of Clarence.",
+        "summary_long": "When Chad realizes his lazy habits might be rubbing off on Clarence, he decides to participate in the Aberdale Marathon. However, the athletic Chad doesn't know the first thing about being a runner, and must enlist the help of Clarence to train!",
+        "title": "Chad and the Marathon",
+        "title_id": "2088648",
         "tv_rating": "TV-PG"
     },
     {
@@ -4133,67 +4194,6 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228544_003_02_851",
-        "create_time": 1698852180232,
-        "episode_in_season": "3",
-        "episode_number": "S4:E03",
-        "external_id": "16318849",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Clarence",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1698942600,
-        "last_update": 1698869703593,
-        "live": false,
-        "participants": [
-            {
-                "character": "Clarence Wendle",
-                "name": "Spencer Rothbell",
-                "role": "Voice"
-            },
-            {
-                "character": "Jeff Randell",
-                "name": "Sean Giambrone",
-                "role": "Voice"
-            },
-            {
-                "character": "Sumo",
-                "name": "Tom Kenny",
-                "role": "Voice"
-            },
-            {
-                "character": "Mary Wendle",
-                "name": "Katie Crown",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 15,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1698942600,
-        "season_number": "4",
-        "serial": 1698869703241,
-        "series_id": "2012957",
-        "series_name": "Clarence",
-        "show_duration": 901,
-        "show_id": "13597855",
-        "show_timestamp": 1698942600,
-        "status": "estimated",
-        "summary": "When Chad realizes his lazy habits might be rubbing off on Clarence, he decides to participate in the Aberdale Marathon. However, Chad doesn't know the first thing about being a runner and must enlist the help of Clarence.",
-        "summary_long": "When Chad realizes his lazy habits might be rubbing off on Clarence, he decides to participate in the Aberdale Marathon. However, the athletic Chad doesn't know the first thing about being a runner, and must enlist the help of Clarence to train!",
-        "title": "Chad and the Marathon",
-        "title_id": "2088648",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
         "content_id": "228544_004_02_851",
         "create_time": 1698852180233,
         "episode_in_season": "4",
@@ -4208,7 +4208,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698943500,
-        "last_update": 1698869703632,
+        "last_update": 1698939052025,
         "live": false,
         "participants": [
             {
@@ -4239,12 +4239,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1698943500,
         "season_number": "4",
-        "serial": 1698869703241,
+        "serial": 1698939051813,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
         "show_id": "13597856",
-        "show_timestamp": 1698943500,
+        "show_timestamp": 1698943499,
         "status": "estimated",
         "summary": "Pieces of Mr. Reese's past are revealed when his old partner on the police force, Officer Moody, visits Aberdale Elementary.",
         "title": "Officer Moody",
@@ -4268,7 +4268,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698944400,
-        "last_update": 1698869703633,
+        "last_update": 1698939052026,
         "live": false,
         "participants": [
             {
@@ -4299,12 +4299,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1698944400,
         "season_number": "4",
-        "serial": 1698869703241,
+        "serial": 1698939051813,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
         "show_id": "13597857",
-        "show_timestamp": 1698944400,
+        "show_timestamp": 1698944399,
         "status": "estimated",
         "summary": "Gilben's newly sprouted peach fuzz sparks a discussion about puberty that ultimately convinces Clarence to act more like an adult.",
         "title": "Gilben's Different",
@@ -5389,7 +5389,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698958800,
-        "last_update": 1698866386088,
+        "last_update": 1698938866955,
         "live": false,
         "participants": [
             {
@@ -5412,13 +5412,13 @@
         "press_hold": false,
         "release_year": 1995,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1802,
         "scheduled_timestamp": 1698958800,
         "season_number": "4",
-        "serial": 1698866385724,
+        "serial": 1698938866722,
         "series_id": "100106",
         "series_name": "Dexter's Laboratory",
-        "show_duration": 1800,
+        "show_duration": 1802,
         "show_id": "13597873",
         "show_timestamp": 1698958800,
         "status": "estimated",
@@ -5445,7 +5445,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698960600,
-        "last_update": 1698867105510,
+        "last_update": 1698938867007,
         "live": false,
         "participants": [
             {
@@ -5468,13 +5468,13 @@
         "press_hold": false,
         "release_year": 2002,
         "runtime_minutes": 30,
-        "scheduled_duration": 1814,
+        "scheduled_duration": 1800,
         "scheduled_timestamp": 1698960600,
         "season_number": "3",
-        "serial": 1698867098506,
+        "serial": 1698938866722,
         "series_id": "327280",
         "series_name": "Ed, Edd n Eddy",
-        "show_duration": 1814,
+        "show_duration": 1800,
         "show_id": "13597874",
         "show_timestamp": 1698960600,
         "status": "estimated",
@@ -6076,7 +6076,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1698980400,
-        "last_update": 1698889163135,
+        "last_update": 1698938867446,
         "live": false,
         "participants": [
             {
@@ -6119,13 +6119,13 @@
         "press_hold": false,
         "release_year": 2013,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1804,
         "scheduled_timestamp": 1698980400,
         "season_number": "9",
-        "serial": 1698889162806,
+        "serial": 1698938867253,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1804,
         "show_id": "13597885",
         "show_timestamp": 1698980400,
         "status": "estimated",
