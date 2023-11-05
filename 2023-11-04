@@ -5296,6 +5296,71 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229214_000_02_851",
+        "create_time": 1699031284123,
+        "external_id": "16347631",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Abracadabra-Doo",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1699124400,
+        "last_update": 1699133431190,
+        "live": false,
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "Voice"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "Voice"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Spike Brandt",
+                "role": "Director"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 70,
+        "scheduled_duration": 5400,
+        "scheduled_timestamp": 1699124400,
+        "serial": 1699133430943,
+        "series_name": "",
+        "show_duration": 5406,
+        "show_id": "13697176",
+        "show_timestamp": 1699124400,
+        "status": "actual",
+        "summary": "When a secluded school for magicians faces danger from a fantastical flying creature outside and sinister forces inside, there's just one thing to say: Scooby-Doo! Abracadabra-Doo.",
+        "title": "Scooby-Doo! Abracadabra-Doo",
+        "title_id": "791126",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229214_000_02_851",
         "create_time": 1699042678272,
         "external_id": "16347631",
         "feed_id": "as-east",
@@ -5353,71 +5418,6 @@
         "show_id": "274186580",
         "show_timestamp": 1699124400,
         "status": "estimated",
-        "summary": "When a secluded school for magicians faces danger from a fantastical flying creature outside and sinister forces inside, there's just one thing to say: Scooby-Doo! Abracadabra-Doo.",
-        "title": "Scooby-Doo! Abracadabra-Doo",
-        "title_id": "791126",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229214_000_02_851",
-        "create_time": 1699031284123,
-        "external_id": "16347631",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Scooby-Doo! Abracadabra-Doo",
-        "genres": [
-            "Comedy",
-            "Mystery"
-        ],
-        "guide_timestamp": 1699124400,
-        "last_update": 1699133431190,
-        "live": false,
-        "participants": [
-            {
-                "character": "Scooby-Doo",
-                "name": "Frank Welker",
-                "role": "Voice"
-            },
-            {
-                "character": "Shaggy Rogers",
-                "name": "Matthew Lillard",
-                "role": "Voice"
-            },
-            {
-                "character": "Velma Dinkley",
-                "name": "Mindy Cohn",
-                "role": "Voice"
-            },
-            {
-                "character": "Daphne Blake",
-                "name": "Grey DeLisle (Griffin)",
-                "role": "Voice"
-            },
-            {
-                "character": "Fred Jones Jr.",
-                "name": "Frank Welker",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Spike Brandt",
-                "role": "Director"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2010,
-        "runtime_minutes": 70,
-        "scheduled_duration": 5400,
-        "scheduled_timestamp": 1699124400,
-        "serial": 1699133430943,
-        "series_name": "",
-        "show_duration": 5406,
-        "show_id": "13697176",
-        "show_timestamp": 1699124400,
-        "status": "actual",
         "summary": "When a secluded school for magicians faces danger from a fantastical flying creature outside and sinister forces inside, there's just one thing to say: Scooby-Doo! Abracadabra-Doo.",
         "title": "Scooby-Doo! Abracadabra-Doo",
         "title_id": "791126",
@@ -6268,7 +6268,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699147800,
-        "last_update": 1699149721915,
+        "last_update": 1699153325557,
         "live": false,
         "participants": [
             {
@@ -6314,7 +6314,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1699147800,
         "season_number": "9",
-        "serial": 1699149721703,
+        "serial": 1699153325292,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1802,
@@ -6424,7 +6424,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699151400,
-        "last_update": 1699151477773,
+        "last_update": 1699153222486,
         "live": false,
         "participants": [
             {
@@ -6470,13 +6470,13 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1699151400,
         "season_number": "9",
-        "serial": 1699151477516,
+        "serial": 1699153222243,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1804,
         "show_id": "13597631",
         "show_timestamp": 1699151410,
-        "status": "current",
+        "status": "actual",
         "summary": "Hayley wants to save the world through investigative journalism so she becomes an intern for a local news reporter.  The reporter turns out to be Roger, who gets ratings through sensationalized stories.",
         "title": "News Glance with Genevieve Vavance",
         "title_id": "2012720",
@@ -6502,7 +6502,7 @@
             "Animation"
         ],
         "guide_timestamp": 1699153200,
-        "last_update": 1699152328443,
+        "last_update": 1699153375870,
         "live": false,
         "participants": [
             {
@@ -6538,13 +6538,13 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1699153200,
         "season_number": "2",
-        "serial": 1699152328201,
+        "serial": 1699153375619,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1817,
         "show_id": "13597632",
-        "show_timestamp": 1699153210,
-        "status": "estimated",
+        "show_timestamp": 1699153201,
+        "status": "current",
         "summary": "Rick don joins in on some hijinks in this one broh. Beth and Jerry sort out their relationship too broh.",
         "title": "Big Trouble in Little Sanchez",
         "title_id": "2060770",
@@ -6570,7 +6570,7 @@
             "Animation"
         ],
         "guide_timestamp": 1699155000,
-        "last_update": 1699148045079,
+        "last_update": 1699154163945,
         "live": false,
         "participants": [
             {
@@ -6606,12 +6606,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1699155000,
         "season_number": "6",
-        "serial": 1699148044840,
+        "serial": 1699154163658,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
         "show_id": "13597633",
-        "show_timestamp": 1699155002,
+        "show_timestamp": 1699155018,
         "status": "estimated",
         "summary": "They're back, broh.",
         "title": "JuRicksic Mort",
