@@ -3070,7 +3070,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699367400,
-        "last_update": 1699369361513,
+        "last_update": 1699372968004,
         "live": false,
         "participants": [
             {
@@ -3091,7 +3091,7 @@
         "scheduled_duration": 1812,
         "scheduled_timestamp": 1699367400,
         "season_number": "1",
-        "serial": 1699369361226,
+        "serial": 1699372967724,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1815,
@@ -3500,7 +3500,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699371900,
-        "last_update": 1699372018917,
+        "last_update": 1699372870384,
         "live": false,
         "participants": [
             {
@@ -3526,13 +3526,13 @@
         "scheduled_duration": 902,
         "scheduled_timestamp": 1699371900,
         "season_number": "1",
-        "serial": 1699372018545,
+        "serial": 1699372870113,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 919,
+        "show_duration": 901,
         "show_id": "13697230",
         "show_timestamp": 1699371892,
-        "status": "current",
+        "status": "actual",
         "summary": "Craig, Kelsey and JP run afoul of some no-good teenage witches and are cursed! Lousy teenagers!",
         "title": "The Curse",
         "title_id": "2145397",
@@ -3592,6 +3592,76 @@
         "title": "The Curse",
         "title_id": "2145397",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228418_022_03_851",
+        "create_time": 1699287566417,
+        "episode_in_season": "22",
+        "episode_number": "S2:EL22",
+        "external_id": "16348129",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1699372800,
+        "last_update": 1699372870384,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1699372800,
+        "season_number": "2",
+        "serial": 1699372870113,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 912,
+        "show_id": "13596038",
+        "show_timestamp": 1699372793,
+        "status": "current",
+        "summary": "Gumball and Darwin are determined to prove to their dad that he is their hero, at any cost!",
+        "title": "The Hero",
+        "title_id": "2000126",
+        "tv_rating": "TV-Y7-FV"
     },
     {
         "blackout_type": "none",
@@ -3657,76 +3727,6 @@
         "show_duration": 900,
         "show_id": "274198718",
         "show_timestamp": 1699372800,
-        "status": "estimated",
-        "summary": "Gumball and Darwin are determined to prove to their dad that he is their hero, at any cost!",
-        "title": "The Hero",
-        "title_id": "2000126",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228418_022_03_851",
-        "create_time": 1699287566417,
-        "episode_in_season": "22",
-        "episode_number": "S2:EL22",
-        "external_id": "16348129",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1699372800,
-        "last_update": 1699371950401,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2013,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1699372800,
-        "season_number": "2",
-        "serial": 1699371950018,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 896,
-        "show_id": "13596038",
-        "show_timestamp": 1699372809,
         "status": "estimated",
         "summary": "Gumball and Darwin are determined to prove to their dad that he is their hero, at any cost!",
         "title": "The Hero",
@@ -3820,7 +3820,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699373700,
-        "last_update": 1699371950401,
+        "last_update": 1699372918257,
         "live": false,
         "participants": [
             {
@@ -3861,12 +3861,12 @@
         "scheduled_duration": 911,
         "scheduled_timestamp": 1699373700,
         "season_number": "2",
-        "serial": 1699371950018,
+        "serial": 1699372918014,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 911,
         "show_id": "13596039",
-        "show_timestamp": 1699373705,
+        "show_timestamp": 1699373741,
         "status": "estimated",
         "summary": "When Gumball blames Darwin for kissing Penny in his dream it threatens to tear apart their friendship, the only place you can fix a dream problem is in the dream world.",
         "title": "The Dream",
@@ -3960,7 +3960,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699374600,
-        "last_update": 1699372140728,
+        "last_update": 1699372918258,
         "live": false,
         "participants": [
             {
@@ -4001,12 +4001,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699374600,
         "season_number": "2",
-        "serial": 1699372140503,
+        "serial": 1699372918014,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 896,
         "show_id": "13596040",
-        "show_timestamp": 1699374601,
+        "show_timestamp": 1699374637,
         "status": "estimated",
         "summary": "During a quest to retrieve a loaned video game, Darwin begins to suspect that he is trapped playing second fiddle to Gumball.",
         "title": "The Sidekick",
@@ -4100,7 +4100,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699375500,
-        "last_update": 1699357545570,
+        "last_update": 1699373284156,
         "live": false,
         "participants": [
             {
@@ -4141,12 +4141,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699375500,
         "season_number": "2",
-        "serial": 1699357545319,
+        "serial": 1699373283483,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 896,
         "show_id": "13596041",
-        "show_timestamp": 1699375500,
+        "show_timestamp": 1699375533,
         "status": "estimated",
         "summary": "It's school picture day and Gumball has until 3pm to take one good photo - or have his legacy ruined forever.",
         "title": "The Photo",
@@ -4258,7 +4258,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699376400,
-        "last_update": 1699305397794,
+        "last_update": 1699372918296,
         "live": false,
         "participants": [
             {
@@ -4319,12 +4319,12 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1699376400,
         "season_number": "1",
-        "serial": 1699305397451,
+        "serial": 1699372918014,
         "series_id": "2267298",
         "series_name": "Tiny Toons Looniversity",
         "show_duration": 1802,
         "show_id": "13596042",
-        "show_timestamp": 1699376400,
+        "show_timestamp": 1699376430,
         "status": "estimated",
         "summary": "Buster finds a cloning machine at Wile E. Coyote's yard sale that he uses to make another Buster and Babs and Sweetie snag a time machine that they use to open a vintage clothing store.",
         "title": "Tears Of A Clone",
@@ -4348,7 +4348,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699378200,
-        "last_update": 1699305397794,
+        "last_update": 1699372918297,
         "live": false,
         "participants": [
             {
@@ -4379,12 +4379,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1699378200,
         "season_number": "4",
-        "serial": 1699305397451,
+        "serial": 1699372918014,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
         "show_id": "13596043",
-        "show_timestamp": 1699378200,
+        "show_timestamp": 1699378222,
         "status": "estimated",
         "summary": "Clarence throws a big talent show in his yard to showcase all the fun hidden talents of his friends. But when Brady claims he's talentless, Clarence sets out to prove that everyone has something special to share!",
         "title": "Talent Show",
@@ -4408,7 +4408,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699379100,
-        "last_update": 1699305397794,
+        "last_update": 1699372918298,
         "live": false,
         "participants": [
             {
@@ -4439,12 +4439,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1699379100,
         "season_number": "4",
-        "serial": 1699305397451,
+        "serial": 1699372918014,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
         "show_id": "13596044",
-        "show_timestamp": 1699379100,
+        "show_timestamp": 1699379118,
         "status": "estimated",
         "summary": "Clarence spends a day outside with his toy RC Car, which he names Carla. Eventually convinced Carla has a mind of her own, he decides to follow her to new adventures.",
         "summary_long": "Clarence spends a day outside with his toy RC Car, which he names Carla. Eventually convinced Carla has a mind of her own, he decides to follow her to new adventures. Will Clarence's car chase get in the way of Jeff and Sumo's plans for the day?",
@@ -4469,7 +4469,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699380000,
-        "last_update": 1699305397795,
+        "last_update": 1699372918298,
         "live": false,
         "participants": [
             {
@@ -4500,12 +4500,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1699380000,
         "season_number": "4",
-        "serial": 1699305397451,
+        "serial": 1699372918014,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
         "show_id": "13596045",
-        "show_timestamp": 1699380000,
+        "show_timestamp": 1699380014,
         "status": "estimated",
         "summary": "When Clarence's neighbor Gale recruits him to dog sit for her, he knows it will be a breeze. However, Gale's dog proves to be a little more challenging than he expects!",
         "summary_long": "When Clarence's neighbor Gale recruits him to dog sit for her, he knows it will be a breeze, being the self-proclaimed \"Dog King,\" Clarence knows all there is to know about pups. Nevertheless, Gale's dog proves to be a little more challenging than he expects!",
@@ -4530,7 +4530,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699380900,
-        "last_update": 1699305397795,
+        "last_update": 1699372918299,
         "live": false,
         "participants": [
             {
@@ -4561,12 +4561,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1699380900,
         "season_number": "4",
-        "serial": 1699305397451,
+        "serial": 1699372918014,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
         "show_id": "13596046",
-        "show_timestamp": 1699380900,
+        "show_timestamp": 1699380911,
         "status": "estimated",
         "summary": "Mary buys a new trampoline for the family, but an accident lands her on the couch for a while. Determined to fight the boredom of being stuck indoors, she discovers her neighbor may be hiding something exciting.",
         "title": "Trampoline",
@@ -4590,7 +4590,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699381800,
-        "last_update": 1699305397795,
+        "last_update": 1699372919083,
         "live": false,
         "participants": [
             {
@@ -4616,12 +4616,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1699381800,
         "season_number": "1",
-        "serial": 1699305397451,
+        "serial": 1699372918733,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 901,
         "show_id": "13596047",
-        "show_timestamp": 1699381800,
+        "show_timestamp": 1699381807,
         "status": "estimated",
         "summary": "Kelsey accepts a quest from the Elders of the Creek, but is she ready for her terrifying opponent?",
         "title": "Kelsey Quest",
@@ -4645,7 +4645,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699382700,
-        "last_update": 1699292327681,
+        "last_update": 1699372919084,
         "live": false,
         "participants": [
             {
@@ -4671,12 +4671,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699382700,
         "season_number": "1",
-        "serial": 1699292327385,
+        "serial": 1699372918733,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "13596048",
-        "show_timestamp": 1699382700,
+        "show_timestamp": 1699382703,
         "status": "estimated",
         "summary": "JP decides to follow his heart and tries to join the Horse Girls.",
         "title": "JPony",
@@ -4700,7 +4700,7 @@
             "Animation"
         ],
         "guide_timestamp": 1699383600,
-        "last_update": 1699292327681,
+        "last_update": 1699372919085,
         "live": false,
         "participants": [
             {
@@ -4751,12 +4751,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699383600,
         "season_number": "6",
-        "serial": 1699292327385,
+        "serial": 1699372918733,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
-        "show_duration": 900,
+        "show_duration": 892,
         "show_id": "13596049",
-        "show_timestamp": 1699383600,
+        "show_timestamp": 1699383602,
         "status": "estimated",
         "summary": "Raven's demon side has the same birthday as Beast Boy, so the Titans go to Azarath to celebrate her Sinister Sixteen.",
         "title": "BBRAEBDAY",
@@ -4780,7 +4780,7 @@
             "Animation"
         ],
         "guide_timestamp": 1699384500,
-        "last_update": 1699305398608,
+        "last_update": 1699372919086,
         "live": false,
         "participants": [
             {
@@ -4831,12 +4831,12 @@
         "scheduled_duration": 909,
         "scheduled_timestamp": 1699384500,
         "season_number": "6",
-        "serial": 1699305398389,
+        "serial": 1699372918733,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 909,
         "show_id": "13596050",
-        "show_timestamp": 1699384500,
+        "show_timestamp": 1699384501,
         "status": "estimated",
         "summary": "The Titans must help De La Soul save their music after it is stolen by an alien.",
         "title": "Don't Press Play",
@@ -4860,7 +4860,7 @@
             "Animation"
         ],
         "guide_timestamp": 1699385400,
-        "last_update": 1699292327682,
+        "last_update": 1699372919087,
         "live": false,
         "participants": [
             {
@@ -4911,10 +4911,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699385400,
         "season_number": "6",
-        "serial": 1699292327385,
+        "serial": 1699372918733,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
-        "show_duration": 900,
+        "show_duration": 891,
         "show_id": "13596051",
         "show_timestamp": 1699385400,
         "status": "estimated",
@@ -4940,7 +4940,7 @@
             "Animation"
         ],
         "guide_timestamp": 1699386300,
-        "last_update": 1699292828403,
+        "last_update": 1699372919087,
         "live": false,
         "participants": [
             {
@@ -4991,10 +4991,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699386300,
         "season_number": "6",
-        "serial": 1699292828148,
+        "serial": 1699372918733,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
-        "show_duration": 900,
+        "show_duration": 898,
         "show_id": "13596052",
         "show_timestamp": 1699386300,
         "status": "estimated",
