@@ -5748,5 +5748,100 @@
         "title": "Super Zero/Sickly Sweet",
         "title_id": "544188",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228246_001_02_851",
+        "create_time": 1699394453367,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "16348343",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Courage the Cowardly Dog",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1699486200,
+        "last_update": 1699394453367,
+        "live": false,
+        "participants": [
+            {
+                "character": "Courage",
+                "name": "Marty Grabstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Muriel Bagge",
+                "name": "Thea White",
+                "role": "Voice"
+            },
+            {
+                "character": "Eustace Bagge",
+                "name": "Lionel Wilson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1811,
+        "scheduled_timestamp": 1699486200,
+        "season_number": "3",
+        "serial": 1699394453125,
+        "series_id": "330149",
+        "series_name": "Courage the Cowardly Dog",
+        "show_duration": 1811,
+        "show_id": "13697271",
+        "show_timestamp": 1699486200,
+        "status": "estimated",
+        "summary": "Maria and her husband Mano park their trailer next door to the farmhouse. Maria disguises herself as Muriel in order to steal a diamond, and Muriel is arrested. Then, Eustace decides to replace Courage with a technologically superior dog.",
+        "summary_long": "Muriel Meets Her Match: Maria and her husband Mano, on the lam from the law, park their trailer next door to the farmhouse. Maria disguises herself as Muriel in order to steal a diamond, and Muriel is arrested. Courage must get the mix-up straightened out so Muriel can be exonerated./Courage vs. Mecha-Courage: Eustace decides to replace Courage with a technologically superior dog. Courage must prove his merit.",
+        "title": "Muriel Meets Her Match/Courage vs. Mecha-Courage",
+        "title_id": "410480",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233070_010_02_851",
+        "create_time": 1699394453368,
+        "episode_in_season": "10",
+        "episode_number": "S5:E10",
+        "external_id": "16348344",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1699488000,
+        "last_update": 1699394453368,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1699488000,
+        "season_number": "5",
+        "serial": 1699394453125,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13697272",
+        "show_timestamp": 1699488000,
+        "status": "estimated",
+        "summary": "While searching for his birth certificate, Hank learns the true location of his birthplace - and becomes an unwitting pawn in one of Cotton's schemes.",
+        "title": "Yankee Hankie",
+        "title_id": "731337",
+        "tv_rating": "TV-PG"
     }
 ]
