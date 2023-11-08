@@ -2969,7 +2969,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699452000,
-        "last_update": 1699457435390,
+        "last_update": 1699461036300,
         "live": false,
         "participants": [
             {
@@ -2990,7 +2990,7 @@
         "scheduled_duration": 1812,
         "scheduled_timestamp": 1699452000,
         "season_number": "1",
-        "serial": 1699457435141,
+        "serial": 1699461035998,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1814,
@@ -3169,7 +3169,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699455600,
-        "last_update": 1699456553426,
+        "last_update": 1699460159195,
         "live": false,
         "participants": [
             {
@@ -3195,7 +3195,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699455600,
         "season_number": "1",
-        "serial": 1699456553019,
+        "serial": 1699460158809,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -3279,7 +3279,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699456500,
-        "last_update": 1699457419089,
+        "last_update": 1699461023521,
         "live": false,
         "participants": [
             {
@@ -3305,7 +3305,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699456500,
         "season_number": "1",
-        "serial": 1699457418810,
+        "serial": 1699461023282,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 902,
@@ -3679,7 +3679,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699459200,
-        "last_update": 1699459383365,
+        "last_update": 1699460168876,
         "live": false,
         "participants": [
             {
@@ -3720,16 +3720,86 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699459200,
         "season_number": "2",
-        "serial": 1699459382212,
+        "serial": 1699460168526,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 896,
         "show_id": "13596081",
         "show_timestamp": 1699459204,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball and Darwin try to understand Juke's urgent Beatbox message, but why won't he just speak English?!!",
         "title": "The Boombox",
         "title_id": "2000135",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228418_035_02_851",
+        "create_time": 1699374608928,
+        "episode_in_season": "35",
+        "episode_number": "S2:EL35",
+        "external_id": "16348319",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1699460100,
+        "last_update": 1699461018541,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1699460100,
+        "season_number": "2",
+        "serial": 1699461018207,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 896,
+        "show_id": "13596082",
+        "show_timestamp": 1699460100,
+        "status": "actual",
+        "summary": "Gumball and Darwin fail to make some instant homemade movie classics.",
+        "title": "The Tape",
+        "title_id": "2000136",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -3805,11 +3875,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228418_035_02_851",
+        "content_id": "228418_036_03_851",
         "create_time": 1699374608928,
-        "episode_in_season": "35",
-        "episode_number": "S2:EL35",
-        "external_id": "16348319",
+        "episode_in_season": "36",
+        "episode_number": "S2:EL36",
+        "external_id": "16348320",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -3818,8 +3888,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1699460100,
-        "last_update": 1699459255967,
+        "guide_timestamp": 1699461000,
+        "last_update": 1699461035561,
         "live": false,
         "participants": [
             {
@@ -3856,20 +3926,20 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2013,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1699460100,
+        "runtime_minutes": 11,
+        "scheduled_duration": 911,
+        "scheduled_timestamp": 1699461000,
         "season_number": "2",
-        "serial": 1699459255762,
+        "serial": 1699461035248,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 896,
-        "show_id": "13596082",
-        "show_timestamp": 1699460117,
-        "status": "estimated",
-        "summary": "Gumball and Darwin fail to make some instant homemade movie classics.",
-        "title": "The Tape",
-        "title_id": "2000136",
+        "show_duration": 911,
+        "show_id": "13596083",
+        "show_timestamp": 1699460996,
+        "status": "current",
+        "summary": "Gumball and Darwin's reputation is challenged and they really couldn't care less...",
+        "title": "The Sweaters",
+        "title_id": "2000137",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -3945,11 +4015,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228418_036_03_851",
+        "content_id": "228418_037_02_851",
         "create_time": 1699374608928,
-        "episode_in_season": "36",
-        "episode_number": "S2:EL36",
-        "external_id": "16348320",
+        "episode_in_season": "37",
+        "episode_number": "S2:EL37",
+        "external_id": "16348321",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -3958,8 +4028,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1699461000,
-        "last_update": 1699459256022,
+        "guide_timestamp": 1699461900,
+        "last_update": 1699461035562,
         "live": false,
         "participants": [
             {
@@ -3996,20 +4066,20 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2013,
-        "runtime_minutes": 11,
-        "scheduled_duration": 911,
-        "scheduled_timestamp": 1699461000,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1699461900,
         "season_number": "2",
-        "serial": 1699459255762,
+        "serial": 1699461035248,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 911,
-        "show_id": "13596083",
-        "show_timestamp": 1699461013,
+        "show_duration": 896,
+        "show_id": "13596084",
+        "show_timestamp": 1699461896,
         "status": "estimated",
-        "summary": "Gumball and Darwin's reputation is challenged and they really couldn't care less...",
-        "title": "The Sweaters",
-        "title_id": "2000137",
+        "summary": "Gumball accidentally uploads a video of himself, and then demands The Internet take it down...personally!",
+        "title": "The Internet",
+        "title_id": "2000138",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -4085,72 +4155,91 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228418_037_02_851",
-        "create_time": 1699374608928,
-        "episode_in_season": "37",
-        "episode_number": "S2:EL37",
-        "external_id": "16348321",
+        "content_id": "250417_003_02_851",
+        "create_time": 1699374608929,
+        "episode_in_season": "3",
+        "episode_number": "S1:E05",
+        "external_id": "16348322",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
+        "franchise_name": "Tiny Toons Looniversity",
         "genres": [
             "Animation",
-            "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1699461900,
-        "last_update": 1699459871080,
+        "guide_timestamp": 1699462800,
+        "last_update": 1699461224077,
         "live": false,
         "participants": [
             {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Spielberg",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Darryl Frank",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Justin Falvey",
+                "role": "Executive Producer"
+            },
+            {
+                "character": "Buster Bunny",
+                "name": "Ben Giroux",
                 "role": "Voice"
             },
             {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
                 "role": "Voice"
             },
             {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
+                "character": "Foghorn Leghorn",
+                "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
+                "character": "Sylvester James Pussycat, Jr.",
+                "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
+                "character": "Elmer J. Fudd",
+                "name": "Eric Bauza",
                 "role": "Voice"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2013,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1699461900,
-        "season_number": "2",
-        "serial": 1699459870770,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 896,
-        "show_id": "13596084",
-        "show_timestamp": 1699461909,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1699462800,
+        "season_number": "1",
+        "serial": 1699461223816,
+        "series_id": "2267298",
+        "series_name": "Tiny Toons Looniversity",
+        "show_duration": 1802,
+        "show_id": "13596085",
+        "show_timestamp": 1699462799,
         "status": "estimated",
-        "summary": "Gumball accidentally uploads a video of himself, and then demands The Internet take it down...personally!",
-        "title": "The Internet",
-        "title_id": "2000138",
-        "tv_rating": "TV-Y7-FV"
+        "summary": "Buster meets his nemesis, Montana Max, and must apply a new lesson from Bugs about drag to keep the Loo Bru from demolition.",
+        "title": "Save The Loo Bru",
+        "title_id": "2267303",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -4244,95 +4333,6 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "250417_003_02_851",
-        "create_time": 1699374608929,
-        "episode_in_season": "3",
-        "episode_number": "S1:E05",
-        "external_id": "16348322",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Tiny Toons Looniversity",
-        "genres": [
-            "Animation",
-            "Comedy"
-        ],
-        "guide_timestamp": 1699462800,
-        "last_update": 1699459256023,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Sam Register",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Spielberg",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Darryl Frank",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Justin Falvey",
-                "role": "Executive Producer"
-            },
-            {
-                "character": "Buster Bunny",
-                "name": "Ben Giroux",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Foghorn Leghorn",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Jr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Elmer J. Fudd",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2023,
-        "runtime_minutes": 30,
-        "scheduled_duration": 1802,
-        "scheduled_timestamp": 1699462800,
-        "season_number": "1",
-        "serial": 1699459255762,
-        "series_id": "2267298",
-        "series_name": "Tiny Toons Looniversity",
-        "show_duration": 1802,
-        "show_id": "13596085",
-        "show_timestamp": 1699462806,
-        "status": "estimated",
-        "summary": "Buster meets his nemesis, Montana Max, and must apply a new lesson from Bugs about drag to keep the Loo Bru from demolition.",
-        "title": "Save The Loo Bru",
-        "title_id": "2267303",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
         "content_id": "228544_013_02_851",
         "create_time": 1699371242973,
         "episode_in_season": "13",
@@ -4407,7 +4407,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699464600,
-        "last_update": 1699459256023,
+        "last_update": 1699461035563,
         "live": false,
         "participants": [
             {
@@ -4438,12 +4438,12 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1699464600,
         "season_number": "4",
-        "serial": 1699459255762,
+        "serial": 1699461035248,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 905,
         "show_id": "13596086",
-        "show_timestamp": 1699464603,
+        "show_timestamp": 1699464600,
         "status": "estimated",
         "summary": "Clarence is excited for Thanksgiving Dinner with Chad's parents, but Chad is worried that their unusually laid back demeanor and bizarre customs will make him look irresponsible by association.",
         "title": "Chadsgiving",
@@ -4467,7 +4467,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699465500,
-        "last_update": 1699459256024,
+        "last_update": 1699461035564,
         "live": false,
         "participants": [
             {
@@ -4498,12 +4498,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699465500,
         "season_number": "4",
-        "serial": 1699459255762,
+        "serial": 1699461035248,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 886,
         "show_id": "13596087",
-        "show_timestamp": 1699465501,
+        "show_timestamp": 1699465500,
         "status": "estimated",
         "summary": "When Clarence starts to play around with his home video camera, he becomes drawn into the world of filmmaking. From talking toys, to real actors, to documentary subjects, Clarence is determined to find the right style to tell his story!",
         "summary_long": "When Clarence starts to play around with his home video camera, he becomes increasingly drawn into the world of filmmaking. From talking toys, to real actors, to documentary subjects, Clarence is determined to find the right style to tell his story!",
