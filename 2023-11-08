@@ -2372,7 +2372,7 @@
             "Family"
         ],
         "guide_timestamp": 1699447500,
-        "last_update": 1699448488313,
+        "last_update": 1699452090980,
         "live": false,
         "participants": [
             {
@@ -2428,7 +2428,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699447500,
         "season_number": "1",
-        "serial": 1699448487995,
+        "serial": 1699452090711,
         "series_id": "2267111",
         "series_name": "Batwheels",
         "show_duration": 887,
@@ -2769,7 +2769,7 @@
             "Family"
         ],
         "guide_timestamp": 1699451100,
-        "last_update": 1699451148473,
+        "last_update": 1699452015364,
         "live": false,
         "participants": [
             {
@@ -2840,13 +2840,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699451100,
         "season_number": "1",
-        "serial": 1699451148106,
+        "serial": 1699452015157,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 943,
+        "show_duration": 896,
         "show_id": "13697262",
         "show_timestamp": 1699451091,
-        "status": "current",
+        "status": "actual",
         "summary": "The Looney Builders race against the clock to build Cecil Turtle a new racetrack. Daffy gets caught up in his own desire to race and changes part of the build.",
         "title": "Race Track Race",
         "title_id": "2267157",
@@ -2956,6 +2956,56 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "235001_019_02_851",
+        "create_time": 1699374607815,
+        "episode_in_season": "19",
+        "episode_number": "S1:E19",
+        "external_id": "16348194",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1699452000,
+        "last_update": 1699452033623,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1812,
+        "scheduled_timestamp": 1699452000,
+        "season_number": "1",
+        "serial": 1699452033454,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1859,
+        "show_id": "13596075",
+        "show_timestamp": 1699451987,
+        "status": "current",
+        "summary": "Daffy impersonates his favorite 70s detective show star.",
+        "title": "Off Duty Cop",
+        "title_id": "824672",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235001_019_02_851",
         "create_time": 1699360115836,
         "episode_in_season": "19",
         "episode_number": "S1:E19",
@@ -2996,56 +3046,6 @@
         "show_duration": 1800,
         "show_id": "274202754",
         "show_timestamp": 1699452000,
-        "status": "estimated",
-        "summary": "Daffy impersonates his favorite 70s detective show star.",
-        "title": "Off Duty Cop",
-        "title_id": "824672",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "235001_019_02_851",
-        "create_time": 1699374607815,
-        "episode_in_season": "19",
-        "episode_number": "S1:E19",
-        "external_id": "16348194",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Looney Tunes Show, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1699452000,
-        "last_update": 1699451197233,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2011,
-        "runtime_minutes": 30,
-        "scheduled_duration": 1812,
-        "scheduled_timestamp": 1699452000,
-        "season_number": "1",
-        "serial": 1699451196774,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1812,
-        "show_id": "13596075",
-        "show_timestamp": 1699452034,
         "status": "estimated",
         "summary": "Daffy impersonates his favorite 70s detective show star.",
         "title": "Off Duty Cop",
