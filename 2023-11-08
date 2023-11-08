@@ -3444,7 +3444,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699457400,
-        "last_update": 1699458325830,
+        "last_update": 1699461930548,
         "live": false,
         "participants": [
             {
@@ -3470,7 +3470,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1699457400,
         "season_number": "1",
-        "serial": 1699458325422,
+        "serial": 1699461930236,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 901,
@@ -3889,7 +3889,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699461000,
-        "last_update": 1699461035561,
+        "last_update": 1699461947603,
         "live": false,
         "participants": [
             {
@@ -3930,13 +3930,13 @@
         "scheduled_duration": 911,
         "scheduled_timestamp": 1699461000,
         "season_number": "2",
-        "serial": 1699461035248,
+        "serial": 1699461947253,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 911,
+        "show_duration": 912,
         "show_id": "13596083",
         "show_timestamp": 1699460996,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball and Darwin's reputation is challenged and they really couldn't care less...",
         "title": "The Sweaters",
         "title_id": "2000137",
@@ -4016,76 +4016,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228418_037_02_851",
-        "create_time": 1699374608928,
-        "episode_in_season": "37",
-        "episode_number": "S2:EL37",
-        "external_id": "16348321",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1699461900,
-        "last_update": 1699461035562,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2013,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1699461900,
-        "season_number": "2",
-        "serial": 1699461035248,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 896,
-        "show_id": "13596084",
-        "show_timestamp": 1699461896,
-        "status": "estimated",
-        "summary": "Gumball accidentally uploads a video of himself, and then demands The Internet take it down...personally!",
-        "title": "The Internet",
-        "title_id": "2000138",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228418_037_02_851",
         "create_time": 1699370823430,
         "episode_in_season": "37",
         "episode_number": "S2:EL37",
@@ -4155,6 +4085,76 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228418_037_02_851",
+        "create_time": 1699374608928,
+        "episode_in_season": "37",
+        "episode_number": "S2:EL37",
+        "external_id": "16348321",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1699461900,
+        "last_update": 1699461947601,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1699461900,
+        "season_number": "2",
+        "serial": 1699461947253,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 884,
+        "show_id": "13596084",
+        "show_timestamp": 1699461908,
+        "status": "current",
+        "summary": "Gumball accidentally uploads a video of himself, and then demands The Internet take it down...personally!",
+        "title": "The Internet",
+        "title_id": "2000138",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "250417_003_02_851",
         "create_time": 1699374608929,
         "episode_in_season": "3",
@@ -4168,7 +4168,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699462800,
-        "last_update": 1699461224077,
+        "last_update": 1699461947602,
         "live": false,
         "participants": [
             {
@@ -4229,7 +4229,7 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1699462800,
         "season_number": "1",
-        "serial": 1699461223816,
+        "serial": 1699461947253,
         "series_id": "2267298",
         "series_name": "Tiny Toons Looniversity",
         "show_duration": 1802,
