@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1699419600,
-        "last_update": 1699401015555,
+        "last_update": 1699410726398,
         "live": false,
         "participants": [
             {
@@ -56,12 +56,12 @@
         "scheduled_duration": 1810,
         "scheduled_timestamp": 1699419600,
         "season_number": "3",
-        "serial": 1699401015176,
+        "serial": 1699410726146,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1805,
         "show_id": "13697245",
-        "show_timestamp": 1699419605,
+        "show_timestamp": 1699419606,
         "status": "estimated",
         "summary": "Rick goes toe to toe with the President in this one broh.",
         "title": "The Rickchurian Mortydate",
@@ -6340,6 +6340,65 @@
         "summary": "It's Halloween night and Stan is missing, so the Smith gang heads to the spooky, abandoned CIA headquarters to investigate.",
         "title": "Z.O.I.N.C.S.",
         "title_id": "2392758",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "250984_004_02_851",
+        "create_time": 1699410859507,
+        "episode_in_season": "4",
+        "episode_number": "S7:E04",
+        "external_id": "16348353",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1699504200,
+        "last_update": 1699410859507,
+        "live": false,
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1699504200,
+        "season_number": "7",
+        "serial": 1699410859162,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1803,
+        "show_id": "13697281",
+        "show_timestamp": 1699504200,
+        "status": "estimated",
+        "summary": "BROH, THAT'S-A SOME GOOD SPAGHETTI.",
+        "title": "That's Amorte",
+        "title_id": "2424786",
         "tv_rating": "TV-14"
     }
 ]
