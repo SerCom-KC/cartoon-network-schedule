@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1699506000,
-        "last_update": 1699467815088,
+        "last_update": 1699492849857,
         "live": false,
         "participants": [
             {
@@ -56,7 +56,7 @@
         "scheduled_duration": 1807,
         "scheduled_timestamp": 1699506000,
         "season_number": "4",
-        "serial": 1699467814853,
+        "serial": 1699492849491,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1802,
@@ -6008,5 +6008,159 @@
         "title": "PTA It Ain't So",
         "title_id": "2438937",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232831_012_04_851",
+        "create_time": 1699491027255,
+        "episode_in_season": "12",
+        "episode_number": "S10:E12",
+        "external_id": "16345709",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1699583400,
+        "last_update": 1699491027255,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1699583400,
+        "season_number": "10",
+        "serial": 1699491026983,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13697313",
+        "show_timestamp": 1699583400,
+        "status": "estimated",
+        "summary": "Stan is horrified when he sees a couple die in a car crash, and he goes to see a shrink. Meanwhile, Roger and Klaus study for a wine tasting.",
+        "title": "The Shrink",
+        "title_id": "2019427",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232831_013_04_851",
+        "create_time": 1699492200210,
+        "episode_in_season": "13",
+        "episode_number": "S10:E13",
+        "external_id": "16345710",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1699585200,
+        "last_update": 1699492200210,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus Heissler",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1699585200,
+        "season_number": "10",
+        "serial": 1699492199885,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1810,
+        "show_id": "13697314",
+        "show_timestamp": 1699585200,
+        "status": "estimated",
+        "summary": "Jeff returns from space. Or does he? Meanwhile, Steve watches after Snot's hamster.",
+        "title": "Holy S***, Jeff's Back!",
+        "title_id": "2019428",
+        "tv_rating": "TV-14"
     }
 ]
