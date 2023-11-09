@@ -1391,7 +1391,7 @@
             "Family"
         ],
         "guide_timestamp": 1699525800,
-        "last_update": 1699467816135,
+        "last_update": 1699494345190,
         "live": false,
         "participants": [
             {
@@ -1404,10 +1404,10 @@
         "press_hold": false,
         "release_year": 2019,
         "runtime_minutes": 30,
-        "scheduled_duration": 1814,
+        "scheduled_duration": 1800,
         "scheduled_timestamp": 1699525800,
         "season_number": "9",
-        "serial": 1699467815869,
+        "serial": 1699494344930,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1799,
@@ -6161,6 +6161,83 @@
         "summary": "Jeff returns from space. Or does he? Meanwhile, Steve watches after Snot's hamster.",
         "title": "Holy S***, Jeff's Back!",
         "title_id": "2019428",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232831_014_04_851",
+        "create_time": 1699494346033,
+        "episode_in_season": "14",
+        "episode_number": "S10:E14",
+        "external_id": "16345711",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1699587000,
+        "last_update": 1699494346033,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1699587000,
+        "season_number": "10",
+        "serial": 1699494345742,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13697315",
+        "show_timestamp": 1699587000,
+        "status": "estimated",
+        "summary": "American Dad is sold to a Chinese businessman. Meanwhile, Stan has Francine committed to an insane asylum when he forgets their anniversary.",
+        "title": "American Fung",
+        "title_id": "2019429",
         "tv_rating": "TV-14"
     }
 ]
