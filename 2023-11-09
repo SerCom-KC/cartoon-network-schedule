@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1699506000,
-        "last_update": 1699492849857,
+        "last_update": 1699497200561,
         "live": false,
         "participants": [
             {
@@ -56,12 +56,12 @@
         "scheduled_duration": 1807,
         "scheduled_timestamp": 1699506000,
         "season_number": "4",
-        "serial": 1699492849491,
+        "serial": 1699497200159,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1802,
         "show_id": "13697282",
-        "show_timestamp": 1699506005,
+        "show_timestamp": 1699506004,
         "status": "estimated",
         "summary": "Morty goes nuts this time. Rick does stuff.",
         "title": "Edge of Tomorty: Rick Die Rickpeat",
@@ -6316,6 +6316,76 @@
         "summary": "When Stan lies about his texting and driving accident, he takes a seizure medication and suffers from the side effects. Meanwhile, Roger helps Steve with his performance anxiety.",
         "title": "Seizures Suit Stanny",
         "title_id": "2019430",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251793_002_03_851",
+        "create_time": 1699497661934,
+        "episode_in_season": "2",
+        "episode_number": "S4:E02",
+        "external_id": "16345713",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1699590600,
+        "last_update": 1699497661934,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1699590600,
+        "season_number": "4",
+        "serial": 1699497661642,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13697317",
+        "show_timestamp": 1699590600,
+        "status": "estimated",
+        "summary": "We all have one thing in common broh. I don't know broh. Watch this one.",
+        "title": "The Old Man and the Seat",
+        "title_id": "2206487",
         "tv_rating": "TV-14"
     }
 ]
