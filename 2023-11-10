@@ -407,7 +407,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699597800,
-        "last_update": 1699564133580,
+        "last_update": 1699565850471,
         "live": false,
         "participants": [
             {
@@ -458,10 +458,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1699597800,
         "season_number": "7",
-        "serial": 1699564133355,
+        "serial": 1699565850256,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1786,
+        "show_duration": 1766,
         "show_id": "13697323",
         "show_timestamp": 1699597815,
         "status": "estimated",
@@ -490,7 +490,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699599600,
-        "last_update": 1699546379116,
+        "last_update": 1699565850472,
         "live": false,
         "participants": [
             {
@@ -536,10 +536,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1699599600,
         "season_number": "7",
-        "serial": 1699546378950,
+        "serial": 1699565850256,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1790,
+        "show_duration": 1770,
         "show_id": "13697324",
         "show_timestamp": 1699599605,
         "status": "estimated",
@@ -568,7 +568,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699601400,
-        "last_update": 1699546379117,
+        "last_update": 1699565850511,
         "live": false,
         "participants": [
             {
@@ -614,10 +614,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1699601400,
         "season_number": "7",
-        "serial": 1699546378950,
+        "serial": 1699565850256,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1783,
+        "show_duration": 1748,
         "show_id": "13697325",
         "show_timestamp": 1699601415,
         "status": "estimated",
@@ -4273,6 +4273,62 @@
         "summary_long": "Ed Overboard: Eddy and Edd must turn to the Urban Rangers for help after the Kanker sisters kidnap Ed./One of Those Eds: Everyone in the neighborhood competes to be the first to remove a quarter that's stuck to the sidewalk.",
         "title": "Ed Overboard/One of Those Eds",
         "title_id": "434491",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228262_005_02_851",
+        "create_time": 1699565851239,
+        "episode_in_season": "5",
+        "episode_number": "S4:E05",
+        "external_id": "16345854",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ed, Edd n Eddy",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1699659000,
+        "last_update": 1699565851239,
+        "live": false,
+        "participants": [
+            {
+                "character": "Ed",
+                "name": "Matt Hill",
+                "role": "Voice"
+            },
+            {
+                "character": "Edd",
+                "name": "Sam Vincent",
+                "role": "Voice"
+            },
+            {
+                "character": "Eddy",
+                "name": "Tony Sampson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1811,
+        "scheduled_timestamp": 1699659000,
+        "season_number": "4",
+        "serial": 1699565850913,
+        "series_id": "327280",
+        "series_name": "Ed, Edd n Eddy",
+        "show_duration": 1811,
+        "show_id": "13697342",
+        "show_timestamp": 1699659000,
+        "status": "estimated",
+        "summary": "Ed, Edd and Eddy spend the day attempting to move up in the world. Then, when Jimmy nominates Plank to be King of the Cul-de-sac, Eddy decides to run an election campaign against him.",
+        "summary_long": "They Call Him Mr. Ed: Ed, Edd and Eddy spend the day attempting to move up in the world./For the Ed, by the Ed: When Jimmy nominates Plank to be King of the Cul-de-sac, Eddy decides to run an election campaign against him.",
+        "title": "They Call Him Mr. Ed/For the Ed, by the Ed",
+        "title_id": "434492",
         "tv_rating": "TV-PG"
     }
 ]
