@@ -3376,5 +3376,53 @@
         "title": "A River Runs Through Bob",
         "title_id": "2030303",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169796_003_02_851",
+        "create_time": 1699657292212,
+        "episode_in_season": "3",
+        "episode_number": "S4:E03",
+        "external_id": "16345919",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1699750800,
+        "last_update": 1699657292212,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1699750800,
+        "season_number": "4",
+        "serial": 1699657291921,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13697374",
+        "show_timestamp": 1699750800,
+        "status": "estimated",
+        "summary": "Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of \"Upskirt Kurt,\" the most charming pilot in the air.",
+        "title": "Seaplane!",
+        "title_id": "2030306",
+        "tv_rating": "TV-14"
     }
 ]
