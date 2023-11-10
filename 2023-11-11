@@ -243,5 +243,83 @@
         "title": "A Very Fantasy Vacation",
         "title_id": "2423870",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232852_006_02_851",
+        "create_time": 1699593039155,
+        "episode_in_season": "6",
+        "episode_number": "S7:E06",
+        "external_id": "16345868",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1699686000,
+        "last_update": 1699593039155,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1699686000,
+        "season_number": "7",
+        "serial": 1699593038955,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13697357",
+        "show_timestamp": 1699686000,
+        "status": "estimated",
+        "summary": "Francine is disgusted when Stan reestablishes contact with a crush from CIA boot camp; Bullock hires a bounty hunter to capture Roger; Steve wears Hayley's panties after concluding they bring him luck.",
+        "title": "The Scarlett Getter",
+        "title_id": "748162",
+        "tv_rating": "TV-14"
     }
 ]
