@@ -364,5 +364,46 @@
         "title": "The Forecast Manufacturer",
         "title_id": "2165025",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233061_004_01_851",
+        "create_time": 1699686913189,
+        "episode_in_season": "4",
+        "episode_number": "S8:E04",
+        "external_id": "16346009",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1699779600,
+        "last_update": 1699686913189,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1699779600,
+        "season_number": "8",
+        "serial": 1699686912982,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "13697384",
+        "show_timestamp": 1699779600,
+        "status": "estimated",
+        "summary": "Fry quits his job, and becomes a police officer assigned to the Future Crimes Division.",
+        "title": "Law & Oracle",
+        "title_id": "2161635",
+        "tv_rating": "TV-14"
     }
 ]
