@@ -3459,5 +3459,102 @@
         "title": "Test of Time/A Kick in the Asgard",
         "title_id": "544190",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228246_004_02_851",
+        "create_time": 1699826328450,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "16346195",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Courage the Cowardly Dog",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1699918200,
+        "last_update": 1699826328450,
+        "live": false,
+        "participants": [
+            {
+                "character": "Courage",
+                "name": "Marty Grabstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Muriel Bagge",
+                "name": "Thea White",
+                "role": "Voice"
+            },
+            {
+                "character": "Eustace Bagge",
+                "name": "Lionel Wilson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1699918200,
+        "season_number": "3",
+        "serial": 1699826328228,
+        "series_id": "330149",
+        "series_name": "Courage the Cowardly Dog",
+        "show_duration": 1802,
+        "show_id": "13697431",
+        "show_timestamp": 1699918200,
+        "status": "estimated",
+        "summary": "Eustace is ill, and when Muriel tries to get a curative recipe off the internet, she gets sucked into the computer. Then, while vacationing in Norway, Muriel is mistaken for a Valkyrie and taken off to battle the Trolls.",
+        "summary_long": "Hard Drive Courage: Eustace is ill, and when Muriel tries to get a curative recipe off the internet, she gets sucked into the computer. Courage must go after her./The Ride of the Valkyries: While vacationing in Norway, Muriel is mistaken for a Valkyrie and taken off to battle the Trolls. Courage has to rescue her before she goes to war.",
+        "title": "Hard Drive Courage/The Ride of the Valkyries",
+        "title_id": "410762",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233066_001_04_851",
+        "create_time": 1699826866715,
+        "episode_in_season": "1",
+        "episode_number": "S6:E01",
+        "external_id": "16346196",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1699920000,
+        "last_update": 1699826866715,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1699920000,
+        "season_number": "6",
+        "serial": 1699826866455,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13697432",
+        "show_timestamp": 1699920000,
+        "status": "estimated",
+        "summary": "To Hank's chagrin, Bobby learns to protect himself by kicking boys in the groin.",
+        "title": "Bobby Goes Nuts",
+        "title_id": "731349",
+        "tv_rating": "TV-PG"
     }
 ]
