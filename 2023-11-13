@@ -313,7 +313,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1699858800,
-        "last_update": 1699790911012,
+        "last_update": 1699843976339,
         "live": false,
         "participants": [
             {
@@ -359,12 +359,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1699858800,
         "season_number": "18",
-        "serial": 1699790910760,
+        "serial": 1699843975961,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1791,
         "show_id": "13697411",
-        "show_timestamp": 1699858805,
+        "show_timestamp": 1699858806,
         "status": "estimated",
         "summary": "It's Halloween night and Stan is missing, so the Smith gang heads to the spooky, abandoned CIA headquarters to investigate.",
         "title": "Z.O.I.N.C.S.",
@@ -3988,6 +3988,76 @@
         "summary": "Francine is up for an award for her lonely housewife novel, so the family heads to New York for the ceremony. Meanwhile, Stan and Hayley hang out with actor Robert Wuhl, and Steve and Roger recreate their Wheels and the Legman personas.",
         "title": "Manhattan Magical Murder Mystery Tour",
         "title_id": "2019425",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251793_005_04_851",
+        "create_time": 1699843977035,
+        "episode_in_season": "5",
+        "episode_number": "S4:E05",
+        "external_id": "16346205",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1699936200,
+        "last_update": 1699843977035,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1699936200,
+        "season_number": "4",
+        "serial": 1699843976820,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13697441",
+        "show_timestamp": 1699936200,
+        "status": "estimated",
+        "summary": "Lots of things in space broh. Snakes and sharp stuff. Watch this broh.",
+        "title": "Rattlestar Ricklactica",
+        "title_id": "2206490",
         "tv_rating": "TV-14"
     }
 ]
