@@ -2196,7 +2196,7 @@
             "Family"
         ],
         "guide_timestamp": 1700052300,
-        "last_update": 1700053489269,
+        "last_update": 1700057090308,
         "live": false,
         "participants": [
             {
@@ -2252,7 +2252,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1700052300,
         "season_number": "1",
-        "serial": 1700053489061,
+        "serial": 1700057090003,
         "series_id": "2267111",
         "series_name": "Batwheels",
         "show_duration": 901,
@@ -2365,7 +2365,7 @@
             "Family"
         ],
         "guide_timestamp": 1700053200,
-        "last_update": 1700054124724,
+        "last_update": 1700057725280,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2374,7 +2374,7 @@
         "scheduled_duration": 902,
         "scheduled_timestamp": 1700053200,
         "season_number": "1",
-        "serial": 1700054124116,
+        "serial": 1700057725023,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 902,
@@ -2593,7 +2593,7 @@
             "Family"
         ],
         "guide_timestamp": 1700055900,
-        "last_update": 1700055956181,
+        "last_update": 1700056906651,
         "live": false,
         "participants": [
             {
@@ -2664,13 +2664,13 @@
         "scheduled_duration": 911,
         "scheduled_timestamp": 1700055900,
         "season_number": "1",
-        "serial": 1700055955909,
+        "serial": 1700056906387,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 923,
+        "show_duration": 911,
         "show_id": "13697495",
         "show_timestamp": 1700055887,
-        "status": "current",
+        "status": "actual",
         "summary": "When the Looney Builders build themselves a playground, Daffy gets so excited about his section that he takes all the supplies for himself.",
         "title": "Play Day",
         "title_id": "2267161",
@@ -2780,6 +2780,56 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "235002_004_02_851",
+        "create_time": 1699979651879,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "16346385",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1700056800,
+        "last_update": 1700056906651,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1700056800,
+        "season_number": "2",
+        "serial": 1700056906387,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1804,
+        "show_id": "13596371",
+        "show_timestamp": 1700056798,
+        "status": "current",
+        "summary": "When Bugs loses his gloves, he also loses part of his identity.",
+        "title": "Rebel Without a Glove",
+        "title_id": "883438",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235002_004_02_851",
         "create_time": 1699965844241,
         "episode_in_season": "4",
         "episode_number": "S2:E04",
@@ -2819,56 +2869,6 @@
         "series_name": "The Looney Tunes Show",
         "show_duration": 1800,
         "show_id": "274231426",
-        "show_timestamp": 1700056800,
-        "status": "estimated",
-        "summary": "When Bugs loses his gloves, he also loses part of his identity.",
-        "title": "Rebel Without a Glove",
-        "title_id": "883438",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "235002_004_02_851",
-        "create_time": 1699979651879,
-        "episode_in_season": "4",
-        "episode_number": "S2:E04",
-        "external_id": "16346385",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Looney Tunes Show, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1700056800,
-        "last_update": 1699979651879,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2012,
-        "runtime_minutes": 30,
-        "scheduled_duration": 1802,
-        "scheduled_timestamp": 1700056800,
-        "season_number": "2",
-        "serial": 1699979651268,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1802,
-        "show_id": "13596371",
         "show_timestamp": 1700056800,
         "status": "estimated",
         "summary": "When Bugs loses his gloves, he also loses part of his identity.",
