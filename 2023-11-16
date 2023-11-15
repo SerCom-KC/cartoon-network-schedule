@@ -228,5 +228,83 @@
         "title": "Freedom Cobra",
         "title_id": "846828",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232852_016_02_851",
+        "create_time": 1700023014185,
+        "episode_in_season": "16",
+        "episode_number": "S7:E16",
+        "external_id": "16346513",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1700116200,
+        "last_update": 1700023014185,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1700116200,
+        "season_number": "7",
+        "serial": 1700023013846,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13697519",
+        "show_timestamp": 1700116200,
+        "status": "estimated",
+        "summary": "When Hayley experiences kidney failure, Stan and Fran travel into the past to find the man who may be Hayley's real father.",
+        "title": "The Kidney Stays in the Picture",
+        "title_id": "748148",
+        "tv_rating": "TV-14"
     }
 ]
