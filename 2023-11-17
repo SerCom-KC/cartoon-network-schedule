@@ -94,5 +94,83 @@
         "title": "Robot Chicken: Star Wars Episode III",
         "title_id": "826694",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232852_018_02_851",
+        "create_time": 1700109862487,
+        "episode_in_season": "18",
+        "episode_number": "S7:E18",
+        "external_id": "16346662",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1700202600,
+        "last_update": 1700109862487,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1700202600,
+        "season_number": "7",
+        "serial": 1700109862143,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1810,
+        "show_id": "13697552",
+        "show_timestamp": 1700202600,
+        "status": "estimated",
+        "summary": "Stan wants Steve to stop playing with toys and be a man, so he brings Steve to Mexico to make love to a prostitute; Roger attempts to retrieve a bottle of wine from Terry and Greg.",
+        "title": "Toy Whorey",
+        "title_id": "748177",
+        "tv_rating": "TV-14"
     }
 ]
