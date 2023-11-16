@@ -2894,7 +2894,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1700145000,
-        "last_update": 1700146819812,
+        "last_update": 1700150421309,
         "live": false,
         "participants": [
             {
@@ -2915,7 +2915,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1700145000,
         "season_number": "2",
-        "serial": 1700146819625,
+        "serial": 1700150421109,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1802,
@@ -2994,7 +2994,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1700146800,
-        "last_update": 1700147777555,
+        "last_update": 1700151385039,
         "live": false,
         "participants": [
             {
@@ -3020,7 +3020,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1700146800,
         "season_number": "1",
-        "serial": 1700147777239,
+        "serial": 1700151384434,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 901,
@@ -3324,7 +3324,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1700149500,
-        "last_update": 1700149612697,
+        "last_update": 1700150471388,
         "live": false,
         "participants": [
             {
@@ -3350,13 +3350,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1700149500,
         "season_number": "2",
-        "serial": 1700149612429,
+        "serial": 1700150471087,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 902,
         "show_id": "13697535",
         "show_timestamp": 1700149498,
-        "status": "current",
+        "status": "actual",
         "summary": "A terrible haircut forces Craig to go undercover at the Creek.",
         "title": "Jacob of the Creek",
         "title_id": "2175289",
@@ -3504,7 +3504,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1700150400,
-        "last_update": 1700065253269,
+        "last_update": 1700151318032,
         "live": false,
         "participants": [
             {
@@ -3545,16 +3545,86 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1700150400,
         "season_number": "4",
-        "serial": 1700065252859,
+        "serial": 1700151317683,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 895,
         "show_id": "13596422",
         "show_timestamp": 1700150400,
-        "status": "estimated",
+        "status": "actual",
         "summary": "The residents of Elmore search for the meaning of love.",
         "title": "The Love",
         "title_id": "2074673",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228427_027_03_851",
+        "create_time": 1700065253270,
+        "episode_in_season": "27",
+        "episode_number": "S4:E27",
+        "external_id": "16346543",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1700151300,
+        "last_update": 1700151401115,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1700151300,
+        "season_number": "4",
+        "serial": 1700151400765,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 910,
+        "show_id": "13596423",
+        "show_timestamp": 1700151295,
+        "status": "current",
+        "summary": "Gumball is walking in the same direction as Hot Dog Guy, and with each step it becomes increasingly awkward.",
+        "title": "The Awkwardness",
+        "title_id": "2074675",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -3630,11 +3700,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228427_027_03_851",
+        "content_id": "228427_028_03_851",
         "create_time": 1700065253270,
-        "episode_in_season": "27",
-        "episode_number": "S4:E27",
-        "external_id": "16346543",
+        "episode_in_season": "28",
+        "episode_number": "S4:E28",
+        "external_id": "16346544",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -3643,8 +3713,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1700151300,
-        "last_update": 1700065253270,
+        "guide_timestamp": 1700152200,
+        "last_update": 1700151401116,
         "live": false,
         "participants": [
             {
@@ -3682,19 +3752,20 @@
         "press_hold": false,
         "release_year": 2016,
         "runtime_minutes": 15,
-        "scheduled_duration": 910,
-        "scheduled_timestamp": 1700151300,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1700152200,
         "season_number": "4",
-        "serial": 1700065252859,
+        "serial": 1700151400765,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 910,
-        "show_id": "13596423",
-        "show_timestamp": 1700151300,
+        "show_duration": 895,
+        "show_id": "13596424",
+        "show_timestamp": 1700152195,
         "status": "estimated",
-        "summary": "Gumball is walking in the same direction as Hot Dog Guy, and with each step it becomes increasingly awkward.",
-        "title": "The Awkwardness",
-        "title_id": "2074675",
+        "summary": "A breaking news report tells the Wattersons that their neighbor is among the several mysterious disappearances happening across Elmore.",
+        "summary_long": "A breaking news report tells the Wattersons that their neighbor is among the several mysterious disappearances happening across Elmore. Their search for clues leads them to find a strange egg, which they soon discover belongs to their own Evil Turtle. The family realize it's their responsibility to track down their pet before she and her brood do more damage to the town.",
+        "title": "The Nest",
+        "title_id": "2074676",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -3771,11 +3842,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228427_028_03_851",
-        "create_time": 1700065253270,
-        "episode_in_season": "28",
-        "episode_number": "S4:E28",
-        "external_id": "16346544",
+        "content_id": "228427_029_03_851",
+        "create_time": 1700065253271,
+        "episode_in_season": "29",
+        "episode_number": "S4:E29",
+        "external_id": "16346545",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -3784,8 +3855,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1700152200,
-        "last_update": 1700065253270,
+        "guide_timestamp": 1700153100,
+        "last_update": 1700151401158,
         "live": false,
         "participants": [
             {
@@ -3824,19 +3895,19 @@
         "release_year": 2016,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1700152200,
+        "scheduled_timestamp": 1700153100,
         "season_number": "4",
-        "serial": 1700065252859,
+        "serial": 1700151400765,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13596424",
-        "show_timestamp": 1700152200,
+        "show_duration": 895,
+        "show_id": "13596425",
+        "show_timestamp": 1700153098,
         "status": "estimated",
-        "summary": "A breaking news report tells the Wattersons that their neighbor is among the several mysterious disappearances happening across Elmore.",
-        "summary_long": "A breaking news report tells the Wattersons that their neighbor is among the several mysterious disappearances happening across Elmore. Their search for clues leads them to find a strange egg, which they soon discover belongs to their own Evil Turtle. The family realize it's their responsibility to track down their pet before she and her brood do more damage to the town.",
-        "title": "The Nest",
-        "title_id": "2074676",
+        "summary": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek.",
+        "summary_long": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek. Tobias admits he earns good points doing chores for his parents, which he then exchanges for dollars to buy cool stuff for Galatrek. If Gumball and Darwin do Tobias' chores they can earn his good points and use them for Galatrek. Gumball and Darwin think they've hit the jackpot. But these good points may not be quite as good as Tobias claims.",
+        "title": "The Points",
+        "title_id": "2074677",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -3913,73 +3984,91 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228427_029_03_851",
-        "create_time": 1700065253271,
-        "episode_in_season": "29",
-        "episode_number": "S4:E29",
-        "external_id": "16346545",
+        "content_id": "250417_008_02_851",
+        "create_time": 1700065253272,
+        "episode_in_season": "8",
+        "episode_number": "S1:E04",
+        "external_id": "16346546",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
+        "franchise_name": "Tiny Toons Looniversity",
         "genres": [
             "Animation",
-            "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1700153100,
-        "last_update": 1700065253271,
+        "guide_timestamp": 1700154000,
+        "last_update": 1700151401159,
         "live": false,
         "participants": [
             {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Spielberg",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Darryl Frank",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Justin Falvey",
+                "role": "Executive Producer"
+            },
+            {
+                "character": "Buster Bunny",
+                "name": "Ben Giroux",
                 "role": "Voice"
             },
             {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
                 "role": "Voice"
             },
             {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
+                "character": "Foghorn Leghorn",
+                "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
+                "character": "Sylvester James Pussycat, Jr.",
+                "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
+                "character": "Elmer J. Fudd",
+                "name": "Eric Bauza",
                 "role": "Voice"
             }
         ],
-        "premiere": false,
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1700153100,
-        "season_number": "4",
-        "serial": 1700065252859,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
-        "show_id": "13596425",
-        "show_timestamp": 1700153100,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1700154000,
+        "season_number": "1",
+        "serial": 1700151400765,
+        "series_id": "2267298",
+        "series_name": "Tiny Toons Looniversity",
+        "show_duration": 1803,
+        "show_id": "13596426",
+        "show_timestamp": 1700153999,
         "status": "estimated",
-        "summary": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek.",
-        "summary_long": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek. Tobias admits he earns good points doing chores for his parents, which he then exchanges for dollars to buy cool stuff for Galatrek. If Gumball and Darwin do Tobias' chores they can earn his good points and use them for Galatrek. Gumball and Darwin think they've hit the jackpot. But these good points may not be quite as good as Tobias claims.",
-        "title": "The Points",
-        "title_id": "2074677",
-        "tv_rating": "TV-Y7-FV"
+        "summary": "Buster and Sweetie join the Tooney Ball team during Electives Week while Babs and Plucky tackle the basics in Anvils 101, leaving Hamton on a journey to fix his indecisiveness.",
+        "title": "Tooney Ball Lights",
+        "title_id": "2267302",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -4073,95 +4162,6 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "250417_008_02_851",
-        "create_time": 1700065253272,
-        "episode_in_season": "8",
-        "episode_number": "S1:E04",
-        "external_id": "16346546",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Tiny Toons Looniversity",
-        "genres": [
-            "Animation",
-            "Comedy"
-        ],
-        "guide_timestamp": 1700154000,
-        "last_update": 1700065253272,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Sam Register",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Spielberg",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Darryl Frank",
-                "role": "Executive Producer"
-            },
-            {
-                "character": null,
-                "name": "Justin Falvey",
-                "role": "Executive Producer"
-            },
-            {
-                "character": "Buster Bunny",
-                "name": "Ben Giroux",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Foghorn Leghorn",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Jr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Elmer J. Fudd",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2023,
-        "runtime_minutes": 30,
-        "scheduled_duration": 1803,
-        "scheduled_timestamp": 1700154000,
-        "season_number": "1",
-        "serial": 1700065252859,
-        "series_id": "2267298",
-        "series_name": "Tiny Toons Looniversity",
-        "show_duration": 1803,
-        "show_id": "13596426",
-        "show_timestamp": 1700154000,
-        "status": "estimated",
-        "summary": "Buster and Sweetie join the Tooney Ball team during Electives Week while Babs and Plucky tackle the basics in Anvils 101, leaving Hamton on a journey to fix his indecisiveness.",
-        "title": "Tooney Ball Lights",
-        "title_id": "2267302",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
         "content_id": "228556_017_02_851",
         "create_time": 1700063126059,
         "episode_in_season": "17",
@@ -4236,7 +4236,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1700155800,
-        "last_update": 1700065253272,
+        "last_update": 1700151401159,
         "live": false,
         "participants": [
             {
@@ -4267,10 +4267,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1700155800,
         "season_number": "1",
-        "serial": 1700065252859,
+        "serial": 1700151400765,
         "series_id": "2012957",
         "series_name": "Clarence",
-        "show_duration": 900,
+        "show_duration": 895,
         "show_id": "13596427",
         "show_timestamp": 1700155800,
         "status": "estimated",
@@ -4416,7 +4416,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1700157600,
-        "last_update": 1700065253273,
+        "last_update": 1700151401159,
         "live": false,
         "participants": [
             {
@@ -4447,10 +4447,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1700157600,
         "season_number": "1",
-        "serial": 1700065252859,
+        "serial": 1700151400765,
         "series_id": "2012957",
         "series_name": "Clarence",
-        "show_duration": 900,
+        "show_duration": 894,
         "show_id": "13596429",
         "show_timestamp": 1700157600,
         "status": "estimated",
