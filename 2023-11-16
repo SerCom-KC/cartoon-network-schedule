@@ -2794,7 +2794,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1700143200,
-        "last_update": 1700145110584,
+        "last_update": 1700148713602,
         "live": false,
         "participants": [
             {
@@ -2815,7 +2815,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1700143200,
         "season_number": "2",
-        "serial": 1700145110342,
+        "serial": 1700148713366,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1799,
@@ -3104,7 +3104,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1700147700,
-        "last_update": 1700148609352,
+        "last_update": 1700148657799,
         "live": false,
         "participants": [
             {
@@ -3130,10 +3130,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1700147700,
         "season_number": "1",
-        "serial": 1700148609114,
+        "serial": 1700148657575,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 905,
+        "show_duration": 902,
         "show_id": "13697533",
         "show_timestamp": 1700147695,
         "status": "actual",
@@ -3201,6 +3201,61 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229075_001_03_851",
+        "create_time": 1700065252188,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "16346540",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1700148600,
+        "last_update": 1700148657798,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1700148600,
+        "season_number": "2",
+        "serial": 1700148657575,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 903,
+        "show_id": "13697534",
+        "show_timestamp": 1700148597,
+        "status": "current",
+        "summary": "When a pillar of the Creek community leaves, our trio mourns their loss by remembering the good times.",
+        "title": "Memories of Bobby",
+        "title_id": "2171410",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229075_001_03_851",
         "create_time": 1700055413056,
         "episode_in_season": "1",
         "episode_number": "S2:E01",
@@ -3247,61 +3302,6 @@
         "show_id": "274235562",
         "show_timestamp": 1700148600,
         "status": "estimated",
-        "summary": "When a pillar of the Creek community leaves, our trio mourns their loss by remembering the good times.",
-        "title": "Memories of Bobby",
-        "title_id": "2171410",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229075_001_03_851",
-        "create_time": 1700065252188,
-        "episode_in_season": "1",
-        "episode_number": "S2:E01",
-        "external_id": "16346540",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1700148600,
-        "last_update": 1700148609351,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2019,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1700148600,
-        "season_number": "2",
-        "serial": 1700148609114,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13697534",
-        "show_timestamp": 1700148600,
-        "status": "current",
         "summary": "When a pillar of the Creek community leaves, our trio mourns their loss by remembering the good times.",
         "title": "Memories of Bobby",
         "title_id": "2171410",
