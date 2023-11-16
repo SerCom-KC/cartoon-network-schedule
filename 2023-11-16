@@ -2594,7 +2594,7 @@
             "Family"
         ],
         "guide_timestamp": 1700142300,
-        "last_update": 1700143276406,
+        "last_update": 1700146880793,
         "live": false,
         "participants": [
             {
@@ -2665,7 +2665,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1700142300,
         "season_number": "1",
-        "serial": 1700143276150,
+        "serial": 1700146880601,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
         "show_duration": 895,
@@ -2894,7 +2894,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1700145000,
-        "last_update": 1700145110583,
+        "last_update": 1700146819812,
         "live": false,
         "participants": [
             {
@@ -2915,13 +2915,13 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1700145000,
         "season_number": "2",
-        "serial": 1700145110342,
+        "serial": 1700146819625,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1808,
+        "show_duration": 1802,
         "show_id": "13596417",
         "show_timestamp": 1700144992,
-        "status": "current",
+        "status": "actual",
         "summary": "When customer service representative Cecil Turtle intentionally cuts off Bugs' cable TV, Bugs declares war and gets revenge.",
         "title": "Customer Service",
         "title_id": "883441",
@@ -2994,7 +2994,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1700146800,
-        "last_update": 1700140660315,
+        "last_update": 1700147777555,
         "live": false,
         "participants": [
             {
@@ -3020,13 +3020,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1700146800,
         "season_number": "1",
-        "serial": 1700140660059,
+        "serial": 1700147777239,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 900,
+        "show_duration": 901,
         "show_id": "13697532",
-        "show_timestamp": 1700146799,
-        "status": "estimated",
+        "show_timestamp": 1700146794,
+        "status": "actual",
         "summary": "When the Time Keeper goes missing, Craig and his friends take up the task of helping kids get home in time for dinner.",
         "title": "The Mystery of the Timekeeper",
         "title_id": "2178245",
@@ -3091,6 +3091,61 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229093_040_03_851",
+        "create_time": 1700065252188,
+        "episode_in_season": "40",
+        "episode_number": "S1:E40",
+        "external_id": "16346539",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1700147700,
+        "last_update": 1700147777554,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1700147700,
+        "season_number": "1",
+        "serial": 1700147777239,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 905,
+        "show_id": "13697533",
+        "show_timestamp": 1700147695,
+        "status": "current",
+        "summary": "Craig has an \"emergency\" leaving Kelsey alone at the Stump.",
+        "title": "Alone Quest",
+        "title_id": "2171409",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229093_040_03_851",
         "create_time": 1700055413055,
         "episode_in_season": "40",
         "episode_number": "S1:E40",
@@ -3135,61 +3190,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274235552",
-        "show_timestamp": 1700147700,
-        "status": "estimated",
-        "summary": "Craig has an \"emergency\" leaving Kelsey alone at the Stump.",
-        "title": "Alone Quest",
-        "title_id": "2171409",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229093_040_03_851",
-        "create_time": 1700065252188,
-        "episode_in_season": "40",
-        "episode_number": "S1:E40",
-        "external_id": "16346539",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1700147700,
-        "last_update": 1700065252188,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2018,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1700147700,
-        "season_number": "1",
-        "serial": 1700065251625,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13697533",
         "show_timestamp": 1700147700,
         "status": "estimated",
         "summary": "Craig has an \"emergency\" leaving Kelsey alone at the Stump.",
