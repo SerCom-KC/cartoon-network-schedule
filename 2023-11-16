@@ -6201,5 +6201,82 @@
         "title": "Garfield and Friends",
         "title_id": "2046303",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232833_021_03_851",
+        "create_time": 1700101653724,
+        "episode_in_season": "21",
+        "episode_number": "S11:E21",
+        "external_id": "16346658",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1700193600,
+        "last_update": 1700101653724,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1700193600,
+        "season_number": "11",
+        "serial": 1700101653294,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1810,
+        "show_id": "13697548",
+        "show_timestamp": 1700193600,
+        "status": "estimated",
+        "summary": "Stan and Steve start bowling together to have more quality time and Steve gets discovered for his bowling talent. Klaus holds a contest to test whether Roger or Hayley have the worse attention span.",
+        "title": "Next of Pin",
+        "title_id": "2046305",
+        "tv_rating": "TV-14"
     }
 ]
