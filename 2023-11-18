@@ -2953,5 +2953,52 @@
         "title": "An Indecent Thanksgiving Proposal",
         "title_id": "2003516",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169796_005_04_851",
+        "create_time": 1700254220489,
+        "episode_in_season": "5",
+        "episode_number": "S4:E05",
+        "external_id": "16346856",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1700346600,
+        "last_update": 1700254220489,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1700346600,
+        "season_number": "4",
+        "serial": 1700254220053,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13697602",
+        "show_timestamp": 1700346600,
+        "status": "estimated",
+        "summary": "Determined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage.",
+        "title": "Turkey in a Can",
+        "title_id": "2030308",
+        "tv_rating": "TV-14"
     }
 ]
