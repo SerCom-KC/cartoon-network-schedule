@@ -4131,5 +4131,130 @@
         "title": "Wharf Horse",
         "title_id": "2030322",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169796_022_04_851",
+        "create_time": 1700180822957,
+        "episode_in_season": "22",
+        "episode_number": "S4:E22",
+        "external_id": "16346721",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1700272800,
+        "last_update": 1700180822957,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1700272800,
+        "season_number": "4",
+        "serial": 1700180822755,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13697579",
+        "show_timestamp": 1700272800,
+        "status": "estimated",
+        "summary": "It's Linda and the kids to the rescue when Felix takes desperate measures, and puts Bob and Mr. Fischoeder in danger.",
+        "title": "World Wharf II: The Wharfening",
+        "title_id": "2030323",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232833_022_03_851",
+        "create_time": 1700181207721,
+        "episode_in_season": "22",
+        "episode_number": "S11:E22",
+        "external_id": "16346722",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1700274600,
+        "last_update": 1700181207721,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1700274600,
+        "season_number": "11",
+        "serial": 1700181207336,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13697580",
+        "show_timestamp": 1700274600,
+        "status": "estimated",
+        "summary": "In order to avoid being sent on a suicide mission, Stan learns how to become a DJ to beat Bullock in a DJ Battle. Jeff takes up drinking psychedelic teas and Roger helps him build an imaginary musical instrument.",
+        "title": "Standard Deviation",
+        "title_id": "2046306",
+        "tv_rating": "TV-14"
     }
 ]
