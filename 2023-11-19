@@ -136,7 +136,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1700375400,
-        "last_update": 1700355752084,
+        "last_update": 1700359182461,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -145,10 +145,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1700375400,
         "season_number": "17",
-        "serial": 1700355751849,
+        "serial": 1700359181956,
         "series_id": "608007",
         "series_name": "One Piece",
-        "show_duration": 1781,
+        "show_duration": 1766,
         "show_id": "13710863",
         "show_timestamp": 1700375410,
         "status": "estimated",
@@ -249,7 +249,7 @@
             "Animation"
         ],
         "guide_timestamp": 1700380800,
-        "last_update": 1700355752087,
+        "last_update": 1700359182462,
         "live": false,
         "participants": [
             {
@@ -295,10 +295,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1700380800,
         "season_number": "1",
-        "serial": 1700355751849,
+        "serial": 1700359181956,
         "series_id": "2267325",
         "series_name": "Unicorn: Warriors Eternal",
-        "show_duration": 1802,
+        "show_duration": 1772,
         "show_id": "13697615",
         "show_timestamp": 1700380805,
         "status": "estimated",
@@ -327,7 +327,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1700382600,
-        "last_update": 1700355752088,
+        "last_update": 1700359182463,
         "live": false,
         "participants": [
             {
@@ -358,10 +358,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1700382600,
         "season_number": "7",
-        "serial": 1700355751849,
+        "serial": 1700359181956,
         "series_id": "439722",
         "series_name": "The Venture Bros.",
-        "show_duration": 1787,
+        "show_duration": 1757,
         "show_id": "13697616",
         "show_timestamp": 1700382615,
         "status": "estimated",
@@ -3394,6 +3394,124 @@
         "summary": "Klaus house sits for the Smiths while they are away on vacation; Roger investigates the origin of powerful winds plaguing the Eastern Seaboard.",
         "title": "A New Era for the Smith House",
         "title_id": "2399408",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "250984_005_02_851",
+        "create_time": 1700359182464,
+        "episode_in_season": "5",
+        "episode_number": "S7:E05",
+        "external_id": "16347000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1700451000,
+        "last_update": 1700359182464,
+        "live": false,
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1815,
+        "scheduled_timestamp": 1700451000,
+        "season_number": "7",
+        "serial": 1700359181956,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1815,
+        "show_id": "13697637",
+        "show_timestamp": 1700451000,
+        "status": "estimated",
+        "summary": "Rick and Morty wilding out, broh. They getting up to stuff.",
+        "title": "Unmortricken",
+        "title_id": "2424787",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "250984_009_02_851",
+        "create_time": 1700359247982,
+        "episode_in_season": "9",
+        "episode_number": "S7:E06",
+        "external_id": "16347001",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1700452800,
+        "last_update": 1700359247982,
+        "live": false,
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1812,
+        "scheduled_timestamp": 1700452800,
+        "season_number": "7",
+        "serial": 1700359247812,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1812,
+        "show_id": "13697638",
+        "show_timestamp": 1700452800,
+        "status": "estimated",
+        "summary": "Gotta keep those reciepts, dawg.",
+        "title": "Rickfending Your Mort",
+        "title_id": "2424791",
         "tv_rating": "TV-14"
     }
 ]
