@@ -2558,5 +2558,82 @@
         "title": "Roger's Baby",
         "title_id": "2069537",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232834_010_02_851",
+        "create_time": 1700446401876,
+        "episode_in_season": "10",
+        "episode_number": "S12:E10",
+        "external_id": "16347048",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1700539200,
+        "last_update": 1700446401876,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1700539200,
+        "season_number": "12",
+        "serial": 1700446401340,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13697671",
+        "show_timestamp": 1700539200,
+        "status": "estimated",
+        "summary": "Klaus gets transferred into the navigation system of Stan's car after Stan refuses to pay for a life-saving surgery. Steve and his friends prank Roger's Frank character and he terrorizes them for revenge.",
+        "title": "A Nice Night for a Drive",
+        "title_id": "2069541",
+        "tv_rating": "TV-14"
     }
 ]
