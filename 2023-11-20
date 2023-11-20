@@ -2635,5 +2635,75 @@
         "title": "A Nice Night for a Drive",
         "title_id": "2069541",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251794_001_03_851",
+        "create_time": 1700448358925,
+        "episode_in_season": "1",
+        "episode_number": "S5:E01",
+        "external_id": "16347049",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1700541000,
+        "last_update": 1700448358925,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1700541000,
+        "season_number": "5",
+        "serial": 1700448358698,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13697672",
+        "show_timestamp": 1700541000,
+        "status": "estimated",
+        "summary": "Big man comin for dinner, broh. Better check the booze.",
+        "title": "Mort Dinner Rick Andre",
+        "title_id": "2270458",
+        "tv_rating": "TV-14"
     }
 ]
