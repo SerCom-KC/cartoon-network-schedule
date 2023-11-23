@@ -3430,5 +3430,77 @@
         "title": "Winter Break",
         "title_id": "2228214",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229021_010_03_851",
+        "create_time": 1700765285979,
+        "episode_in_season": "10",
+        "episode_number": "S4:E10",
+        "external_id": "16347751",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1700857800,
+        "last_update": 1700765285979,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 22,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1700857800,
+        "season_number": "4",
+        "serial": 1700765285729,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 1800,
+        "show_id": "13702674",
+        "show_timestamp": 1700857800,
+        "status": "estimated",
+        "summary": "Mordecai and Rigby have to destroy a gift for Santa to save Christmas.",
+        "title": "The Christmas Special",
+        "title_id": "2045844",
+        "tv_rating": "TV-PG"
     }
 ]
