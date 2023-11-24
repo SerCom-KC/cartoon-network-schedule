@@ -333,5 +333,125 @@
         "title": "Max Jets",
         "title_id": "748217",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232832_012_02_851",
+        "create_time": 1700809659383,
+        "episode_in_season": "12",
+        "episode_number": "S8:E12",
+        "external_id": "16347774",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1700901000,
+        "last_update": 1700809659383,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1700901000,
+        "season_number": "8",
+        "serial": 1700809659142,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13697816",
+        "show_timestamp": 1700901000,
+        "status": "estimated",
+        "summary": "Roger pretends to be Jeff's imaginary friend so he can roam naked around the house with no disguise. When Jeff figures out Roger is an alien, Stan issues an ultimatum, either Roger or Jeff must be killed immediately.",
+        "summary_long": "Roger pretends to be Jeff's imaginary friend so he can freely roam naked around the house with no disguise. But when big-mouth Jeff figures out Roger is an alien, Stan issues an ultimatum, either Roger or Jeff must be killed immediately. Meanwhile, Steve becomes insecure about the shape of his rear end.",
+        "title": "Naked to the Limit, One More Time",
+        "title_id": "748212",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233061_008_01_851",
+        "create_time": 1700809659427,
+        "episode_in_season": "8",
+        "episode_number": "S8:E08",
+        "external_id": "16347775",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1700902800,
+        "last_update": 1700809659427,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1700902800,
+        "season_number": "8",
+        "serial": 1700809659142,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "13697817",
+        "show_timestamp": 1700902800,
+        "status": "estimated",
+        "summary": "Leela becomes obsessed with hunting down a mysterious, four-dimensional space whale.",
+        "title": "Mobius Dick",
+        "title_id": "2161634",
+        "tv_rating": "TV-14"
     }
 ]
