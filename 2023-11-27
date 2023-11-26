@@ -158,5 +158,121 @@
         "title": "Woodchipper Hijinks",
         "title_id": "2418685",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "241156_006_01_851",
+        "create_time": 1700970991668,
+        "episode_in_season": "6",
+        "episode_number": "S6:E06",
+        "external_id": "16348209",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Eric Andre Show, The",
+        "genres": [
+            "Comedy",
+            "Talk"
+        ],
+        "guide_timestamp": 1701063900,
+        "last_update": 1700970991668,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701063900,
+        "season_number": "6",
+        "serial": 1700970990013,
+        "series_id": "895948",
+        "series_name": "The Eric Andre Show",
+        "show_duration": 900,
+        "show_id": "13697873",
+        "show_timestamp": 1701063900,
+        "status": "estimated",
+        "summary": "Eric welcomes Chet Hanks, Natasha Lyonne, and Diplo. A realtor gets caught cheating on his wife but makes the sale nonetheless.",
+        "title": "Don't You Say a Word",
+        "title_id": "2418686",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232851_009_01_851",
+        "create_time": 1700971773373,
+        "episode_in_season": "9",
+        "episode_number": "S17:E09",
+        "external_id": "16348210",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1701064800,
+        "last_update": 1700971773373,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1701064800,
+        "season_number": "17",
+        "serial": 1700971773108,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13697874",
+        "show_timestamp": 1701064800,
+        "status": "estimated",
+        "summary": "Wheels and the Legman try to hunt down the perpetrators who destroyed Steve's secret swimming hole. Meanwhile, Klaus helps an aging Principal Lewis reclaim his confidence.",
+        "title": "The Curious Case of the Old Hole",
+        "title_id": "2342097",
+        "tv_rating": "TV-14"
     }
 ]
