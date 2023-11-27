@@ -207,7 +207,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701151200,
-        "last_update": 1701058090803,
+        "last_update": 1701101250169,
         "live": false,
         "participants": [
             {
@@ -275,13 +275,13 @@
         "press_hold": false,
         "release_year": 2012,
         "runtime_minutes": 15,
-        "scheduled_duration": 919,
+        "scheduled_duration": 904,
         "scheduled_timestamp": 1701151200,
         "season_number": "6",
-        "serial": 1701058090430,
+        "serial": 1701101249862,
         "series_id": "608360",
         "series_name": "Robot Chicken",
-        "show_duration": 919,
+        "show_duration": 904,
         "show_id": "13792255",
         "show_timestamp": 1701151200,
         "status": "estimated",
@@ -1494,6 +1494,77 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228423_008_03_851",
+        "create_time": 1701101250843,
+        "episode_in_season": "8",
+        "episode_number": "S6:E08",
+        "external_id": "16368771",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701169200,
+        "last_update": 1701101250843,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701169200,
+        "season_number": "6",
+        "serial": 1701101250393,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13800131",
+        "show_timestamp": 1701169200,
+        "status": "estimated",
+        "summary": "Gumball and Darwin discover that their teacher, Mr. Corneille, has a secret life as a fighter.",
+        "summary_long": "When Mr. Corneille shows up to work with a mysterious bruise, Gumball and Darwin discover that he's teacher by day and a cage fighter by night, or was until he vowed never to fight again. However, when the school is being closed for a lack of finances the boys have to try and convince him to come out retirement for one last fight.",
+        "title": "The Cage",
+        "title_id": "2131264",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "228423_009_03_851",
         "create_time": 1701078778741,
         "episode_in_season": "9",
@@ -1554,6 +1625,77 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 840,
         "show_id": "274284564",
+        "show_timestamp": 1701170100,
+        "status": "estimated",
+        "summary": "Elmore has been plunged into black and white and Gumball and Darwin have to figure out what's going on.",
+        "summary_long": "Everything in Elmore is suddenly just various shades of grey, and things all over town are going wrong. Gumball and Darwin follow the mayhem and learn that one person was holding the whole town together: Alan. They have to restore his faith in the world to bring color back to Elmore.",
+        "title": "The Faith",
+        "title_id": "2149379",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228423_009_03_851",
+        "create_time": 1701101250843,
+        "episode_in_season": "9",
+        "episode_number": "S6:E09",
+        "external_id": "16368772",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701170100,
+        "last_update": 1701101250843,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1701170100,
+        "season_number": "6",
+        "serial": 1701101250393,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 840,
+        "show_id": "13800132",
         "show_timestamp": 1701170100,
         "status": "estimated",
         "summary": "Elmore has been plunged into black and white and Gumball and Darwin have to figure out what's going on.",
@@ -1635,6 +1777,76 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228419_002_03_851",
+        "create_time": 1701101250843,
+        "episode_in_season": "2",
+        "episode_number": "S1:EL02",
+        "external_id": "16368131",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701171000,
+        "last_update": 1701101250843,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1701170940,
+        "season_number": "1",
+        "serial": 1701101250393,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 840,
+        "show_id": "13798642",
+        "show_timestamp": 1701170940,
+        "status": "estimated",
+        "summary": "Gumball is desperate to avoid a late fee on the rented DVD he accidentally destroyed.",
+        "title": "The DVD",
+        "title_id": "839533",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "228419_003_03_851",
         "create_time": 1701078779285,
         "episode_in_season": "3",
@@ -1695,6 +1907,76 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 840,
         "show_id": "274284584",
+        "show_timestamp": 1701171780,
+        "status": "estimated",
+        "summary": "Gumball and Darwin spice up their friendship by introducing a third best friend.",
+        "title": "The Third",
+        "title_id": "839571",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228419_003_03_851",
+        "create_time": 1701101250844,
+        "episode_in_season": "3",
+        "episode_number": "S1:EL03",
+        "external_id": "16368132",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701171900,
+        "last_update": 1701101250844,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 11,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1701171780,
+        "season_number": "1",
+        "serial": 1701101250393,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 840,
+        "show_id": "13798643",
         "show_timestamp": 1701171780,
         "status": "estimated",
         "summary": "Gumball and Darwin spice up their friendship by introducing a third best friend.",
@@ -1800,6 +2082,101 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "234485_003_01_851",
+        "create_time": 1701101250844,
+        "episode_in_season": "3",
+        "episode_number": "203",
+        "external_id": "16368133",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Lamput",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701172500,
+        "last_update": 1701101250844,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Concept By"
+            },
+            {
+                "character": null,
+                "name": "Anand Babu",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Abhilash Narayanan",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Rajiv Eipe",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Upamanyu Bhattacharyya",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Roto Shah",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Advait Nemlekar",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Inspidea",
+                "role": "Animation"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Studios",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Chris Leong Mei Cian",
+                "role": "Production Manager"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1701172620,
+        "season_number": "2",
+        "serial": 1701101250393,
+        "series_id": "2106724",
+        "series_name": "Lamput",
+        "show_duration": 180,
+        "show_id": "13798644",
+        "show_timestamp": 1701172620,
+        "status": "estimated",
+        "summary": "The chase happens in a supermarket where Lamput disguised as an orange product! Specs rush to pay but Lamput morphs into expensive orange product when the cashier is not looking.",
+        "title": "Superstore",
+        "title_id": "2168172",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "228419_004_03_851",
         "create_time": 1701079668758,
         "episode_in_season": "4",
@@ -1860,6 +2237,76 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274284604",
+        "show_timestamp": 1701172800,
+        "status": "estimated",
+        "summary": "Gumball resolves to save Mr. Robinson's life during Elmore's Senior Talent Show.",
+        "title": "The Debt",
+        "title_id": "839570",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228419_004_03_851",
+        "create_time": 1701101250844,
+        "episode_in_season": "4",
+        "episode_number": "S1:EL04",
+        "external_id": "16361174",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701172800,
+        "last_update": 1701101250844,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701172800,
+        "season_number": "1",
+        "serial": 1701101250393,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13791817",
         "show_timestamp": 1701172800,
         "status": "estimated",
         "summary": "Gumball resolves to save Mr. Robinson's life during Elmore's Senior Talent Show.",
@@ -1940,6 +2387,76 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228419_005_02_851",
+        "create_time": 1701101250844,
+        "episode_in_season": "5",
+        "episode_number": "S1:EL05",
+        "external_id": "16361175",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701173700,
+        "last_update": 1701101250844,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 14,
+        "scheduled_duration": 844,
+        "scheduled_timestamp": 1701173700,
+        "season_number": "1",
+        "serial": 1701101250393,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 844,
+        "show_id": "13791818",
+        "show_timestamp": 1701173700,
+        "status": "estimated",
+        "summary": "Gumball and Darwin are convinced that the world will end in 24 hours.",
+        "title": "The End",
+        "title_id": "839534",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "252832_044_02_851",
         "create_time": 1701082166820,
         "episode_in_season": "44",
@@ -1968,6 +2485,44 @@
         "series_name": "CoComelon",
         "show_duration": 1680,
         "show_id": "274284624",
+        "show_timestamp": 1701174540,
+        "status": "estimated",
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "We Wish You a Merry Christmas/ Deck the Halls/ Christmas Songs Medley (Deck the Halls, Jingle Bells, We Wish You a Merry Christmas)/ New Year Song/ Tom Tom's Holiday Giving Song/ Christmas at the Farm/ JJ's New Year's Resolution",
+        "title_id": "2435791",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "252832_044_02_851",
+        "create_time": 1701101251919,
+        "episode_in_season": "44",
+        "episode_number": "1044",
+        "external_id": "16368134",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1701174600,
+        "last_update": 1701101251919,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1680,
+        "scheduled_timestamp": 1701174540,
+        "season_number": "1",
+        "serial": 1701101251255,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 1680,
+        "show_id": "13798645",
         "show_timestamp": 1701174540,
         "status": "estimated",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
@@ -2052,6 +2607,80 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "233248_023_02_851",
+        "create_time": 1701101251977,
+        "episode_in_season": "23",
+        "episode_number": "S1:EL23",
+        "external_id": "16370368",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Meet the Batwheels",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1701176100,
+        "last_update": 1701101251977,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1701176220,
+        "season_number": "1",
+        "serial": 1701101251255,
+        "series_id": "2405571",
+        "series_name": "Meet the Batwheels",
+        "show_duration": 180,
+        "show_id": "13806012",
+        "show_timestamp": 1701176220,
+        "status": "estimated",
+        "summary": "Take to the skies over Gotham with Batwing and her friend best jet-friend Goldie the Arrowplane!",
+        "title": "Jet Set",
+        "title_id": "2322782",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "252832_039_01_851",
         "create_time": 1701083094699,
         "episode_in_season": "39",
@@ -2080,6 +2709,44 @@
         "series_name": "CoComelon",
         "show_duration": 840,
         "show_id": "274284644",
+        "show_timestamp": 1701176400,
+        "status": "estimated",
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "Winter Show & Tell/ Yes Yes Dress for the Rain/ Construction Vehicles Song",
+        "title_id": "2435786",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "252832_039_01_851",
+        "create_time": 1701101251977,
+        "episode_in_season": "39",
+        "episode_number": "1039",
+        "external_id": "16361176",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1701176400,
+        "last_update": 1701101251977,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1701176400,
+        "season_number": "1",
+        "serial": 1701101251255,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 840,
+        "show_id": "13791820",
         "show_timestamp": 1701176400,
         "status": "estimated",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
@@ -2128,6 +2795,44 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "234521_050_02_851",
+        "create_time": 1701101251977,
+        "episode_in_season": "50",
+        "episode_number": "S26:E50",
+        "external_id": "16368136",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Thomas & Friends: All Engines Go",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701177300,
+        "last_update": 1701101251977,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1701177240,
+        "season_number": "26",
+        "serial": 1701101251255,
+        "series_id": "2274096",
+        "series_name": "Thomas & Friends: All Engines Go",
+        "show_duration": 840,
+        "show_id": "13798647",
+        "show_timestamp": 1701177240,
+        "status": "estimated",
+        "summary": "When water lines break all over Sodor, the engines chug into action to deliver repair parts. But engines are not what this problem needs - it needs off-track thinking and the help of Skiff and Terence.",
+        "summary_long": "Thomas and friends spring into action when the main water line on Sodor breaks! But the steam engines run out of water, struggle in the mud, and need off-track thinking to solve the problem. Skiff and Terence deliver the final pipe cap to fix the damage! In the end, all realize that everyone has things they can and cannot do... and that mix is exactly what we need.",
+        "title": "All Wheels on Track",
+        "title_id": "2398827",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "252832_040_01_851",
         "create_time": 1701085554583,
         "episode_in_season": "40",
@@ -2156,6 +2861,44 @@
         "series_name": "CoComelon",
         "show_duration": 840,
         "show_id": "274284664",
+        "show_timestamp": 1701178080,
+        "status": "estimated",
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "12345 Once I Caught A Fish Alive! V2/ Yes Yes Bed Time Camping/ I Want to Be Like Mommy",
+        "title_id": "2435787",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "252832_040_01_851",
+        "create_time": 1701101251978,
+        "episode_in_season": "40",
+        "episode_number": "1040",
+        "external_id": "16368137",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1701178200,
+        "last_update": 1701101251978,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1701178080,
+        "season_number": "1",
+        "serial": 1701101251255,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 840,
+        "show_id": "13798648",
         "show_timestamp": 1701178080,
         "status": "estimated",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
@@ -2266,6 +3009,106 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "234266_002_02_851",
+        "create_time": 1701101251978,
+        "episode_in_season": "2",
+        "episode_number": "S1:EL02",
+        "external_id": "16368138",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders: Hard Hat Time",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1701178800,
+        "last_update": 1701101251978,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1701178920,
+        "season_number": "1",
+        "serial": 1701101251255,
+        "series_id": "2419726",
+        "series_name": "Bugs Bunny Builders: Hard Hat Time",
+        "show_duration": 180,
+        "show_id": "13798649",
+        "show_timestamp": 1701178920,
+        "status": "estimated",
+        "summary": "A music video of Lola Bunny using her bulldozer to move things as she oversees various looney builds.",
+        "title": "Buckle Up",
+        "title_id": "2419754",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "228558_036_02_851",
         "create_time": 1701085554584,
         "episode_in_season": "36",
@@ -2366,6 +3209,106 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228558_036_02_851",
+        "create_time": 1701101251978,
+        "episode_in_season": "36",
+        "episode_number": "S1:E36",
+        "external_id": "16361179",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1701179100,
+        "last_update": 1701101251978,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701179100,
+        "season_number": "1",
+        "serial": 1701101251255,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 900,
+        "show_id": "13791823",
+        "show_timestamp": 1701179100,
+        "status": "estimated",
+        "summary": "The Looney Builders are hired by Penelope Pussycat to build a fashion runway in France where they are encouraged to make their design bigger and more fun.",
+        "title": "Catwalk",
+        "title_id": "2267193",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "235002_025_02_851",
         "create_time": 1701086803219,
         "episode_in_season": "25",
@@ -2416,6 +3359,56 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "235002_025_02_851",
+        "create_time": 1701101251979,
+        "episode_in_season": "25",
+        "episode_number": "S2:E25",
+        "external_id": "16361180",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701180000,
+        "last_update": 1701101251979,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 29,
+        "scheduled_duration": 1740,
+        "scheduled_timestamp": 1701180000,
+        "season_number": "2",
+        "serial": 1701101251255,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1740,
+        "show_id": "13791824",
+        "show_timestamp": 1701180000,
+        "status": "estimated",
+        "summary": "When Bugs' old childhood friend Rodney comes to visit, Daffy travels back in time to ensure that he is Bugs' oldest and best friend.",
+        "title": "Best Friends Redux",
+        "title_id": "977576",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "235002_026_02_851",
         "create_time": 1701088942850,
         "episode_in_season": "26",
@@ -2456,6 +3449,56 @@
         "series_name": "The Looney Tunes Show",
         "show_duration": 1680,
         "show_id": "274284704",
+        "show_timestamp": 1701181740,
+        "status": "estimated",
+        "summary": "Bugs tells the story of SuperRabbit, with himself as SuperRabbit, Elmer Fudd as Lex Luthor, and Daffy as Zod!",
+        "title": "SuperRabbit",
+        "title_id": "977575",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235002_026_02_851",
+        "create_time": 1701101251979,
+        "episode_in_season": "26",
+        "episode_number": "S2:E26",
+        "external_id": "16368139",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701181800,
+        "last_update": 1701101251979,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1680,
+        "scheduled_timestamp": 1701181740,
+        "season_number": "2",
+        "serial": 1701101251255,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1680,
+        "show_id": "13798650",
         "show_timestamp": 1701181740,
         "status": "estimated",
         "summary": "Bugs tells the story of SuperRabbit, with himself as SuperRabbit, Elmer Fudd as Lex Luthor, and Daffy as Zod!",
@@ -2561,6 +3604,101 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "234485_004_01_851",
+        "create_time": 1701101251979,
+        "episode_in_season": "4",
+        "episode_number": "204",
+        "external_id": "16368140",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Lamput",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701183300,
+        "last_update": 1701101251979,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Concept By"
+            },
+            {
+                "character": null,
+                "name": "Anand Babu",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Abhilash Narayanan",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Rajiv Eipe",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Upamanyu Bhattacharyya",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Roto Shah",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Advait Nemlekar",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Inspidea",
+                "role": "Animation"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Studios",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Chris Leong Mei Cian",
+                "role": "Production Manager"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1701183420,
+        "season_number": "2",
+        "serial": 1701101251255,
+        "series_id": "2106724",
+        "series_name": "Lamput",
+        "show_duration": 180,
+        "show_id": "13798651",
+        "show_timestamp": 1701183420,
+        "status": "estimated",
+        "summary": "Docs & Lamput enter a boxing ring where Lamput morphs into boxing gloves covering Skinny's fists. Spotlight falls and the crowd cheers for the match but the opponent is a muscular boxer!",
+        "title": "Boxing",
+        "title_id": "2168173",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "229075_038_03_851",
         "create_time": 1701090369685,
         "episode_in_season": "38",
@@ -2606,6 +3744,61 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274284724",
+        "show_timestamp": 1701183600,
+        "status": "estimated",
+        "summary": "Craig, Kelsey and JP help a kid who's been jinxed and can't talk, but they soon come to regret it.",
+        "title": "The Jinxening",
+        "title_id": "2209411",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229075_038_03_851",
+        "create_time": 1701101251980,
+        "episode_in_season": "38",
+        "episode_number": "S2:E38",
+        "external_id": "16361182",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701183600,
+        "last_update": 1701101251980,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701183600,
+        "season_number": "2",
+        "serial": 1701101251255,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13791826",
         "show_timestamp": 1701183600,
         "status": "estimated",
         "summary": "Craig, Kelsey and JP help a kid who's been jinxed and can't talk, but they soon come to regret it.",
@@ -2677,6 +3870,67 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "229072_002_02_851",
+        "create_time": 1701101251980,
+        "episode_in_season": "2",
+        "episode_number": "S3:E02",
+        "external_id": "16361183",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701184500,
+        "last_update": 1701101251980,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701184500,
+        "season_number": "3",
+        "serial": 1701101251255,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13791827",
+        "show_timestamp": 1701184500,
+        "status": "estimated",
+        "summary": "Craig imagines if he had a TV Show. Next, Craig maps the Creek. Then, Craig gets to be the ultimate backseat driver! After, Craig tries to name every kid in the Creek. Finally, Craig and his friends run afoul of the rock kids.",
+        "summary_long": "Craig and his friends demonstrate How to Map the Creek, Craig tries to name every Creek Kid, and more! The Williams Family Intro: Craig imagines what it would be like if his family had a TV Show./How to Map the Creek: Craig shows us how to map the Creek!/Brother Chauffeur: Craig gets to be the ultimate backseat driver./The Kids in the Creek: Craig tries to name every kid in the Creek, but it's easier said than done./Between A Rock: Craig and his friends run afoul of the rock kids.",
+        "title": "Creek Shorts",
+        "title_id": "2195426",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "229072_003_03_851",
         "create_time": 1701092330903,
         "episode_in_season": "3",
@@ -2722,6 +3976,61 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274284744",
+        "show_timestamp": 1701185400,
+        "status": "estimated",
+        "summary": "When an intense game of \"The Ground is Lava\" breaks out, Craig must carefully traverse the Creek to save his sister.",
+        "title": "The Ground Is Lava!",
+        "title_id": "2218010",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229072_003_03_851",
+        "create_time": 1701101251980,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "16361184",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701185400,
+        "last_update": 1701101251980,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701185400,
+        "season_number": "3",
+        "serial": 1701101251255,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13791828",
         "show_timestamp": 1701185400,
         "status": "estimated",
         "summary": "When an intense game of \"The Ground is Lava\" breaks out, Craig must carefully traverse the Creek to save his sister.",
@@ -2787,6 +4096,61 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "229072_004_03_851",
+        "create_time": 1701101251981,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "16361185",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701186300,
+        "last_update": 1701101251981,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701186300,
+        "season_number": "3",
+        "serial": 1701101251255,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13791829",
+        "show_timestamp": 1701186300,
+        "status": "estimated",
+        "summary": "Hive Mind - When bees take over the Trading Tree, Craig must assemble the Council of the Creek to avert disaster.",
+        "title": "Council of the Creek: Operation Hive-Mind",
+        "title_id": "2218011",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "250765_001_04_851",
         "create_time": 1701093936615,
         "episode_in_season": "1",
@@ -2826,6 +4190,45 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "250765_001_04_851",
+        "create_time": 1701101251981,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16361186",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701187200,
+        "last_update": 1701101251981,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701187200,
+        "season_number": "1",
+        "serial": 1701101251255,
+        "series_id": "2266853",
+        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
+        "show_duration": 900,
+        "show_id": "13791830",
+        "show_timestamp": 1701187200,
+        "status": "estimated",
+        "summary": "Prince Ivandoe sets off with Bert on a Heroic Quest and almost immediately, a winged serpent steals his map to Eagle Mountain. But that shan't stop a plucky young buck from fulfilling his Destiny. Quest On!",
+        "summary_long": "Prince Ivandoe and Bert set off on their heroic quest and, almost immediately, a winged serpent steals their map to Eagle Mountain. But that shan't stop a plucky young buck and his devoted squire from fulfilling their destiny. With the assistance of a quite staggeringly incompetent Dwarf called Alan, a new sword is forged and the Quest continue-eth!",
+        "title": "The Prince and the Valiant Quest",
+        "title_id": "2266857",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "250765_002_04_851",
         "create_time": 1701095719189,
         "episode_in_season": "2",
@@ -2854,6 +4257,45 @@
         "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
         "show_duration": 900,
         "show_id": "274284774",
+        "show_timestamp": 1701188100,
+        "status": "estimated",
+        "summary": "A Giant Chicken is terrorizing the local farmers. Prince Ivandoe vows to capture the Chicken, but\u2026 he gets captured by her instead. An unlikely bond develops and Ivandoe ends up saving her from an angry mob.",
+        "summary_long": "A fire-breathing Giant Chicken is destroying the local farmers' prize vegetables. Prince Ivandoe vows to capture the Giant Chicken, but... gets captured by her instead. He seems to bring out her maternal side, and she in turn reminds him of Nanny. So when an angry mob attacks, Ivandoe heroically jumps to his Giant Nanny-Chicken's defence.",
+        "title": "The Prince and the Chicken of Doom",
+        "title_id": "2266856",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250765_002_04_851",
+        "create_time": 1701101253125,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16361187",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701188100,
+        "last_update": 1701101253125,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701188100,
+        "season_number": "1",
+        "serial": 1701101252755,
+        "series_id": "2266853",
+        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
+        "show_duration": 900,
+        "show_id": "13791831",
         "show_timestamp": 1701188100,
         "status": "estimated",
         "summary": "A Giant Chicken is terrorizing the local farmers. Prince Ivandoe vows to capture the Chicken, but\u2026 he gets captured by her instead. An unlikely bond develops and Ivandoe ends up saving her from an angry mob.",
@@ -2936,6 +4378,77 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228423_038_03_851",
+        "create_time": 1701101253181,
+        "episode_in_season": "38",
+        "episode_number": "S6:E38",
+        "external_id": "16361188",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701189000,
+        "last_update": 1701101253181,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701189000,
+        "season_number": "6",
+        "serial": 1701101252755,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13791832",
+        "show_timestamp": 1701189000,
+        "status": "estimated",
+        "summary": "Gumball and Darwin give Nicole a crash course in computers.",
+        "summary_long": "Gumball and Darwin realize that the adult residents of Elmore are dangerously naive when it comes to being safe online. In fact they are in serious need of the boys help with even the simplest of tasks. And no more so than their mom, Nicole.",
+        "title": "The Web",
+        "title_id": "2171538",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "228423_039_03_851",
         "create_time": 1701096683561,
         "episode_in_season": "39",
@@ -3007,6 +4520,77 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228423_039_03_851",
+        "create_time": 1701101253182,
+        "episode_in_season": "39",
+        "episode_number": "S6:E39",
+        "external_id": "16361189",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701189900,
+        "last_update": 1701101253182,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1701189900,
+        "season_number": "6",
+        "serial": 1701101252755,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 910,
+        "show_id": "13791833",
+        "show_timestamp": 1701189900,
+        "status": "estimated",
+        "summary": "Gumball and Darwin baby-sit, then baby-lose, Penny's little sister.",
+        "summary_long": "The boys stay up all night, even though the next day they're supposed to be babysitting Polly, Penny's little sister. They're so tired that they manage to lose Polly in the blink of an eye. They desperately look for her, but find themselves in increasingly weird situations every time they accidentally nod off.",
+        "title": "The Mess",
+        "title_id": "2169862",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "228331_021_02_851",
         "create_time": 1701099998895,
         "episode_in_season": "21",
@@ -3057,6 +4641,56 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228331_021_02_851",
+        "create_time": 1701101253182,
+        "episode_in_season": "21",
+        "episode_number": "S1:E21",
+        "external_id": "16361190",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Apple & Onion",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701190800,
+        "last_update": 1701101253182,
+        "live": false,
+        "participants": [
+            {
+                "character": "Onion",
+                "name": "Richard Ayoade",
+                "role": "Voice"
+            },
+            {
+                "character": "Apple",
+                "name": "George Gendi",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701190800,
+        "season_number": "1",
+        "serial": 1701101252755,
+        "series_id": "2133648",
+        "series_name": "Apple & Onion",
+        "show_duration": 900,
+        "show_id": "13791834",
+        "show_timestamp": 1701190800,
+        "status": "estimated",
+        "summary": "Onion needs to leave town so Apple has to survive the weekend alone while taking care of Onion's beloved plant.",
+        "title": "Onionless",
+        "title_id": "2196193",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "228331_022_02_851",
         "create_time": 1701099998929,
         "episode_in_season": "22",
@@ -3097,6 +4731,56 @@
         "series_name": "Apple & Onion",
         "show_duration": 900,
         "show_id": "274284814",
+        "show_timestamp": 1701191700,
+        "status": "estimated",
+        "summary": "Apple and Onion's party plans are interrupted by a grumpy guest.",
+        "title": "Party Popper",
+        "title_id": "2193154",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228331_022_02_851",
+        "create_time": 1701101253182,
+        "episode_in_season": "22",
+        "episode_number": "S1:E22",
+        "external_id": "16361191",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Apple & Onion",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701191700,
+        "last_update": 1701101253182,
+        "live": false,
+        "participants": [
+            {
+                "character": "Onion",
+                "name": "Richard Ayoade",
+                "role": "Voice"
+            },
+            {
+                "character": "Apple",
+                "name": "George Gendi",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701191700,
+        "season_number": "1",
+        "serial": 1701101252755,
+        "series_id": "2133648",
+        "series_name": "Apple & Onion",
+        "show_duration": 900,
+        "show_id": "13791835",
         "show_timestamp": 1701191700,
         "status": "estimated",
         "summary": "Apple and Onion's party plans are interrupted by a grumpy guest.",
@@ -3167,6 +4851,66 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228556_028_02_851",
+        "create_time": 1701101253183,
+        "episode_in_season": "28",
+        "episode_number": "S1:E28",
+        "external_id": "16361192",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Clarence",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701192600,
+        "last_update": 1701101253183,
+        "live": false,
+        "participants": [
+            {
+                "character": "Clarence Wendle",
+                "name": "Skyler Page",
+                "role": "Voice"
+            },
+            {
+                "character": "Jeff Randell",
+                "name": "Sean Giambrone",
+                "role": "Voice"
+            },
+            {
+                "character": "Sumo",
+                "name": "Tom Kenny",
+                "role": "Voice"
+            },
+            {
+                "character": "Mary Wendle",
+                "name": "Katie Crown",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701192600,
+        "season_number": "1",
+        "serial": 1701101252755,
+        "series_id": "2012957",
+        "series_name": "Clarence",
+        "show_duration": 900,
+        "show_id": "13791836",
+        "show_timestamp": 1701192600,
+        "status": "estimated",
+        "summary": "After a nasty spill lands Belson in a full body cast, Clarence pays his bedridden friend a visit at the hospital, but what Clarence thinks will cheer him up might actually drive Belson totally crazy!",
+        "title": "Bedside Manners",
+        "title_id": "2031350",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "228556_029_02_851",
         "create_time": 1701099998930,
         "episode_in_season": "29",
@@ -3222,6 +4966,126 @@
         "summary": "Jeff enlists Clarence to help him prepare for the big Aberdale cook-off. Will Jeff keep his cool or freak out and toss his dish away like in years past?",
         "title": "Jeff Wins",
         "title_id": "2031353",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228556_029_02_851",
+        "create_time": 1701101253183,
+        "episode_in_season": "29",
+        "episode_number": "S1:E29",
+        "external_id": "16361193",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Clarence",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701193500,
+        "last_update": 1701101253183,
+        "live": false,
+        "participants": [
+            {
+                "character": "Clarence Wendle",
+                "name": "Skyler Page",
+                "role": "Voice"
+            },
+            {
+                "character": "Jeff Randell",
+                "name": "Sean Giambrone",
+                "role": "Voice"
+            },
+            {
+                "character": "Sumo",
+                "name": "Tom Kenny",
+                "role": "Voice"
+            },
+            {
+                "character": "Mary Wendle",
+                "name": "Katie Crown",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701193500,
+        "season_number": "1",
+        "serial": 1701101252755,
+        "series_id": "2012957",
+        "series_name": "Clarence",
+        "show_duration": 900,
+        "show_id": "13791837",
+        "show_timestamp": 1701193500,
+        "status": "estimated",
+        "summary": "Jeff enlists Clarence to help him prepare for the big Aberdale cook-off. Will Jeff keep his cool or freak out and toss his dish away like in years past?",
+        "title": "Jeff Wins",
+        "title_id": "2031353",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228556_030_02_851",
+        "create_time": 1701101253183,
+        "episode_in_season": "30",
+        "episode_number": "S1:E30",
+        "external_id": "16361194",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Clarence",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701194400,
+        "last_update": 1701101253183,
+        "live": false,
+        "participants": [
+            {
+                "character": "Clarence Wendle",
+                "name": "Skyler Page",
+                "role": "Voice"
+            },
+            {
+                "character": "Jeff Randell",
+                "name": "Sean Giambrone",
+                "role": "Voice"
+            },
+            {
+                "character": "Sumo",
+                "name": "Tom Kenny",
+                "role": "Voice"
+            },
+            {
+                "character": "Mary Wendle",
+                "name": "Katie Crown",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701194400,
+        "season_number": "1",
+        "serial": 1701101252755,
+        "series_id": "2012957",
+        "series_name": "Clarence",
+        "show_duration": 900,
+        "show_id": "13791838",
+        "show_timestamp": 1701194400,
+        "status": "estimated",
+        "summary": "Clarence and Sumo hit the jackpot when they get suspended for a week, learning all sorts of different facts they'd never learn in class, but after a few days the suspension takes its toll, boredom sets in and the boys want to go back.",
+        "title": "Suspended",
+        "title_id": "2031354",
         "tv_rating": "TV-PG"
     }
 ]
