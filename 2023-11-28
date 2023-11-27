@@ -545,5 +545,152 @@
         "title": "For Black Eyes Only",
         "title_id": "748222",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232832_014_02_851",
+        "create_time": 1701065059521,
+        "episode_in_season": "14",
+        "episode_number": "S8:E14",
+        "external_id": "16361162",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1701156600,
+        "last_update": 1701065059521,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1701156600,
+        "season_number": "8",
+        "serial": 1701065059174,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13791805",
+        "show_timestamp": 1701156600,
+        "status": "estimated",
+        "summary": "Francine pressures Steve to win the National Spelling Bee so he can get into a top college.  Stan and Roger try to slam Hayley through the five stages of grief so she will get over Jeff faster.",
+        "title": "Spelling Bee My Baby",
+        "title_id": "748213",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251794_005_03_851",
+        "create_time": 1701065059560,
+        "episode_in_season": "5",
+        "episode_number": "S5:E05",
+        "external_id": "16361163",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1701158400,
+        "last_update": 1701065059560,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1701158400,
+        "season_number": "5",
+        "serial": 1701065059174,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13791806",
+        "show_timestamp": 1701158400,
+        "status": "estimated",
+        "summary": "Adults r gone tonight, broh. Grab the keys.",
+        "title": "Amortycan Grickfitti",
+        "title_id": "2270463",
+        "tv_rating": "TV-14"
     }
 ]
