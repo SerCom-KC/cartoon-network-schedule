@@ -2331,7 +2331,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701173700,
-        "last_update": 1701174623502,
+        "last_update": 1701178227777,
         "live": false,
         "participants": [
             {
@@ -2372,7 +2372,7 @@
         "scheduled_duration": 854,
         "scheduled_timestamp": 1701173700,
         "season_number": "1",
-        "serial": 1701174623253,
+        "serial": 1701178227488,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 854,
@@ -2808,7 +2808,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701177300,
-        "last_update": 1701177366676,
+        "last_update": 1701178178846,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2817,17 +2817,55 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1701177240,
         "season_number": "26",
-        "serial": 1701177366292,
+        "serial": 1701178178404,
         "series_id": "2274096",
         "series_name": "Thomas & Friends: All Engines Go",
         "show_duration": 831,
         "show_id": "13798647",
         "show_timestamp": 1701177240,
-        "status": "current",
+        "status": "actual",
         "summary": "When water lines break all over Sodor, the engines chug into action to deliver repair parts. But engines are not what this problem needs - it needs off-track thinking and the help of Skiff and Terence.",
         "summary_long": "Thomas and friends spring into action when the main water line on Sodor breaks! But the steam engines run out of water, struggle in the mud, and need off-track thinking to solve the problem. Skiff and Terence deliver the final pipe cap to fix the damage! In the end, all realize that everyone has things they can and cannot do... and that mix is exactly what we need.",
         "title": "All Wheels on Track",
         "title_id": "2398827",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "252832_040_01_851",
+        "create_time": 1701101251978,
+        "episode_in_season": "40",
+        "episode_number": "1040",
+        "external_id": "16368137",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1701178200,
+        "last_update": 1701178211623,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1701178080,
+        "season_number": "1",
+        "serial": 1701178211387,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 833,
+        "show_id": "13798648",
+        "show_timestamp": 1701178071,
+        "status": "current",
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "12345 Once I Caught A Fish Alive! V2/ Yes Yes Bed Time Camping/ I Want to Be Like Mommy",
+        "title_id": "2435787",
         "tv_rating": "TV-Y"
     },
     {
@@ -2871,39 +2909,101 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "252832_040_01_851",
+        "content_id": "234266_002_02_851",
         "create_time": 1701101251978,
-        "episode_in_season": "40",
-        "episode_number": "1040",
-        "external_id": "16368137",
+        "episode_in_season": "2",
+        "episode_number": "S1:EL02",
+        "external_id": "16368138",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "CoComelon",
+        "franchise_name": "Bugs Bunny Builders: Hard Hat Time",
         "genres": [
             "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1701178200,
-        "last_update": 1701177366677,
+        "guide_timestamp": 1701178800,
+        "last_update": 1701178211624,
         "live": false,
-        "premiere": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2006,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1701178080,
+        "release_year": 2023,
+        "runtime_minutes": 3,
+        "scheduled_duration": 190,
+        "scheduled_timestamp": 1701178920,
         "season_number": "1",
-        "serial": 1701177366292,
-        "series_id": "2357112",
-        "series_name": "CoComelon",
-        "show_duration": 833,
-        "show_id": "13798648",
-        "show_timestamp": 1701178080,
+        "serial": 1701178211387,
+        "series_id": "2419726",
+        "series_name": "Bugs Bunny Builders: Hard Hat Time",
+        "show_duration": 190,
+        "show_id": "13798649",
+        "show_timestamp": 1701178911,
         "status": "estimated",
-        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
-        "title": "12345 Once I Caught A Fish Alive! V2/ Yes Yes Bed Time Camping/ I Want to Be Like Mommy",
-        "title_id": "2435787",
+        "summary": "A music video of Lola Bunny using her bulldozer to move things as she oversees various looney builds.",
+        "title": "Buckle Up",
+        "title_id": "2419754",
         "tv_rating": "TV-Y"
     },
     {
@@ -3009,21 +3109,21 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "234266_002_02_851",
+        "content_id": "228558_036_02_851",
         "create_time": 1701101251978,
-        "episode_in_season": "2",
-        "episode_number": "S1:EL02",
-        "external_id": "16368138",
+        "episode_in_season": "36",
+        "episode_number": "S1:E36",
+        "external_id": "16361179",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders: Hard Hat Time",
+        "franchise_name": "Bugs Bunny Builders",
         "genres": [
             "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1701178800,
-        "last_update": 1701177366677,
+        "guide_timestamp": 1701179100,
+        "last_update": 1701178211624,
         "live": false,
         "participants": [
             {
@@ -3089,21 +3189,21 @@
         ],
         "premiere": true,
         "press_hold": false,
-        "release_year": 2023,
-        "runtime_minutes": 3,
-        "scheduled_duration": 190,
-        "scheduled_timestamp": 1701178920,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701179100,
         "season_number": "1",
-        "serial": 1701177366292,
-        "series_id": "2419726",
-        "series_name": "Bugs Bunny Builders: Hard Hat Time",
-        "show_duration": 190,
-        "show_id": "13798649",
-        "show_timestamp": 1701178920,
+        "serial": 1701178211387,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 896,
+        "show_id": "13791823",
+        "show_timestamp": 1701179091,
         "status": "estimated",
-        "summary": "A music video of Lola Bunny using her bulldozer to move things as she oversees various looney builds.",
-        "title": "Buckle Up",
-        "title_id": "2419754",
+        "summary": "The Looney Builders are hired by Penelope Pussycat to build a fashion runway in France where they are encouraged to make their design bigger and more fun.",
+        "title": "Catwalk",
+        "title_id": "2267193",
         "tv_rating": "TV-Y"
     },
     {
@@ -3209,102 +3309,52 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228558_036_02_851",
-        "create_time": 1701101251978,
-        "episode_in_season": "36",
-        "episode_number": "S1:E36",
-        "external_id": "16361179",
+        "content_id": "235002_025_02_851",
+        "create_time": 1701101251979,
+        "episode_in_season": "25",
+        "episode_number": "S2:E25",
+        "external_id": "16361180",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders",
+        "franchise_name": "Looney Tunes Show, The",
         "genres": [
             "Animation",
             "Children",
-            "Family"
+            "Comedy"
         ],
-        "guide_timestamp": 1701179100,
-        "last_update": 1701177366678,
+        "guide_timestamp": 1701180000,
+        "last_update": 1701178335082,
         "live": false,
         "participants": [
             {
                 "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
                 "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
                 "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
             }
         ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1701179100,
-        "season_number": "1",
-        "serial": 1701177366292,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 896,
-        "show_id": "13791823",
-        "show_timestamp": 1701179100,
+        "release_year": 2013,
+        "runtime_minutes": 29,
+        "scheduled_duration": 1740,
+        "scheduled_timestamp": 1701180000,
+        "season_number": "2",
+        "serial": 1701178334868,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1731,
+        "show_id": "13791824",
+        "show_timestamp": 1701179995,
         "status": "estimated",
-        "summary": "The Looney Builders are hired by Penelope Pussycat to build a fashion runway in France where they are encouraged to make their design bigger and more fun.",
-        "title": "Catwalk",
-        "title_id": "2267193",
-        "tv_rating": "TV-Y"
+        "summary": "When Bugs' old childhood friend Rodney comes to visit, Daffy travels back in time to ensure that he is Bugs' oldest and best friend.",
+        "title": "Best Friends Redux",
+        "title_id": "977576",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -3359,11 +3409,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235002_025_02_851",
+        "content_id": "235002_026_02_851",
         "create_time": 1701101251979,
-        "episode_in_season": "25",
-        "episode_number": "S2:E25",
-        "external_id": "16361180",
+        "episode_in_season": "26",
+        "episode_number": "S2:E26",
+        "external_id": "16368139",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Looney Tunes Show, The",
@@ -3372,8 +3422,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701180000,
-        "last_update": 1701177366678,
+        "guide_timestamp": 1701181800,
+        "last_update": 1701178211625,
         "live": false,
         "participants": [
             {
@@ -3390,20 +3440,20 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2013,
-        "runtime_minutes": 29,
-        "scheduled_duration": 1740,
-        "scheduled_timestamp": 1701180000,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1681,
+        "scheduled_timestamp": 1701181740,
         "season_number": "2",
-        "serial": 1701177366292,
+        "serial": 1701178211387,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1731,
-        "show_id": "13791824",
-        "show_timestamp": 1701180000,
+        "show_duration": 1681,
+        "show_id": "13798650",
+        "show_timestamp": 1701181738,
         "status": "estimated",
-        "summary": "When Bugs' old childhood friend Rodney comes to visit, Daffy travels back in time to ensure that he is Bugs' oldest and best friend.",
-        "title": "Best Friends Redux",
-        "title_id": "977576",
+        "summary": "Bugs tells the story of SuperRabbit, with himself as SuperRabbit, Elmer Fudd as Lex Luthor, and Daffy as Zod!",
+        "title": "SuperRabbit",
+        "title_id": "977575",
         "tv_rating": "TV-PG"
     },
     {
@@ -3459,52 +3509,97 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235002_026_02_851",
+        "content_id": "234485_004_01_851",
         "create_time": 1701101251979,
-        "episode_in_season": "26",
-        "episode_number": "S2:E26",
-        "external_id": "16368139",
+        "episode_in_season": "4",
+        "episode_number": "204",
+        "external_id": "16368140",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Looney Tunes Show, The",
+        "franchise_name": "Lamput",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701181800,
-        "last_update": 1701177366679,
+        "guide_timestamp": 1701183300,
+        "last_update": 1701178211626,
         "live": false,
         "participants": [
             {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
-                "role": "Voice"
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Concept By"
             },
             {
-                "character": "Daffy Duck",
-                "name": "Jeff Bergman",
-                "role": "Voice"
+                "character": null,
+                "name": "Anand Babu",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Abhilash Narayanan",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Rajiv Eipe",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Upamanyu Bhattacharyya",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Roto Shah",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Advait Nemlekar",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Inspidea",
+                "role": "Animation"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Studios",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Chris Leong Mei Cian",
+                "role": "Production Manager"
             }
         ],
-        "premiere": false,
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2013,
-        "runtime_minutes": 28,
-        "scheduled_duration": 1681,
-        "scheduled_timestamp": 1701181740,
+        "release_year": 2017,
+        "runtime_minutes": 3,
+        "scheduled_duration": 187,
+        "scheduled_timestamp": 1701183420,
         "season_number": "2",
-        "serial": 1701177366292,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1681,
-        "show_id": "13798650",
-        "show_timestamp": 1701181740,
+        "serial": 1701178211387,
+        "series_id": "2106724",
+        "series_name": "Lamput",
+        "show_duration": 187,
+        "show_id": "13798651",
+        "show_timestamp": 1701183419,
         "status": "estimated",
-        "summary": "Bugs tells the story of SuperRabbit, with himself as SuperRabbit, Elmer Fudd as Lex Luthor, and Daffy as Zod!",
-        "title": "SuperRabbit",
-        "title_id": "977575",
-        "tv_rating": "TV-PG"
+        "summary": "Docs & Lamput enter a boxing ring where Lamput morphs into boxing gloves covering Skinny's fists. Spotlight falls and the crowd cheers for the match but the opponent is a muscular boxer!",
+        "title": "Boxing",
+        "title_id": "2168173",
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -3604,96 +3699,56 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "234485_004_01_851",
-        "create_time": 1701101251979,
-        "episode_in_season": "4",
-        "episode_number": "204",
-        "external_id": "16368140",
+        "content_id": "229075_038_03_851",
+        "create_time": 1701101251980,
+        "episode_in_season": "38",
+        "episode_number": "S2:E38",
+        "external_id": "16361182",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Lamput",
+        "franchise_name": "Craig of the Creek",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701183300,
-        "last_update": 1701177366680,
+        "guide_timestamp": 1701183600,
+        "last_update": 1701178211626,
         "live": false,
         "participants": [
             {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Concept By"
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
             },
             {
-                "character": null,
-                "name": "Anand Babu",
-                "role": "Storyboard Artist"
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
             },
             {
-                "character": null,
-                "name": "Abhilash Narayanan",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Rajiv Eipe",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Upamanyu Bhattacharyya",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Roto Shah",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Advait Nemlekar",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Inspidea",
-                "role": "Animation"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Studios",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Chris Leong Mei Cian",
-                "role": "Production Manager"
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
             }
         ],
         "premiere": true,
         "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 3,
-        "scheduled_duration": 187,
-        "scheduled_timestamp": 1701183420,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1701183600,
         "season_number": "2",
-        "serial": 1701177366292,
-        "series_id": "2106724",
-        "series_name": "Lamput",
-        "show_duration": 187,
-        "show_id": "13798651",
-        "show_timestamp": 1701183420,
+        "serial": 1701178211387,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 901,
+        "show_id": "13791826",
+        "show_timestamp": 1701183599,
         "status": "estimated",
-        "summary": "Docs & Lamput enter a boxing ring where Lamput morphs into boxing gloves covering Skinny's fists. Spotlight falls and the crowd cheers for the match but the opponent is a muscular boxer!",
-        "title": "Boxing",
-        "title_id": "2168173",
+        "summary": "Craig, Kelsey and JP help a kid who's been jinxed and can't talk, but they soon come to regret it.",
+        "title": "The Jinxening",
+        "title_id": "2209411",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3744,61 +3799,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274284724",
-        "show_timestamp": 1701183600,
-        "status": "estimated",
-        "summary": "Craig, Kelsey and JP help a kid who's been jinxed and can't talk, but they soon come to regret it.",
-        "title": "The Jinxening",
-        "title_id": "2209411",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229075_038_03_851",
-        "create_time": 1701101251980,
-        "episode_in_season": "38",
-        "episode_number": "S2:E38",
-        "external_id": "16361182",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1701183600,
-        "last_update": 1701177366680,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2019,
-        "runtime_minutes": 15,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1701183600,
-        "season_number": "2",
-        "serial": 1701177366292,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 901,
-        "show_id": "13791826",
         "show_timestamp": 1701183600,
         "status": "estimated",
         "summary": "Craig, Kelsey and JP help a kid who's been jinxed and can't talk, but they soon come to regret it.",
