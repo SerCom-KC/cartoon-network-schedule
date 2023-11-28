@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1701147600,
-        "last_update": 1701122660464,
+        "last_update": 1701140430950,
         "live": false,
         "participants": [
             {
@@ -56,12 +56,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1701147600,
         "season_number": "5",
-        "serial": 1701122660131,
+        "serial": 1701140430666,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1795,
         "show_id": "13791798",
-        "show_timestamp": 1701147605,
+        "show_timestamp": 1701147604,
         "status": "estimated",
         "summary": "Check these ferrets broh. Gotta keep it in the family though.",
         "title": "Gotron Jerrysis Rickvangelion",
@@ -6850,6 +6850,75 @@
         "summary": "Steve gets competitive during the father-son events at Possum Lake. Roger learns how to ride a bike.",
         "title": "The Legend of Old Ulysses",
         "title_id": "2069570",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251794_008_03_851",
+        "create_time": 1701139926516,
+        "episode_in_season": "8",
+        "episode_number": "S5:E08",
+        "external_id": "16361221",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1701232200,
+        "last_update": 1701139926516,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1701232200,
+        "season_number": "5",
+        "serial": 1701139926155,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13791866",
+        "show_timestamp": 1701232200,
+        "status": "estimated",
+        "summary": "Friendship is hard. It's like a journey of the mind, broh.",
+        "title": "Rickternal Friendshine of the Spotless Mort",
+        "title_id": "2270465",
         "tv_rating": "TV-14"
     }
 ]
