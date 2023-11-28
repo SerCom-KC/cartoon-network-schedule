@@ -1202,7 +1202,7 @@
             "Fantasy"
         ],
         "guide_timestamp": 1701164700,
-        "last_update": 1701165659013,
+        "last_update": 1701169266193,
         "live": false,
         "participants": [
             {
@@ -1313,7 +1313,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1701164700,
         "season_number": "4",
-        "serial": 1701165658775,
+        "serial": 1701169265879,
         "series_id": "828177",
         "series_name": "Your Pretty Face Is Going to Hell",
         "show_duration": 896,
@@ -1391,7 +1391,7 @@
             "Family"
         ],
         "guide_timestamp": 1701167400,
-        "last_update": 1701167557390,
+        "last_update": 1701169223534,
         "live": false,
         "participants": [
             {
@@ -1407,13 +1407,13 @@
         "scheduled_duration": 1844,
         "scheduled_timestamp": 1701167400,
         "season_number": "12",
-        "serial": 1701167557079,
+        "serial": 1701169223330,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1829,
+        "show_duration": 1771,
         "show_id": "13791813",
         "show_timestamp": 1701167422,
-        "status": "current",
+        "status": "actual",
         "summary": "The kids have a Christmas mission.",
         "summary_long": "After Gene breaks his favorite, extremely rare '70s era Christmas record, Tina and Louise join him in the search for another copy. Meanwhile, Teddy wants to do a neighborhood Secret Santa with Bob and Linda.",
         "title": "Gene's Christmas Break",
@@ -1508,7 +1508,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701169200,
-        "last_update": 1701101250843,
+        "last_update": 1701169282631,
         "live": false,
         "participants": [
             {
@@ -1549,17 +1549,88 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701169200,
         "season_number": "6",
-        "serial": 1701101250393,
+        "serial": 1701169282435,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 880,
         "show_id": "13800131",
-        "show_timestamp": 1701169200,
-        "status": "estimated",
+        "show_timestamp": 1701169204,
+        "status": "current",
         "summary": "Gumball and Darwin discover that their teacher, Mr. Corneille, has a secret life as a fighter.",
         "summary_long": "When Mr. Corneille shows up to work with a mysterious bruise, Gumball and Darwin discover that he's teacher by day and a cage fighter by night, or was until he vowed never to fight again. However, when the school is being closed for a lack of finances the boys have to try and convince him to come out retirement for one last fight.",
         "title": "The Cage",
         "title_id": "2131264",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228423_009_03_851",
+        "create_time": 1701101250843,
+        "episode_in_season": "9",
+        "episode_number": "S6:E09",
+        "external_id": "16368772",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701170100,
+        "last_update": 1701169282632,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 14,
+        "scheduled_duration": 844,
+        "scheduled_timestamp": 1701170100,
+        "season_number": "6",
+        "serial": 1701169282435,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 844,
+        "show_id": "13800132",
+        "show_timestamp": 1701170094,
+        "status": "estimated",
+        "summary": "Elmore has been plunged into black and white and Gumball and Darwin have to figure out what's going on.",
+        "summary_long": "Everything in Elmore is suddenly just various shades of grey, and things all over town are going wrong. Gumball and Darwin follow the mayhem and learn that one person was holding the whole town together: Alan. They have to restore his faith in the world to bring color back to Elmore.",
+        "title": "The Faith",
+        "title_id": "2149379",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1636,11 +1707,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228423_009_03_851",
+        "content_id": "228419_002_03_851",
         "create_time": 1701101250843,
-        "episode_in_season": "9",
-        "episode_number": "S6:E09",
-        "external_id": "16368772",
+        "episode_in_season": "2",
+        "episode_number": "S1:EL02",
+        "external_id": "16368131",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -1649,8 +1720,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701170100,
-        "last_update": 1701119598630,
+        "guide_timestamp": 1701171000,
+        "last_update": 1701169282666,
         "live": false,
         "participants": [
             {
@@ -1686,22 +1757,21 @@
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2018,
+        "release_year": 2011,
         "runtime_minutes": 14,
-        "scheduled_duration": 844,
-        "scheduled_timestamp": 1701170100,
-        "season_number": "6",
-        "serial": 1701119598352,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1701170940,
+        "season_number": "1",
+        "serial": 1701169282435,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 844,
-        "show_id": "13800132",
-        "show_timestamp": 1701170100,
+        "show_duration": 840,
+        "show_id": "13798642",
+        "show_timestamp": 1701170937,
         "status": "estimated",
-        "summary": "Elmore has been plunged into black and white and Gumball and Darwin have to figure out what's going on.",
-        "summary_long": "Everything in Elmore is suddenly just various shades of grey, and things all over town are going wrong. Gumball and Darwin follow the mayhem and learn that one person was holding the whole town together: Alan. They have to restore his faith in the world to bring color back to Elmore.",
-        "title": "The Faith",
-        "title_id": "2149379",
+        "summary": "Gumball is desperate to avoid a late fee on the rented DVD he accidentally destroyed.",
+        "title": "The DVD",
+        "title_id": "839533",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1777,11 +1847,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228419_002_03_851",
-        "create_time": 1701101250843,
-        "episode_in_season": "2",
-        "episode_number": "S1:EL02",
-        "external_id": "16368131",
+        "content_id": "228419_003_03_851",
+        "create_time": 1701101250844,
+        "episode_in_season": "3",
+        "episode_number": "S1:EL03",
+        "external_id": "16368132",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -1790,8 +1860,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701171000,
-        "last_update": 1701101250843,
+        "guide_timestamp": 1701171900,
+        "last_update": 1701169590338,
         "live": false,
         "participants": [
             {
@@ -1828,20 +1898,20 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2011,
-        "runtime_minutes": 14,
+        "runtime_minutes": 11,
         "scheduled_duration": 840,
-        "scheduled_timestamp": 1701170940,
+        "scheduled_timestamp": 1701171780,
         "season_number": "1",
-        "serial": 1701101250393,
+        "serial": 1701169590019,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 840,
-        "show_id": "13798642",
-        "show_timestamp": 1701170940,
+        "show_id": "13798643",
+        "show_timestamp": 1701171779,
         "status": "estimated",
-        "summary": "Gumball is desperate to avoid a late fee on the rented DVD he accidentally destroyed.",
-        "title": "The DVD",
-        "title_id": "839533",
+        "summary": "Gumball and Darwin spice up their friendship by introducing a third best friend.",
+        "title": "The Third",
+        "title_id": "839571",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1917,72 +1987,97 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228419_003_03_851",
+        "content_id": "234485_003_01_851",
         "create_time": 1701101250844,
         "episode_in_season": "3",
-        "episode_number": "S1:EL03",
-        "external_id": "16368132",
+        "episode_number": "203",
+        "external_id": "16368133",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
+        "franchise_name": "Lamput",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701171900,
-        "last_update": 1701101250844,
+        "guide_timestamp": 1701172500,
+        "last_update": 1701169645297,
         "live": false,
         "participants": [
             {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Concept By"
             },
             {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
+                "character": null,
+                "name": "Anand Babu",
+                "role": "Storyboard Artist"
             },
             {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
+                "character": null,
+                "name": "Abhilash Narayanan",
+                "role": "Storyboard Artist"
             },
             {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
+                "character": null,
+                "name": "Rajiv Eipe",
+                "role": "Storyboard Artist"
             },
             {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Storyboard Artist"
             },
             {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
+                "character": null,
+                "name": "Upamanyu Bhattacharyya",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Roto Shah",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Advait Nemlekar",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Inspidea",
+                "role": "Animation"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Studios",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Chris Leong Mei Cian",
+                "role": "Production Manager"
             }
         ],
-        "premiere": false,
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2011,
-        "runtime_minutes": 11,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1701171780,
-        "season_number": "1",
-        "serial": 1701101250393,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 840,
-        "show_id": "13798643",
-        "show_timestamp": 1701171780,
+        "release_year": 2017,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1701172620,
+        "season_number": "2",
+        "serial": 1701169645028,
+        "series_id": "2106724",
+        "series_name": "Lamput",
+        "show_duration": 172,
+        "show_id": "13798644",
+        "show_timestamp": 1701172619,
         "status": "estimated",
-        "summary": "Gumball and Darwin spice up their friendship by introducing a third best friend.",
-        "title": "The Third",
-        "title_id": "839571",
-        "tv_rating": "TV-Y7-FV"
+        "summary": "The chase happens in a supermarket where Lamput disguised as an orange product! Specs rush to pay but Lamput morphs into expensive orange product when the cashier is not looking.",
+        "title": "Superstore",
+        "title_id": "2168172",
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -2072,101 +2167,6 @@
         "series_name": "Lamput",
         "show_duration": 180,
         "show_id": "274284594",
-        "show_timestamp": 1701172620,
-        "status": "estimated",
-        "summary": "The chase happens in a supermarket where Lamput disguised as an orange product! Specs rush to pay but Lamput morphs into expensive orange product when the cashier is not looking.",
-        "title": "Superstore",
-        "title_id": "2168172",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "234485_003_01_851",
-        "create_time": 1701101250844,
-        "episode_in_season": "3",
-        "episode_number": "203",
-        "external_id": "16368133",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Lamput",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1701172500,
-        "last_update": 1701101250844,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Concept By"
-            },
-            {
-                "character": null,
-                "name": "Anand Babu",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Abhilash Narayanan",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Rajiv Eipe",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Upamanyu Bhattacharyya",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Roto Shah",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Advait Nemlekar",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Inspidea",
-                "role": "Animation"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Studios",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Chris Leong Mei Cian",
-                "role": "Production Manager"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 3,
-        "scheduled_duration": 180,
-        "scheduled_timestamp": 1701172620,
-        "season_number": "2",
-        "serial": 1701101250393,
-        "series_id": "2106724",
-        "series_name": "Lamput",
-        "show_duration": 180,
-        "show_id": "13798644",
         "show_timestamp": 1701172620,
         "status": "estimated",
         "summary": "The chase happens in a supermarket where Lamput disguised as an orange product! Specs rush to pay but Lamput morphs into expensive orange product when the cashier is not looking.",
