@@ -441,5 +441,83 @@
         "title": "The Boring Identity",
         "title_id": "748214",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232832_017_02_851",
+        "create_time": 1701149891447,
+        "episode_in_season": "17",
+        "episode_number": "S8:E17",
+        "external_id": "16361228",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1701243000,
+        "last_update": 1701149891447,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1701243000,
+        "season_number": "8",
+        "serial": 1701149891172,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13791873",
+        "show_timestamp": 1701243000,
+        "status": "estimated",
+        "summary": "Stan learns that the CIA wants to wipe out Bullock's memory after he exhibits signs of dementia; Roger hires Stelio Kontos to deal with a student who's bullying Steve at school.",
+        "title": "The Full Cognitive Redaction of Avery Bullock by the Coward Stan Smith",
+        "title_id": "748218",
+        "tv_rating": "TV-14"
     }
 ]
