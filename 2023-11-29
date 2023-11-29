@@ -2599,7 +2599,7 @@
             "Family"
         ],
         "guide_timestamp": 1701261900,
-        "last_update": 1701262821500,
+        "last_update": 1701266426634,
         "live": false,
         "participants": [
             {
@@ -2645,7 +2645,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1701261960,
         "season_number": "1",
-        "serial": 1701262821293,
+        "serial": 1701266426396,
         "series_id": "2267111",
         "series_name": "Batwheels",
         "show_duration": 838,
@@ -3276,7 +3276,7 @@
             "Family"
         ],
         "guide_timestamp": 1701265500,
-        "last_update": 1701265518578,
+        "last_update": 1701266483315,
         "live": false,
         "participants": [
             {
@@ -3347,17 +3347,67 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701265500,
         "season_number": "1",
-        "serial": 1701265518303,
+        "serial": 1701266483094,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 860,
+        "show_duration": 881,
         "show_id": "13791892",
         "show_timestamp": 1701265502,
-        "status": "current",
+        "status": "actual",
         "summary": "Chef Poyung Panda hires The Looney Builders to build her a Dim Sum bus in China. The crew faces a major setback and Bugs worries about letting down his favorite chef.",
         "title": "Dim Sum",
         "title_id": "2267195",
         "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235001_001_02_851",
+        "create_time": 1701189839569,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16361248",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701266400,
+        "last_update": 1701266543000,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 29,
+        "scheduled_duration": 1748,
+        "scheduled_timestamp": 1701266400,
+        "season_number": "1",
+        "serial": 1701266542669,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1748,
+        "show_id": "13791893",
+        "show_timestamp": 1701266383,
+        "status": "current",
+        "summary": "Bugs and Daffy compete on a game show called \"Besties\" that tests your knowledge on your best friend. The only problem is, Daffy doesn't know anything about Bugs!",
+        "title": "Best Friends",
+        "title_id": "824655",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -3412,11 +3462,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235001_001_02_851",
+        "content_id": "235001_002_02_851",
         "create_time": 1701189839569,
-        "episode_in_season": "1",
-        "episode_number": "S1:E01",
-        "external_id": "16361248",
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16368161",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Looney Tunes Show, The",
@@ -3425,8 +3475,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701266400,
-        "last_update": 1701265567552,
+        "guide_timestamp": 1701268200,
+        "last_update": 1701266543002,
         "live": false,
         "participants": [
             {
@@ -3443,20 +3493,20 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2011,
-        "runtime_minutes": 29,
-        "scheduled_duration": 1748,
-        "scheduled_timestamp": 1701266400,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1680,
+        "scheduled_timestamp": 1701268140,
         "season_number": "1",
-        "serial": 1701265567342,
+        "serial": 1701266542669,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1748,
-        "show_id": "13791893",
-        "show_timestamp": 1701266412,
+        "show_duration": 1671,
+        "show_id": "13798680",
+        "show_timestamp": 1701268123,
         "status": "estimated",
-        "summary": "Bugs and Daffy compete on a game show called \"Besties\" that tests your knowledge on your best friend. The only problem is, Daffy doesn't know anything about Bugs!",
-        "title": "Best Friends",
-        "title_id": "824655",
+        "summary": "Daffy passes himself off as a member of the local country club, where Bugs meets Lola Bunny.",
+        "title": "Members Only",
+        "title_id": "824661",
         "tv_rating": "TV-PG"
     },
     {
@@ -3512,52 +3562,97 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235001_002_02_851",
-        "create_time": 1701189839569,
-        "episode_in_season": "2",
-        "episode_number": "S1:E02",
-        "external_id": "16368161",
+        "content_id": "234485_007_01_851",
+        "create_time": 1701189840867,
+        "episode_in_season": "7",
+        "episode_number": "207",
+        "external_id": "16368169",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Looney Tunes Show, The",
+        "franchise_name": "Lamput",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701268200,
-        "last_update": 1701265567552,
+        "guide_timestamp": 1701269700,
+        "last_update": 1701266543003,
         "live": false,
         "participants": [
             {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
-                "role": "Voice"
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Concept By"
             },
             {
-                "character": "Daffy Duck",
-                "name": "Jeff Bergman",
-                "role": "Voice"
+                "character": null,
+                "name": "Anand Babu",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Abhilash Narayanan",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Rajiv Eipe",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Upamanyu Bhattacharyya",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Roto Shah",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Advait Nemlekar",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Inspidea",
+                "role": "Animation"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Studios",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Chris Leong Mei Cian",
+                "role": "Production Manager"
             }
         ],
-        "premiere": false,
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2011,
-        "runtime_minutes": 28,
-        "scheduled_duration": 1680,
-        "scheduled_timestamp": 1701268140,
-        "season_number": "1",
-        "serial": 1701265567342,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1671,
-        "show_id": "13798680",
-        "show_timestamp": 1701268145,
+        "release_year": 2017,
+        "runtime_minutes": 3,
+        "scheduled_duration": 188,
+        "scheduled_timestamp": 1701269820,
+        "season_number": "2",
+        "serial": 1701266542669,
+        "series_id": "2106724",
+        "series_name": "Lamput",
+        "show_duration": 188,
+        "show_id": "13798681",
+        "show_timestamp": 1701269809,
         "status": "estimated",
-        "summary": "Daffy passes himself off as a member of the local country club, where Bugs meets Lola Bunny.",
-        "title": "Members Only",
-        "title_id": "824661",
-        "tv_rating": "TV-PG"
+        "summary": "Lamput escapes onto a busy street - with lots of orange d\u00e9cor. The Docs armed with a zapper is determined to zap Lamput among all other orange objects but the plan backs fire on them.",
+        "title": "Orange Street",
+        "title_id": "2168176",
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -3657,96 +3752,56 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "234485_007_01_851",
-        "create_time": 1701189840867,
-        "episode_in_season": "7",
-        "episode_number": "207",
-        "external_id": "16368169",
+        "content_id": "229072_005_03_851",
+        "create_time": 1701189840868,
+        "episode_in_season": "5",
+        "episode_number": "S3:E05",
+        "external_id": "16361250",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Lamput",
+        "franchise_name": "Craig of the Creek",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701269700,
-        "last_update": 1701265567553,
+        "guide_timestamp": 1701270000,
+        "last_update": 1701266543004,
         "live": false,
         "participants": [
             {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Concept By"
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
             },
             {
-                "character": null,
-                "name": "Anand Babu",
-                "role": "Storyboard Artist"
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
             },
             {
-                "character": null,
-                "name": "Abhilash Narayanan",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Rajiv Eipe",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Upamanyu Bhattacharyya",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Roto Shah",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Advait Nemlekar",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Inspidea",
-                "role": "Animation"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Studios",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Chris Leong Mei Cian",
-                "role": "Production Manager"
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
             }
         ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 3,
-        "scheduled_duration": 188,
-        "scheduled_timestamp": 1701269820,
-        "season_number": "2",
-        "serial": 1701265567342,
-        "series_id": "2106724",
-        "series_name": "Lamput",
-        "show_duration": 188,
-        "show_id": "13798681",
-        "show_timestamp": 1701269822,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701270000,
+        "season_number": "3",
+        "serial": 1701266542669,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13791895",
+        "show_timestamp": 1701269990,
         "status": "estimated",
-        "summary": "Lamput escapes onto a busy street - with lots of orange d\u00e9cor. The Docs armed with a zapper is determined to zap Lamput among all other orange objects but the plan backs fire on them.",
-        "title": "Orange Street",
-        "title_id": "2168176",
+        "summary": "Craig investigates the theft of the 10 Speed's bikes in hopes of finding the culprit!",
+        "title": "The Bike Thief",
+        "title_id": "2218012",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3807,11 +3862,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229072_005_03_851",
-        "create_time": 1701189840868,
-        "episode_in_season": "5",
-        "episode_number": "S3:E05",
-        "external_id": "16361250",
+        "content_id": "229072_006_03_851",
+        "create_time": 1701189840869,
+        "episode_in_season": "6",
+        "episode_number": "S3:E06",
+        "external_id": "16361251",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -3820,8 +3875,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701270000,
-        "last_update": 1701265567553,
+        "guide_timestamp": 1701270900,
+        "last_update": 1701266543005,
         "live": false,
         "participants": [
             {
@@ -3845,18 +3900,18 @@
         "release_year": 2020,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1701270000,
+        "scheduled_timestamp": 1701270900,
         "season_number": "3",
-        "serial": 1701265567342,
+        "serial": 1701266542669,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
-        "show_id": "13791895",
-        "show_timestamp": 1701270001,
+        "show_id": "13791896",
+        "show_timestamp": 1701270894,
         "status": "estimated",
-        "summary": "Craig investigates the theft of the 10 Speed's bikes in hopes of finding the culprit!",
-        "title": "The Bike Thief",
-        "title_id": "2218012",
+        "summary": "Craig gets to hit the beach with his friends and family, but starts to get worried his Dad is more fun than him.",
+        "title": "Craig of the Beach",
+        "title_id": "2218013",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3917,11 +3972,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229072_006_03_851",
-        "create_time": 1701189840869,
-        "episode_in_season": "6",
-        "episode_number": "S3:E06",
-        "external_id": "16361251",
+        "content_id": "229072_007_03_851",
+        "create_time": 1701189840870,
+        "episode_in_season": "7",
+        "episode_number": "S3:E07",
+        "external_id": "16361252",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -3930,8 +3985,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701270900,
-        "last_update": 1701265567554,
+        "guide_timestamp": 1701271800,
+        "last_update": 1701266543005,
         "live": false,
         "participants": [
             {
@@ -3955,18 +4010,18 @@
         "release_year": 2020,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1701270900,
+        "scheduled_timestamp": 1701271800,
         "season_number": "3",
-        "serial": 1701265567342,
+        "serial": 1701266542669,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
-        "show_id": "13791896",
-        "show_timestamp": 1701270901,
+        "show_id": "13791897",
+        "show_timestamp": 1701271798,
         "status": "estimated",
-        "summary": "Craig gets to hit the beach with his friends and family, but starts to get worried his Dad is more fun than him.",
-        "title": "Craig of the Beach",
-        "title_id": "2218013",
+        "summary": "Craig, Kelsey, JP and Jessica discover a group of plushie obsessed kids, deep within the creek.",
+        "title": "Plush Kingdom",
+        "title_id": "2218014",
         "tv_rating": "TV-Y7"
     },
     {
@@ -4027,11 +4082,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229072_007_03_851",
-        "create_time": 1701189840870,
-        "episode_in_season": "7",
-        "episode_number": "S3:E07",
-        "external_id": "16361252",
+        "content_id": "229072_008_03_851",
+        "create_time": 1701189840871,
+        "episode_in_season": "8",
+        "episode_number": "S3:E08",
+        "external_id": "16361253",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -4040,8 +4095,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701271800,
-        "last_update": 1701189840870,
+        "guide_timestamp": 1701272700,
+        "last_update": 1701266543049,
         "live": false,
         "participants": [
             {
@@ -4065,18 +4120,18 @@
         "release_year": 2020,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1701271800,
+        "scheduled_timestamp": 1701272700,
         "season_number": "3",
-        "serial": 1701189840268,
+        "serial": 1701266542669,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
-        "show_id": "13791897",
-        "show_timestamp": 1701271800,
+        "show_id": "13791898",
+        "show_timestamp": 1701272699,
         "status": "estimated",
-        "summary": "Craig, Kelsey, JP and Jessica discover a group of plushie obsessed kids, deep within the creek.",
-        "title": "Plush Kingdom",
-        "title_id": "2218014",
+        "summary": "Craig sets out in search of Ice Pops on a hot day with the help of an unlikely duo.",
+        "title": "The Ice Pop Trio",
+        "title_id": "2218015",
         "tv_rating": "TV-Y7"
     },
     {
@@ -4127,61 +4182,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274288860",
-        "show_timestamp": 1701272700,
-        "status": "estimated",
-        "summary": "Craig sets out in search of Ice Pops on a hot day with the help of an unlikely duo.",
-        "title": "The Ice Pop Trio",
-        "title_id": "2218015",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229072_008_03_851",
-        "create_time": 1701189840871,
-        "episode_in_season": "8",
-        "episode_number": "S3:E08",
-        "external_id": "16361253",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1701272700,
-        "last_update": 1701189840871,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2020,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1701272700,
-        "season_number": "3",
-        "serial": 1701189840268,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13791898",
         "show_timestamp": 1701272700,
         "status": "estimated",
         "summary": "Craig sets out in search of Ice Pops on a hot day with the help of an unlikely duo.",
@@ -4418,7 +4418,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701274500,
-        "last_update": 1701189840872,
+        "last_update": 1701266543589,
         "live": false,
         "participants": [
             {
@@ -4459,10 +4459,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701274500,
         "season_number": "1",
-        "serial": 1701189840268,
+        "serial": 1701266543435,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 899,
         "show_id": "13791900",
         "show_timestamp": 1701274500,
         "status": "estimated",
@@ -4559,7 +4559,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701275400,
-        "last_update": 1701189840873,
+        "last_update": 1701266543630,
         "live": false,
         "participants": [
             {
@@ -4600,10 +4600,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701275400,
         "season_number": "6",
-        "serial": 1701189840268,
+        "serial": 1701266543435,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 889,
         "show_id": "13791901",
         "show_timestamp": 1701275400,
         "status": "estimated",
@@ -4701,7 +4701,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701276300,
-        "last_update": 1701189840874,
+        "last_update": 1701266543631,
         "live": false,
         "participants": [
             {
@@ -4742,10 +4742,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701276300,
         "season_number": "6",
-        "serial": 1701189840268,
+        "serial": 1701266543435,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 889,
         "show_id": "13791902",
         "show_timestamp": 1701276300,
         "status": "estimated",
@@ -5032,7 +5032,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701279000,
-        "last_update": 1701189840876,
+        "last_update": 1701266543631,
         "live": false,
         "participants": [
             {
@@ -5063,10 +5063,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701279000,
         "season_number": "1",
-        "serial": 1701189840268,
+        "serial": 1701266543435,
         "series_id": "2012957",
         "series_name": "Clarence",
-        "show_duration": 900,
+        "show_duration": 893,
         "show_id": "13791905",
         "show_timestamp": 1701279000,
         "status": "estimated",
@@ -5152,7 +5152,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701279900,
-        "last_update": 1701189840877,
+        "last_update": 1701266543631,
         "live": false,
         "participants": [
             {
@@ -5183,10 +5183,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701279900,
         "season_number": "1",
-        "serial": 1701189840268,
+        "serial": 1701266543435,
         "series_id": "2012957",
         "series_name": "Clarence",
-        "show_duration": 900,
+        "show_duration": 893,
         "show_id": "13791906",
         "show_timestamp": 1701279900,
         "status": "estimated",
@@ -5332,7 +5332,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701281700,
-        "last_update": 1701189840879,
+        "last_update": 1701266587968,
         "live": false,
         "participants": [
             {
@@ -5363,10 +5363,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701281700,
         "season_number": "1",
-        "serial": 1701189840268,
+        "serial": 1701266587792,
         "series_id": "2012957",
         "series_name": "Clarence",
-        "show_duration": 900,
+        "show_duration": 894,
         "show_id": "13791908",
         "show_timestamp": 1701281700,
         "status": "estimated",
