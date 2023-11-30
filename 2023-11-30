@@ -1612,7 +1612,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701343800,
-        "last_update": 1701343763854,
+        "last_update": 1701344586468,
         "live": false,
         "participants": [
             {
@@ -1653,13 +1653,13 @@
         "scheduled_duration": 850,
         "scheduled_timestamp": 1701343740,
         "season_number": "6",
-        "serial": 1701343763548,
+        "serial": 1701344586245,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 867,
+        "show_duration": 851,
         "show_id": "13800137",
         "show_timestamp": 1701343720,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball and Darwin are responsible for temporarily turning off the internet.",
         "summary_long": "Gumball and Darwin argue with the Internet and make him mad. So mad in fact that he seeks to wipe out humanity and, while doing so, malfunctions! The whole of Elmore is plunged into a time before technology. It's actually pretty nice. Will Gumball and Darwin decide to leave the internet unplugged?",
         "title": "The Intelligence",
@@ -1754,7 +1754,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701344700,
-        "last_update": 1701343722919,
+        "last_update": 1701344596702,
         "live": false,
         "participants": [
             {
@@ -1795,13 +1795,13 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1701344580,
         "season_number": "6",
-        "serial": 1701343722610,
+        "serial": 1701344596325,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 835,
         "show_id": "13800138",
-        "show_timestamp": 1701344579,
-        "status": "estimated",
+        "show_timestamp": 1701344571,
+        "status": "current",
         "summary": "Gumball and Darwin use a magic potion to shrink Hector.",
         "summary_long": "Gumball and Darwin learn that Hector is not so happy being giant-sized. So they decide to help him by creating a potion that will shrink him down to the size of an average person. However creating a magic potion is not as easy as it sounds, and the results can go spectacularly wrong...",
         "title": "The Potion",
@@ -1896,7 +1896,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701345300,
-        "last_update": 1701343908249,
+        "last_update": 1701344596703,
         "live": false,
         "participants": [
             {
@@ -1962,12 +1962,12 @@
         "scheduled_duration": 187,
         "scheduled_timestamp": 1701345420,
         "season_number": "2",
-        "serial": 1701343908030,
+        "serial": 1701344596325,
         "series_id": "2106724",
         "series_name": "Lamput",
         "show_duration": 187,
         "show_id": "13798654",
-        "show_timestamp": 1701345419,
+        "show_timestamp": 1701345411,
         "status": "estimated",
         "summary": "After a long history of chase, Lamput is paralyzed and hospitalized. Out of guilt, the docs help Lamput to rehabilitate. Lamput slowly regains his strength & the docs cheer him on, until\u2026",
         "title": "Fracture",
@@ -2073,6 +2073,77 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228423_042_03_851",
+        "create_time": 1701275749722,
+        "episode_in_season": "42",
+        "episode_number": "S6:E42",
+        "external_id": "16360932",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701345600,
+        "last_update": 1701344596704,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701345600,
+        "season_number": "6",
+        "serial": 1701344596325,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 895,
+        "show_id": "13791954",
+        "show_timestamp": 1701345591,
+        "status": "estimated",
+        "summary": "Darwin has finally had enough of Gumball's advice and seeks a new mentor.",
+        "summary_long": "When everything goes wrong in Darwin's life, he begins to suspect that Gumball's bad influence might be to blame. Darwin decides to go elsewhere for guidance and finds a new mentor in Alan. But maybe it's time Darwin started making his own decisions.",
+        "title": "The Decisions",
+        "title_id": "2171537",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228423_042_03_851",
         "create_time": 1701253164224,
         "episode_in_season": "42",
         "episode_number": "S6:E42",
@@ -2143,11 +2214,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228423_042_03_851",
-        "create_time": 1701275749722,
-        "episode_in_season": "42",
-        "episode_number": "S6:E42",
-        "external_id": "16360932",
+        "content_id": "228423_043_03_851",
+        "create_time": 1701275749723,
+        "episode_in_season": "43",
+        "episode_number": "S6:E43",
+        "external_id": "16360933",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -2156,8 +2227,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701345600,
-        "last_update": 1701342034305,
+        "guide_timestamp": 1701346500,
+        "last_update": 1701344596705,
         "live": false,
         "participants": [
             {
@@ -2194,21 +2265,21 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2018,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1701345600,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1701346500,
         "season_number": "6",
-        "serial": 1701342034055,
+        "serial": 1701344596325,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 895,
-        "show_id": "13791954",
-        "show_timestamp": 1701345600,
+        "show_duration": 835,
+        "show_id": "13791955",
+        "show_timestamp": 1701346495,
         "status": "estimated",
-        "summary": "Darwin has finally had enough of Gumball's advice and seeks a new mentor.",
-        "summary_long": "When everything goes wrong in Darwin's life, he begins to suspect that Gumball's bad influence might be to blame. Darwin decides to go elsewhere for guidance and finds a new mentor in Alan. But maybe it's time Darwin started making his own decisions.",
-        "title": "The Decisions",
-        "title_id": "2171537",
+        "summary": "When Gumball's old BFF turns up, Darwin gets jealous.",
+        "summary_long": "Gumball's old BFF Fuzzy, turns up on his doorstep. Darwin struggles to accept that there was someone before him and fails to contain his jealousy. But is Darwin right to mistrust Fuzzy? Does Fuzzy actually have sinister motives for reconnecting with his old BFF?",
+        "title": "The BFFS",
+        "title_id": "2171535",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -2285,73 +2356,40 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228423_043_03_851",
+        "content_id": "252832_001_01_851",
         "create_time": 1701275749723,
-        "episode_in_season": "43",
-        "episode_number": "S6:E43",
-        "external_id": "16360933",
+        "episode_in_season": "1",
+        "episode_number": "1001",
+        "external_id": "16368144",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
+        "franchise_name": "CoComelon",
         "genres": [
             "Animation",
             "Children",
-            "Comedy"
+            "Family"
         ],
-        "guide_timestamp": 1701346500,
-        "last_update": 1701342034306,
+        "guide_timestamp": 1701347400,
+        "last_update": 1701345027063,
         "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2018,
+        "release_year": 2006,
         "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1701346500,
-        "season_number": "6",
-        "serial": 1701342034055,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 835,
-        "show_id": "13791955",
-        "show_timestamp": 1701346500,
+        "scheduled_duration": 842,
+        "scheduled_timestamp": 1701347340,
+        "season_number": "1",
+        "serial": 1701345026533,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 842,
+        "show_id": "13798655",
+        "show_timestamp": 1701347338,
         "status": "estimated",
-        "summary": "When Gumball's old BFF turns up, Darwin gets jealous.",
-        "summary_long": "Gumball's old BFF Fuzzy, turns up on his doorstep. Darwin struggles to accept that there was someone before him and fails to contain his jealousy. But is Darwin right to mistrust Fuzzy? Does Fuzzy actually have sinister motives for reconnecting with his old BFF?",
-        "title": "The BFFS",
-        "title_id": "2171535",
-        "tv_rating": "TV-Y7-FV"
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "Five Senses Song/ Three Little Pigs/ Row, Row, Row Your Boat/ Finger Family",
+        "title_id": "2435107",
+        "tv_rating": "TV-Y"
     },
     {
         "blackout_type": "none",
@@ -2394,39 +2432,75 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "252832_001_01_851",
-        "create_time": 1701275749723,
-        "episode_in_season": "1",
-        "episode_number": "1001",
-        "external_id": "16368144",
+        "content_id": "233248_024_02_851",
+        "create_time": 1701275749724,
+        "episode_in_season": "24",
+        "episode_number": "S1:EL24",
+        "external_id": "16368145",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "CoComelon",
+        "franchise_name": "Meet the Batwheels",
         "genres": [
-            "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1701347400,
-        "last_update": 1701291888542,
+        "guide_timestamp": 1701348300,
+        "last_update": 1701344596744,
         "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2006,
-        "runtime_minutes": 14,
-        "scheduled_duration": 842,
-        "scheduled_timestamp": 1701347340,
+        "release_year": 2022,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1701348180,
         "season_number": "1",
-        "serial": 1701291888295,
-        "series_id": "2357112",
-        "series_name": "CoComelon",
-        "show_duration": 842,
-        "show_id": "13798655",
-        "show_timestamp": 1701347340,
+        "serial": 1701344596325,
+        "series_id": "2405571",
+        "series_name": "Meet the Batwheels",
+        "show_duration": 179,
+        "show_id": "13798656",
+        "show_timestamp": 1701348179,
         "status": "estimated",
-        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
-        "title": "Five Senses Song/ Three Little Pigs/ Row, Row, Row Your Boat/ Finger Family",
-        "title_id": "2435107",
+        "summary": "Bam gushes over his personal hero and idol - Batman! During an ongoing mission, Bam awes at all the cool moves and awesome antics that Batman shows off. Potentially can be done with existing footage.",
+        "title": "Bad Day",
+        "title_id": "2322783",
         "tv_rating": "TV-Y"
     },
     {
@@ -2496,80 +2570,6 @@
         "series_name": "Meet the Batwheels",
         "show_duration": 180,
         "show_id": "274292826",
-        "show_timestamp": 1701348180,
-        "status": "estimated",
-        "summary": "Bam gushes over his personal hero and idol - Batman! During an ongoing mission, Bam awes at all the cool moves and awesome antics that Batman shows off. Potentially can be done with existing footage.",
-        "title": "Bad Day",
-        "title_id": "2322783",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "233248_024_02_851",
-        "create_time": 1701275749724,
-        "episode_in_season": "24",
-        "episode_number": "S1:EL24",
-        "external_id": "16368145",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Meet the Batwheels",
-        "genres": [
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1701348300,
-        "last_update": 1701342034307,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Caroline Kermel",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Fink",
-                "role": "Producer"
-            },
-            {
-                "character": "Buff",
-                "name": "Noah Kaye Bentley",
-                "role": "Voice"
-            },
-            {
-                "character": "Bam",
-                "name": "Jacob Bertrand",
-                "role": "Voice"
-            },
-            {
-                "character": "Batman",
-                "name": "Ethan Hawke",
-                "role": "Voice"
-            },
-            {
-                "character": "Robin",
-                "name": "AJ Hudson",
-                "role": "Voice"
-            },
-            {
-                "character": "Bibi",
-                "name": "Madigan Kacmar",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2022,
-        "runtime_minutes": 3,
-        "scheduled_duration": 180,
-        "scheduled_timestamp": 1701348180,
-        "season_number": "1",
-        "serial": 1701342034055,
-        "series_id": "2405571",
-        "series_name": "Meet the Batwheels",
-        "show_duration": 179,
-        "show_id": "13798656",
         "show_timestamp": 1701348180,
         "status": "estimated",
         "summary": "Bam gushes over his personal hero and idol - Batman! During an ongoing mission, Bam awes at all the cool moves and awesome antics that Batman shows off. Potentially can be done with existing footage.",
