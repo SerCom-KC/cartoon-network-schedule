@@ -2593,7 +2593,7 @@
             "Family"
         ],
         "guide_timestamp": 1701348300,
-        "last_update": 1701352794114,
+        "last_update": 1701356397134,
         "live": false,
         "participants": [
             {
@@ -2639,7 +2639,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1701348360,
         "season_number": "1",
-        "serial": 1701352793758,
+        "serial": 1701356396724,
         "series_id": "2267111",
         "series_name": "Batwheels",
         "show_duration": 839,
@@ -3170,7 +3170,7 @@
             "Family"
         ],
         "guide_timestamp": 1701351900,
-        "last_update": 1701352834099,
+        "last_update": 1701356435249,
         "live": false,
         "participants": [
             {
@@ -3241,7 +3241,7 @@
         "scheduled_duration": 910,
         "scheduled_timestamp": 1701351900,
         "season_number": "1",
-        "serial": 1701352833909,
+        "serial": 1701356435035,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
         "show_duration": 911,
@@ -3472,7 +3472,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701354600,
-        "last_update": 1701354540461,
+        "last_update": 1701356227489,
         "live": false,
         "participants": [
             {
@@ -3493,13 +3493,13 @@
         "scheduled_duration": 1680,
         "scheduled_timestamp": 1701354540,
         "season_number": "1",
-        "serial": 1701354540165,
+        "serial": 1701356227191,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1673,
+        "show_duration": 1675,
         "show_id": "13798661",
         "show_timestamp": 1701354536,
-        "status": "current",
+        "status": "actual",
         "summary": "Bugs and Daffy find that having a neighbor like Yosemite Sam doesn't make you feel very neighborly.",
         "title": "Fish and Visitors",
         "title_id": "824657",
@@ -3572,7 +3572,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701356100,
-        "last_update": 1701350043375,
+        "last_update": 1701356421758,
         "live": false,
         "participants": [
             {
@@ -3638,13 +3638,13 @@
         "scheduled_duration": 187,
         "scheduled_timestamp": 1701356220,
         "season_number": "2",
-        "serial": 1701350043159,
+        "serial": 1701356421544,
         "series_id": "2106724",
         "series_name": "Lamput",
-        "show_duration": 187,
+        "show_duration": 186,
         "show_id": "13798662",
-        "show_timestamp": 1701356218,
-        "status": "estimated",
+        "show_timestamp": 1701356211,
+        "status": "actual",
         "summary": "Lamput is admiring various pieces of art at a gallery. But the Docs catch up with him and the chase is on. Lamput tries to become unnoticeable by blending in with the displayed art.",
         "title": "Art Gallery",
         "title_id": "2168178",
@@ -3762,7 +3762,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701356400,
-        "last_update": 1701351905501,
+        "last_update": 1701356421757,
         "live": false,
         "participants": [
             {
@@ -3788,13 +3788,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701356400,
         "season_number": "3",
-        "serial": 1701351905286,
+        "serial": 1701356421544,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 900,
+        "show_duration": 894,
         "show_id": "13791964",
-        "show_timestamp": 1701356399,
-        "status": "estimated",
+        "show_timestamp": 1701356397,
+        "status": "current",
         "summary": "When Pencil Break Mania hits the Creek, JP finds himself as an unlikely champion and is forced to defend his title against the very best!",
         "title": "Pencil Break Mania",
         "title_id": "2227873",
@@ -3859,6 +3859,61 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229072_010_03_851",
+        "create_time": 1701275751036,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "16360943",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701357300,
+        "last_update": 1701356227489,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701357300,
+        "season_number": "3",
+        "serial": 1701356227191,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13791965",
+        "show_timestamp": 1701357294,
+        "status": "estimated",
+        "summary": "It's the last day of summer, and the last chance for Craig to uncover an ancient treasure beneath the Creek.",
+        "title": "The Last Game of Summer",
+        "title_id": "2227874",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229072_010_03_851",
         "create_time": 1701265585823,
         "episode_in_season": "10",
         "episode_number": "S3:E10",
@@ -3913,11 +3968,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229072_010_03_851",
-        "create_time": 1701275751036,
-        "episode_in_season": "10",
-        "episode_number": "S3:E10",
-        "external_id": "16360943",
+        "content_id": "229072_012_03_851",
+        "create_time": 1701275751037,
+        "episode_in_season": "12",
+        "episode_number": "S3:E12",
+        "external_id": "16360944",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -3926,8 +3981,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701357300,
-        "last_update": 1701351905502,
+        "guide_timestamp": 1701358200,
+        "last_update": 1701357009920,
         "live": false,
         "participants": [
             {
@@ -3946,23 +4001,23 @@
                 "role": "Voice"
             }
         ],
-        "premiere": false,
+        "premiere": true,
         "press_hold": false,
         "release_year": 2020,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1701357300,
+        "scheduled_timestamp": 1701358200,
         "season_number": "3",
-        "serial": 1701351905286,
+        "serial": 1701357009564,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
-        "show_id": "13791965",
-        "show_timestamp": 1701357300,
+        "show_id": "13791966",
+        "show_timestamp": 1701358198,
         "status": "estimated",
-        "summary": "It's the last day of summer, and the last chance for Craig to uncover an ancient treasure beneath the Creek.",
-        "title": "The Last Game of Summer",
-        "title_id": "2227874",
+        "summary": "In an attempt to finish a school project, Craig remembers some of his favorite Fall moments.",
+        "title": "Fall Anthology",
+        "title_id": "2227875",
         "tv_rating": "TV-Y7"
     },
     {
@@ -4023,11 +4078,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229072_012_03_851",
-        "create_time": 1701275751037,
-        "episode_in_season": "12",
-        "episode_number": "S3:E12",
-        "external_id": "16360944",
+        "content_id": "229072_013_03_851",
+        "create_time": 1701275751038,
+        "episode_in_season": "13",
+        "episode_number": "S3:E13",
+        "external_id": "16360945",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -4036,8 +4091,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1701358200,
-        "last_update": 1701275751037,
+        "guide_timestamp": 1701359100,
+        "last_update": 1701356227490,
         "live": false,
         "participants": [
             {
@@ -4056,23 +4111,23 @@
                 "role": "Voice"
             }
         ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
         "release_year": 2020,
         "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1701358200,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1701359100,
         "season_number": "3",
-        "serial": 1701275750429,
+        "serial": 1701356227191,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13791966",
-        "show_timestamp": 1701358200,
+        "show_duration": 901,
+        "show_id": "13791967",
+        "show_timestamp": 1701359099,
         "status": "estimated",
-        "summary": "In an attempt to finish a school project, Craig remembers some of his favorite Fall moments.",
-        "title": "Fall Anthology",
-        "title_id": "2227875",
+        "summary": "Craig enters a food competition in the Creek but worries he may be out of his league.",
+        "title": "Afterschool Snackdown",
+        "title_id": "2227876",
         "tv_rating": "TV-Y7"
     },
     {
@@ -4123,61 +4178,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274292956",
-        "show_timestamp": 1701359100,
-        "status": "estimated",
-        "summary": "Craig enters a food competition in the Creek but worries he may be out of his league.",
-        "title": "Afterschool Snackdown",
-        "title_id": "2227876",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229072_013_03_851",
-        "create_time": 1701275751038,
-        "episode_in_season": "13",
-        "episode_number": "S3:E13",
-        "external_id": "16360945",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1701359100,
-        "last_update": 1701291889213,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2020,
-        "runtime_minutes": 15,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1701359100,
-        "season_number": "3",
-        "serial": 1701291888951,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 901,
-        "show_id": "13791967",
         "show_timestamp": 1701359100,
         "status": "estimated",
         "summary": "Craig enters a food competition in the Creek but worries he may be out of his league.",
@@ -4413,7 +4413,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701360900,
-        "last_update": 1701275751039,
+        "last_update": 1701356227490,
         "live": false,
         "participants": [
             {
@@ -4454,10 +4454,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701360900,
         "season_number": "6",
-        "serial": 1701275750429,
+        "serial": 1701356227191,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 889,
         "show_id": "13791969",
         "show_timestamp": 1701360900,
         "status": "estimated",
@@ -4916,7 +4916,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701364500,
-        "last_update": 1701275751042,
+        "last_update": 1701356228156,
         "live": false,
         "participants": [
             {
@@ -4937,10 +4937,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701364500,
         "season_number": "1",
-        "serial": 1701275750429,
+        "serial": 1701356227879,
         "series_id": "2133648",
         "series_name": "Apple & Onion",
-        "show_duration": 900,
+        "show_duration": 887,
         "show_id": "13791973",
         "show_timestamp": 1701364500,
         "status": "estimated",
@@ -5146,7 +5146,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701366300,
-        "last_update": 1701275751044,
+        "last_update": 1701356228157,
         "live": false,
         "participants": [
             {
@@ -5177,10 +5177,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701366300,
         "season_number": "1",
-        "serial": 1701275750429,
+        "serial": 1701356227879,
         "series_id": "2012957",
         "series_name": "Clarence",
-        "show_duration": 900,
+        "show_duration": 894,
         "show_id": "13791975",
         "show_timestamp": 1701366300,
         "status": "estimated",
@@ -5267,7 +5267,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701368100,
-        "last_update": 1701275751045,
+        "last_update": 1701356228158,
         "live": false,
         "participants": [
             {
@@ -5298,10 +5298,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701368100,
         "season_number": "1",
-        "serial": 1701275750429,
+        "serial": 1701356227879,
         "series_id": "2012957",
         "series_name": "Clarence",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13791977",
         "show_timestamp": 1701368100,
         "status": "estimated",
