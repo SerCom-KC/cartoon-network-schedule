@@ -621,5 +621,82 @@
         "title": "Faking Bad",
         "title_id": "2007879",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232855_009_03_851",
+        "create_time": 1701411849548,
+        "episode_in_season": "9",
+        "episode_number": "S9:E09",
+        "external_id": "16361055",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1701504000,
+        "last_update": 1701411849548,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1701504000,
+        "season_number": "9",
+        "serial": 1701411849178,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1805,
+        "show_id": "13792083",
+        "show_timestamp": 1701504000,
+        "status": "estimated",
+        "summary": "Roger gets into a serious car accident and wakes up from his coma to discover that he now has the ability to see the future.  He uses this ability to rescue the Smith family from dangerous situations.",
+        "title": "Vision: Impossible",
+        "title_id": "2007881",
+        "tv_rating": "TV-14"
     }
 ]
