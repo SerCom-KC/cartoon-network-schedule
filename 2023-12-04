@@ -356,5 +356,82 @@
         "title": "The Fast and the Spurious",
         "title_id": "2342102",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232841_019_01_851",
+        "create_time": 1701580476877,
+        "episode_in_season": "19",
+        "episode_number": "S18:E18",
+        "external_id": "16361315",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1701673200,
+        "last_update": 1701580476877,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1827,
+        "scheduled_timestamp": 1701673200,
+        "season_number": "18",
+        "serial": 1701580476431,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1827,
+        "show_id": "13792196",
+        "show_timestamp": 1701673200,
+        "status": "estimated",
+        "summary": "Stan and Roger go on a mission to leave their mark on humanity; Jeff finally deals with the reality of losing his signature hat.",
+        "title": "Footprints",
+        "title_id": "2399410",
+        "tv_rating": "TV-14"
     }
 ]
