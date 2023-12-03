@@ -161,5 +161,122 @@
         "title": "Anti-weed",
         "title_id": "2418687",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "S"
+        ],
+        "content_id": "241156_008_01_851",
+        "create_time": 1701576910191,
+        "episode_in_season": "8",
+        "episode_number": "S6:E08",
+        "external_id": "16361312",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Eric Andre Show, The",
+        "genres": [
+            "Comedy",
+            "Talk"
+        ],
+        "guide_timestamp": 1701668700,
+        "last_update": 1701576910191,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701668700,
+        "season_number": "6",
+        "serial": 1701576909870,
+        "series_id": "895948",
+        "series_name": "The Eric Andre Show",
+        "show_duration": 900,
+        "show_id": "13792193",
+        "show_timestamp": 1701668700,
+        "status": "estimated",
+        "summary": "Eric welcomes Jaden Smith and Chloe Cherry. The Chainsmokers finally chain smoke. A desperate Dad hang glides into a gender reveal party gone awry.",
+        "title": "Old Yeller",
+        "title_id": "2418688",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232851_011_02_851",
+        "create_time": 1701576910228,
+        "episode_in_season": "11",
+        "episode_number": "S17:E11",
+        "external_id": "16361313",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1701669600,
+        "last_update": 1701576910228,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1701669600,
+        "season_number": "17",
+        "serial": 1701576909870,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13792194",
+        "show_timestamp": 1701669600,
+        "status": "estimated",
+        "summary": "Francine's newfound friendship with a frog brings excitement to the whole Smith household. Unfortunately, it drives their neighbor, Greg, crazy.",
+        "title": "The Three Fs",
+        "title_id": "2342099",
+        "tv_rating": "TV-14"
     }
 ]
