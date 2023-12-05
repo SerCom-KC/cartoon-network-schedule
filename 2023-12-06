@@ -695,5 +695,75 @@
         "title": "Anatomy Park",
         "title_id": "2013511",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "251737_004_03_851",
+        "create_time": 1701759334580,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16362220",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1701851400,
+        "last_update": 1701759334580,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1701851400,
+        "season_number": "1",
+        "serial": 1701759334375,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1802,
+        "show_id": "13793680",
+        "show_timestamp": 1701851400,
+        "status": "estimated",
+        "summary": "Rick and Morty try to get to the bottom of a mystery in this M. Night Shamyaloin style twistaroony of an episode!",
+        "title": "M. Night Shaym-Aliens!",
+        "title_id": "2013509",
+        "tv_rating": "TV-14"
     }
 ]
