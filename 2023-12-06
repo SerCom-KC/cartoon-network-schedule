@@ -3972,7 +3972,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701876600,
-        "last_update": 1701876629920,
+        "last_update": 1701877510493,
         "live": false,
         "participants": [
             {
@@ -4003,13 +4003,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701876600,
         "season_number": "3",
-        "serial": 1701876629664,
+        "serial": 1701877510185,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 900,
+        "show_duration": 901,
         "show_id": "13793702",
         "show_timestamp": 1701876593,
-        "status": "current",
+        "status": "actual",
         "summary": "Craig creates an amusement park in the Creek! But when things start to get stale, he vows to make it bigger and better, no matter what it takes!",
         "title": "Craig World",
         "title_id": "2239393",
@@ -4092,7 +4092,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701877500,
-        "last_update": 1701876629920,
+        "last_update": 1701877532487,
         "live": false,
         "participants": [
             {
@@ -4123,13 +4123,13 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1701877500,
         "season_number": "3",
-        "serial": 1701876629664,
+        "serial": 1701877532240,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 901,
         "show_id": "13793703",
-        "show_timestamp": 1701877493,
-        "status": "estimated",
+        "show_timestamp": 1701877494,
+        "status": "current",
         "summary": "Fed up with their home experiences, Craig, Kelsey and JP agree to switch bodies!",
         "title": "Body Swap",
         "title_id": "2239394",
@@ -4212,7 +4212,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701878400,
-        "last_update": 1701876629921,
+        "last_update": 1701877532488,
         "live": false,
         "participants": [
             {
@@ -4253,12 +4253,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701878400,
         "season_number": "1",
-        "serial": 1701876629664,
+        "serial": 1701877532240,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 899,
         "show_id": "13793704",
-        "show_timestamp": 1701878396,
+        "show_timestamp": 1701878394,
         "status": "estimated",
         "summary": "Gumball and Darwin's wish comes true when they suddenly turn into men.",
         "title": "The Mustache",
@@ -4352,7 +4352,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1701879300,
-        "last_update": 1701877069055,
+        "last_update": 1701877532489,
         "live": false,
         "participants": [
             {
@@ -4393,12 +4393,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1701879300,
         "season_number": "1",
-        "serial": 1701877068705,
+        "serial": 1701877532240,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "13793705",
-        "show_timestamp": 1701879298,
+        "show_timestamp": 1701879297,
         "status": "estimated",
         "summary": "Gumball discovers the difference between a \"date\" and a \"pet's funeral\"...the hard way.",
         "title": "The Date",
@@ -4619,6 +4619,76 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228419_029_02_851",
+        "create_time": 1701794261975,
+        "episode_in_season": "29",
+        "episode_number": "S1:EL29",
+        "external_id": "16362119",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701881100,
+        "last_update": 1701877532490,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701881100,
+        "season_number": "1",
+        "serial": 1701877532240,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 899,
+        "show_id": "13793707",
+        "show_timestamp": 1701881099,
+        "status": "estimated",
+        "summary": "Gumball and Darwin make their dad believe in magic again.",
+        "title": "The Wand",
+        "title_id": "839532",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228419_029_02_851",
         "create_time": 1701787573945,
         "episode_in_season": "29",
         "episode_number": "S1:EL29",
@@ -4678,76 +4748,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274317572",
-        "show_timestamp": 1701881100,
-        "status": "estimated",
-        "summary": "Gumball and Darwin make their dad believe in magic again.",
-        "title": "The Wand",
-        "title_id": "839532",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228419_029_02_851",
-        "create_time": 1701794261975,
-        "episode_in_season": "29",
-        "episode_number": "S1:EL29",
-        "external_id": "16362119",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1701881100,
-        "last_update": 1701876629922,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2011,
-        "runtime_minutes": 11,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1701881100,
-        "season_number": "1",
-        "serial": 1701876629664,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 899,
-        "show_id": "13793707",
         "show_timestamp": 1701881100,
         "status": "estimated",
         "summary": "Gumball and Darwin make their dad believe in magic again.",
