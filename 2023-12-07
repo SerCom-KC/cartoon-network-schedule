@@ -1706,8 +1706,13 @@
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1701950100,
-        "last_update": 1701857413706,
+        "last_update": 1701873985905,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -1716,7 +1721,7 @@
         "scheduled_duration": 240,
         "scheduled_timestamp": 1701950160,
         "season_number": "1",
-        "serial": 1701857413402,
+        "serial": 1701873985474,
         "series_id": "2118583",
         "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
         "show_duration": 240,
@@ -2405,8 +2410,13 @@
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
         "guide_timestamp": 1701960900,
-        "last_update": 1701868325053,
+        "last_update": 1701873985905,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -2415,7 +2425,7 @@
         "scheduled_duration": 240,
         "scheduled_timestamp": 1701960960,
         "season_number": "1",
-        "serial": 1701868324765,
+        "serial": 1701873985474,
         "series_id": "2118583",
         "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
         "show_duration": 240,
@@ -2735,6 +2745,216 @@
         "summary": "Gumball and Darwin accidentally create a loveable monster that eats their family.",
         "title": "The Microwave",
         "title_id": "839545",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228419_034_03_851",
+        "create_time": 1701873985906,
+        "episode_in_season": "34",
+        "episode_number": "S1:EL34",
+        "external_id": "16362075",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701965700,
+        "last_update": 1701873985906,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701965700,
+        "season_number": "1",
+        "serial": 1701873985474,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "274321638",
+        "show_timestamp": 1701965700,
+        "status": "estimated",
+        "summary": "Gumball is embarrassed when Mom comes to school to spend some \"quality time\".",
+        "title": "The Meddler",
+        "title_id": "839544",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228419_035_03_851",
+        "create_time": 1701873985907,
+        "episode_in_season": "35",
+        "episode_number": "S1:EL35",
+        "external_id": "16362076",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701966600,
+        "last_update": 1701873985907,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701966600,
+        "season_number": "1",
+        "serial": 1701873985474,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "274321648",
+        "show_timestamp": 1701966600,
+        "status": "estimated",
+        "summary": "Gumball's magic tinfoil helmet threatens to tear the Watterson family apart!",
+        "title": "The Helmet",
+        "title_id": "839540",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228419_036_03_851",
+        "create_time": 1701873986509,
+        "episode_in_season": "36",
+        "episode_number": "S1:EL36",
+        "external_id": "16362077",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1701967500,
+        "last_update": 1701873986509,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1701967500,
+        "season_number": "1",
+        "serial": 1701873986228,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "274321658",
+        "show_timestamp": 1701967500,
+        "status": "estimated",
+        "summary": "Anais is convinced that Gumball is being bullied by Tina Rex.",
+        "title": "The Fight",
+        "title_id": "839539",
         "tv_rating": "TV-Y7-FV"
     }
 ]
