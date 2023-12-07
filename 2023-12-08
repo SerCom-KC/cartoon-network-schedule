@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1702011600,
-        "last_update": 1701918590655,
+        "last_update": 1701965503600,
         "live": false,
         "participants": [
             {
@@ -43,13 +43,13 @@
         "press_hold": false,
         "release_year": 2023,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1820,
         "scheduled_timestamp": 1702011600,
         "season_number": "7",
-        "serial": 1701918589989,
+        "serial": 1701965503360,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1820,
         "show_id": "13793809",
         "show_timestamp": 1702011600,
         "status": "estimated",
@@ -702,7 +702,7 @@
             "Animation"
         ],
         "guide_timestamp": 1702024200,
-        "last_update": 1701930843157,
+        "last_update": 1701965504068,
         "live": false,
         "participants": [
             {
@@ -725,13 +725,13 @@
         "press_hold": false,
         "release_year": 2023,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1825,
         "scheduled_timestamp": 1702024200,
         "season_number": "7",
-        "serial": 1701930842658,
+        "serial": 1701965503860,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1825,
         "show_id": "13793818",
         "show_timestamp": 1702024200,
         "status": "estimated",
@@ -1158,7 +1158,7 @@
             "Family"
         ],
         "guide_timestamp": 1702029600,
-        "last_update": 1701936988788,
+        "last_update": 1701965504106,
         "live": false,
         "participants": [
             {
@@ -1171,13 +1171,13 @@
         "press_hold": false,
         "release_year": 2020,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1824,
         "scheduled_timestamp": 1702029600,
         "season_number": "10",
-        "serial": 1701936988502,
+        "serial": 1701965503860,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1800,
+        "show_duration": 1824,
         "show_id": "13793823",
         "show_timestamp": 1702029600,
         "status": "estimated",
@@ -2913,6 +2913,66 @@
         "summary": "After a pit stop bathroom break during a school field trip, Clarence returns to the parking lot and accidentally gets on the wrong school bus - which takes him to a different school!",
         "title": "Field Trippin'",
         "title_id": "2065515",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228549_012_02_851",
+        "create_time": 1701965504727,
+        "episode_in_season": "12",
+        "episode_number": "S2:E12",
+        "external_id": "16362470",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Clarence",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702058400,
+        "last_update": 1701965504727,
+        "live": false,
+        "participants": [
+            {
+                "character": "Clarence Wendle",
+                "name": "Spencer Rothbell",
+                "role": "Voice"
+            },
+            {
+                "character": "Jeff Randell",
+                "name": "Sean Giambrone",
+                "role": "Voice"
+            },
+            {
+                "character": "Sumo",
+                "name": "Tom Kenny",
+                "role": "Voice"
+            },
+            {
+                "character": "Mary Wendle",
+                "name": "Katie Crown",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1702058400,
+        "season_number": "2",
+        "serial": 1701965504438,
+        "series_id": "2012957",
+        "series_name": "Clarence",
+        "show_duration": 900,
+        "show_id": "13793849",
+        "show_timestamp": 1702058400,
+        "status": "estimated",
+        "summary": "Clarence enlists the help of his eccentric neighbor Larry to take the trio out for ice cream and the ride of their lives!",
+        "title": "Ice Cream Hunt",
+        "title_id": "2065516",
         "tv_rating": "TV-PG"
     }
 ]
