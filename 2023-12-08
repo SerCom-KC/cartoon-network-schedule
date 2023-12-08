@@ -4066,5 +4066,130 @@
         "title": "Flat-Top O' the Morning to Ya",
         "title_id": "2438954",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_017_03_851",
+        "create_time": 1701993829417,
+        "episode_in_season": "17",
+        "episode_number": "S10:E17",
+        "external_id": "16362369",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1702087200,
+        "last_update": 1701993829417,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702087200,
+        "season_number": "10",
+        "serial": 1701993829188,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13793868",
+        "show_timestamp": 1702087200,
+        "status": "estimated",
+        "summary": "The Belchers take a road trip.",
+        "summary_long": "The family takes an unexpected road trip with Nat the limo driver.",
+        "title": "Just the Trip",
+        "title_id": "2438955",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_004_01_851",
+        "create_time": 1701995666873,
+        "episode_in_season": "4",
+        "episode_number": "S15:E04",
+        "external_id": "16362370",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1702089000,
+        "last_update": 1701995666873,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702089000,
+        "season_number": "15",
+        "serial": 1701995666688,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13793869",
+        "show_timestamp": 1702089000,
+        "status": "estimated",
+        "summary": "Stan and Steve enter an e-sports game tournament to save the world. The rest of the family get stuck in a banister.",
+        "title": "Brave N00b World",
+        "title_id": "2197407",
+        "tv_rating": "TV-14"
     }
 ]
