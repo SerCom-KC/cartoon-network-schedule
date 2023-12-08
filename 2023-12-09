@@ -3047,5 +3047,114 @@
         "title": "Scooby-Doo! Return to Zombie Island",
         "title_id": "2198158",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228419_013_03_851",
+        "create_time": 1702066206431,
+        "episode_in_season": "13",
+        "episode_number": "S1:EL13",
+        "external_id": "16362243",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702158300,
+        "last_update": 1702066206431,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1702158300,
+        "season_number": "1",
+        "serial": 1702066206022,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13793921",
+        "show_timestamp": 1702158300,
+        "status": "estimated",
+        "summary": "Gumball sets out to solve the mystery of who stuffed Principal Brown into his locker.",
+        "title": "The Mystery",
+        "title_id": "839548",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233060_008_03_851",
+        "create_time": 1702066206468,
+        "episode_in_season": "8",
+        "episode_number": "S8:E08",
+        "external_id": "16362244",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1702159200,
+        "last_update": 1702066206468,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2003,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702159200,
+        "season_number": "8",
+        "serial": 1702066206022,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13793922",
+        "show_timestamp": 1702159200,
+        "status": "estimated",
+        "summary": "When Bobby mistakenly believes that his parents are rich, he steals Hank's credit card and goes on a shopping spree.",
+        "title": "Rich Hank, Poor Hank",
+        "title_id": "731498",
+        "tv_rating": "TV-PG"
     }
 ]
