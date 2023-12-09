@@ -75,7 +75,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702098900,
-        "last_update": 1702070239120,
+        "last_update": 1702084517206,
         "live": false,
         "participants": [
             {
@@ -116,12 +116,12 @@
         "scheduled_duration": 909,
         "scheduled_timestamp": 1702098900,
         "season_number": "1",
-        "serial": 1702070238795,
+        "serial": 1702084516699,
         "series_id": "2224723",
         "series_name": "YOLO",
-        "show_duration": 909,
+        "show_duration": 899,
         "show_id": "13793875",
-        "show_timestamp": 1702098900,
+        "show_timestamp": 1702098910,
         "status": "estimated",
         "summary": "Sarah and Rachel are invited by Sarah's nan to attend her Christmas cruise party, but the ship is sunk by a large, handsome crocodile. The girls are shipwrecked on a nearby island where they search for the crocodile for different reasons.",
         "summary_long": "Sarah and Rachel are invited by Sarah's nan to attend her Christmas cruise party, but the ship is sunk by a large, handsome crocodile. The girls are shipwrecked on a nearby island where they search for the crocodile for different reasons: Sarah, because she thinks the huge reptile might be her soul mate, and Rachel, because the toothy beast swallowed Sarah's Nan's valuable bag of rubies. Can Sarah find love and Rachel find wealth?",
@@ -3620,6 +3620,160 @@
         "summary": "Steve and the boys take part in a prison experiment to earn some cash. Meanwhile, Stan deals with the death of his CIA groundskeeper friend.",
         "title": "American Data?",
         "title_id": "2197415",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "232837_011_02_851",
+        "create_time": 1702086309129,
+        "episode_in_season": "11",
+        "episode_number": "S15:E11",
+        "external_id": "16362254",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1702177200,
+        "last_update": 1702086309129,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702177200,
+        "season_number": "15",
+        "serial": 1702086308701,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13793932",
+        "show_timestamp": 1702177200,
+        "status": "estimated",
+        "summary": "Steve's efforts to befriend a Swedish exchange student backfire in a big way; The family calls in an animal behaviorist to deal with Klaus.",
+        "title": "Salute Your Sllort",
+        "title_id": "2197416",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_013_02_851",
+        "create_time": 1702086309164,
+        "episode_in_season": "13",
+        "episode_number": "S15:E13",
+        "external_id": "16362255",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1702179000,
+        "last_update": 1702086309164,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702179000,
+        "season_number": "15",
+        "serial": 1702086308701,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13793933",
+        "show_timestamp": 1702179000,
+        "status": "estimated",
+        "summary": "Klaus enlists Stan, Roger and Jeff to join him on a wild bachelor party weekend.",
+        "title": "Men ll Boyz",
+        "title_id": "2197418",
         "tv_rating": "TV-14"
     }
 ]
