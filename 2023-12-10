@@ -305,5 +305,107 @@
         "title": "The Mystery of Secrets",
         "title_id": "2267331",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229014_003_02_851",
+        "create_time": 1702106039818,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16362261",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Genndy Tartakovsky's Primal",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1702197000,
+        "last_update": 1702106039818,
+        "live": false,
+        "participants": [
+            {
+                "character": "Spear",
+                "name": "Aaron LaPlante",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Darrick Bachman",
+                "role": "Writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702197000,
+        "season_number": "1",
+        "serial": 1702106039370,
+        "series_id": "2211157",
+        "series_name": "Genndy Tartakovsky's Primal",
+        "show_duration": 1800,
+        "show_id": "13793943",
+        "show_timestamp": 1702197000,
+        "status": "estimated",
+        "summary": "In the harshness of the primordial winter a herd of woolly mammoths hunt for the murderers of one of their own.",
+        "title": "A Cold Death",
+        "title_id": "2211160",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233074_004_01_851",
+        "create_time": 1702106039818,
+        "episode_in_season": "4",
+        "episode_number": "S9:E04",
+        "external_id": "16362262",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1702198800,
+        "last_update": 1702106039818,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702198800,
+        "season_number": "9",
+        "serial": 1702106039370,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "13793944",
+        "show_timestamp": 1702198800,
+        "status": "estimated",
+        "summary": "Bender joins the paparazzi and attempts to photograph a famous actor whose face has never been seen.",
+        "title": "The Thief of Baghead",
+        "title_id": "2161649",
+        "tv_rating": "TV-14"
     }
 ]
