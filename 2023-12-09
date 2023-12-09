@@ -14,7 +14,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702098000,
-        "last_update": 1702070239120,
+        "last_update": 1702083623410,
         "live": false,
         "participants": [
             {
@@ -45,12 +45,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702098000,
         "season_number": "1",
-        "serial": 1702070238795,
+        "serial": 1702083616217,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
-        "show_duration": 900,
+        "show_duration": 881,
         "show_id": "13793874",
-        "show_timestamp": 1702098000,
+        "show_timestamp": 1702098005,
         "status": "estimated",
         "summary": "In the season finale, Charlie actually dies for real.",
         "title": "Charlie Dies and Doesn't Come Back",
@@ -3175,19 +3175,19 @@
             "Drama"
         ],
         "guide_timestamp": 1702161000,
-        "last_update": 1702069556978,
+        "last_update": 1702082474946,
         "live": false,
         "premiere": true,
         "press_hold": false,
         "release_year": 2003,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1825,
         "scheduled_timestamp": 1702161000,
         "season_number": "8",
-        "serial": 1702069556635,
+        "serial": 1702082474579,
         "series_id": "629835",
         "series_name": "King of the Hill",
-        "show_duration": 1800,
+        "show_duration": 1825,
         "show_id": "13793923",
         "show_timestamp": 1702161000,
         "status": "estimated",
@@ -3256,19 +3256,19 @@
             "Drama"
         ],
         "guide_timestamp": 1702164600,
-        "last_update": 1702072906706,
+        "last_update": 1702082474947,
         "live": false,
         "premiere": true,
         "press_hold": false,
         "release_year": 2003,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1823,
         "scheduled_timestamp": 1702164600,
         "season_number": "8",
-        "serial": 1702072906464,
+        "serial": 1702082474579,
         "series_id": "629835",
         "series_name": "King of the Hill",
-        "show_duration": 1800,
+        "show_duration": 1823,
         "show_id": "13793925",
         "show_timestamp": 1702164600,
         "status": "estimated",
@@ -3296,7 +3296,7 @@
             "Family"
         ],
         "guide_timestamp": 1702166400,
-        "last_update": 1702072906743,
+        "last_update": 1702082474948,
         "live": false,
         "participants": [
             {
@@ -3309,13 +3309,13 @@
         "press_hold": false,
         "release_year": 2016,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1804,
         "scheduled_timestamp": 1702166400,
         "season_number": "6",
-        "serial": 1702072906464,
+        "serial": 1702082474579,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1800,
+        "show_duration": 1804,
         "show_id": "13793926",
         "show_timestamp": 1702166400,
         "status": "estimated",
@@ -3438,7 +3438,7 @@
             "Family"
         ],
         "guide_timestamp": 1702171800,
-        "last_update": 1702078547067,
+        "last_update": 1702082475484,
         "live": false,
         "participants": [
             {
@@ -3451,13 +3451,13 @@
         "press_hold": false,
         "release_year": 2016,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1804,
         "scheduled_timestamp": 1702171800,
         "season_number": "6",
-        "serial": 1702078546758,
+        "serial": 1702082475228,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1800,
+        "show_duration": 1804,
         "show_id": "13793929",
         "show_timestamp": 1702171800,
         "status": "estimated",
@@ -3465,5 +3465,161 @@
         "title": "Secret Admiral-Irer",
         "title_id": "2097206",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_009_02_851",
+        "create_time": 1702080184779,
+        "episode_in_season": "9",
+        "episode_number": "S15:E09",
+        "external_id": "16362252",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1702173600,
+        "last_update": 1702080184779,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1809,
+        "scheduled_timestamp": 1702173600,
+        "season_number": "15",
+        "serial": 1702080184494,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1809,
+        "show_id": "13793930",
+        "show_timestamp": 1702173600,
+        "status": "estimated",
+        "summary": "Stan drags the family to a labyrinth for family game night; Roger gets some geese.",
+        "title": "Game Night",
+        "title_id": "2197413",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_010_02_851",
+        "create_time": 1702082475485,
+        "episode_in_season": "10",
+        "episode_number": "S15:E10",
+        "external_id": "16362253",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1702175400,
+        "last_update": 1702082475485,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702175400,
+        "season_number": "15",
+        "serial": 1702082475228,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13793931",
+        "show_timestamp": 1702175400,
+        "status": "estimated",
+        "summary": "Steve and the boys take part in a prison experiment to earn some cash. Meanwhile, Stan deals with the death of his CIA groundskeeper friend.",
+        "title": "American Data?",
+        "title_id": "2197415",
+        "tv_rating": "TV-14"
     }
 ]
