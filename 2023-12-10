@@ -2967,5 +2967,83 @@
         "title": "The Ring (But Not Scary)",
         "title_id": "2438939",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_014_02_851",
+        "create_time": 1702166530039,
+        "episode_in_season": "14",
+        "episode_number": "S17:E14",
+        "external_id": "16362172",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1702260000,
+        "last_update": 1702166530039,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1809,
+        "scheduled_timestamp": 1702260000,
+        "season_number": "17",
+        "serial": 1702166529643,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1809,
+        "show_id": "13793985",
+        "show_timestamp": 1702260000,
+        "status": "estimated",
+        "summary": "Steve profiles Stan for an essay contest at school; Francine uses a porta john.",
+        "title": "A League of His Own",
+        "title_id": "2342098",
+        "tv_rating": "TV-14"
     }
 ]
