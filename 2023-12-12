@@ -291,5 +291,184 @@
         "title": "Dear Consumer",
         "title_id": "747250",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229943_001_02_851",
+        "create_time": 1702269368842,
+        "episode_in_season": "1",
+        "episode_number": "S5:E01",
+        "external_id": "16363191",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Robot Chicken",
+        "genres": [
+            "Action",
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702361700,
+        "last_update": 1702269368842,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Matthew Senreich",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Mike Fasolo",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "Matthew Senreich",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "Breckin Meyer",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Senreich",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Douglas Goldstein",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Tom Root",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Alexander Bulkley",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Corey Campodonico",
+                "role": "Producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1702361700,
+        "season_number": "5",
+        "serial": 1702269367801,
+        "series_id": "608360",
+        "series_name": "Robot Chicken",
+        "show_duration": 900,
+        "show_id": "13794057",
+        "show_timestamp": 1702361700,
+        "status": "estimated",
+        "summary": "Come celebrate the holidays with Robot Chicken and see what the very first Christmas was like! Find out what the creators imagine Batman and Robin think about their Christmas jingle - hint: don't sing it if you value your life.",
+        "summary_long": "Come celebrate the holidays with Robot Chicken and see what the very first Christmas was like! Find out what the creators imagine Batman and Robin think about their Christmas jingle - hint: don't sing it if you value your life. And the age-old question is finally answered...who's faster: Superman or Santa Claus.",
+        "title": "Robot Chicken's DP Christmas Special",
+        "title_id": "826672",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_014_02_851",
+        "create_time": 1702269368843,
+        "episode_in_season": "14",
+        "episode_number": "S15:E14",
+        "external_id": "16363192",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1702362600,
+        "last_update": 1702269368843,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702362600,
+        "season_number": "15",
+        "serial": 1702269367801,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13794058",
+        "show_timestamp": 1702362600,
+        "status": "estimated",
+        "summary": "Concerned that Hayley is too soft-hearted, Stan attempts to make her \"farm tough\" by turning the house into an urban homestead.",
+        "title": "First, Do No Farm",
+        "title_id": "2197420",
+        "tv_rating": "TV-14"
     }
 ]
