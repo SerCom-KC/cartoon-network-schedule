@@ -2214,7 +2214,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702383300,
-        "last_update": 1702384135584,
+        "last_update": 1702387742652,
         "live": false,
         "participants": [
             {
@@ -2255,7 +2255,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1702383300,
         "season_number": "2",
-        "serial": 1702384135307,
+        "serial": 1702387742383,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 837,
@@ -2839,7 +2839,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702386900,
-        "last_update": 1702386990816,
+        "last_update": 1702387742651,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2848,17 +2848,55 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1702386900,
         "season_number": "26",
-        "serial": 1702386990559,
+        "serial": 1702387742383,
         "series_id": "2274096",
         "series_name": "Thomas & Friends: All Engines Go",
         "show_duration": 831,
         "show_id": "13794077",
         "show_timestamp": 1702386902,
-        "status": "current",
+        "status": "actual",
         "summary": "Sir Topham Hatt has placed a plaque on the top of Lookout Mountain so tourists can take in all of Sodor in just one sight. But when the tour falls flat, Thomas takes visitors to really SEE Sodor, showing them places the engines love best.",
         "summary_long": "It's a beautiful summer day on Sodor and Sir Topham Hatt has a surprise: a special plaque with a map of the island atop Lookout Mountain! Sir Topham Hatt recruits the engines to lead \"The Sight of Sodor\" tour: to the plaque and back, missing all of the real tourist attractions! The engines are not enthusiastic about Sir Topham Hatt's attraction -- and neither are the island's visitors! As less and less passengers board Annie and Clarabel to see the plaque, Thomas and the gang decide to take matters into their own wheels and show off their favorite places on Sodor -- resulting in a lot more fun in the sun!",
         "title": "The Sights of Sodor",
         "title_id": "2398829",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "252832_016_01_851",
+        "create_time": 1702312628848,
+        "episode_in_season": "16",
+        "episode_number": "1016",
+        "external_id": "16370328",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "CoComelon",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1702387800,
+        "last_update": 1702387752154,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1702387740,
+        "season_number": "1",
+        "serial": 1702387751693,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 838,
+        "show_id": "13805973",
+        "show_timestamp": 1702387733,
+        "status": "current",
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "Itsy Bitsy Spider/ Five Little Speckled Frogs/ Traffic Safety Song/ Five Little Monkeys Jumping on the Bed",
+        "title_id": "2435688",
         "tv_rating": "TV-Y"
     },
     {
@@ -2902,39 +2940,101 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "252832_016_01_851",
+        "content_id": "234266_011_02_851",
         "create_time": 1702312628848,
-        "episode_in_season": "16",
-        "episode_number": "1016",
-        "external_id": "16370328",
+        "episode_in_season": "11",
+        "episode_number": "S1:EL11",
+        "external_id": "16370329",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "CoComelon",
+        "franchise_name": "Bugs Bunny Builders: Hard Hat Time",
         "genres": [
             "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1702387800,
-        "last_update": 1702386990817,
+        "guide_timestamp": 1702388700,
+        "last_update": 1702387752155,
         "live": false,
-        "premiere": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2006,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1702387740,
+        "release_year": 2023,
+        "runtime_minutes": 3,
+        "scheduled_duration": 187,
+        "scheduled_timestamp": 1702388580,
         "season_number": "1",
-        "serial": 1702386990559,
-        "series_id": "2357112",
-        "series_name": "CoComelon",
-        "show_duration": 838,
-        "show_id": "13805973",
-        "show_timestamp": 1702387742,
+        "serial": 1702387751693,
+        "series_id": "2419726",
+        "series_name": "Bugs Bunny Builders: Hard Hat Time",
+        "show_duration": 187,
+        "show_id": "13805974",
+        "show_timestamp": 1702388573,
         "status": "estimated",
-        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
-        "title": "Itsy Bitsy Spider/ Five Little Speckled Frogs/ Traffic Safety Song/ Five Little Monkeys Jumping on the Bed",
-        "title_id": "2435688",
+        "summary": "Tweety spots a giant lemon in a tree and is determined to make lemonade for everyone.",
+        "title": "Lemonade",
+        "title_id": "2419748",
         "tv_rating": "TV-Y"
     },
     {
@@ -3040,21 +3140,21 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "234266_011_02_851",
+        "content_id": "228558_037_02_851",
         "create_time": 1702312628848,
-        "episode_in_season": "11",
-        "episode_number": "S1:EL11",
-        "external_id": "16370329",
+        "episode_in_season": "37",
+        "episode_number": "S1:E37",
+        "external_id": "16370330",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders: Hard Hat Time",
+        "franchise_name": "Bugs Bunny Builders",
         "genres": [
             "Animation",
             "Children",
             "Family"
         ],
         "guide_timestamp": 1702388700,
-        "last_update": 1702386990817,
+        "last_update": 1702387752156,
         "live": false,
         "participants": [
             {
@@ -3118,23 +3218,23 @@
                 "role": "Music"
             }
         ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
-        "release_year": 2023,
-        "runtime_minutes": 3,
-        "scheduled_duration": 187,
-        "scheduled_timestamp": 1702388580,
+        "release_year": 2021,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1702388760,
         "season_number": "1",
-        "serial": 1702386990559,
-        "series_id": "2419726",
-        "series_name": "Bugs Bunny Builders: Hard Hat Time",
-        "show_duration": 187,
-        "show_id": "13805974",
-        "show_timestamp": 1702388581,
+        "serial": 1702387751693,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 836,
+        "show_id": "13805975",
+        "show_timestamp": 1702388753,
         "status": "estimated",
-        "summary": "Tweety spots a giant lemon in a tree and is determined to make lemonade for everyone.",
-        "title": "Lemonade",
-        "title_id": "2419748",
+        "summary": "Chef Poyung Panda hires The Looney Builders to build her a Dim Sum bus in China. The crew faces a major setback and Bugs worries about letting down his favorite chef.",
+        "title": "Dim Sum",
+        "title_id": "2267195",
         "tv_rating": "TV-Y"
     },
     {
@@ -3240,102 +3340,52 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228558_037_02_851",
-        "create_time": 1702312628848,
-        "episode_in_season": "37",
-        "episode_number": "S1:E37",
-        "external_id": "16370330",
+        "content_id": "235001_019_02_851",
+        "create_time": 1702312628849,
+        "episode_in_season": "19",
+        "episode_number": "S1:E19",
+        "external_id": "16363214",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders",
+        "franchise_name": "Looney Tunes Show, The",
         "genres": [
             "Animation",
             "Children",
-            "Family"
+            "Comedy"
         ],
-        "guide_timestamp": 1702388700,
-        "last_update": 1702383314202,
+        "guide_timestamp": 1702389600,
+        "last_update": 1702388202132,
         "live": false,
         "participants": [
             {
                 "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
                 "name": "Jeff Bergman",
                 "role": "Voice"
             },
             {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
                 "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1702388760,
+        "release_year": 2011,
+        "runtime_minutes": 29,
+        "scheduled_duration": 1740,
+        "scheduled_timestamp": 1702389600,
         "season_number": "1",
-        "serial": 1702383313923,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 836,
-        "show_id": "13805975",
-        "show_timestamp": 1702388760,
+        "serial": 1702388201785,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1737,
+        "show_id": "13794080",
+        "show_timestamp": 1702389597,
         "status": "estimated",
-        "summary": "Chef Poyung Panda hires The Looney Builders to build her a Dim Sum bus in China. The crew faces a major setback and Bugs worries about letting down his favorite chef.",
-        "title": "Dim Sum",
-        "title_id": "2267195",
-        "tv_rating": "TV-Y"
+        "summary": "Daffy impersonates his favorite 70s detective show star.",
+        "title": "Off Duty Cop",
+        "title_id": "824672",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -3390,11 +3440,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235001_019_02_851",
+        "content_id": "235001_020_03_851",
         "create_time": 1702312628849,
-        "episode_in_season": "19",
-        "episode_number": "S1:E19",
-        "external_id": "16363214",
+        "episode_in_season": "20",
+        "episode_number": "S1:E20",
+        "external_id": "16370331",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Looney Tunes Show, The",
@@ -3403,8 +3453,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702389600,
-        "last_update": 1702383314791,
+        "guide_timestamp": 1702391400,
+        "last_update": 1702387752194,
         "live": false,
         "participants": [
             {
@@ -3421,20 +3471,20 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2011,
-        "runtime_minutes": 29,
-        "scheduled_duration": 1740,
-        "scheduled_timestamp": 1702389600,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1691,
+        "scheduled_timestamp": 1702391340,
         "season_number": "1",
-        "serial": 1702383314611,
+        "serial": 1702387751693,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1737,
-        "show_id": "13794080",
-        "show_timestamp": 1702389600,
+        "show_duration": 1691,
+        "show_id": "13805976",
+        "show_timestamp": 1702391339,
         "status": "estimated",
-        "summary": "Daffy impersonates his favorite 70s detective show star.",
-        "title": "Off Duty Cop",
-        "title_id": "824672",
+        "summary": "Working Duck: When Daffy gets fired for sleeping on the job, Bugs kicks him out of the house.",
+        "title": "Working Duck",
+        "title_id": "824670",
         "tv_rating": "TV-PG"
     },
     {
@@ -3490,52 +3540,97 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235001_020_03_851",
+        "content_id": "234485_015_01_851",
         "create_time": 1702312628849,
-        "episode_in_season": "20",
-        "episode_number": "S1:E20",
-        "external_id": "16370331",
+        "episode_in_season": "15",
+        "episode_number": "215",
+        "external_id": "16370332",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Looney Tunes Show, The",
+        "franchise_name": "Lamput",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702391400,
-        "last_update": 1702312628849,
+        "guide_timestamp": 1702392900,
+        "last_update": 1702387752195,
         "live": false,
         "participants": [
             {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
-                "role": "Voice"
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Concept By"
             },
             {
-                "character": "Daffy Duck",
-                "name": "Jeff Bergman",
-                "role": "Voice"
+                "character": null,
+                "name": "Anand Babu",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Abhilash Narayanan",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Rajiv Eipe",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Upamanyu Bhattacharyya",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Roto Shah",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Advait Nemlekar",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Inspidea",
+                "role": "Animation"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Studios",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Chris Leong Mei Cian",
+                "role": "Production Manager"
             }
         ],
-        "premiere": false,
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2011,
-        "runtime_minutes": 28,
-        "scheduled_duration": 1691,
-        "scheduled_timestamp": 1702391340,
-        "season_number": "1",
-        "serial": 1702312628174,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1691,
-        "show_id": "13805976",
-        "show_timestamp": 1702391340,
+        "release_year": 2017,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1702393020,
+        "season_number": "2",
+        "serial": 1702387751693,
+        "series_id": "2106724",
+        "series_name": "Lamput",
+        "show_duration": 172,
+        "show_id": "13805977",
+        "show_timestamp": 1702393019,
         "status": "estimated",
-        "summary": "Working Duck: When Daffy gets fired for sleeping on the job, Bugs kicks him out of the house.",
-        "title": "Working Duck",
-        "title_id": "824670",
-        "tv_rating": "TV-PG"
+        "summary": "The docs accidentally hijack an alien's spaceship and what follows is a wild, extra terrestrial chase.",
+        "title": "Alien",
+        "title_id": "2168184",
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -3625,101 +3720,6 @@
         "series_name": "Lamput",
         "show_duration": 180,
         "show_id": "274342068",
-        "show_timestamp": 1702393020,
-        "status": "estimated",
-        "summary": "The docs accidentally hijack an alien's spaceship and what follows is a wild, extra terrestrial chase.",
-        "title": "Alien",
-        "title_id": "2168184",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "234485_015_01_851",
-        "create_time": 1702312628849,
-        "episode_in_season": "15",
-        "episode_number": "215",
-        "external_id": "16370332",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Lamput",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1702392900,
-        "last_update": 1702383314792,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Concept By"
-            },
-            {
-                "character": null,
-                "name": "Anand Babu",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Abhilash Narayanan",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Rajiv Eipe",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Upamanyu Bhattacharyya",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Roto Shah",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Advait Nemlekar",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Inspidea",
-                "role": "Animation"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Studios",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Chris Leong Mei Cian",
-                "role": "Production Manager"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 3,
-        "scheduled_duration": 180,
-        "scheduled_timestamp": 1702393020,
-        "season_number": "2",
-        "serial": 1702383314611,
-        "series_id": "2106724",
-        "series_name": "Lamput",
-        "show_duration": 172,
-        "show_id": "13805977",
         "show_timestamp": 1702393020,
         "status": "estimated",
         "summary": "The docs accidentally hijack an alien's spaceship and what follows is a wild, extra terrestrial chase.",
