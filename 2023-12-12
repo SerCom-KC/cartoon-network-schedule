@@ -3984,7 +3984,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702395000,
-        "last_update": 1702395957490,
+        "last_update": 1702399559459,
         "live": false,
         "participants": [
             {
@@ -4015,7 +4015,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702395000,
         "season_number": "4",
-        "serial": 1702395957230,
+        "serial": 1702399559066,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 901,
@@ -4450,7 +4450,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702398600,
-        "last_update": 1702398723481,
+        "last_update": 1702399543048,
         "live": false,
         "participants": [
             {
@@ -4491,86 +4491,16 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702398600,
         "season_number": "2",
-        "serial": 1702398723163,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 828,
-        "show_id": "13794088",
-        "show_timestamp": 1702398641,
-        "status": "current",
-        "summary": "Granny JoJo's overprotective behavior puts the Wattersons in danger...from themselves.",
-        "title": "The Authority",
-        "title_id": "894305",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228418_020_03_851",
-        "create_time": 1702312629958,
-        "episode_in_season": "20",
-        "episode_number": "S2:EL20",
-        "external_id": "16363223",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1702399500,
-        "last_update": 1702398707274,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2012,
-        "runtime_minutes": 11,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1702399500,
-        "season_number": "2",
-        "serial": 1702398706866,
+        "serial": 1702399542727,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 881,
-        "show_id": "13794089",
-        "show_timestamp": 1702399492,
-        "status": "estimated",
-        "summary": "Gumball thinks Teri is way too scared of germs, but one's coming after him, and it wants revenge.",
-        "title": "The Virus",
-        "title_id": "894306",
+        "show_id": "13794088",
+        "show_timestamp": 1702398641,
+        "status": "actual",
+        "summary": "Granny JoJo's overprotective behavior puts the Wattersons in danger...from themselves.",
+        "title": "The Authority",
+        "title_id": "894305",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -4646,52 +4576,72 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228330_001_03_851",
+        "content_id": "228418_020_03_851",
         "create_time": 1702312629958,
-        "episode_in_season": "1",
-        "episode_number": "S2:E01",
-        "external_id": "16363224",
+        "episode_in_season": "20",
+        "episode_number": "S2:EL20",
+        "external_id": "16363223",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Apple & Onion",
+        "franchise_name": "Amazing World of Gumball, The",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702400400,
-        "last_update": 1702396883868,
+        "guide_timestamp": 1702399500,
+        "last_update": 1702399559415,
         "live": false,
         "participants": [
             {
-                "character": "Onion",
-                "name": "Richard Ayoade",
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
                 "role": "Voice"
             },
             {
-                "character": "Apple",
-                "name": "George Gendi",
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
                 "role": "Voice"
             }
         ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
-        "release_year": 2020,
-        "runtime_minutes": 15,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1702400400,
+        "release_year": 2012,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1702399500,
         "season_number": "2",
-        "serial": 1702396883619,
-        "series_id": "2133648",
-        "series_name": "Apple & Onion",
-        "show_duration": 901,
-        "show_id": "13794090",
-        "show_timestamp": 1702400396,
-        "status": "estimated",
-        "summary": "Apple and Onion try to help Falafel find his passion but it looks like things might take a humiliating turn.",
-        "title": "Falafel's Passion",
-        "title_id": "2218008",
-        "tv_rating": "TV-Y7"
+        "serial": 1702399559066,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 881,
+        "show_id": "13794089",
+        "show_timestamp": 1702399522,
+        "status": "current",
+        "summary": "Gumball thinks Teri is way too scared of germs, but one's coming after him, and it wants revenge.",
+        "title": "The Virus",
+        "title_id": "894306",
+        "tv_rating": "TV-Y7-FV"
     },
     {
         "blackout_type": "none",
@@ -4746,11 +4696,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228330_002_03_851",
-        "create_time": 1702312629959,
-        "episode_in_season": "2",
-        "episode_number": "S2:E02",
-        "external_id": "16363225",
+        "content_id": "228330_001_03_851",
+        "create_time": 1702312629958,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "16363224",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Apple & Onion",
@@ -4759,8 +4709,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702401300,
-        "last_update": 1702396883869,
+        "guide_timestamp": 1702400400,
+        "last_update": 1702399559416,
         "live": false,
         "participants": [
             {
@@ -4779,18 +4729,18 @@
         "release_year": 2020,
         "runtime_minutes": 15,
         "scheduled_duration": 901,
-        "scheduled_timestamp": 1702401300,
+        "scheduled_timestamp": 1702400400,
         "season_number": "2",
-        "serial": 1702396883619,
+        "serial": 1702399559066,
         "series_id": "2133648",
         "series_name": "Apple & Onion",
         "show_duration": 901,
-        "show_id": "13794091",
-        "show_timestamp": 1702401299,
+        "show_id": "13794090",
+        "show_timestamp": 1702400422,
         "status": "estimated",
-        "summary": "Suddenly the hole in the roof is no longer a laughing matter but one of a life or death.",
-        "title": "Hole In Roof",
-        "title_id": "2222824",
+        "summary": "Apple and Onion try to help Falafel find his passion but it looks like things might take a humiliating turn.",
+        "title": "Falafel's Passion",
+        "title_id": "2218008",
         "tv_rating": "TV-Y7"
     },
     {
@@ -4837,6 +4787,56 @@
         "show_duration": 900,
         "show_id": "274342168",
         "show_timestamp": 1702401300,
+        "status": "estimated",
+        "summary": "Suddenly the hole in the roof is no longer a laughing matter but one of a life or death.",
+        "title": "Hole In Roof",
+        "title_id": "2222824",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228330_002_03_851",
+        "create_time": 1702312629959,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16363225",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Apple & Onion",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702401300,
+        "last_update": 1702399559417,
+        "live": false,
+        "participants": [
+            {
+                "character": "Onion",
+                "name": "Richard Ayoade",
+                "role": "Voice"
+            },
+            {
+                "character": "Apple",
+                "name": "George Gendi",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1702401300,
+        "season_number": "2",
+        "serial": 1702399559066,
+        "series_id": "2133648",
+        "series_name": "Apple & Onion",
+        "show_duration": 901,
+        "show_id": "13794091",
+        "show_timestamp": 1702401318,
         "status": "estimated",
         "summary": "Suddenly the hole in the roof is no longer a laughing matter but one of a life or death.",
         "title": "Hole In Roof",
@@ -4920,7 +4920,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702402200,
-        "last_update": 1702312629959,
+        "last_update": 1702399746899,
         "live": false,
         "participants": [
             {
@@ -4951,12 +4951,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1702402200,
         "season_number": "2",
-        "serial": 1702312629549,
+        "serial": 1702399746541,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
         "show_id": "13794092",
-        "show_timestamp": 1702402200,
+        "show_timestamp": 1702402214,
         "status": "estimated",
         "summary": "While shopping with his Mom, Clarence discovers Breehn hiding in a clothes rack. Under the guise of trying on new clothes for their moms, they sneak out to find a local gameshow being hosted inside the Aberdale Mall.",
         "title": "Game Show",
@@ -5040,7 +5040,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702403100,
-        "last_update": 1702312629959,
+        "last_update": 1702399559458,
         "live": false,
         "participants": [
             {
@@ -5071,12 +5071,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1702403100,
         "season_number": "2",
-        "serial": 1702312629549,
+        "serial": 1702399559066,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
         "show_id": "13794093",
-        "show_timestamp": 1702403100,
+        "show_timestamp": 1702403110,
         "status": "estimated",
         "summary": "As Sumo and Clarence are playing outside, Chelsea and Rita skate by on their new skateboards. Enthralled, Sumo decides to build his own and join their skating team, while Clarence seems to have other ideas.",
         "title": "Skater Sumo",
@@ -5160,7 +5160,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702404000,
-        "last_update": 1702312629960,
+        "last_update": 1702399559459,
         "live": false,
         "participants": [
             {
@@ -5191,12 +5191,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1702404000,
         "season_number": "2",
-        "serial": 1702312629549,
+        "serial": 1702399559066,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
         "show_id": "13794094",
-        "show_timestamp": 1702404000,
+        "show_timestamp": 1702404006,
         "status": "estimated",
         "summary": "After Clarence and pals call random numbers as a prank, Clarence ends up connecting with a girl and they strike up a friendship. But will this long distance phone pal last?",
         "title": "Mystery Girl",
@@ -5220,7 +5220,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702404900,
-        "last_update": 1702312629960,
+        "last_update": 1702399559459,
         "live": false,
         "participants": [
             {
@@ -5251,12 +5251,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1702404900,
         "season_number": "2",
-        "serial": 1702312629549,
+        "serial": 1702399559066,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
         "show_id": "13794095",
-        "show_timestamp": 1702404900,
+        "show_timestamp": 1702404903,
         "status": "estimated",
         "summary": "After Ms. Baker takes a personal day, she is replaced by a substitute that has a hard time handling the classroom. Soon, the school day devolves into chaos and it is up to Clarence to get Mrs. Baker back to where she belongs, the classroom.",
         "summary_long": "After Ms. Baker takes an unexpected personal day, she is replaced by a substitute that has a hard time handling the unruly classroom. Soon, the school day devolves into chaos and it is up to Clarence to get Mrs. Baker back to where she belongs, the classroom.",
@@ -5281,7 +5281,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702405800,
-        "last_update": 1702312629961,
+        "last_update": 1702399559460,
         "live": false,
         "participants": [
             {
@@ -5312,12 +5312,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702405800,
         "season_number": "4",
-        "serial": 1702312629549,
+        "serial": 1702399559066,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "13794096",
-        "show_timestamp": 1702405800,
+        "show_timestamp": 1702405801,
         "status": "estimated",
         "summary": "Craig goes all in at the Baby Casino.",
         "title": "Adventures in Baby Casino",
@@ -5401,7 +5401,7 @@
             "Animation"
         ],
         "guide_timestamp": 1702407600,
-        "last_update": 1702314164234,
+        "last_update": 1702399560306,
         "live": false,
         "participants": [
             {
@@ -5452,10 +5452,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702407600,
         "season_number": "8",
-        "serial": 1702314163911,
+        "serial": 1702399560038,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
-        "show_duration": 900,
+        "show_duration": 891,
         "show_id": "13794098",
         "show_timestamp": 1702407600,
         "status": "estimated",
@@ -5481,7 +5481,7 @@
             "Animation"
         ],
         "guide_timestamp": 1702408500,
-        "last_update": 1702315944742,
+        "last_update": 1702399560307,
         "live": false,
         "participants": [
             {
@@ -5532,10 +5532,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702408500,
         "season_number": "2",
-        "serial": 1702315944203,
+        "serial": 1702399560038,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13794099",
         "show_timestamp": 1702408500,
         "status": "estimated",
@@ -5562,7 +5562,7 @@
             "Animation"
         ],
         "guide_timestamp": 1702409400,
-        "last_update": 1702315944779,
+        "last_update": 1702399560307,
         "live": false,
         "participants": [
             {
@@ -5613,10 +5613,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702409400,
         "season_number": "2",
-        "serial": 1702315944203,
+        "serial": 1702399560038,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13794100",
         "show_timestamp": 1702409400,
         "status": "estimated",
@@ -5812,7 +5812,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702413000,
-        "last_update": 1702320863974,
+        "last_update": 1702399560307,
         "live": false,
         "participants": [
             {
@@ -5853,10 +5853,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702413000,
         "season_number": "2",
-        "serial": 1702320863656,
+        "serial": 1702399560038,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13794103",
         "show_timestamp": 1702413000,
         "status": "estimated",
