@@ -89,7 +89,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702445400,
-        "last_update": 1702415168935,
+        "last_update": 1702418335617,
         "live": false,
         "participants": [
             {
@@ -120,10 +120,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702445400,
         "season_number": "7",
-        "serial": 1702415168571,
+        "serial": 1702418335335,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
-        "show_duration": 901,
+        "show_duration": 886,
         "show_id": "13794124",
         "show_timestamp": 1702445410,
         "status": "estimated",
@@ -152,7 +152,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702446300,
-        "last_update": 1702415168983,
+        "last_update": 1702418335618,
         "live": false,
         "participants": [
             {
@@ -183,10 +183,10 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1702446300,
         "season_number": "7",
-        "serial": 1702415168571,
+        "serial": 1702418335335,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
-        "show_duration": 906,
+        "show_duration": 891,
         "show_id": "13794125",
         "show_timestamp": 1702446310,
         "status": "estimated",
@@ -216,7 +216,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702447200,
-        "last_update": 1702415168983,
+        "last_update": 1702418335619,
         "live": false,
         "participants": [
             {
@@ -287,10 +287,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702447200,
         "season_number": "6",
-        "serial": 1702415168571,
+        "serial": 1702418335335,
         "series_id": "608360",
         "series_name": "Robot Chicken",
-        "show_duration": 919,
+        "show_duration": 893,
         "show_id": "13794126",
         "show_timestamp": 1702447205,
         "status": "estimated",
@@ -5946,6 +5946,102 @@
         "summary_long": "Ecto Cooler: The ghost of Lord Byron appears inside Billy's mouth and gives him lessons on how to be cool.  The Schlubs: Tiny mushroom dwelling creatures from Billy's yard provide Grim with the answer about how his favorite show ends.",
         "title": "Ecto Cooler/The Schlubs",
         "title_id": "613713",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228267_003_04_851",
+        "create_time": 1702418336446,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16370352",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Courage the Cowardly Dog",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702510200,
+        "last_update": 1702418336446,
+        "live": false,
+        "participants": [
+            {
+                "character": "Courage",
+                "name": "Marty Grabstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Muriel Bagge",
+                "name": "Thea White",
+                "role": "Voice"
+            },
+            {
+                "character": "Eustace Bagge",
+                "name": "Lionel Wilson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702510200,
+        "season_number": "1",
+        "serial": 1702418336211,
+        "series_id": "330149",
+        "series_name": "Courage the Cowardly Dog",
+        "show_duration": 1800,
+        "show_id": "13794180",
+        "show_timestamp": 1702510200,
+        "status": "estimated",
+        "summary": "Muriel needs a new mattress. The one she orders comes with a bonus: a demon. Courage must find a way to get rid of the demon and the new mattress. Then, Muriel's nephew Fred comes for a visit at the farm. Fred is a deranged barber.",
+        "summary_long": "The Demon in the Mattress: Muriel needs a new mattress. The one she orders comes with a bonus: a demon, which takes over her body. Courage must find a way to get rid of the demon and the new mattress./Freaky Fred: Muriel's nephew Fred comes for a visit at the farm. Fred is a deranged barber; he and Courage get locked in the bathroom, much to Courage's distress.",
+        "title": "The Demon in the Mattress/Freaky Fred",
+        "title_id": "331804",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233060_017_03_851",
+        "create_time": 1702418558167,
+        "episode_in_season": "17",
+        "episode_number": "S8:E17",
+        "external_id": "16363304",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1702512000,
+        "last_update": 1702418558167,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2003,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702512000,
+        "season_number": "8",
+        "serial": 1702418557907,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13794181",
+        "show_timestamp": 1702512000,
+        "status": "estimated",
+        "summary": "Hank reacts with disbelief when he realizes Bobby's history textbook contains almost nothing on the Alamo; Peggy photographs a Flat Stanley doll to help teach kids about geography-and safety issues.",
+        "title": "How I Learned To Stop Worrying and Love the Alamo",
+        "title_id": "731507",
         "tv_rating": "TV-PG"
     }
 ]
