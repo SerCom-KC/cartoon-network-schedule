@@ -1341,7 +1341,7 @@
             "Family"
         ],
         "guide_timestamp": 1702375200,
-        "last_update": 1702377076767,
+        "last_update": 1702380687703,
         "live": false,
         "participants": [
             {
@@ -1357,7 +1357,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1702375200,
         "season_number": "11",
-        "serial": 1702377076080,
+        "serial": 1702380687381,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1791,
@@ -1576,7 +1576,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702379700,
-        "last_update": 1702379706750,
+        "last_update": 1702380500134,
         "live": false,
         "participants": [
             {
@@ -1617,13 +1617,13 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1702379640,
         "season_number": "5",
-        "serial": 1702379706452,
+        "serial": 1702380499784,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 835,
         "show_id": "13805966",
         "show_timestamp": 1702379632,
-        "status": "current",
+        "status": "actual",
         "summary": "Darwin finds it harder than expected to give up his favorite foodstuff.",
         "summary_long": "When Darwin has lunch with Idaho, he decides to stop eating potatoes in solidarity with his brotato. However, he finds his obsession with his favourite food harder to kick than he ever imagined so Gumball decides to help his friend curb his carb cravings.",
         "title": "The Potato",
@@ -1718,7 +1718,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702380600,
-        "last_update": 1702379706751,
+        "last_update": 1702380500133,
         "live": false,
         "participants": [
             {
@@ -1759,13 +1759,13 @@
         "scheduled_duration": 845,
         "scheduled_timestamp": 1702380480,
         "season_number": "2",
-        "serial": 1702379706452,
+        "serial": 1702380499784,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 845,
+        "show_duration": 850,
         "show_id": "13805967",
-        "show_timestamp": 1702380472,
-        "status": "estimated",
+        "show_timestamp": 1702380467,
+        "status": "current",
         "summary": "Gumball accidentally uploads a video of himself, and then demands The Internet take it down...personally!",
         "title": "The Internet",
         "title_id": "2000138",
@@ -1858,7 +1858,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702381200,
-        "last_update": 1702379706751,
+        "last_update": 1702380509343,
         "live": false,
         "participants": [
             {
@@ -1899,12 +1899,12 @@
         "scheduled_duration": 851,
         "scheduled_timestamp": 1702381320,
         "season_number": "2",
-        "serial": 1702379706452,
+        "serial": 1702380509034,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 851,
         "show_id": "13805968",
-        "show_timestamp": 1702381315,
+        "show_timestamp": 1702381312,
         "status": "estimated",
         "summary": "The Watterson kids come up with a fool-proof plan to save their mom, but is it Gumball-proof?",
         "title": "The Plan",
@@ -1998,7 +1998,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702382100,
-        "last_update": 1702379659270,
+        "last_update": 1702380509344,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -2007,12 +2007,12 @@
         "scheduled_duration": 240,
         "scheduled_timestamp": 1702382160,
         "season_number": "1",
-        "serial": 1702379659066,
+        "serial": 1702380509034,
         "series_id": "2118583",
         "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
         "show_duration": 235,
         "show_id": "13805969",
-        "show_timestamp": 1702382159,
+        "show_timestamp": 1702382155,
         "status": "estimated",
         "summary": "Ivandoe and Bert must remove an annoying creature from the \"nose\" of a magical mountain in order to continue on their quest. They almost come to a very sticky end\u2026",
         "title": "The Prince and the Moany Mountain",
@@ -2056,6 +2056,76 @@
         "title": "The Prince and the Moany Mountain",
         "title_id": "2118589",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228418_039_02_851",
+        "create_time": 1702312627581,
+        "episode_in_season": "39",
+        "episode_number": "S2:EL39",
+        "external_id": "16363206",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702382400,
+        "last_update": 1702380509344,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1702382400,
+        "season_number": "2",
+        "serial": 1702380509034,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 896,
+        "show_id": "13794072",
+        "show_timestamp": 1702382396,
+        "status": "estimated",
+        "summary": "The amazing world of Elmore is full of inanimate objects that aren't nearly as inanimate as you might hope!",
+        "title": "The World",
+        "title_id": "2000140",
+        "tv_rating": "TV-Y7-FV"
     },
     {
         "blackout_type": "none",
@@ -2130,11 +2200,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228418_039_02_851",
+        "content_id": "228418_040_03_851",
         "create_time": 1702312627581,
-        "episode_in_season": "39",
-        "episode_number": "S2:EL39",
-        "external_id": "16363206",
+        "episode_in_season": "40",
+        "episode_number": "S2:EL40",
+        "external_id": "16363207",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -2143,8 +2213,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702382400,
-        "last_update": 1702378849319,
+        "guide_timestamp": 1702383300,
+        "last_update": 1702380509344,
         "live": false,
         "participants": [
             {
@@ -2181,20 +2251,20 @@
         "premiere": false,
         "press_hold": false,
         "release_year": 2013,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1702382400,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1702383300,
         "season_number": "2",
-        "serial": 1702378849130,
+        "serial": 1702380509034,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 896,
-        "show_id": "13794072",
-        "show_timestamp": 1702382400,
+        "show_duration": 836,
+        "show_id": "13794073",
+        "show_timestamp": 1702383298,
         "status": "estimated",
-        "summary": "The amazing world of Elmore is full of inanimate objects that aren't nearly as inanimate as you might hope!",
-        "title": "The World",
-        "title_id": "2000140",
+        "summary": "The Wattersons are surprised to discover that their past actions have consequences.",
+        "title": "The Finale",
+        "title_id": "2000141",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -2270,72 +2340,40 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228418_040_03_851",
-        "create_time": 1702312627581,
-        "episode_in_season": "40",
-        "episode_number": "S2:EL40",
-        "external_id": "16363207",
+        "content_id": "252832_024_01_851",
+        "create_time": 1702312627582,
+        "episode_in_season": "24",
+        "episode_number": "1024",
+        "external_id": "16370325",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
+        "franchise_name": "CoComelon",
         "genres": [
             "Animation",
             "Children",
-            "Comedy"
+            "Family"
         ],
-        "guide_timestamp": 1702383300,
-        "last_update": 1702378849320,
+        "guide_timestamp": 1702384200,
+        "last_update": 1702380509345,
         "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2013,
+        "release_year": 2006,
         "runtime_minutes": 14,
         "scheduled_duration": 840,
-        "scheduled_timestamp": 1702383300,
-        "season_number": "2",
-        "serial": 1702378849130,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 836,
-        "show_id": "13794073",
-        "show_timestamp": 1702383300,
+        "scheduled_timestamp": 1702384140,
+        "season_number": "1",
+        "serial": 1702380509034,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 838,
+        "show_id": "13805970",
+        "show_timestamp": 1702384139,
         "status": "estimated",
-        "summary": "The Wattersons are surprised to discover that their past actions have consequences.",
-        "title": "The Finale",
-        "title_id": "2000141",
-        "tv_rating": "TV-Y7-FV"
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "Pat a Cake V2/ Music Song/ My Dog Song (Bingo)/ Skidamarink V2",
+        "title_id": "2435697",
+        "tv_rating": "TV-Y"
     },
     {
         "blackout_type": "none",
@@ -2368,44 +2406,6 @@
         "series_name": "CoComelon",
         "show_duration": 840,
         "show_id": "274341968",
-        "show_timestamp": 1702384140,
-        "status": "estimated",
-        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
-        "title": "Pat a Cake V2/ Music Song/ My Dog Song (Bingo)/ Skidamarink V2",
-        "title_id": "2435697",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "252832_024_01_851",
-        "create_time": 1702312627582,
-        "episode_in_season": "24",
-        "episode_number": "1024",
-        "external_id": "16370325",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "CoComelon",
-        "genres": [
-            "Animation",
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1702384200,
-        "last_update": 1702378849320,
-        "live": false,
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2006,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1702384140,
-        "season_number": "1",
-        "serial": 1702378849130,
-        "series_id": "2357112",
-        "series_name": "CoComelon",
-        "show_duration": 838,
-        "show_id": "13805970",
         "show_timestamp": 1702384140,
         "status": "estimated",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
