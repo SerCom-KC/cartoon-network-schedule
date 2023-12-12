@@ -2764,7 +2764,7 @@
             "Family"
         ],
         "guide_timestamp": 1702386000,
-        "last_update": 1702386965810,
+        "last_update": 1702390570958,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2773,7 +2773,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702386000,
         "season_number": "1",
-        "serial": 1702386965417,
+        "serial": 1702390570457,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 900,
@@ -2839,7 +2839,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702386900,
-        "last_update": 1702387742651,
+        "last_update": 1702391344904,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2848,7 +2848,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1702386900,
         "season_number": "26",
-        "serial": 1702387742383,
+        "serial": 1702391344684,
         "series_id": "2274096",
         "series_name": "Thomas & Friends: All Engines Go",
         "show_duration": 831,
@@ -3354,7 +3354,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702389600,
-        "last_update": 1702389661640,
+        "last_update": 1702391348795,
         "live": false,
         "participants": [
             {
@@ -3375,13 +3375,13 @@
         "scheduled_duration": 1740,
         "scheduled_timestamp": 1702389600,
         "season_number": "1",
-        "serial": 1702389661397,
+        "serial": 1702391348536,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1749,
+        "show_duration": 1738,
         "show_id": "13794080",
         "show_timestamp": 1702389595,
-        "status": "current",
+        "status": "actual",
         "summary": "Daffy impersonates his favorite 70s detective show star.",
         "title": "Off Duty Cop",
         "title_id": "824672",
@@ -3441,6 +3441,56 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "235001_020_03_851",
+        "create_time": 1702312628849,
+        "episode_in_season": "20",
+        "episode_number": "S1:E20",
+        "external_id": "16370331",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702391400,
+        "last_update": 1702391365379,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1691,
+        "scheduled_timestamp": 1702391340,
+        "season_number": "1",
+        "serial": 1702391365210,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1691,
+        "show_id": "13805976",
+        "show_timestamp": 1702391333,
+        "status": "current",
+        "summary": "Working Duck: When Daffy gets fired for sleeping on the job, Bugs kicks him out of the house.",
+        "title": "Working Duck",
+        "title_id": "824670",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235001_020_03_851",
         "create_time": 1702298645526,
         "episode_in_season": "20",
         "episode_number": "S1:E20",
@@ -3490,52 +3540,97 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235001_020_03_851",
+        "content_id": "234485_015_01_851",
         "create_time": 1702312628849,
-        "episode_in_season": "20",
-        "episode_number": "S1:E20",
-        "external_id": "16370331",
+        "episode_in_season": "15",
+        "episode_number": "215",
+        "external_id": "16370332",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Looney Tunes Show, The",
+        "franchise_name": "Lamput",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702391400,
-        "last_update": 1702388786297,
+        "guide_timestamp": 1702392900,
+        "last_update": 1702391365380,
         "live": false,
         "participants": [
             {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
-                "role": "Voice"
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Concept By"
             },
             {
-                "character": "Daffy Duck",
-                "name": "Jeff Bergman",
-                "role": "Voice"
+                "character": null,
+                "name": "Anand Babu",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Abhilash Narayanan",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Rajiv Eipe",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Upamanyu Bhattacharyya",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Roto Shah",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Advait Nemlekar",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Inspidea",
+                "role": "Animation"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Studios",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Chris Leong Mei Cian",
+                "role": "Production Manager"
             }
         ],
-        "premiere": false,
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2011,
-        "runtime_minutes": 28,
-        "scheduled_duration": 1691,
-        "scheduled_timestamp": 1702391340,
-        "season_number": "1",
-        "serial": 1702388785971,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1691,
-        "show_id": "13805976",
-        "show_timestamp": 1702391343,
+        "release_year": 2017,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1702393020,
+        "season_number": "2",
+        "serial": 1702391365210,
+        "series_id": "2106724",
+        "series_name": "Lamput",
+        "show_duration": 172,
+        "show_id": "13805977",
+        "show_timestamp": 1702393013,
         "status": "estimated",
-        "summary": "Working Duck: When Daffy gets fired for sleeping on the job, Bugs kicks him out of the house.",
-        "title": "Working Duck",
-        "title_id": "824670",
-        "tv_rating": "TV-PG"
+        "summary": "The docs accidentally hijack an alien's spaceship and what follows is a wild, extra terrestrial chase.",
+        "title": "Alien",
+        "title_id": "2168184",
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -3635,96 +3730,61 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "234485_015_01_851",
-        "create_time": 1702312628849,
-        "episode_in_season": "15",
-        "episode_number": "215",
-        "external_id": "16370332",
+        "content_id": "229083_006_02_851",
+        "create_time": 1702312628850,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "16363216",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Lamput",
+        "franchise_name": "Craig of the Creek",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702392900,
-        "last_update": 1702388786298,
+        "guide_timestamp": 1702393200,
+        "last_update": 1702391365380,
         "live": false,
         "participants": [
             {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Concept By"
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
             },
             {
-                "character": null,
-                "name": "Anand Babu",
-                "role": "Storyboard Artist"
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
             },
             {
-                "character": null,
-                "name": "Abhilash Narayanan",
-                "role": "Storyboard Artist"
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
             },
             {
-                "character": null,
-                "name": "Rajiv Eipe",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Upamanyu Bhattacharyya",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Roto Shah",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Advait Nemlekar",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Inspidea",
-                "role": "Animation"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Studios",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Chris Leong Mei Cian",
-                "role": "Production Manager"
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
             }
         ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 3,
-        "scheduled_duration": 180,
-        "scheduled_timestamp": 1702393020,
-        "season_number": "2",
-        "serial": 1702388785971,
-        "series_id": "2106724",
-        "series_name": "Lamput",
-        "show_duration": 172,
-        "show_id": "13805977",
-        "show_timestamp": 1702393021,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1702393200,
+        "season_number": "4",
+        "serial": 1702391365210,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13794082",
+        "show_timestamp": 1702393193,
         "status": "estimated",
-        "summary": "The docs accidentally hijack an alien's spaceship and what follows is a wild, extra terrestrial chase.",
-        "title": "Alien",
-        "title_id": "2168184",
+        "summary": "Craig and his friends find themselves entering a cooking battle for a piece of the cube.",
+        "title": "The Chef's Challenge",
+        "title_id": "2260157",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3790,11 +3850,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229083_006_02_851",
+        "content_id": "229083_007_02_851",
         "create_time": 1702312628850,
-        "episode_in_season": "6",
-        "episode_number": "S4:E06",
-        "external_id": "16363216",
+        "episode_in_season": "7",
+        "episode_number": "S4:E07",
+        "external_id": "16363217",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -3803,8 +3863,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702393200,
-        "last_update": 1702312628850,
+        "guide_timestamp": 1702394100,
+        "last_update": 1702391365416,
         "live": false,
         "participants": [
             {
@@ -3833,18 +3893,18 @@
         "release_year": 2021,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1702393200,
+        "scheduled_timestamp": 1702394100,
         "season_number": "4",
-        "serial": 1702312628174,
+        "serial": 1702391365210,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
-        "show_id": "13794082",
-        "show_timestamp": 1702393200,
+        "show_id": "13794083",
+        "show_timestamp": 1702394097,
         "status": "estimated",
-        "summary": "Craig and his friends find themselves entering a cooking battle for a piece of the cube.",
-        "title": "The Chef's Challenge",
-        "title_id": "2260157",
+        "summary": "When Craig is having trouble with some math homework, Sparkle Cadet comes to the rescue.",
+        "title": "The Sparkle Solution",
+        "title_id": "2260159",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3910,11 +3970,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229083_007_02_851",
+        "content_id": "229083_008_02_851",
         "create_time": 1702312628850,
-        "episode_in_season": "7",
-        "episode_number": "S4:E07",
-        "external_id": "16363217",
+        "episode_in_season": "8",
+        "episode_number": "S4:E08",
+        "external_id": "16363218",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -3923,8 +3983,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702394100,
-        "last_update": 1702312628850,
+        "guide_timestamp": 1702395000,
+        "last_update": 1702391365417,
         "live": false,
         "participants": [
             {
@@ -3953,18 +4013,18 @@
         "release_year": 2021,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1702394100,
+        "scheduled_timestamp": 1702395000,
         "season_number": "4",
-        "serial": 1702312628174,
+        "serial": 1702391365210,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
-        "show_id": "13794083",
-        "show_timestamp": 1702394100,
+        "show_id": "13794084",
+        "show_timestamp": 1702394999,
         "status": "estimated",
-        "summary": "When Craig is having trouble with some math homework, Sparkle Cadet comes to the rescue.",
-        "title": "The Sparkle Solution",
-        "title_id": "2260159",
+        "summary": "The Squashinator challenges Craig to a battle he can't refuse.",
+        "title": "Better Than You",
+        "title_id": "2260160",
         "tv_rating": "TV-Y7"
     },
     {
@@ -4030,11 +4090,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229083_008_02_851",
+        "content_id": "229083_009_02_851",
         "create_time": 1702312628850,
-        "episode_in_season": "8",
-        "episode_number": "S4:E08",
-        "external_id": "16363218",
+        "episode_in_season": "9",
+        "episode_number": "S4:E09",
+        "external_id": "16363219",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -4043,8 +4103,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702395000,
-        "last_update": 1702312628850,
+        "guide_timestamp": 1702395900,
+        "last_update": 1702391365417,
         "live": false,
         "participants": [
             {
@@ -4073,18 +4133,18 @@
         "release_year": 2021,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1702395000,
+        "scheduled_timestamp": 1702395900,
         "season_number": "4",
-        "serial": 1702312628174,
+        "serial": 1702391365210,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13794084",
-        "show_timestamp": 1702395000,
+        "show_duration": 885,
+        "show_id": "13794085",
+        "show_timestamp": 1702395899,
         "status": "estimated",
-        "summary": "The Squashinator challenges Craig to a battle he can't refuse.",
-        "title": "Better Than You",
-        "title_id": "2260160",
+        "summary": "Craig and his cousin, Bryson, join forces for an action packed weekend at their grandparents house.",
+        "title": "The Dream Team",
+        "title_id": "2260161",
         "tv_rating": "TV-Y7"
     },
     {
@@ -4140,66 +4200,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274342108",
-        "show_timestamp": 1702395900,
-        "status": "estimated",
-        "summary": "Craig and his cousin, Bryson, join forces for an action packed weekend at their grandparents house.",
-        "title": "The Dream Team",
-        "title_id": "2260161",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229083_009_02_851",
-        "create_time": 1702312628850,
-        "episode_in_season": "9",
-        "episode_number": "S4:E09",
-        "external_id": "16363219",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1702395900,
-        "last_update": 1702312628850,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Georgie Kidder",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1702395900,
-        "season_number": "4",
-        "serial": 1702312628174,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13794085",
         "show_timestamp": 1702395900,
         "status": "estimated",
         "summary": "Craig and his cousin, Bryson, join forces for an action packed weekend at their grandparents house.",
@@ -4450,7 +4450,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702398600,
-        "last_update": 1702312628851,
+        "last_update": 1702391365991,
         "live": false,
         "participants": [
             {
@@ -4491,10 +4491,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702398600,
         "season_number": "2",
-        "serial": 1702312628174,
+        "serial": 1702391365772,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 881,
         "show_id": "13794088",
         "show_timestamp": 1702398600,
         "status": "estimated",
@@ -4590,7 +4590,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702399500,
-        "last_update": 1702312629958,
+        "last_update": 1702391365992,
         "live": false,
         "participants": [
             {
@@ -4631,10 +4631,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702399500,
         "season_number": "2",
-        "serial": 1702312629549,
+        "serial": 1702391365772,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 881,
         "show_id": "13794089",
         "show_timestamp": 1702399500,
         "status": "estimated",
