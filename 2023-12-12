@@ -3154,7 +3154,7 @@
             "Family"
         ],
         "guide_timestamp": 1702388700,
-        "last_update": 1702389661641,
+        "last_update": 1702393262352,
         "live": false,
         "participants": [
             {
@@ -3225,7 +3225,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1702388760,
         "season_number": "1",
-        "serial": 1702389661397,
+        "serial": 1702393262046,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
         "show_duration": 836,
@@ -3454,7 +3454,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702391400,
-        "last_update": 1702391365379,
+        "last_update": 1702393063946,
         "live": false,
         "participants": [
             {
@@ -3475,13 +3475,13 @@
         "scheduled_duration": 1691,
         "scheduled_timestamp": 1702391340,
         "season_number": "1",
-        "serial": 1702391365210,
+        "serial": 1702393063677,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1691,
+        "show_duration": 1690,
         "show_id": "13805976",
         "show_timestamp": 1702391333,
-        "status": "current",
+        "status": "actual",
         "summary": "Working Duck: When Daffy gets fired for sleeping on the job, Bugs kicks him out of the house.",
         "title": "Working Duck",
         "title_id": "824670",
@@ -3536,101 +3536,6 @@
         "title": "Working Duck",
         "title_id": "824670",
         "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "234485_015_01_851",
-        "create_time": 1702312628849,
-        "episode_in_season": "15",
-        "episode_number": "215",
-        "external_id": "16370332",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Lamput",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1702392900,
-        "last_update": 1702391365380,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Concept By"
-            },
-            {
-                "character": null,
-                "name": "Anand Babu",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Abhilash Narayanan",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Rajiv Eipe",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Upamanyu Bhattacharyya",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Roto Shah",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Advait Nemlekar",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Inspidea",
-                "role": "Animation"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Studios",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Chris Leong Mei Cian",
-                "role": "Production Manager"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 3,
-        "scheduled_duration": 180,
-        "scheduled_timestamp": 1702393020,
-        "season_number": "2",
-        "serial": 1702391365210,
-        "series_id": "2106724",
-        "series_name": "Lamput",
-        "show_duration": 172,
-        "show_id": "13805977",
-        "show_timestamp": 1702393013,
-        "status": "estimated",
-        "summary": "The docs accidentally hijack an alien's spaceship and what follows is a wild, extra terrestrial chase.",
-        "title": "Alien",
-        "title_id": "2168184",
-        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -3730,6 +3635,101 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "234485_015_01_851",
+        "create_time": 1702312628849,
+        "episode_in_season": "15",
+        "episode_number": "215",
+        "external_id": "16370332",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Lamput",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702392900,
+        "last_update": 1702393211203,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Concept By"
+            },
+            {
+                "character": null,
+                "name": "Anand Babu",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Abhilash Narayanan",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Rajiv Eipe",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Upamanyu Bhattacharyya",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Roto Shah",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Advait Nemlekar",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Inspidea",
+                "role": "Animation"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Studios",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Chris Leong Mei Cian",
+                "role": "Production Manager"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1702393020,
+        "season_number": "2",
+        "serial": 1702393210973,
+        "series_id": "2106724",
+        "series_name": "Lamput",
+        "show_duration": 173,
+        "show_id": "13805977",
+        "show_timestamp": 1702393023,
+        "status": "actual",
+        "summary": "The docs accidentally hijack an alien's spaceship and what follows is a wild, extra terrestrial chase.",
+        "title": "Alien",
+        "title_id": "2168184",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "229083_006_02_851",
         "create_time": 1702312628850,
         "episode_in_season": "6",
@@ -3744,7 +3744,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702393200,
-        "last_update": 1702392269553,
+        "last_update": 1702394103593,
         "live": false,
         "participants": [
             {
@@ -3775,13 +3775,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702393200,
         "season_number": "4",
-        "serial": 1702392268910,
+        "serial": 1702394103246,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 900,
+        "show_duration": 901,
         "show_id": "13794082",
-        "show_timestamp": 1702393193,
-        "status": "estimated",
+        "show_timestamp": 1702393196,
+        "status": "actual",
         "summary": "Craig and his friends find themselves entering a cooking battle for a piece of the cube.",
         "title": "The Chef's Challenge",
         "title_id": "2260157",
@@ -3864,7 +3864,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702394100,
-        "last_update": 1702391365416,
+        "last_update": 1702394111925,
         "live": false,
         "participants": [
             {
@@ -3895,13 +3895,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702394100,
         "season_number": "4",
-        "serial": 1702391365210,
+        "serial": 1702394111595,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "13794083",
         "show_timestamp": 1702394097,
-        "status": "estimated",
+        "status": "current",
         "summary": "When Craig is having trouble with some math homework, Sparkle Cadet comes to the rescue.",
         "title": "The Sparkle Solution",
         "title_id": "2260159",
@@ -3984,7 +3984,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702395000,
-        "last_update": 1702391365417,
+        "last_update": 1702394111926,
         "live": false,
         "participants": [
             {
@@ -4015,12 +4015,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702395000,
         "season_number": "4",
-        "serial": 1702391365210,
+        "serial": 1702394111595,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "13794084",
-        "show_timestamp": 1702394999,
+        "show_timestamp": 1702394997,
         "status": "estimated",
         "summary": "The Squashinator challenges Craig to a battle he can't refuse.",
         "title": "Better Than You",
@@ -4104,7 +4104,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702395900,
-        "last_update": 1702391365417,
+        "last_update": 1702394111926,
         "live": false,
         "participants": [
             {
@@ -4135,12 +4135,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702395900,
         "season_number": "4",
-        "serial": 1702391365210,
+        "serial": 1702394111595,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 885,
         "show_id": "13794085",
-        "show_timestamp": 1702395899,
+        "show_timestamp": 1702395898,
         "status": "estimated",
         "summary": "Craig and his cousin, Bryson, join forces for an action packed weekend at their grandparents house.",
         "title": "The Dream Team",
@@ -4211,6 +4211,45 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "250765_003_02_851",
+        "create_time": 1702312628851,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16363220",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702396800,
+        "last_update": 1702394111926,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 928,
+        "scheduled_timestamp": 1702396800,
+        "season_number": "1",
+        "serial": 1702394111595,
+        "series_id": "2266853",
+        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
+        "show_duration": 928,
+        "show_id": "13794086",
+        "show_timestamp": 1702396799,
+        "status": "estimated",
+        "summary": "When Prince Ivandoe saves Brian the Bard, he discovers he's now stuck with him\u2026until Brian saves his life in return. This might not be so bad if Brian didn't spend all day singing hurtful songs about him!",
+        "summary_long": "When Prince Ivandoe valiantly sets free Brian the Bard, he discovers he is now stuck with him... until such time that Brian saves Prince Ivandoe's life in return. This would not be so awful if Brian didn't send all day singing accurate, yet deeply unflattering, songs about Prince Ivandoe's looks and abilities.",
+        "title": "The Prince and the Sing-Songy Stag",
+        "title_id": "2266855",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250765_003_02_851",
         "create_time": 1702304108515,
         "episode_in_season": "3",
         "episode_number": "S1:E03",
@@ -4238,45 +4277,6 @@
         "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
         "show_duration": 900,
         "show_id": "274342118",
-        "show_timestamp": 1702396800,
-        "status": "estimated",
-        "summary": "When Prince Ivandoe saves Brian the Bard, he discovers he's now stuck with him\u2026until Brian saves his life in return. This might not be so bad if Brian didn't spend all day singing hurtful songs about him!",
-        "summary_long": "When Prince Ivandoe valiantly sets free Brian the Bard, he discovers he is now stuck with him... until such time that Brian saves Prince Ivandoe's life in return. This would not be so awful if Brian didn't send all day singing accurate, yet deeply unflattering, songs about Prince Ivandoe's looks and abilities.",
-        "title": "The Prince and the Sing-Songy Stag",
-        "title_id": "2266855",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "250765_003_02_851",
-        "create_time": 1702312628851,
-        "episode_in_season": "3",
-        "episode_number": "S1:E03",
-        "external_id": "16363220",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1702396800,
-        "last_update": 1702312628851,
-        "live": false,
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 15,
-        "scheduled_duration": 928,
-        "scheduled_timestamp": 1702396800,
-        "season_number": "1",
-        "serial": 1702312628174,
-        "series_id": "2266853",
-        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
-        "show_duration": 928,
-        "show_id": "13794086",
         "show_timestamp": 1702396800,
         "status": "estimated",
         "summary": "When Prince Ivandoe saves Brian the Bard, he discovers he's now stuck with him\u2026until Brian saves his life in return. This might not be so bad if Brian didn't spend all day singing hurtful songs about him!",
