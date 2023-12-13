@@ -87,7 +87,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702531800,
-        "last_update": 1702438659274,
+        "last_update": 1702502837982,
         "live": false,
         "participants": [
             {
@@ -115,13 +115,13 @@
         "press_hold": false,
         "release_year": 2010,
         "runtime_minutes": 15,
-        "scheduled_duration": 900,
+        "scheduled_duration": 908,
         "scheduled_timestamp": 1702531800,
         "season_number": "7",
-        "serial": 1702438658668,
+        "serial": 1702502837809,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
-        "show_duration": 900,
+        "show_duration": 908,
         "show_id": "13794192",
         "show_timestamp": 1702531800,
         "status": "estimated",
@@ -711,7 +711,7 @@
             "Animation"
         ],
         "guide_timestamp": 1702542600,
-        "last_update": 1702449040057,
+        "last_update": 1702502838385,
         "live": false,
         "participants": [
             {
@@ -744,13 +744,13 @@
         "press_hold": false,
         "release_year": 2019,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1812,
         "scheduled_timestamp": 1702542600,
         "season_number": "4",
-        "serial": 1702449039855,
+        "serial": 1702502838231,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1812,
         "show_id": "13794200",
         "show_timestamp": 1702542600,
         "status": "estimated",
@@ -1240,7 +1240,7 @@
             "Family"
         ],
         "guide_timestamp": 1702549800,
-        "last_update": 1702457528932,
+        "last_update": 1702502838386,
         "live": false,
         "participants": [
             {
@@ -1253,13 +1253,13 @@
         "press_hold": false,
         "release_year": 2017,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1829,
         "scheduled_timestamp": 1702549800,
         "season_number": "7",
-        "serial": 1702457528412,
+        "serial": 1702502838231,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1800,
+        "show_duration": 1829,
         "show_id": "13794205",
         "show_timestamp": 1702549800,
         "status": "estimated",
@@ -6241,6 +6241,122 @@
         "summary": "Ravenous aliens have descended on Rolf's house, and the kids of the cul-de-sac must band together to defeat the invading scourge.",
         "title": "The Eds Are Coming",
         "title_id": "629111",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229018_012_03_851",
+        "create_time": 1702502838960,
+        "episode_in_season": "12",
+        "episode_number": "S4:E12",
+        "external_id": "16368601",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Grim Adventures of Billy & Mandy, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702594800,
+        "last_update": 1702502838960,
+        "live": false,
+        "participants": [
+            {
+                "character": "Billy",
+                "name": "Richard Steven Horvitz",
+                "role": "Voice"
+            },
+            {
+                "character": "Mandy",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Grim Reaper",
+                "name": "Greg Eagles",
+                "role": "Voice"
+            },
+            {
+                "character": "Irwin",
+                "name": "Vanessa Marshall",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1702594800,
+        "season_number": "4",
+        "serial": 1702502838747,
+        "series_id": "445510",
+        "series_name": "The Grim Adventures of Billy & Mandy",
+        "show_duration": 1801,
+        "show_id": "13794247",
+        "show_timestamp": 1702594800,
+        "status": "estimated",
+        "summary": "Billy and Irwin make a prank call on a very special phone, and it leads to a rewarding career making prank calls for an evil entity with tentacles.",
+        "title": "Prank Call of Cthulu",
+        "title_id": "613714",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228267_004_04_851",
+        "create_time": 1702503017371,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16370286",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Courage the Cowardly Dog",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702596600,
+        "last_update": 1702503017371,
+        "live": false,
+        "participants": [
+            {
+                "character": "Courage",
+                "name": "Marty Grabstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Muriel Bagge",
+                "name": "Thea White",
+                "role": "Voice"
+            },
+            {
+                "character": "Eustace Bagge",
+                "name": "Lionel Wilson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1702596600,
+        "season_number": "1",
+        "serial": 1702503017109,
+        "series_id": "330149",
+        "series_name": "Courage the Cowardly Dog",
+        "show_duration": 1804,
+        "show_id": "13794248",
+        "show_timestamp": 1702596600,
+        "status": "estimated",
+        "summary": "The Duck brothers from outer space kidnap Muriel. They've come to Nowhere to rescue their brother. Then, while digging in search of his lost yo-yo, Courage happens upon a locked box that belonged to Eustace's deceased brother Horst.",
+        "summary_long": "The Duck Brothers: The Duck brothers from outer space kidnap Muriel. They've come to Nowhere to rescue their brother. Courage must save Muriel and ends up helping the brothers as well./Shirley the Medium: While digging in search of his lost yo-yo, Courage happens upon a locked box that belonged to Eustace's deceased brother Horst. Eustace tries to open the box, believing it contains his brother's money but cannot get it open. He hires a psychic to channel Horst. When the box is finally opened, the Farmer gets a surprise.",
+        "title": "The Duck Brothers/Shirley the Medium",
+        "title_id": "331806",
         "tv_rating": "TV-PG"
     }
 ]
