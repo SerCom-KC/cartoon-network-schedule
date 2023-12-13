@@ -553,5 +553,81 @@
         "title": "Russian Doll",
         "title_id": "2238749",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "232841_021_01_851",
+        "create_time": 1702445435296,
+        "episode_in_season": "21",
+        "episode_number": "S18:E20",
+        "external_id": "16377015",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1702539000,
+        "last_update": 1702445435296,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1702539000,
+        "season_number": "18",
+        "serial": 1702445434967,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13794198",
+        "show_timestamp": 1702539000,
+        "status": "estimated",
+        "summary": "Francine enters the strange and dangerous world of poker in order to learn how to hide her true feelings from Steve and Hayley.",
+        "title": "The Pink Sphinx Holds Her Hearts on the Turn",
+        "title_id": "2408661",
+        "tv_rating": "TV-14"
     }
 ]
