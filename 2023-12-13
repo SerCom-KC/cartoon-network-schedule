@@ -1211,7 +1211,7 @@
             "Family"
         ],
         "guide_timestamp": 1702461600,
-        "last_update": 1702463424615,
+        "last_update": 1702467029442,
         "live": false,
         "participants": [
             {
@@ -1227,7 +1227,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1702461600,
         "season_number": "6",
-        "serial": 1702463424403,
+        "serial": 1702467029264,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1796,
@@ -1448,7 +1448,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702466100,
-        "last_update": 1702466062254,
+        "last_update": 1702466902191,
         "live": false,
         "participants": [
             {
@@ -1489,13 +1489,13 @@
         "scheduled_duration": 850,
         "scheduled_timestamp": 1702466040,
         "season_number": "5",
-        "serial": 1702466061993,
+        "serial": 1702466901960,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 850,
         "show_id": "13805978",
         "show_timestamp": 1702466032,
-        "status": "current",
+        "status": "actual",
         "summary": "The Wattersons transform their house into The Big House.",
         "summary_long": "The family goes to visit Richard's Dad. Based on his basic living standards and extended absence from Richard's life, they assume Frankie must have done a stretch in the slammer. When Frankie comes to stay with the Wattersons, they decide the way to make him comfortable is to make him uncomfortable and turn their house into a prison.",
         "title": "The Outside",
@@ -1577,76 +1577,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228418_013_03_851",
-        "create_time": 1702398005122,
-        "episode_in_season": "13",
-        "episode_number": "S2:EL13",
-        "external_id": "16370339",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1702467000,
-        "last_update": 1702466062255,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2012,
-        "runtime_minutes": 9,
-        "scheduled_duration": 851,
-        "scheduled_timestamp": 1702466880,
-        "season_number": "2",
-        "serial": 1702466061993,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 851,
-        "show_id": "13805979",
-        "show_timestamp": 1702466872,
-        "status": "estimated",
-        "summary": "Gumball and Darwin make friends with classmate Clayton, a compulsive liar who can shape-change!",
-        "title": "The Skull",
-        "title_id": "894323",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228418_013_03_851",
         "create_time": 1702374478138,
         "episode_in_season": "13",
         "episode_number": "S2:EL13",
@@ -1716,6 +1646,76 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228418_013_03_851",
+        "create_time": 1702398005122,
+        "episode_in_season": "13",
+        "episode_number": "S2:EL13",
+        "external_id": "16370339",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702467000,
+        "last_update": 1702466902190,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 9,
+        "scheduled_duration": 851,
+        "scheduled_timestamp": 1702466880,
+        "season_number": "2",
+        "serial": 1702466901960,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 841,
+        "show_id": "13805979",
+        "show_timestamp": 1702466882,
+        "status": "current",
+        "summary": "Gumball and Darwin make friends with classmate Clayton, a compulsive liar who can shape-change!",
+        "title": "The Skull",
+        "title_id": "894323",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "228418_014_04_851",
         "create_time": 1702398005122,
         "episode_in_season": "14",
@@ -1730,7 +1730,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702467600,
-        "last_update": 1702466062255,
+        "last_update": 1702467205684,
         "live": false,
         "participants": [
             {
@@ -1771,7 +1771,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1702467720,
         "season_number": "2",
-        "serial": 1702466061993,
+        "serial": 1702467205443,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 836,
@@ -1870,7 +1870,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702468500,
-        "last_update": 1702466062255,
+        "last_update": 1702466963847,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1879,7 +1879,7 @@
         "scheduled_duration": 240,
         "scheduled_timestamp": 1702468560,
         "season_number": "1",
-        "serial": 1702466061993,
+        "serial": 1702466963460,
         "series_id": "2118583",
         "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
         "show_duration": 234,
