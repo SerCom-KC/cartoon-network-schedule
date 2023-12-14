@@ -3010,7 +3010,7 @@
             "Family"
         ],
         "guide_timestamp": 1702561500,
-        "last_update": 1702562406218,
+        "last_update": 1702566010974,
         "live": false,
         "participants": [
             {
@@ -3081,7 +3081,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1702561560,
         "season_number": "1",
-        "serial": 1702562405968,
+        "serial": 1702566010701,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
         "show_duration": 835,
@@ -3410,7 +3410,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702565700,
-        "last_update": 1702565854356,
+        "last_update": 1702566044855,
         "live": false,
         "participants": [
             {
@@ -3476,13 +3476,13 @@
         "scheduled_duration": 187,
         "scheduled_timestamp": 1702565820,
         "season_number": "2",
-        "serial": 1702565854080,
+        "serial": 1702566044660,
         "series_id": "2106724",
         "series_name": "Lamput",
-        "show_duration": 187,
+        "show_duration": 188,
         "show_id": "13806002",
         "show_timestamp": 1702565817,
-        "status": "current",
+        "status": "actual",
         "summary": "The docs and Lamput face off for the ultimate shape shift contest!",
         "title": "Shape Shift",
         "title_id": "2168185",
@@ -3587,66 +3587,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229083_014_02_851",
-        "create_time": 1702485373312,
-        "episode_in_season": "14",
-        "episode_number": "S4:E14",
-        "external_id": "16363340",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1702566000,
-        "last_update": 1702565854357,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Georgie Kidder",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1702566000,
-        "season_number": "4",
-        "serial": 1702565854080,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13794218",
-        "show_timestamp": 1702565997,
-        "status": "estimated",
-        "summary": "Craig goes all in at the Baby Casino.",
-        "title": "Adventures in Baby Casino",
-        "title_id": "2260171",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229083_014_02_851",
         "create_time": 1702472531117,
         "episode_in_season": "14",
         "episode_number": "S4:E14",
@@ -3706,11 +3646,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229083_015_02_851",
+        "content_id": "229083_014_02_851",
         "create_time": 1702485373312,
-        "episode_in_season": "15",
-        "episode_number": "S4:E15",
-        "external_id": "16363341",
+        "episode_in_season": "14",
+        "episode_number": "S4:E14",
+        "external_id": "16363340",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -3719,8 +3659,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702566900,
-        "last_update": 1702565854401,
+        "guide_timestamp": 1702566000,
+        "last_update": 1702566945388,
         "live": false,
         "participants": [
             {
@@ -3749,18 +3689,18 @@
         "release_year": 2021,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1702566900,
+        "scheduled_timestamp": 1702566000,
         "season_number": "4",
-        "serial": 1702565854080,
+        "serial": 1702566945086,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13794219",
-        "show_timestamp": 1702566898,
-        "status": "estimated",
-        "summary": "Hoping to help the Creek Daycare, Craig organizes a talent show.",
-        "title": "Creek Talent Extravaganza",
-        "title_id": "2260168",
+        "show_duration": 901,
+        "show_id": "13794218",
+        "show_timestamp": 1702566005,
+        "status": "actual",
+        "summary": "Craig goes all in at the Baby Casino.",
+        "title": "Adventures in Baby Casino",
+        "title_id": "2260171",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3826,6 +3766,66 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "229083_015_02_851",
+        "create_time": 1702485373312,
+        "episode_in_season": "15",
+        "episode_number": "S4:E15",
+        "external_id": "16363341",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702566900,
+        "last_update": 1702566945387,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1702566900,
+        "season_number": "4",
+        "serial": 1702566945086,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 892,
+        "show_id": "13794219",
+        "show_timestamp": 1702566906,
+        "status": "current",
+        "summary": "Hoping to help the Creek Daycare, Craig organizes a talent show.",
+        "title": "Creek Talent Extravaganza",
+        "title_id": "2260168",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "229083_016_02_851",
         "create_time": 1702485373312,
         "episode_in_season": "16",
@@ -3840,7 +3840,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702567800,
-        "last_update": 1702565854401,
+        "last_update": 1702566636286,
         "live": false,
         "participants": [
             {
@@ -3871,7 +3871,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1702567800,
         "season_number": "4",
-        "serial": 1702565854080,
+        "serial": 1702566635817,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 901,
