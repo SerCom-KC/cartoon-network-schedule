@@ -2910,7 +2910,7 @@
             "Family"
         ],
         "guide_timestamp": 1702561500,
-        "last_update": 1702561625499,
+        "last_update": 1702565235946,
         "live": false,
         "participants": [
             {
@@ -2981,7 +2981,7 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1702561380,
         "season_number": "1",
-        "serial": 1702561625231,
+        "serial": 1702565235436,
         "series_id": "2419726",
         "series_name": "Bugs Bunny Builders: Hard Hat Time",
         "show_duration": 179,
@@ -3310,7 +3310,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702564200,
-        "last_update": 1702564162871,
+        "last_update": 1702565838459,
         "live": false,
         "participants": [
             {
@@ -3331,13 +3331,13 @@
         "scheduled_duration": 1680,
         "scheduled_timestamp": 1702564140,
         "season_number": "1",
-        "serial": 1702564162602,
+        "serial": 1702565838092,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1677,
+        "show_duration": 1678,
         "show_id": "13806001",
         "show_timestamp": 1702564139,
-        "status": "current",
+        "status": "actual",
         "summary": "The Shelf: After Bugs wins the Nobel Prize, he needs a shelf to put it on.  Easier said than done.",
         "title": "The Shelf",
         "title_id": "830968",
@@ -3392,6 +3392,101 @@
         "title": "The Shelf",
         "title_id": "830968",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234485_016_01_851",
+        "create_time": 1702485373311,
+        "episode_in_season": "16",
+        "episode_number": "216",
+        "external_id": "16370365",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Lamput",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702565700,
+        "last_update": 1702565854356,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Concept By"
+            },
+            {
+                "character": null,
+                "name": "Anand Babu",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Abhilash Narayanan",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Rajiv Eipe",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Kumaresh",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Upamanyu Bhattacharyya",
+                "role": "Storyboard Artist"
+            },
+            {
+                "character": null,
+                "name": "Roto Shah",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Advait Nemlekar",
+                "role": "Sound Design"
+            },
+            {
+                "character": null,
+                "name": "Inspidea",
+                "role": "Animation"
+            },
+            {
+                "character": null,
+                "name": "Vaibhav Studios",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Chris Leong Mei Cian",
+                "role": "Production Manager"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 3,
+        "scheduled_duration": 187,
+        "scheduled_timestamp": 1702565820,
+        "season_number": "2",
+        "serial": 1702565854080,
+        "series_id": "2106724",
+        "series_name": "Lamput",
+        "show_duration": 187,
+        "show_id": "13806002",
+        "show_timestamp": 1702565817,
+        "status": "current",
+        "summary": "The docs and Lamput face off for the ultimate shape shift contest!",
+        "title": "Shape Shift",
+        "title_id": "2168185",
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -3491,96 +3586,61 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "234485_016_01_851",
-        "create_time": 1702485373311,
-        "episode_in_season": "16",
-        "episode_number": "216",
-        "external_id": "16370365",
+        "content_id": "229083_014_02_851",
+        "create_time": 1702485373312,
+        "episode_in_season": "14",
+        "episode_number": "S4:E14",
+        "external_id": "16363340",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Lamput",
+        "franchise_name": "Craig of the Creek",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702565700,
-        "last_update": 1702485373311,
+        "guide_timestamp": 1702566000,
+        "last_update": 1702565854357,
         "live": false,
         "participants": [
             {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Concept By"
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
             },
             {
-                "character": null,
-                "name": "Anand Babu",
-                "role": "Storyboard Artist"
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
             },
             {
-                "character": null,
-                "name": "Abhilash Narayanan",
-                "role": "Storyboard Artist"
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
             },
             {
-                "character": null,
-                "name": "Rajiv Eipe",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Kumaresh",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Upamanyu Bhattacharyya",
-                "role": "Storyboard Artist"
-            },
-            {
-                "character": null,
-                "name": "Roto Shah",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Advait Nemlekar",
-                "role": "Sound Design"
-            },
-            {
-                "character": null,
-                "name": "Inspidea",
-                "role": "Animation"
-            },
-            {
-                "character": null,
-                "name": "Vaibhav Studios",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Chris Leong Mei Cian",
-                "role": "Production Manager"
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
             }
         ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 3,
-        "scheduled_duration": 187,
-        "scheduled_timestamp": 1702565820,
-        "season_number": "2",
-        "serial": 1702485372756,
-        "series_id": "2106724",
-        "series_name": "Lamput",
-        "show_duration": 187,
-        "show_id": "13806002",
-        "show_timestamp": 1702565820,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1702566000,
+        "season_number": "4",
+        "serial": 1702565854080,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13794218",
+        "show_timestamp": 1702565997,
         "status": "estimated",
-        "summary": "The docs and Lamput face off for the ultimate shape shift contest!",
-        "title": "Shape Shift",
-        "title_id": "2168185",
+        "summary": "Craig goes all in at the Baby Casino.",
+        "title": "Adventures in Baby Casino",
+        "title_id": "2260171",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3646,11 +3706,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229083_014_02_851",
+        "content_id": "229083_015_02_851",
         "create_time": 1702485373312,
-        "episode_in_season": "14",
-        "episode_number": "S4:E14",
-        "external_id": "16363340",
+        "episode_in_season": "15",
+        "episode_number": "S4:E15",
+        "external_id": "16363341",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -3659,8 +3719,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702566000,
-        "last_update": 1702485373312,
+        "guide_timestamp": 1702566900,
+        "last_update": 1702565854401,
         "live": false,
         "participants": [
             {
@@ -3689,18 +3749,18 @@
         "release_year": 2021,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1702566000,
+        "scheduled_timestamp": 1702566900,
         "season_number": "4",
-        "serial": 1702485372756,
+        "serial": 1702565854080,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
-        "show_id": "13794218",
-        "show_timestamp": 1702566000,
+        "show_id": "13794219",
+        "show_timestamp": 1702566898,
         "status": "estimated",
-        "summary": "Craig goes all in at the Baby Casino.",
-        "title": "Adventures in Baby Casino",
-        "title_id": "2260171",
+        "summary": "Hoping to help the Creek Daycare, Craig organizes a talent show.",
+        "title": "Creek Talent Extravaganza",
+        "title_id": "2260168",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3766,11 +3826,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229083_015_02_851",
+        "content_id": "229083_016_02_851",
         "create_time": 1702485373312,
-        "episode_in_season": "15",
-        "episode_number": "S4:E15",
-        "external_id": "16363341",
+        "episode_in_season": "16",
+        "episode_number": "S4:E16",
+        "external_id": "16363342",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -3779,8 +3839,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702566900,
-        "last_update": 1702485373312,
+        "guide_timestamp": 1702567800,
+        "last_update": 1702565854401,
         "live": false,
         "participants": [
             {
@@ -3808,19 +3868,19 @@
         "press_hold": false,
         "release_year": 2021,
         "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1702566900,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1702567800,
         "season_number": "4",
-        "serial": 1702485372756,
+        "serial": 1702565854080,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13794219",
-        "show_timestamp": 1702566900,
+        "show_duration": 901,
+        "show_id": "13794220",
+        "show_timestamp": 1702567799,
         "status": "estimated",
-        "summary": "Hoping to help the Creek Daycare, Craig organizes a talent show.",
-        "title": "Creek Talent Extravaganza",
-        "title_id": "2260168",
+        "summary": "Friends and rivals are pitted against each other in a dangerous game of dodgeball.",
+        "title": "Dodgy Decisions",
+        "title_id": "2260163",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3876,66 +3936,6 @@
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "274350290",
-        "show_timestamp": 1702567800,
-        "status": "estimated",
-        "summary": "Friends and rivals are pitted against each other in a dangerous game of dodgeball.",
-        "title": "Dodgy Decisions",
-        "title_id": "2260163",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229083_016_02_851",
-        "create_time": 1702485373312,
-        "episode_in_season": "16",
-        "episode_number": "S4:E16",
-        "external_id": "16363342",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1702567800,
-        "last_update": 1702485373312,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Georgie Kidder",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 15,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1702567800,
-        "season_number": "4",
-        "serial": 1702485372756,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 901,
-        "show_id": "13794220",
         "show_timestamp": 1702567800,
         "status": "estimated",
         "summary": "Friends and rivals are pitted against each other in a dangerous game of dodgeball.",
@@ -4150,7 +4150,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702569600,
-        "last_update": 1702485373313,
+        "last_update": 1702565854402,
         "live": false,
         "participants": [
             {
@@ -4191,10 +4191,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702569600,
         "season_number": "2",
-        "serial": 1702485372756,
+        "serial": 1702565854080,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13794222",
         "show_timestamp": 1702569600,
         "status": "estimated",
@@ -4290,7 +4290,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702570500,
-        "last_update": 1702485373313,
+        "last_update": 1702565854403,
         "live": false,
         "participants": [
             {
@@ -4331,10 +4331,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702570500,
         "season_number": "2",
-        "serial": 1702485372756,
+        "serial": 1702565854080,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13794223",
         "show_timestamp": 1702570500,
         "status": "estimated",
@@ -4430,7 +4430,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702571400,
-        "last_update": 1702485373314,
+        "last_update": 1702565854404,
         "live": false,
         "participants": [
             {
@@ -4471,10 +4471,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702571400,
         "season_number": "2",
-        "serial": 1702485372756,
+        "serial": 1702565854080,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13794224",
         "show_timestamp": 1702571400,
         "status": "estimated",
@@ -4570,7 +4570,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702572300,
-        "last_update": 1702485373314,
+        "last_update": 1702565854404,
         "live": false,
         "participants": [
             {
@@ -4611,10 +4611,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702572300,
         "season_number": "2",
-        "serial": 1702485372756,
+        "serial": 1702565854080,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13794225",
         "show_timestamp": 1702572300,
         "status": "estimated",
