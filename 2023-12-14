@@ -3210,7 +3210,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702562400,
-        "last_update": 1702567765661,
+        "last_update": 1702572353681,
         "live": false,
         "participants": [
             {
@@ -3231,7 +3231,7 @@
         "scheduled_duration": 1745,
         "scheduled_timestamp": 1702562400,
         "season_number": "1",
-        "serial": 1702567765336,
+        "serial": 1702572353529,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1745,
@@ -3900,7 +3900,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702567800,
-        "last_update": 1702568736369,
+        "last_update": 1702572339721,
         "live": false,
         "participants": [
             {
@@ -3931,7 +3931,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1702567800,
         "season_number": "4",
-        "serial": 1702568736016,
+        "serial": 1702572339508,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 902,
@@ -4430,7 +4430,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702571400,
-        "last_update": 1702571485371,
+        "last_update": 1702572314079,
         "live": false,
         "participants": [
             {
@@ -4471,16 +4471,86 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702571400,
         "season_number": "2",
-        "serial": 1702571485162,
+        "serial": 1702572313814,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13794224",
         "show_timestamp": 1702571401,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball and Darwin fail to make some instant homemade movie classics.",
         "title": "The Tape",
         "title_id": "2000136",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228418_036_03_851",
+        "create_time": 1702485373314,
+        "episode_in_season": "36",
+        "episode_number": "S2:EL36",
+        "external_id": "16363347",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702572300,
+        "last_update": 1702572314078,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1702572300,
+        "season_number": "2",
+        "serial": 1702572313814,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 900,
+        "show_id": "13794225",
+        "show_timestamp": 1702572297,
+        "status": "current",
+        "summary": "Gumball and Darwin's reputation is challenged and they really couldn't care less...",
+        "title": "The Sweaters",
+        "title_id": "2000137",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -4547,76 +4617,6 @@
         "show_duration": 900,
         "show_id": "274350340",
         "show_timestamp": 1702572300,
-        "status": "estimated",
-        "summary": "Gumball and Darwin's reputation is challenged and they really couldn't care less...",
-        "title": "The Sweaters",
-        "title_id": "2000137",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228418_036_03_851",
-        "create_time": 1702485373314,
-        "episode_in_season": "36",
-        "episode_number": "S2:EL36",
-        "external_id": "16363347",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1702572300,
-        "last_update": 1702571480041,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2013,
-        "runtime_minutes": 11,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1702572300,
-        "season_number": "2",
-        "serial": 1702571479761,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 896,
-        "show_id": "13794225",
-        "show_timestamp": 1702572301,
         "status": "estimated",
         "summary": "Gumball and Darwin's reputation is challenged and they really couldn't care less...",
         "title": "The Sweaters",
