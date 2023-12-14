@@ -802,5 +802,106 @@
         "title": "Get Lit Upon a Situpon",
         "title_id": "2438771",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "250240_002_03_851",
+        "create_time": 1702540444727,
+        "episode_in_season": "2",
+        "episode_number": "S12:E02",
+        "external_id": "16376995",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua Teen Hunger Force",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1702631700,
+        "last_update": 1702540444727,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1702631700,
+        "season_number": "12",
+        "serial": 1702540444388,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "show_duration": 900,
+        "show_id": "13794270",
+        "show_timestamp": 1702631700,
+        "status": "estimated",
+        "summary": "On EARth, everyone can hear you scream.",
+        "title": "A Quiet Shake",
+        "title_id": "2438769",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "233068_001_01_851",
+        "create_time": 1702540444728,
+        "episode_in_season": "1",
+        "external_id": "16362499",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Joe Pera Helps You Find The Perfect Christmas Tree",
+        "genres": [
+            "Comedy",
+            "Holiday"
+        ],
+        "guide_timestamp": 1702632600,
+        "last_update": 1702540444728,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702632600,
+        "season_number": "1",
+        "serial": 1702540444388,
+        "series_id": "2106835",
+        "series_name": "Joe Pera Helps You Find The Perfect Christmas Tree",
+        "show_duration": 1800,
+        "show_id": "13794271",
+        "show_timestamp": 1702632600,
+        "status": "estimated",
+        "summary": "Joe Pera provides the information necessary to choose the perfect Christmas Tree for you. Species covered will include the Fraser Fir, Balsam Fir, Douglas Fir, White Spruce, Blue Spruce, Grand Fir, Noble Fir, Scotch Pine and Concolor Fir.",
+        "title": "Joe Pera Helps You Find the Perfect Christmas Tree",
+        "title_id": "2106836",
+        "tv_rating": "TV-PG"
     }
 ]
