@@ -682,5 +682,125 @@
         "title": "A Rick in King Mortur's Mort",
         "title_id": "2397942",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "250984_006_02_851",
+        "create_time": 1702537057802,
+        "episode_in_season": "6",
+        "episode_number": "S7:E09",
+        "external_id": "16362497",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1702629000,
+        "last_update": 1702537057802,
+        "live": false,
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702629000,
+        "season_number": "7",
+        "serial": 1702537057547,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13794268",
+        "show_timestamp": 1702629000,
+        "status": "estimated",
+        "summary": "Heaven is for real, broh. I saw it, broh, I swear.",
+        "title": "Mort: Ragnarick",
+        "title_id": "2424788",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250240_004_03_851",
+        "create_time": 1702537427588,
+        "episode_in_season": "4",
+        "episode_number": "S12:E04",
+        "external_id": "16376960",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua Teen Hunger Force",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1702630800,
+        "last_update": 1702537427588,
+        "live": false,
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1702630800,
+        "season_number": "12",
+        "serial": 1702537427354,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "show_duration": 901,
+        "show_id": "13831904",
+        "show_timestamp": 1702630800,
+        "status": "estimated",
+        "summary": "Step aside pigs, and make way for fitness!",
+        "title": "Get Lit Upon a Situpon",
+        "title_id": "2438771",
+        "tv_rating": "TV-MA"
     }
 ]
