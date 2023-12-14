@@ -1052,7 +1052,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702546200,
-        "last_update": 1702551604902,
+        "last_update": 1702555206493,
         "live": false,
         "participants": [
             {
@@ -1163,7 +1163,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1702546200,
         "season_number": "3",
-        "serial": 1702551604608,
+        "serial": 1702555206297,
         "series_id": "2161118",
         "series_name": "Joe Pera Talks With You",
         "show_duration": 1773,
@@ -1240,7 +1240,7 @@
             "Family"
         ],
         "guide_timestamp": 1702549800,
-        "last_update": 1702551615468,
+        "last_update": 1702555222604,
         "live": false,
         "participants": [
             {
@@ -1256,7 +1256,7 @@
         "scheduled_duration": 1829,
         "scheduled_timestamp": 1702549800,
         "season_number": "7",
-        "serial": 1702551615213,
+        "serial": 1702555222356,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1815,
@@ -1357,7 +1357,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702551600,
-        "last_update": 1702552439573,
+        "last_update": 1702556048653,
         "live": false,
         "participants": [
             {
@@ -1398,7 +1398,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1702551600,
         "season_number": "5",
-        "serial": 1702552439116,
+        "serial": 1702556048333,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 821,
@@ -1712,7 +1712,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702554000,
-        "last_update": 1702554178563,
+        "last_update": 1702554963372,
         "live": false,
         "participants": [
             {
@@ -1753,13 +1753,13 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1702554120,
         "season_number": "5",
-        "serial": 1702554178315,
+        "serial": 1702554963130,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 832,
+        "show_duration": 835,
         "show_id": "13805993",
         "show_timestamp": 1702554118,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball, Darwin and Anais find themselves plunged into an RPG version of Elmore.",
         "summary_long": "When Gumball is given a cursed videogame console, Elmore becomes trapped inside a fantasy RPG world. Gumball, Darwin and Anais have to battle their way through town, unraveling the secrets of their new virtual reality. But they'll have to level up if they're going to stand any chance against the mysterious final boss.",
         "title": "The Console",
@@ -1854,7 +1854,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702554900,
-        "last_update": 1702553469088,
+        "last_update": 1702555222603,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1863,13 +1863,13 @@
         "scheduled_duration": 245,
         "scheduled_timestamp": 1702554960,
         "season_number": "1",
-        "serial": 1702553468727,
+        "serial": 1702555222356,
         "series_id": "2118583",
         "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
-        "show_duration": 245,
+        "show_duration": 246,
         "show_id": "13805994",
-        "show_timestamp": 1702554959,
-        "status": "estimated",
+        "show_timestamp": 1702554953,
+        "status": "actual",
         "summary": "Ivandoe and Bert come across a tiny miserable prince in the forest.  He needs a kiss to transform him back into the beautiful bullfrog he once was.  But Ivandoe and Bert are not into kissing.  They're into questing.  Quest on!!!",
         "title": "The Prince and the Kissy Frog",
         "title_id": "2118584",
@@ -1912,6 +1912,76 @@
         "title": "The Prince and the Kissy Frog",
         "title_id": "2118584",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228418_023_02_851",
+        "create_time": 1702485372011,
+        "episode_in_season": "23",
+        "episode_number": "S2:EL23",
+        "external_id": "16363330",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702555200,
+        "last_update": 1702556163459,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1702555200,
+        "season_number": "2",
+        "serial": 1702556163120,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 896,
+        "show_id": "13794208",
+        "show_timestamp": 1702555199,
+        "status": "actual",
+        "summary": "When Gumball blames Darwin for kissing Penny in his dream it threatens to tear apart their friendship, the only place you can fix a dream problem is in the dream world.",
+        "title": "The Dream",
+        "title_id": "894301",
+        "tv_rating": "TV-Y7-FV"
     },
     {
         "blackout_type": "none",
@@ -1986,11 +2056,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228418_023_02_851",
+        "content_id": "228418_024_03_851",
         "create_time": 1702485372011,
-        "episode_in_season": "23",
-        "episode_number": "S2:EL23",
-        "external_id": "16363330",
+        "episode_in_season": "24",
+        "episode_number": "S2:EL24",
+        "external_id": "16363331",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -1999,8 +2069,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702555200,
-        "last_update": 1702554388903,
+        "guide_timestamp": 1702556100,
+        "last_update": 1702556163458,
         "live": false,
         "participants": [
             {
@@ -2038,19 +2108,19 @@
         "press_hold": false,
         "release_year": 2012,
         "runtime_minutes": 11,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1702555200,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1702556100,
         "season_number": "2",
-        "serial": 1702554388580,
+        "serial": 1702556163120,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 896,
-        "show_id": "13794208",
-        "show_timestamp": 1702555200,
-        "status": "estimated",
-        "summary": "When Gumball blames Darwin for kissing Penny in his dream it threatens to tear apart their friendship, the only place you can fix a dream problem is in the dream world.",
-        "title": "The Dream",
-        "title_id": "894301",
+        "show_duration": 837,
+        "show_id": "13794209",
+        "show_timestamp": 1702556095,
+        "status": "current",
+        "summary": "During a quest to retrieve a loaned video game, Darwin begins to suspect that he is trapped playing second fiddle to Gumball.",
+        "title": "The Sidekick",
+        "title_id": "894302",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -2126,72 +2196,40 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228418_024_03_851",
+        "content_id": "252832_027_01_851",
         "create_time": 1702485372011,
-        "episode_in_season": "24",
-        "episode_number": "S2:EL24",
-        "external_id": "16363331",
+        "episode_in_season": "27",
+        "episode_number": "1027",
+        "external_id": "16370358",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
+        "franchise_name": "CoComelon",
         "genres": [
             "Animation",
             "Children",
-            "Comedy"
+            "Family"
         ],
-        "guide_timestamp": 1702556100,
-        "last_update": 1702552506843,
+        "guide_timestamp": 1702557000,
+        "last_update": 1702555821318,
         "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2012,
-        "runtime_minutes": 11,
+        "release_year": 2006,
+        "runtime_minutes": 14,
         "scheduled_duration": 840,
-        "scheduled_timestamp": 1702556100,
-        "season_number": "2",
-        "serial": 1702552506464,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 836,
-        "show_id": "13794209",
-        "show_timestamp": 1702556100,
+        "scheduled_timestamp": 1702556940,
+        "season_number": "1",
+        "serial": 1702555820954,
+        "series_id": "2357112",
+        "series_name": "CoComelon",
+        "show_duration": 840,
+        "show_id": "13805995",
+        "show_timestamp": 1702556938,
         "status": "estimated",
-        "summary": "During a quest to retrieve a loaned video game, Darwin begins to suspect that he is trapped playing second fiddle to Gumball.",
-        "title": "The Sidekick",
-        "title_id": "894302",
-        "tv_rating": "TV-Y7-FV"
+        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
+        "title": "My Big Brother Song/ Field Day Song/ My Sister Song/ Father and Sons Song",
+        "title_id": "2435774",
+        "tv_rating": "TV-Y"
     },
     {
         "blackout_type": "none",
@@ -2234,39 +2272,75 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "252832_027_01_851",
-        "create_time": 1702485372011,
-        "episode_in_season": "27",
-        "episode_number": "1027",
-        "external_id": "16370358",
+        "content_id": "233248_003_02_851",
+        "create_time": 1702485372012,
+        "episode_in_season": "3",
+        "episode_number": "S1:EL03",
+        "external_id": "16370359",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "CoComelon",
+        "franchise_name": "Meet the Batwheels",
         "genres": [
-            "Animation",
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1702557000,
-        "last_update": 1702485372011,
+        "guide_timestamp": 1702557900,
+        "last_update": 1702555642150,
         "live": false,
-        "premiere": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2006,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1702556940,
+        "release_year": 2022,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1702557780,
         "season_number": "1",
-        "serial": 1702485371350,
-        "series_id": "2357112",
-        "series_name": "CoComelon",
-        "show_duration": 840,
-        "show_id": "13805995",
-        "show_timestamp": 1702556940,
+        "serial": 1702555641750,
+        "series_id": "2405571",
+        "series_name": "Meet the Batwheels",
+        "show_duration": 179,
+        "show_id": "13805996",
+        "show_timestamp": 1702557779,
         "status": "estimated",
-        "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
-        "title": "My Big Brother Song/ Field Day Song/ My Sister Song/ Father and Sons Song",
-        "title_id": "2435774",
+        "summary": "Set to his rocking theme song, Bam the Batmobile takes to the streets of Gotham and uses his smarts, leadership skills, and awesome gadgets to fight crime and stop the villainous Legion of Zoom.",
+        "title": "Bam!",
+        "title_id": "2272385",
         "tv_rating": "TV-Y"
     },
     {
@@ -2336,80 +2410,6 @@
         "series_name": "Meet the Batwheels",
         "show_duration": 180,
         "show_id": "274350170",
-        "show_timestamp": 1702557780,
-        "status": "estimated",
-        "summary": "Set to his rocking theme song, Bam the Batmobile takes to the streets of Gotham and uses his smarts, leadership skills, and awesome gadgets to fight crime and stop the villainous Legion of Zoom.",
-        "title": "Bam!",
-        "title_id": "2272385",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "233248_003_02_851",
-        "create_time": 1702485372012,
-        "episode_in_season": "3",
-        "episode_number": "S1:EL03",
-        "external_id": "16370359",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Meet the Batwheels",
-        "genres": [
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1702557900,
-        "last_update": 1702485372012,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Caroline Kermel",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Fink",
-                "role": "Producer"
-            },
-            {
-                "character": "Buff",
-                "name": "Noah Kaye Bentley",
-                "role": "Voice"
-            },
-            {
-                "character": "Bam",
-                "name": "Jacob Bertrand",
-                "role": "Voice"
-            },
-            {
-                "character": "Batman",
-                "name": "Ethan Hawke",
-                "role": "Voice"
-            },
-            {
-                "character": "Robin",
-                "name": "AJ Hudson",
-                "role": "Voice"
-            },
-            {
-                "character": "Bibi",
-                "name": "Madigan Kacmar",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2022,
-        "runtime_minutes": 3,
-        "scheduled_duration": 180,
-        "scheduled_timestamp": 1702557780,
-        "season_number": "1",
-        "serial": 1702485371350,
-        "series_id": "2405571",
-        "series_name": "Meet the Batwheels",
-        "show_duration": 180,
-        "show_id": "13805996",
         "show_timestamp": 1702557780,
         "status": "estimated",
         "summary": "Set to his rocking theme song, Bam the Batmobile takes to the streets of Gotham and uses his smarts, leadership skills, and awesome gadgets to fight crime and stop the villainous Legion of Zoom.",
