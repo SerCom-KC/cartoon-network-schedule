@@ -4020,7 +4020,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702568700,
-        "last_update": 1702569612902,
+        "last_update": 1702573217783,
         "live": false,
         "participants": [
             {
@@ -4051,7 +4051,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1702568700,
         "season_number": "4",
-        "serial": 1702569612703,
+        "serial": 1702573217518,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 901,
@@ -4500,7 +4500,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702572300,
-        "last_update": 1702572314078,
+        "last_update": 1702573217782,
         "live": false,
         "participants": [
             {
@@ -4541,13 +4541,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1702572300,
         "season_number": "2",
-        "serial": 1702572313814,
+        "serial": 1702573217518,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13794225",
         "show_timestamp": 1702572297,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball and Darwin's reputation is challenged and they really couldn't care less...",
         "title": "The Sweaters",
         "title_id": "2000137",
@@ -4627,6 +4627,56 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228330_006_03_851",
+        "create_time": 1702485373314,
+        "episode_in_season": "6",
+        "episode_number": "S2:E06",
+        "external_id": "16363348",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Apple & Onion",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1702573200,
+        "last_update": 1702573234980,
+        "live": false,
+        "participants": [
+            {
+                "character": "Onion",
+                "name": "Richard Ayoade",
+                "role": "Voice"
+            },
+            {
+                "character": "Apple",
+                "name": "George Gendi",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1702573200,
+        "season_number": "2",
+        "serial": 1702573234818,
+        "series_id": "2133648",
+        "series_name": "Apple & Onion",
+        "show_duration": 902,
+        "show_id": "13794226",
+        "show_timestamp": 1702573193,
+        "status": "current",
+        "summary": "Apple and Onion are put in charge of Falafel's beloved rooster but it turns out that other parties have a vested interest in it too.",
+        "title": "Ferekh",
+        "title_id": "2222826",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228330_006_03_851",
         "create_time": 1702481911933,
         "episode_in_season": "6",
         "episode_number": "S2:E06",
@@ -4676,11 +4726,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228330_006_03_851",
+        "content_id": "228330_007_03_851",
         "create_time": 1702485373314,
-        "episode_in_season": "6",
-        "episode_number": "S2:E06",
-        "external_id": "16363348",
+        "episode_in_season": "7",
+        "episode_number": "S2:E07",
+        "external_id": "16363349",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Apple & Onion",
@@ -4689,8 +4739,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702573200,
-        "last_update": 1702569668223,
+        "guide_timestamp": 1702574100,
+        "last_update": 1702573234980,
         "live": false,
         "participants": [
             {
@@ -4709,18 +4759,18 @@
         "release_year": 2020,
         "runtime_minutes": 15,
         "scheduled_duration": 902,
-        "scheduled_timestamp": 1702573200,
+        "scheduled_timestamp": 1702574100,
         "season_number": "2",
-        "serial": 1702569667881,
+        "serial": 1702573234818,
         "series_id": "2133648",
         "series_name": "Apple & Onion",
         "show_duration": 902,
-        "show_id": "13794226",
-        "show_timestamp": 1702573201,
+        "show_id": "13794227",
+        "show_timestamp": 1702574093,
         "status": "estimated",
-        "summary": "Apple and Onion are put in charge of Falafel's beloved rooster but it turns out that other parties have a vested interest in it too.",
-        "title": "Ferekh",
-        "title_id": "2222826",
+        "summary": "Apple and Onion are to cook for a very important guest but Onion is not quite feeling himself.",
+        "title": "Pat on the Head",
+        "title_id": "2222827",
         "tv_rating": "TV-Y7"
     },
     {
@@ -4776,52 +4826,62 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228330_007_03_851",
-        "create_time": 1702485373314,
-        "episode_in_season": "7",
-        "episode_number": "S2:E07",
-        "external_id": "16363349",
+        "content_id": "228549_026_02_851",
+        "create_time": 1702485373315,
+        "episode_in_season": "26",
+        "episode_number": "S2:E26",
+        "external_id": "16363350",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Apple & Onion",
+        "franchise_name": "Clarence",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702574100,
-        "last_update": 1702485373314,
+        "guide_timestamp": 1702575000,
+        "last_update": 1702573234981,
         "live": false,
         "participants": [
             {
-                "character": "Onion",
-                "name": "Richard Ayoade",
+                "character": "Clarence Wendle",
+                "name": "Spencer Rothbell",
                 "role": "Voice"
             },
             {
-                "character": "Apple",
-                "name": "George Gendi",
+                "character": "Jeff Randell",
+                "name": "Sean Giambrone",
+                "role": "Voice"
+            },
+            {
+                "character": "Sumo",
+                "name": "Tom Kenny",
+                "role": "Voice"
+            },
+            {
+                "character": "Mary Wendle",
+                "name": "Katie Crown",
                 "role": "Voice"
             }
         ],
-        "premiere": true,
+        "premiere": false,
         "press_hold": false,
-        "release_year": 2020,
+        "release_year": 2016,
         "runtime_minutes": 15,
-        "scheduled_duration": 902,
-        "scheduled_timestamp": 1702574100,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1702575000,
         "season_number": "2",
-        "serial": 1702485372756,
-        "series_id": "2133648",
-        "series_name": "Apple & Onion",
-        "show_duration": 902,
-        "show_id": "13794227",
-        "show_timestamp": 1702574100,
+        "serial": 1702573234818,
+        "series_id": "2012957",
+        "series_name": "Clarence",
+        "show_duration": 901,
+        "show_id": "13794228",
+        "show_timestamp": 1702574996,
         "status": "estimated",
-        "summary": "Apple and Onion are to cook for a very important guest but Onion is not quite feeling himself.",
-        "title": "Pat on the Head",
-        "title_id": "2222827",
-        "tv_rating": "TV-Y7"
+        "summary": "When Ms. Baker pairs up the kids to act as parents for a sprout, Sumo and Clarence learn all about good parenting. Jeff buys toys instead of fertilizer and Chelsea and Kimby get to know each other.",
+        "title": "Plant Daddies",
+        "title_id": "2085292",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -4886,11 +4946,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228549_026_02_851",
+        "content_id": "228545_001_02_851",
         "create_time": 1702485373315,
-        "episode_in_season": "26",
-        "episode_number": "S2:E26",
-        "external_id": "16363350",
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "16363351",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Clarence",
@@ -4899,8 +4959,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1702575000,
-        "last_update": 1702485373315,
+        "guide_timestamp": 1702575900,
+        "last_update": 1702573429860,
         "live": false,
         "participants": [
             {
@@ -4929,18 +4989,18 @@
         "release_year": 2016,
         "runtime_minutes": 15,
         "scheduled_duration": 901,
-        "scheduled_timestamp": 1702575000,
-        "season_number": "2",
-        "serial": 1702485372756,
+        "scheduled_timestamp": 1702575900,
+        "season_number": "3",
+        "serial": 1702573429629,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
-        "show_id": "13794228",
-        "show_timestamp": 1702575000,
+        "show_id": "13794229",
+        "show_timestamp": 1702575898,
         "status": "estimated",
-        "summary": "When Ms. Baker pairs up the kids to act as parents for a sprout, Sumo and Clarence learn all about good parenting. Jeff buys toys instead of fertilizer and Chelsea and Kimby get to know each other.",
-        "title": "Plant Daddies",
-        "title_id": "2085292",
+        "summary": "After Clarence learns Sumo's in the school musical, he joins up and enthusiastically promotes the show. On opening night with a packed house, stage fright takes hold of Sumo and he runs off leaving Clarence to go on alone.",
+        "title": "Bucky and the Howl",
+        "title_id": "2085293",
         "tv_rating": "TV-PG"
     },
     {
@@ -5006,66 +5066,6 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228545_001_02_851",
-        "create_time": 1702485373315,
-        "episode_in_season": "1",
-        "episode_number": "S3:E01",
-        "external_id": "16363351",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Clarence",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1702575900,
-        "last_update": 1702485373315,
-        "live": false,
-        "participants": [
-            {
-                "character": "Clarence Wendle",
-                "name": "Spencer Rothbell",
-                "role": "Voice"
-            },
-            {
-                "character": "Jeff Randell",
-                "name": "Sean Giambrone",
-                "role": "Voice"
-            },
-            {
-                "character": "Sumo",
-                "name": "Tom Kenny",
-                "role": "Voice"
-            },
-            {
-                "character": "Mary Wendle",
-                "name": "Katie Crown",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 15,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1702575900,
-        "season_number": "3",
-        "serial": 1702485372756,
-        "series_id": "2012957",
-        "series_name": "Clarence",
-        "show_duration": 901,
-        "show_id": "13794229",
-        "show_timestamp": 1702575900,
-        "status": "estimated",
-        "summary": "After Clarence learns Sumo's in the school musical, he joins up and enthusiastically promotes the show. On opening night with a packed house, stage fright takes hold of Sumo and he runs off leaving Clarence to go on alone.",
-        "title": "Bucky and the Howl",
-        "title_id": "2085293",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
         "content_id": "228545_002_02_851",
         "create_time": 1702485373315,
         "episode_in_season": "2",
@@ -5080,7 +5080,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1702576800,
-        "last_update": 1702485373315,
+        "last_update": 1702573234981,
         "live": false,
         "participants": [
             {
@@ -5111,12 +5111,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1702576800,
         "season_number": "3",
-        "serial": 1702485372756,
+        "serial": 1702573234818,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 901,
         "show_id": "13794230",
-        "show_timestamp": 1702576800,
+        "show_timestamp": 1702576799,
         "status": "estimated",
         "summary": "After his mom gets a worm bin, Jeff deals with the gross reality that he has a tub of bugs living in his kitchen, and Clarence obsesses over feeding the worms.",
         "title": "Worm Bin",
