@@ -533,5 +533,64 @@
         "title": "Mort: Ragnarick",
         "title_id": "2424788",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "250984_010_02_851",
+        "create_time": 1702798566016,
+        "episode_in_season": "10",
+        "episode_number": "S7:E10",
+        "external_id": "16362658",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1702891800,
+        "last_update": 1702798566016,
+        "live": false,
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1702891800,
+        "season_number": "7",
+        "serial": 1702798565678,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13794449",
+        "show_timestamp": 1702891800,
+        "status": "estimated",
+        "summary": "Only thing to fear is fear itself, broh.",
+        "title": "Fear No Mort",
+        "title_id": "2424792",
+        "tv_rating": "TV-14"
     }
 ]
