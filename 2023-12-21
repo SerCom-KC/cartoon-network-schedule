@@ -4466,5 +4466,83 @@
         "title": "Rapture's Delight",
         "title_id": "748137",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_022_02_851",
+        "create_time": 1703123009312,
+        "episode_in_season": "22",
+        "episode_number": "S15:E22",
+        "external_id": "16363415",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1703215800,
+        "last_update": 1703123009312,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1703215800,
+        "season_number": "15",
+        "serial": 1703123009103,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13795037",
+        "show_timestamp": 1703215800,
+        "status": "estimated",
+        "summary": "After Stan's plan for the perfect Christmas goes terribly, tragically wrong, he's given a magical opportunity to make things right.",
+        "title": "Yule. Tide. Repeat.",
+        "title_id": "2197412",
+        "tv_rating": "TV-14"
     }
 ]
