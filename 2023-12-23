@@ -291,5 +291,65 @@
         "title": "Unmortricken",
         "title_id": "2424787",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "250984_009_02_851",
+        "create_time": 1703224093604,
+        "episode_in_season": "9",
+        "episode_number": "S7:E06",
+        "external_id": "16362901",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1703316600,
+        "last_update": 1703224093604,
+        "live": false,
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1703316600,
+        "season_number": "7",
+        "serial": 1703224093242,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13794709",
+        "show_timestamp": 1703316600,
+        "status": "estimated",
+        "summary": "Gotta keep those receipts, dawg.",
+        "title": "Rickfending Your Mort",
+        "title_id": "2424791",
+        "tv_rating": "TV-14"
     }
 ]
