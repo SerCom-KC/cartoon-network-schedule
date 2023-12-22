@@ -4415,5 +4415,82 @@
         "title": "Ninety North, Zero West",
         "title_id": "2069538",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232845_008_02_851",
+        "create_time": 1703211711068,
+        "episode_in_season": "8",
+        "episode_number": "S13:E08",
+        "external_id": "16362894",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1703304000,
+        "last_update": 1703211711068,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1703304000,
+        "season_number": "13",
+        "serial": 1703211710815,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1810,
+        "show_id": "13794702",
+        "show_timestamp": 1703304000,
+        "status": "estimated",
+        "summary": "Roger feels unappreciated during Christmas so Snot introduces him to Judaism. After a run-in with Santa, Roger really gets into the Hanukkah spirit.",
+        "title": "Santa, Schmanta",
+        "title_id": "2069561",
+        "tv_rating": "TV-14"
     }
 ]
