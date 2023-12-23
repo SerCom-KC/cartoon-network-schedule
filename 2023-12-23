@@ -3685,5 +3685,143 @@
         "title": "Season's Beatings",
         "title_id": "748147",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "251737_003_03_851",
+        "create_time": 1703298713294,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16362950",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1703390400,
+        "last_update": 1703298713294,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1703390400,
+        "season_number": "1",
+        "serial": 1703298713015,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1804,
+        "show_id": "13794763",
+        "show_timestamp": 1703390400,
+        "status": "estimated",
+        "summary": "On a special Christmas, Rick and Morty try to save the life of a homeless man. Meanwhile, Jerry's parents visit and the family bonds.",
+        "title": "Anatomy Park",
+        "title_id": "2013511",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251795_010_03_851",
+        "create_time": 1703298713328,
+        "episode_in_season": "10",
+        "episode_number": "S6:E10",
+        "external_id": "16362951",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1703392200,
+        "last_update": 1703298713328,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1703392200,
+        "season_number": "6",
+        "serial": 1703298713015,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13794764",
+        "show_timestamp": 1703392200,
+        "status": "estimated",
+        "summary": "Merry Rickmas, broh!",
+        "title": "Ricktional Mortpoon's Rickmas Mortcation",
+        "title_id": "2397943",
+        "tv_rating": "TV-14"
     }
 ]
