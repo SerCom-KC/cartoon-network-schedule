@@ -742,5 +742,98 @@
         "title": "Tradigital",
         "title_id": "2447944",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L"
+        ],
+        "content_id": "166124_001_03_851",
+        "create_time": 1703665885382,
+        "episode_in_season": "1",
+        "episode_number": "S8:E01",
+        "external_id": "16363540",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1703757600,
+        "last_update": 1703665885382,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1703757600,
+        "season_number": "8",
+        "serial": 1703665885123,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13795173",
+        "show_timestamp": 1703757600,
+        "status": "estimated",
+        "summary": "To compete with Jimmy Pesto, Bob's Burgers begins serving brunch, but it quickly turns to chaos. Meanwhile, Tina, Gene and Louise decide to help Mr. Fischoeder's brother hide from him.",
+        "title": "Brunchsquatch",
+        "title_id": "2171432",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "166124_002_03_851",
+        "create_time": 1703665885383,
+        "episode_in_season": "2",
+        "episode_number": "S8:E02",
+        "external_id": "16363541",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1703759400,
+        "last_update": 1703665885383,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1703759400,
+        "season_number": "8",
+        "serial": 1703665885123,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1801,
+        "show_id": "13795174",
+        "show_timestamp": 1703759400,
+        "status": "estimated",
+        "summary": "When Mr. Frond's therapy dolls are mysteriously attacked, Louise teams up with Millie to help solve the case. Meanwhile, Teddy decides to get into the inspirational poster business, but ends up with mixed results.",
+        "title": "The Silence of the Louise",
+        "title_id": "2171433",
+        "tv_rating": "TV-14"
     }
 ]
