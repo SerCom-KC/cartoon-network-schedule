@@ -655,5 +655,122 @@
         "title": "A Rickle in Time",
         "title_id": "2060764",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251739_002_03_851",
+        "create_time": 1704092843487,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16384769",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1704184200,
+        "last_update": 1704092843487,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 29,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704184200,
+        "season_number": "2",
+        "serial": 1704092843181,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13854056",
+        "show_timestamp": 1704184200,
+        "status": "estimated",
+        "summary": "Morty don tries to save a life in this one broh! Get strapped in broh!",
+        "title": "Mortynight Run",
+        "title_id": "2060765",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229708_004_02_851",
+        "create_time": 1704092843522,
+        "episode_in_season": "4",
+        "episode_number": "S8:E04",
+        "external_id": "16384770",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1704186000,
+        "last_update": 1704092843522,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 14,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1704186000,
+        "season_number": "8",
+        "serial": 1704092843181,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 900,
+        "show_id": "13854057",
+        "show_timestamp": 1704186000,
+        "status": "estimated",
+        "summary": "The ultimate bookend to humanity.",
+        "title": "Winter",
+        "title_id": "2165432",
+        "tv_rating": "TV-14"
     }
 ]
