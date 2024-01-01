@@ -772,5 +772,56 @@
         "title": "Winter",
         "title_id": "2165432",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229716_001_02_851",
+        "create_time": 1704093535023,
+        "episode_in_season": "1",
+        "episode_number": "S9:E01",
+        "external_id": "16384771",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1704186900,
+        "last_update": 1704093535023,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1704186900,
+        "season_number": "9",
+        "serial": 1704093534229,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 900,
+        "show_id": "13854058",
+        "show_timestamp": 1704186900,
+        "status": "estimated",
+        "summary": "Got you covered.",
+        "title": "Fashion",
+        "title_id": "2199311",
+        "tv_rating": "TV-14"
     }
 ]
