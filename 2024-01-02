@@ -509,5 +509,84 @@
         "title": "A Jones for a Smith",
         "title_id": "748130",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232832_013_03_851",
+        "create_time": 1704088426825,
+        "episode_in_season": "13",
+        "episode_number": "S8:E13",
+        "external_id": "16390277",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1704180600,
+        "last_update": 1704088426825,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704180600,
+        "season_number": "8",
+        "serial": 1704088426376,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13854054",
+        "show_timestamp": 1704180600,
+        "status": "estimated",
+        "summary": "Stan's honeymoon with his wife, Sexpun Tocome, is interrupted when Black Villain shoots Sexpun. Determined to get revenge, Stan teams up with his nemesis to track down Black Villain and stop his evil plan to melt the arctic glaciers.",
+        "summary_long": "Stan's honeymoon with his wife, Sexpun Tocome, is brutally interrupted when Black Villain fatally shoots Sexpun. Determined to get his revenge, Stan teams up with former nemesis the Tearjerker to track down Black Villain and put a stop to his evil plan to melt the arctic glaciers.",
+        "title": "For Black Eyes Only",
+        "title_id": "748222",
+        "tv_rating": "TV-14"
     }
 ]
