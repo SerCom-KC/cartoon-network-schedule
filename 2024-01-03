@@ -821,5 +821,109 @@
         "title": "Fire",
         "title_id": "2199313",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "256403_005_02_851",
+        "create_time": 1704182619204,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92366",
+        "franchise_name": "- Ambient Swim (Season 1) (Linear Conve: Relaxing Old Footage With Joe Pera",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1704274200,
+        "last_update": 1704182619204,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Cody Dematteis",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Shane Dering",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Marty Schousboe",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Vanessa Palacios",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704274200,
+        "season_number": "1",
+        "serial": 1704182618925,
+        "series_id": "2348079",
+        "series_name": "Ambient Swim",
+        "show_duration": 1800,
+        "show_id": "13854133",
+        "show_timestamp": 1704274200,
+        "status": "estimated",
+        "summary": "A quiet TV special made from relaxing old footage and narrated by comedian Joe Pera. Featuring trees, waterfalls, and Japanese monkeys.",
+        "title": "Relaxing Old Footage With Joe Pera",
+        "title_id": "2447948",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_019_02_851",
+        "create_time": 1704182619204,
+        "episode_in_season": "19",
+        "episode_number": "S10:E19",
+        "external_id": "16384027",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1704276000,
+        "last_update": 1704182619204,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704276000,
+        "season_number": "10",
+        "serial": 1704182618925,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13854134",
+        "show_timestamp": 1704276000,
+        "status": "estimated",
+        "summary": "The kids try to cheer Teddy up.",
+        "summary_long": "When Teddy finds himself doubting his abilities as a handyman, the kids build up his confidence.",
+        "title": "The Handyman Can",
+        "title_id": "2438957",
+        "tv_rating": "TV-PG"
     }
 ]
