@@ -1540,5 +1540,104 @@
         "title": "Blast Off",
         "title_id": "2267162",
         "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234266_008_02_851",
+        "create_time": 1704193156708,
+        "episode_number": "S1:EL08",
+        "external_id": "16384037",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders: Hard Hat Time",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1704286500,
+        "last_update": 1704193156708,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1704286620,
+        "season_number": "1",
+        "serial": 1704193156318,
+        "series_id": "2419726",
+        "series_name": "Bugs Bunny Builders: Hard Hat Time",
+        "show_duration": 180,
+        "show_id": "274432090",
+        "show_timestamp": 1704286620,
+        "status": "estimated",
+        "summary": "Bugs tries to play music for the crew on their lunch break, but his \"boogie button\" is busted.",
+        "title": "Boogie Button",
+        "title_id": "2419744",
+        "tv_rating": "TV-Y"
     }
 ]
