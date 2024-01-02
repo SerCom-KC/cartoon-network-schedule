@@ -352,5 +352,83 @@
         "title": "Vicki",
         "title_id": "2092361",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232848_006_04_851",
+        "create_time": 1704170410160,
+        "episode_in_season": "6",
+        "episode_number": "S5:E06",
+        "external_id": "16384020",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1704263400,
+        "last_update": 1704170410160,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 27,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704263400,
+        "season_number": "5",
+        "serial": 1704170409685,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13854126",
+        "show_timestamp": 1704263400,
+        "status": "estimated",
+        "summary": "When Roger and Francine go wine-tasting, Roger plants a big kiss on Francine in a drunken moment. Francine decides to tell Stan about this incident, but when they sit down to talk, Roger convinces Stan that Francine started it all.",
+        "title": "Merlot Down Dirty Shame",
+        "title_id": "798357",
+        "tv_rating": "TV-14"
     }
 ]
