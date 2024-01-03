@@ -432,5 +432,82 @@
         "title": "Fellow Traveler",
         "title_id": "2392753",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232841_003_01_851",
+        "create_time": 1704258878965,
+        "episode_in_season": "3",
+        "episode_number": "S18:E03",
+        "external_id": "16384092",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1704351600,
+        "last_update": 1704258878965,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1704351600,
+        "season_number": "18",
+        "serial": 1704258878520,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1805,
+        "show_id": "13854201",
+        "show_timestamp": 1704351600,
+        "status": "estimated",
+        "summary": "Steve and Principal Lewis get caught in a dangerous situation at the school; the rest of the family makes an adorable new friend.",
+        "title": "Viced Principal",
+        "title_id": "2392754",
+        "tv_rating": "TV-14"
     }
 ]
