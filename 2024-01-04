@@ -772,5 +772,111 @@
         "title": "Patterns",
         "title_id": "2199314",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229704_001_02_851",
+        "create_time": 1704267424203,
+        "episode_in_season": "1",
+        "episode_number": "S10:E01",
+        "external_id": "16384097",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1704359700,
+        "last_update": 1704267424203,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1704359700,
+        "season_number": "10",
+        "serial": 1704267423838,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 910,
+        "show_id": "13854206",
+        "show_timestamp": 1704359700,
+        "status": "estimated",
+        "summary": "You are not alone. Well, maybe a little bit. Yeah, definitely pretty much alone.",
+        "title": "Coping",
+        "title_id": "2228722",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "256403_006_02_851",
+        "create_time": 1704267424204,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92366",
+        "franchise_name": null,
+        "genres": [
+            "Animation"
+        ],
+        "guide_timestamp": 1704360600,
+        "last_update": 1704267424204,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Cody Dematteis",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Shane Dering",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Marty Schousboe",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Vanessa Palacios",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704360600,
+        "season_number": "1",
+        "serial": 1704267423838,
+        "series_id": "2348079",
+        "series_name": "Ambient Swim",
+        "show_duration": 1800,
+        "show_id": "13854207",
+        "show_timestamp": 1704360600,
+        "status": "estimated",
+        "summary": "A hand-drawn tribute to retro 90's animation.",
+        "title": "Neo Mega Ultra Z-Star",
+        "title_id": "2447949",
+        "tv_rating": "TV-PG"
     }
 ]
