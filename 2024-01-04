@@ -945,7 +945,7 @@
             "Family"
         ],
         "guide_timestamp": 1704364200,
-        "last_update": 1704316228603,
+        "last_update": 1704317850897,
         "live": false,
         "participants": [
             {
@@ -961,10 +961,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1704364200,
         "season_number": "11",
-        "serial": 1704316228343,
+        "serial": 1704317850469,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1813,
+        "show_duration": 1768,
         "show_id": "13854209",
         "show_timestamp": 1704364215,
         "status": "estimated",
@@ -6186,6 +6186,62 @@
         "summary_long": "The Crass Unicorn: It's not all sunshine and lollipops in the Enchanted Forest, and only Billy can set things right.  Billy & Mandy Begins: Billy, Mandy, and the Grim Reaper must save Christmas when vampires threaten the North Pole.",
         "title": "The Crass Unicorn/Billy & Mandy Begins",
         "title_id": "630237",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228255_005_03_851",
+        "create_time": 1704317851495,
+        "episode_in_season": "5",
+        "episode_number": "S2:E05",
+        "external_id": "16388152",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Courage the Cowardly Dog",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1704411000,
+        "last_update": 1704317851495,
+        "live": false,
+        "participants": [
+            {
+                "character": "Courage",
+                "name": "Marty Grabstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Muriel Bagge",
+                "name": "Thea White",
+                "role": "Voice"
+            },
+            {
+                "character": "Eustace Bagge",
+                "name": "Lionel Wilson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704411000,
+        "season_number": "2",
+        "serial": 1704317851235,
+        "series_id": "330149",
+        "series_name": "Courage the Cowardly Dog",
+        "show_duration": 1800,
+        "show_id": "13854258",
+        "show_timestamp": 1704411000,
+        "status": "estimated",
+        "summary": "A salesman arrives peddling vacuums. During his pitch, he shrinks Muriel and Eustace and sucks them up into his vacuum. Then, Courage and the family are selected by NASA to go on a dangerous space mission to save the Sun.",
+        "summary_long": "The Human Habitrail: A sinister salesman, who is a gerbil, arrives at the farm peddling vacuums. During his pitch, the salesman shrinks Muriel and Eustace and sucks them up into his vacuum. Courage must find a way to rescue them./Mission to the Sun: Courage and the family are selected by NASA to go on a dangerous space mission to save the Sun. While in flight, Muriel becomes infected with an alien bacterium, which tries to sabotage the mission.",
+        "title": "Human Habitrail/Mission to the Sun",
+        "title_id": "339925",
         "tv_rating": "TV-PG"
     }
 ]
