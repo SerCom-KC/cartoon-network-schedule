@@ -2629,7 +2629,7 @@
             "Family"
         ],
         "guide_timestamp": 1704289200,
-        "last_update": 1704290237192,
+        "last_update": 1704293838166,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2638,7 +2638,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1704289320,
         "season_number": "1",
-        "serial": 1704290236846,
+        "serial": 1704293837909,
         "series_id": "2368373",
         "series_name": "Jessica's Big Little World",
         "show_duration": 901,
@@ -2703,7 +2703,7 @@
             "Family"
         ],
         "guide_timestamp": 1704290100,
-        "last_update": 1704290469542,
+        "last_update": 1704294073573,
         "live": false,
         "participants": [
             {
@@ -2749,7 +2749,7 @@
         "scheduled_duration": 190,
         "scheduled_timestamp": 1704290220,
         "season_number": "1",
-        "serial": 1704290469316,
+        "serial": 1704294073392,
         "series_id": "2405571",
         "series_name": "Meet the Batwheels",
         "show_duration": 190,
@@ -3181,7 +3181,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704292800,
-        "last_update": 1704293005990,
+        "last_update": 1704293851221,
         "live": false,
         "participants": [
             {
@@ -3207,13 +3207,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1704292920,
         "season_number": "1",
-        "serial": 1704293005740,
+        "serial": 1704293851035,
         "series_id": "2056641",
         "series_name": "We Bare Bears",
         "show_duration": 895,
         "show_id": "13854153",
         "show_timestamp": 1704292919,
-        "status": "current",
+        "status": "actual",
         "summary": "This episode takes place when the Bears are young cubs! The three bears, on their way through the desert, come upon a giant warehouse. It's like an Amazon fulfillment\ncenter. The Bears try to make this box-filled paradise their home.",
         "title": "The Road",
         "title_id": "2056653",
@@ -3291,7 +3291,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704293700,
-        "last_update": 1704289333599,
+        "last_update": 1704294066446,
         "live": false,
         "participants": [
             {
@@ -3357,13 +3357,13 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1704293820,
         "season_number": "2",
-        "serial": 1704289333267,
+        "serial": 1704294066204,
         "series_id": "2106724",
         "series_name": "Lamput",
         "show_duration": 172,
         "show_id": "13854154",
-        "show_timestamp": 1704293819,
-        "status": "estimated",
+        "show_timestamp": 1704293814,
+        "status": "actual",
         "summary": "The docs and Lamput face off for the ultimate shape shift contest!",
         "title": "Shape Shift",
         "title_id": "2168185",
@@ -3467,6 +3467,66 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229166_019_02_851",
+        "create_time": 1704211971771,
+        "episode_in_season": "19",
+        "episode_number": "S2:E19",
+        "external_id": "16384048",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo and Guess Who?",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1704294000,
+        "last_update": 1704294066446,
+        "live": false,
+        "participants": [
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "Voice"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Kate Micucci",
+                "role": "Voice"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Fred Jones Sr.",
+                "name": "Frank Welker",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1704294000,
+        "season_number": "2",
+        "serial": 1704294066204,
+        "series_id": "2168685",
+        "series_name": "Scooby-Doo and Guess Who?",
+        "show_duration": 1820,
+        "show_id": "13854155",
+        "show_timestamp": 1704293986,
+        "status": "current",
+        "summary": "Our mystery teens work with Joseph \"Run\" Simmons (aka Reverend Run) originally of Run DMC to get to the bottom of the mystery of the ghost of a famous bandleader from the 1930s haunting a hip-hop youth center in Harlem.",
+        "summary_long": "Joseph \"Run\" Simmons (aka Reverend Run) originally of Run DMC is opening a hip-hop youth center in Harlem where he hopes to give kids a chance to explore all the powerful sides of Hip-Hop culture. Being huge fans, Shaggy and Scooby have brought the rest of the gang to the grand opening. But, they're not alone. The ghost of a famous bandleader from the 1930s is haunting the youth center, which is located on the spot of the famous old Athena Supper Club. Our mystery teens work with Rev Run to get to the bottom of this mystery, find the legendary golden microphone lost over eighty years ago and get the youth center back up and running.",
+        "title": "The Legend of the Gold Microphone!",
+        "title_id": "2218273",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229166_019_02_851",
         "create_time": 1704200894191,
         "episode_in_season": "19",
         "episode_number": "S2:E19",
@@ -3515,66 +3575,6 @@
         "series_name": "Scooby-Doo and Guess Who?",
         "show_duration": 1800,
         "show_id": "274432200",
-        "show_timestamp": 1704294000,
-        "status": "estimated",
-        "summary": "Our mystery teens work with Joseph \"Run\" Simmons (aka Reverend Run) originally of Run DMC to get to the bottom of the mystery of the ghost of a famous bandleader from the 1930s haunting a hip-hop youth center in Harlem.",
-        "summary_long": "Joseph \"Run\" Simmons (aka Reverend Run) originally of Run DMC is opening a hip-hop youth center in Harlem where he hopes to give kids a chance to explore all the powerful sides of Hip-Hop culture. Being huge fans, Shaggy and Scooby have brought the rest of the gang to the grand opening. But, they're not alone. The ghost of a famous bandleader from the 1930s is haunting the youth center, which is located on the spot of the famous old Athena Supper Club. Our mystery teens work with Rev Run to get to the bottom of this mystery, find the legendary golden microphone lost over eighty years ago and get the youth center back up and running.",
-        "title": "The Legend of the Gold Microphone!",
-        "title_id": "2218273",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229166_019_02_851",
-        "create_time": 1704211971771,
-        "episode_in_season": "19",
-        "episode_number": "S2:E19",
-        "external_id": "16384048",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Scooby-Doo and Guess Who?",
-        "genres": [
-            "Comedy",
-            "Mystery"
-        ],
-        "guide_timestamp": 1704294000,
-        "last_update": 1704231208182,
-        "live": false,
-        "participants": [
-            {
-                "character": "Shaggy Rogers",
-                "name": "Matthew Lillard",
-                "role": "Voice"
-            },
-            {
-                "character": "Velma Dinkley",
-                "name": "Kate Micucci",
-                "role": "Voice"
-            },
-            {
-                "character": "Daphne Blake",
-                "name": "Grey DeLisle (Griffin)",
-                "role": "Voice"
-            },
-            {
-                "character": "Fred Jones Sr.",
-                "name": "Frank Welker",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2019,
-        "runtime_minutes": 30,
-        "scheduled_duration": 1803,
-        "scheduled_timestamp": 1704294000,
-        "season_number": "2",
-        "serial": 1704231207974,
-        "series_id": "2168685",
-        "series_name": "Scooby-Doo and Guess Who?",
-        "show_duration": 1803,
-        "show_id": "13854155",
         "show_timestamp": 1704294000,
         "status": "estimated",
         "summary": "Our mystery teens work with Joseph \"Run\" Simmons (aka Reverend Run) originally of Run DMC to get to the bottom of the mystery of the ghost of a famous bandleader from the 1930s haunting a hip-hop youth center in Harlem.",
@@ -3659,7 +3659,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1704295800,
-        "last_update": 1704231208182,
+        "last_update": 1704293834856,
         "live": false,
         "participants": [
             {
@@ -3690,12 +3690,12 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1704295800,
         "season_number": "2",
-        "serial": 1704231207974,
+        "serial": 1704293834591,
         "series_id": "2168685",
         "series_name": "Scooby-Doo and Guess Who?",
         "show_duration": 1801,
         "show_id": "13854156",
-        "show_timestamp": 1704295800,
+        "show_timestamp": 1704295801,
         "status": "estimated",
         "summary": "Velma and Shaggy are contestants Jeopardy, competing against Andy the Brain Bot. But when It threatens to destroy everything, our gang and Alex Trebek must get to the bottom of who's really behind this robot's dangerous actions.",
         "summary_long": "This is Jeopardy! In fact, this is a very special episode of Jeopardy for two reasons. First, Velma and Shaggy are contestants. And second, they're competing against Andy the Brain Bot (a semi-sentient super-smart robot), who's standing at the lecterns with them. Scooby and our gang of mystery solvers are super excited to meet famous TV personality and gameshow host Alex Trebek! But, it's lucky our heroes are on hand because when Velma and Shaggy start outscoring the Brain Bot, it causes the robot to go a little crazy. It threatens to destroy everything if it can't manage to win. Our gang and Mr. Trebek must get to the bottom of who's really behind this robot's dangerous actions, or when they say Final Jeopardy, they really mean it!",
