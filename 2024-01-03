@@ -1931,7 +1931,7 @@
             "Family"
         ],
         "guide_timestamp": 1704285900,
-        "last_update": 1704286628106,
+        "last_update": 1704290237194,
         "live": false,
         "participants": [
             {
@@ -2002,7 +2002,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704285780,
         "season_number": "1",
-        "serial": 1704286627909,
+        "serial": 1704290236846,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
         "show_duration": 835,
@@ -2131,7 +2131,7 @@
             "Family"
         ],
         "guide_timestamp": 1704286500,
-        "last_update": 1704286811838,
+        "last_update": 1704290420939,
         "live": false,
         "participants": [
             {
@@ -2202,7 +2202,7 @@
         "scheduled_duration": 189,
         "scheduled_timestamp": 1704286620,
         "season_number": "1",
-        "serial": 1704286811600,
+        "serial": 1704290420754,
         "series_id": "2419726",
         "series_name": "Bugs Bunny Builders: Hard Hat Time",
         "show_duration": 188,
@@ -2629,7 +2629,7 @@
             "Family"
         ],
         "guide_timestamp": 1704289200,
-        "last_update": 1704289333563,
+        "last_update": 1704290237192,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2638,13 +2638,13 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1704289320,
         "season_number": "1",
-        "serial": 1704289333267,
+        "serial": 1704290236846,
         "series_id": "2368373",
         "series_name": "Jessica's Big Little World",
         "show_duration": 901,
         "show_id": "13854148",
         "show_timestamp": 1704289310,
-        "status": "current",
+        "status": "actual",
         "summary": "When Jessica meets another kid at the park with an identical look as her, the two quickly form an unbreakable bond.",
         "title": "Little Twin",
         "title_id": "2373946",
@@ -2703,7 +2703,7 @@
             "Family"
         ],
         "guide_timestamp": 1704290100,
-        "last_update": 1704289333564,
+        "last_update": 1704290469542,
         "live": false,
         "participants": [
             {
@@ -2749,13 +2749,13 @@
         "scheduled_duration": 190,
         "scheduled_timestamp": 1704290220,
         "season_number": "1",
-        "serial": 1704289333267,
+        "serial": 1704290469316,
         "series_id": "2405571",
         "series_name": "Meet the Batwheels",
         "show_duration": 190,
         "show_id": "13854149",
-        "show_timestamp": 1704290210,
-        "status": "estimated",
+        "show_timestamp": 1704290211,
+        "status": "actual",
         "summary": "Batman discusses the Batmobile's amazing capabilities and features during an interview at Gotham's auto show, featuring impressive clips of Bam in action as he swoops in to save the day.",
         "title": "Interview with a Crime-Fighter",
         "title_id": "2272393",
@@ -2838,61 +2838,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "229093_009_03_851",
-        "create_time": 1704211970380,
-        "episode_in_season": "9",
-        "episode_number": "S1:E09",
-        "external_id": "16384043",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1704290400,
-        "last_update": 1704289333597,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2018,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1704290400,
-        "season_number": "1",
-        "serial": 1704289333267,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 827,
-        "show_id": "13854150",
-        "show_timestamp": 1704290390,
-        "status": "estimated",
-        "summary": "Craig is determined to catch the monster that has been wreaking havoc in Granddad's garden.",
-        "title": "Monster in the Garden",
-        "title_id": "2145396",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229093_009_03_851",
         "create_time": 1704197506387,
         "episode_in_season": "9",
         "episode_number": "S1:E09",
@@ -2947,6 +2892,61 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "229093_009_03_851",
+        "create_time": 1704211970380,
+        "episode_in_season": "9",
+        "episode_number": "S1:E09",
+        "external_id": "16384043",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1704290400,
+        "last_update": 1704290469541,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1704290400,
+        "season_number": "1",
+        "serial": 1704290469316,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 816,
+        "show_id": "13854150",
+        "show_timestamp": 1704290401,
+        "status": "current",
+        "summary": "Craig is determined to catch the monster that has been wreaking havoc in Granddad's garden.",
+        "title": "Monster in the Garden",
+        "title_id": "2145396",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "229093_011_03_851",
         "create_time": 1704211971737,
         "episode_in_season": "11",
@@ -2961,7 +2961,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704291300,
-        "last_update": 1704289333598,
+        "last_update": 1704290237193,
         "live": false,
         "participants": [
             {
@@ -2987,7 +2987,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704291240,
         "season_number": "1",
-        "serial": 1704289333267,
+        "serial": 1704290236846,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 840,
@@ -3071,7 +3071,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704292200,
-        "last_update": 1704289522419,
+        "last_update": 1704290254078,
         "live": false,
         "participants": [
             {
@@ -3097,7 +3097,7 @@
         "scheduled_duration": 851,
         "scheduled_timestamp": 1704292080,
         "season_number": "2",
-        "serial": 1704289522074,
+        "serial": 1704290253844,
         "series_id": "2056641",
         "series_name": "We Bare Bears",
         "show_duration": 851,
