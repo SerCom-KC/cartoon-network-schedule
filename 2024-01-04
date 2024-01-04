@@ -1417,7 +1417,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704368400,
-        "last_update": 1704368607141,
+        "last_update": 1704369370297,
         "live": false,
         "participants": [
             {
@@ -1458,13 +1458,13 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704368520,
         "season_number": "3",
-        "serial": 1704368606686,
+        "serial": 1704369369949,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 837,
+        "show_duration": 840,
         "show_id": "13854213",
         "show_timestamp": 1704368518,
-        "status": "current",
+        "status": "actual",
         "summary": "The Wattersons have had a bad day, but it turns out Larry has too and it's about to get worse . . . for everyone!",
         "summary_long": "The Wattersons have had a bad day, but it turns out Larry has too and it's about to get worse . . . for everyone! The Wattersons complain about their day and order a pizza from Larry. When they call to complain about their late pizza it's the final straw for Larry and he quits all of his jobs. Elmore's fragile commercial structure collapses and the citizens revert to a more primitive apocalyptic state.",
         "title": "The Pizza",
@@ -1546,6 +1546,44 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "233136_002_01_851",
+        "create_time": 1704299625785,
+        "episode_in_season": "2",
+        "episode_number": "02",
+        "external_id": "16384104",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1704369300,
+        "last_update": 1704369370263,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 4,
+        "scheduled_duration": 243,
+        "scheduled_timestamp": 1704369360,
+        "season_number": "1",
+        "serial": 1704369369949,
+        "series_id": "2118583",
+        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
+        "show_duration": 243,
+        "show_id": "13854214",
+        "show_timestamp": 1704369358,
+        "status": "current",
+        "summary": "Ivandoe comes face to face with a cocky young swan prince.  To settle their differences they engage in a good old-fashioned Prince-Off with the help of their trusty squires.  Ivandoe's underwhelming royal roar unexpectedly saves the day.",
+        "title": "The Prince and the Hissy Swan",
+        "title_id": "2118587",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233136_002_01_851",
         "create_time": 1704276172900,
         "episode_in_season": "2",
         "episode_number": "02",
@@ -1583,40 +1621,52 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "233136_002_01_851",
+        "content_id": "235002_025_02_851",
         "create_time": 1704299625785,
-        "episode_in_season": "2",
-        "episode_number": "02",
-        "external_id": "16384104",
+        "episode_in_season": "25",
+        "episode_number": "S2:E25",
+        "external_id": "16384105",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "franchise_name": "Looney Tunes Show, The",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704369300,
-        "last_update": 1704316229005,
+        "guide_timestamp": 1704369600,
+        "last_update": 1704369370296,
         "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 4,
-        "scheduled_duration": 243,
-        "scheduled_timestamp": 1704369360,
-        "season_number": "1",
-        "serial": 1704316228843,
-        "series_id": "2118583",
-        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
-        "show_duration": 243,
-        "show_id": "13854214",
-        "show_timestamp": 1704369360,
+        "release_year": 2013,
+        "runtime_minutes": 29,
+        "scheduled_duration": 1740,
+        "scheduled_timestamp": 1704369600,
+        "season_number": "2",
+        "serial": 1704369369949,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1731,
+        "show_id": "13854215",
+        "show_timestamp": 1704369598,
         "status": "estimated",
-        "summary": "Ivandoe comes face to face with a cocky young swan prince.  To settle their differences they engage in a good old-fashioned Prince-Off with the help of their trusty squires.  Ivandoe's underwhelming royal roar unexpectedly saves the day.",
-        "title": "The Prince and the Hissy Swan",
-        "title_id": "2118587",
-        "tv_rating": "TV-Y7"
+        "summary": "When Bugs' old childhood friend Rodney comes to visit, Daffy travels back in time to ensure that he is Bugs' oldest and best friend.",
+        "title": "Best Friends Redux",
+        "title_id": "977576",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -1671,52 +1721,102 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235002_025_02_851",
-        "create_time": 1704299625785,
-        "episode_in_season": "25",
-        "episode_number": "S2:E25",
-        "external_id": "16384105",
+        "content_id": "228558_021_02_851",
+        "create_time": 1704299625786,
+        "episode_in_season": "21",
+        "episode_number": "S1:E21",
+        "external_id": "16384106",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Looney Tunes Show, The",
+        "franchise_name": "Bugs Bunny Builders",
         "genres": [
             "Animation",
             "Children",
-            "Comedy"
+            "Family"
         ],
-        "guide_timestamp": 1704369600,
-        "last_update": 1704366032929,
+        "guide_timestamp": 1704371400,
+        "last_update": 1704369370298,
         "live": false,
         "participants": [
             {
                 "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
+                "name": "Eric Bauza",
                 "role": "Voice"
             },
             {
                 "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
                 "name": "Jeff Bergman",
                 "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2013,
-        "runtime_minutes": 29,
-        "scheduled_duration": 1740,
-        "scheduled_timestamp": 1704369600,
-        "season_number": "2",
-        "serial": 1704366032698,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1731,
-        "show_id": "13854215",
-        "show_timestamp": 1704369600,
+        "release_year": 2021,
+        "runtime_minutes": 14,
+        "scheduled_duration": 851,
+        "scheduled_timestamp": 1704371340,
+        "season_number": "1",
+        "serial": 1704369369949,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 851,
+        "show_id": "13854216",
+        "show_timestamp": 1704371339,
         "status": "estimated",
-        "summary": "When Bugs' old childhood friend Rodney comes to visit, Daffy travels back in time to ensure that he is Bugs' oldest and best friend.",
-        "title": "Best Friends Redux",
-        "title_id": "977576",
-        "tv_rating": "TV-PG"
+        "summary": "Marvin the Martian hires The Looney Builders to build a doghouse on Mars for his puppy, K-9. Daffy soon bonds with K-9 and comes up with a plan to prolong their playtime.",
+        "title": "K-9: Space Puppy",
+        "title_id": "2267168",
+        "tv_rating": "TV-Y"
     },
     {
         "blackout_type": "none",
@@ -1821,11 +1921,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228558_021_02_851",
+        "content_id": "228558_022_02_851",
         "create_time": 1704299625786,
-        "episode_in_season": "21",
-        "episode_number": "S1:E21",
-        "external_id": "16384106",
+        "episode_in_season": "22",
+        "episode_number": "S1:E22",
+        "external_id": "16384107",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Bugs Bunny Builders",
@@ -1834,8 +1934,8 @@
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1704371400,
-        "last_update": 1704316229100,
+        "guide_timestamp": 1704372300,
+        "last_update": 1704369370299,
         "live": false,
         "participants": [
             {
@@ -1903,19 +2003,19 @@
         "press_hold": false,
         "release_year": 2021,
         "runtime_minutes": 14,
-        "scheduled_duration": 851,
-        "scheduled_timestamp": 1704371340,
+        "scheduled_duration": 841,
+        "scheduled_timestamp": 1704372180,
         "season_number": "1",
-        "serial": 1704316228843,
+        "serial": 1704369369949,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 851,
-        "show_id": "13854216",
-        "show_timestamp": 1704371340,
+        "show_duration": 841,
+        "show_id": "13854217",
+        "show_timestamp": 1704372179,
         "status": "estimated",
-        "summary": "Marvin the Martian hires The Looney Builders to build a doghouse on Mars for his puppy, K-9. Daffy soon bonds with K-9 and comes up with a plan to prolong their playtime.",
-        "title": "K-9: Space Puppy",
-        "title_id": "2267168",
+        "summary": "When Daffy's cool cousin Billy hires The Looney Builders to build her an art studio, Daffy tries to show off to prove how cool he is.",
+        "title": "Cousin Billy",
+        "title_id": "2267187",
         "tv_rating": "TV-Y"
     },
     {
@@ -2011,106 +2111,6 @@
         "series_name": "Bugs Bunny Builders",
         "show_duration": 840,
         "show_id": "274436176",
-        "show_timestamp": 1704372180,
-        "status": "estimated",
-        "summary": "When Daffy's cool cousin Billy hires The Looney Builders to build her an art studio, Daffy tries to show off to prove how cool he is.",
-        "title": "Cousin Billy",
-        "title_id": "2267187",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228558_022_02_851",
-        "create_time": 1704299625786,
-        "episode_in_season": "22",
-        "episode_number": "S1:E22",
-        "external_id": "16384107",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders",
-        "genres": [
-            "Animation",
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1704372300,
-        "last_update": 1704316229101,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 14,
-        "scheduled_duration": 841,
-        "scheduled_timestamp": 1704372180,
-        "season_number": "1",
-        "serial": 1704316228843,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 841,
-        "show_id": "13854217",
         "show_timestamp": 1704372180,
         "status": "estimated",
         "summary": "When Daffy's cool cousin Billy hires The Looney Builders to build her an art studio, Daffy tries to show off to prove how cool he is.",
