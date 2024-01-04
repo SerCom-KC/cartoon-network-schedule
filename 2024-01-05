@@ -351,5 +351,83 @@
         "title": "The Guzzle Bumpkin",
         "title_id": "2108967",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232842_002_03_851",
+        "create_time": 1704343994612,
+        "episode_in_season": "2",
+        "episode_number": "S6:E02",
+        "external_id": "16384122",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1704436200,
+        "last_update": 1704343994612,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1704436200,
+        "season_number": "6",
+        "serial": 1704343993911,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13854274",
+        "show_timestamp": 1704436200,
+        "status": "estimated",
+        "summary": "After Stan creates a clone of Steve, Francine and Stan compete with each other to determine who has better parenting skills. Meanwhile, Roger tracks down the AWOL bride and groom in Thailand.",
+        "title": "Son of Stan",
+        "title_id": "748143",
+        "tv_rating": "TV-14"
     }
 ]
