@@ -770,5 +770,113 @@
         "title": "Dreams",
         "title_id": "2228723",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "S"
+        ],
+        "content_id": "229704_003_02_851",
+        "create_time": 1704353616152,
+        "episode_in_season": "3",
+        "episode_number": "S10:E03",
+        "external_id": "16384128",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1704446100,
+        "last_update": 1704353616152,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 908,
+        "scheduled_timestamp": 1704446100,
+        "season_number": "10",
+        "serial": 1704353614655,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 908,
+        "show_id": "13854280",
+        "show_timestamp": 1704446100,
+        "status": "estimated",
+        "summary": "Comfort is the enemy.",
+        "title": "Progress",
+        "title_id": "2228724",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "256403_001_02_851",
+        "create_time": 1704353617026,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92366",
+        "franchise_name": null,
+        "genres": [
+            "Animation"
+        ],
+        "guide_timestamp": 1704447000,
+        "last_update": 1704353617026,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Cody Dematteis",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Shane Dering",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Marty Schousboe",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Vanessa Palacios",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704447000,
+        "season_number": "1",
+        "serial": 1704353616623,
+        "series_id": "2348079",
+        "series_name": "Ambient Swim",
+        "show_duration": 1800,
+        "show_id": "13854281",
+        "show_timestamp": 1704447000,
+        "status": "estimated",
+        "summary": "Hand drawn digital animation to spool down your mind.",
+        "title": "Tradigital",
+        "title_id": "2447944",
+        "tv_rating": "TV-14"
     }
 ]
