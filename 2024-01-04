@@ -1275,7 +1275,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704367800,
-        "last_update": 1704368607142,
+        "last_update": 1704372208467,
         "live": false,
         "participants": [
             {
@@ -1316,7 +1316,7 @@
         "scheduled_duration": 850,
         "scheduled_timestamp": 1704367680,
         "season_number": "3",
-        "serial": 1704368606686,
+        "serial": 1704372208165,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 851,
@@ -1735,7 +1735,7 @@
             "Family"
         ],
         "guide_timestamp": 1704371400,
-        "last_update": 1704371359713,
+        "last_update": 1704372225663,
         "live": false,
         "participants": [
             {
@@ -1806,13 +1806,13 @@
         "scheduled_duration": 851,
         "scheduled_timestamp": 1704371340,
         "season_number": "1",
-        "serial": 1704371359312,
+        "serial": 1704372225344,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 851,
+        "show_duration": 853,
         "show_id": "13854216",
         "show_timestamp": 1704371328,
-        "status": "current",
+        "status": "actual",
         "summary": "Marvin the Martian hires The Looney Builders to build a doghouse on Mars for his puppy, K-9. Daffy soon bonds with K-9 and comes up with a plan to prolong their playtime.",
         "title": "K-9: Space Puppy",
         "title_id": "2267168",
@@ -1922,106 +1922,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228558_022_02_851",
-        "create_time": 1704299625786,
-        "episode_in_season": "22",
-        "episode_number": "S1:E22",
-        "external_id": "16384107",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders",
-        "genres": [
-            "Animation",
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1704372300,
-        "last_update": 1704371359714,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 14,
-        "scheduled_duration": 841,
-        "scheduled_timestamp": 1704372180,
-        "season_number": "1",
-        "serial": 1704371359312,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 841,
-        "show_id": "13854217",
-        "show_timestamp": 1704372168,
-        "status": "estimated",
-        "summary": "When Daffy's cool cousin Billy hires The Looney Builders to build her an art studio, Daffy tries to show off to prove how cool he is.",
-        "title": "Cousin Billy",
-        "title_id": "2267187",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228558_022_02_851",
         "create_time": 1704279130848,
         "episode_in_season": "22",
         "episode_number": "S1:E22",
@@ -2113,6 +2013,106 @@
         "show_id": "274436176",
         "show_timestamp": 1704372180,
         "status": "estimated",
+        "summary": "When Daffy's cool cousin Billy hires The Looney Builders to build her an art studio, Daffy tries to show off to prove how cool he is.",
+        "title": "Cousin Billy",
+        "title_id": "2267187",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228558_022_02_851",
+        "create_time": 1704299625786,
+        "episode_in_season": "22",
+        "episode_number": "S1:E22",
+        "external_id": "16384107",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1704372300,
+        "last_update": 1704372225662,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 14,
+        "scheduled_duration": 841,
+        "scheduled_timestamp": 1704372180,
+        "season_number": "1",
+        "serial": 1704372225344,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 828,
+        "show_id": "13854217",
+        "show_timestamp": 1704372181,
+        "status": "current",
         "summary": "When Daffy's cool cousin Billy hires The Looney Builders to build her an art studio, Daffy tries to show off to prove how cool he is.",
         "title": "Cousin Billy",
         "title_id": "2267187",
@@ -2415,7 +2415,7 @@
             "Family"
         ],
         "guide_timestamp": 1704373200,
-        "last_update": 1704371359715,
+        "last_update": 1704372321380,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2424,7 +2424,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704373200,
         "season_number": "1",
-        "serial": 1704371359312,
+        "serial": 1704372321158,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 839,
@@ -2490,7 +2490,7 @@
             "Family"
         ],
         "guide_timestamp": 1704374100,
-        "last_update": 1704371489166,
+        "last_update": 1704372225664,
         "live": false,
         "participants": [
             {
@@ -2536,7 +2536,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704374040,
         "season_number": "1",
-        "serial": 1704371488893,
+        "serial": 1704372225344,
         "series_id": "2267111",
         "series_name": "Batwheels",
         "show_duration": 837,
