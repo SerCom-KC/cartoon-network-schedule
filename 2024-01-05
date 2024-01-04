@@ -507,5 +507,84 @@
         "title": "Stan's Food Restaurant",
         "title_id": "822207",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232842_005_03_851",
+        "create_time": 1704347382305,
+        "episode_in_season": "5",
+        "episode_number": "S6:E05",
+        "external_id": "16384124",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1704439800,
+        "last_update": 1704347382305,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704439800,
+        "season_number": "6",
+        "serial": 1704347381902,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13854276",
+        "show_timestamp": 1704439800,
+        "status": "estimated",
+        "summary": "After an argument between Stan and Francine breaks out, Stan suggests they go see a counselor, who hypnotizes Francine and reawakens her lifelong dream of being a comedian.",
+        "summary_long": "After an argument between Stan and Francine breaks out, Stan suggests they go see a counselor, who hypnotizes Francine and reawakens her lifelong dream of being a comedian. Meanwhile, back in Langley Falls, Steve brings home a potential love interest for Klaus.",
+        "title": "White Rice",
+        "title_id": "748128",
+        "tv_rating": "TV-14"
     }
 ]
