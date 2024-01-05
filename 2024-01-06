@@ -120,5 +120,83 @@
         "title": "Shaketopia",
         "title_id": "2438768",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232842_007_03_851",
+        "create_time": 1704432043146,
+        "episode_in_season": "7",
+        "episode_number": "S6:E07",
+        "external_id": "16384187",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1704524400,
+        "last_update": 1704432043146,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704524400,
+        "season_number": "6",
+        "serial": 1704432042781,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13854344",
+        "show_timestamp": 1704524400,
+        "status": "estimated",
+        "summary": "Stan serves as jury foreman for the trial of one of Roger's personae, and he is hell-bent on making sure the jury finds him guilty.",
+        "title": "The People Vs. Martin Sugar",
+        "title_id": "822209",
+        "tv_rating": "TV-14"
     }
 ]
