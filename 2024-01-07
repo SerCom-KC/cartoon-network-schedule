@@ -185,5 +185,108 @@
         "title": "Darkness Before the Dawn",
         "title_id": "2267333",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229014_006_02_851",
+        "create_time": 1704524391168,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "16384244",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Genndy Tartakovsky's Primal",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1704616200,
+        "last_update": 1704524391168,
+        "live": false,
+        "participants": [
+            {
+                "character": "Spear",
+                "name": "Aaron LaPlante",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Darrick Bachman",
+                "role": "Writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1704616200,
+        "season_number": "1",
+        "serial": 1704524390667,
+        "series_id": "2211157",
+        "series_name": "Genndy Tartakovsky's Primal",
+        "show_duration": 1801,
+        "show_id": "13854401",
+        "show_timestamp": 1704616200,
+        "status": "estimated",
+        "summary": "Spear struggles to nurse Fang back to health and escape the scavengers of the primordial world.",
+        "title": "Scent of Prey",
+        "title_id": "2211163",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233074_012_01_851",
+        "create_time": 1704524601154,
+        "episode_in_season": "12",
+        "episode_number": "S9:E11",
+        "external_id": "16384245",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1704618000,
+        "last_update": 1704524601154,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704618000,
+        "season_number": "9",
+        "serial": 1704524600666,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "13854402",
+        "show_timestamp": 1704618000,
+        "status": "estimated",
+        "summary": "The crew stages a casino heist to recover stolen property from the Robot Mafia.",
+        "title": "Viva Mars Vegas",
+        "title_id": "2161657",
+        "tv_rating": "TV-14"
     }
 ]
