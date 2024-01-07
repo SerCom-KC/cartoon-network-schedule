@@ -798,5 +798,95 @@
         "title": "First 12",
         "title_id": "2224137",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252041_001_02_851",
+        "create_time": 1704612668191,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16387793",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1704705300,
+        "last_update": 1704612668191,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Pete Michels",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Brian Wysol",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1704705300,
+        "season_number": "1",
+        "serial": 1704612667834,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "show_duration": 900,
+        "show_id": "13857073",
+        "show_timestamp": 1704705300,
+        "status": "estimated",
+        "summary": "Jen grows an umbilical cord. Branski talks about apples. Also, there's mummies.",
+        "title": "Got a Minute for Love?",
+        "title_id": "2131833",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233394_001_01_851",
+        "create_time": 1704612668191,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16387794",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Momma Named Me Sheriff",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1704706200,
+        "last_update": 1704612668191,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1704706200,
+        "season_number": "1",
+        "serial": 1704612667834,
+        "series_id": "2196566",
+        "series_name": "Momma Named Me Sheriff",
+        "show_duration": 901,
+        "show_id": "13857074",
+        "show_timestamp": 1704706200,
+        "status": "estimated",
+        "summary": "When Floyd eats Sheriff's hat, Sheriff becomes convinced that nobody will respect his authority without it.",
+        "title": "Hats",
+        "title_id": "2196567",
+        "tv_rating": "TV-MA"
     }
 ]
