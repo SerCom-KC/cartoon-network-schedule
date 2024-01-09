@@ -841,5 +841,110 @@
         "title": "Liminal",
         "title_id": "2321724",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "256404_002_02_851",
+        "create_time": 1704787936664,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92366",
+        "franchise_name": null,
+        "genres": [
+            "Animation"
+        ],
+        "guide_timestamp": 1704879000,
+        "last_update": 1704787936664,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Cody Dematteis",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Shane Dering",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Marty Schousboe",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Vanessa Palacios",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704879000,
+        "season_number": "2",
+        "serial": 1704787936157,
+        "series_id": "2348079",
+        "series_name": "Ambient Swim",
+        "show_duration": 1800,
+        "show_id": "13854605",
+        "show_timestamp": 1704879000,
+        "status": "estimated",
+        "summary": "A hidden oasis emerges. Seek refuge amidst water and concrete.",
+        "title": "Brutal Garden",
+        "title_id": "2447951",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250265_012_02_851",
+        "create_time": 1704787936664,
+        "episode_in_season": "12",
+        "episode_number": "S11:E12",
+        "external_id": "16384444",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1704880800,
+        "last_update": 1704787936664,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1704880800,
+        "season_number": "11",
+        "serial": 1704787936157,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1806,
+        "show_id": "13854606",
+        "show_timestamp": 1704880800,
+        "status": "estimated",
+        "summary": "Linda wants the perfect family picture.",
+        "summary_long": "Linda drags Bob and the kids out into nature, determined to take the best holiday family portrait ever.",
+        "title": "Die Card, or Card Trying",
+        "title_id": "2438972",
+        "tv_rating": "TV-PG"
     }
 ]
