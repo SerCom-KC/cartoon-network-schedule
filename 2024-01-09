@@ -772,7 +772,7 @@
             "Travel"
         ],
         "guide_timestamp": 1704792600,
-        "last_update": 1704794430514,
+        "last_update": 1704798034461,
         "live": false,
         "participants": [
             {
@@ -802,7 +802,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1704792600,
         "season_number": "2",
-        "serial": 1704794430340,
+        "serial": 1704798034245,
         "series_id": "2348079",
         "series_name": "Ambient Swim",
         "show_duration": 1785,
@@ -879,7 +879,7 @@
             "Family"
         ],
         "guide_timestamp": 1704796200,
-        "last_update": 1704796330927,
+        "last_update": 1704798003692,
         "live": false,
         "participants": [
             {
@@ -895,13 +895,13 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1704796200,
         "season_number": "12",
-        "serial": 1704796330695,
+        "serial": 1704798003510,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1769,
         "show_id": "13854534",
         "show_timestamp": 1704796231,
-        "status": "current",
+        "status": "actual",
         "summary": "The Belchers try to build a loft bed.",
         "summary_long": "Linda and the girls attempt to build a loft bed for Louise in just one day. Meanwhile, Bob and Gene host a group of gamers and their tabletop role-playing game.",
         "title": "Loft in Bedslation",
@@ -995,7 +995,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704798000,
-        "last_update": 1704730184549,
+        "last_update": 1704798843402,
         "live": false,
         "participants": [
             {
@@ -1036,16 +1036,86 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704798000,
         "season_number": "4",
-        "serial": 1704730184184,
+        "serial": 1704798842570,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 840,
+        "show_duration": 820,
         "show_id": "13854535",
-        "show_timestamp": 1704798000,
-        "status": "estimated",
+        "show_timestamp": 1704798011,
+        "status": "actual",
         "summary": "Gumball develops a strange stutter, and it makes him accidentally offend Darwin.",
         "title": "The Signal",
         "title_id": "2074670",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228427_025_03_851",
+        "create_time": 1704730184588,
+        "episode_in_season": "25",
+        "episode_number": "S4:E25",
+        "external_id": "16384376",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1704798900,
+        "last_update": 1704798853428,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 14,
+        "scheduled_duration": 845,
+        "scheduled_timestamp": 1704798840,
+        "season_number": "4",
+        "serial": 1704798853197,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 845,
+        "show_id": "13854536",
+        "show_timestamp": 1704798831,
+        "status": "current",
+        "summary": "Anais has made a new friend, but Gumball and Darwin aren't sure their relationship is equal.",
+        "title": "The Parasite",
+        "title_id": "2074672",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1121,11 +1191,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228427_025_03_851",
-        "create_time": 1704730184588,
-        "episode_in_season": "25",
-        "episode_number": "S4:E25",
-        "external_id": "16384376",
+        "content_id": "228427_026_03_851",
+        "create_time": 1704730184589,
+        "episode_in_season": "26",
+        "episode_number": "S4:E26",
+        "external_id": "16384377",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -1134,8 +1204,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704798900,
-        "last_update": 1704730184588,
+        "guide_timestamp": 1704799800,
+        "last_update": 1704798853429,
         "live": false,
         "participants": [
             {
@@ -1173,19 +1243,19 @@
         "press_hold": false,
         "release_year": 2016,
         "runtime_minutes": 14,
-        "scheduled_duration": 845,
-        "scheduled_timestamp": 1704798840,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1704799680,
         "season_number": "4",
-        "serial": 1704730184184,
+        "serial": 1704798853197,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 845,
-        "show_id": "13854536",
-        "show_timestamp": 1704798840,
+        "show_duration": 835,
+        "show_id": "13854537",
+        "show_timestamp": 1704799671,
         "status": "estimated",
-        "summary": "Anais has made a new friend, but Gumball and Darwin aren't sure their relationship is equal.",
-        "title": "The Parasite",
-        "title_id": "2074672",
+        "summary": "The residents of Elmore search for the meaning of love.",
+        "title": "The Love",
+        "title_id": "2074673",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1261,11 +1331,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228427_026_03_851",
+        "content_id": "228427_027_03_851",
         "create_time": 1704730184589,
-        "episode_in_season": "26",
-        "episode_number": "S4:E26",
-        "external_id": "16384377",
+        "episode_in_season": "27",
+        "episode_number": "S4:E27",
+        "external_id": "16384378",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -1274,8 +1344,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704799800,
-        "last_update": 1704730184589,
+        "guide_timestamp": 1704800400,
+        "last_update": 1704798853431,
         "live": false,
         "participants": [
             {
@@ -1313,19 +1383,19 @@
         "press_hold": false,
         "release_year": 2016,
         "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1704799680,
+        "scheduled_duration": 865,
+        "scheduled_timestamp": 1704800520,
         "season_number": "4",
-        "serial": 1704730184184,
+        "serial": 1704798853197,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 840,
-        "show_id": "13854537",
-        "show_timestamp": 1704799680,
+        "show_duration": 865,
+        "show_id": "13854538",
+        "show_timestamp": 1704800514,
         "status": "estimated",
-        "summary": "The residents of Elmore search for the meaning of love.",
-        "title": "The Love",
-        "title_id": "2074673",
+        "summary": "Gumball is walking in the same direction as Hot Dog Guy, and with each step it becomes increasingly awkward.",
+        "title": "The Awkwardness",
+        "title_id": "2074675",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1401,72 +1471,40 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228427_027_03_851",
-        "create_time": 1704730184589,
-        "episode_in_season": "27",
-        "episode_number": "S4:E27",
-        "external_id": "16384378",
+        "content_id": "233136_005_01_851",
+        "create_time": 1704730184590,
+        "episode_in_season": "5",
+        "episode_number": "05",
+        "external_id": "16384379",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
+        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704800400,
-        "last_update": 1704730184589,
+        "guide_timestamp": 1704801300,
+        "last_update": 1704798853465,
         "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 14,
-        "scheduled_duration": 865,
-        "scheduled_timestamp": 1704800520,
-        "season_number": "4",
-        "serial": 1704730184184,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 865,
-        "show_id": "13854538",
-        "show_timestamp": 1704800520,
+        "release_year": 2017,
+        "runtime_minutes": 4,
+        "scheduled_duration": 240,
+        "scheduled_timestamp": 1704801360,
+        "season_number": "1",
+        "serial": 1704798853197,
+        "series_id": "2118583",
+        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
+        "show_duration": 212,
+        "show_id": "13854539",
+        "show_timestamp": 1704801358,
         "status": "estimated",
-        "summary": "Gumball is walking in the same direction as Hot Dog Guy, and with each step it becomes increasingly awkward.",
-        "title": "The Awkwardness",
-        "title_id": "2074675",
-        "tv_rating": "TV-Y7-FV"
+        "summary": "Ivandoe and Bert get captured and tied up by a very intense forest survivalist who happens to be \u2026. a pink poodle. Bert figures out a way to escape using the poodle's canine instincts\u2026",
+        "title": "The Prince and the Pretty Poodle",
+        "title_id": "2118586",
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -1509,40 +1547,52 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "233136_005_01_851",
-        "create_time": 1704730184590,
-        "episode_in_season": "5",
-        "episode_number": "05",
-        "external_id": "16384379",
+        "content_id": "235002_006_02_851",
+        "create_time": 1704730185484,
+        "episode_in_season": "6",
+        "episode_number": "S2:E06",
+        "external_id": "16384380",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "franchise_name": "Looney Tunes Show, The",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704801300,
-        "last_update": 1704730184590,
+        "guide_timestamp": 1704801600,
+        "last_update": 1704798853466,
         "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 4,
-        "scheduled_duration": 240,
-        "scheduled_timestamp": 1704801360,
-        "season_number": "1",
-        "serial": 1704730184184,
-        "series_id": "2118583",
-        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
-        "show_duration": 240,
-        "show_id": "13854539",
-        "show_timestamp": 1704801360,
+        "release_year": 2012,
+        "runtime_minutes": 29,
+        "scheduled_duration": 1751,
+        "scheduled_timestamp": 1704801600,
+        "season_number": "2",
+        "serial": 1704798853197,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1751,
+        "show_id": "13854540",
+        "show_timestamp": 1704801598,
         "status": "estimated",
-        "summary": "Ivandoe and Bert get captured and tied up by a very intense forest survivalist who happens to be \u2026. a pink poodle. Bert figures out a way to escape using the poodle's canine instincts\u2026",
-        "title": "The Prince and the Pretty Poodle",
-        "title_id": "2118586",
-        "tv_rating": "TV-Y7"
+        "summary": "Volunteering in the Father Figure Program, Porky is matched up with the troubled Henery Hawk, and Foghorn is paired up with Daffy, who may have lied about his age.",
+        "title": "Father Figures",
+        "title_id": "883440",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -1597,52 +1647,102 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235002_006_02_851",
-        "create_time": 1704730185484,
-        "episode_in_season": "6",
-        "episode_number": "S2:E06",
-        "external_id": "16384380",
+        "content_id": "228558_027_02_851",
+        "create_time": 1704730185518,
+        "episode_in_season": "27",
+        "episode_number": "S1:E27",
+        "external_id": "16384381",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Looney Tunes Show, The",
+        "franchise_name": "Bugs Bunny Builders",
         "genres": [
             "Animation",
             "Children",
-            "Comedy"
+            "Family"
         ],
-        "guide_timestamp": 1704801600,
-        "last_update": 1704730185484,
+        "guide_timestamp": 1704803400,
+        "last_update": 1704798853467,
         "live": false,
         "participants": [
             {
                 "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
+                "name": "Eric Bauza",
                 "role": "Voice"
             },
             {
                 "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
                 "name": "Jeff Bergman",
                 "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2012,
-        "runtime_minutes": 29,
-        "scheduled_duration": 1751,
-        "scheduled_timestamp": 1704801600,
-        "season_number": "2",
-        "serial": 1704730184903,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1751,
-        "show_id": "13854540",
-        "show_timestamp": 1704801600,
+        "release_year": 2021,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1704803340,
+        "season_number": "1",
+        "serial": 1704798853197,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 836,
+        "show_id": "13854541",
+        "show_timestamp": 1704803339,
         "status": "estimated",
-        "summary": "Volunteering in the Father Figure Program, Porky is matched up with the troubled Henery Hawk, and Foghorn is paired up with Daffy, who may have lied about his age.",
-        "title": "Father Figures",
-        "title_id": "883440",
-        "tv_rating": "TV-PG"
+        "summary": "The Looney Builders build a party boat for Mac and Tosh when Tweety accidentally makes a mistake but doesn't ask for help.",
+        "title": "Party Boat",
+        "title_id": "2267192",
+        "tv_rating": "TV-Y"
     },
     {
         "blackout_type": "none",
@@ -1737,106 +1837,6 @@
         "series_name": "Bugs Bunny Builders",
         "show_duration": 840,
         "show_id": "274456646",
-        "show_timestamp": 1704803340,
-        "status": "estimated",
-        "summary": "The Looney Builders build a party boat for Mac and Tosh when Tweety accidentally makes a mistake but doesn't ask for help.",
-        "title": "Party Boat",
-        "title_id": "2267192",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228558_027_02_851",
-        "create_time": 1704730185518,
-        "episode_in_season": "27",
-        "episode_number": "S1:E27",
-        "external_id": "16384381",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders",
-        "genres": [
-            "Animation",
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1704803400,
-        "last_update": 1704730185518,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1704803340,
-        "season_number": "1",
-        "serial": 1704730184903,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 840,
-        "show_id": "13854541",
         "show_timestamp": 1704803340,
         "status": "estimated",
         "summary": "The Looney Builders build a party boat for Mac and Tosh when Tweety accidentally makes a mistake but doesn't ask for help.",
@@ -2201,7 +2201,7 @@
             "Family"
         ],
         "guide_timestamp": 1704804900,
-        "last_update": 1704730185519,
+        "last_update": 1704798061713,
         "live": false,
         "participants": [
             {
@@ -2312,10 +2312,10 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1704805020,
         "season_number": "3",
-        "serial": 1704730184903,
+        "serial": 1704798061475,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
-        "show_duration": 180,
+        "show_duration": 149,
         "show_id": "13857417",
         "show_timestamp": 1704805020,
         "status": "estimated",
@@ -2490,7 +2490,7 @@
             "Family"
         ],
         "guide_timestamp": 1704806100,
-        "last_update": 1704730185519,
+        "last_update": 1704798062286,
         "live": false,
         "participants": [
             {
@@ -2536,10 +2536,10 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704806040,
         "season_number": "1",
-        "serial": 1704730184903,
+        "serial": 1704798062100,
         "series_id": "2267111",
         "series_name": "Batwheels",
-        "show_duration": 840,
+        "show_duration": 833,
         "show_id": "13854545",
         "show_timestamp": 1704806040,
         "status": "estimated",
@@ -2855,7 +2855,7 @@
             "Family"
         ],
         "guide_timestamp": 1704808500,
-        "last_update": 1704730185520,
+        "last_update": 1704798062328,
         "live": false,
         "participants": [
             {
@@ -2966,10 +2966,10 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1704808620,
         "season_number": "3",
-        "serial": 1704730184903,
+        "serial": 1704798062100,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
-        "show_duration": 180,
+        "show_duration": 148,
         "show_id": "13857418",
         "show_timestamp": 1704808620,
         "status": "estimated",
