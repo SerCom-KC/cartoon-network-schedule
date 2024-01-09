@@ -448,5 +448,83 @@
         "title": "A Ward Show",
         "title_id": "748154",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232852_004_03_851",
+        "create_time": 1704776444381,
+        "episode_in_season": "4",
+        "episode_number": "S7:E04",
+        "external_id": "16384438",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1704870000,
+        "last_update": 1704776444381,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1704870000,
+        "season_number": "7",
+        "serial": 1704776444113,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1806,
+        "show_id": "13854599",
+        "show_timestamp": 1704870000,
+        "status": "estimated",
+        "summary": "Stan arranges for Principal Lewis to marry Superintendent Riggs so he can finally be a best man at a wedding; Roger's new shorts attract the interest of Ricky Martin.",
+        "title": "The Worst Stan",
+        "title_id": "748164",
+        "tv_rating": "TV-14"
     }
 ]
