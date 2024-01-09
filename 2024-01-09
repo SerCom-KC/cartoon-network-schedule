@@ -3615,7 +3615,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1704814200,
-        "last_update": 1704816017612,
+        "last_update": 1704819629410,
         "live": false,
         "participants": [
             {
@@ -3646,7 +3646,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1704814200,
         "season_number": "1",
-        "serial": 1704816017426,
+        "serial": 1704819629159,
         "series_id": "2168685",
         "series_name": "Scooby-Doo and Guess Who?",
         "show_duration": 1799,
@@ -3746,7 +3746,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704816000,
-        "last_update": 1704816903932,
+        "last_update": 1704820510413,
         "live": false,
         "participants": [
             {
@@ -3787,7 +3787,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1704816000,
         "season_number": "4",
-        "serial": 1704816903688,
+        "serial": 1704820510056,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 896,
@@ -4170,7 +4170,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704818700,
-        "last_update": 1704818762466,
+        "last_update": 1704819645527,
         "live": false,
         "participants": [
             {
@@ -4211,13 +4211,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1704818700,
         "season_number": "4",
-        "serial": 1704818762257,
+        "serial": 1704819645190,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 890,
+        "show_duration": 895,
         "show_id": "13854558",
         "show_timestamp": 1704818704,
-        "status": "current",
+        "status": "actual",
         "summary": "When Darwin taunts Gumball about how predictable he is, Gumball tries to prove he can still surprise his buddy. He thinks greeting a kid he barely knows with a hug will do the trick.",
         "summary_long": "When Darwin taunts Gumball about how predictable he is, Gumball tries to prove he can still surprise his buddy. He thinks greeting a kid he barely knows with a hug will do the trick. He's right but doesn't see the awkward social repercussions of the hug coming.",
         "title": "The Hug",
@@ -4241,7 +4241,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704819600,
-        "last_update": 1704818807876,
+        "last_update": 1704820510413,
         "live": false,
         "participants": [
             {
@@ -4262,13 +4262,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1704819600,
         "season_number": "1",
-        "serial": 1704818807583,
+        "serial": 1704820510056,
         "series_id": "2133648",
         "series_name": "Apple & Onion",
-        "show_duration": 900,
+        "show_duration": 901,
         "show_id": "13854559",
         "show_timestamp": 1704819599,
-        "status": "estimated",
+        "status": "actual",
         "summary": "Apple and Onion have to find a way to ride the Hot Air Balloon which is in their town for one day only.",
         "title": "Tips",
         "title_id": "2141429",
@@ -4391,7 +4391,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704820500,
-        "last_update": 1704730186657,
+        "last_update": 1704820510412,
         "live": false,
         "participants": [
             {
@@ -4412,17 +4412,77 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1704820500,
         "season_number": "1",
-        "serial": 1704730186215,
+        "serial": 1704820510056,
         "series_id": "2133648",
         "series_name": "Apple & Onion",
-        "show_duration": 901,
+        "show_duration": 900,
         "show_id": "13854560",
         "show_timestamp": 1704820500,
-        "status": "estimated",
+        "status": "current",
         "summary": "When Falafel decides to pack up and leave the city, Apple and Onion have to convince him to stay or they'll have to leave too.",
         "title": "Falafel's Fun Day",
         "title_id": "2142247",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228556_021_02_851",
+        "create_time": 1704730186657,
+        "episode_in_season": "21",
+        "episode_number": "S1:E21",
+        "external_id": "16384401",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Clarence",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1704821400,
+        "last_update": 1704819678060,
+        "live": false,
+        "participants": [
+            {
+                "character": "Clarence Wendle",
+                "name": "Skyler Page",
+                "role": "Voice"
+            },
+            {
+                "character": "Jeff Randell",
+                "name": "Sean Giambrone",
+                "role": "Voice"
+            },
+            {
+                "character": "Sumo",
+                "name": "Tom Kenny",
+                "role": "Voice"
+            },
+            {
+                "character": "Mary Wendle",
+                "name": "Katie Crown",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 11,
+        "scheduled_duration": 909,
+        "scheduled_timestamp": 1704821400,
+        "season_number": "1",
+        "serial": 1704819677806,
+        "series_id": "2012957",
+        "series_name": "Clarence",
+        "show_duration": 909,
+        "show_id": "13854561",
+        "show_timestamp": 1704821399,
+        "status": "estimated",
+        "summary": "Clarence is so troubled by the sight of his teacher in a social setting outside of school, he can't stop himself from intruding on her doomed blind date.",
+        "title": "Neighborhood Grill",
+        "title_id": "2012964",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -4477,66 +4537,6 @@
         "series_name": "Clarence",
         "show_duration": 900,
         "show_id": "274456846",
-        "show_timestamp": 1704821400,
-        "status": "estimated",
-        "summary": "Clarence is so troubled by the sight of his teacher in a social setting outside of school, he can't stop himself from intruding on her doomed blind date.",
-        "title": "Neighborhood Grill",
-        "title_id": "2012964",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228556_021_02_851",
-        "create_time": 1704730186657,
-        "episode_in_season": "21",
-        "episode_number": "S1:E21",
-        "external_id": "16384401",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Clarence",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1704821400,
-        "last_update": 1704730186657,
-        "live": false,
-        "participants": [
-            {
-                "character": "Clarence Wendle",
-                "name": "Skyler Page",
-                "role": "Voice"
-            },
-            {
-                "character": "Jeff Randell",
-                "name": "Sean Giambrone",
-                "role": "Voice"
-            },
-            {
-                "character": "Sumo",
-                "name": "Tom Kenny",
-                "role": "Voice"
-            },
-            {
-                "character": "Mary Wendle",
-                "name": "Katie Crown",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2014,
-        "runtime_minutes": 11,
-        "scheduled_duration": 909,
-        "scheduled_timestamp": 1704821400,
-        "season_number": "1",
-        "serial": 1704730186215,
-        "series_id": "2012957",
-        "series_name": "Clarence",
-        "show_duration": 909,
-        "show_id": "13854561",
         "show_timestamp": 1704821400,
         "status": "estimated",
         "summary": "Clarence is so troubled by the sight of his teacher in a social setting outside of school, he can't stop himself from intruding on her doomed blind date.",
