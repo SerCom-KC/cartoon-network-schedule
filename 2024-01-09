@@ -879,7 +879,7 @@
             "Family"
         ],
         "guide_timestamp": 1704796200,
-        "last_update": 1704798003692,
+        "last_update": 1704801605728,
         "live": false,
         "participants": [
             {
@@ -895,7 +895,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1704796200,
         "season_number": "12",
-        "serial": 1704798003510,
+        "serial": 1704801605286,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1769,
@@ -995,7 +995,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704798000,
-        "last_update": 1704798843402,
+        "last_update": 1704802446348,
         "live": false,
         "participants": [
             {
@@ -1036,7 +1036,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704798000,
         "season_number": "4",
-        "serial": 1704798842570,
+        "serial": 1704802445995,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 820,
@@ -1065,7 +1065,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704798900,
-        "last_update": 1704799688565,
+        "last_update": 1704803293168,
         "live": false,
         "participants": [
             {
@@ -1106,7 +1106,7 @@
         "scheduled_duration": 845,
         "scheduled_timestamp": 1704798840,
         "season_number": "4",
-        "serial": 1704799688258,
+        "serial": 1704803292833,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 846,
@@ -1345,7 +1345,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704800400,
-        "last_update": 1704800538870,
+        "last_update": 1704801392894,
         "live": false,
         "participants": [
             {
@@ -1386,13 +1386,13 @@
         "scheduled_duration": 865,
         "scheduled_timestamp": 1704800520,
         "season_number": "4",
-        "serial": 1704800538571,
+        "serial": 1704801392509,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 870,
+        "show_duration": 866,
         "show_id": "13854538",
         "show_timestamp": 1704800512,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball is walking in the same direction as Hot Dog Guy, and with each step it becomes increasingly awkward.",
         "title": "The Awkwardness",
         "title_id": "2074675",
@@ -1472,44 +1472,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "233136_005_01_851",
-        "create_time": 1704730184590,
-        "episode_in_season": "5",
-        "episode_number": "05",
-        "external_id": "16384379",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1704801300,
-        "last_update": 1704800561028,
-        "live": false,
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 4,
-        "scheduled_duration": 240,
-        "scheduled_timestamp": 1704801360,
-        "season_number": "1",
-        "serial": 1704800560628,
-        "series_id": "2118583",
-        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
-        "show_duration": 212,
-        "show_id": "13854539",
-        "show_timestamp": 1704801357,
-        "status": "estimated",
-        "summary": "Ivandoe and Bert get captured and tied up by a very intense forest survivalist who happens to be \u2026. a pink poodle. Bert figures out a way to escape using the poodle's canine instincts\u2026",
-        "title": "The Prince and the Pretty Poodle",
-        "title_id": "2118586",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "233136_005_01_851",
         "create_time": 1704708663588,
         "episode_in_season": "5",
         "episode_number": "05",
@@ -1547,6 +1509,44 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "233136_005_01_851",
+        "create_time": 1704730184590,
+        "episode_in_season": "5",
+        "episode_number": "05",
+        "external_id": "16384379",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1704801300,
+        "last_update": 1704801622304,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 4,
+        "scheduled_duration": 240,
+        "scheduled_timestamp": 1704801360,
+        "season_number": "1",
+        "serial": 1704801621876,
+        "series_id": "2118583",
+        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
+        "show_duration": 211,
+        "show_id": "13854539",
+        "show_timestamp": 1704801378,
+        "status": "actual",
+        "summary": "Ivandoe and Bert get captured and tied up by a very intense forest survivalist who happens to be \u2026. a pink poodle. Bert figures out a way to escape using the poodle's canine instincts\u2026",
+        "title": "The Prince and the Pretty Poodle",
+        "title_id": "2118586",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "235002_006_02_851",
         "create_time": 1704730185484,
         "episode_in_season": "6",
@@ -1561,7 +1561,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704801600,
-        "last_update": 1704800561029,
+        "last_update": 1704803373934,
         "live": false,
         "participants": [
             {
@@ -1582,13 +1582,13 @@
         "scheduled_duration": 1751,
         "scheduled_timestamp": 1704801600,
         "season_number": "2",
-        "serial": 1704800560628,
+        "serial": 1704803373445,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
-        "show_duration": 1751,
+        "show_duration": 1752,
         "show_id": "13854540",
-        "show_timestamp": 1704801597,
-        "status": "estimated",
+        "show_timestamp": 1704801589,
+        "status": "actual",
         "summary": "Volunteering in the Father Figure Program, Porky is matched up with the troubled Henery Hawk, and Foghorn is paired up with Daffy, who may have lied about his age.",
         "title": "Father Figures",
         "title_id": "883440",
@@ -1643,106 +1643,6 @@
         "title": "Father Figures",
         "title_id": "883440",
         "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228558_027_02_851",
-        "create_time": 1704730185518,
-        "episode_in_season": "27",
-        "episode_number": "S1:E27",
-        "external_id": "16384381",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders",
-        "genres": [
-            "Animation",
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1704803400,
-        "last_update": 1704800561029,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1704803340,
-        "season_number": "1",
-        "serial": 1704800560628,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 836,
-        "show_id": "13854541",
-        "show_timestamp": 1704803339,
-        "status": "estimated",
-        "summary": "The Looney Builders build a party boat for Mac and Tosh when Tweety accidentally makes a mistake but doesn't ask for help.",
-        "title": "Party Boat",
-        "title_id": "2267192",
-        "tv_rating": "TV-Y"
     },
     {
         "blackout_type": "none",
@@ -1847,11 +1747,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228558_028_02_851",
+        "content_id": "228558_027_02_851",
         "create_time": 1704730185518,
-        "episode_in_season": "28",
-        "episode_number": "S1:E32",
-        "external_id": "16384382",
+        "episode_in_season": "27",
+        "episode_number": "S1:E27",
+        "external_id": "16384381",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Bugs Bunny Builders",
@@ -1860,8 +1760,8 @@
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1704804300,
-        "last_update": 1704800561029,
+        "guide_timestamp": 1704803400,
+        "last_update": 1704803373933,
         "live": false,
         "participants": [
             {
@@ -1929,19 +1829,19 @@
         "press_hold": false,
         "release_year": 2021,
         "runtime_minutes": 14,
-        "scheduled_duration": 866,
-        "scheduled_timestamp": 1704804180,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1704803340,
         "season_number": "1",
-        "serial": 1704800560628,
+        "serial": 1704803373445,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 866,
-        "show_id": "13854542",
-        "show_timestamp": 1704804179,
-        "status": "estimated",
-        "summary": "The Looney Builders build a skate park for the kids, but it soon interferes with Hoots Talon and his friends' activities.",
-        "title": "Skate Park",
-        "title_id": "2267185",
+        "show_duration": 845,
+        "show_id": "13854541",
+        "show_timestamp": 1704803341,
+        "status": "current",
+        "summary": "The Looney Builders build a party boat for Mac and Tosh when Tweety accidentally makes a mistake but doesn't ask for help.",
+        "title": "Party Boat",
+        "title_id": "2267192",
         "tv_rating": "TV-Y"
     },
     {
@@ -2038,6 +1938,106 @@
         "show_duration": 840,
         "show_id": "274456656",
         "show_timestamp": 1704804180,
+        "status": "estimated",
+        "summary": "The Looney Builders build a skate park for the kids, but it soon interferes with Hoots Talon and his friends' activities.",
+        "title": "Skate Park",
+        "title_id": "2267185",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228558_028_02_851",
+        "create_time": 1704730185518,
+        "episode_in_season": "28",
+        "episode_number": "S1:E32",
+        "external_id": "16384382",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1704804300,
+        "last_update": 1704801392895,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 14,
+        "scheduled_duration": 866,
+        "scheduled_timestamp": 1704804180,
+        "season_number": "1",
+        "serial": 1704801392509,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 866,
+        "show_id": "13854542",
+        "show_timestamp": 1704804187,
         "status": "estimated",
         "summary": "The Looney Builders build a skate park for the kids, but it soon interferes with Hoots Talon and his friends' activities.",
         "title": "Skate Park",
@@ -2201,7 +2201,7 @@
             "Family"
         ],
         "guide_timestamp": 1704804900,
-        "last_update": 1704798061713,
+        "last_update": 1704801392895,
         "live": false,
         "participants": [
             {
@@ -2312,12 +2312,12 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1704805020,
         "season_number": "3",
-        "serial": 1704798061475,
+        "serial": 1704801392509,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
         "show_duration": 149,
         "show_id": "13857417",
-        "show_timestamp": 1704805020,
+        "show_timestamp": 1704805023,
         "status": "estimated",
         "summary": "Mei and Ella do some stargazing. They see a bear, a giraffe, a dolphin and an eagle in the sky!",
         "title": "Stargazing Lullaby",
@@ -2379,7 +2379,7 @@
             "Family"
         ],
         "guide_timestamp": 1704805200,
-        "last_update": 1704730185519,
+        "last_update": 1704801392896,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2388,12 +2388,12 @@
         "scheduled_duration": 847,
         "scheduled_timestamp": 1704805200,
         "season_number": "1",
-        "serial": 1704730184903,
+        "serial": 1704801392509,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 847,
         "show_id": "13854544",
-        "show_timestamp": 1704805200,
+        "show_timestamp": 1704805202,
         "status": "estimated",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "Shadow Puppets/ Numbers Song with Little Chicks/ Ski Song/ Itsy Bitsy Spider (Birdie Edition)",
@@ -2490,7 +2490,7 @@
             "Family"
         ],
         "guide_timestamp": 1704806100,
-        "last_update": 1704798062286,
+        "last_update": 1704801392897,
         "live": false,
         "participants": [
             {
@@ -2536,12 +2536,12 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704806040,
         "season_number": "1",
-        "serial": 1704798062100,
+        "serial": 1704801392509,
         "series_id": "2267111",
         "series_name": "Batwheels",
         "show_duration": 833,
         "show_id": "13854545",
-        "show_timestamp": 1704806040,
+        "show_timestamp": 1704806041,
         "status": "estimated",
         "summary": "When the Legion of Zoom plan to cheat their way to winning the Gotham Grand Prix, the Batwheels zoom into action to emsure the race is won the right way, fair and square !",
         "title": "Batty Race",
