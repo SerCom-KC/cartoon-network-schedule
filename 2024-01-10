@@ -918,7 +918,7 @@
             "Family"
         ],
         "guide_timestamp": 1704880800,
-        "last_update": 1704882612659,
+        "last_update": 1704886216741,
         "live": false,
         "participants": [
             {
@@ -934,7 +934,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1704880800,
         "season_number": "11",
-        "serial": 1704882612450,
+        "serial": 1704886216531,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1801,
@@ -1151,7 +1151,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704885300,
-        "last_update": 1704885249362,
+        "last_update": 1704886123417,
         "live": false,
         "participants": [
             {
@@ -1192,13 +1192,13 @@
         "scheduled_duration": 850,
         "scheduled_timestamp": 1704885240,
         "season_number": "4",
-        "serial": 1704885249077,
+        "serial": 1704886123152,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 850,
         "show_id": "13854609",
         "show_timestamp": 1704885232,
-        "status": "current",
+        "status": "actual",
         "summary": "A breaking news report tells the Wattersons that their neighbor is among the several mysterious disappearances happening across Elmore.",
         "summary_long": "A breaking news report tells the Wattersons that their neighbor is among the several mysterious disappearances happening across Elmore. Their search for clues leads them to find a strange egg, which they soon discover belongs to their own Evil Turtle. The family realize it's their responsibility to track down their pet before she and her brood do more damage to the town.",
         "title": "The Nest",
@@ -1280,77 +1280,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228427_029_03_851",
-        "create_time": 1704816767320,
-        "episode_in_season": "29",
-        "episode_number": "S4:E29",
-        "external_id": "16384448",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1704886200,
-        "last_update": 1704885249363,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1704886080,
-        "season_number": "4",
-        "serial": 1704885249077,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 835,
-        "show_id": "13854610",
-        "show_timestamp": 1704886072,
-        "status": "estimated",
-        "summary": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek.",
-        "summary_long": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek. Tobias admits he earns good points doing chores for his parents, which he then exchanges for dollars to buy cool stuff for Galatrek. If Gumball and Darwin do Tobias' chores they can earn his good points and use them for Galatrek. Gumball and Darwin think they've hit the jackpot. But these good points may not be quite as good as Tobias claims.",
-        "title": "The Points",
-        "title_id": "2074677",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228427_029_03_851",
         "create_time": 1704794927780,
         "episode_in_season": "29",
         "episode_number": "S4:E29",
@@ -1421,6 +1350,77 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "228427_029_03_851",
+        "create_time": 1704816767320,
+        "episode_in_season": "29",
+        "episode_number": "S4:E29",
+        "external_id": "16384448",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1704886200,
+        "last_update": 1704886123417,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1704886080,
+        "season_number": "4",
+        "serial": 1704886123152,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 825,
+        "show_id": "13854610",
+        "show_timestamp": 1704886082,
+        "status": "current",
+        "summary": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek.",
+        "summary_long": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek. Tobias admits he earns good points doing chores for his parents, which he then exchanges for dollars to buy cool stuff for Galatrek. If Gumball and Darwin do Tobias' chores they can earn his good points and use them for Galatrek. Gumball and Darwin think they've hit the jackpot. But these good points may not be quite as good as Tobias claims.",
+        "title": "The Points",
+        "title_id": "2074677",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "228427_030_03_851",
         "create_time": 1704816767320,
         "episode_in_season": "30",
@@ -1435,7 +1435,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704886800,
-        "last_update": 1704885249400,
+        "last_update": 1704886330170,
         "live": false,
         "participants": [
             {
@@ -1476,7 +1476,7 @@
         "scheduled_duration": 865,
         "scheduled_timestamp": 1704886920,
         "season_number": "4",
-        "serial": 1704885249077,
+        "serial": 1704886329892,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 865,
@@ -1577,7 +1577,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704887700,
-        "last_update": 1704885249402,
+        "last_update": 1704886151320,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1586,7 +1586,7 @@
         "scheduled_duration": 240,
         "scheduled_timestamp": 1704887760,
         "season_number": "1",
-        "serial": 1704885249077,
+        "serial": 1704886151071,
         "series_id": "2118583",
         "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
         "show_duration": 216,
