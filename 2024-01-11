@@ -842,5 +842,110 @@
         "title": "Bugs",
         "title_id": "2396315",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "256404_003_02_851",
+        "create_time": 1704873784990,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92366",
+        "franchise_name": null,
+        "genres": [
+            "Animation"
+        ],
+        "guide_timestamp": 1704965400,
+        "last_update": 1704873784990,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Cody Dematteis",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Shane Dering",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Marty Schousboe",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Vanessa Palacios",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1704965400,
+        "season_number": "2",
+        "serial": 1704873784671,
+        "series_id": "2348079",
+        "series_name": "Ambient Swim",
+        "show_duration": 1800,
+        "show_id": "13854678",
+        "show_timestamp": 1704965400,
+        "status": "estimated",
+        "summary": "Robot-controlled camera analog loops and live modular synthesizers combine to take the edge off your day.",
+        "title": "Things Silently Explode",
+        "title_id": "2447952",
+        "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250265_015_02_851",
+        "create_time": 1704873785025,
+        "episode_in_season": "15",
+        "episode_number": "S11:E15",
+        "external_id": "16384515",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1704967200,
+        "last_update": 1704873785025,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1704967200,
+        "season_number": "11",
+        "serial": 1704873784671,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1803,
+        "show_id": "13854679",
+        "show_timestamp": 1704967200,
+        "status": "estimated",
+        "summary": "Linda's new routine is wreaking havoc.",
+        "summary_long": "Linda's new routine of diet and exercise gives her gastrointestinal trouble on the day of parent-teacher-student conferences.",
+        "title": "Sheshank Redumption",
+        "title_id": "2438975",
+        "tv_rating": "TV-PG"
     }
 ]
