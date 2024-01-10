@@ -857,7 +857,7 @@
             "Animation"
         ],
         "guide_timestamp": 1704879000,
-        "last_update": 1704880804623,
+        "last_update": 1704884409450,
         "live": false,
         "participants": [
             {
@@ -887,7 +887,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1704879000,
         "season_number": "2",
-        "serial": 1704880804332,
+        "serial": 1704884409237,
         "series_id": "2348079",
         "series_name": "Ambient Swim",
         "show_duration": 1785,
@@ -965,7 +965,7 @@
             "Family"
         ],
         "guide_timestamp": 1704882600,
-        "last_update": 1704882620109,
+        "last_update": 1704884412497,
         "live": false,
         "participants": [
             {
@@ -981,13 +981,13 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1704882600,
         "season_number": "11",
-        "serial": 1704882619855,
+        "serial": 1704884412255,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1777,
+        "show_duration": 1786,
         "show_id": "13854607",
         "show_timestamp": 1704882613,
-        "status": "current",
+        "status": "actual",
         "summary": "Bob and Linda are tortured by a past lie.",
         "summary_long": "While on a family trip to the flea market, Bob and Linda are haunted by a lie they told Tina, Gene and Louise about what really happened to their beloved stuffed animal, Wheelie Mammoth.",
         "title": "An Incon-Wheelie-Ent Truth",
@@ -1081,7 +1081,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704884400,
-        "last_update": 1704816766609,
+        "last_update": 1704885236560,
         "live": false,
         "participants": [
             {
@@ -1122,16 +1122,87 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704884400,
         "season_number": "4",
-        "serial": 1704816766441,
+        "serial": 1704885236356,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 840,
+        "show_duration": 821,
         "show_id": "13854608",
-        "show_timestamp": 1704884400,
-        "status": "estimated",
+        "show_timestamp": 1704884411,
+        "status": "actual",
         "summary": "Gumball is walking in the same direction as Hot Dog Guy, and with each step it becomes increasingly awkward.",
         "title": "The Awkwardness",
         "title_id": "2074675",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228427_028_03_851",
+        "create_time": 1704816767318,
+        "episode_in_season": "28",
+        "episode_number": "S4:E28",
+        "external_id": "16384447",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1704885300,
+        "last_update": 1704885249362,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 14,
+        "scheduled_duration": 850,
+        "scheduled_timestamp": 1704885240,
+        "season_number": "4",
+        "serial": 1704885249077,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 850,
+        "show_id": "13854609",
+        "show_timestamp": 1704885232,
+        "status": "current",
+        "summary": "A breaking news report tells the Wattersons that their neighbor is among the several mysterious disappearances happening across Elmore.",
+        "summary_long": "A breaking news report tells the Wattersons that their neighbor is among the several mysterious disappearances happening across Elmore. Their search for clues leads them to find a strange egg, which they soon discover belongs to their own Evil Turtle. The family realize it's their responsibility to track down their pet before she and her brood do more damage to the town.",
+        "title": "The Nest",
+        "title_id": "2074676",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1208,11 +1279,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228427_028_03_851",
-        "create_time": 1704816767318,
-        "episode_in_season": "28",
-        "episode_number": "S4:E28",
-        "external_id": "16384447",
+        "content_id": "228427_029_03_851",
+        "create_time": 1704816767320,
+        "episode_in_season": "29",
+        "episode_number": "S4:E29",
+        "external_id": "16384448",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -1221,8 +1292,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704885300,
-        "last_update": 1704816767318,
+        "guide_timestamp": 1704886200,
+        "last_update": 1704885249363,
         "live": false,
         "participants": [
             {
@@ -1260,20 +1331,20 @@
         "press_hold": false,
         "release_year": 2016,
         "runtime_minutes": 14,
-        "scheduled_duration": 850,
-        "scheduled_timestamp": 1704885240,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1704886080,
         "season_number": "4",
-        "serial": 1704816766832,
+        "serial": 1704885249077,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 850,
-        "show_id": "13854609",
-        "show_timestamp": 1704885240,
+        "show_duration": 835,
+        "show_id": "13854610",
+        "show_timestamp": 1704886072,
         "status": "estimated",
-        "summary": "A breaking news report tells the Wattersons that their neighbor is among the several mysterious disappearances happening across Elmore.",
-        "summary_long": "A breaking news report tells the Wattersons that their neighbor is among the several mysterious disappearances happening across Elmore. Their search for clues leads them to find a strange egg, which they soon discover belongs to their own Evil Turtle. The family realize it's their responsibility to track down their pet before she and her brood do more damage to the town.",
-        "title": "The Nest",
-        "title_id": "2074676",
+        "summary": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek.",
+        "summary_long": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek. Tobias admits he earns good points doing chores for his parents, which he then exchanges for dollars to buy cool stuff for Galatrek. If Gumball and Darwin do Tobias' chores they can earn his good points and use them for Galatrek. Gumball and Darwin think they've hit the jackpot. But these good points may not be quite as good as Tobias claims.",
+        "title": "The Points",
+        "title_id": "2074677",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1350,11 +1421,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228427_029_03_851",
+        "content_id": "228427_030_03_851",
         "create_time": 1704816767320,
-        "episode_in_season": "29",
-        "episode_number": "S4:E29",
-        "external_id": "16384448",
+        "episode_in_season": "30",
+        "episode_number": "S4:E30",
+        "external_id": "16384449",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -1363,8 +1434,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704886200,
-        "last_update": 1704816767320,
+        "guide_timestamp": 1704886800,
+        "last_update": 1704885249400,
         "live": false,
         "participants": [
             {
@@ -1402,20 +1473,20 @@
         "press_hold": false,
         "release_year": 2016,
         "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1704886080,
+        "scheduled_duration": 865,
+        "scheduled_timestamp": 1704886920,
         "season_number": "4",
-        "serial": 1704816766832,
+        "serial": 1704885249077,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 840,
-        "show_id": "13854610",
-        "show_timestamp": 1704886080,
+        "show_duration": 865,
+        "show_id": "13854611",
+        "show_timestamp": 1704886915,
         "status": "estimated",
-        "summary": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek.",
-        "summary_long": "Gumball and Darwin discover Tobias is doing way better than them in an online game called Galatrek. Tobias admits he earns good points doing chores for his parents, which he then exchanges for dollars to buy cool stuff for Galatrek. If Gumball and Darwin do Tobias' chores they can earn his good points and use them for Galatrek. Gumball and Darwin think they've hit the jackpot. But these good points may not be quite as good as Tobias claims.",
-        "title": "The Points",
-        "title_id": "2074677",
+        "summary": "When Rocky suggests the Elmore Junior High kids skip school, the bus is boarded by criminals, who seem to want to teach them the importance of school attendance.",
+        "summary_long": "When Rocky suggests the Elmore Junior High kids skip school, the bus is boarded by criminals, who seem to want to teach them the importance of school attendance. The masked culprits are clearly the children's parents faking a heist to teach them a lesson. But when the police get involved for real, it becomes clear the parents aren't the ones pulling the strings.",
+        "title": "The Bus",
+        "title_id": "2074678",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1492,73 +1563,40 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228427_030_03_851",
-        "create_time": 1704816767320,
-        "episode_in_season": "30",
-        "episode_number": "S4:E30",
-        "external_id": "16384449",
+        "content_id": "233136_006_01_851",
+        "create_time": 1704816767321,
+        "episode_in_season": "6",
+        "episode_number": "06",
+        "external_id": "16384450",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
+        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704886800,
-        "last_update": 1704816767320,
+        "guide_timestamp": 1704887700,
+        "last_update": 1704885249402,
         "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 14,
-        "scheduled_duration": 865,
-        "scheduled_timestamp": 1704886920,
-        "season_number": "4",
-        "serial": 1704816766832,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 865,
-        "show_id": "13854611",
-        "show_timestamp": 1704886920,
+        "release_year": 2017,
+        "runtime_minutes": 4,
+        "scheduled_duration": 240,
+        "scheduled_timestamp": 1704887760,
+        "season_number": "1",
+        "serial": 1704885249077,
+        "series_id": "2118583",
+        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
+        "show_duration": 216,
+        "show_id": "13854612",
+        "show_timestamp": 1704887759,
         "status": "estimated",
-        "summary": "When Rocky suggests the Elmore Junior High kids skip school, the bus is boarded by criminals, who seem to want to teach them the importance of school attendance.",
-        "summary_long": "When Rocky suggests the Elmore Junior High kids skip school, the bus is boarded by criminals, who seem to want to teach them the importance of school attendance. The masked culprits are clearly the children's parents faking a heist to teach them a lesson. But when the police get involved for real, it becomes clear the parents aren't the ones pulling the strings.",
-        "title": "The Bus",
-        "title_id": "2074678",
-        "tv_rating": "TV-Y7-FV"
+        "summary": "While escaping from a grizzly bear, Ivandoe and Bert fall into an underground cave where a large Troll-woman in a party dress keeps them captive in order to  play with them like dolls.",
+        "title": "The Prince and the Raspberry Fairy",
+        "title_id": "2118590",
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -1601,40 +1639,52 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "233136_006_01_851",
-        "create_time": 1704816767321,
-        "episode_in_season": "6",
-        "episode_number": "06",
-        "external_id": "16384450",
+        "content_id": "235002_008_02_851",
+        "create_time": 1704816767322,
+        "episode_in_season": "8",
+        "episode_number": "S2:E08",
+        "external_id": "16384451",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "franchise_name": "Looney Tunes Show, The",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704887700,
-        "last_update": 1704816767321,
+        "guide_timestamp": 1704888000,
+        "last_update": 1704885249403,
         "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 4,
-        "scheduled_duration": 240,
-        "scheduled_timestamp": 1704887760,
-        "season_number": "1",
-        "serial": 1704816766832,
-        "series_id": "2118583",
-        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
-        "show_duration": 240,
-        "show_id": "13854612",
-        "show_timestamp": 1704887760,
+        "release_year": 2012,
+        "runtime_minutes": 29,
+        "scheduled_duration": 1740,
+        "scheduled_timestamp": 1704888000,
+        "season_number": "2",
+        "serial": 1704885249077,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1739,
+        "show_id": "13854613",
+        "show_timestamp": 1704887999,
         "status": "estimated",
-        "summary": "While escaping from a grizzly bear, Ivandoe and Bert fall into an underground cave where a large Troll-woman in a party dress keeps them captive in order to  play with them like dolls.",
-        "title": "The Prince and the Raspberry Fairy",
-        "title_id": "2118590",
-        "tv_rating": "TV-Y7"
+        "summary": "Porky decides to run a marathon, threatening Daffy's definition of everyone's roles in their circle of friends.",
+        "title": "The Stud, the Nerd, the Average Joe, and the Saint",
+        "title_id": "886410",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -1679,56 +1729,6 @@
         "series_name": "The Looney Tunes Show",
         "show_duration": 1740,
         "show_id": "274460732",
-        "show_timestamp": 1704888000,
-        "status": "estimated",
-        "summary": "Porky decides to run a marathon, threatening Daffy's definition of everyone's roles in their circle of friends.",
-        "title": "The Stud, the Nerd, the Average Joe, and the Saint",
-        "title_id": "886410",
-        "tv_rating": "TV-PG"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "235002_008_02_851",
-        "create_time": 1704816767322,
-        "episode_in_season": "8",
-        "episode_number": "S2:E08",
-        "external_id": "16384451",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Looney Tunes Show, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1704888000,
-        "last_update": 1704816767322,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2012,
-        "runtime_minutes": 29,
-        "scheduled_duration": 1740,
-        "scheduled_timestamp": 1704888000,
-        "season_number": "2",
-        "serial": 1704816766832,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1740,
-        "show_id": "13854613",
         "show_timestamp": 1704888000,
         "status": "estimated",
         "summary": "Porky decides to run a marathon, threatening Daffy's definition of everyone's roles in their circle of friends.",
