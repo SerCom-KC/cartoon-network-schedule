@@ -1653,7 +1653,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704888000,
-        "last_update": 1704889743510,
+        "last_update": 1704893350779,
         "live": false,
         "participants": [
             {
@@ -1674,7 +1674,7 @@
         "scheduled_duration": 1740,
         "scheduled_timestamp": 1704888000,
         "season_number": "2",
-        "serial": 1704889743240,
+        "serial": 1704893350542,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1739,
@@ -2577,7 +2577,7 @@
             "Family"
         ],
         "guide_timestamp": 1704893400,
-        "last_update": 1704893286533,
+        "last_update": 1704893292759,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2586,10 +2586,10 @@
         "scheduled_duration": 843,
         "scheduled_timestamp": 1704893280,
         "season_number": "1",
-        "serial": 1704893286296,
+        "serial": 1704893292511,
         "series_id": "2357112",
         "series_name": "CoComelon",
-        "show_duration": 847,
+        "show_duration": 843,
         "show_id": "13854619",
         "show_timestamp": 1704893276,
         "status": "current",
@@ -2640,6 +2640,43 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "250994_006_02_851",
+        "create_time": 1704816767328,
+        "episode_in_season": "6",
+        "episode_number": "S1:E05",
+        "external_id": "16384458",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jessica's Big Little World",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1704894000,
+        "last_update": 1704893302908,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1704894120,
+        "season_number": "1",
+        "serial": 1704893302737,
+        "series_id": "2368373",
+        "series_name": "Jessica's Big Little World",
+        "show_duration": 910,
+        "show_id": "13854620",
+        "show_timestamp": 1704894116,
+        "status": "estimated",
+        "summary": "When Jessica can't get a new toy to work, she learns a new way to appreciate it.",
+        "title": "Glow Toy",
+        "title_id": "2373945",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250994_006_02_851",
         "create_time": 1704801488194,
         "episode_in_season": "6",
         "episode_number": "S1:E05",
@@ -2676,38 +2713,75 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "250994_006_02_851",
-        "create_time": 1704816767328,
-        "episode_in_season": "6",
-        "episode_number": "S1:E05",
-        "external_id": "16384458",
+        "content_id": "233248_017_02_851",
+        "create_time": 1704816767329,
+        "episode_in_season": "17",
+        "episode_number": "S1:EL17",
+        "external_id": "16384459",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Jessica's Big Little World",
+        "franchise_name": "Meet the Batwheels",
         "genres": [
             "Children",
             "Family"
         ],
-        "guide_timestamp": 1704894000,
-        "last_update": 1704816767328,
+        "guide_timestamp": 1704894900,
+        "last_update": 1704893302908,
         "live": false,
-        "premiere": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2023,
-        "runtime_minutes": 15,
-        "scheduled_duration": 910,
-        "scheduled_timestamp": 1704894120,
+        "release_year": 2022,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1704895020,
         "season_number": "1",
-        "serial": 1704816766832,
-        "series_id": "2368373",
-        "series_name": "Jessica's Big Little World",
-        "show_duration": 910,
-        "show_id": "13854620",
-        "show_timestamp": 1704894120,
+        "serial": 1704893302737,
+        "series_id": "2405571",
+        "series_name": "Meet the Batwheels",
+        "show_duration": 163,
+        "show_id": "13854621",
+        "show_timestamp": 1704895019,
         "status": "estimated",
-        "summary": "When Jessica can't get a new toy to work, she learns a new way to appreciate it.",
-        "title": "Glow Toy",
-        "title_id": "2373945",
+        "summary": "Batwing flies high over Gotham in her video diary as she shares exciting tips and tricks to what makes her brand of crimefighting so special!",
+        "title": "Batwingin' It",
+        "title_id": "2272399",
         "tv_rating": "TV-Y"
     },
     {
@@ -2777,80 +2851,6 @@
         "series_name": "Meet the Batwheels",
         "show_duration": 180,
         "show_id": "274460812",
-        "show_timestamp": 1704895020,
-        "status": "estimated",
-        "summary": "Batwing flies high over Gotham in her video diary as she shares exciting tips and tricks to what makes her brand of crimefighting so special!",
-        "title": "Batwingin' It",
-        "title_id": "2272399",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "233248_017_02_851",
-        "create_time": 1704816767329,
-        "episode_in_season": "17",
-        "episode_number": "S1:EL17",
-        "external_id": "16384459",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Meet the Batwheels",
-        "genres": [
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1704894900,
-        "last_update": 1704888041293,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Caroline Kermel",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Fink",
-                "role": "Producer"
-            },
-            {
-                "character": "Buff",
-                "name": "Noah Kaye Bentley",
-                "role": "Voice"
-            },
-            {
-                "character": "Bam",
-                "name": "Jacob Bertrand",
-                "role": "Voice"
-            },
-            {
-                "character": "Batman",
-                "name": "Ethan Hawke",
-                "role": "Voice"
-            },
-            {
-                "character": "Robin",
-                "name": "AJ Hudson",
-                "role": "Voice"
-            },
-            {
-                "character": "Bibi",
-                "name": "Madigan Kacmar",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2022,
-        "runtime_minutes": 3,
-        "scheduled_duration": 180,
-        "scheduled_timestamp": 1704895020,
-        "season_number": "1",
-        "serial": 1704888041050,
-        "series_id": "2405571",
-        "series_name": "Meet the Batwheels",
-        "show_duration": 163,
-        "show_id": "13854621",
         "show_timestamp": 1704895020,
         "status": "estimated",
         "summary": "Batwing flies high over Gotham in her video diary as she shares exciting tips and tricks to what makes her brand of crimefighting so special!",
