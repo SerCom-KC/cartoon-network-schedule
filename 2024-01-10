@@ -1953,7 +1953,7 @@
             "Family"
         ],
         "guide_timestamp": 1704890700,
-        "last_update": 1704891490624,
+        "last_update": 1704895092603,
         "live": false,
         "participants": [
             {
@@ -2024,7 +2024,7 @@
         "scheduled_duration": 881,
         "scheduled_timestamp": 1704890580,
         "season_number": "1",
-        "serial": 1704891483827,
+        "serial": 1704895092290,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
         "show_duration": 879,
@@ -2253,7 +2253,7 @@
             "Family"
         ],
         "guide_timestamp": 1704891600,
-        "last_update": 1704891621555,
+        "last_update": 1704895223170,
         "live": false,
         "participants": [
             {
@@ -2324,7 +2324,7 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1704891420,
         "season_number": "1",
-        "serial": 1704891621360,
+        "serial": 1704895222920,
         "series_id": "2419726",
         "series_name": "Bugs Bunny Builders: Hard Hat Time",
         "show_duration": 143,
@@ -2652,7 +2652,7 @@
             "Family"
         ],
         "guide_timestamp": 1704894000,
-        "last_update": 1704894161712,
+        "last_update": 1704895076703,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2661,13 +2661,13 @@
         "scheduled_duration": 910,
         "scheduled_timestamp": 1704894120,
         "season_number": "1",
-        "serial": 1704894161479,
+        "serial": 1704895076453,
         "series_id": "2368373",
         "series_name": "Jessica's Big Little World",
-        "show_duration": 907,
+        "show_duration": 909,
         "show_id": "13854620",
         "show_timestamp": 1704894119,
-        "status": "current",
+        "status": "actual",
         "summary": "When Jessica can't get a new toy to work, she learns a new way to appreciate it.",
         "title": "Glow Toy",
         "title_id": "2373945",
@@ -2708,80 +2708,6 @@
         "summary": "When Jessica can't get a new toy to work, she learns a new way to appreciate it.",
         "title": "Glow Toy",
         "title_id": "2373945",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "233248_017_02_851",
-        "create_time": 1704816767329,
-        "episode_in_season": "17",
-        "episode_number": "S1:EL17",
-        "external_id": "16384459",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Meet the Batwheels",
-        "genres": [
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1704894900,
-        "last_update": 1704893302908,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Caroline Kermel",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Fink",
-                "role": "Producer"
-            },
-            {
-                "character": "Buff",
-                "name": "Noah Kaye Bentley",
-                "role": "Voice"
-            },
-            {
-                "character": "Bam",
-                "name": "Jacob Bertrand",
-                "role": "Voice"
-            },
-            {
-                "character": "Batman",
-                "name": "Ethan Hawke",
-                "role": "Voice"
-            },
-            {
-                "character": "Robin",
-                "name": "AJ Hudson",
-                "role": "Voice"
-            },
-            {
-                "character": "Bibi",
-                "name": "Madigan Kacmar",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2022,
-        "runtime_minutes": 3,
-        "scheduled_duration": 180,
-        "scheduled_timestamp": 1704895020,
-        "season_number": "1",
-        "serial": 1704893302737,
-        "series_id": "2405571",
-        "series_name": "Meet the Batwheels",
-        "show_duration": 163,
-        "show_id": "13854621",
-        "show_timestamp": 1704895019,
-        "status": "estimated",
-        "summary": "Batwing flies high over Gotham in her video diary as she shares exciting tips and tricks to what makes her brand of crimefighting so special!",
-        "title": "Batwingin' It",
-        "title_id": "2272399",
         "tv_rating": "TV-Y"
     },
     {
@@ -2861,6 +2787,135 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
+        "content_id": "233248_017_02_851",
+        "create_time": 1704816767329,
+        "episode_in_season": "17",
+        "episode_number": "S1:EL17",
+        "external_id": "16384459",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Meet the Batwheels",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1704894900,
+        "last_update": 1704895223169,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 3,
+        "scheduled_duration": 180,
+        "scheduled_timestamp": 1704895020,
+        "season_number": "1",
+        "serial": 1704895222920,
+        "series_id": "2405571",
+        "series_name": "Meet the Batwheels",
+        "show_duration": 163,
+        "show_id": "13854621",
+        "show_timestamp": 1704895029,
+        "status": "actual",
+        "summary": "Batwing flies high over Gotham in her video diary as she shares exciting tips and tricks to what makes her brand of crimefighting so special!",
+        "title": "Batwingin' It",
+        "title_id": "2272399",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229093_029_03_851",
+        "create_time": 1704816767329,
+        "episode_in_season": "29",
+        "episode_number": "S1:E29",
+        "external_id": "16384460",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1704895200,
+        "last_update": 1704895260524,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1704895200,
+        "season_number": "1",
+        "serial": 1704895260292,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13854622",
+        "show_timestamp": 1704895192,
+        "status": "current",
+        "summary": "Kelsey starts a super secret book club to introduce Craig and JP to the joys of reading.",
+        "title": "Secret Book Club",
+        "title_id": "2166311",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
         "content_id": "229093_029_03_851",
         "create_time": 1704802352013,
         "episode_in_season": "29",
@@ -2916,11 +2971,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229093_029_03_851",
-        "create_time": 1704816767329,
-        "episode_in_season": "29",
-        "episode_number": "S1:E29",
-        "external_id": "16384460",
+        "content_id": "229093_031_03_851",
+        "create_time": 1704816767330,
+        "episode_in_season": "31",
+        "episode_number": "S1:E31",
+        "external_id": "16388816",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
@@ -2929,8 +2984,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704895200,
-        "last_update": 1704816767329,
+        "guide_timestamp": 1704896100,
+        "last_update": 1704895260524,
         "live": false,
         "participants": [
             {
@@ -2954,18 +3009,18 @@
         "release_year": 2018,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1704895200,
+        "scheduled_timestamp": 1704896100,
         "season_number": "1",
-        "serial": 1704816766832,
+        "serial": 1704895260292,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
-        "show_id": "13854622",
-        "show_timestamp": 1704895200,
+        "show_id": "13854623",
+        "show_timestamp": 1704896092,
         "status": "estimated",
-        "summary": "Kelsey starts a super secret book club to introduce Craig and JP to the joys of reading.",
-        "title": "Secret Book Club",
-        "title_id": "2166311",
+        "summary": "Kelsey leads her friends on the most important quest ever, picking up takeout for dinner.",
+        "title": "The Takeout Mission",
+        "title_id": "2167594",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3026,56 +3081,57 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "229093_031_03_851",
-        "create_time": 1704816767330,
-        "episode_in_season": "31",
-        "episode_number": "S1:E31",
-        "external_id": "16388816",
+        "content_id": "228766_009_03_851",
+        "create_time": 1704816768519,
+        "episode_in_season": "9",
+        "episode_number": "S1:E09",
+        "external_id": "16388265",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
+        "franchise_name": "We Bare Bears",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704896100,
-        "last_update": 1704816767330,
+        "guide_timestamp": 1704897000,
+        "last_update": 1704895260524,
         "live": false,
         "participants": [
             {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
+                "character": "Grizzly",
+                "name": "Eric Edelstein",
                 "role": "Voice"
             },
             {
-                "character": "Kelsey",
-                "name": "Noel Wells",
+                "character": "Ice Bear",
+                "name": "Demetri Martin",
                 "role": "Voice"
             },
             {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
+                "character": "Panda",
+                "name": "Bobby Moynihan",
                 "role": "Voice"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2018,
+        "release_year": 2015,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1704896100,
+        "scheduled_timestamp": 1704897000,
         "season_number": "1",
-        "serial": 1704816766832,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 900,
-        "show_id": "13854623",
-        "show_timestamp": 1704896100,
+        "serial": 1704895260292,
+        "series_id": "2056641",
+        "series_name": "We Bare Bears",
+        "show_duration": 895,
+        "show_id": "13854624",
+        "show_timestamp": 1704896995,
         "status": "estimated",
-        "summary": "Kelsey leads her friends on the most important quest ever, picking up takeout for dinner.",
-        "title": "The Takeout Mission",
-        "title_id": "2167594",
+        "summary": "The Bears find a bedazzled jean jacket. It seems to make the wearer of the jacket extremely lucky. After the Bears fight over who gets control of the jacket, they have to consider their denim blessing has become a curse.",
+        "summary_long": "The Bears find a bedazzled jean jacket in a dumpster. It's just about the coolest thing they've ever seen and seems to make the wearer of the jacket extremely lucky. But after the Bears fight over who gets control of the jacket, they have to consider that their denim blessing has become a curse.",
+        "title": "Jean Jacket",
+        "title_id": "2056648",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3137,21 +3193,20 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228766_009_03_851",
-        "create_time": 1704816768519,
-        "episode_in_season": "9",
-        "episode_number": "S1:E09",
-        "external_id": "16388265",
+        "content_id": "228763_001_02_851",
+        "create_time": 1704816768520,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "16384463",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "We Bare Bears",
         "genres": [
-            "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1704897000,
-        "last_update": 1704816768519,
+        "guide_timestamp": 1704897900,
+        "last_update": 1704895626236,
         "live": false,
         "participants": [
             {
@@ -3170,24 +3225,23 @@
                 "role": "Voice"
             }
         ],
-        "premiere": false,
+        "premiere": true,
         "press_hold": false,
-        "release_year": 2015,
+        "release_year": 2016,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
-        "scheduled_timestamp": 1704897000,
-        "season_number": "1",
-        "serial": 1704816768035,
+        "scheduled_timestamp": 1704897900,
+        "season_number": "3",
+        "serial": 1704895625971,
         "series_id": "2056641",
         "series_name": "We Bare Bears",
         "show_duration": 900,
-        "show_id": "13854624",
-        "show_timestamp": 1704897000,
+        "show_id": "13854625",
+        "show_timestamp": 1704897899,
         "status": "estimated",
-        "summary": "The Bears find a bedazzled jean jacket. It seems to make the wearer of the jacket extremely lucky. After the Bears fight over who gets control of the jacket, they have to consider their denim blessing has become a curse.",
-        "summary_long": "The Bears find a bedazzled jean jacket in a dumpster. It's just about the coolest thing they've ever seen and seems to make the wearer of the jacket extremely lucky. But after the Bears fight over who gets control of the jacket, they have to consider that their denim blessing has become a curse.",
-        "title": "Jean Jacket",
-        "title_id": "2056648",
+        "summary": "The Bears are stranded on a subway platform after missing their train. But while waiting, the Bears are challenged with recovering some lost items.",
+        "title": "Subway",
+        "title_id": "2088705",
         "tv_rating": "TV-Y7"
     },
     {
@@ -3237,60 +3291,6 @@
         "series_name": "We Bare Bears",
         "show_duration": 900,
         "show_id": "274460852",
-        "show_timestamp": 1704897900,
-        "status": "estimated",
-        "summary": "The Bears are stranded on a subway platform after missing their train. But while waiting, the Bears are challenged with recovering some lost items.",
-        "title": "Subway",
-        "title_id": "2088705",
-        "tv_rating": "TV-Y7"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228763_001_02_851",
-        "create_time": 1704816768520,
-        "episode_in_season": "1",
-        "episode_number": "S3:E01",
-        "external_id": "16384463",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "We Bare Bears",
-        "genres": [
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1704897900,
-        "last_update": 1704816768520,
-        "live": false,
-        "participants": [
-            {
-                "character": "Grizzly",
-                "name": "Eric Edelstein",
-                "role": "Voice"
-            },
-            {
-                "character": "Ice Bear",
-                "name": "Demetri Martin",
-                "role": "Voice"
-            },
-            {
-                "character": "Panda",
-                "name": "Bobby Moynihan",
-                "role": "Voice"
-            }
-        ],
-        "premiere": true,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 15,
-        "scheduled_duration": 900,
-        "scheduled_timestamp": 1704897900,
-        "season_number": "3",
-        "serial": 1704816768035,
-        "series_id": "2056641",
-        "series_name": "We Bare Bears",
-        "show_duration": 900,
-        "show_id": "13854625",
         "show_timestamp": 1704897900,
         "status": "estimated",
         "summary": "The Bears are stranded on a subway platform after missing their train. But while waiting, the Bears are challenged with recovering some lost items.",
