@@ -784,5 +784,113 @@
         "title": "Bliss",
         "title_id": "2396316",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233558_004_01_851",
+        "create_time": 1704958459648,
+        "episode_in_season": "4",
+        "episode_number": "S12:E04",
+        "external_id": "16386603",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1705050900,
+        "last_update": 1704958459648,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1705050900,
+        "season_number": "12",
+        "serial": 1704958459321,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 900,
+        "show_id": "13856325",
+        "show_timestamp": 1705050900,
+        "status": "estimated",
+        "summary": "Bring snacks",
+        "title": "Journeys",
+        "title_id": "2396317",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "256403_002_02_851",
+        "create_time": 1704958459648,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92366",
+        "franchise_name": null,
+        "genres": [
+            "Animation"
+        ],
+        "guide_timestamp": 1705051800,
+        "last_update": 1704958459648,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Cody Dematteis",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Shane Dering",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Marty Schousboe",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Vanessa Palacios",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1705051800,
+        "season_number": "1",
+        "serial": 1704958459321,
+        "series_id": "2348079",
+        "series_name": "Ambient Swim",
+        "show_duration": 1805,
+        "show_id": "13856326",
+        "show_timestamp": 1705051800,
+        "status": "estimated",
+        "summary": "An 8-bit Paul Roberson animation to relax or study with.",
+        "title": "LoFi Beats to Relax/Study With",
+        "title_id": "2447945",
+        "tv_rating": "TV-14"
     }
 ]
