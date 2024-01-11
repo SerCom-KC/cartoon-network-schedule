@@ -858,7 +858,7 @@
             "Animation"
         ],
         "guide_timestamp": 1704965400,
-        "last_update": 1704967240243,
+        "last_update": 1704970845250,
         "live": false,
         "participants": [
             {
@@ -888,7 +888,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1704965400,
         "season_number": "2",
-        "serial": 1704967240074,
+        "serial": 1704970844973,
         "series_id": "2348079",
         "series_name": "Ambient Swim",
         "show_duration": 1786,
@@ -967,7 +967,7 @@
             "Family"
         ],
         "guide_timestamp": 1704969000,
-        "last_update": 1704969011628,
+        "last_update": 1704970828761,
         "live": false,
         "participants": [
             {
@@ -983,13 +983,13 @@
         "scheduled_duration": 1827,
         "scheduled_timestamp": 1704969000,
         "season_number": "11",
-        "serial": 1704969010965,
+        "serial": 1704970828551,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1812,
+        "show_duration": 1785,
         "show_id": "13854680",
         "show_timestamp": 1704969016,
-        "status": "current",
+        "status": "actual",
         "summary": "Tina learns Spanish.",
         "summary_long": "When Tina is forced to listen to Spanish audio lessons in the library to improve her grade, she develops an unexpected crush. Meanwhile, Louise and Gene want to dunk Mr. Frond at the Wagstaff Spring Fair.",
         "title": "Y Tu Tina Tambien",
@@ -1084,7 +1084,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704970800,
-        "last_update": 1704903238831,
+        "last_update": 1704971668537,
         "live": false,
         "participants": [
             {
@@ -1125,17 +1125,88 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704970800,
         "season_number": "4",
-        "serial": 1704903238585,
+        "serial": 1704971668208,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 840,
+        "show_duration": 820,
         "show_id": "13856257",
-        "show_timestamp": 1704970800,
-        "status": "estimated",
+        "show_timestamp": 1704970811,
+        "status": "actual",
         "summary": "Anais arrives in the bedroom to find a messy crime-scene and her Daisy doll missing. She realizes Gumball and Darwin are the chief suspects.",
         "summary_long": "Anais arrives in the bedroom to find a messy crime-scene and her Daisy doll missing. She realizes Gumball and Darwin are the chief suspects. Following a series of clues is her only chance to track them down and her only hope of learning what happened to Daisy. But as the mystery unravels, it seems the culprits may have turned on each other.",
         "title": "The Detective",
         "title_id": "2074684",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228427_037_03_851",
+        "create_time": 1704903238832,
+        "episode_in_season": "37",
+        "episode_number": "S4:E37",
+        "external_id": "16386537",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1704971700,
+        "last_update": 1704971668536,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1704971640,
+        "season_number": "4",
+        "serial": 1704971668208,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 847,
+        "show_id": "13856258",
+        "show_timestamp": 1704971631,
+        "status": "current",
+        "summary": "When an unknown figure shows up and insults their Mom, the kids are expecting a massive showdown but are surprised when Mom chooses the path of peace.",
+        "summary_long": "When an unknown figure shows up and insults their Mom, the kids are expecting a massive showdown but are surprised when Mom chooses the path of peace. Mom explains Yuki, Masami's mother, is an old school friend and repeatedly refuses to fight her, despite further provocation. However when Yuki threatens to get Mom fired from her job, Mom has no choice but to partake in a rematch of a karate match her and Yuki had fought as children.",
+        "title": "The Fury",
+        "title_id": "2074685",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1201,77 +1272,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 840,
         "show_id": "274464788",
-        "show_timestamp": 1704971640,
-        "status": "estimated",
-        "summary": "When an unknown figure shows up and insults their Mom, the kids are expecting a massive showdown but are surprised when Mom chooses the path of peace.",
-        "summary_long": "When an unknown figure shows up and insults their Mom, the kids are expecting a massive showdown but are surprised when Mom chooses the path of peace. Mom explains Yuki, Masami's mother, is an old school friend and repeatedly refuses to fight her, despite further provocation. However when Yuki threatens to get Mom fired from her job, Mom has no choice but to partake in a rematch of a karate match her and Yuki had fought as children.",
-        "title": "The Fury",
-        "title_id": "2074685",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228427_037_03_851",
-        "create_time": 1704903238832,
-        "episode_in_season": "37",
-        "episode_number": "S4:E37",
-        "external_id": "16386537",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1704971700,
-        "last_update": 1704903238832,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1704971640,
-        "season_number": "4",
-        "serial": 1704903238585,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 840,
-        "show_id": "13856258",
         "show_timestamp": 1704971640,
         "status": "estimated",
         "summary": "When an unknown figure shows up and insults their Mom, the kids are expecting a massive showdown but are surprised when Mom chooses the path of peace.",
@@ -1619,7 +1619,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704974100,
-        "last_update": 1704903239630,
+        "last_update": 1704971720533,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1628,10 +1628,10 @@
         "scheduled_duration": 240,
         "scheduled_timestamp": 1704974160,
         "season_number": "1",
-        "serial": 1704903239132,
+        "serial": 1704971720192,
         "series_id": "2118583",
         "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
-        "show_duration": 240,
+        "show_duration": 220,
         "show_id": "13856261",
         "show_timestamp": 1704974160,
         "status": "estimated",
@@ -1857,7 +1857,7 @@
             "Family"
         ],
         "guide_timestamp": 1704976200,
-        "last_update": 1704903239631,
+        "last_update": 1704970861292,
         "live": false,
         "participants": [
             {
@@ -1928,10 +1928,10 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704976140,
         "season_number": "1",
-        "serial": 1704903239132,
+        "serial": 1704970860974,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 840,
+        "show_duration": 836,
         "show_id": "13856263",
         "show_timestamp": 1704976140,
         "status": "estimated",
@@ -2297,7 +2297,7 @@
             "Family"
         ],
         "guide_timestamp": 1704977700,
-        "last_update": 1704903239632,
+        "last_update": 1704970861293,
         "live": false,
         "participants": [
             {
@@ -2408,10 +2408,10 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1704977820,
         "season_number": "3",
-        "serial": 1704903239132,
+        "serial": 1704970860974,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
-        "show_duration": 180,
+        "show_duration": 148,
         "show_id": "13857434",
         "show_timestamp": 1704977820,
         "status": "estimated",
@@ -2586,7 +2586,7 @@
             "Family"
         ],
         "guide_timestamp": 1704978900,
-        "last_update": 1704903239632,
+        "last_update": 1704970861932,
         "live": false,
         "participants": [
             {
@@ -2632,10 +2632,10 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704978840,
         "season_number": "1",
-        "serial": 1704903239132,
+        "serial": 1704970861677,
         "series_id": "2267111",
         "series_name": "Batwheels",
-        "show_duration": 840,
+        "show_duration": 839,
         "show_id": "13856267",
         "show_timestamp": 1704978840,
         "status": "estimated",
@@ -2699,7 +2699,7 @@
             "Family"
         ],
         "guide_timestamp": 1704979800,
-        "last_update": 1704903239632,
+        "last_update": 1704970861969,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2708,10 +2708,10 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1704979680,
         "season_number": "1",
-        "serial": 1704903239132,
+        "serial": 1704970861677,
         "series_id": "2357112",
         "series_name": "CoComelon",
-        "show_duration": 840,
+        "show_duration": 833,
         "show_id": "13856268",
         "show_timestamp": 1704979680,
         "status": "estimated",
@@ -2951,7 +2951,7 @@
             "Family"
         ],
         "guide_timestamp": 1704981300,
-        "last_update": 1704903239633,
+        "last_update": 1704970861969,
         "live": false,
         "participants": [
             {
@@ -3062,10 +3062,10 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1704981420,
         "season_number": "3",
-        "serial": 1704903239132,
+        "serial": 1704970861677,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
-        "show_duration": 180,
+        "show_duration": 149,
         "show_id": "13857435",
         "show_timestamp": 1704981420,
         "status": "estimated",
