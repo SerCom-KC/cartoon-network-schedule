@@ -3146,7 +3146,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704981600,
-        "last_update": 1704986119328,
+        "last_update": 1704989726275,
         "live": false,
         "participants": [
             {
@@ -3172,7 +3172,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1704981600,
         "season_number": "1",
-        "serial": 1704986119051,
+        "serial": 1704989726131,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 901,
@@ -3472,7 +3472,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704984300,
-        "last_update": 1704985215136,
+        "last_update": 1704988820192,
         "live": false,
         "participants": [
             {
@@ -3498,7 +3498,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1704984300,
         "season_number": "3",
-        "serial": 1704985214920,
+        "serial": 1704988819965,
         "series_id": "2056641",
         "series_name": "We Bare Bears",
         "show_duration": 896,
@@ -3706,7 +3706,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1704987000,
-        "last_update": 1704987027308,
+        "last_update": 1704988820192,
         "live": false,
         "participants": [
             {
@@ -3737,13 +3737,13 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1704987000,
         "season_number": "1",
-        "serial": 1704987027088,
+        "serial": 1704988819965,
         "series_id": "2168685",
         "series_name": "Scooby-Doo and Guess Who?",
-        "show_duration": 1800,
+        "show_duration": 1802,
         "show_id": "13856276",
         "show_timestamp": 1704987001,
-        "status": "current",
+        "status": "actual",
         "summary": "Shaggy and Scooby take the gang to meet their good friend, Kenan Thompson. He's preparing to broadcast a one-man show. But when a Ghost Clown attacks, all the many characters Kenan has created will never see the light of day.",
         "summary_long": "Shaggy and Scooby take the gang to meet their good friend actor and comedian, Kenan Thompson. He's preparing to broadcast a special one-man show to save a struggling old TV station in Atlanta, Georgia. But when a Ghost Clown attacks, they all freak. It seems that all the many characters Kenan has created for his special one-man show will never see the light of day if the ghost clown has his way.",
         "title": "Quit Clowning!",
@@ -3837,7 +3837,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1704988800,
-        "last_update": 1704982535067,
+        "last_update": 1704989717472,
         "live": false,
         "participants": [
             {
@@ -3878,16 +3878,86 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1704988800,
         "season_number": "4",
-        "serial": 1704982534870,
+        "serial": 1704989717249,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 895,
         "show_id": "13856277",
-        "show_timestamp": 1704988800,
-        "status": "estimated",
+        "show_timestamp": 1704988803,
+        "status": "actual",
         "summary": "Gumball develops a strange stutter, and it makes him accidentally offend Darwin.",
         "title": "The Signal",
         "title_id": "2074670",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228427_025_03_851",
+        "create_time": 1704903240797,
+        "episode_in_season": "25",
+        "episode_number": "S4:E25",
+        "external_id": "16386557",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1704989700,
+        "last_update": 1704989717471,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 905,
+        "scheduled_timestamp": 1704989700,
+        "season_number": "4",
+        "serial": 1704989717249,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 907,
+        "show_id": "13856278",
+        "show_timestamp": 1704989698,
+        "status": "current",
+        "summary": "Anais has made a new friend, but Gumball and Darwin aren't sure their relationship is equal.",
+        "title": "The Parasite",
+        "title_id": "2074672",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -3953,76 +4023,6 @@
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
         "show_id": "274464988",
-        "show_timestamp": 1704989700,
-        "status": "estimated",
-        "summary": "Anais has made a new friend, but Gumball and Darwin aren't sure their relationship is equal.",
-        "title": "The Parasite",
-        "title_id": "2074672",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228427_025_03_851",
-        "create_time": 1704903240797,
-        "episode_in_season": "25",
-        "episode_number": "S4:E25",
-        "external_id": "16386557",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1704989700,
-        "last_update": 1704982535868,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 15,
-        "scheduled_duration": 905,
-        "scheduled_timestamp": 1704989700,
-        "season_number": "4",
-        "serial": 1704982535729,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 905,
-        "show_id": "13856278",
         "show_timestamp": 1704989700,
         "status": "estimated",
         "summary": "Anais has made a new friend, but Gumball and Darwin aren't sure their relationship is equal.",
