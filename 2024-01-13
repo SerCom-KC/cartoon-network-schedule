@@ -293,5 +293,124 @@
         "title": "Dr. Klaustus",
         "title_id": "748165",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232852_014_03_851",
+        "create_time": 1705043139122,
+        "episode_in_season": "14",
+        "episode_number": "S7:E14",
+        "external_id": "16384574",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1705134600,
+        "last_update": 1705043139122,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1705134600,
+        "season_number": "7",
+        "serial": 1705043138853,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13854742",
+        "show_timestamp": 1705134600,
+        "status": "estimated",
+        "summary": "When Steve's new puppy is gravely injured, Stan attempts to save the dog using a doctor who specializes in alternative medicine.",
+        "title": "Stan's Best Friend",
+        "title_id": "748173",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233062_001_01_851",
+        "create_time": 1705043139160,
+        "episode_in_season": "1",
+        "episode_number": "S10:E01",
+        "external_id": "16384575",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1705136400,
+        "last_update": 1705043139160,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1705136400,
+        "season_number": "10",
+        "serial": 1705043138853,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1803,
+        "show_id": "13854743",
+        "show_timestamp": 1705136400,
+        "status": "estimated",
+        "summary": "Professor Farnsworth joins a gang of street-racing punks.",
+        "title": "2-D Blacktop",
+        "title_id": "2161659",
+        "tv_rating": "TV-14"
     }
 ]
