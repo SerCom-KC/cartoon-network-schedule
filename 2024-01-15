@@ -537,5 +537,64 @@
         "title": "Air Force Wong",
         "title_id": "2424785",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "250984_004_02_851",
+        "create_time": 1705212138259,
+        "episode_in_season": "4",
+        "episode_number": "S7:E04",
+        "external_id": "16387801",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1705305600,
+        "last_update": 1705212138259,
+        "live": false,
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1705305600,
+        "season_number": "7",
+        "serial": 1705212138067,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1808,
+        "show_id": "13854848",
+        "show_timestamp": 1705305600,
+        "status": "estimated",
+        "summary": "BROH, THAT'S-A SOME GOOD SPAGHETTI.",
+        "title": "That's Amorte",
+        "title_id": "2424786",
+        "tv_rating": "TV-14"
     }
 ]
