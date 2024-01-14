@@ -796,5 +796,130 @@
         "title": "Awaken",
         "title_id": "2224138",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229700_002_02_851",
+        "create_time": 1705218386766,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16387805",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1705310100,
+        "last_update": 1705218386766,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Pete Michels",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Brian Wysol",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1705310100,
+        "season_number": "1",
+        "serial": 1705218386534,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "show_duration": 910,
+        "show_id": "13857084",
+        "show_timestamp": 1705310100,
+        "status": "estimated",
+        "summary": "The Hot Streets gang heads to Snake Island to investigate a rift in space. French gains the ability to control snakes.",
+        "title": "Snake Island",
+        "title_id": "2131832",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233394_003_01_851",
+        "create_time": 1705218386804,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16387806",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Momma Named Me Sheriff",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1705311000,
+        "last_update": 1705218386804,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1705311000,
+        "season_number": "1",
+        "serial": 1705218386534,
+        "series_id": "2196566",
+        "series_name": "Momma Named Me Sheriff",
+        "show_duration": 900,
+        "show_id": "13857085",
+        "show_timestamp": 1705311000,
+        "status": "estimated",
+        "summary": "When Sheriff and Deputy Goodman get stuck in their cruiser, Sheriff tries to use their time to get to know each other better.",
+        "title": "Stuck",
+        "title_id": "2196569",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "233394_004_01_851",
+        "create_time": 1705218387212,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16387807",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Momma Named Me Sheriff",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1705311900,
+        "last_update": 1705218387212,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1705311900,
+        "season_number": "1",
+        "serial": 1705218387066,
+        "series_id": "2196566",
+        "series_name": "Momma Named Me Sheriff",
+        "show_duration": 902,
+        "show_id": "13857086",
+        "show_timestamp": 1705311900,
+        "status": "estimated",
+        "summary": "When Goodman's legs get cut off and stolen, his search for the leg thief lands him in the first grade, where he is mistaken for a child.",
+        "title": "Ganley Stoodman",
+        "title_id": "2196570",
+        "tv_rating": "TV-MA"
     }
 ]
