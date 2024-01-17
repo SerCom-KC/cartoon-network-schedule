@@ -1709,7 +1709,7 @@
             "Family"
         ],
         "guide_timestamp": 1705494600,
-        "last_update": 1705495386263,
+        "last_update": 1705498988640,
         "live": false,
         "participants": [
             {
@@ -1780,7 +1780,7 @@
         "scheduled_duration": 851,
         "scheduled_timestamp": 1705494540,
         "season_number": "1",
-        "serial": 1705495386082,
+        "serial": 1705498988396,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
         "show_duration": 849,
@@ -1909,7 +1909,7 @@
             "Family"
         ],
         "guide_timestamp": 1705495500,
-        "last_update": 1705495568589,
+        "last_update": 1705499182011,
         "live": false,
         "participants": [
             {
@@ -1980,7 +1980,7 @@
         "scheduled_duration": 188,
         "scheduled_timestamp": 1705495380,
         "season_number": "1",
-        "serial": 1705495568369,
+        "serial": 1705499181763,
         "series_id": "2419726",
         "series_name": "Bugs Bunny Builders: Hard Hat Time",
         "show_duration": 188,
@@ -2681,7 +2681,7 @@
             "Family"
         ],
         "guide_timestamp": 1705498200,
-        "last_update": 1705498317155,
+        "last_update": 1705499127942,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2690,13 +2690,13 @@
         "scheduled_duration": 842,
         "scheduled_timestamp": 1705498260,
         "season_number": "1",
-        "serial": 1705498316986,
+        "serial": 1705499127581,
         "series_id": "2357112",
         "series_name": "CoComelon",
-        "show_duration": 842,
+        "show_duration": 841,
         "show_id": "13855460",
         "show_timestamp": 1705498259,
-        "status": "current",
+        "status": "actual",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "Yes Yes Bedtime Song/ One Potato, Two Potatoes/ The Car Color Song",
         "title_id": "2435687",
@@ -2756,7 +2756,7 @@
             "Family"
         ],
         "guide_timestamp": 1705499100,
-        "last_update": 1705498317156,
+        "last_update": 1705499146327,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2765,13 +2765,13 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1705499100,
         "season_number": "1",
-        "serial": 1705498316986,
+        "serial": 1705499146128,
         "series_id": "2368373",
         "series_name": "Jessica's Big Little World",
         "show_duration": 901,
         "show_id": "13855461",
-        "show_timestamp": 1705499099,
-        "status": "estimated",
+        "show_timestamp": 1705499100,
+        "status": "current",
         "summary": "When Jessica pet sits Stanleigh's hedgehog, she has to think on her feet.",
         "title": "Spike the Hedgehog",
         "title_id": "2413382",
@@ -2813,61 +2813,6 @@
         "title": "Spike the Hedgehog",
         "title_id": "2413382",
         "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "229075_004_03_851",
-        "create_time": 1705423114715,
-        "episode_in_season": "4",
-        "episode_number": "S2:E04",
-        "external_id": "16385443",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Craig of the Creek",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1705500000,
-        "last_update": 1705498317157,
-        "live": false,
-        "participants": [
-            {
-                "character": "Craig Williams",
-                "name": "Philip Solomon",
-                "role": "Voice"
-            },
-            {
-                "character": "Kelsey",
-                "name": "Noel Wells",
-                "role": "Voice"
-            },
-            {
-                "character": "J.P.",
-                "name": "H. Michael Croner",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2019,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1705500000,
-        "season_number": "2",
-        "serial": 1705498316986,
-        "series_id": "2132940",
-        "series_name": "Craig of the Creek",
-        "show_duration": 840,
-        "show_id": "13855462",
-        "show_timestamp": 1705499999,
-        "status": "estimated",
-        "summary": "A spat between the Elders of the Creek leaves an opening in their tabletop role playing game, so Kelsey joins the campaign!",
-        "title": "Kelsey the Elder",
-        "title_id": "2181880",
-        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -2917,6 +2862,61 @@
         "series_name": "Craig of the Creek",
         "show_duration": 840,
         "show_id": "274489494",
+        "show_timestamp": 1705500000,
+        "status": "estimated",
+        "summary": "A spat between the Elders of the Creek leaves an opening in their tabletop role playing game, so Kelsey joins the campaign!",
+        "title": "Kelsey the Elder",
+        "title_id": "2181880",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229075_004_03_851",
+        "create_time": 1705423114715,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "16385443",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1705500000,
+        "last_update": 1705499146328,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1705500000,
+        "season_number": "2",
+        "serial": 1705499146128,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 840,
+        "show_id": "13855462",
         "show_timestamp": 1705500000,
         "status": "estimated",
         "summary": "A spat between the Elders of the Creek leaves an opening in their tabletop role playing game, so Kelsey joins the campaign!",
@@ -4645,7 +4645,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705513500,
-        "last_update": 1705423115946,
+        "last_update": 1705499101926,
         "live": false,
         "participants": [
             {
@@ -4676,10 +4676,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1705513500,
         "season_number": "2",
-        "serial": 1705423115434,
+        "serial": 1705499101779,
         "series_id": "2012957",
         "series_name": "Clarence",
-        "show_duration": 900,
+        "show_duration": 894,
         "show_id": "13855476",
         "show_timestamp": 1705513500,
         "status": "estimated",
