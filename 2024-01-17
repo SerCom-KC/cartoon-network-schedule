@@ -813,7 +813,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705483800,
-        "last_update": 1705485600651,
+        "last_update": 1705489207918,
         "live": false,
         "participants": [
             {
@@ -839,7 +839,7 @@
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1705483800,
         "season_number": "1",
-        "serial": 1705485600470,
+        "serial": 1705489207712,
         "series_id": "2007823",
         "series_name": "Infomercials",
         "show_duration": 1788,
@@ -919,7 +919,7 @@
             "Family"
         ],
         "guide_timestamp": 1705487400,
-        "last_update": 1705487476434,
+        "last_update": 1705489279678,
         "live": false,
         "participants": [
             {
@@ -935,13 +935,13 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1705487400,
         "season_number": "2",
-        "serial": 1705487476265,
+        "serial": 1705489279322,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1781,
+        "show_duration": 1783,
         "show_id": "13854928",
         "show_timestamp": 1705487418,
-        "status": "current",
+        "status": "actual",
         "summary": "Bob's family persuades him to buy a food truck and compete with the ones stealing his customers right outside the restaurant. When the Belchers bring their food truck to the festival, the kids' mischief causes the foodies to riot.",
         "summary_long": "Bob's family persuades him to buy a food truck and compete with the ones stealing his customers right outside the restaurant. When the Belchers bring their food truck to the Lolla-Pa-Foods-A-Festival, the Belcher kids' mischief causes the foodies and other truck owners to riot against them.",
         "title": "Food Truckin",
@@ -1036,7 +1036,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705489200,
-        "last_update": 1705487156088,
+        "last_update": 1705490042424,
         "live": false,
         "participants": [
             {
@@ -1077,17 +1077,88 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1705489200,
         "season_number": "5",
-        "serial": 1705487133954,
+        "serial": 1705490042046,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 840,
+        "show_duration": 820,
         "show_id": "13855448",
-        "show_timestamp": 1705489200,
-        "status": "estimated",
+        "show_timestamp": 1705489211,
+        "status": "actual",
         "summary": "Gumball kind of teaches Darwin how to be a skater.",
         "summary_long": "When Darwin asks Gumball to teach him how to skate, Gumball makes sure he covers every aspect of the skating lifestyle from wearing the right gear, using the right terms and choosing the right board. But when Darwin finally gets his wheels rolling, he realizes there might be one important aspect of skating Gumball hasn't taught him.",
         "title": "The Ollie",
         "title_id": "2097634",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228422_020_02_851",
+        "create_time": 1705423113926,
+        "episode_in_season": "20",
+        "episode_number": "S5:E20",
+        "external_id": "16385430",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1705490100,
+        "last_update": 1705490092259,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 14,
+        "scheduled_duration": 850,
+        "scheduled_timestamp": 1705490040,
+        "season_number": "5",
+        "serial": 1705490092012,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 850,
+        "show_id": "13855449",
+        "show_timestamp": 1705490031,
+        "status": "current",
+        "summary": "Grandpa Louie has a new online friend, the only problem is she isn't real.",
+        "summary_long": "When Gumball and Darwin realise Grandpa Louie has no friends on Elmore Plus, they feel bad so they create one called Muriel. However when Granny Jojo finds out Louie has been spending time online with another 'woman', Muriel not existing isn't going to stop her from being destroyed.",
+        "title": "The Catfish",
+        "title_id": "2089013",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1164,11 +1235,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228422_020_02_851",
-        "create_time": 1705423113926,
-        "episode_in_season": "20",
-        "episode_number": "S5:E20",
-        "external_id": "16385430",
+        "content_id": "228422_021_02_851",
+        "create_time": 1705423113927,
+        "episode_in_season": "21",
+        "episode_number": "S5:E21",
+        "external_id": "16385431",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -1177,8 +1248,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1705490100,
-        "last_update": 1705487156124,
+        "guide_timestamp": 1705491000,
+        "last_update": 1705490092259,
         "live": false,
         "participants": [
             {
@@ -1216,20 +1287,20 @@
         "press_hold": false,
         "release_year": 2016,
         "runtime_minutes": 14,
-        "scheduled_duration": 850,
-        "scheduled_timestamp": 1705490040,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1705490880,
         "season_number": "5",
-        "serial": 1705487133954,
+        "serial": 1705490092012,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 850,
-        "show_id": "13855449",
-        "show_timestamp": 1705490040,
+        "show_duration": 820,
+        "show_id": "13855450",
+        "show_timestamp": 1705490871,
         "status": "estimated",
-        "summary": "Grandpa Louie has a new online friend, the only problem is she isn't real.",
-        "summary_long": "When Gumball and Darwin realise Grandpa Louie has no friends on Elmore Plus, they feel bad so they create one called Muriel. However when Granny Jojo finds out Louie has been spending time online with another 'woman', Muriel not existing isn't going to stop her from being destroyed.",
-        "title": "The Catfish",
-        "title_id": "2089013",
+        "summary": "The kids find out that Richard has been picked on by the same person since high school.",
+        "summary_long": "Gumball, Darwin and Anais discover that Mr Wilson has been picking on their Dad for most of his life; ever since he humiliated Richard with a high school prank. The kids try to work Dad through it but when their efforts fail, they realize that getting back at Mr Wilson is the only way to break the cycle.",
+        "title": "The Cycle",
+        "title_id": "2089015",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1306,11 +1377,11 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228422_021_02_851",
-        "create_time": 1705423113927,
-        "episode_in_season": "21",
-        "episode_number": "S5:E21",
-        "external_id": "16385431",
+        "content_id": "228422_022_02_851",
+        "create_time": 1705423114706,
+        "episode_in_season": "22",
+        "episode_number": "S5:E22",
+        "external_id": "16385432",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
@@ -1319,8 +1390,8 @@
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1705491000,
-        "last_update": 1705487156126,
+        "guide_timestamp": 1705491600,
+        "last_update": 1705490092260,
         "live": false,
         "participants": [
             {
@@ -1358,20 +1429,20 @@
         "press_hold": false,
         "release_year": 2016,
         "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1705490880,
+        "scheduled_duration": 880,
+        "scheduled_timestamp": 1705491720,
         "season_number": "5",
-        "serial": 1705487133954,
+        "serial": 1705490092012,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 840,
-        "show_id": "13855450",
-        "show_timestamp": 1705490880,
+        "show_duration": 880,
+        "show_id": "13855451",
+        "show_timestamp": 1705491714,
         "status": "estimated",
-        "summary": "The kids find out that Richard has been picked on by the same person since high school.",
-        "summary_long": "Gumball, Darwin and Anais discover that Mr Wilson has been picking on their Dad for most of his life; ever since he humiliated Richard with a high school prank. The kids try to work Dad through it but when their efforts fail, they realize that getting back at Mr Wilson is the only way to break the cycle.",
-        "title": "The Cycle",
-        "title_id": "2089015",
+        "summary": "Gumball and Darwin decide to use online reviews to wrangle free stuff.",
+        "summary_long": "When Dad gives Larry's hairdresser a bad review for saying he's bald, he gets offered a free haircut. This inspires Gumball and Darwin to go on a reviewing spree across town, forcing Larry to give them stuff with the threat of a bad review. Just because the customer is always right doesn't mean that what they're doing isn't wrong.",
+        "title": "The Stars",
+        "title_id": "2089017",
         "tv_rating": "TV-Y7-FV"
     },
     {
@@ -1448,73 +1519,40 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228422_022_02_851",
-        "create_time": 1705423114706,
-        "episode_in_season": "22",
-        "episode_number": "S5:E22",
-        "external_id": "16385432",
+        "content_id": "233136_010_01_851",
+        "create_time": 1705423114707,
+        "episode_in_season": "10",
+        "episode_number": "10",
+        "external_id": "16385433",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
+        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1705491600,
-        "last_update": 1705487156128,
+        "guide_timestamp": 1705492500,
+        "last_update": 1705490092260,
         "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 14,
-        "scheduled_duration": 880,
-        "scheduled_timestamp": 1705491720,
-        "season_number": "5",
-        "serial": 1705487133954,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 880,
-        "show_id": "13855451",
-        "show_timestamp": 1705491720,
+        "release_year": 2017,
+        "runtime_minutes": 4,
+        "scheduled_duration": 240,
+        "scheduled_timestamp": 1705492560,
+        "season_number": "1",
+        "serial": 1705490092012,
+        "series_id": "2118583",
+        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
+        "show_duration": 215,
+        "show_id": "13855452",
+        "show_timestamp": 1705492558,
         "status": "estimated",
-        "summary": "Gumball and Darwin decide to use online reviews to wrangle free stuff.",
-        "summary_long": "When Dad gives Larry's hairdresser a bad review for saying he's bald, he gets offered a free haircut. This inspires Gumball and Darwin to go on a reviewing spree across town, forcing Larry to give them stuff with the threat of a bad review. Just because the customer is always right doesn't mean that what they're doing isn't wrong.",
-        "title": "The Stars",
-        "title_id": "2089017",
-        "tv_rating": "TV-Y7-FV"
+        "summary": "Ivandoe and Bert must remove an annoying creature from the \"nose\" of a magical mountain in order to continue on their quest. They almost come to a very sticky end\u2026",
+        "title": "The Prince and the Moany Mountain",
+        "title_id": "2118589",
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -1557,40 +1595,52 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "233136_010_01_851",
-        "create_time": 1705423114707,
-        "episode_in_season": "10",
-        "episode_number": "10",
-        "external_id": "16385433",
+        "content_id": "235002_016_02_851",
+        "create_time": 1705423114708,
+        "episode_in_season": "16",
+        "episode_number": "S2:E16",
+        "external_id": "16385434",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "franchise_name": "Looney Tunes Show, The",
         "genres": [
             "Animation",
             "Children",
             "Comedy"
         ],
-        "guide_timestamp": 1705492500,
-        "last_update": 1705487156130,
+        "guide_timestamp": 1705492800,
+        "last_update": 1705490092261,
         "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2017,
-        "runtime_minutes": 4,
-        "scheduled_duration": 240,
-        "scheduled_timestamp": 1705492560,
-        "season_number": "1",
-        "serial": 1705487133954,
-        "series_id": "2118583",
-        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
-        "show_duration": 240,
-        "show_id": "13855452",
-        "show_timestamp": 1705492560,
+        "release_year": 2013,
+        "runtime_minutes": 29,
+        "scheduled_duration": 1740,
+        "scheduled_timestamp": 1705492800,
+        "season_number": "2",
+        "serial": 1705490092012,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1728,
+        "show_id": "13855453",
+        "show_timestamp": 1705492798,
         "status": "estimated",
-        "summary": "Ivandoe and Bert must remove an annoying creature from the \"nose\" of a magical mountain in order to continue on their quest. They almost come to a very sticky end\u2026",
-        "title": "The Prince and the Moany Mountain",
-        "title_id": "2118589",
-        "tv_rating": "TV-Y7"
+        "summary": "Tensions flare when Bugs and Porky start a business together selling carrot cake.",
+        "title": "Mrs. Porkbunny's",
+        "title_id": "896891",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -1645,52 +1695,102 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235002_016_02_851",
-        "create_time": 1705423114708,
-        "episode_in_season": "16",
-        "episode_number": "S2:E16",
-        "external_id": "16385434",
+        "content_id": "228558_037_02_851",
+        "create_time": 1705423114709,
+        "episode_in_season": "37",
+        "episode_number": "S1:E37",
+        "external_id": "16385435",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Looney Tunes Show, The",
+        "franchise_name": "Bugs Bunny Builders",
         "genres": [
             "Animation",
             "Children",
-            "Comedy"
+            "Family"
         ],
-        "guide_timestamp": 1705492800,
-        "last_update": 1705423114708,
+        "guide_timestamp": 1705494600,
+        "last_update": 1705490092261,
         "live": false,
         "participants": [
             {
                 "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
+                "name": "Eric Bauza",
                 "role": "Voice"
             },
             {
                 "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
                 "name": "Jeff Bergman",
                 "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2013,
-        "runtime_minutes": 29,
-        "scheduled_duration": 1740,
-        "scheduled_timestamp": 1705492800,
-        "season_number": "2",
-        "serial": 1705423114199,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1740,
-        "show_id": "13855453",
-        "show_timestamp": 1705492800,
+        "release_year": 2021,
+        "runtime_minutes": 14,
+        "scheduled_duration": 851,
+        "scheduled_timestamp": 1705494540,
+        "season_number": "1",
+        "serial": 1705490092012,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 851,
+        "show_id": "13855454",
+        "show_timestamp": 1705494539,
         "status": "estimated",
-        "summary": "Tensions flare when Bugs and Porky start a business together selling carrot cake.",
-        "title": "Mrs. Porkbunny's",
-        "title_id": "896891",
-        "tv_rating": "TV-PG"
+        "summary": "Chef Poyung Panda hires The Looney Builders to build her a Dim Sum bus in China. The crew faces a major setback and Bugs worries about letting down his favorite chef.",
+        "title": "Dim Sum",
+        "title_id": "2267195",
+        "tv_rating": "TV-Y"
     },
     {
         "blackout_type": "none",
@@ -1785,106 +1885,6 @@
         "series_name": "Bugs Bunny Builders",
         "show_duration": 840,
         "show_id": "274489414",
-        "show_timestamp": 1705494540,
-        "status": "estimated",
-        "summary": "Chef Poyung Panda hires The Looney Builders to build her a Dim Sum bus in China. The crew faces a major setback and Bugs worries about letting down his favorite chef.",
-        "title": "Dim Sum",
-        "title_id": "2267195",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228558_037_02_851",
-        "create_time": 1705423114709,
-        "episode_in_season": "37",
-        "episode_number": "S1:E37",
-        "external_id": "16385435",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders",
-        "genres": [
-            "Animation",
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1705494600,
-        "last_update": 1705440054118,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 14,
-        "scheduled_duration": 851,
-        "scheduled_timestamp": 1705494540,
-        "season_number": "1",
-        "serial": 1705440053964,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 851,
-        "show_id": "13855454",
         "show_timestamp": 1705494540,
         "status": "estimated",
         "summary": "Chef Poyung Panda hires The Looney Builders to build her a Dim Sum bus in China. The crew faces a major setback and Bugs worries about letting down his favorite chef.",
@@ -2209,7 +2209,7 @@
             "Family"
         ],
         "guide_timestamp": 1705495500,
-        "last_update": 1705423114710,
+        "last_update": 1705489226595,
         "live": false,
         "participants": [
             {
@@ -2280,10 +2280,10 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1705495560,
         "season_number": "1",
-        "serial": 1705423114199,
+        "serial": 1705489226368,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 840,
+        "show_duration": 835,
         "show_id": "13855456",
         "show_timestamp": 1705495560,
         "status": "estimated",
@@ -2347,7 +2347,7 @@
             "Family"
         ],
         "guide_timestamp": 1705496400,
-        "last_update": 1705487156779,
+        "last_update": 1705489226596,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2356,10 +2356,10 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1705496400,
         "season_number": "1",
-        "serial": 1705487156365,
+        "serial": 1705489226368,
         "series_id": "2357112",
         "series_name": "CoComelon",
-        "show_duration": 840,
+        "show_duration": 834,
         "show_id": "13855457",
         "show_timestamp": 1705496400,
         "status": "estimated",
