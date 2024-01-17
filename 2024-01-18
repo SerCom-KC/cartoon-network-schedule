@@ -270,5 +270,167 @@
         "title": "Galvin",
         "title_id": "2199304",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "228511_004_02_851",
+        "create_time": 1705466254454,
+        "episode_in_season": "4",
+        "episode_number": "S12:E04",
+        "external_id": "16385417",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Squidbillies",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1705558500,
+        "last_update": 1705466254454,
+        "live": false,
+        "participants": [
+            {
+                "character": "Russell Cuyler",
+                "name": "Daniel McDevitt",
+                "role": "Voice"
+            },
+            {
+                "character": "Granny Cuyler",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "The Sheriff",
+                "name": "Bobby Ellerbee",
+                "role": "Voice"
+            },
+            {
+                "character": "Lil Cuyler",
+                "name": "Patricia French",
+                "role": "Voice"
+            },
+            {
+                "character": "Dan Halen",
+                "name": "Todd Hanson",
+                "role": "Voice"
+            },
+            {
+                "character": "Krystal",
+                "name": "Mary Kraft",
+                "role": "Voice"
+            },
+            {
+                "character": "Deputy Denny",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Early Cuyler",
+                "name": "Unknown Hinson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1705558500,
+        "season_number": "12",
+        "serial": 1705466254121,
+        "series_id": "581268",
+        "series_name": "Squidbillies",
+        "show_duration": 902,
+        "show_id": "13855511",
+        "show_timestamp": 1705558500,
+        "status": "estimated",
+        "summary": "Early finds a priceless civil war relic and sells it for the right price.",
+        "title": "The Reenactment of the Repulsion of the Siege of Cuyler Mountain",
+        "title_id": "2199305",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_012_02_851",
+        "create_time": 1705466254492,
+        "episode_in_season": "12",
+        "episode_number": "S18:E10",
+        "external_id": "16385418",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1705559400,
+        "last_update": 1705466254492,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1705559400,
+        "season_number": "18",
+        "serial": 1705466254121,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13855512",
+        "show_timestamp": 1705559400,
+        "status": "estimated",
+        "summary": "When Stan goes too far to keep his work friend away from Francine, she is forced to save her new \"little\" friend.",
+        "title": "Frantastic Voyage",
+        "title_id": "2392763",
+        "tv_rating": "TV-14"
     }
 ]
