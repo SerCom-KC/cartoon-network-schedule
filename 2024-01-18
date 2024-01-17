@@ -1006,5 +1006,52 @@
         "title": "Moody Foodie",
         "title_id": "2003442",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169768_008_03_851",
+        "create_time": 1705481034583,
+        "episode_in_season": "8",
+        "episode_number": "S2:E08",
+        "external_id": "16385428",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1705573800,
+        "last_update": 1705481034583,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1814,
+        "scheduled_timestamp": 1705573800,
+        "season_number": "2",
+        "serial": 1705481034130,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1814,
+        "show_id": "13855522",
+        "show_timestamp": 1705573800,
+        "status": "estimated",
+        "summary": "Bad Tina: Tina starts hanging out with bad girl Tammy in an effort to get closer to Jimmy Junior.",
+        "title": "Bad Tina",
+        "title_id": "2003443",
+        "tv_rating": "TV-14"
     }
 ]
