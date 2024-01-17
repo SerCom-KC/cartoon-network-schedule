@@ -1609,7 +1609,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705492800,
-        "last_update": 1705494540331,
+        "last_update": 1705498142667,
         "live": false,
         "participants": [
             {
@@ -1630,7 +1630,7 @@
         "scheduled_duration": 1740,
         "scheduled_timestamp": 1705492800,
         "season_number": "2",
-        "serial": 1705494540098,
+        "serial": 1705498142476,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1729,
@@ -2384,7 +2384,7 @@
             "Family"
         ],
         "guide_timestamp": 1705497300,
-        "last_update": 1705497427229,
+        "last_update": 1705497464099,
         "live": false,
         "participants": [
             {
@@ -2430,10 +2430,10 @@
         "scheduled_duration": 186,
         "scheduled_timestamp": 1705497240,
         "season_number": "1",
-        "serial": 1705497427032,
+        "serial": 1705497463889,
         "series_id": "2405571",
         "series_name": "Meet the Batwheels",
-        "show_duration": 190,
+        "show_duration": 185,
         "show_id": "13855458",
         "show_timestamp": 1705497233,
         "status": "actual",
@@ -2520,6 +2520,80 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228868_029_02_851",
+        "create_time": 1705423114713,
+        "episode_in_season": "29",
+        "episode_number": "S1:E33",
+        "external_id": "16385440",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Batwheels",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1705497300,
+        "last_update": 1705497488578,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1705497420,
+        "season_number": "1",
+        "serial": 1705497488353,
+        "series_id": "2267111",
+        "series_name": "Batwheels",
+        "show_duration": 840,
+        "show_id": "13855459",
+        "show_timestamp": 1705497418,
+        "status": "current",
+        "summary": "Much to everyone's surprise, Bam is secretly afraid of the dark. When Poison Ivy knocks out all the power in Gotham, Bam must conquer his fears to stop her.",
+        "title": "The Dark Night",
+        "title_id": "2267134",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228868_029_02_851",
         "create_time": 1705404377735,
         "episode_in_season": "29",
         "episode_number": "S1:E33",
@@ -2593,80 +2667,6 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228868_029_02_851",
-        "create_time": 1705423114713,
-        "episode_in_season": "29",
-        "episode_number": "S1:E33",
-        "external_id": "16385440",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Batwheels",
-        "genres": [
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1705497300,
-        "last_update": 1705497427228,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Caroline Kermel",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Fink",
-                "role": "Producer"
-            },
-            {
-                "character": "Buff",
-                "name": "Noah Kaye Bentley",
-                "role": "Voice"
-            },
-            {
-                "character": "Bam",
-                "name": "Jacob Bertrand",
-                "role": "Voice"
-            },
-            {
-                "character": "Batman",
-                "name": "Ethan Hawke",
-                "role": "Voice"
-            },
-            {
-                "character": "Robin",
-                "name": "AJ Hudson",
-                "role": "Voice"
-            },
-            {
-                "character": "Bibi",
-                "name": "Madigan Kacmar",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2022,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1705497420,
-        "season_number": "1",
-        "serial": 1705497427032,
-        "series_id": "2267111",
-        "series_name": "Batwheels",
-        "show_duration": 830,
-        "show_id": "13855459",
-        "show_timestamp": 1705497423,
-        "status": "current",
-        "summary": "Much to everyone's surprise, Bam is secretly afraid of the dark. When Poison Ivy knocks out all the power in Gotham, Bam must conquer his fears to stop her.",
-        "title": "The Dark Night",
-        "title_id": "2267134",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
         "content_id": "252832_015_01_851",
         "create_time": 1705423114714,
         "episode_in_season": "15",
@@ -2681,7 +2681,7 @@
             "Family"
         ],
         "guide_timestamp": 1705498200,
-        "last_update": 1705497286567,
+        "last_update": 1705497488579,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2690,12 +2690,12 @@
         "scheduled_duration": 842,
         "scheduled_timestamp": 1705498260,
         "season_number": "1",
-        "serial": 1705497286395,
+        "serial": 1705497488353,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 842,
         "show_id": "13855460",
-        "show_timestamp": 1705498256,
+        "show_timestamp": 1705498258,
         "status": "estimated",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "Yes Yes Bedtime Song/ One Potato, Two Potatoes/ The Car Color Song",
@@ -2756,7 +2756,7 @@
             "Family"
         ],
         "guide_timestamp": 1705499100,
-        "last_update": 1705497286567,
+        "last_update": 1705497488580,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2765,12 +2765,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1705499100,
         "season_number": "1",
-        "serial": 1705497286395,
+        "serial": 1705497488353,
         "series_id": "2368373",
         "series_name": "Jessica's Big Little World",
         "show_duration": 901,
         "show_id": "13855461",
-        "show_timestamp": 1705499098,
+        "show_timestamp": 1705499099,
         "status": "estimated",
         "summary": "When Jessica pet sits Stanleigh's hedgehog, she has to think on her feet.",
         "title": "Spike the Hedgehog",
@@ -2831,7 +2831,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705500000,
-        "last_update": 1705497286568,
+        "last_update": 1705497488581,
         "live": false,
         "participants": [
             {
@@ -2857,7 +2857,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1705500000,
         "season_number": "2",
-        "serial": 1705497286395,
+        "serial": 1705497488353,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 840,
