@@ -1916,106 +1916,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228558_039_02_851",
-        "create_time": 1705508127366,
-        "episode_in_season": "39",
-        "episode_number": "S1:E39",
-        "external_id": "16385272",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders",
-        "genres": [
-            "Animation",
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1705581000,
-        "last_update": 1705585426473,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 14,
-        "scheduled_duration": 865,
-        "scheduled_timestamp": 1705580940,
-        "season_number": "1",
-        "serial": 1705585426264,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 866,
-        "show_id": "13854935",
-        "show_timestamp": 1705580940,
-        "status": "actual",
-        "summary": "The Looney Builders rush to build a soccer stadium in Mexico for their fast customer, Speedy Gonzalez.",
-        "title": "Speedy",
-        "title_id": "2267191",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228558_039_02_851",
         "create_time": 1705487807903,
         "episode_in_season": "39",
         "episode_number": "S1:E39",
@@ -2107,6 +2007,106 @@
         "show_id": "274493510",
         "show_timestamp": 1705580940,
         "status": "estimated",
+        "summary": "The Looney Builders rush to build a soccer stadium in Mexico for their fast customer, Speedy Gonzalez.",
+        "title": "Speedy",
+        "title_id": "2267191",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228558_039_02_851",
+        "create_time": 1705508127366,
+        "episode_in_season": "39",
+        "episode_number": "S1:E39",
+        "external_id": "16385272",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1705581000,
+        "last_update": 1705585426473,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 14,
+        "scheduled_duration": 865,
+        "scheduled_timestamp": 1705580940,
+        "season_number": "1",
+        "serial": 1705585426264,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 866,
+        "show_id": "13854935",
+        "show_timestamp": 1705580940,
+        "status": "actual",
         "summary": "The Looney Builders rush to build a soccer stadium in Mexico for their fast customer, Speedy Gonzalez.",
         "title": "Speedy",
         "title_id": "2267191",
@@ -3196,43 +3196,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "250994_012_02_851",
-        "create_time": 1705508127368,
-        "episode_in_season": "12",
-        "episode_number": "S1:E06",
-        "external_id": "16385279",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Jessica's Big Little World",
-        "genres": [
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1705585500,
-        "last_update": 1705590006450,
-        "live": false,
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2024,
-        "runtime_minutes": 15,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1705585500,
-        "season_number": "1",
-        "serial": 1705590006067,
-        "series_id": "2368373",
-        "series_name": "Jessica's Big Little World",
-        "show_duration": 901,
-        "show_id": "13854942",
-        "show_timestamp": 1705585500,
-        "status": "actual",
-        "summary": "Jessica opens a restaurant with her good friend Stanleigh, but will they be able to keep their customers happy?",
-        "title": "Jessica's Restaurant",
-        "title_id": "2395525",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "250994_012_02_851",
         "create_time": 1705493241067,
         "episode_in_season": "12",
         "episode_number": "S1:E06",
@@ -3261,6 +3224,43 @@
         "show_id": "274493580",
         "show_timestamp": 1705585500,
         "status": "estimated",
+        "summary": "Jessica opens a restaurant with her good friend Stanleigh, but will they be able to keep their customers happy?",
+        "title": "Jessica's Restaurant",
+        "title_id": "2395525",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250994_012_02_851",
+        "create_time": 1705508127368,
+        "episode_in_season": "12",
+        "episode_number": "S1:E06",
+        "external_id": "16385279",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jessica's Big Little World",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1705585500,
+        "last_update": 1705590006450,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1705585500,
+        "season_number": "1",
+        "serial": 1705590006067,
+        "series_id": "2368373",
+        "series_name": "Jessica's Big Little World",
+        "show_duration": 901,
+        "show_id": "13854942",
+        "show_timestamp": 1705585500,
+        "status": "actual",
         "summary": "Jessica opens a restaurant with her good friend Stanleigh, but will they be able to keep their customers happy?",
         "title": "Jessica's Restaurant",
         "title_id": "2395525",
@@ -4420,77 +4420,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228422_038_02_851",
-        "create_time": 1705508128595,
-        "episode_in_season": "38",
-        "episode_number": "S5:E38",
-        "external_id": "16385289",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Amazing World of Gumball, The",
-        "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
-        ],
-        "guide_timestamp": 1705595400,
-        "last_update": 1705599962439,
-        "live": false,
-        "participants": [
-            {
-                "character": "Gumball Watterson",
-                "name": "Jacob Hopkins",
-                "role": "Voice"
-            },
-            {
-                "character": "Darwin Watterson",
-                "name": "Terrell Ransom Jr.",
-                "role": "Voice"
-            },
-            {
-                "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
-            },
-            {
-                "character": "Richard Watterson",
-                "name": "Dan Russell",
-                "role": "Voice"
-            },
-            {
-                "character": "Nicole Watterson",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            },
-            {
-                "character": "Penny Fitzgerald",
-                "name": "Teresa Gallagher",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2016,
-        "runtime_minutes": 15,
-        "scheduled_duration": 910,
-        "scheduled_timestamp": 1705595400,
-        "season_number": "5",
-        "serial": 1705599962252,
-        "series_id": "835928",
-        "series_name": "The Amazing World of Gumball",
-        "show_duration": 911,
-        "show_id": "13854952",
-        "show_timestamp": 1705595400,
-        "status": "actual",
-        "summary": "The Wattersons will do whatever it takes to get into the first screening of the latest Stellar Odyssey sequel.",
-        "summary_long": "The family has waited in line outside the movie theater all night. They are devastated when Larry tells them they won't get into the first screening of the Stellar Odyssey sequel. But, hardcore fans that they are, the Wattersons are determined to be the first to see the movie and so set about battling their way to the front of the queue.",
-        "title": "The Line",
-        "title_id": "2089031",
-        "tv_rating": "TV-Y7-FV"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228422_038_02_851",
         "create_time": 1705504738190,
         "episode_in_season": "38",
         "episode_number": "S5:E38",
@@ -4552,6 +4481,77 @@
         "show_id": "274493680",
         "show_timestamp": 1705595400,
         "status": "estimated",
+        "summary": "The Wattersons will do whatever it takes to get into the first screening of the latest Stellar Odyssey sequel.",
+        "summary_long": "The family has waited in line outside the movie theater all night. They are devastated when Larry tells them they won't get into the first screening of the Stellar Odyssey sequel. But, hardcore fans that they are, the Wattersons are determined to be the first to see the movie and so set about battling their way to the front of the queue.",
+        "title": "The Line",
+        "title_id": "2089031",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228422_038_02_851",
+        "create_time": 1705508128595,
+        "episode_in_season": "38",
+        "episode_number": "S5:E38",
+        "external_id": "16385289",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1705595400,
+        "last_update": 1705599962439,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1705595400,
+        "season_number": "5",
+        "serial": 1705599962252,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 911,
+        "show_id": "13854952",
+        "show_timestamp": 1705595400,
+        "status": "actual",
         "summary": "The Wattersons will do whatever it takes to get into the first screening of the latest Stellar Odyssey sequel.",
         "summary_long": "The family has waited in line outside the movie theater all night. They are devastated when Larry tells them they won't get into the first screening of the Stellar Odyssey sequel. But, hardcore fans that they are, the Wattersons are determined to be the first to see the movie and so set about battling their way to the front of the queue.",
         "title": "The Line",
@@ -4646,7 +4646,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705596300,
-        "last_update": 1705597280488,
+        "last_update": 1705600881965,
         "live": false,
         "participants": [
             {
@@ -4687,7 +4687,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1705596300,
         "season_number": "5",
-        "serial": 1705597280238,
+        "serial": 1705600881718,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 893,
@@ -4767,7 +4767,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705597200,
-        "last_update": 1705598118809,
+        "last_update": 1705601723906,
         "live": false,
         "participants": [
             {
@@ -4788,7 +4788,7 @@
         "scheduled_duration": 902,
         "scheduled_timestamp": 1705597200,
         "season_number": "1",
-        "serial": 1705598118534,
+        "serial": 1705601723660,
         "series_id": "2133648",
         "series_name": "Apple & Onion",
         "show_duration": 902,
@@ -4977,7 +4977,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705599900,
-        "last_update": 1705599944850,
+        "last_update": 1705600818624,
         "live": false,
         "participants": [
             {
@@ -5008,13 +5008,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1705599900,
         "season_number": "2",
-        "serial": 1705599944658,
+        "serial": 1705600818393,
         "series_id": "2012957",
         "series_name": "Clarence",
-        "show_duration": 894,
+        "show_duration": 892,
         "show_id": "13854957",
         "show_timestamp": 1705599901,
-        "status": "current",
+        "status": "actual",
         "summary": "Clarence, Jeff and Sumo investigate a high school party down the street, which they mistake for an alien invasion.",
         "title": "Attack the Block Party",
         "title_id": "2065514",
@@ -5037,7 +5037,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705600800,
-        "last_update": 1705599944851,
+        "last_update": 1705601705254,
         "live": false,
         "participants": [
             {
@@ -5068,13 +5068,13 @@
         "scheduled_duration": 911,
         "scheduled_timestamp": 1705600800,
         "season_number": "2",
-        "serial": 1705599944658,
+        "serial": 1705601705004,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 911,
         "show_id": "13854958",
-        "show_timestamp": 1705600801,
-        "status": "estimated",
+        "show_timestamp": 1705600793,
+        "status": "actual",
         "summary": "After a pit stop bathroom break during a school field trip, Clarence returns to the parking lot and accidentally gets on the wrong school bus - which takes him to a different school!",
         "title": "Field Trippin'",
         "title_id": "2065515",
@@ -5097,7 +5097,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705601700,
-        "last_update": 1705599944852,
+        "last_update": 1705601749260,
         "live": false,
         "participants": [
             {
@@ -5128,13 +5128,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1705601700,
         "season_number": "2",
-        "serial": 1705599944658,
+        "serial": 1705601749056,
         "series_id": "2012957",
         "series_name": "Clarence",
         "show_duration": 895,
         "show_id": "13854959",
-        "show_timestamp": 1705601700,
-        "status": "estimated",
+        "show_timestamp": 1705601704,
+        "status": "current",
         "summary": "Clarence enlists the help of his eccentric neighbor Larry to take the trio out for ice cream and the ride of their lives!",
         "title": "Ice Cream Hunt",
         "title_id": "2065516",
@@ -5157,7 +5157,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705602600,
-        "last_update": 1705511515620,
+        "last_update": 1705601749260,
         "live": false,
         "participants": [
             {
@@ -5183,12 +5183,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1705602600,
         "season_number": "2",
-        "serial": 1705511515357,
+        "serial": 1705601749056,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
         "show_id": "13854960",
-        "show_timestamp": 1705602600,
+        "show_timestamp": 1705602604,
         "status": "estimated",
         "summary": "The circle game wreaks havoc on the Creek, so Craig forms a council to restore order.",
         "title": "Council of the Creek",
@@ -5212,7 +5212,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705603500,
-        "last_update": 1705511515620,
+        "last_update": 1705601749261,
         "live": false,
         "participants": [
             {
@@ -5238,7 +5238,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1705603500,
         "season_number": "2",
-        "serial": 1705511515357,
+        "serial": 1705601749056,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -5267,7 +5267,7 @@
             "Animation"
         ],
         "guide_timestamp": 1705604400,
-        "last_update": 1705511515621,
+        "last_update": 1705601749261,
         "live": false,
         "participants": [
             {
@@ -5318,10 +5318,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1705604400,
         "season_number": "4",
-        "serial": 1705511515357,
+        "serial": 1705601749056,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
-        "show_duration": 900,
+        "show_duration": 897,
         "show_id": "13854962",
         "show_timestamp": 1705604400,
         "status": "estimated",
@@ -5507,7 +5507,7 @@
             "Animation"
         ],
         "guide_timestamp": 1705607100,
-        "last_update": 1705514904258,
+        "last_update": 1705600864943,
         "live": false,
         "participants": [
             {
@@ -5558,10 +5558,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1705607100,
         "season_number": "4",
-        "serial": 1705514903931,
+        "serial": 1705600864646,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
-        "show_duration": 900,
+        "show_duration": 887,
         "show_id": "13854965",
         "show_timestamp": 1705607100,
         "status": "estimated",
