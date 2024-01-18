@@ -834,5 +834,110 @@
         "title": "Live at the Necropolis: Lords of Synth",
         "title_id": "2086420",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "229692_019_02_851",
+        "create_time": 1705566035696,
+        "episode_in_season": "19",
+        "episode_number": "S1:E19",
+        "external_id": "16385208",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Infomercials",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1705657500,
+        "last_update": 1705566035696,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bruce",
+                "name": "Jerry Lambert",
+                "role": "Actor"
+            },
+            {
+                "character": "Hector",
+                "name": "Jay Jackson",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Various",
+                "role": "Actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1705657500,
+        "season_number": "1",
+        "serial": 1705566035463,
+        "series_id": "2007823",
+        "series_name": "Infomercials",
+        "show_duration": 900,
+        "show_id": "13855001",
+        "show_timestamp": 1705657500,
+        "status": "estimated",
+        "summary": "Horrible news bloopers from Your 7 News that should not be aired - Adults Only.",
+        "title": "NewsHits",
+        "title_id": "2086422",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169771_001_03_851",
+        "create_time": 1705566035696,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "16385209",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1705658400,
+        "last_update": 1705566035696,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1705658400,
+        "season_number": "3",
+        "serial": 1705566035463,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1805,
+        "show_id": "13855002",
+        "show_timestamp": 1705658400,
+        "status": "estimated",
+        "summary": "A biker gang hangs out at Bob's Burgers as they mourn the loss of their beloved leader \"Horny Dave.\" Meanwhile, Louise has an identity crisis when her bunny ears are stolen and everyone - including the biker gang - rallies around her.",
+        "title": "Ear-sy Rider",
+        "title_id": "2003512",
+        "tv_rating": "TV-14"
     }
 ]
