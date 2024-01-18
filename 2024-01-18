@@ -1916,106 +1916,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "228558_039_02_851",
-        "create_time": 1705508127366,
-        "episode_in_season": "39",
-        "episode_number": "S1:E39",
-        "external_id": "16385272",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders",
-        "genres": [
-            "Animation",
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1705581000,
-        "last_update": 1705585426473,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2021,
-        "runtime_minutes": 14,
-        "scheduled_duration": 865,
-        "scheduled_timestamp": 1705580940,
-        "season_number": "1",
-        "serial": 1705585426264,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 866,
-        "show_id": "13854935",
-        "show_timestamp": 1705580940,
-        "status": "actual",
-        "summary": "The Looney Builders rush to build a soccer stadium in Mexico for their fast customer, Speedy Gonzalez.",
-        "title": "Speedy",
-        "title_id": "2267191",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228558_039_02_851",
         "create_time": 1705487807903,
         "episode_in_season": "39",
         "episode_number": "S1:E39",
@@ -2107,6 +2007,106 @@
         "show_id": "274493510",
         "show_timestamp": 1705580940,
         "status": "estimated",
+        "summary": "The Looney Builders rush to build a soccer stadium in Mexico for their fast customer, Speedy Gonzalez.",
+        "title": "Speedy",
+        "title_id": "2267191",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228558_039_02_851",
+        "create_time": 1705508127366,
+        "episode_in_season": "39",
+        "episode_number": "S1:E39",
+        "external_id": "16385272",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1705581000,
+        "last_update": 1705585426473,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 14,
+        "scheduled_duration": 865,
+        "scheduled_timestamp": 1705580940,
+        "season_number": "1",
+        "serial": 1705585426264,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 866,
+        "show_id": "13854935",
+        "show_timestamp": 1705580940,
+        "status": "actual",
         "summary": "The Looney Builders rush to build a soccer stadium in Mexico for their fast customer, Speedy Gonzalez.",
         "title": "Speedy",
         "title_id": "2267191",
@@ -3196,43 +3196,6 @@
         "blackout_type": "none",
         "content_advisories": [],
         "content_id": "250994_012_02_851",
-        "create_time": 1705508127368,
-        "episode_in_season": "12",
-        "episode_number": "S1:E06",
-        "external_id": "16385279",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Jessica's Big Little World",
-        "genres": [
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1705585500,
-        "last_update": 1705590006450,
-        "live": false,
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2024,
-        "runtime_minutes": 15,
-        "scheduled_duration": 901,
-        "scheduled_timestamp": 1705585500,
-        "season_number": "1",
-        "serial": 1705590006067,
-        "series_id": "2368373",
-        "series_name": "Jessica's Big Little World",
-        "show_duration": 901,
-        "show_id": "13854942",
-        "show_timestamp": 1705585500,
-        "status": "actual",
-        "summary": "Jessica opens a restaurant with her good friend Stanleigh, but will they be able to keep their customers happy?",
-        "title": "Jessica's Restaurant",
-        "title_id": "2395525",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "250994_012_02_851",
         "create_time": 1705493241067,
         "episode_in_season": "12",
         "episode_number": "S1:E06",
@@ -3261,6 +3224,43 @@
         "show_id": "274493580",
         "show_timestamp": 1705585500,
         "status": "estimated",
+        "summary": "Jessica opens a restaurant with her good friend Stanleigh, but will they be able to keep their customers happy?",
+        "title": "Jessica's Restaurant",
+        "title_id": "2395525",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250994_012_02_851",
+        "create_time": 1705508127368,
+        "episode_in_season": "12",
+        "episode_number": "S1:E06",
+        "external_id": "16385279",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jessica's Big Little World",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1705585500,
+        "last_update": 1705590006450,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1705585500,
+        "season_number": "1",
+        "serial": 1705590006067,
+        "series_id": "2368373",
+        "series_name": "Jessica's Big Little World",
+        "show_duration": 901,
+        "show_id": "13854942",
+        "show_timestamp": 1705585500,
+        "status": "actual",
         "summary": "Jessica opens a restaurant with her good friend Stanleigh, but will they be able to keep their customers happy?",
         "title": "Jessica's Restaurant",
         "title_id": "2395525",
@@ -3908,7 +3908,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1705590000,
-        "last_update": 1705591867696,
+        "last_update": 1705595469930,
         "live": false,
         "participants": [
             {
@@ -3939,7 +3939,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1705590000,
         "season_number": "2",
-        "serial": 1705591867479,
+        "serial": 1705595469667,
         "series_id": "2168685",
         "series_name": "Scooby-Doo and Guess Who?",
         "show_duration": 1804,
@@ -4362,7 +4362,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705594500,
-        "last_update": 1705594551432,
+        "last_update": 1705595411173,
         "live": false,
         "participants": [
             {
@@ -4403,13 +4403,13 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1705594500,
         "season_number": "5",
-        "serial": 1705594551251,
+        "serial": 1705595410979,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 895,
         "show_id": "13854951",
         "show_timestamp": 1705594505,
-        "status": "current",
+        "status": "actual",
         "summary": "The residents of Elmore go to extreme lengths to ditch the Wattersons.",
         "summary_long": "The Wattersons fear the worst when they are summoned to a Town Hall meeting, but are pleasantly surprised when they're offered a brand new house.  Until they discover it's in a different state! The Mayor of Elmore has decided they are bringing down the real estate value of the entire town so the family have to prove that they're upstanding members of the community.",
         "title": "The Nuisance",
@@ -4504,7 +4504,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705595400,
-        "last_update": 1705594551433,
+        "last_update": 1705595443529,
         "live": false,
         "participants": [
             {
@@ -4545,13 +4545,13 @@
         "scheduled_duration": 910,
         "scheduled_timestamp": 1705595400,
         "season_number": "5",
-        "serial": 1705594551251,
+        "serial": 1705595443356,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 910,
         "show_id": "13854952",
-        "show_timestamp": 1705595405,
-        "status": "estimated",
+        "show_timestamp": 1705595400,
+        "status": "current",
         "summary": "The Wattersons will do whatever it takes to get into the first screening of the latest Stellar Odyssey sequel.",
         "summary_long": "The family has waited in line outside the movie theater all night. They are devastated when Larry tells them they won't get into the first screening of the Stellar Odyssey sequel. But, hardcore fans that they are, the Wattersons are determined to be the first to see the movie and so set about battling their way to the front of the queue.",
         "title": "The Line",
@@ -4646,7 +4646,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1705596300,
-        "last_update": 1705594551434,
+        "last_update": 1705595443530,
         "live": false,
         "participants": [
             {
@@ -4687,12 +4687,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1705596300,
         "season_number": "5",
-        "serial": 1705594551251,
+        "serial": 1705595443356,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 895,
         "show_id": "13854953",
-        "show_timestamp": 1705596301,
+        "show_timestamp": 1705596300,
         "status": "estimated",
         "summary": "The kids try to brighten Nicole's day by taking on her to-do list.",
         "summary_long": "When the kids find out that Mom's life hasn't panned out exactly as she'd hoped, they try to make her day a bit easier by taking on her chores. However, they accidentally grab her bucket list instead of her to-do list and end up attempting to tick off all of Nicole's life goals.",
