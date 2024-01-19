@@ -953,5 +953,45 @@
         "title": "The Boring Identity",
         "title_id": "748214",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233062_005_01_851",
+        "create_time": 1705648030811,
+        "episode_in_season": "5",
+        "episode_number": "S10:E05",
+        "external_id": "16385145",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1705741200,
+        "last_update": 1705648030811,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1705741200,
+        "season_number": "10",
+        "serial": 1705648030611,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "13855070",
+        "show_timestamp": 1705741200,
+        "status": "estimated",
+        "summary": "Bender becomes a famous firefighter, but the crew suspects him of arson.",
+        "title": "The Inhuman Torch",
+        "title_id": "2161663",
+        "tv_rating": "TV-14"
     }
 ]
