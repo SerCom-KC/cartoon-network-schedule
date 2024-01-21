@@ -620,5 +620,94 @@
         "title": "Adrift",
         "title_id": "2224139",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "252041_003_02_851",
+        "create_time": 1705822092726,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16387815",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1705914900,
+        "last_update": 1705822092726,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Pete Michels",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Brian Wysol",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1705914900,
+        "season_number": "1",
+        "serial": 1705822092520,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "show_duration": 900,
+        "show_id": "13857095",
+        "show_timestamp": 1705914900,
+        "status": "estimated",
+        "summary": "Chubbie Webbers, posing as a Hot Streets agent, must save the universe.",
+        "title": "Super Agent",
+        "title_id": "2131834",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233394_005_01_851",
+        "create_time": 1705822282138,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "16387816",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Momma Named Me Sheriff",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1705915800,
+        "last_update": 1705822282138,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 916,
+        "scheduled_timestamp": 1705915800,
+        "season_number": "1",
+        "serial": 1705822281911,
+        "series_id": "2196566",
+        "series_name": "Momma Named Me Sheriff",
+        "show_duration": 916,
+        "show_id": "13857096",
+        "show_timestamp": 1705915800,
+        "status": "estimated",
+        "summary": "Sheriff tries to cheer up Carl by finding him a bald cure. Meanwhile, Tommy feels responsible for jeopardizing an astronaut's life.",
+        "title": "Bald Boyz",
+        "title_id": "2196571",
+        "tv_rating": "TV-MA"
     }
 ]
