@@ -16,7 +16,7 @@
             "Action"
         ],
         "guide_timestamp": 1705813200,
-        "last_update": 1705766695136,
+        "last_update": 1705802507473,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -25,12 +25,12 @@
         "scheduled_duration": 1895,
         "scheduled_timestamp": 1705813200,
         "season_number": "2",
-        "serial": 1705766694733,
+        "serial": 1705802507223,
         "series_id": "2209292",
         "series_name": "Demon Slayer:  Kimetsu no Yaiba",
         "show_duration": 1880,
         "show_id": "13867531",
-        "show_timestamp": 1705813215,
+        "show_timestamp": 1705813216,
         "status": "estimated",
         "summary": "Tanjiro finds his family slaughtered by a demon. Through devastated by this grim reality, Tanjiro becomes a Demon Slayer so that he can turn his sister back into a human and kill the demon that massacred his family.",
         "summary_long": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a Demon Slayer so that he can turn his sister back into a human and kill the demon that massacred his family. A sorrowful tale of siblings in which the fates of humans and demons intertwine...begins now!",
@@ -3319,5 +3319,141 @@
         "title": "The Three Fs",
         "title_id": "2342099",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_013_01_851",
+        "create_time": 1705803004841,
+        "episode_in_season": "13",
+        "episode_number": "S17:E13",
+        "external_id": "16385649",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1705894200,
+        "last_update": 1705803004841,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1705894200,
+        "season_number": "17",
+        "serial": 1705803004509,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "13855708",
+        "show_timestamp": 1705894200,
+        "status": "estimated",
+        "summary": "Roger is forced to confront himself after a series of accidents. Klaus and Jeff bond.",
+        "title": "The Fast and the Spurious",
+        "title_id": "2342102",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "250984_005_02_851",
+        "create_time": 1705803004841,
+        "episode_in_season": "5",
+        "episode_number": "S7:E05",
+        "external_id": "16385650",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1705896000,
+        "last_update": 1705803004841,
+        "live": false,
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1705896000,
+        "season_number": "7",
+        "serial": 1705803004509,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1805,
+        "show_id": "13855709",
+        "show_timestamp": 1705896000,
+        "status": "estimated",
+        "summary": "Rick and Morty wilding out, broh. They getting up to stuff.",
+        "title": "Unmortricken",
+        "title_id": "2424787",
+        "tv_rating": "TV-MA"
     }
 ]
