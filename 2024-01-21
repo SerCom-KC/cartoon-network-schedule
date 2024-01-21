@@ -16,7 +16,7 @@
             "Action"
         ],
         "guide_timestamp": 1705813200,
-        "last_update": 1705804278727,
+        "last_update": 1705806036547,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -25,12 +25,12 @@
         "scheduled_duration": 1895,
         "scheduled_timestamp": 1705813200,
         "season_number": "2",
-        "serial": 1705804278529,
+        "serial": 1705806036333,
         "series_id": "2209292",
         "series_name": "Demon Slayer:  Kimetsu no Yaiba",
         "show_duration": 1880,
         "show_id": "13867531",
-        "show_timestamp": 1705813215,
+        "show_timestamp": 1705813217,
         "status": "estimated",
         "summary": "Tanjiro finds his family slaughtered by a demon. Through devastated by this grim reality, Tanjiro becomes a Demon Slayer so that he can turn his sister back into a human and kill the demon that massacred his family.",
         "summary_long": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a Demon Slayer so that he can turn his sister back into a human and kill the demon that massacred his family. A sorrowful tale of siblings in which the fates of humans and demons intertwine...begins now!",
@@ -57,7 +57,7 @@
             "Action"
         ],
         "guide_timestamp": 1705815000,
-        "last_update": 1705766695137,
+        "last_update": 1705806036548,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -66,12 +66,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1705815000,
         "season_number": "3",
-        "serial": 1705766694733,
+        "serial": 1705806036333,
         "series_id": "2207385",
         "series_name": "Dr. Stone",
         "show_duration": 1741,
         "show_id": "13867532",
-        "show_timestamp": 1705815010,
+        "show_timestamp": 1705815011,
         "status": "estimated",
         "summary": "Senku stands victorious. He then works on reviving the others and fixing their communications device, but while they are talking with Ruri they encounter a strong interference with the signal.",
         "title": "FIRST DREAM",
@@ -3455,5 +3455,65 @@
         "title": "Unmortricken",
         "title_id": "2424787",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "250984_009_02_851",
+        "create_time": 1705806860740,
+        "episode_in_season": "9",
+        "episode_number": "S7:E06",
+        "external_id": "16385651",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1705897800,
+        "last_update": 1705806860740,
+        "live": false,
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1705897800,
+        "season_number": "7",
+        "serial": 1705806860462,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13855710",
+        "show_timestamp": 1705897800,
+        "status": "estimated",
+        "summary": "Gotta keep those receipts, dawg.",
+        "title": "Rickfending Your Mort",
+        "title_id": "2424791",
+        "tv_rating": "TV-14"
     }
 ]
