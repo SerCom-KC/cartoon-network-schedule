@@ -709,5 +709,88 @@
         "title": "Bald Boyz",
         "title_id": "2196571",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233394_006_01_851",
+        "create_time": 1705824433162,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "16387817",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Momma Named Me Sheriff",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1705916700,
+        "last_update": 1705824433162,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 917,
+        "scheduled_timestamp": 1705916700,
+        "season_number": "1",
+        "serial": 1705824432932,
+        "series_id": "2196566",
+        "series_name": "Momma Named Me Sheriff",
+        "show_duration": 917,
+        "show_id": "13857097",
+        "show_timestamp": 1705916700,
+        "status": "estimated",
+        "summary": "When Goodman buries his family TV, it rises from the grave, demanding to be entertained.",
+        "title": "TV",
+        "title_id": "2196572",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_019_02_851",
+        "create_time": 1705824433163,
+        "episode_in_season": "19",
+        "episode_number": "S10:E19",
+        "external_id": "16385667",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1705917600,
+        "last_update": 1705824433163,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1705917600,
+        "season_number": "10",
+        "serial": 1705824432932,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13855726",
+        "show_timestamp": 1705917600,
+        "status": "estimated",
+        "summary": "The kids try to cheer Teddy up.",
+        "summary_long": "When Teddy finds himself doubting his abilities as a handyman, the kids build up his confidence.",
+        "title": "The Handyman Can",
+        "title_id": "2438957",
+        "tv_rating": "TV-PG"
     }
 ]
