@@ -1134,7 +1134,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706007600,
-        "last_update": 1706012064126,
+        "last_update": 1706016192726,
         "live": false,
         "participants": [
             {
@@ -1175,7 +1175,7 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1706007600,
         "season_number": "6",
-        "serial": 1706012063893,
+        "serial": 1706016192583,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 821,
@@ -1669,7 +1669,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706010900,
-        "last_update": 1706011213476,
+        "last_update": 1706014814423,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -1678,7 +1678,7 @@
         "scheduled_duration": 240,
         "scheduled_timestamp": 1706010960,
         "season_number": "1",
-        "serial": 1706011213234,
+        "serial": 1706014814221,
         "series_id": "2118583",
         "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
         "show_duration": 196,
@@ -2287,7 +2287,7 @@
             "Family"
         ],
         "guide_timestamp": 1706013900,
-        "last_update": 1706013988539,
+        "last_update": 1706014874443,
         "live": false,
         "participants": [
             {
@@ -2358,13 +2358,13 @@
         "scheduled_duration": 850,
         "scheduled_timestamp": 1706013960,
         "season_number": "1",
-        "serial": 1706013988360,
+        "serial": 1706014874215,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
-        "show_duration": 881,
+        "show_duration": 849,
         "show_id": "13855134",
         "show_timestamp": 1706013952,
-        "status": "current",
+        "status": "actual",
         "summary": "The Looney Builders learn that Taz accidentally destroyed his house, so they set out to build him a new one that's smash-proof.",
         "title": "Smash House",
         "title_id": "2267160",
@@ -2525,7 +2525,7 @@
             "Family"
         ],
         "guide_timestamp": 1706014800,
-        "last_update": 1706014021545,
+        "last_update": 1706015678727,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2534,13 +2534,13 @@
         "scheduled_duration": 870,
         "scheduled_timestamp": 1706014800,
         "season_number": "1",
-        "serial": 1706014021361,
+        "serial": 1706015678545,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 870,
         "show_id": "13855135",
-        "show_timestamp": 1706014819,
-        "status": "estimated",
+        "show_timestamp": 1706014801,
+        "status": "actual",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "My Big Brother Song/ Field Day Song/ My Sister Song/ Father and Sons Song",
         "title_id": "2435774",
@@ -2703,7 +2703,7 @@
             "Family"
         ],
         "guide_timestamp": 1706015700,
-        "last_update": 1706014021545,
+        "last_update": 1706015873652,
         "live": false,
         "participants": [
             {
@@ -2814,16 +2814,100 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1706015640,
         "season_number": "3",
-        "serial": 1706014021361,
+        "serial": 1706015873463,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
         "show_duration": 148,
         "show_id": "13857454",
-        "show_timestamp": 1706015655,
-        "status": "estimated",
+        "show_timestamp": 1706015671,
+        "status": "actual",
         "summary": "Ella uses her tools to pick vegetables, scatter grain, plant flowers, dig weeds and rake leaves.",
         "title": "Down by the Lellobee Farm",
         "title_id": "2356449",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228868_032_02_851",
+        "create_time": 1705939923090,
+        "episode_in_season": "32",
+        "episode_number": "S1:E36",
+        "external_id": "16385083",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Batwheels",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1706015700,
+        "last_update": 1706015873651,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 14,
+        "scheduled_duration": 840,
+        "scheduled_timestamp": 1706015820,
+        "season_number": "1",
+        "serial": 1706015873463,
+        "series_id": "2267111",
+        "series_name": "Batwheels",
+        "show_duration": 840,
+        "show_id": "13855137",
+        "show_timestamp": 1706015819,
+        "status": "current",
+        "summary": "After refusing to practice with her new underwater mode, Batwing is unable to save Batman from Penguin's sunken ship trap. The Batwheels must help Wing practice her submersible skills before she can save the day.",
+        "title": "A Jet Out of Water",
+        "title_id": "2267145",
         "tv_rating": "TV-Y"
     },
     {
@@ -2913,90 +2997,6 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "228868_032_02_851",
-        "create_time": 1705939923090,
-        "episode_in_season": "32",
-        "episode_number": "S1:E36",
-        "external_id": "16385083",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Batwheels",
-        "genres": [
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1706015700,
-        "last_update": 1706014021546,
-        "live": false,
-        "participants": [
-            {
-                "character": null,
-                "name": "Caroline Kermel",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Steven Fink",
-                "role": "Producer"
-            },
-            {
-                "character": "Buff",
-                "name": "Noah Kaye Bentley",
-                "role": "Voice"
-            },
-            {
-                "character": "Bam",
-                "name": "Jacob Bertrand",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Ethan Hawke",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "AJ Hudson",
-                "role": "Voice"
-            },
-            {
-                "character": "Batman",
-                "name": "Ethan Hawke",
-                "role": "Voice"
-            },
-            {
-                "character": "Robin",
-                "name": "AJ Hudson",
-                "role": "Voice"
-            },
-            {
-                "character": "Bibi",
-                "name": "Madigan Kacmar",
-                "role": "Voice"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2022,
-        "runtime_minutes": 14,
-        "scheduled_duration": 840,
-        "scheduled_timestamp": 1706015820,
-        "season_number": "1",
-        "serial": 1706014021361,
-        "series_id": "2267111",
-        "series_name": "Batwheels",
-        "show_duration": 839,
-        "show_id": "13855137",
-        "show_timestamp": 1706015835,
-        "status": "estimated",
-        "summary": "After refusing to practice with her new underwater mode, Batwing is unable to save Batman from Penguin's sunken ship trap. The Batwheels must help Wing practice her submersible skills before she can save the day.",
-        "title": "A Jet Out of Water",
-        "title_id": "2267145",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
         "content_id": "252832_029_01_851",
         "create_time": 1705924510096,
         "episode_in_season": "29",
@@ -3049,7 +3049,7 @@
             "Family"
         ],
         "guide_timestamp": 1706016600,
-        "last_update": 1706014021546,
+        "last_update": 1706014893504,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -3058,12 +3058,12 @@
         "scheduled_duration": 846,
         "scheduled_timestamp": 1706016660,
         "season_number": "1",
-        "serial": 1706014021361,
+        "serial": 1706014893251,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 846,
         "show_id": "13855138",
-        "show_timestamp": 1706016671,
+        "show_timestamp": 1706016660,
         "status": "estimated",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "Basketball Song/ Piggy Bank Song/ Bingo V2 (Farm Version)/ Pretend Play Song",
@@ -3123,7 +3123,7 @@
             "Family"
         ],
         "guide_timestamp": 1706017500,
-        "last_update": 1706014021547,
+        "last_update": 1706014893505,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -3132,12 +3132,12 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1706017500,
         "season_number": "1",
-        "serial": 1706014021361,
+        "serial": 1706014893251,
         "series_id": "2368373",
         "series_name": "Jessica's Big Little World",
         "show_duration": 895,
         "show_id": "13855139",
-        "show_timestamp": 1706017508,
+        "show_timestamp": 1706017500,
         "status": "estimated",
         "summary": "Jessica wants to be a big kid and get ready for bed all on her own, but she can't remember everything in her routine.",
         "title": "Bedtime Routine",
@@ -3216,7 +3216,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706018400,
-        "last_update": 1706014021547,
+        "last_update": 1706014827284,
         "live": false,
         "participants": [
             {
@@ -3242,12 +3242,12 @@
         "scheduled_duration": 841,
         "scheduled_timestamp": 1706018400,
         "season_number": "2",
-        "serial": 1706014021361,
+        "serial": 1706014827053,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 841,
         "show_id": "13855140",
-        "show_timestamp": 1706018404,
+        "show_timestamp": 1706018400,
         "status": "estimated",
         "summary": "Craig and his friends stumble upon a mysterious bunker made of cardboard beneath the Creek.",
         "title": "The Cardboard Identity",
