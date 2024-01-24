@@ -68,5 +68,114 @@
         "title": "A Rickconvenient Mort",
         "title_id": "2270460",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L"
+        ],
+        "content_id": "251835_003_03_851",
+        "create_time": 1706068584085,
+        "episode_in_season": "3",
+        "episode_number": "S10:E03",
+        "external_id": "16385601",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1706160600,
+        "last_update": 1706068584085,
+        "live": false,
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1706160600,
+        "season_number": "10",
+        "serial": 1706068583850,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 910,
+        "show_id": "13855653",
+        "show_timestamp": 1706160600,
+        "status": "estimated",
+        "summary": "Master Shake's crippling addiction to shellfish leads to a long-overdue intervention.",
+        "title": "Merlo Sauvignon Blanco",
+        "title_id": "2005990",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "251835_004_03_851",
+        "create_time": 1706068584085,
+        "episode_in_season": "4",
+        "episode_number": "S10:E04",
+        "external_id": "16385602",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1706161500,
+        "last_update": 1706068584085,
+        "live": false,
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1706161500,
+        "season_number": "10",
+        "serial": 1706068583850,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 900,
+        "show_id": "13855654",
+        "show_timestamp": 1706161500,
+        "status": "estimated",
+        "summary": "Meatwad's discovery of a mysterious banana-shaped planet calls for some last minute interplanetary exploration.",
+        "title": "Banana Planet",
+        "title_id": "2005992",
+        "tv_rating": "TV-MA"
     }
 ]
