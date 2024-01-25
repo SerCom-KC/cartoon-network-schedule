@@ -1148,7 +1148,7 @@
             "Family"
         ],
         "guide_timestamp": 1706178600,
-        "last_update": 1706180421400,
+        "last_update": 1706184029450,
         "live": false,
         "participants": [
             {
@@ -1164,7 +1164,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1706178600,
         "season_number": "4",
-        "serial": 1706180421132,
+        "serial": 1706184029217,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1788,
@@ -1263,7 +1263,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706180400,
-        "last_update": 1706181338512,
+        "last_update": 1706184950321,
         "live": false,
         "participants": [
             {
@@ -1304,7 +1304,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1706180400,
         "season_number": "1",
-        "serial": 1706181338312,
+        "serial": 1706184950098,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 886,
@@ -1333,7 +1333,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706181300,
-        "last_update": 1706182213355,
+        "last_update": 1706185821127,
         "live": false,
         "participants": [
             {
@@ -1374,7 +1374,7 @@
         "scheduled_duration": 855,
         "scheduled_timestamp": 1706181300,
         "season_number": "1",
-        "serial": 1706182212776,
+        "serial": 1706185820840,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 856,
@@ -1848,7 +1848,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706184000,
-        "last_update": 1706183896813,
+        "last_update": 1706184046545,
         "live": false,
         "participants": [
             {
@@ -1914,17 +1914,68 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1706183820,
         "season_number": "2",
-        "serial": 1706183896576,
+        "serial": 1706184046313,
         "series_id": "2106724",
         "series_name": "Lamput",
         "show_duration": 136,
         "show_id": "13855205",
         "show_timestamp": 1706183862,
-        "status": "current",
+        "status": "actual",
         "summary": "The Docs created a flickering mixture & they managed to spray Lamput with it. Now they can easily spot him as his colors flicker. The Docs enjoy chasing & easily spotting Lamput, until\u2026",
         "title": "Flicker",
         "title_id": "2168180",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235002_022_02_851",
+        "create_time": 1706113087639,
+        "episode_in_season": "22",
+        "episode_number": "S2:E22",
+        "external_id": "16385022",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1706184000,
+        "last_update": 1706185763713,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 29,
+        "scheduled_duration": 1740,
+        "scheduled_timestamp": 1706184000,
+        "season_number": "2",
+        "serial": 1706185763444,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1738,
+        "show_id": "13855206",
+        "show_timestamp": 1706183998,
+        "status": "actual",
+        "summary": "Daffy becomes campaign manager for Gossamer's run for Class President. Meanwhile, Porky moves in with Bugs and Daffy after his",
+        "summary_long": "Daffy becomes campaign manager for Gossamer's run for class president. Meanwhile, Porky moves in with Bugs and Daffy after his catering business goes broke, and spends his days reorganizing everything in the house.",
+        "title": "Gossamer Is Awesomer",
+        "title_id": "972719",
+        "tv_rating": "TV-PG"
     },
     {
         "blackout_type": "none",
@@ -1980,53 +2031,102 @@
     {
         "blackout_type": "none",
         "content_advisories": [],
-        "content_id": "235002_022_02_851",
+        "content_id": "228558_010_02_851",
         "create_time": 1706113087639,
-        "episode_in_season": "22",
-        "episode_number": "S2:E22",
-        "external_id": "16385022",
+        "episode_in_season": "10",
+        "episode_number": "S1:E10",
+        "external_id": "16385023",
         "feed_id": "as-east",
         "franchise_id": "489898",
-        "franchise_name": "Looney Tunes Show, The",
+        "franchise_name": "Bugs Bunny Builders",
         "genres": [
             "Animation",
             "Children",
-            "Comedy"
+            "Family"
         ],
-        "guide_timestamp": 1706184000,
-        "last_update": 1706183896815,
+        "guide_timestamp": 1706185800,
+        "last_update": 1706185763710,
         "live": false,
         "participants": [
             {
                 "character": "Bugs Bunny",
-                "name": "Jeff Bergman",
+                "name": "Eric Bauza",
                 "role": "Voice"
             },
             {
                 "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
                 "name": "Jeff Bergman",
                 "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2013,
-        "runtime_minutes": 29,
-        "scheduled_duration": 1740,
-        "scheduled_timestamp": 1706184000,
-        "season_number": "2",
-        "serial": 1706183896576,
-        "series_id": "824654",
-        "series_name": "The Looney Tunes Show",
-        "show_duration": 1738,
-        "show_id": "13855206",
-        "show_timestamp": 1706184042,
-        "status": "estimated",
-        "summary": "Daffy becomes campaign manager for Gossamer's run for Class President. Meanwhile, Porky moves in with Bugs and Daffy after his",
-        "summary_long": "Daffy becomes campaign manager for Gossamer's run for class president. Meanwhile, Porky moves in with Bugs and Daffy after his catering business goes broke, and spends his days reorganizing everything in the house.",
-        "title": "Gossamer Is Awesomer",
-        "title_id": "972719",
-        "tv_rating": "TV-PG"
+        "release_year": 2022,
+        "runtime_minutes": 14,
+        "scheduled_duration": 866,
+        "scheduled_timestamp": 1706185740,
+        "season_number": "1",
+        "serial": 1706185763444,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 877,
+        "show_id": "13855207",
+        "show_timestamp": 1706185736,
+        "status": "current",
+        "summary": "Bizzy Buzzard's mom hires The Looney Builders to build her family a new nest. Bizzy wants to help but keeps getting in the way creating all sorts of problems for the crew.",
+        "title": "Buzz In",
+        "title_id": "2267163",
+        "tv_rating": "TV-Y"
     },
     {
         "blackout_type": "none",
@@ -2122,106 +2222,6 @@
         "show_duration": 840,
         "show_id": "274522182",
         "show_timestamp": 1706185740,
-        "status": "estimated",
-        "summary": "Bizzy Buzzard's mom hires The Looney Builders to build her family a new nest. Bizzy wants to help but keeps getting in the way creating all sorts of problems for the crew.",
-        "title": "Buzz In",
-        "title_id": "2267163",
-        "tv_rating": "TV-Y"
-    },
-    {
-        "blackout_type": "none",
-        "content_advisories": [],
-        "content_id": "228558_010_02_851",
-        "create_time": 1706113087639,
-        "episode_in_season": "10",
-        "episode_number": "S1:E10",
-        "external_id": "16385023",
-        "feed_id": "as-east",
-        "franchise_id": "489898",
-        "franchise_name": "Bugs Bunny Builders",
-        "genres": [
-            "Animation",
-            "Children",
-            "Family"
-        ],
-        "guide_timestamp": 1706185800,
-        "last_update": 1706183896816,
-        "live": false,
-        "participants": [
-            {
-                "character": "Bugs Bunny",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Daffy Duck",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Tweety Bird",
-                "name": "Eric Bauza",
-                "role": "Voice"
-            },
-            {
-                "character": "Porky Pig",
-                "name": "Bob Bergen",
-                "role": "Voice"
-            },
-            {
-                "character": "Lola Bunny",
-                "name": "Chandni Parekh",
-                "role": "Voice"
-            },
-            {
-                "character": "Wile E. Coyote",
-                "name": "Keith Ferguson",
-                "role": "Voice"
-            },
-            {
-                "character": "Taz",
-                "name": "Fred Tatasciore",
-                "role": "Voice"
-            },
-            {
-                "character": "Sylvester James Pussycat, Sr.",
-                "name": "Jeff Bergman",
-                "role": "Voice"
-            },
-            {
-                "character": "Hoots Talon",
-                "name": "David Shaughnessy",
-                "role": "Voice"
-            },
-            {
-                "character": null,
-                "name": "Nicole Belisle",
-                "role": "Producer"
-            },
-            {
-                "character": null,
-                "name": "Abe Audish",
-                "role": "Supervising Producer"
-            },
-            {
-                "character": null,
-                "name": "Matthew Janszen",
-                "role": "Music"
-            }
-        ],
-        "premiere": false,
-        "press_hold": false,
-        "release_year": 2022,
-        "runtime_minutes": 14,
-        "scheduled_duration": 866,
-        "scheduled_timestamp": 1706185740,
-        "season_number": "1",
-        "serial": 1706183896576,
-        "series_id": "2267156",
-        "series_name": "Bugs Bunny Builders",
-        "show_duration": 866,
-        "show_id": "13855207",
-        "show_timestamp": 1706185774,
         "status": "estimated",
         "summary": "Bizzy Buzzard's mom hires The Looney Builders to build her family a new nest. Bizzy wants to help but keeps getting in the way creating all sorts of problems for the crew.",
         "title": "Buzz In",
@@ -2385,7 +2385,7 @@
             "Family"
         ],
         "guide_timestamp": 1706186700,
-        "last_update": 1706183896816,
+        "last_update": 1706184016209,
         "live": false,
         "participants": [
             {
@@ -2496,12 +2496,12 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1706186580,
         "season_number": "3",
-        "serial": 1706183896576,
+        "serial": 1706184015988,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
         "show_duration": 148,
         "show_id": "13857455",
-        "show_timestamp": 1706186611,
+        "show_timestamp": 1706186583,
         "status": "estimated",
         "summary": "Ella uses her tools to pick vegetables, scatter grain, plant flowers, dig weeds and rake leaves.",
         "title": "Down by the Lellobee Farm",
@@ -2625,7 +2625,7 @@
             "Family"
         ],
         "guide_timestamp": 1706186700,
-        "last_update": 1706183896817,
+        "last_update": 1706184016209,
         "live": false,
         "participants": [
             {
@@ -2696,12 +2696,12 @@
         "scheduled_duration": 851,
         "scheduled_timestamp": 1706186760,
         "season_number": "1",
-        "serial": 1706183896576,
+        "serial": 1706184015988,
         "series_id": "2267156",
         "series_name": "Bugs Bunny Builders",
         "show_duration": 851,
         "show_id": "13855209",
-        "show_timestamp": 1706186790,
+        "show_timestamp": 1706186762,
         "status": "estimated",
         "summary": "The Looney Builders are hired by Hoots Talon to expand and paint the old library. They enlist master painter Sylvester who faces his fear of heights with his build buddy, Tweety.",
         "title": "Stories",
@@ -2763,7 +2763,7 @@
             "Family"
         ],
         "guide_timestamp": 1706187600,
-        "last_update": 1706183896817,
+        "last_update": 1706184016210,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -2772,12 +2772,12 @@
         "scheduled_duration": 868,
         "scheduled_timestamp": 1706187600,
         "season_number": "1",
-        "serial": 1706183896576,
+        "serial": 1706184015988,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 868,
         "show_id": "13855210",
-        "show_timestamp": 1706187626,
+        "show_timestamp": 1706187601,
         "status": "estimated",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "Five Senses Song V2/ I Love the Mountains/ Head Shoulders Knees and Toes V2/ JJ Song",
@@ -2941,7 +2941,7 @@
             "Family"
         ],
         "guide_timestamp": 1706188500,
-        "last_update": 1706183896817,
+        "last_update": 1706184016210,
         "live": false,
         "participants": [
             {
@@ -3052,12 +3052,12 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1706188440,
         "season_number": "3",
-        "serial": 1706183896576,
+        "serial": 1706184015988,
         "series_id": "2356389",
         "series_name": "Lellobee City Farm",
         "show_duration": 149,
         "show_id": "13857456",
-        "show_timestamp": 1706188463,
+        "show_timestamp": 1706188440,
         "status": "estimated",
         "summary": "Ella creates a school set up at the farm and teaches her animal friends what school is all about!",
         "title": "Back To School",
@@ -3164,7 +3164,7 @@
             "Family"
         ],
         "guide_timestamp": 1706188500,
-        "last_update": 1706183896818,
+        "last_update": 1706184016211,
         "live": false,
         "participants": [
             {
@@ -3220,12 +3220,12 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1706188620,
         "season_number": "1",
-        "serial": 1706183896576,
+        "serial": 1706184015988,
         "series_id": "2267111",
         "series_name": "Batwheels",
         "show_duration": 835,
         "show_id": "13855212",
-        "show_timestamp": 1706188642,
+        "show_timestamp": 1706188620,
         "status": "estimated",
         "summary": "When a group of alley dogs, aided by a heroic stray, are saved from Catwoman by kind-hearted Buff, he brings them all back to live in the Batcave, unbeknownst to the rest of the Bat-Family.",
         "title": "Ace in the Hole",
@@ -3287,7 +3287,7 @@
             "Family"
         ],
         "guide_timestamp": 1706189400,
-        "last_update": 1706183896818,
+        "last_update": 1706184016211,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -3296,12 +3296,12 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1706189460,
         "season_number": "1",
-        "serial": 1706183896576,
+        "serial": 1706184015988,
         "series_id": "2357112",
         "series_name": "CoComelon",
         "show_duration": 837,
         "show_id": "13855213",
-        "show_timestamp": 1706189479,
+        "show_timestamp": 1706189460,
         "status": "estimated",
         "summary": "JJ and pals learn about letters, numbers, animal sounds, and more in this musical series featuring nursery rhymes.",
         "title": "Lost Hamster/ Doctor Checkup Song (School Version)/ Quiet Time/ Thank You Song V3",
@@ -3361,7 +3361,7 @@
             "Family"
         ],
         "guide_timestamp": 1706190300,
-        "last_update": 1706183896819,
+        "last_update": 1706184016212,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -3370,12 +3370,12 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1706190300,
         "season_number": "1",
-        "serial": 1706183896576,
+        "serial": 1706184015988,
         "series_id": "2368373",
         "series_name": "Jessica's Big Little World",
         "show_duration": 901,
         "show_id": "13855214",
-        "show_timestamp": 1706190315,
+        "show_timestamp": 1706190300,
         "status": "estimated",
         "summary": "When Jessica pet sits Stanleigh's hedgehog, she has to think on her feet.",
         "title": "Spike the Hedgehog",
@@ -3454,7 +3454,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706191200,
-        "last_update": 1706183897531,
+        "last_update": 1706184016747,
         "live": false,
         "participants": [
             {
@@ -3480,12 +3480,12 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1706191200,
         "season_number": "2",
-        "serial": 1706183897357,
+        "serial": 1706184016581,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 840,
         "show_id": "13855215",
-        "show_timestamp": 1706191212,
+        "show_timestamp": 1706191200,
         "status": "estimated",
         "summary": "When a rainy day keeps Craig inside, he uses his toys and imagination to create his own Creek adventure in Craig of the Creek's first musical episode!",
         "title": "In the Key of the Creek",
@@ -3564,7 +3564,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706192100,
-        "last_update": 1706183897564,
+        "last_update": 1706184016748,
         "live": false,
         "participants": [
             {
@@ -3590,12 +3590,12 @@
         "scheduled_duration": 840,
         "scheduled_timestamp": 1706192040,
         "season_number": "2",
-        "serial": 1706183897357,
+        "serial": 1706184016581,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 840,
         "show_id": "13855216",
-        "show_timestamp": 1706192048,
+        "show_timestamp": 1706192040,
         "status": "estimated",
         "summary": "Craig has tried to convince his family to get a dog for years but has never been successful, but he may have a chance if he follows the guidance of a charismatic creek kid and her three step program.",
         "title": "The Children of the Dog",
@@ -3672,7 +3672,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706193000,
-        "last_update": 1706183897564,
+        "last_update": 1706184016749,
         "live": false,
         "participants": [
             {
@@ -3698,12 +3698,12 @@
         "scheduled_duration": 841,
         "scheduled_timestamp": 1706192880,
         "season_number": "3",
-        "serial": 1706183897357,
+        "serial": 1706184016581,
         "series_id": "2056641",
         "series_name": "We Bare Bears",
         "show_duration": 841,
         "show_id": "13855217",
-        "show_timestamp": 1706192885,
+        "show_timestamp": 1706192880,
         "status": "estimated",
         "summary": "The Bears have a relaxing day at the spa. Grizz tries to get everything the spa has to offer. Panda gets trapped in the steam room with an old man. And Ice Bear plays ping pong.",
         "title": "Spa Day",
@@ -3780,7 +3780,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706193600,
-        "last_update": 1706183897565,
+        "last_update": 1706184016750,
         "live": false,
         "participants": [
             {
@@ -3806,12 +3806,12 @@
         "scheduled_duration": 946,
         "scheduled_timestamp": 1706193720,
         "season_number": "3",
-        "serial": 1706183897357,
+        "serial": 1706184016581,
         "series_id": "2056641",
         "series_name": "We Bare Bears",
         "show_duration": 946,
         "show_id": "13855218",
-        "show_timestamp": 1706193721,
+        "show_timestamp": 1706193720,
         "status": "estimated",
         "summary": "The Baby Bears meet a group of helpless bunnies. When they find out the bunnies live in fear of vicious crows, the Bears decide to become heroes and help out.",
         "title": "Bunnies",
@@ -3930,7 +3930,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706194500,
-        "last_update": 1706183897565,
+        "last_update": 1706184016751,
         "live": false,
         "participants": [
             {
@@ -3996,12 +3996,12 @@
         "scheduled_duration": 180,
         "scheduled_timestamp": 1706194620,
         "season_number": "2",
-        "serial": 1706183897357,
+        "serial": 1706184016581,
         "series_id": "2106724",
         "series_name": "Lamput",
         "show_duration": 137,
         "show_id": "13855219",
-        "show_timestamp": 1706194621,
+        "show_timestamp": 1706194620,
         "status": "estimated",
         "summary": "The Docs spot Lamput and captured him in a gym. But when Lamput morphs into exercise equipment, the Docs, encouraged by onlookers, start exercising beyond their bodily limits.",
         "title": "Gym",
@@ -4335,7 +4335,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706198400,
-        "last_update": 1706113088933,
+        "last_update": 1706184012705,
         "live": false,
         "participants": [
             {
@@ -4376,10 +4376,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1706198400,
         "season_number": "1",
-        "serial": 1706113088358,
+        "serial": 1706184012561,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 891,
         "show_id": "13855222",
         "show_timestamp": 1706198400,
         "status": "estimated",
@@ -4475,7 +4475,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1706199300,
-        "last_update": 1706113088933,
+        "last_update": 1706184604538,
         "live": false,
         "participants": [
             {
@@ -4516,10 +4516,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1706199300,
         "season_number": "1",
-        "serial": 1706113088358,
+        "serial": 1706184604312,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
-        "show_duration": 900,
+        "show_duration": 899,
         "show_id": "13855223",
         "show_timestamp": 1706199300,
         "status": "estimated",
