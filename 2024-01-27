@@ -195,7 +195,7 @@
             "Animation"
         ],
         "guide_timestamp": 1706337000,
-        "last_update": 1706295095992,
+        "last_update": 1706314562396,
         "live": false,
         "participants": [
             {
@@ -221,10 +221,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1706337000,
         "season_number": "7",
-        "serial": 1706295095804,
+        "serial": 1706314561966,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1785,
+        "show_duration": 1770,
         "show_id": "13857102",
         "show_timestamp": 1706337015,
         "status": "estimated",
@@ -644,7 +644,7 @@
             "Drama"
         ],
         "guide_timestamp": 1706349600,
-        "last_update": 1706304580600,
+        "last_update": 1706314562397,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -653,10 +653,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1706349600,
         "season_number": "13",
-        "serial": 1706304580382,
+        "serial": 1706314561966,
         "series_id": "629835",
         "series_name": "King of the Hill",
-        "show_duration": 1803,
+        "show_duration": 1773,
         "show_id": "13855336",
         "show_timestamp": 1706349605,
         "status": "estimated",
@@ -3381,6 +3381,84 @@
         "summary_long": "When Bob and Linda leave town for a romantic getaway at a Burger Convention, they ask Teddy to babysit Tina, Gene and Louise. While the parents are away, Teddy is eager to earn the coveted title of Uncle Teddy and does so by putting Tina's crush in his rightful place after discovering that he was just using her for, gasp, free burgers! Hijinks ensue.",
         "title": "Uncle Teddy",
         "title_id": "2030316",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232831_001_05_851",
+        "create_time": 1706315930962,
+        "episode_in_season": "1",
+        "episode_number": "S10:E01",
+        "external_id": "16384809",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1706409000,
+        "last_update": 1706315930962,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1706409000,
+        "season_number": "10",
+        "serial": 1706315930764,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "13855381",
+        "show_timestamp": 1706409000,
+        "status": "estimated",
+        "summary": "When her efforts to save the planet prove hopeless, Hayley decides that she might get more attention if she becomes a blonde. Meanwhile, Stan and Steve go on a mission to find a new home for the Smiths.",
+        "title": "Blonde Ambition",
+        "title_id": "2019416",
         "tv_rating": "TV-14"
     }
 ]
