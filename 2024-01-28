@@ -370,5 +370,46 @@
         "title": "The Night Feeder",
         "title_id": "2211164",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233062_011_01_851",
+        "create_time": 1706338814663,
+        "episode_in_season": "11",
+        "episode_number": "S10:E11",
+        "external_id": "16384816",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1706432400,
+        "last_update": 1706338814663,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1706432400,
+        "season_number": "10",
+        "serial": 1706338814008,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "13855388",
+        "show_timestamp": 1706432400,
+        "status": "estimated",
+        "summary": "The crew becomes trapped aboard ship with a horrific alien creature.",
+        "title": "Murder on the Planet Express",
+        "title_id": "2161669",
+        "tv_rating": "TV-14"
     }
 ]
