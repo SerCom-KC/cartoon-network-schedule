@@ -890,5 +890,89 @@
         "title": "Sunday Man",
         "title_id": "2196573",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233394_008_01_851",
+        "create_time": 1706429587020,
+        "episode_in_season": "8",
+        "episode_number": "S1:E08",
+        "external_id": "16387837",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Momma Named Me Sheriff",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1706521500,
+        "last_update": 1706429587020,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1706521500,
+        "season_number": "1",
+        "serial": 1706429586740,
+        "series_id": "2196566",
+        "series_name": "Momma Named Me Sheriff",
+        "show_duration": 900,
+        "show_id": "13857114",
+        "show_timestamp": 1706521500,
+        "status": "estimated",
+        "summary": "Previously, on Momma Named Me Sheriff...",
+        "title": "Chili Snakes",
+        "title_id": "2196574",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250265_001_02_851",
+        "create_time": 1706429587056,
+        "episode_in_season": "1",
+        "episode_number": "S11:E01",
+        "external_id": "16385727",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1706522400,
+        "last_update": 1706429587056,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1706522400,
+        "season_number": "11",
+        "serial": 1706429586740,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1803,
+        "show_id": "13855788",
+        "show_timestamp": 1706522400,
+        "status": "estimated",
+        "summary": "Bob hunts for a key.",
+        "summary_long": "Bob goes on an epic quest to find a misplaced lock box key. Tina attempts to learn a hand-slapping song that everyone can do - but her.",
+        "title": "Dream a Little Bob of Bob",
+        "title_id": "2438961",
+        "tv_rating": "TV-PG"
     }
 ]
