@@ -2072,5 +2072,59 @@
         "title": "The Other Side: The Tournament",
         "title_id": "2214532",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228763_040_02_851",
+        "create_time": 1706445515301,
+        "episode_in_season": "40",
+        "episode_number": "S3:E40",
+        "external_id": "16385748",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "We Bare Bears",
+        "genres": [
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1706538600,
+        "last_update": 1706445515301,
+        "live": false,
+        "participants": [
+            {
+                "character": "Grizzly",
+                "name": "Eric Edelstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Demetri Martin",
+                "role": "Voice"
+            },
+            {
+                "character": "Panda",
+                "name": "Bobby Moynihan",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 841,
+        "scheduled_timestamp": 1706538480,
+        "season_number": "3",
+        "serial": 1706445515158,
+        "series_id": "2056641",
+        "series_name": "We Bare Bears",
+        "show_duration": 841,
+        "show_id": "13855805",
+        "show_timestamp": 1706538480,
+        "status": "estimated",
+        "summary": "The Bears participate in a brother-themed game show against Panda's ex-BFF, Tom, and his roommates.",
+        "title": "Bro Brawl",
+        "title_id": "2088752",
+        "tv_rating": "TV-Y7"
     }
 ]
