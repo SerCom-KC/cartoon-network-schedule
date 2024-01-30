@@ -269,5 +269,83 @@
         "title": "Ol' Hootie",
         "title_id": "2323131",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232831_010_05_851",
+        "create_time": 1706589384190,
+        "episode_in_season": "10",
+        "episode_number": "S10:E10",
+        "external_id": "16385866",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1706682600,
+        "last_update": 1706589384190,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1706682600,
+        "season_number": "10",
+        "serial": 1706589384005,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1803,
+        "show_id": "13855925",
+        "show_timestamp": 1706682600,
+        "status": "estimated",
+        "summary": "While on vacation in Los Angeles, Stan joins the world of old Hollywood.",
+        "title": "A Star Is Reborn",
+        "title_id": "2019424",
+        "tv_rating": "TV-14"
     }
 ]
