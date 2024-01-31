@@ -612,7 +612,7 @@
             "Animation"
         ],
         "guide_timestamp": 1706774400,
-        "last_update": 1706740106895,
+        "last_update": 1706743889792,
         "live": false,
         "participants": [
             {
@@ -648,10 +648,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1706774400,
         "season_number": "1",
-        "serial": 1706740106762,
+        "serial": 1706743889579,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1799,
+        "show_duration": 1784,
         "show_id": "13856003",
         "show_timestamp": 1706774405,
         "status": "estimated",
@@ -682,7 +682,7 @@
             "Animation"
         ],
         "guide_timestamp": 1706776200,
-        "last_update": 1706735441032,
+        "last_update": 1706743889792,
         "live": false,
         "participants": [
             {
@@ -718,10 +718,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1706776200,
         "season_number": "1",
-        "serial": 1706735440858,
+        "serial": 1706743889579,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1812,
+        "show_duration": 1782,
         "show_id": "13856004",
         "show_timestamp": 1706776215,
         "status": "estimated",
@@ -4345,6 +4345,102 @@
         "summary": "Peggy loses her job as a substitute teacher after she spanks an unruly student.",
         "title": "To Spank with Love",
         "title_id": "731253",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "169687_008_03_851",
+        "create_time": 1706743149976,
+        "episode_in_season": "8",
+        "episode_number": "S5:E08",
+        "external_id": "16386059",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1706835600,
+        "last_update": 1706743149976,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1706835600,
+        "season_number": "5",
+        "serial": 1706743149788,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13856061",
+        "show_timestamp": 1706835600,
+        "status": "estimated",
+        "summary": "When Tina is up for a hall monitor promotion, she is determined to do whatever it takes to nab the job so she enlists the help of Gene and Louise. Back at the restaurant, Linda begins to decorate the walls with customer artwork on napkins.",
+        "summary_long": "When Tina is up for a big hall monitor promotion, she is determined to do whatever it takes to nab the powerful job, so she enlists the help of Gene and Louise. Meanwhile, back at the restaurant, Linda gets artsy and begins to decorate the walls with customer artwork on napkins.",
+        "title": "Midday Run",
+        "title_id": "2065456",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169687_009_03_851",
+        "create_time": 1706743889793,
+        "episode_in_season": "9",
+        "episode_number": "S5:E09",
+        "external_id": "16386060",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1706837400,
+        "last_update": 1706743889793,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1706837400,
+        "season_number": "5",
+        "serial": 1706743889579,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1803,
+        "show_id": "13856062",
+        "show_timestamp": 1706837400,
+        "status": "estimated",
+        "summary": "Tina, Gene and Louise are ready to put the pedal to the metal when they join a go-kart league. Meanwhile, back at the restaurant, Bob and Teddy partner up to serve Teddy's home-brewed beer.",
+        "title": "Speakeasy Rider",
+        "title_id": "2065459",
         "tv_rating": "TV-PG"
     }
 ]
