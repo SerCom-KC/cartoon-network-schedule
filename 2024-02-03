@@ -985,5 +985,44 @@
         "title": "Meanwhile",
         "title_id": "2161671",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233072_001_03_851",
+        "create_time": 1706859158499,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16385946",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1706952600,
+        "last_update": 1706859158499,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1706952600,
+        "season_number": "1",
+        "serial": 1706859158323,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1805,
+        "show_id": "13856151",
+        "show_timestamp": 1706952600,
+        "status": "estimated",
+        "summary": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
+        "title": "Space Pilot 3000",
+        "title_id": "437533",
+        "tv_rating": "TV-PG"
     }
 ]
