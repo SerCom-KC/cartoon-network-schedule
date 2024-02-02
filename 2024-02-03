@@ -3227,5 +3227,145 @@
         "title": "The DVD",
         "title_id": "839533",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228419_003_02_851",
+        "create_time": 1706897704099,
+        "episode_in_season": "3",
+        "episode_number": "S1:EL03",
+        "external_id": "16417061",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1706989500,
+        "last_update": 1706897704099,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 11,
+        "scheduled_duration": 906,
+        "scheduled_timestamp": 1706989500,
+        "season_number": "1",
+        "serial": 1706897703843,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 906,
+        "show_id": "13856185",
+        "show_timestamp": 1706989500,
+        "status": "estimated",
+        "summary": "Gumball and Darwin spice up their friendship by introducing a third best friend.",
+        "title": "The Third",
+        "title_id": "839571",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229140_000_04_851",
+        "create_time": 1706897704099,
+        "external_id": "16386155",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! The WWE Mystery",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1706990400,
+        "last_update": 1706897704099,
+        "live": false,
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "Voice"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "Voice"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Brandon Vietti",
+                "role": "Director"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 82,
+        "scheduled_duration": 6300,
+        "scheduled_timestamp": 1706990400,
+        "serial": 1706897703843,
+        "series_id": "76850",
+        "series_name": "Scooby-Doo! Wrestlemania Mystery",
+        "show_duration": 6300,
+        "show_id": "13856186",
+        "show_timestamp": 1706990400,
+        "status": "estimated",
+        "summary": "When Shaggy and Scooby win tickets to WrestleMania, the entire gang travels to WWE City to attend the event. When a mysterious ghostly bear appears and threatens to ruin the show, Scooby and gang work with WWE to solve the case.",
+        "summary_long": "When Shaggy and Scooby win tickets to WrestleMania, the entire gang travels to WWE City to attend the epic event. However, when a mysterious ghostly bear appears and threatens to ruin the show, Scooby and gang work with WWE to solve the case.",
+        "title": "Scooby-Doo! The WWE Mystery",
+        "title_id": "845010",
+        "tv_rating": "TV-PG"
     }
 ]
