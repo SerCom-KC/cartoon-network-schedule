@@ -868,5 +868,122 @@
         "title": "N.S.A. (No Snoops Allowed)",
         "title_id": "2041477",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "232833_005_05_851",
+        "create_time": 1706857377324,
+        "episode_in_season": "5",
+        "episode_number": "S11:E05",
+        "external_id": "16385944",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1706949000,
+        "last_update": 1706857377324,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1706949000,
+        "season_number": "11",
+        "serial": 1706857377003,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13856149",
+        "show_timestamp": 1706949000,
+        "status": "estimated",
+        "summary": "Stan goes undercover as a surfer a la Point Break. Steve befriends a drifter, Hayley might be pregnant and Roger wants the World Cup to be held in their backyard.",
+        "title": "Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers",
+        "title_id": "2041478",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233062_013_01_851",
+        "create_time": 1706857377325,
+        "episode_in_season": "13",
+        "episode_number": "S10:E13",
+        "external_id": "16385945",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1706950800,
+        "last_update": 1706857377325,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1706950800,
+        "season_number": "10",
+        "serial": 1706857377003,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "13856150",
+        "show_timestamp": 1706950800,
+        "status": "estimated",
+        "summary": "Fry asks Leela to marry him, and they face their destiny together as the Professor's latest invention alters the fabric of time.",
+        "title": "Meanwhile",
+        "title_id": "2161671",
+        "tv_rating": "TV-14"
     }
 ]
