@@ -408,5 +408,83 @@
         "title": "Jambalaya",
         "title_id": "2342106",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_020_01_851",
+        "create_time": 1707024134052,
+        "episode_in_season": "20",
+        "episode_number": "S17:E20",
+        "external_id": "16385314",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1707116400,
+        "last_update": 1707024134052,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1707116400,
+        "season_number": "17",
+        "serial": 1707024133806,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13855438",
+        "show_timestamp": 1707116400,
+        "status": "estimated",
+        "summary": "Hoping to teach him the value of sharing, the family recreates a television show from Klaus's childhood. Roger has a piano recital.",
+        "title": "Gernot and Strudel",
+        "title_id": "2342107",
+        "tv_rating": "TV-14"
     }
 ]
