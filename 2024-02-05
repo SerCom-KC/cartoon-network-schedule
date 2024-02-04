@@ -938,5 +938,52 @@
         "title": "Charter",
         "title_id": "2247951",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250265_006_02_851",
+        "create_time": 1707035157397,
+        "episode_in_season": "6",
+        "episode_number": "S11:E06",
+        "external_id": "16385322",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1707127200,
+        "last_update": 1707035157397,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1707127200,
+        "season_number": "11",
+        "serial": 1707035157215,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1802,
+        "show_id": "13855446",
+        "show_timestamp": 1707127200,
+        "status": "estimated",
+        "summary": "The Belchers scramble to keep the restaurant open.",
+        "summary_long": "The family must figure out how to keep the restaurant open after Bob's flattop breaks on the morning of the Ocean Avenue Business Association's: Ocean Fest on Ocean Avenue.",
+        "title": "Bob Belcher and the Terrible, Horrible, No Good, Very Bad Kids",
+        "title_id": "2438966",
+        "tv_rating": "TV-PG"
     }
 ]
