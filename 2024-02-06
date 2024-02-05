@@ -819,5 +819,53 @@
         "title": "Smokin', Drinkin', and Chillin'",
         "title_id": "2031265",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169687_019_03_851",
+        "create_time": 1707120049447,
+        "episode_in_season": "19",
+        "episode_number": "S5:E19",
+        "external_id": "16410546",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1707213600,
+        "last_update": 1707120049447,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1824,
+        "scheduled_timestamp": 1707213600,
+        "season_number": "5",
+        "serial": 1707120049276,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1824,
+        "show_id": "13889087",
+        "show_timestamp": 1707213600,
+        "status": "estimated",
+        "summary": "In true Belcher fashion, the family gets stuck in a terrible storm while taking care of a beach house in Craggy Neck. The storm is the least of their worries when they are forced to take shelter with the mysterious owner of the home.",
+        "title": "Housetrap",
+        "title_id": "2065468",
+        "tv_rating": "TV-PG"
     }
 ]
