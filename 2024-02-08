@@ -4786,5 +4786,75 @@
         "title": "Standard Deviation",
         "title_id": "2046306",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251737_011_03_851",
+        "create_time": 1707359667626,
+        "episode_in_season": "11",
+        "episode_number": "S1:E11",
+        "external_id": "16410401",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1707453000,
+        "last_update": 1707359667626,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1707453000,
+        "season_number": "1",
+        "serial": 1707359667255,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1805,
+        "show_id": "13889291",
+        "show_timestamp": 1707453000,
+        "status": "estimated",
+        "summary": "Beth and Jerry head off on a romantic getaway. Rick and Summer throw a huge intergalactic house party, broh.",
+        "title": "Ricksy Business",
+        "title_id": "2013516",
+        "tv_rating": "TV-14"
     }
 ]
