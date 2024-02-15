@@ -479,7 +479,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1708068600,
-        "last_update": 1707976181999,
+        "last_update": 1708013721263,
         "live": false,
         "participants": [
             {
@@ -522,13 +522,13 @@
         "press_hold": false,
         "release_year": 2016,
         "runtime_minutes": 30,
-        "scheduled_duration": 1801,
+        "scheduled_duration": 1831,
         "scheduled_timestamp": 1708068600,
         "season_number": "12",
-        "serial": 1707976181818,
+        "serial": 1708013721043,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1801,
+        "show_duration": 1831,
         "show_id": "13889582",
         "show_timestamp": 1708068600,
         "status": "estimated",
@@ -2830,6 +2830,126 @@
         "summary": "Clarence, Sumo, and Jeff reminisce about the day they first met - although a few of the details are foggy.",
         "title": "Pilot Expansion",
         "title_id": "2021101",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228556_026_02_851",
+        "create_time": 1708013721824,
+        "episode_in_season": "26",
+        "episode_number": "S1:E26",
+        "external_id": "16410094",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Clarence",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1708106400,
+        "last_update": 1708013721824,
+        "live": false,
+        "participants": [
+            {
+                "character": "Clarence Wendle",
+                "name": "Skyler Page",
+                "role": "Voice"
+            },
+            {
+                "character": "Jeff Randell",
+                "name": "Sean Giambrone",
+                "role": "Voice"
+            },
+            {
+                "character": "Sumo",
+                "name": "Tom Kenny",
+                "role": "Voice"
+            },
+            {
+                "character": "Mary Wendle",
+                "name": "Katie Crown",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 11,
+        "scheduled_duration": 909,
+        "scheduled_timestamp": 1708106400,
+        "season_number": "1",
+        "serial": 1708013721622,
+        "series_id": "2012957",
+        "series_name": "Clarence",
+        "show_duration": 909,
+        "show_id": "13888482",
+        "show_timestamp": 1708106400,
+        "status": "estimated",
+        "summary": "When a corporate sponsorship of Clarence's school turns into an ominous corporate takeover, Clarence must stand up to the the man, no matter how tasty the chicken may be.",
+        "title": "Rough Riders Elementary",
+        "title_id": "2020160",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228556_025_02_851",
+        "create_time": 1708013721824,
+        "episode_in_season": "25",
+        "episode_number": "S1:E25",
+        "external_id": "16410095",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Clarence",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1708107300,
+        "last_update": 1708013721824,
+        "live": false,
+        "participants": [
+            {
+                "character": "Clarence Wendle",
+                "name": "Skyler Page",
+                "role": "Voice"
+            },
+            {
+                "character": "Jeff Randell",
+                "name": "Sean Giambrone",
+                "role": "Voice"
+            },
+            {
+                "character": "Sumo",
+                "name": "Tom Kenny",
+                "role": "Voice"
+            },
+            {
+                "character": "Mary Wendle",
+                "name": "Katie Crown",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1708107300,
+        "season_number": "1",
+        "serial": 1708013721622,
+        "series_id": "2012957",
+        "series_name": "Clarence",
+        "show_duration": 900,
+        "show_id": "13888483",
+        "show_timestamp": 1708107300,
+        "status": "estimated",
+        "summary": "Clarence must somehow navigate the mind-numbing boredom of a doctor's office waiting room to earn the ultimate prize - candy from the reception desk candy jar.",
+        "title": "Patients",
+        "title_id": "2020161",
         "tv_rating": "TV-PG"
     }
 ]
