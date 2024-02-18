@@ -845,5 +845,58 @@
         "title": "Prime Time Nursery Rhyme",
         "title_id": "2224143",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "252041_007_02_851",
+        "create_time": 1708241181076,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "16409708",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1708334100,
+        "last_update": 1708241181076,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Pete Michels",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Brian Wysol",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1708334100,
+        "season_number": "1",
+        "serial": 1708241180936,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "show_duration": 901,
+        "show_id": "13888634",
+        "show_timestamp": 1708334100,
+        "status": "estimated",
+        "summary": "Jen journeys underground to solve an impossible puzzle.",
+        "title": "The Bractegon",
+        "title_id": "2131839",
+        "tv_rating": "TV-14"
     }
 ]
