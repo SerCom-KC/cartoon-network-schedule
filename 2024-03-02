@@ -760,5 +760,83 @@
         "title": "Stompe Le Monde",
         "title_id": "2186661",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232847_013_03_851",
+        "create_time": 1709275975419,
+        "episode_in_season": "13",
+        "episode_number": "S14:E13",
+        "external_id": "16410380",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1709368200,
+        "last_update": 1709275975419,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1709368200,
+        "season_number": "14",
+        "serial": 1709275975141,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13888889",
+        "show_timestamp": 1709368200,
+        "status": "estimated",
+        "summary": "Steve's life is turned upside down when Snot gets rich after his mom starts selling a new dipping sauce. Klaus, Stan, Roger and Jeff become mall fashion show models.",
+        "title": "Mom Sauce",
+        "title_id": "2186662",
+        "tv_rating": "TV-14"
     }
 ]
