@@ -3476,5 +3476,92 @@
         "title": "The Exterminator",
         "title_id": "731341",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233070_016_02_851",
+        "create_time": 1709330455654,
+        "episode_in_season": "16",
+        "episode_number": "S5:E16",
+        "external_id": "16410293",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1709422200,
+        "last_update": 1709330455654,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1709422200,
+        "season_number": "5",
+        "serial": 1709330455412,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13888930",
+        "show_timestamp": 1709422200,
+        "status": "estimated",
+        "summary": "Hank's Choice: When Bobby develops allergies, Hank must choose between his son and Ladybird.",
+        "title": "Hank's Choice",
+        "title_id": "731343",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_013_02_851",
+        "create_time": 1709330456080,
+        "episode_in_season": "13",
+        "episode_number": "S10:E13",
+        "external_id": "16410294",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1709424000,
+        "last_update": 1709330456080,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1709424000,
+        "season_number": "10",
+        "serial": 1709330455928,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13888931",
+        "show_timestamp": 1709424000,
+        "status": "estimated",
+        "summary": "Louise looks for a sea monster.",
+        "summary_long": "Louise skeptically joins Jessica and fifth grader Megan in their search for Wharfy, a mythical sea monster, while Bob takes an online master class by a world-renowned chef.",
+        "title": "Three Girls and a Little Wharfy",
+        "title_id": "2438951",
+        "tv_rating": "TV-PG"
     }
 ]
