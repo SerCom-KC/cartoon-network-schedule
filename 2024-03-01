@@ -19,7 +19,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1709269200,
-        "last_update": 1709212765589,
+        "last_update": 1709262129115,
         "live": false,
         "participants": [
             {
@@ -129,12 +129,12 @@
         "scheduled_duration": 1829,
         "scheduled_timestamp": 1709269200,
         "season_number": "2",
-        "serial": 1709212765451,
+        "serial": 1709262128442,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1829,
         "show_id": "13915634",
-        "show_timestamp": 1709269200,
+        "show_timestamp": 1709269201,
         "status": "estimated",
         "summary": "When Royal Crackers gets removed from school lunch for a more healthy alternative, it polarizes the town. Battle lines are drawn, and the Hornsby's find themselves fighting a war they don't know if they can win.",
         "title": "Fight for J. Davis High ",
@@ -4505,6 +4505,75 @@
         "summary": "Steve's life is turned upside down when Snot gets rich after his mom starts selling a new dipping sauce. Klaus, Stan, Roger and Jeff become mall fashion show models.",
         "title": "Mom Sauce",
         "title_id": "2186662",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251793_008_03_851",
+        "create_time": 1709261997513,
+        "episode_in_season": "8",
+        "episode_number": "S4:E08",
+        "external_id": "16410369",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1709353800,
+        "last_update": 1709261997513,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1709353800,
+        "season_number": "4",
+        "serial": 1709261996981,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13888878",
+        "show_timestamp": 1709353800,
+        "status": "estimated",
+        "summary": "The one with the acid vat, broh.",
+        "title": "The Vat of Acid Episode",
+        "title_id": "2206493",
         "tv_rating": "TV-14"
     }
 ]
