@@ -1939,7 +1939,7 @@
         "content_advisories": [],
         "content_id": "234271_035_02_851",
         "create_time": 1709296863853,
-        "episode_in_season": "25",
+        "episode_in_season": "35",
         "episode_number": "S8:E25",
         "external_id": "16458602",
         "feed_id": "as-east",
@@ -1951,7 +1951,7 @@
             "Animation"
         ],
         "guide_timestamp": 1709389800,
-        "last_update": 1709296863853,
+        "last_update": 1709310432100,
         "live": false,
         "participants": [
             {
@@ -1997,12 +1997,12 @@
         ],
         "premiere": true,
         "press_hold": false,
-        "release_year": 2023,
+        "release_year": 2022,
         "runtime_minutes": 15,
         "scheduled_duration": 906,
         "scheduled_timestamp": 1709389800,
         "season_number": "8",
-        "serial": 1709296863610,
+        "serial": 1709310431881,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 906,
@@ -2499,7 +2499,7 @@
         "content_advisories": [],
         "content_id": "234271_035_02_851",
         "create_time": 1709303214721,
-        "episode_in_season": "25",
+        "episode_in_season": "35",
         "episode_number": "S8:E25",
         "external_id": "16410277",
         "feed_id": "as-east",
@@ -2511,7 +2511,7 @@
             "Animation"
         ],
         "guide_timestamp": 1709396100,
-        "last_update": 1709303214721,
+        "last_update": 1709310432560,
         "live": false,
         "participants": [
             {
@@ -2557,12 +2557,12 @@
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2023,
+        "release_year": 2022,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1709396100,
         "season_number": "8",
-        "serial": 1709303214423,
+        "serial": 1709310432334,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -2794,6 +2794,95 @@
         "summary": "Bugs and Daffy have a have a reversal of fortune, and Bugs is forced to return to his old rabbit hole.",
         "title": "Peel of Fortune",
         "title_id": "824664",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250417_002_02_851",
+        "create_time": 1709310432561,
+        "episode_in_season": "2",
+        "episode_number": "S1:E03",
+        "external_id": "16420473",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tiny Toons Looniversity",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1709402400,
+        "last_update": 1709310432561,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Spielberg",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Darryl Frank",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Justin Falvey",
+                "role": "Executive Producer"
+            },
+            {
+                "character": "Buster Bunny",
+                "name": "Ben Giroux",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Foghorn Leghorn",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Jr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Elmer J. Fudd",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1709402400,
+        "season_number": "1",
+        "serial": 1709310432334,
+        "series_id": "2267298",
+        "series_name": "Tiny Toons Looniversity",
+        "show_duration": 1800,
+        "show_id": "13901240",
+        "show_timestamp": 1709402400,
+        "status": "estimated",
+        "summary": "Babs realizes Acme Loo's school paper has closed so she starts a new one with her pal Sweetie. But when Plucky starts a gossipy tabloid to compete against them, which paper will come out on top?",
+        "title": "Extra, So Extra",
+        "title_id": "2267301",
         "tv_rating": "TV-PG"
     }
 ]
