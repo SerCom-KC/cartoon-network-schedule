@@ -2604,5 +2604,142 @@
         "title": "The Three Fs",
         "title_id": "2342099",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_013_01_851",
+        "create_time": 1709430436761,
+        "episode_in_season": "13",
+        "episode_number": "S17:E13",
+        "external_id": "16410236",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1709523000,
+        "last_update": 1709430436761,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1709523000,
+        "season_number": "17",
+        "serial": 1709430436000,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "13888985",
+        "show_timestamp": 1709523000,
+        "status": "estimated",
+        "summary": "Roger is forced to confront himself after a series of accidents. Klaus and Jeff bond.",
+        "title": "The Fast and the Spurious",
+        "title_id": "2342102",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "250984_008_02_851",
+        "create_time": 1709431207315,
+        "episode_in_season": "8",
+        "episode_number": "S7:E07",
+        "external_id": "16410237",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1709524800,
+        "last_update": 1709431207315,
+        "live": false,
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1709524800,
+        "season_number": "7",
+        "serial": 1709431206566,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1803,
+        "show_id": "13888986",
+        "show_timestamp": 1709524800,
+        "status": "estimated",
+        "summary": "High school, broh. Morty and Summer hang out in this one.",
+        "title": "Wet Kuat Amortican Summer",
+        "title_id": "2424790",
+        "tv_rating": "TV-14"
     }
 ]
