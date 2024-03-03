@@ -19,7 +19,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1709528400,
-        "last_update": 1709435906835,
+        "last_update": 1709493514450,
         "live": false,
         "participants": [
             {
@@ -129,10 +129,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1709528400,
         "season_number": "2",
-        "serial": 1709435906376,
+        "serial": 1709493514203,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1800,
+        "show_duration": 1794,
         "show_id": "13915636",
         "show_timestamp": 1709528400,
         "status": "estimated",
@@ -198,7 +198,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1709531100,
-        "last_update": 1709437906073,
+        "last_update": 1709493514451,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -207,10 +207,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1709531100,
         "season_number": "2",
-        "serial": 1709437905800,
+        "serial": 1709493514203,
         "series_id": "2196566",
         "series_name": "Momma Named Me Sheriff",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "13915638",
         "show_timestamp": 1709531100,
         "status": "estimated",
@@ -3863,5 +3863,147 @@
         "title": "The Curse",
         "title_id": "839530",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229020_038_02_851",
+        "create_time": 1709493514451,
+        "episode_in_season": "38",
+        "episode_number": "S5:E38",
+        "external_id": "16458700",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1709586000,
+        "last_update": 1709493514451,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1709586000,
+        "season_number": "5",
+        "serial": 1709493514203,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 900,
+        "show_id": "13990418",
+        "show_timestamp": 1709586000,
+        "status": "estimated",
+        "summary": "Mordecai and CJ want to go on a romantic date.",
+        "title": "Real Date",
+        "title_id": "2008040",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229019_001_02_851",
+        "create_time": 1709493514953,
+        "episode_in_season": "1",
+        "episode_number": "S6:E01",
+        "external_id": "16458699",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1709586900,
+        "last_update": 1709493514953,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1709586900,
+        "season_number": "6",
+        "serial": 1709493514782,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 900,
+        "show_id": "13990419",
+        "show_timestamp": 1709586900,
+        "status": "estimated",
+        "summary": "Mordecai wants to get a mix tape from his parents' house.",
+        "title": "Maxin' and Relaxin'",
+        "title_id": "2028698",
+        "tv_rating": "TV-PG"
     }
 ]
