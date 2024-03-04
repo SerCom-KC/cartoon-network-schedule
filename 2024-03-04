@@ -19,7 +19,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1709528400,
-        "last_update": 1709493514450,
+        "last_update": 1709521248151,
         "live": false,
         "participants": [
             {
@@ -129,12 +129,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1709528400,
         "season_number": "2",
-        "serial": 1709493514203,
+        "serial": 1709521247609,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1794,
         "show_id": "13915636",
-        "show_timestamp": 1709528400,
+        "show_timestamp": 1709528399,
         "status": "estimated",
         "summary": "When Royal Crackers gets removed from school lunch for a more healthy alternative, it polarizes the town. Battle lines are drawn, and the Hornsby's find themselves fighting a war they don't know if they can win.",
         "title": "Fight for J. Davis High ",
@@ -4833,6 +4833,76 @@
         "summary": "Roger enlists Jeff as his prot\u00e9g\u00e9 in order to open his dream chivalric strip club. Klaus moves into Steve's room.",
         "title": "Cheek to Cheek: A Stripper's Story",
         "title_id": "2186671",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251793_009_03_851",
+        "create_time": 1709521645384,
+        "episode_in_season": "9",
+        "episode_number": "S4:E09",
+        "external_id": "16442449",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1709613000,
+        "last_update": 1709521645384,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1709613000,
+        "season_number": "4",
+        "serial": 1709521644952,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1802,
+        "show_id": "13927354",
+        "show_timestamp": 1709613000,
+        "status": "estimated",
+        "summary": "Miracle of life broh. Whole family in this one broh.",
+        "title": "Childrick of Mort",
+        "title_id": "2206494",
         "tv_rating": "TV-14"
     }
 ]
