@@ -84,7 +84,7 @@
             "Drama"
         ],
         "guide_timestamp": 1709616600,
-        "last_update": 1709525140670,
+        "last_update": 1709598701692,
         "live": false,
         "participants": [
             {
@@ -135,10 +135,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1709616600,
         "season_number": "2",
-        "serial": 1709525140369,
+        "serial": 1709598701420,
         "series_id": "610028",
         "series_name": "The Boondocks",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "13927356",
         "show_timestamp": 1709616600,
         "status": "estimated",
@@ -209,7 +209,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1709619300,
-        "last_update": 1709528527855,
+        "last_update": 1709598702117,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -218,10 +218,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1709619300,
         "season_number": "4",
-        "serial": 1709528527620,
+        "serial": 1709598701779,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
-        "show_duration": 900,
+        "show_duration": 899,
         "show_id": "13927358",
         "show_timestamp": 1709619300,
         "status": "estimated",
@@ -328,7 +328,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1709622000,
-        "last_update": 1709528527857,
+        "last_update": 1709598702117,
         "live": false,
         "participants": [
             {
@@ -374,10 +374,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1709622000,
         "season_number": "14",
-        "serial": 1709528527620,
+        "serial": 1709598701779,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "13927360",
         "show_timestamp": 1709622000,
         "status": "estimated",
@@ -485,7 +485,7 @@
             "Animation"
         ],
         "guide_timestamp": 1709625600,
-        "last_update": 1709532129414,
+        "last_update": 1709598702118,
         "live": false,
         "participants": [
             {
@@ -521,10 +521,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1709625600,
         "season_number": "4",
-        "serial": 1709532129259,
+        "serial": 1709598701779,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1797,
         "show_id": "13927362",
         "show_timestamp": 1709625600,
         "status": "estimated",
@@ -4244,5 +4244,130 @@
         "title": "Copa-Bob-Bana",
         "title_id": "2438963",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250265_005_02_851",
+        "create_time": 1709598702118,
+        "episode_in_season": "5",
+        "episode_number": "S11:E05",
+        "external_id": "16442596",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1709690400,
+        "last_update": 1709598702118,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1709690400,
+        "season_number": "11",
+        "serial": 1709598701779,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1805,
+        "show_id": "13927421",
+        "show_timestamp": 1709690400,
+        "status": "estimated",
+        "summary": "Tina goes on a power trip.",
+        "summary_long": "Tina is put in charge of the Wagstaff School time capsule project, but she makes an enemy when she rejects Tammy's submission. Meanwhile, Bob teases Linda over her inability to whistle.",
+        "title": "Fast Time Capsules at Wagstaff School",
+        "title_id": "2438965",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_001_03_851",
+        "create_time": 1709598702118,
+        "episode_in_season": "1",
+        "episode_number": "S15:E01",
+        "external_id": "16442597",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1709692200,
+        "last_update": 1709598702118,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1709692200,
+        "season_number": "15",
+        "serial": 1709598701779,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13927422",
+        "show_timestamp": 1709692200,
+        "status": "estimated",
+        "summary": "While running an errand in Little Columbia, Stan is confronted by his hidden past.",
+        "title": "100 Years A Solid Fool",
+        "title_id": "2197405",
+        "tv_rating": "TV-14"
     }
 ]
