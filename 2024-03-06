@@ -663,5 +663,68 @@
         "title": "Teen Eggs and Scram",
         "title_id": "2292229",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251870_002_01_851",
+        "create_time": 1709623841807,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16442612",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tuca & Bertie",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1709717400,
+        "last_update": 1709623841807,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tuca Toucan",
+                "name": "Tiffany Haddish",
+                "role": "Voice"
+            },
+            {
+                "character": "Roberta Songthrush",
+                "name": "Ali Wong",
+                "role": "Voice"
+            },
+            {
+                "character": "Speckle",
+                "name": "Steven Yeun",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Lisa Hanawalt",
+                "role": "Creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1709717400,
+        "season_number": "2",
+        "serial": 1709623841579,
+        "series_id": "2266164",
+        "series_name": "Tuca & Bertie",
+        "show_duration": 1800,
+        "show_id": "13927437",
+        "show_timestamp": 1709717400,
+        "status": "estimated",
+        "summary": "Everybody's going to Planteau for some bachelor/bachelorette weekend fun! Hopefully Tuca's sobriety and Bertie's social anxiety won't get in the way of a good time.",
+        "title": "Planteau",
+        "title_id": "2266166",
+        "tv_rating": "TV-14"
     }
 ]
