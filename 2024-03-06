@@ -533,5 +533,135 @@
         "title": "Mort Dinner Rick Andre",
         "title_id": "2270458",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251794_002_03_851",
+        "create_time": 1709622670491,
+        "episode_in_season": "2",
+        "episode_number": "S5:E02",
+        "external_id": "16442610",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1709713800,
+        "last_update": 1709622670491,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1709713800,
+        "season_number": "5",
+        "serial": 1709622670262,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13927435",
+        "show_timestamp": 1709713800,
+        "status": "estimated",
+        "summary": "Who's even real, broh? Are you real? Broh?",
+        "title": "Mortyplicity",
+        "title_id": "2270459",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "S"
+        ],
+        "content_id": "229459_002_02_851",
+        "create_time": 1709622670491,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16442611",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Teenage Euthanasia",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1709715600,
+        "last_update": 1709622670491,
+        "live": false,
+        "participants": [
+            {
+                "character": "Trophy Fantasy",
+                "name": "Maria Bamford",
+                "role": "Voice"
+            },
+            {
+                "character": "Euthanasia Fantasy",
+                "name": "Jo Firestone",
+                "role": "Voice"
+            },
+            {
+                "character": "Baba",
+                "name": "Bebe Neuwirth",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Pete",
+                "name": "Tim Robinson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1812,
+        "scheduled_timestamp": 1709715600,
+        "season_number": "1",
+        "serial": 1709622670262,
+        "series_id": "2292228",
+        "series_name": "Teenage Euthanasia",
+        "show_duration": 1812,
+        "show_id": "13927436",
+        "show_timestamp": 1709715600,
+        "status": "estimated",
+        "summary": "Annie becomes Trophy's parole officer and Pete's \"funeral plus\" clients ask for a house call.",
+        "title": "Teen Eggs and Scram",
+        "title_id": "2292229",
+        "tv_rating": "TV-14"
     }
 ]
