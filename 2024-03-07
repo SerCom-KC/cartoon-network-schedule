@@ -3823,5 +3823,77 @@
         "title": "I See Turtles",
         "title_id": "2043698",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229019_016_02_851",
+        "create_time": 1709753667138,
+        "episode_in_season": "16",
+        "episode_number": "S6:E16",
+        "external_id": "16458682",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1709847000,
+        "last_update": 1709753667138,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1709847000,
+        "season_number": "6",
+        "serial": 1709753666945,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 900,
+        "show_id": "13927555",
+        "show_timestamp": 1709847000,
+        "status": "estimated",
+        "summary": "The Discmasters have to end the Format Wars once and for all.",
+        "title": "Format Wars II",
+        "title_id": "2043699",
+        "tv_rating": "TV-PG"
     }
 ]
