@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1709787600,
-        "last_update": 1709694261777,
+        "last_update": 1709756143296,
         "live": false,
         "participants": [
             {
@@ -57,10 +57,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1709787600,
         "season_number": "5",
-        "serial": 1709694261257,
+        "serial": 1709756143143,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "13927499",
         "show_timestamp": 1709787600,
         "status": "estimated",
@@ -3894,6 +3894,132 @@
         "summary": "The Discmasters have to end the Format Wars once and for all.",
         "title": "Format Wars II",
         "title_id": "2043699",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229019_017_02_851",
+        "create_time": 1709756143786,
+        "episode_in_season": "17",
+        "episode_number": "S6:E17",
+        "external_id": "16458681",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1709847900,
+        "last_update": 1709756143786,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 11,
+        "scheduled_duration": 907,
+        "scheduled_timestamp": 1709847900,
+        "season_number": "6",
+        "serial": 1709756143612,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 907,
+        "show_id": "13927556",
+        "show_timestamp": 1709847900,
+        "status": "estimated",
+        "summary": "Mordecai and Rigby want to win a happy birthday song contest.",
+        "title": "Happy Birthday Song Contest",
+        "title_id": "2043697",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229037_002_03_851",
+        "create_time": 1709756143786,
+        "episode_in_season": "2",
+        "episode_number": "S4:E02",
+        "external_id": "16444785",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Dexter's Laboratory",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1709848800,
+        "last_update": 1709756143786,
+        "live": false,
+        "participants": [
+            {
+                "character": "Dexter",
+                "name": "Christine Cavanaugh",
+                "role": "Voice"
+            },
+            {
+                "character": "Dee Dee",
+                "name": "Kat Cressida",
+                "role": "Voice"
+            },
+            {
+                "character": "Mandark",
+                "name": "Eddie Deezen",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1995,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1709848800,
+        "season_number": "4",
+        "serial": 1709756143612,
+        "series_id": "100106",
+        "series_name": "Dexter's Laboratory",
+        "show_duration": 1806,
+        "show_id": "13927557",
+        "show_timestamp": 1709848800,
+        "status": "estimated",
+        "summary": "Dexter and Dee Dee are the unwitting focus of a documentary. Then, a deranged janitor traps Dexter and tries to make him clean the entire school. Finally, Dexter creates a mechanical parrot to sings his own praises.",
+        "summary_long": "Blackfoot and Slim: Dexter and Dee Dee are the unwitting focus of a documentary. Their relationships are being recorded. During Dexter's bathing ritual, he realizes he's being observed and runs./Trapped with a Vengeance: A deranged janitor traps Dexter and tries to make him clean the entire school. The thought of Dee Dee trespassing into his lab provides the inspiration Dexter needs to escape./The Parrot Trap: Dexter creates a mechanical parrot to sings his own praises. Soon, however, the parrot mimics Dee Dee's insults of Dexter.",
+        "title": "Blackfoot and Slim/Trapped with a Vengeance/The Parrot Trap",
+        "title_id": "320486",
         "tv_rating": "TV-PG"
     }
 ]
