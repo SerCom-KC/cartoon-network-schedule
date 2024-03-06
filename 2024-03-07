@@ -188,5 +188,124 @@
         "title": "Landon's End",
         "title_id": "2172014",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "233161_018_01_851",
+        "create_time": 1709700051186,
+        "episode_in_season": "18",
+        "episode_number": "S4:E18",
+        "external_id": "16442758",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1709792100,
+        "last_update": 1709700051186,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1709792100,
+        "season_number": "4",
+        "serial": 1709700050977,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 900,
+        "show_id": "13927502",
+        "show_timestamp": 1709792100,
+        "status": "estimated",
+        "summary": "For once (and surely the only time), Mike's attorney needs Mike's help.",
+        "title": "The Stein Way",
+        "title_id": "2172015",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232841_014_02_851",
+        "create_time": 1709700051187,
+        "episode_in_season": "14",
+        "episode_number": "S18:E12",
+        "external_id": "16442759",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1709793000,
+        "last_update": 1709700051187,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1709793000,
+        "season_number": "18",
+        "serial": 1709700050977,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "13927503",
+        "show_timestamp": 1709793000,
+        "status": "estimated",
+        "summary": "The Smiths get new neighbors! Meanwhile, Roger dreads having to be a little boy's kite for a day.",
+        "title": "Don't You Be My Neighbor",
+        "title_id": "2397213",
+        "tv_rating": "TV-14"
     }
 ]
