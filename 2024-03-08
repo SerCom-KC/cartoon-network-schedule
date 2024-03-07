@@ -141,5 +141,127 @@
         "title": "Catalina",
         "title_id": "2424744",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "251784_009_03_851",
+        "create_time": 1709783816619,
+        "episode_in_season": "9",
+        "episode_number": "S2:E09",
+        "external_id": "16442893",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Boondocks, The",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1709875800,
+        "last_update": 1709783816619,
+        "live": false,
+        "participants": [
+            {
+                "character": "Riley Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Huey Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Robert Freeman",
+                "name": "John Witherspoon",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Ruckus",
+                "name": "Gary Anthony Williams",
+                "role": "Voice"
+            },
+            {
+                "character": "Tom Dubois",
+                "name": "Cedric Yarbrough",
+                "role": "Voice"
+            },
+            {
+                "character": "Sarah Dubois",
+                "name": "Jill Talley",
+                "role": "Voice"
+            },
+            {
+                "character": "Jazmine Dubois",
+                "name": "Gabby Soleil",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Aaron McGruder",
+                "role": "Creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1709875800,
+        "season_number": "2",
+        "serial": 1709783816292,
+        "series_id": "610028",
+        "series_name": "The Boondocks",
+        "show_duration": 1802,
+        "show_id": "13927572",
+        "show_timestamp": 1709875800,
+        "status": "estimated",
+        "summary": "A family displaced by hurricane Katrina shows up looking for a place to stay, and Granddad tries to get rid of them as quickly as possible.",
+        "summary_long": "When family displaced by hurricane Katrina show up looking for a place to stay, Granddad does what anyone would do, try to find a way to get rid of them as quickly as possible.",
+        "title": "The Invasion of the Katrinas",
+        "title_id": "683091",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "233161_019_01_851",
+        "create_time": 1709784528598,
+        "episode_in_season": "19",
+        "episode_number": "S4:E19",
+        "external_id": "16442894",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1709877600,
+        "last_update": 1709784528598,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1709877600,
+        "season_number": "4",
+        "serial": 1709784528343,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 900,
+        "show_id": "13927573",
+        "show_timestamp": 1709877600,
+        "status": "estimated",
+        "summary": "An unspeakable tragedy haunts Pat and his brother Nat and their Clam Shack.",
+        "title": "Clam Bam Thank You Ma'am",
+        "title_id": "2172016",
+        "tv_rating": "TV-14"
     }
 ]
