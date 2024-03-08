@@ -19,7 +19,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1709874000,
-        "last_update": 1709827331918,
+        "last_update": 1709863308330,
         "live": false,
         "participants": [
             {
@@ -130,12 +130,12 @@
         "scheduled_duration": 1812,
         "scheduled_timestamp": 1709874000,
         "season_number": "2",
-        "serial": 1709827331731,
+        "serial": 1709863308080,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1812,
         "show_id": "13927571",
-        "show_timestamp": 1709874000,
+        "show_timestamp": 1709874001,
         "status": "estimated",
         "summary": "Stebe's bad dreams lead him and Theo on a mission to discover secrets about their father's dark past.",
         "title": "Catalina",
@@ -158,7 +158,7 @@
             "Drama"
         ],
         "guide_timestamp": 1709875800,
-        "last_update": 1709783816619,
+        "last_update": 1709863308330,
         "live": false,
         "participants": [
             {
@@ -209,12 +209,12 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1709875800,
         "season_number": "2",
-        "serial": 1709783816292,
+        "serial": 1709863308080,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1802,
         "show_id": "13927572",
-        "show_timestamp": 1709875800,
+        "show_timestamp": 1709875801,
         "status": "estimated",
         "summary": "A family displaced by hurricane Katrina shows up looking for a place to stay, and Granddad tries to get rid of them as quickly as possible.",
         "summary_long": "When family displaced by hurricane Katrina show up looking for a place to stay, Granddad does what anyone would do, try to find a way to get rid of them as quickly as possible.",
@@ -4427,6 +4427,84 @@
         "summary": "Klaus enlists Stan, Roger and Jeff to join him on a wild bachelor party weekend.",
         "title": "Men ll Boyz",
         "title_id": "2197418",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_014_03_851",
+        "create_time": 1709864390383,
+        "episode_in_season": "14",
+        "episode_number": "S15:E14",
+        "external_id": "16442960",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1709956800,
+        "last_update": 1709864390383,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1709956800,
+        "season_number": "15",
+        "serial": 1709864390108,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13927639",
+        "show_timestamp": 1709956800,
+        "status": "estimated",
+        "summary": "Concerned that Hayley is too soft-hearted, Stan attempts to make her \"farm tough\" by turning the house into an urban homestead.",
+        "title": "First, Do No Farm",
+        "title_id": "2197420",
         "tv_rating": "TV-14"
     }
 ]
