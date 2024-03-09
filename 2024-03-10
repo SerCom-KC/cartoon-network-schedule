@@ -1150,5 +1150,100 @@
         "title": "Tom and Jerry: Back to Oz",
         "title_id": "2069988",
         "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234486_005_02_851",
+        "create_time": 1709990692854,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "16443040",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "New Looney Tunes",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1710081900,
+        "last_update": 1709990692854,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 917,
+        "scheduled_timestamp": 1710081900,
+        "season_number": "1",
+        "serial": 1709990692661,
+        "series_id": "2062459",
+        "series_name": "New Looney Tunes",
+        "show_duration": 917,
+        "show_id": "13927720",
+        "show_timestamp": 1710081900,
+        "status": "estimated",
+        "summary": "Squeaks has misplaced his acorns beneath the pitcher's mound of a baseball stadium. Bugs offers his assistance in retrieving them. Then, Shameless O'Scanty, a leprechaun, runs out of luck while riding his rainbow over Bugs' forest.",
+        "summary_long": "For the Love of Acorns: Squeaks has misplaced his acorns beneath the pitcher's mound of a recently built baseball stadium. Bugs offers his assistance in retrieving them./The Game Is a Foot: Shameless O'Scanty, a conniving, cloud-riding leprechaun, runs out of luck while riding his rainbow over Bugs' forest. Now he needs to gather some luck or he'll never get home.",
+        "title": "For the Love of Acorns/The Game Is a Foot",
+        "title_id": "2062464",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235001_025_02_851",
+        "create_time": 1709990692855,
+        "episode_in_season": "25",
+        "episode_number": "S1:E25",
+        "external_id": "16447808",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1710082800,
+        "last_update": 1709990692855,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710082800,
+        "season_number": "1",
+        "serial": 1709990692661,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1800,
+        "show_id": "13927721",
+        "show_timestamp": 1710082800,
+        "status": "estimated",
+        "summary": "Daffy suspects Porky might be a murderer.",
+        "title": "Muh-Muh-Muh-Murder",
+        "title_id": "824674",
+        "tv_rating": "TV-PG"
     }
 ]
