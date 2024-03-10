@@ -215,5 +215,126 @@
         "title": "Smelly Glenn",
         "title_id": "2196568",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252041_010_02_851",
+        "create_time": 1710040986911,
+        "episode_in_season": "10",
+        "episode_number": "S1:E10",
+        "external_id": "16443071",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1710133200,
+        "last_update": 1710040986911,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Pete Michels",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Brian Wysol",
+                "role": "Creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 904,
+        "scheduled_timestamp": 1710133200,
+        "season_number": "1",
+        "serial": 1710040986617,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "show_duration": 904,
+        "show_id": "13927751",
+        "show_timestamp": 1710133200,
+        "status": "estimated",
+        "summary": "The Hot Streets gang faces their toughest opponents yet.",
+        "title": "The Final Stand",
+        "title_id": "2131841",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "251901_001_02_851",
+        "create_time": 1710040987374,
+        "episode_in_season": "1",
+        "episode_number": "S4:E01",
+        "external_id": "16443072",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Metalocalypse",
+        "genres": [
+            "Comedy",
+            "Music"
+        ],
+        "guide_timestamp": 1710134100,
+        "last_update": 1710040987374,
+        "live": false,
+        "participants": [
+            {
+                "character": "Nathan Explosion",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "Skwisgaar Skwigelf",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "William Murderface",
+                "name": "Tommy Blacha",
+                "role": "Voice"
+            },
+            {
+                "character": "Pickles",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "Toki Wartooth",
+                "name": "Tommy Blacha",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1710134100,
+        "season_number": "4",
+        "serial": 1710040987211,
+        "series_id": "648666",
+        "series_name": "Metalocalypse",
+        "show_duration": 901,
+        "show_id": "13927752",
+        "show_timestamp": 1710134100,
+        "status": "estimated",
+        "summary": "Despite his bandmates' warnings, Nathan begins seriously dating one of his fans. But as the evidence of her past piles up, to prove her innocence, he follows her to the most brutal place on earth: Klokikon.",
+        "summary_long": "Despite his bandmates' warnings, Nathan begins seriously dating one of his fans. But as the evidence of her past piles up, to prove her innocence, he follows her to the most brutal place on earth: Klokikon, the annual Dethklok fan convention filled with cosplay geeks and homosexual fan art. Meanwhile, the rest of the band starts smoking after Murderface lands the cover of Smokaroonie Aficionado.",
+        "title": "Fanklok",
+        "title_id": "892261",
+        "tv_rating": "TV-MA"
     }
 ]
