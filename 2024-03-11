@@ -827,5 +827,59 @@
         "title": "Smelly Glenn",
         "title_id": "2196568",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252041_010_02_851",
+        "create_time": 1710052511740,
+        "episode_in_season": "10",
+        "episode_number": "S1:E10",
+        "external_id": "16443080",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1710145800,
+        "last_update": 1710052511740,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Pete Michels",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Brian Wysol",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1710145800,
+        "season_number": "1",
+        "serial": 1710052511542,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "show_duration": 900,
+        "show_id": "13927760",
+        "show_timestamp": 1710145800,
+        "status": "estimated",
+        "summary": "The Hot Streets gang faces their toughest opponents yet.",
+        "title": "The Final Stand",
+        "title_id": "2131841",
+        "tv_rating": "TV-14"
     }
 ]
