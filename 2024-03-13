@@ -384,5 +384,150 @@
         "title": "Russian Doll",
         "title_id": "2238749",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232850_003_03_851",
+        "create_time": 1710219352504,
+        "episode_in_season": "3",
+        "episode_number": "S16:E03",
+        "external_id": "16443220",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710311400,
+        "last_update": 1710219352504,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1710311400,
+        "season_number": "16",
+        "serial": 1710219352238,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13927900",
+        "show_timestamp": 1710311400,
+        "status": "estimated",
+        "summary": "Stan moves to Chicago to become a comic while Steve and Hayley host Roger for a nice night in.",
+        "title": "Stan Moves to Chicago",
+        "title_id": "2238750",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251795_001_03_851",
+        "create_time": 1710220200666,
+        "episode_in_season": "1",
+        "episode_number": "S6:E01",
+        "external_id": "16443221",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1710313200,
+        "last_update": 1710220200666,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710313200,
+        "season_number": "6",
+        "serial": 1710220200455,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13927901",
+        "show_timestamp": 1710313200,
+        "status": "estimated",
+        "summary": "Last season's finale was a doozy, broh. What do we do now, broh?",
+        "title": "Solaricks",
+        "title_id": "2397933",
+        "tv_rating": "TV-14"
     }
 ]
