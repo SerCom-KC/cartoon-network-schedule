@@ -249,7 +249,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710307800,
-        "last_update": 1710256901989,
+        "last_update": 1710283556641,
         "live": false,
         "participants": [
             {
@@ -295,10 +295,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710307800,
         "season_number": "16",
-        "serial": 1710256901760,
+        "serial": 1710283556470,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1772,
         "show_id": "13927898",
         "show_timestamp": 1710307800,
         "status": "estimated",
@@ -327,7 +327,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710309600,
-        "last_update": 1710216849286,
+        "last_update": 1710283556642,
         "live": false,
         "participants": [
             {
@@ -373,10 +373,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710309600,
         "season_number": "16",
-        "serial": 1710216849013,
+        "serial": 1710283556470,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1791,
         "show_id": "13927899",
         "show_timestamp": 1710309600,
         "status": "estimated",
@@ -482,7 +482,7 @@
             "Animation"
         ],
         "guide_timestamp": 1710313200,
-        "last_update": 1710220200666,
+        "last_update": 1710283556643,
         "live": false,
         "participants": [
             {
@@ -518,10 +518,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710313200,
         "season_number": "6",
-        "serial": 1710220200455,
+        "serial": 1710283556470,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "13927901",
         "show_timestamp": 1710313200,
         "status": "estimated",
@@ -551,7 +551,7 @@
             "Animation"
         ],
         "guide_timestamp": 1710315000,
-        "last_update": 1710256901990,
+        "last_update": 1710283556644,
         "live": false,
         "participants": [
             {
@@ -587,10 +587,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710315000,
         "season_number": "6",
-        "serial": 1710256901760,
+        "serial": 1710283556470,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1793,
         "show_id": "13927902",
         "show_timestamp": 1710315000,
         "status": "estimated",
@@ -4350,6 +4350,53 @@
         "summary_long": "Linda encourages Teddy to attend a farewell ceremony for the ship on which he served in the Navy, but it means confronting his Navy pals - and his past.",
         "title": "Frigate Me Knot",
         "title_id": "2438995",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250266_014_02_851",
+        "create_time": 1710283557479,
+        "episode_in_season": "14",
+        "episode_number": "S12:E14",
+        "external_id": "16443279",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1710376200,
+        "last_update": 1710283557479,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710376200,
+        "season_number": "12",
+        "serial": 1710283557251,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13927959",
+        "show_timestamp": 1710376200,
+        "status": "estimated",
+        "summary": "Gene stars in a music video.",
+        "summary_long": "Gene begrudgingly agrees to participate in a music video for Courtney. Teddy and Linda obsess over a mysterious customer at the restaurant.",
+        "title": "Video Killed the Gene-io Star",
+        "title_id": "2438996",
         "tv_rating": "TV-PG"
     }
 ]
