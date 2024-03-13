@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1710388800,
-        "last_update": 1710296010053,
+        "last_update": 1710368116995,
         "live": false,
         "participants": [
             {
@@ -57,10 +57,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710388800,
         "season_number": "6",
-        "serial": 1710296009756,
+        "serial": 1710368116808,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1790,
         "show_id": "13927966",
         "show_timestamp": 1710388800,
         "status": "estimated",
@@ -327,7 +327,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710396000,
-        "last_update": 1710303790449,
+        "last_update": 1710368116996,
         "live": false,
         "participants": [
             {
@@ -373,10 +373,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710396000,
         "season_number": "18",
-        "serial": 1710303790154,
+        "serial": 1710368116808,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1791,
         "show_id": "13927971",
         "show_timestamp": 1710396000,
         "status": "estimated",
@@ -551,7 +551,7 @@
             "Animation"
         ],
         "guide_timestamp": 1710401400,
-        "last_update": 1710308528753,
+        "last_update": 1710368116996,
         "live": false,
         "participants": [
             {
@@ -587,10 +587,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710401400,
         "season_number": "6",
-        "serial": 1710308528509,
+        "serial": 1710368116808,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1795,
         "show_id": "13927974",
         "show_timestamp": 1710401400,
         "status": "estimated",
@@ -619,7 +619,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710403200,
-        "last_update": 1710310993606,
+        "last_update": 1710368116996,
         "live": false,
         "participants": [
             {
@@ -650,10 +650,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710403200,
         "season_number": "1",
-        "serial": 1710310993415,
+        "serial": 1710368116808,
         "series_id": "2292228",
         "series_name": "Teenage Euthanasia",
-        "show_duration": 1800,
+        "show_duration": 1798,
         "show_id": "13927975",
         "show_timestamp": 1710403200,
         "status": "estimated",
@@ -4216,6 +4216,54 @@
         "summary": "After Hank catches Bobby freak dancing at a concert, he forbids his son from attending a boys-and-girls slumber party-but Bobby sneaks off on his own.",
         "title": "Get Your Freak Off",
         "title_id": "731398",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L"
+        ],
+        "content_id": "250266_016_02_851",
+        "create_time": 1710368116997,
+        "episode_in_season": "16",
+        "episode_number": "S12:E16",
+        "external_id": "16442511",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1710460800,
+        "last_update": 1710368116997,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1710460800,
+        "season_number": "12",
+        "serial": 1710368116808,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1805,
+        "show_id": "13928029",
+        "show_timestamp": 1710460800,
+        "status": "estimated",
+        "summary": "Grandpa Belcher comes for a visit.",
+        "summary_long": "Big Bob is coming to dinner so that Tina can interview him for a school project. While the family waits for Pop Pop to arrive, they take turns coming up with their own versions of an infamous tree incident that happened to him in his younger years.",
+        "title": "Interview with a Pop-Pop-Pire",
+        "title_id": "2438998",
         "tv_rating": "TV-PG"
     }
 ]
