@@ -4119,7 +4119,7 @@
             "Drama"
         ],
         "guide_timestamp": 1710543600,
-        "last_update": 1710450232738,
+        "last_update": 1710453963631,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -4128,7 +4128,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710543600,
         "season_number": "7",
-        "serial": 1710450232362,
+        "serial": 1710453963382,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
@@ -4138,6 +4138,93 @@
         "summary": "Fat and the Furious, The: A cute groupie convinces Bill to enter a hot dog eating contest that pits him against a Laotian champion.",
         "title": "The Fat and the Furious",
         "title_id": "731401",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233056_003_03_851",
+        "create_time": 1710453963632,
+        "episode_in_season": "3",
+        "episode_number": "S7:E03",
+        "external_id": "16442661",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1710545400,
+        "last_update": 1710453963632,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1710545400,
+        "season_number": "7",
+        "serial": 1710453963382,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1802,
+        "show_id": "13928099",
+        "show_timestamp": 1710545400,
+        "status": "estimated",
+        "summary": "Connie's delinquent cousin, Tid Pao, wreaks havoc while visiting Arlen.",
+        "title": "Bad Girls, Bad Girls, Whatcha Gonna Do",
+        "title_id": "731405",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L"
+        ],
+        "content_id": "250266_020_02_851",
+        "create_time": 1710453963632,
+        "episode_in_season": "20",
+        "episode_number": "S12:E20",
+        "external_id": "16442662",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1710547200,
+        "last_update": 1710453963632,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710547200,
+        "season_number": "12",
+        "serial": 1710453963382,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13928100",
+        "show_timestamp": 1710547200,
+        "status": "estimated",
+        "summary": "The kids track down a lost recipe.",
+        "summary_long": "When Louise, Gene and Tina try to track down a lost family recipe for a Mother's Day gift for Linda, first they have to navigate an old family feud.",
+        "title": "Sauce Side Story",
+        "title_id": "2439002",
         "tv_rating": "TV-PG"
     }
 ]
