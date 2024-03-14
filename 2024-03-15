@@ -3929,7 +3929,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710536400,
-        "last_update": 1710442934735,
+        "last_update": 1710446610667,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -3938,7 +3938,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710536400,
         "season_number": "2",
-        "serial": 1710442934197,
+        "serial": 1710446610091,
         "series_id": "309480",
         "series_name": "Cow & Chicken",
         "show_duration": 1800,
@@ -3987,5 +3987,61 @@
         "title": "The Karate Chick/Yard Sale/I.R. Ice Fisher",
         "title_id": "322293",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228262_001_03_851",
+        "create_time": 1710446610669,
+        "episode_in_season": "1",
+        "episode_number": "S4:E01",
+        "external_id": "16458328",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ed, Edd n Eddy",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1710540000,
+        "last_update": 1710446610669,
+        "live": false,
+        "participants": [
+            {
+                "character": "Ed",
+                "name": "Matt Hill",
+                "role": "Voice"
+            },
+            {
+                "character": "Edd",
+                "name": "Sam Vincent",
+                "role": "Voice"
+            },
+            {
+                "character": "Eddy",
+                "name": "Tony Sampson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710540000,
+        "season_number": "4",
+        "serial": 1710446610091,
+        "series_id": "327280",
+        "series_name": "Ed, Edd n Eddy",
+        "show_duration": 1800,
+        "show_id": "13929355",
+        "show_timestamp": 1710540000,
+        "status": "estimated",
+        "summary": "The Urban Rangers go for a camp-out in the woods, where Ed, Edd and Eddy resolve to give them a good scare. Then, Ed: Ed, Edd and Eddy are nowhere to be seen. Kevin investigates, convinced it's all just a devious Ed plot.",
+        "summary_long": "An Ed in the Bush: The Urban Rangers go for a camp-out in the woods, where Ed, Edd and Eddy resolve to give them a good scare./See No Ed: Ed, Edd and Eddy are nowhere to be seen. Kevin investigates, convinced it's all just a devious Ed plot.",
+        "title": "An Ed in the Bush/See No Ed",
+        "title_id": "342098",
+        "tv_rating": "TV-PG"
     }
 ]
