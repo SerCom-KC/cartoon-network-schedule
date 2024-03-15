@@ -304,7 +304,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1710565200,
-        "last_update": 1710472343902,
+        "last_update": 1710476021076,
         "live": false,
         "participants": [
             {
@@ -345,7 +345,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1710565200,
         "season_number": "1",
-        "serial": 1710472342385,
+        "serial": 1710476020495,
         "series_id": "638050",
         "series_name": "Frisky Dingo",
         "show_duration": 900,
@@ -499,5 +499,144 @@
         "title": "Meet Antagone",
         "title_id": "654433",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228988_008_02_851",
+        "create_time": 1710476021077,
+        "episode_in_season": "8",
+        "episode_number": "S1:E08",
+        "external_id": "16442677",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Frisky Dingo",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1710567900,
+        "last_update": 1710476021077,
+        "live": false,
+        "participants": [
+            {
+                "character": "Killface",
+                "name": "Adam Reed",
+                "role": "Voice"
+            },
+            {
+                "character": "Xander Crews",
+                "name": "Adam Reed",
+                "role": "Voice"
+            },
+            {
+                "character": "Simon",
+                "name": "Christian Danley",
+                "role": "Voice"
+            },
+            {
+                "character": "Grace Ryan",
+                "name": "Kate Miller",
+                "role": "Voice"
+            },
+            {
+                "character": "Sinn",
+                "name": "Kelly Jenrette",
+                "role": "Voice"
+            },
+            {
+                "character": "The Xtacles",
+                "name": "Lucky Yates",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 15,
+        "scheduled_duration": 905,
+        "scheduled_timestamp": 1710567900,
+        "season_number": "1",
+        "serial": 1710476020495,
+        "series_id": "638050",
+        "series_name": "Frisky Dingo",
+        "show_duration": 905,
+        "show_id": "13928115",
+        "show_timestamp": 1710567900,
+        "status": "estimated",
+        "summary": "Killface is... oh! Killface got blinded when Antagone spit formic acid into his eyes. So now he's blind. And billionaire tycoon Xander Crews... oh! He got kidnapped by these robots called the Xtacles.",
+        "summary_long": "Killface is... oh! Killface got blinded when Antagone spit formic acid into his eyes. So now he's blind. And billionaire tycoon Xander Crews... oh! He got kidnapped by these robots called the Xtacles who work for billionaire tycoon Xander Crews' alter-ego, superhero Awesome-X. But then he escaped. And so now he and Killface are best friends.",
+        "title": "Blind Faith",
+        "title_id": "654434",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "251795_006_03_851",
+        "create_time": 1710476021077,
+        "episode_in_season": "6",
+        "episode_number": "S6:E06",
+        "external_id": "16442678",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1710568800,
+        "last_update": 1710476021077,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710568800,
+        "season_number": "6",
+        "serial": 1710476020495,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13928116",
+        "show_timestamp": 1710568800,
+        "status": "estimated",
+        "summary": "They're back, broh.",
+        "title": "JuRicksic Mort",
+        "title_id": "2397939",
+        "tv_rating": "TV-14"
     }
 ]
