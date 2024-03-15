@@ -727,7 +727,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710572400,
-        "last_update": 1710479695890,
+        "last_update": 1710483370321,
         "live": false,
         "participants": [
             {
@@ -773,7 +773,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710572400,
         "season_number": "16",
-        "serial": 1710479695401,
+        "serial": 1710483369557,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -861,6 +861,45 @@
         "summary": "Stan's childhood imaginary friend returns to collect a debt. Klaus has a big date and needs a fishbowl upgrade.",
         "title": "Henderson",
         "title_id": "2238758",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "233054_013_03_851",
+        "create_time": 1710483370323,
+        "episode_in_season": "13",
+        "episode_number": "S2:E13",
+        "external_id": "16442682",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1710576000,
+        "last_update": 1710483370323,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1710576000,
+        "season_number": "2",
+        "serial": 1710483369557,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1805,
+        "show_id": "13928120",
+        "show_timestamp": 1710576000,
+        "status": "estimated",
+        "summary": "Leela accepts a male cyclops' marriage proposal.",
+        "title": "A Bicyclops Built for Two",
+        "title_id": "437554",
         "tv_rating": "TV-14"
     }
 ]
