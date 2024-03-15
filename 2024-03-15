@@ -20,7 +20,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710475200,
-        "last_update": 1710456416498,
+        "last_update": 1710464567199,
         "live": false,
         "participants": [
             {
@@ -131,7 +131,7 @@
         "scheduled_duration": 1813,
         "scheduled_timestamp": 1710475200,
         "season_number": "2",
-        "serial": 1710456415861,
+        "serial": 1710464566306,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1813,
@@ -159,7 +159,7 @@
             "Drama"
         ],
         "guide_timestamp": 1710477000,
-        "last_update": 1710456416499,
+        "last_update": 1710462602760,
         "live": false,
         "participants": [
             {
@@ -210,7 +210,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1710477000,
         "season_number": "2",
-        "serial": 1710456415861,
+        "serial": 1710462602392,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1804,
@@ -241,7 +241,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1710478800,
-        "last_update": 1710456416499,
+        "last_update": 1710464403885,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -250,7 +250,7 @@
         "scheduled_duration": 906,
         "scheduled_timestamp": 1710478800,
         "season_number": "3",
-        "serial": 1710456415861,
+        "serial": 1710464402899,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 906,
@@ -4295,7 +4295,7 @@
             "Family"
         ],
         "guide_timestamp": 1710550800,
-        "last_update": 1710457639522,
+        "last_update": 1710461316456,
         "live": false,
         "participants": [
             {
@@ -4311,7 +4311,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710550800,
         "season_number": "12",
-        "serial": 1710457638643,
+        "serial": 1710461315062,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -4400,6 +4400,161 @@
         "summary": "Roger reveals a secret passion to Klaus; Stan and Francine seek revenge on Bazooka Sharks management.",
         "title": "Mused and Abused",
         "title_id": "2238756",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232850_010_03_851",
+        "create_time": 1710461316458,
+        "episode_in_season": "10",
+        "episode_number": "S16:E10",
+        "external_id": "16442666",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710554400,
+        "last_update": 1710461316458,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710554400,
+        "season_number": "16",
+        "serial": 1710461315062,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13928104",
+        "show_timestamp": 1710554400,
+        "status": "estimated",
+        "summary": "Stan's childhood imaginary friend returns to collect a debt. Klaus has a big date and needs a fishbowl upgrade.",
+        "title": "Henderson",
+        "title_id": "2238758",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232850_011_03_851",
+        "create_time": 1710463553524,
+        "episode_in_season": "11",
+        "episode_number": "S16:E11",
+        "external_id": "16442667",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710556200,
+        "last_update": 1710463553524,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1710556200,
+        "season_number": "16",
+        "serial": 1710463552690,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13928105",
+        "show_timestamp": 1710556200,
+        "status": "estimated",
+        "summary": "Hayley searches for guidance and instead finds a community of 'cool butts.'",
+        "title": "Hot Scoomp",
+        "title_id": "2238759",
         "tv_rating": "TV-14"
     }
 ]
