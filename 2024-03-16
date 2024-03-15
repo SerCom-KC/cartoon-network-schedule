@@ -3578,7 +3578,7 @@
             "Family"
         ],
         "guide_timestamp": 1710631800,
-        "last_update": 1710538866911,
+        "last_update": 1710542507015,
         "live": false,
         "participants": [
             {
@@ -3594,7 +3594,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710631800,
         "season_number": "1",
-        "serial": 1710538866186,
+        "serial": 1710542506694,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -3605,6 +3605,99 @@
         "summary_long": "When Bob learns that Linda's parents are coming for a visit, he takes drastic measures to avoid having contact with them. While fixing a leak in the attic, he pretends to get stuck while investigating a series of Prohibition Era passageways behind the walls. Bob manages to run the restaurant by ordering the family around from the safety of his wall maze, but then actually becomes stuck and begins to get a touch of cabin fever.",
         "title": "Crawl Space",
         "title_id": "2003424",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "169767_003_02_851",
+        "create_time": 1710542507016,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16442724",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1710633600,
+        "last_update": 1710542507016,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710633600,
+        "season_number": "1",
+        "serial": 1710542506694,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13928164",
+        "show_timestamp": 1710633600,
+        "status": "estimated",
+        "summary": "When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement about animal cruelty, Bob is livid when it starts to scare away customers.",
+        "title": "Sacred Cow",
+        "title_id": "2003425",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "169767_004_02_851",
+        "create_time": 1710542507016,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16442725",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1710635400,
+        "last_update": 1710542507016,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1710635400,
+        "season_number": "1",
+        "serial": 1710542506694,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1806,
+        "show_id": "13928165",
+        "show_timestamp": 1710635400,
+        "status": "estimated",
+        "summary": "When Tina develops a crush on the new martial arts instructor in town, she joins the class and ends up shirking her responsibilities at the restaurant. Bob finds out what's going on and decides to take matters into his own hands.",
+        "title": "Sexy Dance Fighting",
+        "title_id": "2003426",
         "tv_rating": "TV-PG"
     }
 ]
