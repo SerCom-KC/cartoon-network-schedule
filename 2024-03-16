@@ -591,7 +591,7 @@
             "Animation"
         ],
         "guide_timestamp": 1710568800,
-        "last_update": 1710476021077,
+        "last_update": 1710479695888,
         "live": false,
         "participants": [
             {
@@ -627,7 +627,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710568800,
         "season_number": "6",
-        "serial": 1710476020495,
+        "serial": 1710479695401,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -637,6 +637,152 @@
         "summary": "They're back, broh.",
         "title": "JuRicksic Mort",
         "title_id": "2397939",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251795_007_03_851",
+        "create_time": 1710479695889,
+        "episode_in_season": "7",
+        "episode_number": "S6:E07",
+        "external_id": "16442679",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1710570600,
+        "last_update": 1710479695889,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710570600,
+        "season_number": "6",
+        "serial": 1710479695401,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13928117",
+        "show_timestamp": 1710570600,
+        "status": "estimated",
+        "summary": "This one wrinkled my brain, broh.",
+        "title": "Full Meta Jackrick",
+        "title_id": "2397940",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232850_009_03_851",
+        "create_time": 1710479695890,
+        "episode_in_season": "9",
+        "episode_number": "S16:E09",
+        "external_id": "16442680",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710572400,
+        "last_update": 1710479695890,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710572400,
+        "season_number": "16",
+        "serial": 1710479695401,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13928118",
+        "show_timestamp": 1710572400,
+        "status": "estimated",
+        "summary": "Roger reveals a secret passion to Klaus; Stan and Francine seek revenge on Bazooka Sharks management.",
+        "title": "Mused and Abused",
+        "title_id": "2238756",
         "tv_rating": "TV-14"
     }
 ]
