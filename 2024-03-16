@@ -3300,7 +3300,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1710616500,
-        "last_update": 1710527939664,
+        "last_update": 1710531580138,
         "live": false,
         "participants": [
             {
@@ -3341,7 +3341,7 @@
         "scheduled_duration": 6300,
         "scheduled_timestamp": 1710616500,
         "season_number": "1",
-        "serial": 1710527938689,
+        "serial": 1710531579353,
         "series_id": "77342",
         "series_name": "LEGO Scooby-Doo: Haunted Hollywood",
         "show_duration": 6300,
@@ -3352,5 +3352,83 @@
         "title": "Lego Scooby-Doo! Haunted Hollywood",
         "title_id": "2094154",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233056_005_03_851",
+        "create_time": 1710531580138,
+        "episode_in_season": "5",
+        "episode_number": "S7:E05",
+        "external_id": "16442718",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1710622800,
+        "last_update": 1710531580138,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710622800,
+        "season_number": "7",
+        "serial": 1710531579353,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13928158",
+        "show_timestamp": 1710622800,
+        "status": "estimated",
+        "summary": "Bobby and Hank become rivals in competitive dog dancing; Bill mistakenly thinks a Rottweiler would be a good dog dance partner.",
+        "title": "Dances With Dogs",
+        "title_id": "731419",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233056_006_04_851",
+        "create_time": 1710531580139,
+        "episode_in_season": "6",
+        "episode_number": "S7:E06",
+        "external_id": "16442719",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1710624600,
+        "last_update": 1710531580139,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710624600,
+        "season_number": "7",
+        "serial": 1710531579353,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13928159",
+        "show_timestamp": 1710624600,
+        "status": "estimated",
+        "summary": "Son Also Roses, The: Bobby takes up rose gardening, and Hank enters him in a cutthroat competition.",
+        "title": "The Son Also Roses",
+        "title_id": "731421",
+        "tv_rating": "TV-PG"
     }
 ]
