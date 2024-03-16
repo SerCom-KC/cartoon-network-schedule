@@ -2490,7 +2490,7 @@
             "Family"
         ],
         "guide_timestamp": 1710720000,
-        "last_update": 1710627123471,
+        "last_update": 1710630762760,
         "live": false,
         "participants": [
             {
@@ -2506,7 +2506,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710720000,
         "season_number": "1",
-        "serial": 1710627123043,
+        "serial": 1710630762522,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -2566,5 +2566,82 @@
         "title": "Spaghetti Western and Meatballs",
         "title_id": "2003431",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232851_018_01_851",
+        "create_time": 1710630762762,
+        "episode_in_season": "18",
+        "episode_number": "S17:E18",
+        "external_id": "16442852",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710723600,
+        "last_update": 1710630762762,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710723600,
+        "season_number": "17",
+        "serial": 1710630762522,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13928211",
+        "show_timestamp": 1710723600,
+        "status": "estimated",
+        "summary": "Jeff's people pleasing nature gets in the way of his relationship with Hayley; Stan wears a confusing costume to the CIA costume party.",
+        "title": "Please Please Jeff",
+        "title_id": "2342105",
+        "tv_rating": "TV-14"
     }
 ]
