@@ -1021,7 +1021,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1710676800,
-        "last_update": 1710583714205,
+        "last_update": 1710587391221,
         "live": false,
         "participants": [
             {
@@ -1052,7 +1052,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710676800,
         "season_number": "1",
-        "serial": 1710583713895,
+        "serial": 1710587390453,
         "series_id": "2168685",
         "series_name": "Scooby-Doo and Guess Who?",
         "show_duration": 1800,
@@ -1124,5 +1124,73 @@
         "title": "A Run Cycle Through Time!",
         "title_id": "2199350",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "165565_000_02_851",
+        "create_time": 1710587391222,
+        "episode_in_season": "0",
+        "external_id": "16442827",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Curse of the Lake Monster",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1710680400,
+        "last_update": 1710587391222,
+        "live": false,
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "Voice"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Nick Palatas",
+                "role": "Actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Robbie Amell",
+                "role": "Actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Kate Melton",
+                "role": "Actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Hayley Kiyoko",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Brian Levant",
+                "role": "Director"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 79,
+        "scheduled_duration": 6306,
+        "scheduled_timestamp": 1710680400,
+        "season_number": "1",
+        "serial": 1710587390453,
+        "series_id": "75836",
+        "series_name": "Scooby-Doo! Curse of the Lake Monster",
+        "show_duration": 6306,
+        "show_id": "13928186",
+        "show_timestamp": 1710680400,
+        "status": "estimated",
+        "summary": "While heading to a country club owned by Daphne's uncle, the Mystery Inc. gang stumbles onto strange happenings. The pals need to work summer jobs. After hearing a dire warning, the friends dismiss it until a frog monster attacks.",
+        "title": "Scooby-Doo! Curse of the Lake Monster",
+        "title_id": "798570",
+        "tv_rating": "TV-PG"
     }
 ]
