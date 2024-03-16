@@ -1353,7 +1353,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710691200,
-        "last_update": 1710597644729,
+        "last_update": 1710601284467,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -1362,7 +1362,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710691200,
         "season_number": "1",
-        "serial": 1710597644450,
+        "serial": 1710601284132,
         "series_id": "2011437",
         "series_name": "The Tom and Jerry Show",
         "show_duration": 1800,
@@ -1374,5 +1374,96 @@
         "title": "What a Pain/Hop to It!",
         "title_id": "2016736",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250770_012_02_851",
+        "create_time": 1710600694789,
+        "episode_in_season": "12",
+        "episode_number": "12",
+        "external_id": "16442832",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Show, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710693000,
+        "last_update": 1710600694789,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1710693000,
+        "season_number": "1",
+        "serial": 1710600694448,
+        "series_id": "2011437",
+        "series_name": "The Tom and Jerry Show",
+        "show_duration": 1806,
+        "show_id": "13928191",
+        "show_timestamp": 1710693000,
+        "status": "estimated",
+        "summary": "Tom kicks Spike's chew toy Ruggles over the fence and has to go get it back when he sees how heartbroken Spike becomes. Then, Butch and a squirrel detective have set up shop and are stealing Tom and Jerry's clients.",
+        "summary_long": "For the Love of Ruggles: Tom impulsively kicks Spike's beloved chew toy Ruggles over the fence and has to go get it back when he sees how heartbroken Spike becomes. Things get hard when Ruggles is adopted by an imaginative little girl Matalyn and Tom has to steal him back./Sleuth or Consequences: Butch and a squirrel detective have set up shop across the street from Tom and Jerry and are stealing all their customers by using high-tech devices to solve crimes. Tom and Jerry challenge them to a competition to solve one final case: either find a goldfish's missing gold chest or close up shop.",
+        "title": "For the Love of Ruggles/Sleuth or Consequences",
+        "title_id": "2016737",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228763_003_02_851",
+        "create_time": 1710601284469,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "16442833",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "We Bare Bears",
+        "genres": [
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1710694800,
+        "last_update": 1710601284469,
+        "live": false,
+        "participants": [
+            {
+                "character": "Grizzly",
+                "name": "Eric Edelstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Demetri Martin",
+                "role": "Voice"
+            },
+            {
+                "character": "Panda",
+                "name": "Bobby Moynihan",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1710694800,
+        "season_number": "3",
+        "serial": 1710601284132,
+        "series_id": "2056641",
+        "series_name": "We Bare Bears",
+        "show_duration": 900,
+        "show_id": "13928192",
+        "show_timestamp": 1710694800,
+        "status": "estimated",
+        "summary": "Panda uses an app to find a friend with whom he has more common with. Soon things take a turn for the worse when the new friend gets too possessive.",
+        "title": "Panda's Friend",
+        "title_id": "2075019",
+        "tv_rating": "TV-Y7"
     }
 ]
