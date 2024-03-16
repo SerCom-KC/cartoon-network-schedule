@@ -16,7 +16,7 @@
             "Anime"
         ],
         "guide_timestamp": 1710648000,
-        "last_update": 1710557065509,
+        "last_update": 1710632044397,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -25,7 +25,7 @@
         "scheduled_duration": 1866,
         "scheduled_timestamp": 1710648000,
         "season_number": "1",
-        "serial": 1710557064901,
+        "serial": 1710632043875,
         "series_id": "2424823",
         "series_name": "Ninja Kamui (English Language Version)",
         "show_duration": 1866,
@@ -55,7 +55,7 @@
             "Action"
         ],
         "guide_timestamp": 1710649800,
-        "last_update": 1710557065510,
+        "last_update": 1710632044397,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -64,7 +64,7 @@
         "scheduled_duration": 1819,
         "scheduled_timestamp": 1710649800,
         "season_number": "2",
-        "serial": 1710557064901,
+        "serial": 1710632043875,
         "series_id": "2209292",
         "series_name": "Demon Slayer:  Kimetsu no Yaiba",
         "show_duration": 1819,
@@ -2538,7 +2538,7 @@
             "Family"
         ],
         "guide_timestamp": 1710721800,
-        "last_update": 1710628368327,
+        "last_update": 1710632044397,
         "live": false,
         "participants": [
             {
@@ -2554,7 +2554,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710721800,
         "season_number": "1",
-        "serial": 1710628367998,
+        "serial": 1710632043875,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -2642,6 +2642,83 @@
         "summary": "Jeff's people pleasing nature gets in the way of his relationship with Hayley; Stan wears a confusing costume to the CIA costume party.",
         "title": "Please Please Jeff",
         "title_id": "2342105",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232851_019_01_851",
+        "create_time": 1710632045097,
+        "episode_in_season": "19",
+        "episode_number": "S17:E19",
+        "external_id": "16442853",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710725400,
+        "last_update": 1710632045097,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710725400,
+        "season_number": "17",
+        "serial": 1710632044828,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13928212",
+        "show_timestamp": 1710725400,
+        "status": "estimated",
+        "summary": "When Francine successfully grows a garden, it reminds Roger he knows a recipe for truly authentic jambalaya.",
+        "title": "Jambalaya",
+        "title_id": "2342106",
         "tv_rating": "TV-14"
     }
 ]
