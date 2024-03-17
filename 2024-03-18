@@ -4382,7 +4382,7 @@
             "Family"
         ],
         "guide_timestamp": 1710808200,
-        "last_update": 1710715374347,
+        "last_update": 1710719013735,
         "live": false,
         "participants": [
             {
@@ -4398,7 +4398,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710808200,
         "season_number": "1",
-        "serial": 1710715373999,
+        "serial": 1710719012998,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -4457,6 +4457,83 @@
         "summary_long": "After the town's annual Lobsterfest is cancelled by a storm, Bob defiantly opens his doors for a festive celebration. When he wakes the next morning, Bob finds the restaurant in disarray, and the town has spurned him. Meanwhile, the kids secretly try lobster for the first time.",
         "title": "Lobsterfest",
         "title_id": "2003434",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232850_017_03_851",
+        "create_time": 1710719014214,
+        "episode_in_season": "17",
+        "episode_number": "S16:E17",
+        "external_id": "16444056",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710811800,
+        "last_update": 1710719014214,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1710811800,
+        "season_number": "16",
+        "serial": 1710719014061,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13928286",
+        "show_timestamp": 1710811800,
+        "status": "estimated",
+        "summary": "A new friendship causes Hayley to start worrying she might be slowly turning into Francine. Steve and his friends try out for Roger's improv troupe.",
+        "title": "The Sinister Fate!!",
+        "title_id": "2238765",
         "tv_rating": "TV-14"
     }
 ]
