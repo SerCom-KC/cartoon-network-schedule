@@ -909,7 +909,7 @@
             "Family"
         ],
         "guide_timestamp": 1710752400,
-        "last_update": 1710661447404,
+        "last_update": 1710665785834,
         "live": false,
         "participants": [
             {
@@ -925,7 +925,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710752400,
         "season_number": "1",
-        "serial": 1710661447099,
+        "serial": 1710665784995,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -1178,5 +1178,41 @@
         "title": "Spread Those Wings and Fly",
         "title_id": "894371",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "260569_007_01_851",
+        "create_time": 1710665785836,
+        "episode_in_season": "7",
+        "episode_number": "7",
+        "external_id": "16456558",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710759300,
+        "last_update": 1710665785836,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 4,
+        "scheduled_duration": 240,
+        "scheduled_timestamp": 1710759360,
+        "season_number": "1",
+        "serial": 1710665784995,
+        "series_id": "2467145",
+        "series_name": "Tom and Jerry",
+        "show_duration": 240,
+        "show_id": "13933671",
+        "show_timestamp": 1710759360,
+        "status": "estimated",
+        "summary": "Jerry fancies himself an artist, but Tom disagrees. Their artistic antics blur lines between art and chaos. Other than a trail of mess, what else will they leave behind?",
+        "title": "Colourful Chase",
+        "title_id": "2467152",
+        "tv_rating": "NR"
     }
 ]
