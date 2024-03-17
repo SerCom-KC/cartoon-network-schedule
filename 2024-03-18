@@ -959,7 +959,7 @@
             "Family"
         ],
         "guide_timestamp": 1710754200,
-        "last_update": 1710661447404,
+        "last_update": 1710665123343,
         "live": false,
         "participants": [
             {
@@ -975,7 +975,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710754200,
         "season_number": "1",
-        "serial": 1710661447099,
+        "serial": 1710665122846,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -1128,5 +1128,55 @@
         "title": "The Return",
         "title_id": "2062743",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235002_014_02_851",
+        "create_time": 1710665123345,
+        "episode_in_season": "14",
+        "episode_number": "S2:E14",
+        "external_id": "16447638",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1710757800,
+        "last_update": 1710665123345,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1680,
+        "scheduled_timestamp": 1710757680,
+        "season_number": "2",
+        "serial": 1710665122846,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1680,
+        "show_id": "13933670",
+        "show_timestamp": 1710757680,
+        "status": "estimated",
+        "summary": "Daffy and Porky attend a self-help seminar, which inspires Daffy to want to learn how to fly.  When that doesn't work, he settles for becoming an airline stewardess.",
+        "title": "Spread Those Wings and Fly",
+        "title_id": "894371",
+        "tv_rating": "TV-PG"
     }
 ]
