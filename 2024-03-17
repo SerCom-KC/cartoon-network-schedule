@@ -16,7 +16,7 @@
             "Anime"
         ],
         "guide_timestamp": 1710648000,
-        "last_update": 1710632044397,
+        "last_update": 1710635645656,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -25,7 +25,7 @@
         "scheduled_duration": 1866,
         "scheduled_timestamp": 1710648000,
         "season_number": "1",
-        "serial": 1710632043875,
+        "serial": 1710635644750,
         "series_id": "2424823",
         "series_name": "Ninja Kamui (English Language Version)",
         "show_duration": 1866,
@@ -55,7 +55,7 @@
             "Action"
         ],
         "guide_timestamp": 1710649800,
-        "last_update": 1710632044397,
+        "last_update": 1710635645657,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -64,7 +64,7 @@
         "scheduled_duration": 1819,
         "scheduled_timestamp": 1710649800,
         "season_number": "2",
-        "serial": 1710632043875,
+        "serial": 1710635644750,
         "series_id": "2209292",
         "series_name": "Demon Slayer:  Kimetsu no Yaiba",
         "show_duration": 1819,
@@ -2586,7 +2586,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710723600,
-        "last_update": 1710630762762,
+        "last_update": 1710634402342,
         "live": false,
         "participants": [
             {
@@ -2632,7 +2632,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710723600,
         "season_number": "17",
-        "serial": 1710630762522,
+        "serial": 1710634401870,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -2663,7 +2663,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710725400,
-        "last_update": 1710632045097,
+        "last_update": 1710635721018,
         "live": false,
         "participants": [
             {
@@ -2709,7 +2709,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710725400,
         "season_number": "17",
-        "serial": 1710632044828,
+        "serial": 1710635720659,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -2719,6 +2719,162 @@
         "summary": "When Francine successfully grows a garden, it reminds Roger he knows a recipe for truly authentic jambalaya.",
         "title": "Jambalaya",
         "title_id": "2342106",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_020_01_851",
+        "create_time": 1710634403515,
+        "episode_in_season": "20",
+        "episode_number": "S17:E20",
+        "external_id": "16442854",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710727200,
+        "last_update": 1710634403515,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710727200,
+        "season_number": "17",
+        "serial": 1710634402661,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13928213",
+        "show_timestamp": 1710727200,
+        "status": "estimated",
+        "summary": "Hoping to teach him the value of sharing, the family recreates a television show from Klaus's childhood. Roger has a piano recital.",
+        "title": "Gernot and Strudel",
+        "title_id": "2342107",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_021_01_851",
+        "create_time": 1710635721020,
+        "episode_in_season": "21",
+        "episode_number": "S17:E21",
+        "external_id": "16442855",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710729000,
+        "last_update": 1710635721020,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710729000,
+        "season_number": "17",
+        "serial": 1710635720659,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13928214",
+        "show_timestamp": 1710729000,
+        "status": "estimated",
+        "summary": "Steve starts a work-study program and discovers that not all is what it seems at Channel 3 News. Roger seeks redemption in the Nashville country music scene.",
+        "title": "Echoes",
+        "title_id": "2342108",
         "tv_rating": "TV-14"
     }
 ]
