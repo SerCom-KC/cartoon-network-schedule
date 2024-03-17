@@ -505,7 +505,7 @@
             "Animation"
         ],
         "guide_timestamp": 1710745200,
-        "last_update": 1710652783034,
+        "last_update": 1710656421514,
         "live": false,
         "participants": [
             {
@@ -541,7 +541,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710745200,
         "season_number": "5",
-        "serial": 1710652782553,
+        "serial": 1710656421234,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -696,5 +696,79 @@
         "title": "MyCycle",
         "title_id": "2424746",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233394_003_01_851",
+        "create_time": 1710656421515,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16442868",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Momma Named Me Sheriff",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710748800,
+        "last_update": 1710656421515,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 904,
+        "scheduled_timestamp": 1710748800,
+        "season_number": "1",
+        "serial": 1710656421234,
+        "series_id": "2196566",
+        "series_name": "Momma Named Me Sheriff",
+        "show_duration": 904,
+        "show_id": "13928227",
+        "show_timestamp": 1710748800,
+        "status": "estimated",
+        "summary": "When Sheriff and Deputy Goodman get stuck in their cruiser, Sheriff tries to use their time to get to know each other better.",
+        "title": "Stuck",
+        "title_id": "2196569",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "233394_004_01_851",
+        "create_time": 1710656421516,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16442869",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Momma Named Me Sheriff",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710749700,
+        "last_update": 1710656421516,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1710749700,
+        "season_number": "1",
+        "serial": 1710656421234,
+        "series_id": "2196566",
+        "series_name": "Momma Named Me Sheriff",
+        "show_duration": 902,
+        "show_id": "13928228",
+        "show_timestamp": 1710749700,
+        "status": "estimated",
+        "summary": "When Goodman's legs get cut off and stolen, his search for the leg thief lands him in the first grade, where he is mistaken for a child.",
+        "title": "Ganley Stoodman",
+        "title_id": "2196570",
+        "tv_rating": "TV-MA"
     }
 ]
