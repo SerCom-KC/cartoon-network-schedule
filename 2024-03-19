@@ -3069,7 +3069,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710870300,
-        "last_update": 1710792105416,
+        "last_update": 1710795785893,
         "live": false,
         "participants": [
             {
@@ -3095,7 +3095,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1710870300,
         "season_number": "2",
-        "serial": 1710792104723,
+        "serial": 1710795784842,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "show_duration": 900,
@@ -4060,7 +4060,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710883800,
-        "last_update": 1710792106710,
+        "last_update": 1710795787354,
         "live": false,
         "participants": [
             {
@@ -4086,7 +4086,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710883800,
         "season_number": "5",
-        "serial": 1710792105895,
+        "serial": 1710795786248,
         "series_id": "100106",
         "series_name": "Dexter's Laboratory",
         "show_duration": 1800,
@@ -4153,6 +4153,102 @@
         "summary_long": "Pink cannonballs fly from a huge tower and rain down on the people of Nowhere, turning them gray and depressed. Behind this scheme is Dr. Zalost, a sinister scientist who is so miserable, he wants everyone else to be miserable too. Muriel is hit and slumps into a deep depression. Courage must find a cure.",
         "title": "The Tower of Dr. Zalost Part 1/The Tower of Dr. Zalost Part 2",
         "title_id": "341720",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228246_001_03_851",
+        "create_time": 1710795787355,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "16444819",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Courage the Cowardly Dog",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1710887400,
+        "last_update": 1710795787355,
+        "live": false,
+        "participants": [
+            {
+                "character": "Courage",
+                "name": "Marty Grabstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Muriel Bagge",
+                "name": "Thea White",
+                "role": "Voice"
+            },
+            {
+                "character": "Eustace Bagge",
+                "name": "Lionel Wilson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710887400,
+        "season_number": "3",
+        "serial": 1710795786248,
+        "series_id": "330149",
+        "series_name": "Courage the Cowardly Dog",
+        "show_duration": 1800,
+        "show_id": "13928351",
+        "show_timestamp": 1710887400,
+        "status": "estimated",
+        "summary": "Maria and her husband Mano park their trailer next door to the farmhouse. Maria disguises herself as Muriel in order to steal a diamond, and Muriel is arrested. Then, Eustace decides to replace Courage with a technologically superior dog.",
+        "summary_long": "Muriel Meets Her Match: Maria and her husband Mano, on the lam from the law, park their trailer next door to the farmhouse. Maria disguises herself as Muriel in order to steal a diamond, and Muriel is arrested. Courage must get the mix-up straightened out so Muriel can be exonerated./Courage vs. Mecha-Courage: Eustace decides to replace Courage with a technologically superior dog. Courage must prove his merit.",
+        "title": "Muriel Meets Her Match/Courage vs. Mecha-Courage",
+        "title_id": "410480",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233056_012_03_851",
+        "create_time": 1710795787355,
+        "episode_in_season": "12",
+        "episode_number": "S7:E12",
+        "external_id": "16443993",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1710889200,
+        "last_update": 1710795787355,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710889200,
+        "season_number": "7",
+        "serial": 1710795786248,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13928352",
+        "show_timestamp": 1710889200,
+        "status": "estimated",
+        "summary": "Hank takes Joseph on a vision quest in hopes of changing the boy's ways. When Dale ends up experiencing a vision of his own, he misinterprets one of Joseph's dreams and encourages him to kill a panda at the zoo.",
+        "title": "Vision Quest",
+        "title_id": "731473",
         "tv_rating": "TV-PG"
     }
 ]
