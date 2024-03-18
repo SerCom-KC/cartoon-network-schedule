@@ -88,7 +88,7 @@
             "Drama"
         ],
         "guide_timestamp": 1710822600,
-        "last_update": 1710729932985,
+        "last_update": 1710733571729,
         "live": false,
         "participants": [
             {
@@ -139,7 +139,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710822600,
         "season_number": "2",
-        "serial": 1710729932634,
+        "serial": 1710733571119,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -229,6 +229,83 @@
         "summary": "Has a woman's late husband been reincarnated as her sweet little dog?",
         "title": "A Dog's Life",
         "title_id": "2117693",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232850_017_03_851",
+        "create_time": 1710733571732,
+        "episode_in_season": "17",
+        "episode_number": "S16:E17",
+        "external_id": "16444065",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710826200,
+        "last_update": 1710733571732,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1710826200,
+        "season_number": "16",
+        "serial": 1710733571119,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13928295",
+        "show_timestamp": 1710826200,
+        "status": "estimated",
+        "summary": "A new friendship causes Hayley to start worrying she might be slowly turning into Francine. Steve and his friends try out for Roger's improv troupe.",
+        "title": "The Sinister Fate!!",
+        "title_id": "2238765",
         "tv_rating": "TV-14"
     }
 ]
