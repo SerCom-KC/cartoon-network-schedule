@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1710734400,
-        "last_update": 1710723609333,
+        "last_update": 1710727334132,
         "live": false,
         "participants": [
             {
@@ -56,7 +56,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710734400,
         "season_number": "5",
-        "serial": 1710723608870,
+        "serial": 1710727333207,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1787,
@@ -121,7 +121,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710737100,
-        "last_update": 1710722710647,
+        "last_update": 1710726312301,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -130,7 +130,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1710737100,
         "season_number": "1",
-        "serial": 1710722710198,
+        "serial": 1710726311859,
         "series_id": "2196566",
         "series_name": "Momma Named Me Sheriff",
         "show_duration": 882,
@@ -162,7 +162,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1710738000,
-        "last_update": 1710723609336,
+        "last_update": 1710727211676,
         "live": false,
         "participants": [
             {
@@ -183,7 +183,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1710738000,
         "season_number": "2",
-        "serial": 1710723608870,
+        "serial": 1710727210436,
         "series_id": "2104364",
         "series_name": "Hot Streets",
         "show_duration": 894,
@@ -356,7 +356,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710741600,
-        "last_update": 1710709119028,
+        "last_update": 1710727211677,
         "live": false,
         "participants": [
             {
@@ -402,7 +402,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710741600,
         "season_number": "17",
-        "serial": 1710709118481,
+        "serial": 1710727210436,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1756,
@@ -4764,6 +4764,75 @@
         "summary": "When Stan realizes he can't cry, he asks Steve to teach him empathy.",
         "title": "Cry Baby",
         "title_id": "2238768",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251795_008_03_851",
+        "create_time": 1710726293264,
+        "episode_in_season": "8",
+        "episode_number": "S6:E08",
+        "external_id": "16444060",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1710819000,
+        "last_update": 1710726293264,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1710819000,
+        "season_number": "6",
+        "serial": 1710726292260,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1805,
+        "show_id": "13928290",
+        "show_timestamp": 1710819000,
+        "status": "estimated",
+        "summary": "Haters gonna hate, broh.",
+        "title": "Analyze Piss",
+        "title_id": "2397941",
         "tv_rating": "TV-14"
     }
 ]
