@@ -666,5 +666,115 @@
         "title": "Radio Frankenstein",
         "title_id": "2423867",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "228480_010_02_851",
+        "create_time": 1710831821873,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "16444013",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tuca & Bertie",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710923400,
+        "last_update": 1710831821873,
+        "live": false,
+        "participants": [
+            {
+                "character": "Tuca Toucan",
+                "name": "Tiffany Haddish",
+                "role": "Voice"
+            },
+            {
+                "character": "Roberta Songthrush",
+                "name": "Ali Wong",
+                "role": "Voice"
+            },
+            {
+                "character": "Speckle",
+                "name": "Steven Yeun",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Lisa Hanawalt",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1710923400,
+        "season_number": "2",
+        "serial": 1710831821683,
+        "series_id": "2266164",
+        "series_name": "Tuca & Bertie",
+        "show_duration": 1804,
+        "show_id": "13928372",
+        "show_timestamp": 1710923400,
+        "status": "estimated",
+        "summary": "Once upon a time, Bird Town was overwhelmed by a natural disaster. While the city is under siege, Bertie helps Tuca deal with some personal ghosts and unpack a big issue in their friendship.",
+        "title": "The Flood",
+        "title_id": "2266174",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169767_013_02_851",
+        "create_time": 1710831821874,
+        "episode_in_season": "13",
+        "episode_number": "S1:E13",
+        "external_id": "16444014",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1710925200,
+        "last_update": 1710831821874,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710925200,
+        "season_number": "1",
+        "serial": 1710831821683,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13928373",
+        "show_timestamp": 1710925200,
+        "status": "estimated",
+        "summary": "Bob's hero, a washed-up professional baseball player named Torpedo Jones, starts pitching for the local minor league team. Torpedo befriends the Belcher's, and Bob is ecstatic until he finds out about the dark underbelly of baseball.",
+        "title": "Torpedo",
+        "title_id": "2003435",
+        "tv_rating": "TV-PG"
     }
 ]
