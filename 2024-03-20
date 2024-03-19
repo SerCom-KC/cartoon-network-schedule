@@ -4301,7 +4301,7 @@
             "Family"
         ],
         "guide_timestamp": 1710981000,
-        "last_update": 1710888412539,
+        "last_update": 1710892087366,
         "live": false,
         "participants": [
             {
@@ -4317,7 +4317,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710981000,
         "season_number": "2",
-        "serial": 1710888412102,
+        "serial": 1710892086830,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -4376,6 +4376,84 @@
         "summary_long": "Bob's family persuades him to buy a food truck and compete with the ones stealing his customers right outside the restaurant. When the Belchers bring their food truck to the Lolla-Pa-Foods-A-Festival, the Belcher kids' mischief causes the foodies and other truck owners to riot against them.",
         "title": "Food Truckin",
         "title_id": "2003440",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_001_01_851",
+        "create_time": 1710892087367,
+        "episode_in_season": "1",
+        "episode_number": "S18:E02",
+        "external_id": "16443942",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1710984600,
+        "last_update": 1710892087367,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1710984600,
+        "season_number": "18",
+        "serial": 1710892086830,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13928429",
+        "show_timestamp": 1710984600,
+        "status": "estimated",
+        "summary": "Hayley tries to help Roger write a book.",
+        "title": "The Professor and the Coach",
+        "title_id": "2392752",
         "tv_rating": "TV-14"
     }
 ]
