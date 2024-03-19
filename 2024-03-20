@@ -4116,7 +4116,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1710973800,
-        "last_update": 1710884737556,
+        "last_update": 1710888632547,
         "live": false,
         "participants": [
             {
@@ -4142,7 +4142,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710973800,
         "season_number": "3",
-        "serial": 1710884736204,
+        "serial": 1710888631745,
         "series_id": "330149",
         "series_name": "Courage the Cowardly Dog",
         "show_duration": 1800,
@@ -4174,7 +4174,7 @@
             "Drama"
         ],
         "guide_timestamp": 1710975600,
-        "last_update": 1710882663173,
+        "last_update": 1710888632548,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -4183,7 +4183,7 @@
         "scheduled_duration": 1801,
         "scheduled_timestamp": 1710975600,
         "season_number": "7",
-        "serial": 1710882662675,
+        "serial": 1710888631745,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1801,
@@ -4213,7 +4213,7 @@
             "Drama"
         ],
         "guide_timestamp": 1710977400,
-        "last_update": 1710884737558,
+        "last_update": 1710888412537,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -4222,7 +4222,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710977400,
         "season_number": "7",
-        "serial": 1710884736204,
+        "serial": 1710888412102,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
@@ -4280,5 +4280,53 @@
         "title": "Synchronized Swimming",
         "title_id": "2003438",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169768_004_02_851",
+        "create_time": 1710888412539,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "16443940",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1710981000,
+        "last_update": 1710888412539,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710981000,
+        "season_number": "2",
+        "serial": 1710888412102,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13928427",
+        "show_timestamp": 1710981000,
+        "status": "estimated",
+        "summary": "Bob becomes obsessed with an old-school burger-flipping video game after Jimmy Pesto gets the high score and writes \"BOB SUX\" on the leader board.",
+        "title": "Burgerboss",
+        "title_id": "2003439",
+        "tv_rating": "TV-14"
     }
 ]
