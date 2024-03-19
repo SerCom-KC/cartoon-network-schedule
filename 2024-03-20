@@ -190,5 +190,46 @@
         "title": "Spring Break",
         "title_id": "2117700",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "233143_012_01_851",
+        "create_time": 1710818740311,
+        "episode_in_season": "12",
+        "episode_number": "S3:E12",
+        "external_id": "16444006",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1710911700,
+        "last_update": 1710818740311,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1710911700,
+        "season_number": "3",
+        "serial": 1710818739552,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 900,
+        "show_id": "13928365",
+        "show_timestamp": 1710911700,
+        "status": "estimated",
+        "summary": "The team gets the Mystery Mobile a regular car wash for $9.99.",
+        "title": "At the Car Wash",
+        "title_id": "2117699",
+        "tv_rating": "TV-14"
     }
 ]
