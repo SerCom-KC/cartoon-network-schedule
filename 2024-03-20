@@ -749,7 +749,7 @@
             "Family"
         ],
         "guide_timestamp": 1710925200,
-        "last_update": 1710831821874,
+        "last_update": 1710836214946,
         "live": false,
         "participants": [
             {
@@ -765,7 +765,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710925200,
         "season_number": "1",
-        "serial": 1710831821683,
+        "serial": 1710836214739,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -776,5 +776,54 @@
         "title": "Torpedo",
         "title_id": "2003435",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169768_001_02_851",
+        "create_time": 1710836214946,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "16444015",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1710927000,
+        "last_update": 1710836214946,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1710927000,
+        "season_number": "2",
+        "serial": 1710836214739,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13928374",
+        "show_timestamp": 1710927000,
+        "status": "estimated",
+        "summary": "The kids hunt for treasure in an abandoned taffy factory, and Bob and Linda must find them before the factory's scheduled demolition.",
+        "title": "The Belchies",
+        "title_id": "2003436",
+        "tv_rating": "TV-14"
     }
 ]
