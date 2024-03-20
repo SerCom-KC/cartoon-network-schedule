@@ -684,7 +684,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711009800,
-        "last_update": 1710917939667,
+        "last_update": 1710921579103,
         "live": false,
         "participants": [
             {
@@ -715,7 +715,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711009800,
         "season_number": "3",
-        "serial": 1710917939175,
+        "serial": 1710921578648,
         "series_id": "2266164",
         "series_name": "Tuca & Bertie",
         "show_duration": 1800,
@@ -746,7 +746,7 @@
             "Family"
         ],
         "guide_timestamp": 1711011600,
-        "last_update": 1710918007347,
+        "last_update": 1710921681484,
         "live": false,
         "participants": [
             {
@@ -762,7 +762,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711011600,
         "season_number": "2",
-        "serial": 1710918006251,
+        "serial": 1710921681228,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -773,5 +773,53 @@
         "title": "Synchronized Swimming",
         "title_id": "2003438",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169768_004_02_851",
+        "create_time": 1710921579105,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "16443959",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1711013400,
+        "last_update": 1710921579105,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711013400,
+        "season_number": "2",
+        "serial": 1710921578648,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13928446",
+        "show_timestamp": 1711013400,
+        "status": "estimated",
+        "summary": "Bob becomes obsessed with an old-school burger-flipping video game after Jimmy Pesto gets the high score and writes \"BOB SUX\" on the leader board.",
+        "title": "Burgerboss",
+        "title_id": "2003439",
+        "tv_rating": "TV-14"
     }
 ]
