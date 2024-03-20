@@ -4139,7 +4139,7 @@
             "Drama"
         ],
         "guide_timestamp": 1711062000,
-        "last_update": 1710969353683,
+        "last_update": 1710973451146,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -4148,7 +4148,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711062000,
         "season_number": "7",
-        "serial": 1710969353441,
+        "serial": 1710973450675,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
@@ -4159,5 +4159,94 @@
         "title": "The Miseducation of Bobby Hill",
         "title_id": "731483",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233056_017_03_851",
+        "create_time": 1710972920502,
+        "episode_in_season": "17",
+        "episode_number": "S7:E17",
+        "external_id": "16443881",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1711063800,
+        "last_update": 1710972920502,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711063800,
+        "season_number": "7",
+        "serial": 1710972919408,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13928497",
+        "show_timestamp": 1711063800,
+        "status": "estimated",
+        "summary": "Hank and Peggy become concerned when the leering Buck Strickland ends up in Luanne's Bible study class; Bobby skips gym class to have tea and scones at the posh Hotel Arlen.",
+        "title": "The Good Buck",
+        "title_id": "731484",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169768_006_02_851",
+        "create_time": 1710972920502,
+        "episode_in_season": "6",
+        "episode_number": "S2:E06",
+        "external_id": "16443882",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1711065600,
+        "last_update": 1710972920502,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1711065600,
+        "season_number": "2",
+        "serial": 1710972919408,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1806,
+        "show_id": "13928498",
+        "show_timestamp": 1711065600,
+        "status": "estimated",
+        "summary": "Linda's sister Gayle joins the family ski trip. Before she does so she picks up a medicated Bob from Dr. Yap, the family dentist. When Bob mistakes Gayle for Linda and kisses her, Gayle falls for Bob. So Bob turns to Dr. Yap for help.",
+        "summary_long": "Linda's sister Gayle joins the family ski trip. But before she does so she picks up a heavily medicated Bob from Dr. Yap, the family dentist. When Bob mistakes Gayle for Linda and kisses her, Gayle falls for Bob. So Bob turns to Dr. Yap for help.",
+        "title": "Dr. Yap",
+        "title_id": "2003441",
+        "tv_rating": "TV-14"
     }
 ]
