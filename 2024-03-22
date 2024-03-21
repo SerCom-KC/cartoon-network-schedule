@@ -300,5 +300,83 @@
         "title": "Carol",
         "title_id": "2117697",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232843_005_04_851",
+        "create_time": 1710992351507,
+        "episode_in_season": "5",
+        "episode_number": "S3:E05",
+        "external_id": "16443894",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1711085400,
+        "last_update": 1710992351507,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1809,
+        "scheduled_timestamp": 1711085400,
+        "season_number": "3",
+        "serial": 1710992351260,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1809,
+        "show_id": "13928510",
+        "show_timestamp": 1711085400,
+        "status": "estimated",
+        "summary": "While playing poker with the guys, Stan is exposed as a virgin, but not in the traditional way - he's never killed anyone. Roger and the guys help Stan bust his killing cherry.",
+        "title": "42-Year-Old Virgin",
+        "title_id": "700738",
+        "tv_rating": "TV-14"
     }
 ]
