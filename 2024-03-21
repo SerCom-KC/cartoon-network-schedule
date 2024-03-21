@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1710993600,
-        "last_update": 1710982804430,
+        "last_update": 1710986405252,
         "live": false,
         "participants": [
             {
@@ -57,7 +57,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1710993600,
         "season_number": "1",
-        "serial": 1710982804047,
+        "serial": 1710986404616,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1804,
@@ -85,7 +85,7 @@
             "Drama"
         ],
         "guide_timestamp": 1710995400,
-        "last_update": 1710982837593,
+        "last_update": 1710986439560,
         "live": false,
         "participants": [
             {
@@ -136,7 +136,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710995400,
         "season_number": "3",
-        "serial": 1710982837014,
+        "serial": 1710986439167,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1793,
@@ -169,7 +169,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1710997200,
-        "last_update": 1710982837594,
+        "last_update": 1710986439566,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -178,7 +178,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1710997200,
         "season_number": "3",
-        "serial": 1710982837014,
+        "serial": 1710986439167,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 898,
@@ -4518,7 +4518,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711074600,
-        "last_update": 1710981245194,
+        "last_update": 1710984920086,
         "live": false,
         "participants": [
             {
@@ -4564,7 +4564,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711074600,
         "season_number": "3",
-        "serial": 1710981244700,
+        "serial": 1710984919095,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1800,
@@ -4652,6 +4652,84 @@
         "summary_long": "Stan and the family are characters in a James Bond-style spoof. Stan must stop Tearjerker, played by Roger, a diabolical film producer who makes movies that can kill. Tearjerker's fiendish plot involves abducting celebrities from his spa and replacing them with celebrity robots that make horrible movies, all in an effort to make his masterpiece \"Oscar's Gold\" the best and saddest movie ever, causing millions of moviegoers to cry themselves to death.",
         "title": "Tearjerker",
         "title_id": "700742",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_016_03_851",
+        "create_time": 1710984920710,
+        "episode_in_season": "16",
+        "episode_number": "S18:E14",
+        "external_id": "16465800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1711078200,
+        "last_update": 1710984920710,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1711078200,
+        "season_number": "18",
+        "serial": 1710984920376,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "14015380",
+        "show_timestamp": 1711078200,
+        "status": "estimated",
+        "summary": "Hayley searches for a runaway Steve so they can go to a Shaggy concert.",
+        "title": "Multiverse of American Dadness",
+        "title_id": "2397215",
         "tv_rating": "TV-14"
     }
 ]
