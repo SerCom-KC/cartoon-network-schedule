@@ -2534,7 +2534,7 @@
             "Animation"
         ],
         "guide_timestamp": 1711130400,
-        "last_update": 1711040680611,
+        "last_update": 1711044793576,
         "live": false,
         "participants": [
             {
@@ -2585,7 +2585,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1711130400,
         "season_number": "6",
-        "serial": 1711040679810,
+        "serial": 1711044792909,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -2614,7 +2614,7 @@
             "Animation"
         ],
         "guide_timestamp": 1711131300,
-        "last_update": 1711040680611,
+        "last_update": 1711044794555,
         "live": false,
         "participants": [
             {
@@ -2665,7 +2665,7 @@
         "scheduled_duration": 904,
         "scheduled_timestamp": 1711131300,
         "season_number": "1",
-        "serial": 1711040679810,
+        "serial": 1711044793940,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 904,
@@ -2694,7 +2694,7 @@
             "Animation"
         ],
         "guide_timestamp": 1711132200,
-        "last_update": 1711040680612,
+        "last_update": 1711044794556,
         "live": false,
         "participants": [
             {
@@ -2745,7 +2745,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1711132200,
         "season_number": "1",
-        "serial": 1711040679810,
+        "serial": 1711044793940,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 900,
@@ -2774,7 +2774,7 @@
             "Animation"
         ],
         "guide_timestamp": 1711133100,
-        "last_update": 1711040680613,
+        "last_update": 1711044794557,
         "live": false,
         "participants": [
             {
@@ -2825,7 +2825,7 @@
         "scheduled_duration": 911,
         "scheduled_timestamp": 1711133100,
         "season_number": "8",
-        "serial": 1711040679810,
+        "serial": 1711044793940,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 911,
@@ -2854,7 +2854,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711134000,
-        "last_update": 1711040680614,
+        "last_update": 1711044794558,
         "live": false,
         "participants": [
             {
@@ -2895,7 +2895,7 @@
         "scheduled_duration": 904,
         "scheduled_timestamp": 1711134000,
         "season_number": "6",
-        "serial": 1711040679810,
+        "serial": 1711044793940,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 904,
@@ -3120,5 +3120,75 @@
         "title": "The Buddy",
         "title_id": "2167831",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229026_029_02_851",
+        "create_time": 1711044355213,
+        "episode_in_season": "29",
+        "episode_number": "S7:E29",
+        "external_id": "16458749",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1711137600,
+        "last_update": 1711044355213,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1711137600,
+        "season_number": "7",
+        "serial": 1711044354877,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 901,
+        "show_id": "13990472",
+        "show_timestamp": 1711137600,
+        "status": "estimated",
+        "summary": "Mordecai, Rigby, and High Five Ghost have to somehow get Muscle Man's favorite shirt back on him before he wakes up.",
+        "title": "Favorite Shirt",
+        "title_id": "2065565",
+        "tv_rating": "TV-PG"
     }
 ]
