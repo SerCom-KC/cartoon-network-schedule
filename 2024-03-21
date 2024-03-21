@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1710993600,
-        "last_update": 1710973885711,
+        "last_update": 1710979203992,
         "live": false,
         "participants": [
             {
@@ -57,7 +57,7 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1710993600,
         "season_number": "1",
-        "serial": 1710973884742,
+        "serial": 1710979202785,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1804,
@@ -85,7 +85,7 @@
             "Drama"
         ],
         "guide_timestamp": 1710995400,
-        "last_update": 1710973885712,
+        "last_update": 1710981003943,
         "live": false,
         "participants": [
             {
@@ -136,7 +136,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1710995400,
         "season_number": "3",
-        "serial": 1710973884742,
+        "serial": 1710981003253,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -4421,6 +4421,84 @@
         "summary": "While playing poker with the guys, Stan is exposed as a virgin, but not in the traditional way - he's never killed anyone. Roger and the guys help Stan bust his killing cherry.",
         "title": "42-Year-Old Virgin",
         "title_id": "700738",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232843_006_03_851",
+        "create_time": 1710980052862,
+        "episode_in_season": "6",
+        "episode_number": "S3:E06",
+        "external_id": "16443886",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1711072800,
+        "last_update": 1710980052862,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1711072800,
+        "season_number": "3",
+        "serial": 1710980052344,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1806,
+        "show_id": "13928502",
+        "show_timestamp": 1711072800,
+        "status": "estimated",
+        "summary": "When Francine decides to be a surrogate for her gay neighbors Terry and Greg, Stan's Republican blood boils. When the baby is born, Stan kidnaps her and heads to the Nebraska border, where gay couples have no rights.",
+        "summary_long": "When Francine decides to be a surrogate for her gay neighbors Terry and Greg, Stan's Republican blood boils. Although he pretends to be happy, when the baby is born, Stan kidnaps her and heads to the Nebraska border, where gay couples have no rights. Meanwhile, Steve and Roger pull a Howard Hughes and become reclusive after they think Klaus is out to get them.",
+        "title": "Surro-Gate",
+        "title_id": "700739",
         "tv_rating": "TV-14"
     }
 ]
