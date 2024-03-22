@@ -3681,7 +3681,7 @@
             "Family"
         ],
         "guide_timestamp": 1711240200,
-        "last_update": 1711146704102,
+        "last_update": 1711150343936,
         "live": false,
         "participants": [
             {
@@ -3697,7 +3697,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711240200,
         "season_number": "3",
-        "serial": 1711146703606,
+        "serial": 1711150343599,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -3758,5 +3758,81 @@
         "title": "Mother Daughter Laser Razor ",
         "title_id": "2003521",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "232843_014_04_851",
+        "create_time": 1711150343938,
+        "episode_in_season": "14",
+        "episode_number": "S3:E14",
+        "external_id": "16443758",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1711243800,
+        "last_update": 1711150343938,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1711243800,
+        "season_number": "3",
+        "serial": 1711150343599,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13928631",
+        "show_timestamp": 1711243800,
+        "status": "estimated",
+        "summary": "After officially being declared dead due to an accident, Stan comes back to life and realizes he dreams of leaving a legacy on the world. He excavates his home in search of Ollie North's Contra-band buried treasure.",
+        "title": "Stanny Slickers II: The Legend of Ollie's Gold",
+        "title_id": "700750",
+        "tv_rating": "TV-14"
     }
 ]
