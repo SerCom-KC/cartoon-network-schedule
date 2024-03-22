@@ -3496,7 +3496,7 @@
             "Drama"
         ],
         "guide_timestamp": 1711233000,
-        "last_update": 1711139422498,
+        "last_update": 1711143061712,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -3505,7 +3505,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711233000,
         "season_number": "8",
-        "serial": 1711139422024,
+        "serial": 1711143060979,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
@@ -3563,6 +3563,55 @@
         "summary_long": "When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills outside of the restaurant. However, Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant.",
         "title": "Mutiny on the Windbreaker",
         "title_id": "2003515",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169771_006_03_851",
+        "create_time": 1711143061713,
+        "episode_in_season": "6",
+        "episode_number": "S3:E06",
+        "external_id": "16443754",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1711236600,
+        "last_update": 1711143061713,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711236600,
+        "season_number": "3",
+        "serial": 1711143060979,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13928627",
+        "show_timestamp": 1711236600,
+        "status": "estimated",
+        "summary": "In an homage to Jaws, Bob's landlord and pier proprietor Mr. Fischoeder buys a mechanical shark as a pier attraction, but when it turns wild and starts terrorizing the town, it's up to Bob and the family to stop it.",
+        "title": "The Deepening",
+        "title_id": "2003517",
         "tv_rating": "TV-PG"
     }
 ]
