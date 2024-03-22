@@ -306,7 +306,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711170000,
-        "last_update": 1711080282552,
+        "last_update": 1711084212695,
         "live": false,
         "participants": [
             {
@@ -417,7 +417,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711170000,
         "season_number": "2",
-        "serial": 1711080281932,
+        "serial": 1711084212112,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
@@ -445,7 +445,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711171800,
-        "last_update": 1711080282553,
+        "last_update": 1711084212696,
         "live": false,
         "participants": [
             {
@@ -556,7 +556,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1711171800,
         "season_number": "2",
-        "serial": 1711080281932,
+        "serial": 1711084212112,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1806,
@@ -590,7 +590,7 @@
             "Animation"
         ],
         "guide_timestamp": 1711173600,
-        "last_update": 1711080282553,
+        "last_update": 1711084212697,
         "live": false,
         "participants": [
             {
@@ -626,7 +626,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711173600,
         "season_number": "1",
-        "serial": 1711080281932,
+        "serial": 1711084212112,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
@@ -636,6 +636,153 @@
         "summary": "Rick provides the family with a solution to their problems, freeing him up to go on an adventure led by Morty. Sounds good, better record this one, broh!",
         "title": "Meeseeks and Destroy",
         "title_id": "2013510",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "156102_006_02_851",
+        "create_time": 1711084212698,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "16443837",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1711175400,
+        "last_update": 1711084212698,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711175400,
+        "season_number": "1",
+        "serial": 1711084212112,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13928581",
+        "show_timestamp": 1711175400,
+        "status": "estimated",
+        "summary": "Rick helps Morty win over the girl of his dreams in this one, broh. Fist bump me, broh.",
+        "title": "Rick Potion #9",
+        "title_id": "2013508",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232843_010_04_851",
+        "create_time": 1711084212699,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "16443838",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1711177200,
+        "last_update": 1711084212699,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1711177200,
+        "season_number": "3",
+        "serial": 1711084212112,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1805,
+        "show_id": "13928582",
+        "show_timestamp": 1711177200,
+        "status": "estimated",
+        "summary": "When Stan's mom, Betty, gets dumped by a boyfriend for the umpteenth time, she comes running to Stan for support.",
+        "summary_long": "When Stan's mom, Betty, gets dumped by a boyfriend for the umpteenth time, she comes running to Stan for support. Feeling threatened by her always-visiting mother-in-law, Francine is determined to cut Stan's umbilical cord and figure out what keeps going wrong with the men in Betty's life. Like a regular Cagney & Lacey, Francine and Roger go undercover to solve the case. Meanwhile, Klaus gives Steve the ick.",
+        "title": "Oedipal Panties",
+        "title_id": "700745",
         "tv_rating": "TV-14"
     }
 ]
