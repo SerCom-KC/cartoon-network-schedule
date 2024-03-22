@@ -2706,7 +2706,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711211400,
-        "last_update": 1711118609813,
+        "last_update": 1711122286183,
         "live": false,
         "participants": [
             {
@@ -2727,7 +2727,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711211400,
         "season_number": "2",
-        "serial": 1711118609245,
+        "serial": 1711122285723,
         "series_id": "824654",
         "series_name": "The Looney Tunes Show",
         "show_duration": 1800,
@@ -2827,5 +2827,76 @@
         "title": "The Show Must Hop On",
         "title_id": "2267309",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228422_023_02_851",
+        "create_time": 1711122286184,
+        "episode_in_season": "23",
+        "episode_number": "S5:E23",
+        "external_id": "16443740",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1711215000,
+        "last_update": 1711122286184,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1711215000,
+        "season_number": "5",
+        "serial": 1711122285723,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 910,
+        "show_id": "13928613",
+        "show_timestamp": 1711215000,
+        "status": "estimated",
+        "summary": "Gumball's smart answers aren't the correct ones and he's forced to go back to kindergarten.",
+        "summary_long": "Miss Simian discovers a failed test from Gumball's past that brings down his grade point average. This means he has to retake kindergarten all over again, much to her delight. But by demoting him Miss Simian has inadvertently brought herself down, and they're left with no choice but to team up if they want things back to normal.",
+        "title": "The Grades",
+        "title_id": "2089018",
+        "tv_rating": "TV-Y7-FV"
     }
 ]
