@@ -881,7 +881,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1711180800,
-        "last_update": 1711087742288,
+        "last_update": 1711091346275,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -890,7 +890,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711180800,
         "season_number": "2",
-        "serial": 1711087742065,
+        "serial": 1711091345886,
         "series_id": "437532",
         "series_name": "Futurama",
         "show_duration": 1800,
@@ -940,5 +940,46 @@
         "title": "Mother's Day",
         "title_id": "437690",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233056_018_03_851",
+        "create_time": 1711091346276,
+        "episode_in_season": "18",
+        "episode_number": "S7:E18",
+        "external_id": "16443842",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1711184400,
+        "last_update": 1711091346276,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711184400,
+        "season_number": "7",
+        "serial": 1711091345886,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13928586",
+        "show_timestamp": 1711184400,
+        "status": "estimated",
+        "summary": "I Never Promised You an Organic Garden: I Never Promised You an Organic Garden",
+        "summary_long": "Peggy resurrects the high school's organic garden, but when it is overrun with bugs, she turns to pesticides; Dale and his friends collect bat guano to use as fertilizer.",
+        "title": "I Never Promised You an Organic Garden",
+        "title_id": "731485",
+        "tv_rating": "TV-PG"
     }
 ]
