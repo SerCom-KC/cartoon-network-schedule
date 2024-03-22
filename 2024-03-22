@@ -15,7 +15,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711080000,
-        "last_update": 1711069208717,
+        "last_update": 1711072811772,
         "live": false,
         "participants": [
             {
@@ -126,7 +126,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711080000,
         "season_number": "2",
-        "serial": 1711069207821,
+        "serial": 1711072811324,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1796,
@@ -239,7 +239,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1711083600,
-        "last_update": 1711069202320,
+        "last_update": 1711072807932,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -248,7 +248,7 @@
         "scheduled_duration": 905,
         "scheduled_timestamp": 1711083600,
         "season_number": "3",
-        "serial": 1711069201961,
+        "serial": 1711072804267,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 905,
@@ -280,7 +280,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1711084500,
-        "last_update": 1711070102990,
+        "last_update": 1711073708341,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -289,7 +289,7 @@
         "scheduled_duration": 901,
         "scheduled_timestamp": 1711084500,
         "season_number": "3",
-        "serial": 1711070102416,
+        "serial": 1711073707515,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 901,
@@ -398,7 +398,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711087200,
-        "last_update": 1711059244093,
+        "last_update": 1711072807935,
         "live": false,
         "participants": [
             {
@@ -444,7 +444,7 @@
         "scheduled_duration": 1806,
         "scheduled_timestamp": 1711087200,
         "season_number": "3",
-        "serial": 1711059243246,
+        "serial": 1711072804267,
         "series_id": "581006",
         "series_name": "American Dad",
         "show_duration": 1806,
@@ -4119,6 +4119,76 @@
         "summary": "When the CIA initiates an Alien Task Force, a peculiar twist of fate puts Roger in charge of the task force in disguise, who marks Stan as an alien to protect his own identity. Meanwhile Francine comes to grips with being left-handed.",
         "title": "Office Spaceman",
         "title_id": "700743",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251737_005_03_851",
+        "create_time": 1711073002858,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "16443831",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1711164600,
+        "last_update": 1711073002858,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711164600,
+        "season_number": "1",
+        "serial": 1711073002196,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13928575",
+        "show_timestamp": 1711164600,
+        "status": "estimated",
+        "summary": "Rick provides the family with a solution to their problems, freeing him up to go on an adventure led by Morty. Sounds good, better record this one, broh!",
+        "title": "Meeseeks and Destroy",
+        "title_id": "2013510",
         "tv_rating": "TV-14"
     }
 ]
