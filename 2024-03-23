@@ -2296,7 +2296,7 @@
             "Animation"
         ],
         "guide_timestamp": 1711204200,
-        "last_update": 1711111259471,
+        "last_update": 1711114933573,
         "live": false,
         "participants": [
             {
@@ -2347,7 +2347,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711204200,
         "season_number": "8",
-        "serial": 1711111259057,
+        "serial": 1711114933224,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "show_duration": 1800,
@@ -2518,5 +2518,64 @@
         "title": "Five Bucks",
         "title_id": "2410883",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "246605_036_02_851",
+        "create_time": 1711114933576,
+        "episode_in_season": "36",
+        "episode_number": "S5:E06",
+        "external_id": null,
+        "feed_id": "as-east",
+        "franchise_id": "S92618",
+        "franchise_name": null,
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1711207800,
+        "last_update": 1711114933576,
+        "live": false,
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "Voice"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1711207800,
+        "season_number": "5",
+        "serial": 1711114933224,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "show_duration": 900,
+        "show_id": "13928608",
+        "show_timestamp": 1711207800,
+        "status": "estimated",
+        "summary": "Craig turns to an unlikely ally in his time of need.",
+        "title": "The Team Up",
+        "title_id": "2396432",
+        "tv_rating": "TV-Y7"
     }
 ]
