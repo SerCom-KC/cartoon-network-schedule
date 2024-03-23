@@ -214,7 +214,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1711262700,
-        "last_update": 1711170430424,
+        "last_update": 1711174645353,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -223,7 +223,7 @@
         "scheduled_duration": 1809,
         "scheduled_timestamp": 1711262700,
         "season_number": "1",
-        "serial": 1711170430107,
+        "serial": 1711174644870,
         "series_id": "2031611",
         "series_name": "Dragon Ball Z Kai",
         "show_duration": 1809,
@@ -314,5 +314,44 @@
         "title": "The Great Yokai Battle of Akihabara",
         "title_id": "2321720",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233054_019_02_851",
+        "create_time": 1711174645354,
+        "episode_in_season": "19",
+        "episode_number": "S2:E18",
+        "external_id": "16443763",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1711267200,
+        "last_update": 1711174645354,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1809,
+        "scheduled_timestamp": 1711267200,
+        "season_number": "2",
+        "serial": 1711174644870,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1809,
+        "show_id": "13928636",
+        "show_timestamp": 1711267200,
+        "status": "estimated",
+        "summary": "The crew discovers an irresistible source of food on a new planet.",
+        "title": "The Problem with Popplers",
+        "title_id": "437691",
+        "tv_rating": "TV-PG"
     }
 ]
