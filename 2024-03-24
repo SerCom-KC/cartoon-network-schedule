@@ -2237,7 +2237,7 @@
             "Fantasy"
         ],
         "guide_timestamp": 1711314000,
-        "last_update": 1711224760416,
+        "last_update": 1711228401529,
         "live": false,
         "participants": [
             {
@@ -2282,7 +2282,7 @@
         "runtime_minutes": 94,
         "scheduled_duration": 7200,
         "scheduled_timestamp": 1711314000,
-        "serial": 1711224759794,
+        "serial": 1711228399401,
         "series_id": "73658",
         "series_name": "The NeverEnding Story (1984)",
         "show_duration": 7200,
@@ -2294,5 +2294,55 @@
         "title": "The Neverending Story",
         "title_id": "84726",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169771_011_03_851",
+        "create_time": 1711228401529,
+        "episode_in_season": "11",
+        "episode_number": "S3:E11",
+        "external_id": "16443670",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1711321200,
+        "last_update": 1711228401529,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711321200,
+        "season_number": "3",
+        "serial": 1711228399401,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13928671",
+        "show_timestamp": 1711321200,
+        "status": "estimated",
+        "summary": "Hugo quits his job to become a nudist after discovering the town's nude beach. His replacement seems nice until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away.",
+        "summary_long": "Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy, seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach to find Hugo and bring him back.",
+        "title": "Nude Beach",
+        "title_id": "2003522",
+        "tv_rating": "TV-14"
     }
 ]
