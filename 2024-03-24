@@ -2150,5 +2150,149 @@
         "title": "Go Viral",
         "title_id": "812814",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229039_027_03_851",
+        "create_time": 1711221120244,
+        "episode_in_season": "27",
+        "episode_number": "S2:E27",
+        "external_id": "16443668",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1711313100,
+        "last_update": 1711221120244,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 906,
+        "scheduled_timestamp": 1711313100,
+        "season_number": "2",
+        "serial": 1711221119614,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 906,
+        "show_id": "13928669",
+        "show_timestamp": 1711313100,
+        "status": "estimated",
+        "summary": "Rigby gets sprayed by a skunk and has to get rid of the smell.",
+        "title": "Skunked",
+        "title_id": "824844",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "140457_000_03_851",
+        "create_time": 1711221120245,
+        "external_id": "16443669",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Neverending Story, The",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "guide_timestamp": 1711314000,
+        "last_update": 1711221120245,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Wolfgang Petersen",
+                "role": "Director"
+            },
+            {
+                "character": "Atreyu",
+                "name": "Noah Hathaway",
+                "role": "Actor"
+            },
+            {
+                "character": "Bastian",
+                "name": "Barret Oliver",
+                "role": "Actor"
+            },
+            {
+                "character": "Bastian's Father",
+                "name": "Gerald McRaney",
+                "role": "Actor"
+            },
+            {
+                "character": "The Childlike Empress",
+                "name": "Tami Stronach",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Wolfgang Petersen",
+                "role": "Screenplay"
+            },
+            {
+                "character": null,
+                "name": "Herman Weigel",
+                "role": "Screenplay"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1984,
+        "runtime_minutes": 94,
+        "scheduled_duration": 7200,
+        "scheduled_timestamp": 1711314000,
+        "serial": 1711221119614,
+        "series_id": "73658",
+        "series_name": "The NeverEnding Story (1984)",
+        "show_duration": 7200,
+        "show_id": "13928670",
+        "show_timestamp": 1711314000,
+        "status": "estimated",
+        "summary": "A New York schoolboy escapes into a book about a boy warrior and an empress.",
+        "summary_long": "A sensitive little boy, still grieving for his mother, finds respite in a book which chronicles the plight of Fantasia, a magical land created by the dreams and imagination of humankind, now threatened with destruction by The Nothing, a shapeless, ominous force created by human despair.",
+        "title": "The Neverending Story",
+        "title_id": "84726",
+        "tv_rating": "TV-PG"
     }
 ]
