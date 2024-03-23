@@ -293,7 +293,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711266300,
-        "last_update": 1711172719004,
+        "last_update": 1711176358988,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -302,7 +302,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1711266300,
         "season_number": "1",
-        "serial": 1711172718740,
+        "serial": 1711176358701,
         "series_id": "2215150",
         "series_name": "Rick and Morty Shorts",
         "show_duration": 900,
@@ -352,6 +352,45 @@
         "summary": "The crew discovers an irresistible source of food on a new planet.",
         "title": "The Problem with Popplers",
         "title_id": "437691",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "233054_020_03_851",
+        "create_time": 1711176358988,
+        "episode_in_season": "20",
+        "episode_number": "S2:E20",
+        "external_id": "16443764",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1711269000,
+        "last_update": 1711176358988,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1711269000,
+        "season_number": "2",
+        "serial": 1711176358701,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1801,
+        "show_id": "13928637",
+        "show_timestamp": 1711269000,
+        "status": "estimated",
+        "summary": "The professor invents a what if machine.",
+        "title": "Anthology of Interest I",
+        "title_id": "437692",
         "tv_rating": "TV-PG"
     }
 ]
