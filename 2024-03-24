@@ -16,7 +16,7 @@
             "Anime"
         ],
         "guide_timestamp": 1711252800,
-        "last_update": 1711165442797,
+        "last_update": 1711235640836,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -25,7 +25,7 @@
         "scheduled_duration": 1918,
         "scheduled_timestamp": 1711252800,
         "season_number": "1",
-        "serial": 1711165441952,
+        "serial": 1711235639694,
         "series_id": "2424823",
         "series_name": "Ninja Kamui (English Language Version)",
         "show_duration": 1918,
@@ -55,7 +55,7 @@
             "Action"
         ],
         "guide_timestamp": 1711254600,
-        "last_update": 1711166756979,
+        "last_update": 1711235640837,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -64,10 +64,10 @@
         "scheduled_duration": 2700,
         "scheduled_timestamp": 1711254600,
         "season_number": "2",
-        "serial": 1711166756741,
+        "serial": 1711235639694,
         "series_id": "2209292",
         "series_name": "Demon Slayer:  Kimetsu no Yaiba",
-        "show_duration": 2700,
+        "show_duration": 2587,
         "show_id": "14017923",
         "show_timestamp": 1711254600,
         "status": "estimated",
@@ -97,7 +97,7 @@
             "Anime"
         ],
         "guide_timestamp": 1711257300,
-        "last_update": 1711169081253,
+        "last_update": 1711235641694,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -106,10 +106,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711257300,
         "season_number": "1",
-        "serial": 1711169080919,
+        "serial": 1711235641256,
         "series_id": "2435907",
         "series_name": "Lycoris Recoil",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "14017924",
         "show_timestamp": 1711257300,
         "status": "estimated",
@@ -2486,5 +2486,81 @@
         "title": "O.T. the Outside Toilet",
         "title_id": "2003526",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "232851_001_01_851",
+        "create_time": 1711235641696,
+        "episode_in_season": "1",
+        "episode_number": "S17:E01",
+        "external_id": "16443674",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1711328400,
+        "last_update": 1711235641696,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711328400,
+        "season_number": "17",
+        "serial": 1711235641256,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "13928675",
+        "show_timestamp": 1711328400,
+        "status": "estimated",
+        "summary": "Francine becomes a realtor in Langley's world of high-end real estate, while the rest of the family sells coffee from the front yard.",
+        "title": "Langley Dollar Listings",
+        "title_id": "2342087",
+        "tv_rating": "TV-14"
     }
 ]
