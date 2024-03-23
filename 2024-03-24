@@ -1676,7 +1676,7 @@
             "Children"
         ],
         "guide_timestamp": 1711304100,
-        "last_update": 1711210670253,
+        "last_update": 1711218755479,
         "live": false,
         "participants": [
             {
@@ -1707,7 +1707,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1711304100,
         "season_number": "1",
-        "serial": 1711210669951,
+        "serial": 1711218754113,
         "series_id": "2011404",
         "series_name": "Steven Universe",
         "show_duration": 900,
@@ -1736,7 +1736,7 @@
             "Children"
         ],
         "guide_timestamp": 1711305000,
-        "last_update": 1711213659834,
+        "last_update": 1711218755479,
         "live": false,
         "participants": [
             {
@@ -1767,7 +1767,7 @@
         "scheduled_duration": 911,
         "scheduled_timestamp": 1711305000,
         "season_number": "1",
-        "serial": 1711213659037,
+        "serial": 1711218754113,
         "series_id": "2011404",
         "series_name": "Steven Universe",
         "show_duration": 911,
@@ -1796,7 +1796,7 @@
             "Children"
         ],
         "guide_timestamp": 1711305900,
-        "last_update": 1711213659834,
+        "last_update": 1711218755480,
         "live": false,
         "participants": [
             {
@@ -1827,7 +1827,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1711305900,
         "season_number": "1",
-        "serial": 1711213659037,
+        "serial": 1711218754113,
         "series_id": "2011404",
         "series_name": "Steven Universe",
         "show_duration": 900,
@@ -1856,7 +1856,7 @@
             "Children"
         ],
         "guide_timestamp": 1711306800,
-        "last_update": 1711213661282,
+        "last_update": 1711218755481,
         "live": false,
         "participants": [
             {
@@ -1877,7 +1877,7 @@
         "scheduled_duration": 1802,
         "scheduled_timestamp": 1711306800,
         "season_number": "1",
-        "serial": 1711213660584,
+        "serial": 1711218754113,
         "series_id": "757073",
         "series_name": "Adventure Time",
         "show_duration": 1802,
@@ -2079,6 +2079,76 @@
         "summary": "Mordecai and Rigby play Rock, Paper, Scissors for a chair.",
         "title": "First Day",
         "title_id": "827021",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229039_026_03_851",
+        "create_time": 1711218757216,
+        "episode_in_season": "26",
+        "episode_number": "S2:E26",
+        "external_id": "16443667",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1711312200,
+        "last_update": 1711218757216,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1711312200,
+        "season_number": "2",
+        "serial": 1711218756035,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 900,
+        "show_id": "13928668",
+        "show_timestamp": 1711312200,
+        "status": "estimated",
+        "summary": "Challenged by Muscle Man, Mordecai and Rigby want to create the most popular viral video of all time.",
+        "title": "Go Viral",
+        "title_id": "812814",
         "tv_rating": "TV-PG"
     }
 ]
