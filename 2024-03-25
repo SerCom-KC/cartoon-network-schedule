@@ -140,5 +140,59 @@
         "title": "TV",
         "title_id": "2196572",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252042_002_02_851",
+        "create_time": 1711249908681,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16443683",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1711342800,
+        "last_update": 1711249908681,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Pete Michels",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Brian Wysol",
+                "role": "Creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 905,
+        "scheduled_timestamp": 1711342800,
+        "season_number": "2",
+        "serial": 1711249908035,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "show_duration": 905,
+        "show_id": "13928684",
+        "show_timestamp": 1711342800,
+        "status": "estimated",
+        "summary": "Branski enters a space race to win back the Earth's Moon.",
+        "title": "The Moon Masters",
+        "title_id": "2184498",
+        "tv_rating": "TV-14"
     }
 ]
