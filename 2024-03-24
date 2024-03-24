@@ -137,7 +137,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1711259100,
-        "last_update": 1711170430422,
+        "last_update": 1711244704972,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -146,7 +146,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711259100,
         "season_number": "17",
-        "serial": 1711170430107,
+        "serial": 1711244704591,
         "series_id": "608007",
         "series_name": "One Piece",
         "show_duration": 1800,
@@ -2934,5 +2934,75 @@
         "title": "Bro Down",
         "title_id": "2424747",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251794_003_03_851",
+        "create_time": 1711244843975,
+        "episode_in_season": "3",
+        "episode_number": "S5:E03",
+        "external_id": "16467616",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1711337400,
+        "last_update": 1711244843975,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711337400,
+        "season_number": "5",
+        "serial": 1711244843607,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "13928680",
+        "show_timestamp": 1711337400,
+        "status": "estimated",
+        "summary": "Reduce Reuse, broh. Might be too late.",
+        "title": "A Rickconvenient Mort",
+        "title_id": "2270460",
+        "tv_rating": "TV-14"
     }
 ]
