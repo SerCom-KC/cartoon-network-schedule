@@ -4160,7 +4160,7 @@
             "Drama"
         ],
         "guide_timestamp": 1711409400,
-        "last_update": 1711317573535,
+        "last_update": 1711321212441,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -4169,7 +4169,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711409400,
         "season_number": "8",
-        "serial": 1711317572838,
+        "serial": 1711321212169,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
@@ -4229,5 +4229,101 @@
         "title": "Topsy",
         "title_id": "2003527",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169771_017_03_851",
+        "create_time": 1711321212443,
+        "episode_in_season": "17",
+        "episode_number": "S3:E17",
+        "external_id": "16443618",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1711413000,
+        "last_update": 1711321212443,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1711413000,
+        "season_number": "3",
+        "serial": 1711321212169,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1804,
+        "show_id": "13928747",
+        "show_timestamp": 1711413000,
+        "status": "estimated",
+        "summary": "Two For Tina: Jimmy Jr. is threatened when Tina starts dating a ballet dancer named Josh, and the two boys get into an epic dance-off for her heart.",
+        "title": "Two for Tina",
+        "title_id": "2003528",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169771_018_03_851",
+        "create_time": 1711321212444,
+        "episode_in_season": "18",
+        "episode_number": "S3:E18",
+        "external_id": "16443619",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1711414800,
+        "last_update": 1711321212444,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1711414800,
+        "season_number": "3",
+        "serial": 1711321212169,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1803,
+        "show_id": "13928748",
+        "show_timestamp": 1711414800,
+        "status": "estimated",
+        "summary": "The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that - to Linda's complete horror - is full of senior swingers!",
+        "summary_long": "The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that - to Linda's complete horror - is full of senior swingers! Plus, to keep themselves entertained, Tina, Gene and Louise go on a hunt for a mysterious python that allegedly ate one of the residents' dogs.",
+        "title": "It Snakes a Village",
+        "title_id": "2003529",
+        "tv_rating": "TV-14"
     }
 ]
