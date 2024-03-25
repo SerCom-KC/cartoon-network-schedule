@@ -85,7 +85,7 @@
             "Drama"
         ],
         "guide_timestamp": 1711427400,
-        "last_update": 1711334149509,
+        "last_update": 1711341681070,
         "live": false,
         "participants": [
             {
@@ -136,7 +136,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711427400,
         "season_number": "3",
-        "serial": 1711334149040,
+        "serial": 1711341679830,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "show_duration": 1800,
@@ -169,7 +169,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1711429200,
-        "last_update": 1711335951239,
+        "last_update": 1711341681070,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -178,7 +178,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1711429200,
         "season_number": "3",
-        "serial": 1711335946857,
+        "serial": 1711341679830,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -210,7 +210,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1711430100,
-        "last_update": 1711336763709,
+        "last_update": 1711341681070,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -219,7 +219,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1711430100,
         "season_number": "3",
-        "serial": 1711336762977,
+        "serial": 1711341679830,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
         "show_duration": 900,
@@ -382,6 +382,82 @@
         "summary_long": "Stan becomes jealous when he finds out Francine was once engaged to a pilot whose plane crashed, and she seemed to settle for Stan before learning her former fianc\u00e9 was still alive. Stan and Roger try to track the man down, while Francine must choose between her husband and her lost love.",
         "title": "Choosey Wives Choose Smith",
         "title_id": "700747",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "232843_020_03_851",
+        "create_time": 1711341682723,
+        "episode_in_season": "20",
+        "episode_number": "S3:E20",
+        "external_id": "16443631",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1711434600,
+        "last_update": 1711341682723,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1711434600,
+        "season_number": "3",
+        "serial": 1711341681561,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "13928760",
+        "show_timestamp": 1711434600,
+        "status": "estimated",
+        "summary": "Steve plots revenge against Lisa Silver and the cool kids after Debbie loses her bid to become student council president. But when the cool kids stage a counterattack, will Steve and his friends survive?",
+        "title": "Escape from Pearl Bailey",
+        "title_id": "711542",
         "tv_rating": "TV-14"
     }
 ]
