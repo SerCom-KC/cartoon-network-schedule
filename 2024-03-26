@@ -148,5 +148,46 @@
         "title": "The Red Ball",
         "title_id": "798554",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233143_017_01_851",
+        "create_time": 1711335951239,
+        "episode_in_season": "17",
+        "episode_number": "S3:E17",
+        "external_id": "16443627",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Mike Tyson Mysteries",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1711429200,
+        "last_update": 1711335951239,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1711429200,
+        "season_number": "3",
+        "serial": 1711335946857,
+        "series_id": "2032238",
+        "series_name": "Mike Tyson Mysteries",
+        "show_duration": 900,
+        "show_id": "13928756",
+        "show_timestamp": 1711429200,
+        "status": "estimated",
+        "summary": "Mike Tyson visits some land he owns in New Mexico.",
+        "title": "Mike Tysonland",
+        "title_id": "2117698",
+        "tv_rating": "TV-14"
     }
 ]
