@@ -745,7 +745,7 @@
             "Family"
         ],
         "guide_timestamp": 1711443600,
-        "last_update": 1711350872323,
+        "last_update": 1711354512846,
         "live": false,
         "participants": [
             {
@@ -761,7 +761,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711443600,
         "season_number": "3",
-        "serial": 1711350871622,
+        "serial": 1711354512333,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "show_duration": 1800,
@@ -771,6 +771,54 @@
         "summary": "Topsy: Sparks fly when Louise is determined to take down her Thomas Edison-obsessed science teacher by recreating a famous experiment where Thomas Edison (played by Gene) electrocutes an elephant named Topsy (played by Tina).",
         "title": "Topsy",
         "title_id": "2003527",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169771_017_03_851",
+        "create_time": 1711354512847,
+        "episode_in_season": "17",
+        "episode_number": "S3:E17",
+        "external_id": "16443637",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1711445400,
+        "last_update": 1711354512847,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1711445400,
+        "season_number": "3",
+        "serial": 1711354512333,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1804,
+        "show_id": "13928766",
+        "show_timestamp": 1711445400,
+        "status": "estimated",
+        "summary": "Two For Tina: Jimmy Jr. is threatened when Tina starts dating a ballet dancer named Josh, and the two boys get into an epic dance-off for her heart.",
+        "title": "Two for Tina",
+        "title_id": "2003528",
         "tv_rating": "TV-PG"
     }
 ]
