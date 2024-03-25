@@ -3448,7 +3448,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711481400,
-        "last_update": 1711387818803,
+        "last_update": 1711391458652,
         "live": false,
         "participants": [
             {
@@ -3489,7 +3489,7 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1711481400,
         "season_number": "5",
-        "serial": 1711387818534,
+        "serial": 1711391458388,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "show_duration": 900,
@@ -3711,6 +3711,76 @@
         "summary": "The guys are now in space.",
         "title": "One Space Day at a Time",
         "title_id": "2069942",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229032_002_02_851",
+        "create_time": 1711391459532,
+        "episode_in_season": "2",
+        "episode_number": "S8:E02",
+        "external_id": "16458768",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1711485000,
+        "last_update": 1711391459532,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1711485000,
+        "season_number": "8",
+        "serial": 1711391458904,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 900,
+        "show_id": "13928808",
+        "show_timestamp": 1711485000,
+        "status": "estimated",
+        "summary": "Mordecai and Rigby confront robots.",
+        "title": "Cool Bro Bots",
+        "title_id": "2069943",
         "tv_rating": "TV-PG"
     }
 ]
