@@ -730,5 +730,54 @@
         "title": "Leaf Raking",
         "title_id": "2388614",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169771_019_03_851",
+        "create_time": 1711437180551,
+        "episode_in_season": "19",
+        "episode_number": "S3:E19",
+        "external_id": "16444188",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1711530000,
+        "last_update": 1711437180551,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1711530000,
+        "season_number": "3",
+        "serial": 1711437180188,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1805,
+        "show_id": "13928835",
+        "show_timestamp": 1711530000,
+        "status": "estimated",
+        "summary": "After the family car breaks down and ruins their plans for a movie night out, the Belchers find themselves competing on the TV game show \"Family Fracas!\" To the dismay of the program's host, they keep winning and coming back each night.",
+        "summary_long": "After the family car breaks down and ruins their plans for a movie night out, the Belchers find themselves competing on the TV game show \"Family Fracas!\" To the dismay of the program's host, they keep winning and coming back each night - that is, until their lucky streak comes to a suspicious end.",
+        "title": "Family Fracas",
+        "title_id": "2003530",
+        "tv_rating": "TV-PG"
     }
 ]
