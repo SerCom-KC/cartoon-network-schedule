@@ -82,7 +82,7 @@
             "Drama"
         ],
         "guide_timestamp": 1711600200,
-        "last_update": 1711507636249,
+        "last_update": 1711573705429,
         "live": false,
         "participants": [
             {
@@ -133,10 +133,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711600200,
         "season_number": "3",
-        "serial": 1711507636074,
+        "serial": 1711573705247,
         "series_id": "610028",
         "series_name": "The Boondocks",
-        "show_duration": 1800,
+        "show_duration": 1796,
         "show_id": "13928896",
         "show_timestamp": 1711600200,
         "status": "estimated",
@@ -208,7 +208,7 @@
             "Mystery"
         ],
         "guide_timestamp": 1711602900,
-        "last_update": 1711509965955,
+        "last_update": 1711573705430,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -217,10 +217,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1711602900,
         "season_number": "4",
-        "serial": 1711509965705,
+        "serial": 1711573705247,
         "series_id": "2032238",
         "series_name": "Mike Tyson Mysteries",
-        "show_duration": 900,
+        "show_duration": 884,
         "show_id": "13928898",
         "show_timestamp": 1711602900,
         "status": "estimated",
@@ -325,7 +325,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711605600,
-        "last_update": 1711513497435,
+        "last_update": 1711573705430,
         "live": false,
         "participants": [
             {
@@ -371,10 +371,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711605600,
         "season_number": "18",
-        "serial": 1711513497229,
+        "serial": 1711573705247,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "13928900",
         "show_timestamp": 1711605600,
         "status": "estimated",
@@ -4065,6 +4065,102 @@
         "summary_long": "Quilt Club: While shopping for quilting materials, Muriel meets two women who tell her about their quilting club. Muriel excitedly asks if she can join but is told she must prove herself. She becomes obsessed with being admitted. She soon finds out the cost is quite high: she will be sewn into the quilt. Courage must find a way to get her out of the club. Swindlin' Wind: Muriel takes a fancy to a trinket Shirley is selling. Eustace swindles Shirley, promising her an oil well deed in exchange for the trinket and giving her an oil bill instead. Angered, Shirley casts a curse on Eustace and Muriel. Back at home, Courage watches in dismay as Muriel and Eustace start swindling each other. Courage must convince Shirley that these two really don't deserve the curse and get her to remove it.",
         "title": "The Quilt Club/Swindlin' Wind",
         "title_id": "420418",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228246_013_03_851",
+        "create_time": 1711573706188,
+        "episode_in_season": "13",
+        "episode_number": "S3:E13",
+        "external_id": "16458326",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Courage the Cowardly Dog",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1711665000,
+        "last_update": 1711573706188,
+        "live": false,
+        "participants": [
+            {
+                "character": "Courage",
+                "name": "Marty Grabstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Muriel Bagge",
+                "name": "Thea White",
+                "role": "Voice"
+            },
+            {
+                "character": "Eustace Bagge",
+                "name": "Lionel Wilson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1711665000,
+        "season_number": "3",
+        "serial": 1711573705966,
+        "series_id": "330149",
+        "series_name": "Courage the Cowardly Dog",
+        "show_duration": 1808,
+        "show_id": "13928954",
+        "show_timestamp": 1711665000,
+        "status": "estimated",
+        "summary": "Courage falls asleep as an infomercial begins starting with a pitchman hawking flan. Then, the family vacations to see the largest volcano on Earth. Muriel is abducted by a tribe to be offered as a human sacrifice to the volcano god.",
+        "summary_long": "King of Flan: Courage falls asleep as an infomercial begins starting with the grinning, fat face of a pitchman hawking pre-packaged flan. In his dream, Courage sees the face saying he has to act before midnight tonight if he wants to save the world. Courage begins seeing the face everywhere. All of Nowhere, including Muriel and Eustace, become suddenly obsessed with a desire for flan. Courage must track down the face and de-hypnotize the people of Nowhere. Courage Under the Volcano: The family vacations on Hip-Hip Island to see the largest volcano on Earth. Muriel is abducted by an ancient tribe to be offered as a human sacrifice to the volcano god. Courage must go into the volcano, persuade the Volcano God not to erupt and save Muriel.",
+        "title": "King of Flan/Courage Under the Volcano",
+        "title_id": "420419",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233060_010_03_851",
+        "create_time": 1711573706189,
+        "episode_in_season": "10",
+        "episode_number": "S8:E10",
+        "external_id": "16443393",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1711666800,
+        "last_update": 1711573706189,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2003,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711666800,
+        "season_number": "8",
+        "serial": 1711573705966,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "13928955",
+        "show_timestamp": 1711666800,
+        "status": "estimated",
+        "summary": "A new Strickland Propane employee revels in making off-color jokes, driving Hank crazy.",
+        "title": "That's What She Said",
+        "title_id": "731500",
         "tv_rating": "TV-PG"
     }
 ]
