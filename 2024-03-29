@@ -941,7 +941,7 @@
             "Family"
         ],
         "guide_timestamp": 1711704600,
-        "last_update": 1711612721324,
+        "last_update": 1711640134138,
         "live": false,
         "participants": [
             {
@@ -954,13 +954,13 @@
         "press_hold": false,
         "release_year": 2013,
         "runtime_minutes": 30,
-        "scheduled_duration": 1808,
+        "scheduled_duration": 1800,
         "scheduled_timestamp": 1711704600,
         "season_number": "4",
-        "serial": 1711612721070,
+        "serial": 1711640133959,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1808,
+        "show_duration": 1800,
         "show_id": "13928977",
         "show_timestamp": 1711704600,
         "status": "estimated",
@@ -2743,6 +2743,80 @@
         "summary": "Jeff suffers an identity crisis when a standardized test lands him in the lesser of the classes academic groupings.",
         "title": "Average Jeff",
         "title_id": "2014459",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "140457_000_03_851",
+        "create_time": 1711640134702,
+        "external_id": "16458784",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Neverending Story, The",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "guide_timestamp": 1711731600,
+        "last_update": 1711640134702,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Wolfgang Petersen",
+                "role": "Director"
+            },
+            {
+                "character": "Atreyu",
+                "name": "Noah Hathaway",
+                "role": "Actor"
+            },
+            {
+                "character": "Bastian",
+                "name": "Barret Oliver",
+                "role": "Actor"
+            },
+            {
+                "character": "Bastian's Father",
+                "name": "Gerald McRaney",
+                "role": "Actor"
+            },
+            {
+                "character": "The Childlike Empress",
+                "name": "Tami Stronach",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Wolfgang Petersen",
+                "role": "Screenplay"
+            },
+            {
+                "character": null,
+                "name": "Herman Weigel",
+                "role": "Screenplay"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1984,
+        "runtime_minutes": 94,
+        "scheduled_duration": 7200,
+        "scheduled_timestamp": 1711731600,
+        "serial": 1711640134474,
+        "series_id": "73658",
+        "series_name": "The NeverEnding Story (1984)",
+        "show_duration": 7200,
+        "show_id": "13990492",
+        "show_timestamp": 1711731600,
+        "status": "estimated",
+        "summary": "A New York schoolboy escapes into a book about a boy warrior and an empress.",
+        "summary_long": "A sensitive little boy, still grieving for his mother, finds respite in a book which chronicles the plight of Fantasia, a magical land created by the dreams and imagination of humankind, now threatened with destruction by The Nothing, a shapeless, ominous force created by human despair.",
+        "title": "The Neverending Story",
+        "title_id": "84726",
         "tv_rating": "TV-PG"
     }
 ]
