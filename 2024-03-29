@@ -20,7 +20,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711684800,
-        "last_update": 1711591360630,
+        "last_update": 1711658801115,
         "live": false,
         "participants": [
             {
@@ -131,10 +131,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711684800,
         "season_number": "2",
-        "serial": 1711591360411,
+        "serial": 1711658800906,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1800,
+        "show_duration": 1795,
         "show_id": "13928965",
         "show_timestamp": 1711684800,
         "status": "estimated",
@@ -159,7 +159,7 @@
             "Drama"
         ],
         "guide_timestamp": 1711686600,
-        "last_update": 1711593435814,
+        "last_update": 1711658801115,
         "live": false,
         "participants": [
             {
@@ -210,10 +210,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711686600,
         "season_number": "3",
-        "serial": 1711593435612,
+        "serial": 1711658800906,
         "series_id": "610028",
         "series_name": "The Boondocks",
-        "show_duration": 1800,
+        "show_duration": 1798,
         "show_id": "13928966",
         "show_timestamp": 1711686600,
         "status": "estimated",
@@ -3345,7 +3345,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1711746000,
-        "last_update": 1711652476681,
+        "last_update": 1711658801861,
         "live": false,
         "premiere": true,
         "press_hold": false,
@@ -3354,7 +3354,7 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1711746000,
         "season_number": "3",
-        "serial": 1711652476350,
+        "serial": 1711658801672,
         "series_id": "309480",
         "series_name": "Cow & Chicken",
         "show_duration": 1800,
@@ -3382,19 +3382,19 @@
             "Comedy"
         ],
         "guide_timestamp": 1711747800,
-        "last_update": 1711655269654,
+        "last_update": 1711658801862,
         "live": false,
         "premiere": true,
         "press_hold": false,
         "release_year": 1998,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1807,
         "scheduled_timestamp": 1711747800,
         "season_number": "3",
-        "serial": 1711655269430,
+        "serial": 1711658801672,
         "series_id": "309480",
         "series_name": "Cow & Chicken",
-        "show_duration": 1800,
+        "show_duration": 1807,
         "show_id": "13929022",
         "show_timestamp": 1711747800,
         "status": "estimated",
@@ -3403,5 +3403,117 @@
         "title": "Goin' My Way/The Babysitter/The Hole",
         "title_id": "325551",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228262_005_03_851",
+        "create_time": 1711658801863,
+        "episode_in_season": "5",
+        "episode_number": "S4:E05",
+        "external_id": "16458333",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ed, Edd n Eddy",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1711749600,
+        "last_update": 1711658801863,
+        "live": false,
+        "participants": [
+            {
+                "character": "Ed",
+                "name": "Matt Hill",
+                "role": "Voice"
+            },
+            {
+                "character": "Edd",
+                "name": "Sam Vincent",
+                "role": "Voice"
+            },
+            {
+                "character": "Eddy",
+                "name": "Tony Sampson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711749600,
+        "season_number": "4",
+        "serial": 1711658801672,
+        "series_id": "327280",
+        "series_name": "Ed, Edd n Eddy",
+        "show_duration": 1800,
+        "show_id": "13929375",
+        "show_timestamp": 1711749600,
+        "status": "estimated",
+        "summary": "Ed, Edd and Eddy spend the day attempting to move up in the world. Then, when Jimmy nominates Plank to be King of the Cul-de-sac, Eddy decides to run an election campaign against him.",
+        "summary_long": "They Call Him Mr. Ed: Ed, Edd and Eddy spend the day attempting to move up in the world./For the Ed, by the Ed: When Jimmy nominates Plank to be King of the Cul-de-sac, Eddy decides to run an election campaign against him.",
+        "title": "They Call Him Mr. Ed/For the Ed, by the Ed",
+        "title_id": "434492",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228262_006_03_851",
+        "create_time": 1711658801864,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "16458334",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ed, Edd n Eddy",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1711751400,
+        "last_update": 1711658801864,
+        "live": false,
+        "participants": [
+            {
+                "character": "Ed",
+                "name": "Matt Hill",
+                "role": "Voice"
+            },
+            {
+                "character": "Edd",
+                "name": "Sam Vincent",
+                "role": "Voice"
+            },
+            {
+                "character": "Eddy",
+                "name": "Tony Sampson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1711751400,
+        "season_number": "4",
+        "serial": 1711658801672,
+        "series_id": "327280",
+        "series_name": "Ed, Edd n Eddy",
+        "show_duration": 1804,
+        "show_id": "13929376",
+        "show_timestamp": 1711751400,
+        "status": "estimated",
+        "summary": "Eddy and Ed are driven to their breaking points when Ed inexplicably becomes bitter and difficult. Then, Edd convinces Ed and Eddy that they can turn off the Kanker sisters for good if they pursue them romantically.",
+        "summary_long": "Little Ed Blue: Eddy and Ed are driven to their breaking points when Ed inexplicably becomes bitter and difficult./A Twist of Ed: Edd convinces Ed and Eddy that they can turn off the Kanker sisters for good if they pursue them romantically.",
+        "title": "Little Ed Blue/A Twist of Ed",
+        "title_id": "437853",
+        "tv_rating": "TV-PG"
     }
 ]
