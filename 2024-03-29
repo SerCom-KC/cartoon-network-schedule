@@ -3690,5 +3690,52 @@
         "title": "Slumber Party",
         "title_id": "2030649",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169796_010_03_851",
+        "create_time": 1711667366994,
+        "episode_in_season": "10",
+        "episode_number": "S4:E10",
+        "external_id": "16443481",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1711760400,
+        "last_update": 1711667366994,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1711760400,
+        "season_number": "4",
+        "serial": 1711667366786,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "13929029",
+        "show_timestamp": 1711760400,
+        "status": "estimated",
+        "summary": "Presto Tina-O: Tina becomes a magician's assistant in order to get closer to Jimmy Jr., while Bob becomes the victim of a magician's \"curse.\"",
+        "title": "Presto Tina-O",
+        "title_id": "2030312",
+        "tv_rating": "TV-PG"
     }
 ]
