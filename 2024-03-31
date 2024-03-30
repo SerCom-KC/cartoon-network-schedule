@@ -1290,5 +1290,119 @@
         "title": "Panda 2",
         "title_id": "2088724",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228763_035_03_851",
+        "create_time": 1711814518432,
+        "episode_in_season": "35",
+        "episode_number": "S3:E35",
+        "external_id": "16443435",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "We Bare Bears",
+        "genres": [
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1711907100,
+        "last_update": 1711814518432,
+        "live": false,
+        "participants": [
+            {
+                "character": "Grizzly",
+                "name": "Eric Edelstein",
+                "role": "Voice"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Demetri Martin",
+                "role": "Voice"
+            },
+            {
+                "character": "Panda",
+                "name": "Bobby Moynihan",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1711907100,
+        "season_number": "3",
+        "serial": 1711814518176,
+        "series_id": "2056641",
+        "series_name": "We Bare Bears",
+        "show_duration": 901,
+        "show_id": "13929111",
+        "show_timestamp": 1711907100,
+        "status": "estimated",
+        "summary": "In search of some adventure, the Bears ride a tube down a dangerous river.",
+        "title": "Tubin'",
+        "title_id": "2088746",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229897_029_02_851",
+        "create_time": 1711814518433,
+        "episode_in_season": "29",
+        "episode_number": "S1:E29",
+        "external_id": "16443436",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Steven Universe",
+        "genres": [
+            "Action",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1711908000,
+        "last_update": 1711814518433,
+        "live": false,
+        "participants": [
+            {
+                "character": "Steven Universe",
+                "name": "Zach Callison",
+                "role": "Voice"
+            },
+            {
+                "character": "Garnet",
+                "name": "Estelle",
+                "role": "Voice"
+            },
+            {
+                "character": "Amethyst",
+                "name": "Michaela Dietz",
+                "role": "Voice"
+            },
+            {
+                "character": "Pearl",
+                "name": "Deedee Magno Hall",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 11,
+        "scheduled_duration": 911,
+        "scheduled_timestamp": 1711908000,
+        "season_number": "1",
+        "serial": 1711814518176,
+        "series_id": "2011404",
+        "series_name": "Steven Universe",
+        "show_duration": 911,
+        "show_id": "13929112",
+        "show_timestamp": 1711908000,
+        "status": "estimated",
+        "summary": "Steven, Amethyst and Pearl accidentally pop a bubbled gem and form Secret Team to secretly retrieve the missing shards.",
+        "title": "Secret Team",
+        "title_id": "2020134",
+        "tv_rating": "TV-PG"
     }
 ]
