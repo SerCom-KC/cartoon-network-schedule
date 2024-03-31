@@ -1274,5 +1274,65 @@
         "title": "One Froggy Evening",
         "title_id": "321428",
         "tv_rating": "TV-G"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "241727_007_03_851",
+        "create_time": 1711875309211,
+        "episode_in_season": "7",
+        "episode_number": "S17:EL07",
+        "external_id": "16462110",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1711968600,
+        "last_update": 1711875309211,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Chuck Jones (Charles)",
+                "role": "Director"
+            },
+            {
+                "character": "Bugs Bunny",
+                "name": "Mel Blanc",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Mel Blanc",
+                "role": "Voice"
+            },
+            {
+                "character": "Elmer J. Fudd",
+                "name": "Arthur Q Bryan",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1952,
+        "runtime_minutes": 6,
+        "scheduled_duration": 601,
+        "scheduled_timestamp": 1711968600,
+        "season_number": "17",
+        "serial": 1711875309023,
+        "series_id": "312356",
+        "series_name": "Looney Tunes",
+        "show_duration": 601,
+        "show_id": "14008579",
+        "show_timestamp": 1711968600,
+        "status": "estimated",
+        "summary": "Elmer is hunting both Daffy and Bugs again. Bugs talks Elmer into going after Daffy, who ends up getting the worst of all the pranks.",
+        "title": "Rabbit Seasoning",
+        "title_id": "321297",
+        "tv_rating": "TV-G"
     }
 ]
