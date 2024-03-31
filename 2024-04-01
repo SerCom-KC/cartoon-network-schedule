@@ -788,5 +788,126 @@
         "title": "Chili Snakes",
         "title_id": "2196574",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252042_003_03_851",
+        "create_time": 1711867484628,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": "16443468",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1711960200,
+        "last_update": 1711867484628,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Pete Michels",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Brian Wysol",
+                "role": "Creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1711960200,
+        "season_number": "2",
+        "serial": 1711867484424,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "show_duration": 900,
+        "show_id": "13929144",
+        "show_timestamp": 1711960200,
+        "status": "estimated",
+        "summary": "Chubbie Webbers must confront his dark past.",
+        "title": "Super Agent 2",
+        "title_id": "2184500",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "251901_004_02_851",
+        "create_time": 1711867528578,
+        "episode_in_season": "4",
+        "episode_number": "S4:E04",
+        "external_id": "16443469",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Metalocalypse",
+        "genres": [
+            "Comedy",
+            "Music"
+        ],
+        "guide_timestamp": 1711961100,
+        "last_update": 1711867528578,
+        "live": false,
+        "participants": [
+            {
+                "character": "Nathan Explosion",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "Skwisgaar Skwigelf",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "William Murderface",
+                "name": "Tommy Blacha",
+                "role": "Voice"
+            },
+            {
+                "character": "Pickles",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "Toki Wartooth",
+                "name": "Tommy Blacha",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1711961100,
+        "season_number": "4",
+        "serial": 1711867528282,
+        "series_id": "648666",
+        "series_name": "Metalocalypse",
+        "show_duration": 900,
+        "show_id": "13929145",
+        "show_timestamp": 1711961100,
+        "status": "estimated",
+        "summary": "Dethklok heads to Tomahawk, Wisconsin to open a Dethfair in hopes that it will stimulate the economy they destroyed.  Pickles uses this time at home to reconnect with his disapproving mother.",
+        "summary_long": "Dethklok heads to Tomahawk, Wisconsin to open a Dethfair in hopes that it will stimulate the economy they destroyed.  Pickles uses this time at home to reconnect with his disapproving mother who tells him that she won't respect him until he gets a real job.  Pickles decides to hang up his drumsticks and goes into an even more brutal profession: he becomes a realtor.",
+        "title": "Motherklok",
+        "title_id": "892264",
+        "tv_rating": "TV-MA"
     }
 ]
