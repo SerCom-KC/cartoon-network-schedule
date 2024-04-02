@@ -976,5 +976,52 @@
         "title": "XPO",
         "title_id": "641005",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169687_005_02_851",
+        "create_time": 1712041851501,
+        "episode_in_season": "5",
+        "episode_number": "S5:E05",
+        "external_id": "16461988",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1712134800,
+        "last_update": 1712041851501,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1712134800,
+        "season_number": "5",
+        "serial": 1712041851278,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14008713",
+        "show_timestamp": 1712134800,
+        "status": "estimated",
+        "summary": "Bob enters a burger-tasting contest, only to discover that his most distinguishing ingredient is missing! To help out their dad, the kids go on a mission to find the ever-so-important black garlic.",
+        "title": "Best Burger",
+        "title_id": "2065451",
+        "tv_rating": "TV-PG"
     }
 ]
