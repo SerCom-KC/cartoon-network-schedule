@@ -18,7 +18,7 @@
             "Animation"
         ],
         "guide_timestamp": 1712116800,
-        "last_update": 1712023373045,
+        "last_update": 1712101055401,
         "live": false,
         "participants": [
             {
@@ -54,10 +54,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1712116800,
         "season_number": "2",
-        "serial": 1712023372821,
+        "serial": 1712101055018,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1795,
         "show_id": "14008699",
         "show_timestamp": 1712116800,
         "status": "estimated",
@@ -85,7 +85,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1712118600,
-        "last_update": 1712026285059,
+        "last_update": 1712101055402,
         "live": false,
         "participants": [
             {
@@ -116,10 +116,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1712118600,
         "season_number": "1",
-        "serial": 1712026284836,
+        "serial": 1712101055018,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
-        "show_duration": 900,
+        "show_duration": 891,
         "show_id": "14008700",
         "show_timestamp": 1712118600,
         "status": "estimated",
@@ -4580,5 +4580,83 @@
         "title": "The Millie-Churian Candidate",
         "title_id": "2065460",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_011_01_851",
+        "create_time": 1712101055910,
+        "episode_in_season": "11",
+        "episode_number": "S18:E09",
+        "external_id": "16461913",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1712194200,
+        "last_update": 1712101055910,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1712194200,
+        "season_number": "18",
+        "serial": 1712101055689,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "14008766",
+        "show_timestamp": 1712194200,
+        "status": "estimated",
+        "summary": "In an attempt to maintain his \"prime,\" Stan explores some cosmetic solutions that could not go worse.",
+        "title": "Saving Face",
+        "title_id": "2392762",
+        "tv_rating": "TV-14"
     }
 ]
