@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1712203200,
-        "last_update": 1712111647875,
+        "last_update": 1712185813225,
         "live": false,
         "participants": [
             {
@@ -56,10 +56,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1712203200,
         "season_number": "2",
-        "serial": 1712111647588,
+        "serial": 1712185813013,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1796,
         "show_id": "14008771",
         "show_timestamp": 1712203200,
         "status": "estimated",
@@ -148,7 +148,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1712205900,
-        "last_update": 1712113239451,
+        "last_update": 1712185813774,
         "live": false,
         "participants": [
             {
@@ -189,10 +189,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1712205900,
         "season_number": "1",
-        "serial": 1712113239180,
+        "serial": 1712185813576,
         "series_id": "2224723",
         "series_name": "YOLO",
-        "show_duration": 900,
+        "show_duration": 894,
         "show_id": "14008773",
         "show_timestamp": 1712205900,
         "status": "estimated",
@@ -222,7 +222,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1712206800,
-        "last_update": 1712113239452,
+        "last_update": 1712185813775,
         "live": false,
         "participants": [
             {
@@ -258,10 +258,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1712206800,
         "season_number": "8",
-        "serial": 1712113239180,
+        "serial": 1712185813576,
         "series_id": "847246",
         "series_name": "Aqua Unit Patrol Squad 1",
-        "show_duration": 900,
+        "show_duration": 898,
         "show_id": "14008774",
         "show_timestamp": 1712206800,
         "status": "estimated",
@@ -4649,6 +4649,103 @@
         "summary_long": "Linda's sister, Gayle, arrives at the restaurant in tears because her date for the evening cancelled on her and she had tickets to Yarnival, which is like Cirque de Soleil but with cats. Desperate to get out of the house after being grounded, the kids compete to be Aunt Gayle's date via an essay contest.",
         "title": "The Gayle Tales",
         "title_id": "2065462",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169687_014_03_851",
+        "create_time": 1712185813776,
+        "episode_in_season": "14",
+        "episode_number": "S5:E14",
+        "external_id": "16461856",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1712277000,
+        "last_update": 1712185813776,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1712277000,
+        "season_number": "5",
+        "serial": 1712185813576,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1808,
+        "show_id": "14008837",
+        "show_timestamp": 1712277000,
+        "status": "estimated",
+        "summary": "Bob's obsessed with his helicopter. When it falls apart, he demands a refund and disputes with the manufacturer. Gene assists Bob but things end up in a helicopter battle. Louise and Linda help Tina prepare for her oral book report.",
+        "summary_long": "Bob becomes obsessed with his new automatic helicopter. When it falls apart for no reason, he demands a refund and ends up in a dispute with the manufacturer. Gene assists Bob in his quest but things quickly get out of hand and end in a crazy helicopter battle. Meanwhile, Louise and Linda help Tina prepare for her oral book report.",
+        "title": "Li'l Hard Dad",
+        "title_id": "2065463",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169687_015_03_851",
+        "create_time": 1712185813777,
+        "episode_in_season": "15",
+        "episode_number": "S5:E15",
+        "external_id": "16461857",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1712278800,
+        "last_update": 1712185813777,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1712278800,
+        "season_number": "5",
+        "serial": 1712185813576,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14008838",
+        "show_timestamp": 1712278800,
+        "status": "estimated",
+        "summary": "Bob and Linda head out on the town for a date but to Linda's dismay, Bob's idea of romance proves trivial. Meanwhile, a wild chinchilla chase ensues after the school pet that Louis was charged with watching escapes out the front door.",
+        "title": "Adventures in Chinchilla-Sitting",
+        "title_id": "2065464",
         "tv_rating": "TV-PG"
     }
 ]
