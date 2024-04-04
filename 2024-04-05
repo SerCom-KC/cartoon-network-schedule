@@ -855,5 +855,72 @@
         "title": "Tracker",
         "title_id": "2424752",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229067_007_02_851",
+        "create_time": 1712210518967,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "16461873",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Metalocalypse",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Music"
+        ],
+        "guide_timestamp": 1712304000,
+        "last_update": 1712210518967,
+        "live": false,
+        "participants": [
+            {
+                "character": "Nathan Explosion",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "Skwisgaar Skwigelf",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "William Murderface",
+                "name": "Tommy Blacha",
+                "role": "Voice"
+            },
+            {
+                "character": "Pickles",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "Toki Wartooth",
+                "name": "Tommy Blacha",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1712304000,
+        "season_number": "1",
+        "serial": 1712210518764,
+        "series_id": "648666",
+        "series_name": "Metalocalypse",
+        "show_duration": 900,
+        "show_id": "14008854",
+        "show_timestamp": 1712304000,
+        "status": "estimated",
+        "summary": "Dethklok has a huge fight on stage, which prompts the record label to hire a performance coach to keep the band together.  The band falls in love with therapy for all the wrong reasons.",
+        "title": "Performance Klok",
+        "title_id": "651229",
+        "tv_rating": "TV-MA"
     }
 ]
