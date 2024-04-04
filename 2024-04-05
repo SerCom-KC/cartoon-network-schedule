@@ -141,5 +141,138 @@
         "title": "Tracker",
         "title_id": "2424752",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251789_004_02_851",
+        "create_time": 1712198845163,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16461864",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Smiling Friends",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1712291400,
+        "last_update": 1712198845163,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Zach Hadel",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": "Charlie",
+                "name": "Zach Hadel",
+                "role": "Voice"
+            },
+            {
+                "character": "Pim",
+                "name": "Michael Cusack",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 903,
+        "scheduled_timestamp": 1712291400,
+        "season_number": "1",
+        "serial": 1712198844911,
+        "series_id": "2224721",
+        "series_name": "Smiling Friends",
+        "show_duration": 903,
+        "show_id": "14008845",
+        "show_timestamp": 1712291400,
+        "status": "estimated",
+        "summary": "Pim ventures into the forest across the road to fetch firewood for the office Halloween party.",
+        "title": "A Silly Halloween Special",
+        "title_id": "2322679",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "229424_004_02_851",
+        "create_time": 1712198845163,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16461865",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "YOLO",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1712292300,
+        "last_update": 1712198845163,
+        "live": false,
+        "participants": [
+            {
+                "character": "Sarah",
+                "name": "Sarah Bishop",
+                "role": "Voice"
+            },
+            {
+                "character": "Rachel",
+                "name": "Todor Manojlovic",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Emma Fitzsimons",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Greta Lee Jackson",
+                "role": "Executive Producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1712292300,
+        "season_number": "1",
+        "serial": 1712198844911,
+        "series_id": "2224723",
+        "series_name": "YOLO",
+        "show_duration": 900,
+        "show_id": "14008846",
+        "show_timestamp": 1712292300,
+        "status": "estimated",
+        "summary": "Rachel and Sarah go to the Terry Cup where dancers compete to please Terry, an opinionated floating head. Their hopes for a drama-free experience are dashed when Rachel gets herself 8 million Terry credits in debt due to a couple of bets.",
+        "summary_long": "Rachel and Sarah go to the Terry Cup where dancers compete to please Terry, an opinionated floating head. Their hopes for a drama-free experience are quickly dashed when Rachel gets herself 8 million Terry credits in debt due to a couple of impulse bets, and Sarah is confronted with her ex-boyfriend and his perfect new date. Will Rachel be punished with death for failing to repay her debt, and can Sarah redeem herself for slapping the new girlfriend?",
+        "title": "The Terry Cup",
+        "title_id": "2224727",
+        "tv_rating": "TV-14"
     }
 ]
