@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1712808000,
-        "last_update": 1712715554220,
+        "last_update": 1712783796130,
         "live": false,
         "participants": [
             {
@@ -56,10 +56,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1712808000,
         "season_number": "3",
-        "serial": 1712715553951,
+        "serial": 1712783795911,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1798,
         "show_id": "14009231",
         "show_timestamp": 1712808000,
         "status": "estimated",
@@ -147,7 +147,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1712810700,
-        "last_update": 1712717896079,
+        "last_update": 1712783796130,
         "live": false,
         "participants": [
             {
@@ -188,10 +188,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1712810700,
         "season_number": "1",
-        "serial": 1712717895761,
+        "serial": 1712783795911,
         "series_id": "2224723",
         "series_name": "YOLO",
-        "show_duration": 900,
+        "show_duration": 885,
         "show_id": "14009233",
         "show_timestamp": 1712810700,
         "status": "estimated",
@@ -415,7 +415,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1712815200,
-        "last_update": 1712721787139,
+        "last_update": 1712783796130,
         "live": false,
         "participants": [
             {
@@ -461,10 +461,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1712815200,
         "season_number": "18",
-        "serial": 1712721786888,
+        "serial": 1712783795911,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "14009237",
         "show_timestamp": 1712815200,
         "status": "estimated",
@@ -4183,6 +4183,45 @@
         "summary_long": "The Duck Brothers: The Duck brothers from outer space kidnap Muriel. They've come to Nowhere to rescue their brother. Courage must save Muriel and ends up helping the brothers as well./Shirley the Medium: While digging in search of his lost yo-yo, Courage happens upon a locked box that belonged to Eustace's deceased brother Horst. Eustace tries to open the box, believing it contains his brother's money but cannot get it open. He hires a psychic to channel Horst. When the box is finally opened, the Farmer gets a surprise.",
         "title": "The Duck Brothers/Shirley the Medium",
         "title_id": "331806",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233073_003_03_851",
+        "create_time": 1712783796778,
+        "episode_in_season": "3",
+        "episode_number": "S10:E03",
+        "external_id": "16462616",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1712876400,
+        "last_update": 1712783796778,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1712876400,
+        "season_number": "10",
+        "serial": 1712783796552,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "14009295",
+        "show_timestamp": 1712876400,
+        "status": "estimated",
+        "summary": "Complications ensue when Bill starts his own half-way house for alcoholics; Bobby shows Peggy how to ride a bicycle.",
+        "title": "Bill's House",
+        "title_id": "731530",
         "tv_rating": "TV-PG"
     }
 ]
