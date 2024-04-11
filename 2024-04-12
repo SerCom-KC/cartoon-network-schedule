@@ -142,5 +142,63 @@
         "title": "MALL",
         "title_id": "2424750",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "251789_008_02_851",
+        "create_time": 1712803493926,
+        "episode_in_season": "8",
+        "episode_number": "S1:E08",
+        "external_id": "16462627",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Smiling Friends",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1712896200,
+        "last_update": 1712803493926,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Zach Hadel",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": "Charlie",
+                "name": "Zach Hadel",
+                "role": "Voice"
+            },
+            {
+                "character": "Pim",
+                "name": "Michael Cusack",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1712896200,
+        "season_number": "1",
+        "serial": 1712803493631,
+        "series_id": "2224721",
+        "series_name": "Smiling Friends",
+        "show_duration": 902,
+        "show_id": "14009306",
+        "show_timestamp": 1712896200,
+        "status": "estimated",
+        "summary": "In the season finale, Charlie actually dies for real.",
+        "title": "Charlie Dies and Doesn't Come Back",
+        "title_id": "2322683",
+        "tv_rating": "TV-MA"
     }
 ]
