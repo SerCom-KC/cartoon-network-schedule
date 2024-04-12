@@ -83,7 +83,7 @@
             "Animation"
         ],
         "guide_timestamp": 1712988000,
-        "last_update": 1712894550836,
+        "last_update": 1712951725821,
         "live": false,
         "participants": [
             {
@@ -119,10 +119,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1712988000,
         "season_number": "4",
-        "serial": 1712894550555,
+        "serial": 1712951725634,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1796,
         "show_id": "14009377",
         "show_timestamp": 1712988000,
         "status": "estimated",
@@ -153,7 +153,7 @@
             "Animation"
         ],
         "guide_timestamp": 1712989800,
-        "last_update": 1712897062251,
+        "last_update": 1712951725822,
         "live": false,
         "participants": [
             {
@@ -189,10 +189,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1712989800,
         "season_number": "1",
-        "serial": 1712897062013,
+        "serial": 1712951725634,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "14009378",
         "show_timestamp": 1712989800,
         "status": "estimated",
@@ -220,7 +220,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1712991600,
-        "last_update": 1712898442020,
+        "last_update": 1712951725823,
         "live": false,
         "participants": [
             {
@@ -266,10 +266,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1712991600,
         "season_number": "6",
-        "serial": 1712898441832,
+        "serial": 1712951725634,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1791,
         "show_id": "14009379",
         "show_timestamp": 1712991600,
         "status": "estimated",
@@ -496,7 +496,7 @@
             "Drama"
         ],
         "guide_timestamp": 1713000600,
-        "last_update": 1712907735121,
+        "last_update": 1712951726629,
         "live": false,
         "premiere": false,
         "press_hold": false,
@@ -505,10 +505,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1713000600,
         "season_number": "10",
-        "serial": 1712907734801,
+        "serial": 1712951726431,
         "series_id": "629835",
         "series_name": "King of the Hill",
-        "show_duration": 1800,
+        "show_duration": 1795,
         "show_id": "14009384",
         "show_timestamp": 1713000600,
         "status": "estimated",
@@ -2833,6 +2833,46 @@
         "summary": "Hank tries to raise money to save the middle school's softball team by pitting the Zephyrs against a Harlem Globetrotters-like team.  But complications ensue when Hank makes the mistake of trying to win the game.",
         "title": "You Gotta Believe (In Moderation)",
         "title_id": "731534",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233073_008_03_851",
+        "create_time": 1712951726629,
+        "episode_in_season": "8",
+        "episode_number": "S10:E08",
+        "external_id": "16462271",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1713043800,
+        "last_update": 1712951726629,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1713043800,
+        "season_number": "10",
+        "serial": 1712951726431,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "14009421",
+        "show_timestamp": 1713043800,
+        "status": "estimated",
+        "summary": "Bobby participates in a \"job shadow\" program, where he's wowed by an entrepreneur who makes a living picking up after dogs.",
+        "title": "Business Is Picking Up",
+        "title_id": "731535",
         "tv_rating": "TV-PG"
     }
 ]
