@@ -615,5 +615,141 @@
         "title": "Promortyus",
         "title_id": "2206491",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251793_008_03_851",
+        "create_time": 1713247591184,
+        "episode_in_season": "8",
+        "episode_number": "S4:E08",
+        "external_id": "16462932",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1713339000,
+        "last_update": 1713247591184,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1713339000,
+        "season_number": "4",
+        "serial": 1713247590887,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1805,
+        "show_id": "14009637",
+        "show_timestamp": 1713339000,
+        "status": "estimated",
+        "summary": "The one with the acid vat, broh.",
+        "title": "The Vat of Acid Episode",
+        "title_id": "2206493",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229067_019_02_851",
+        "create_time": 1713247591185,
+        "episode_in_season": "19",
+        "episode_number": "S1:E19",
+        "external_id": "16462933",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Metalocalypse",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Music"
+        ],
+        "guide_timestamp": 1713340800,
+        "last_update": 1713247591185,
+        "live": false,
+        "participants": [
+            {
+                "character": "Nathan Explosion",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "Skwisgaar Skwigelf",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "William Murderface",
+                "name": "Tommy Blacha",
+                "role": "Voice"
+            },
+            {
+                "character": "Pickles",
+                "name": "Brendon Small",
+                "role": "Voice"
+            },
+            {
+                "character": "Toki Wartooth",
+                "name": "Tommy Blacha",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1713340800,
+        "season_number": "1",
+        "serial": 1713247590887,
+        "series_id": "648666",
+        "series_name": "Metalocalypse",
+        "show_duration": 900,
+        "show_id": "14009638",
+        "show_timestamp": 1713340800,
+        "status": "estimated",
+        "summary": "When Dethklok is given a Carte Blanche development deal, the future of silver screen entertainment rests in their hands.",
+        "title": "Dethstars",
+        "title_id": "655953",
+        "tv_rating": "TV-MA"
     }
 ]
