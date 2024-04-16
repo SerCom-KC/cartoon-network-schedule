@@ -148,7 +148,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1713242700,
-        "last_update": 1713151391042,
+        "last_update": 1713231013362,
         "live": false,
         "participants": [
             {
@@ -189,10 +189,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1713242700,
         "season_number": "2",
-        "serial": 1713151390736,
+        "serial": 1713231013127,
         "series_id": "2224723",
         "series_name": "YOLO",
-        "show_duration": 900,
+        "show_duration": 890,
         "show_id": "14009557",
         "show_timestamp": 1713242700,
         "status": "estimated",
@@ -219,7 +219,7 @@
             "Sci-Fi"
         ],
         "guide_timestamp": 1713243600,
-        "last_update": 1713151391043,
+        "last_update": 1713231013363,
         "live": false,
         "participants": [
             {
@@ -245,10 +245,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1713243600,
         "season_number": "4",
-        "serial": 1713151390736,
+        "serial": 1713231013127,
         "series_id": "322328",
         "series_name": "Space Ghost Coast to Coast",
-        "show_duration": 900,
+        "show_duration": 897,
         "show_id": "14061607",
         "show_timestamp": 1713243600,
         "status": "estimated",
@@ -4401,6 +4401,154 @@
         "summary": "When Hayley experiences kidney failure, Stan and Fran travel into the past to find the man who may be Hayley's real father.",
         "title": "The Kidney Stays in the Picture",
         "title_id": "748148",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232852_017_03_851",
+        "create_time": 1713230476558,
+        "episode_in_season": "17",
+        "episode_number": "S7:E17",
+        "external_id": "16462921",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1713322800,
+        "last_update": 1713230476558,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1713322800,
+        "season_number": "7",
+        "serial": 1713230476260,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1805,
+        "show_id": "14009626",
+        "show_timestamp": 1713322800,
+        "status": "estimated",
+        "summary": "Steve convinces Roger to redeem his most hated and disgusting persona, Ricky Spanish, while Stan and Francine get a visit from the Nigerian boy they once sponsored.",
+        "summary_long": "Roger makes amends for the trouble he caused after he adopted a sociopathic persona; Stan and Fran get an unexpected visit from a Nigerian man whom they aided through a relief organization.",
+        "title": "Ricky Spanish",
+        "title_id": "748178",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251793_007_03_851",
+        "create_time": 1713231063117,
+        "episode_in_season": "7",
+        "episode_number": "S4:E07",
+        "external_id": "16462922",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1713324600,
+        "last_update": 1713231063117,
+        "live": false,
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1713324600,
+        "season_number": "4",
+        "serial": 1713231062725,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14009627",
+        "show_timestamp": 1713324600,
+        "status": "estimated",
+        "summary": "Get off my face broh.",
+        "title": "Promortyus",
+        "title_id": "2206491",
         "tv_rating": "TV-14"
     }
 ]
