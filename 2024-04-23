@@ -641,7 +641,7 @@
             "Animation"
         ],
         "guide_timestamp": 1713857400,
-        "last_update": 1713765158358,
+        "last_update": 1713799557901,
         "live": false,
         "participants": [
             {
@@ -674,13 +674,13 @@
         "press_hold": false,
         "release_year": 2021,
         "runtime_minutes": 30,
-        "scheduled_duration": 1804,
+        "scheduled_duration": 1800,
         "scheduled_timestamp": 1713857400,
         "season_number": "5",
-        "serial": 1713765158078,
+        "serial": 1713799557545,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1804,
+        "show_duration": 1800,
         "show_id": "14010035",
         "show_timestamp": 1713857400,
         "status": "estimated",
@@ -981,7 +981,7 @@
             "Family"
         ],
         "guide_timestamp": 1713862800,
-        "last_update": 1713769549408,
+        "last_update": 1713799557901,
         "live": false,
         "participants": [
             {
@@ -994,13 +994,13 @@
         "press_hold": false,
         "release_year": 2018,
         "runtime_minutes": 30,
-        "scheduled_duration": 1803,
+        "scheduled_duration": 1800,
         "scheduled_timestamp": 1713862800,
         "season_number": "9",
-        "serial": 1713769548917,
+        "serial": 1713799557545,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1803,
+        "show_duration": 1800,
         "show_id": "14010040",
         "show_timestamp": 1713862800,
         "status": "estimated",
@@ -1056,6 +1056,1364 @@
         "summary_long": "Linda's new friend introduces her to essential oils and Aunt Gayle is convinced she must be rescued. Meanwhile, Bob and Teddy are bamboozled into performing a series of annoying favors for Mr. Huggins.",
         "title": "Lorenzo's Oil? No, Linda's",
         "title_id": "2438927",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229021_027_03_851",
+        "create_time": 1713799558712,
+        "episode_in_season": "27",
+        "episode_number": "S4:E27",
+        "external_id": "16487852",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1713866400,
+        "last_update": 1713799558712,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 11,
+        "scheduled_duration": 720,
+        "scheduled_timestamp": 1713866400,
+        "season_number": "4",
+        "serial": 1713799558170,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 720,
+        "show_id": "14056727",
+        "show_timestamp": 1713866400,
+        "status": "estimated",
+        "summary": "The guys need to unfreeze Thomas' brain after he chugs a slushy.",
+        "title": "Cool Cubed",
+        "title_id": "977584",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229021_028_03_851",
+        "create_time": 1713799558713,
+        "episode_in_season": "28",
+        "episode_number": "S4:E28",
+        "external_id": "16487853",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1713867000,
+        "last_update": 1713799558713,
+        "live": false,
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 11,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1713867120,
+        "season_number": "4",
+        "serial": 1713799558170,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 960,
+        "show_id": "14056728",
+        "show_timestamp": 1713867120,
+        "status": "estimated",
+        "summary": "Muscle Man's trailer fails a health inspection and he wants to keep it at all costs.",
+        "title": "Trailer Trashed",
+        "title_id": "977585",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235001_005_02_851",
+        "create_time": 1713799558713,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "16463370",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1713868200,
+        "last_update": 1713799558713,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1680,
+        "scheduled_timestamp": 1713868080,
+        "season_number": "1",
+        "serial": 1713799558170,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1680,
+        "show_id": "14010044",
+        "show_timestamp": 1713868080,
+        "status": "estimated",
+        "summary": "Daffy takes Gossamer under his wing, while Bugs stars in a TV commercial for Speedy's new frozen pizza.",
+        "title": "Monster Talent",
+        "title_id": "824666",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235001_006_03_851",
+        "create_time": 1713799558713,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "16487854",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1713869700,
+        "last_update": 1713799558713,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1680,
+        "scheduled_timestamp": 1713869760,
+        "season_number": "1",
+        "serial": 1713799558170,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "show_duration": 1680,
+        "show_id": "14056729",
+        "show_timestamp": 1713869760,
+        "status": "estimated",
+        "summary": "When Daffy doesn't want to go to his class reunion because he feels he peaked in high school,  Bugs tries to help him make something of himself before the big night.",
+        "title": "Reunion",
+        "title_id": "824660",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234452_010_02_851",
+        "create_time": 1713799558714,
+        "episode_in_season": "10",
+        "episode_number": "S2:E05",
+        "external_id": "16487855",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1713871500,
+        "last_update": 1713799558714,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 12,
+        "scheduled_duration": 720,
+        "scheduled_timestamp": 1713871440,
+        "season_number": "2",
+        "serial": 1713799558170,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 720,
+        "show_id": "14056730",
+        "show_timestamp": 1713871440,
+        "status": "estimated",
+        "summary": "The Looney Builders build Marvin the Martian and his Martian crew a space station. Marvin soon becomes overwhelmed by his Martian crew's antics and lack of personal space.",
+        "title": "Outer Space",
+        "title_id": "2388631",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228558_002_02_851",
+        "create_time": 1713799558714,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16487856",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Animation",
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1713872100,
+        "last_update": 1713799558714,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "Voice"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "Voice"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "Voice"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "Voice"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Nicole Belisle",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Abe Audish",
+                "role": "Supervising Producer"
+            },
+            {
+                "character": null,
+                "name": "Matthew Janszen",
+                "role": "Music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 16,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1713872160,
+        "season_number": "1",
+        "serial": 1713799558170,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "show_duration": 960,
+        "show_id": "14056731",
+        "show_timestamp": 1713872160,
+        "status": "estimated",
+        "summary": "It's Taz's birthday, so The Looney Builders build him a huge ice cream sundae. Porky worries about making a mistake and delays the build causing the ice cream to start to melt.",
+        "title": "Ice Creamed",
+        "title_id": "2267171",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250874_006_02_851",
+        "create_time": 1713799558714,
+        "episode_in_season": "6",
+        "episode_number": "S2:E04",
+        "external_id": "16487857",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Batwheels",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1713873000,
+        "last_update": 1713799558714,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 12,
+        "scheduled_duration": 720,
+        "scheduled_timestamp": 1713873120,
+        "season_number": "2",
+        "serial": 1713799558170,
+        "series_id": "2267111",
+        "series_name": "Batwheels",
+        "show_duration": 720,
+        "show_id": "14056732",
+        "show_timestamp": 1713873120,
+        "status": "estimated",
+        "summary": "When Redbird takes one of Buff's stuffed animals without asking and it accidentally gets swiped by the Legion of Zoom, Red enlists Bam to help him make a daring rescue.",
+        "title": "Mission: Stuffed Animal",
+        "title_id": "2364047",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228868_030_02_851",
+        "create_time": 1713799558715,
+        "episode_in_season": "30",
+        "episode_number": "S1:E34",
+        "external_id": "16487858",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Batwheels",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1713873900,
+        "last_update": 1713799558715,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 12,
+        "scheduled_duration": 720,
+        "scheduled_timestamp": 1713873840,
+        "season_number": "1",
+        "serial": 1713799558170,
+        "series_id": "2267111",
+        "series_name": "Batwheels",
+        "show_duration": 720,
+        "show_id": "14056733",
+        "show_timestamp": 1713873840,
+        "status": "estimated",
+        "summary": "When Redbird tries his hand at espionage as \"V-8, the Super-Spy\", he quickly realizes he's gotten in over his head, so Redbird teams up with Bibi to save the Amusement Mile from Dr. Spy!",
+        "title": "License to Joke",
+        "title_id": "2267139",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228868_031_02_851",
+        "create_time": 1713799558715,
+        "episode_in_season": "31",
+        "episode_number": "S1:E35",
+        "external_id": "16487859",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Batwheels",
+        "genres": [
+            "Children",
+            "Family"
+        ],
+        "guide_timestamp": 1713874500,
+        "last_update": 1713799558715,
+        "live": false,
+        "participants": [
+            {
+                "character": null,
+                "name": "Caroline Kermel",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Steven Fink",
+                "role": "Producer"
+            },
+            {
+                "character": "Buff",
+                "name": "Noah Kaye Bentley",
+                "role": "Voice"
+            },
+            {
+                "character": "Bam",
+                "name": "Jacob Bertrand",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Batman",
+                "name": "Ethan Hawke",
+                "role": "Voice"
+            },
+            {
+                "character": "Robin",
+                "name": "AJ Hudson",
+                "role": "Voice"
+            },
+            {
+                "character": "Bibi",
+                "name": "Madigan Kacmar",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 16,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1713874560,
+        "season_number": "1",
+        "serial": 1713799558170,
+        "series_id": "2267111",
+        "series_name": "Batwheels",
+        "show_duration": 960,
+        "show_id": "14056734",
+        "show_timestamp": 1713874560,
+        "status": "estimated",
+        "summary": "Bibi has a terrible no-good day after she keeps messing up and lets Joker get away. She doesn't think he can help Batgirl anymore, but a \"bad today\" doesn't mean it'll be a \"bad tomorrow.\"",
+        "title": "Bibi's Bad Day",
+        "title_id": "2267143",
+        "tv_rating": "TV-Y"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228420_018_03_851",
+        "create_time": 1713799558715,
+        "episode_in_season": "18",
+        "episode_number": "S3:EL18",
+        "external_id": "16487860",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1713875400,
+        "last_update": 1713799558715,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 12,
+        "scheduled_duration": 720,
+        "scheduled_timestamp": 1713875520,
+        "season_number": "3",
+        "serial": 1713799558170,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 720,
+        "show_id": "14056735",
+        "show_timestamp": 1713875520,
+        "status": "estimated",
+        "summary": "Gumball and Darwin are shocked to discover that Anais is Dad's favorite child.",
+        "summary_long": "Gumball and Darwin are shocked to discover that Anais is Dad's favourite child. Mom has forced Dad to install a password on the computer. The pop-up clue advises them that the password is the name of Dad's favorite child. After trying \"Gumball\" and \"Darwin\" unsuccessfully, they discover the answer is, in fact, \"Anais\". They are determined to become Dad's favorites by any means necessary, even if it means undermining each other, plotting against Anais or driving a wedge between mom and dad . . .",
+        "title": "The Password",
+        "title_id": "2020175",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228420_019_03_851",
+        "create_time": 1713799558715,
+        "episode_in_season": "19",
+        "episode_number": "S3:EL19",
+        "external_id": "16487861",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1713876300,
+        "last_update": 1713799558715,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 16,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1713876240,
+        "season_number": "3",
+        "serial": 1713799558170,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 960,
+        "show_id": "14056736",
+        "show_timestamp": 1713876240,
+        "status": "estimated",
+        "summary": "Gumball and Darwin go to extraordinary lengths to avoid taking out the trash.  Gumball and Darwin are offended when Mom calls them \"procrastinators\", once she's told them what it means.",
+        "summary_long": "Gumball and Darwin go to extraordinary lengths to avoid taking out the trash. Gumball and Darwin are offended when Mom calls them \"procrastinators\", once she's told them what it means. They promise to take the trash out by the time she gets home. As the clock slowly counts down, they discover that they will go to extraordinary lengths, no matter how inane, to avoid the task in hand.",
+        "title": "The Procrastinators",
+        "title_id": "2020176",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228420_020_03_851",
+        "create_time": 1713799558716,
+        "episode_in_season": "20",
+        "episode_number": "S3:EL20",
+        "external_id": "16487964",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1713877200,
+        "last_update": 1713799558716,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 11,
+        "scheduled_duration": 720,
+        "scheduled_timestamp": 1713877200,
+        "season_number": "3",
+        "serial": 1713799558170,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 720,
+        "show_id": "14056737",
+        "show_timestamp": 1713877200,
+        "status": "estimated",
+        "summary": "Gumball inadvertently cracks open Penny's shell and discovers who she really is inside.",
+        "summary_long": "Gumball inadvertently cracks open Penny's shell and discovers who she really is inside . . . While performing a school play, Gumball is so nervous about kissing Penny that he accidentally headbutts her and cracks open her shell. They discover that under Penny's shell is an emotional shape-shifting inner self. Penny's father is determined for Penny to keep it hidden but Gumball encourages her to show the world who, or what, she really is . . .",
+        "title": "The Shell",
+        "title_id": "2020177",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228420_021_03_851",
+        "create_time": 1713799558716,
+        "episode_in_season": "21",
+        "episode_number": "S3:EL21",
+        "external_id": "16487965",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1713877800,
+        "last_update": 1713799558716,
+        "live": false,
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "Voice"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Rae Kowalewski",
+                "role": "Voice"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "Voice"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 16,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1713877920,
+        "season_number": "3",
+        "serial": 1713799558170,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "show_duration": 960,
+        "show_id": "14056738",
+        "show_timestamp": 1713877920,
+        "status": "estimated",
+        "summary": "Gumball and Darwin are given the job of looking after the lame school hamster.",
+        "summary_long": "Gumball and Darwin are given the job of looking after the lame school hamster. Principal Brown gives Gumball and Darwin the ancient school hamster, Chris Morris, to look after for the weekend. However they accidentally leave it at school, and take home a clump of Principal Brown's hair instead. Surprisingly they discover it makes an excellent pet!  When they realize they have left the real Chris Morris at school, they have to race to find him before their error is discovered.",
+        "title": "The Burden",
+        "title_id": "2028426",
+        "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229166_011_02_851",
+        "create_time": 1713799558716,
+        "episode_in_season": "11",
+        "episode_number": "S2:E11",
+        "external_id": "16487966",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo and Guess Who?",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1713879000,
+        "last_update": 1713799558716,
+        "live": false,
+        "participants": [
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "Voice"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Kate Micucci",
+                "role": "Voice"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Fred Jones Sr.",
+                "name": "Frank Welker",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1680,
+        "scheduled_timestamp": 1713878880,
+        "season_number": "2",
+        "serial": 1713799558170,
+        "series_id": "2168685",
+        "series_name": "Scooby-Doo and Guess Who?",
+        "show_duration": 1680,
+        "show_id": "14056739",
+        "show_timestamp": 1713878880,
+        "status": "estimated",
+        "summary": "When the gang gets a mysterious invitation to a baseball game they meet up with none other than rapper, songwriter Macklemore, who is getting attacked by a horrid and maniacal ghost mascot monster!  Will our gang hit a home run?",
+        "summary_long": "When the gang gets a mysterious invitation to a baseball game, they travel to Seattle and meet up with none other than rapper, songwriter Macklemore, who is getting attacked by a horrid and maniacal ghost mascot monster! Macklemore really needs our gang's help, and together, they step up to the plate to swing away at this crazy baseball-fueled mystery. But it all ends in something of a trick-play surprise-ending that not even our guys saw coming! Will our gang hit a home run? Or will it be strike three and they're out of there\u2026for good!",
+        "title": "The 7th Inning Scare!",
+        "title_id": "2208534",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233136_006_01_851",
+        "create_time": 1713799560307,
+        "episode_in_season": "6",
+        "episode_number": "06",
+        "external_id": "16487967",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Heroic Quest of the Valiant Prince Ivandoe, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1713880500,
+        "last_update": 1713799560307,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 4,
+        "scheduled_duration": 240,
+        "scheduled_timestamp": 1713880560,
+        "season_number": "1",
+        "serial": 1713799559873,
+        "series_id": "2118583",
+        "series_name": "The Heroic Quest of the Valiant Prince Ivandoe",
+        "show_duration": 240,
+        "show_id": "14056740",
+        "show_timestamp": 1713880560,
+        "status": "estimated",
+        "summary": "While escaping from a grizzly bear, Ivandoe and Bert fall into an underground cave where a large Troll-woman in a party dress keeps them captive in order to  play with them like dolls.",
+        "title": "The Prince and the Raspberry Fairy",
+        "title_id": "2118590",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229166_012_02_851",
+        "create_time": 1713799560308,
+        "episode_in_season": "12",
+        "episode_number": "S2:E12",
+        "external_id": "16487968",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo and Guess Who?",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1713880800,
+        "last_update": 1713799560308,
+        "live": false,
+        "participants": [
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "Voice"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Kate Micucci",
+                "role": "Voice"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Fred Jones Sr.",
+                "name": "Frank Welker",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1713880800,
+        "season_number": "2",
+        "serial": 1713799559873,
+        "series_id": "2168685",
+        "series_name": "Scooby-Doo and Guess Who?",
+        "show_duration": 1800,
+        "show_id": "14010060",
+        "show_timestamp": 1713880800,
+        "status": "estimated",
+        "summary": "Scooby and our mystery solving gang are on set with famous singer, dancer, comedian and actress Sandy Duncan. Can Sandy Duncan and our mystery solving gang survive this savage new Jekyll monster and solve the movie mystery?",
+        "summary_long": "Scooby and our mystery solving gang are on set with famous singer, dancer, comedian and actress Sandy Duncan. She's back at Mammoth Studios (where our gang first met her) because they're at it again. They're making a remake of the original Jekyll & Hyde movie that Sandy starred in and where Daphne stepped in as Ms. Duncan's stunt double. It seems everything is going well until the same thing happens all over again. A real monster Jekyll starts showing up and causing mayhem, kidnapping actors and scaring everyone away. Can Sandy Duncan and our mystery solving gang survive this savage new Jekyll monster and solve the movie mystery? Even harder, can they survive the angry, emotional movie director!?",
+        "title": "The Dreaded Remake of Jekyll & Hyde!",
+        "title_id": "2208535",
+        "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233126_067_01_851",
+        "create_time": 1713799560309,
+        "episode_in_season": "67",
+        "episode_number": "S2:E67",
+        "external_id": "16487969",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Show, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1713882600,
+        "last_update": 1713799560309,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 10,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1713882600,
+        "season_number": "2",
+        "serial": 1713799559873,
+        "series_id": "2011437",
+        "series_name": "The Tom and Jerry Show",
+        "show_duration": 600,
+        "show_id": "14056741",
+        "show_timestamp": 1713882600,
+        "status": "estimated",
+        "summary": "A battle leads Tom to chase Jerry into the Natural History Museum. The chase continues until they realize they've been locked inside. It's a spooky place after dark and made even spookier by the entrance of the museum's guard dog, Rocky.",
+        "summary_long": "An epic battle leads Tom to chase Jerry into the local Natural History Museum.The chase continues until the two combatants realize they've been locked inside for the night. It's a spooky place after lights out and made even spookier by the entrance of the museum's guard dog, Rocky. Rocky takes his job very seriously. Tom's dealt with this sadistic canine before and frantically tries to avoid detection by blending into the various museum displays. But mischievous Jerry repeatedly rats him out. It's all fun and games until Jerry realizes Rocky hates mice as much as he hates cats. They'll ultimately have to work together to outsmart Rocky and survive this night of fright in the museum.",
+        "title": "Fight in the Museum",
+        "title_id": "2079087",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233126_068_01_851",
+        "create_time": 1713799560310,
+        "episode_in_season": "68",
+        "episode_number": "S2:E68",
+        "external_id": "16487970",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Show, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1713883200,
+        "last_update": 1713799560310,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 10,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1713883200,
+        "season_number": "2",
+        "serial": 1713799559873,
+        "series_id": "2011437",
+        "series_name": "The Tom and Jerry Show",
+        "show_duration": 600,
+        "show_id": "14056742",
+        "show_timestamp": 1713883200,
+        "status": "estimated",
+        "summary": "Tom and Jerry have made a connection between a variety of cases involving the mysterious disappearance of household items, all including a sighting of a cute kitten. Their investigation reveals a litter of hardened kitten con artists.",
+        "summary_long": "Tom and Jerry have made a connection between a variety of different cases involving the mysterious disappearance of household items, all including a sighting of a supernaturally cute kitten. Tom and Jerry are on the case! Their investigation reveals a litter of hardened kitten con artists who are using the items they've taken to form a makeshift home. These kitty criminals are just looking for a home, but they don't want to be separated!",
+        "title": "Kitten Grifters",
+        "title_id": "2079086",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233126_069_01_851",
+        "create_time": 1713799560310,
+        "episode_in_season": "69",
+        "episode_number": "S2:E69",
+        "external_id": "16487971",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Show, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1713883800,
+        "last_update": 1713799560310,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 10,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1713883800,
+        "season_number": "2",
+        "serial": 1713799559873,
+        "series_id": "2011437",
+        "series_name": "The Tom and Jerry Show",
+        "show_duration": 600,
+        "show_id": "14056743",
+        "show_timestamp": 1713883800,
+        "status": "estimated",
+        "summary": "Jerry gets a sleepy Tuffy out of bed, makes them breakfast, gets Tuffy cleaned up, puts on his backpack and scoots him past the ol' cat to the house next door where Winston waits greeting his students, a gaggle of mice, including Jerry.",
+        "summary_long": "Like a big brother, Jerry gets a sleepy Tuffy out of bed, makes them both breakfast, gets Tuffy cleaned up, puts on his backpack and scoots him past the mean ol' cat to the house next door where Winston waits greeting his students, a gaggle of mice, including Jerry. They each hand their kindly teacher a treat as they take their seats on little spools of thread, ready for the start of class. Winston is teaching his students the basics of force and motion, and today they're going on a field trip to see physics in action. They end up at Tom's house, where Tom bears the brunt of the school load until he gets a little tutoring himself.",
+        "title": "School of Hard Knocks",
+        "title_id": "2079091",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233126_070_01_851",
+        "create_time": 1713799560311,
+        "episode_in_season": "70",
+        "episode_number": "S2:E70",
+        "external_id": "16487972",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Show, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1713884400,
+        "last_update": 1713799560311,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 10,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1713884400,
+        "season_number": "2",
+        "serial": 1713799559873,
+        "series_id": "2011437",
+        "series_name": "The Tom and Jerry Show",
+        "show_duration": 600,
+        "show_id": "14056744",
+        "show_timestamp": 1713884400,
+        "status": "estimated",
+        "summary": "When Jerry gets a cold he gets no help from Tom, who uses the mouse's down time to taunt him and eat all of his favorite treats. Jerry resorts to help from Uncle Pecos, who mixes a home brewed Texas tonic to knock the cold plum out.",
+        "summary_long": "When Jerry gets a cold he gets no help from Tom, who chooses instead to use the mouse's down time to taunt the little guy and eat all of his favorite treats.\u00a0Jerry resorts to help from Uncle Pecos, who after trying a few Texas remedies, mixes a home brewed Texas tonic to knock the cold plum out. As a side effect of the tabasco fueled brew, the mouse is breathing fire within minutes. When Tom catches the same cold and gets a dose of the brew, it's an all-out flame war! Good thing Uncle Pecos is there to put the fire out!",
+        "title": "Cat-A-Tonic Mouse",
+        "title_id": "2079092",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233126_071_01_851",
+        "create_time": 1713799560312,
+        "episode_in_season": "71",
+        "episode_number": "S2:E71",
+        "external_id": "16487973",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Show, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1713885000,
+        "last_update": 1713799560312,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 10,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1713885000,
+        "season_number": "2",
+        "serial": 1713799559873,
+        "series_id": "2011437",
+        "series_name": "The Tom and Jerry Show",
+        "show_duration": 600,
+        "show_id": "14056745",
+        "show_timestamp": 1713885000,
+        "status": "estimated",
+        "summary": "Waffles is worried his roommate had his brain eaten by aliens leaving him a zombie dog. He's not the first dog in his neighborhood to wake up stupid. Afraid of becoming the next, Waffles hires the detectives to stop to this alien invasion.",
+        "summary_long": "Waffles is worried his roommate Bo had his brain eaten by aliens, leaving him a zombie dog. Turns out he's not the first dog in his neighborhood to wake up stupid. Afraid of becoming the next Bo, Waffles hires the Cat and Mouse Detectives to put a stop to this alien invasion. Our Narrator thinks all of this extraterrestrial talk is a load of sci-fi hooey but not our detectives; they're covering all their bases and taking every necessary precaution. Turns out the dog's behavior has more to do with a tainted bag of kibble than visitors from another planet or does it?",
+        "title": "Brain Food",
+        "title_id": "2079090",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233126_072_01_851",
+        "create_time": 1713799560313,
+        "episode_in_season": "72",
+        "episode_number": "S2:E72",
+        "external_id": "16487974",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Show, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1713885600,
+        "last_update": 1713799560313,
+        "live": false,
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 10,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1713885600,
+        "season_number": "2",
+        "serial": 1713799559873,
+        "series_id": "2011437",
+        "series_name": "The Tom and Jerry Show",
+        "show_duration": 600,
+        "show_id": "14056746",
+        "show_timestamp": 1713885600,
+        "status": "estimated",
+        "summary": "Butch finds a wish bone in the garbage and dupes Tom into believing it will make his wishes come true. Butch trades Tom the bone for cans of cat food. Butch thinks he's pulled off the best scam ever until his wishes start coming true.",
+        "summary_long": "Butch finds a wish bone in the garbage and dupes Tom into believing it will make his wishes come true. Butch trades Tom the bone for a dozen cans of cat food. Butch thinks he's pulled off the best scam ever until Tom's wishes start coming true (from Jerry getting his just dessert to Toodles paying an unexpected visit)! Now, Butch will stop at nothing to get that bone back!",
+        "title": "Wish Bone",
+        "title_id": "2079088",
         "tv_rating": "TV-PG"
     }
 ]
