@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1713844800,
-        "last_update": 1713751465409,
+        "last_update": 1713823321877,
         "live": false,
         "participants": [
             {
@@ -57,10 +57,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1713844800,
         "season_number": "5",
-        "serial": 1713751465148,
+        "serial": 1713823321590,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "14010026",
         "show_timestamp": 1713844800,
         "status": "estimated",
@@ -84,7 +84,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1713846600,
-        "last_update": 1713754888598,
+        "last_update": 1713823321877,
         "live": false,
         "participants": [
             {
@@ -115,10 +115,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1713846600,
         "season_number": "1",
-        "serial": 1713754888316,
+        "serial": 1713823321590,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
-        "show_duration": 900,
+        "show_duration": 897,
         "show_id": "14010027",
         "show_timestamp": 1713846600,
         "status": "estimated",
@@ -145,7 +145,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1713847500,
-        "last_update": 1713754888599,
+        "last_update": 1713823321877,
         "live": false,
         "participants": [
             {
@@ -186,10 +186,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1713847500,
         "season_number": "2",
-        "serial": 1713754888316,
+        "serial": 1713823321590,
         "series_id": "2224723",
         "series_name": "YOLO",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "14010028",
         "show_timestamp": 1713847500,
         "status": "estimated",
@@ -334,7 +334,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1713850200,
-        "last_update": 1713758311455,
+        "last_update": 1713823321877,
         "live": false,
         "participants": [
             {
@@ -380,10 +380,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1713850200,
         "season_number": "8",
-        "serial": 1713758311166,
+        "serial": 1713823321590,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "14010031",
         "show_timestamp": 1713850200,
         "status": "estimated",
@@ -4089,6 +4089,95 @@
         "summary": "Powder Puff Boys, The: When Bobby doesn't want to be part of the powder puff boys, Hank convinces him to give it a shot; and Bobby becomes the head powder puff.",
         "title": "The Powder Puff Boys",
         "title_id": "731557",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "233067_016_03_851",
+        "create_time": 1713823321878,
+        "episode_in_season": "16",
+        "episode_number": "S11:E16",
+        "external_id": "16463288",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1713915000,
+        "last_update": 1713823321878,
+        "live": false,
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1713915000,
+        "season_number": "11",
+        "serial": 1713823321590,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "14010090",
+        "show_timestamp": 1713915000,
+        "status": "estimated",
+        "summary": "When Arlen is struck by a sweltering heat wave, Hank gets the gang to go to a water park where everybody experiences \"the coolest wave in Texas.\"",
+        "title": "Four Wave Intersection",
+        "title_id": "731558",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "250263_016_02_851",
+        "create_time": 1713823321878,
+        "episode_in_season": "16",
+        "episode_number": "S9:E16",
+        "external_id": "16463289",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1713916800,
+        "last_update": 1713823321878,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1713916800,
+        "season_number": "9",
+        "serial": 1713823321590,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1804,
+        "show_id": "14010091",
+        "show_timestamp": 1713916800,
+        "status": "estimated",
+        "summary": "Bob attempts to take a day off.",
+        "summary_long": "The family forces workaholic Bob to take a much-needed day off, only for him to wind up working at a local sandwich shop. Meanwhile, Linda and the kids throw a last-minute baby shower at the restaurant for a female biker group.",
+        "title": "Roamin' Bob-Iday",
+        "title_id": "2438932",
         "tv_rating": "TV-PG"
     }
 ]
