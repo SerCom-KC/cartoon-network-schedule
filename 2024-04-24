@@ -886,5 +886,78 @@
         "title": "Meet Awesome X",
         "title_id": "640586",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "228988_003_02_851",
+        "create_time": 1713855096555,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16463310",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Frisky Dingo",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1713948300,
+        "last_update": 1713855096555,
+        "live": false,
+        "participants": [
+            {
+                "character": "Killface",
+                "name": "Adam Reed",
+                "role": "Voice"
+            },
+            {
+                "character": "Xander Crews",
+                "name": "Adam Reed",
+                "role": "Voice"
+            },
+            {
+                "character": "Simon",
+                "name": "Christian Danley",
+                "role": "Voice"
+            },
+            {
+                "character": "Grace Ryan",
+                "name": "Kate Miller",
+                "role": "Voice"
+            },
+            {
+                "character": "Sinn",
+                "name": "Kelly Jenrette",
+                "role": "Voice"
+            },
+            {
+                "character": "The Xtacles",
+                "name": "Lucky Yates",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1713948300,
+        "season_number": "1",
+        "serial": 1713855096313,
+        "series_id": "638050",
+        "series_name": "Frisky Dingo",
+        "show_duration": 900,
+        "show_id": "14010112",
+        "show_timestamp": 1713948300,
+        "status": "estimated",
+        "summary": "Killface goes on a daytime talk show to talk about his world domination plans.",
+        "title": "Pimp My Revenue",
+        "title_id": "651248",
+        "tv_rating": "TV-14"
     }
 ]
