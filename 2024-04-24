@@ -467,5 +467,83 @@
         "title": "Lost in Space",
         "title_id": "748220",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232832_019_03_851",
+        "create_time": 1713847659090,
+        "episode_in_season": "19",
+        "episode_number": "S8:E19",
+        "external_id": "16463304",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1713940200,
+        "last_update": 1713847659090,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1713940200,
+        "season_number": "8",
+        "serial": 1713847658849,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14010106",
+        "show_timestamp": 1713940200,
+        "status": "estimated",
+        "summary": "Klaus swaps bodies with Stan after discovering that his original human body is on ice at the CIA; after converting the attic into a gym, Roger attempts to convince Stan to sign up for a lifetime membership.",
+        "title": "Da Flippity Flop",
+        "title_id": "748221",
+        "tv_rating": "TV-14"
     }
 ]
