@@ -85,7 +85,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1713933000,
-        "last_update": 1713840813268,
+        "last_update": 1713920530398,
         "live": false,
         "participants": [
             {
@@ -116,10 +116,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1713933000,
         "season_number": "1",
-        "serial": 1713840812952,
+        "serial": 1713920530114,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
-        "show_duration": 900,
+        "show_duration": 892,
         "show_id": "14010100",
         "show_timestamp": 1713933000,
         "status": "estimated",
@@ -146,7 +146,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1713933900,
-        "last_update": 1713840813269,
+        "last_update": 1713920530399,
         "live": false,
         "participants": [
             {
@@ -187,10 +187,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1713933900,
         "season_number": "2",
-        "serial": 1713840812952,
+        "serial": 1713920530114,
         "series_id": "2224723",
         "series_name": "YOLO",
-        "show_duration": 900,
+        "show_duration": 891,
         "show_id": "14010101",
         "show_timestamp": 1713933900,
         "status": "estimated",
@@ -274,7 +274,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1713935700,
-        "last_update": 1713844236240,
+        "last_update": 1713921305798,
         "live": false,
         "participants": [
             {
@@ -300,10 +300,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1713935700,
         "season_number": "10",
-        "serial": 1713844235928,
+        "serial": 1713921305426,
         "series_id": "2005986",
         "series_name": "Aqua TV Show Show",
-        "show_duration": 900,
+        "show_duration": 890,
         "show_id": "14010103",
         "show_timestamp": 1713935700,
         "status": "estimated",
@@ -4354,6 +4354,160 @@
         "summary": "Hayley tries to help Roger write a book.",
         "title": "The Professor and the Coach",
         "title_id": "2392752",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232841_002_01_851",
+        "create_time": 1713916882161,
+        "episode_in_season": "2",
+        "episode_number": "S18:E01",
+        "external_id": "16463247",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1714010400,
+        "last_update": 1713916882161,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1714010400,
+        "season_number": "18",
+        "serial": 1713916881857,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1807,
+        "show_id": "14010168",
+        "show_timestamp": 1714010400,
+        "status": "estimated",
+        "summary": "A lunar misstep sends Roger on an unexpected detour to New Mexico.",
+        "title": "Fellow Traveler",
+        "title_id": "2392753",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232841_003_01_851",
+        "create_time": 1713918645392,
+        "episode_in_season": "3",
+        "episode_number": "S18:E03",
+        "external_id": "16463248",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1714012200,
+        "last_update": 1713918645392,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1714012200,
+        "season_number": "18",
+        "serial": 1713918645166,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14010169",
+        "show_timestamp": 1714012200,
+        "status": "estimated",
+        "summary": "Steve and Principal Lewis get caught in a dangerous situation at the school; the rest of the family makes an adorable new friend.",
+        "title": "Viced Principal",
+        "title_id": "2392754",
         "tv_rating": "TV-14"
     }
 ]
