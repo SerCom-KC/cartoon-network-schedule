@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1714017600,
-        "last_update": 1713925707176,
+        "last_update": 1714006886368,
         "live": false,
         "participants": [
             {
@@ -56,10 +56,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1714017600,
         "season_number": "5",
-        "serial": 1713925706961,
+        "serial": 1714006886105,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1777,
         "show_id": "14010172",
         "show_timestamp": 1714017600,
         "status": "estimated",
@@ -144,7 +144,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1714020300,
-        "last_update": 1713927146590,
+        "last_update": 1714006886369,
         "live": false,
         "participants": [
             {
@@ -185,10 +185,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1714020300,
         "season_number": "2",
-        "serial": 1713927146406,
+        "serial": 1714006886105,
         "series_id": "2224723",
         "series_name": "YOLO",
-        "show_duration": 900,
+        "show_duration": 894,
         "show_id": "14010174",
         "show_timestamp": 1714020300,
         "status": "estimated",
@@ -4412,6 +4412,241 @@
         "summary": "Steve and Roger discover that the house is haunted.  The ghost appears as an apparition of a younger Francine.  The ghost grows more powerful until it attacks Hayley's boyfriend and pulls him into the netherworld.",
         "title": "Poltergasm",
         "title_id": "2007873",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232855_003_04_851",
+        "create_time": 1714003397890,
+        "episode_in_season": "3",
+        "episode_number": "S9:E03",
+        "external_id": "16463193",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1714096800,
+        "last_update": 1714003397890,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1714096800,
+        "season_number": "9",
+        "serial": 1714003397691,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1806,
+        "show_id": "14010242",
+        "show_timestamp": 1714096800,
+        "status": "estimated",
+        "summary": "Steve is eager to prove that he's no longer a little boy, so he sets off to prove his manhood by joining Stan, Bullock, and the rest of the CIA on their annual hunting trip. Meanwhile, Roger and Klaus set off on a cross-country road trip.",
+        "title": "Buck, Wild",
+        "title_id": "2007876",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232855_004_04_851",
+        "create_time": 1714005631955,
+        "episode_in_season": "4",
+        "episode_number": "S9:E04",
+        "external_id": "16463194",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1714098600,
+        "last_update": 1714005631955,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1714098600,
+        "season_number": "9",
+        "serial": 1714005631697,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14010243",
+        "show_timestamp": 1714098600,
+        "status": "estimated",
+        "summary": "In a desperate attempt to show Steve that she's still a cool mom, Francine teaches him a vast array of shoplifting techniques to try out at the local mall.",
+        "title": "Crotchwalkers",
+        "title_id": "2007874",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232855_005_04_851",
+        "create_time": 1714006928353,
+        "episode_in_season": "5",
+        "episode_number": "S9:E05",
+        "external_id": "16463195",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1714100400,
+        "last_update": 1714006928353,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1714100400,
+        "season_number": "9",
+        "serial": 1714006928106,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14010244",
+        "show_timestamp": 1714100400,
+        "status": "estimated",
+        "summary": "Stan's plan for a perfect Thanksgiving watching football in his underwear is thwarted when Francine invites her parents to join them. Francine's mom encourages Hayley to get back on the dating scene and invites an eligible bachelor over.",
+        "summary_long": "Stan's plan for a perfect Thanksgiving watching football in his underwear is thwarted when Francine invites her adoptive parents to join them for the holiday. Meanwhile, Francine's mom encourages Hayley to get back on the dating scene and invites an eligible bachelor over, but her true intentions are revealed at Thanksgiving dinner.",
+        "title": "Kung Pao Turkey",
+        "title_id": "2007878",
         "tv_rating": "TV-14"
     }
 ]
