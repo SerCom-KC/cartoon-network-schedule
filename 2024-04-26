@@ -20,7 +20,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1714104000,
-        "last_update": 1714010459820,
+        "last_update": 1714087576386,
         "live": false,
         "participants": [
             {
@@ -131,10 +131,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1714104000,
         "season_number": "2",
-        "serial": 1714010459581,
+        "serial": 1714087576136,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1800,
+        "show_duration": 1793,
         "show_id": "14010246",
         "show_timestamp": 1714104000,
         "status": "estimated",
@@ -223,7 +223,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1714106700,
-        "last_update": 1714013212599,
+        "last_update": 1714087576387,
         "live": false,
         "participants": [
             {
@@ -264,10 +264,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1714106700,
         "season_number": "2",
-        "serial": 1714013212412,
+        "serial": 1714087576136,
         "series_id": "2224723",
         "series_name": "YOLO",
-        "show_duration": 900,
+        "show_duration": 891,
         "show_id": "14010248",
         "show_timestamp": 1714106700,
         "status": "estimated",
@@ -490,7 +490,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1714111200,
-        "last_update": 1714019325716,
+        "last_update": 1714087576901,
         "live": false,
         "participants": [
             {
@@ -536,10 +536,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1714111200,
         "season_number": "9",
-        "serial": 1714019325467,
+        "serial": 1714087576683,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1791,
         "show_id": "14010252",
         "show_timestamp": 1714111200,
         "status": "estimated",
@@ -647,7 +647,7 @@
             "Animation"
         ],
         "guide_timestamp": 1714114800,
-        "last_update": 1714022748540,
+        "last_update": 1714087576902,
         "live": false,
         "participants": [
             {
@@ -683,10 +683,10 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1714114800,
         "season_number": "5",
-        "serial": 1714022748323,
+        "serial": 1714087576683,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "14010254",
         "show_timestamp": 1714114800,
         "status": "estimated",
@@ -858,7 +858,7 @@
             "Music"
         ],
         "guide_timestamp": 1714118400,
-        "last_update": 1714026171609,
+        "last_update": 1714087576903,
         "live": false,
         "participants": [
             {
@@ -894,10 +894,10 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1714118400,
         "season_number": "2",
-        "serial": 1714026171298,
+        "serial": 1714087576683,
         "series_id": "648666",
         "series_name": "Metalocalypse",
-        "show_duration": 900,
+        "show_duration": 891,
         "show_id": "14010256",
         "show_timestamp": 1714118400,
         "status": "estimated",
@@ -4169,5 +4169,53 @@
         "title": "Legends of the Mall",
         "title_id": "2438943",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "250264_006_02_851",
+        "create_time": 1714087576904,
+        "episode_in_season": "6",
+        "episode_number": "S10:E06",
+        "external_id": "16463563",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1714179600,
+        "last_update": 1714087576904,
+        "live": false,
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1714179600,
+        "season_number": "10",
+        "serial": 1714087576683,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1802,
+        "show_id": "14010312",
+        "show_timestamp": 1714179600,
+        "status": "estimated",
+        "summary": "The restaurant hosts an exclusive screening.",
+        "summary_long": "Bob and Louise are riding high, hosting an exclusive screening of a \"Hawk & Chick\" movie at the restaurant, until the actor who plays Hawk throws a wrench into the works for his own mysterious reasons.",
+        "title": "The Hawkening: Look Who's Hawking Now!",
+        "title_id": "2438944",
+        "tv_rating": "TV-PG"
     }
 ]
