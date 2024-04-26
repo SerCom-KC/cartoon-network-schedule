@@ -20,7 +20,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1714104000,
-        "last_update": 1714087576386,
+        "last_update": 1714095040386,
         "live": false,
         "participants": [
             {
@@ -131,12 +131,12 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1714104000,
         "season_number": "2",
-        "serial": 1714087576136,
+        "serial": 1714095040192,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1793,
         "show_id": "14010246",
-        "show_timestamp": 1714104000,
+        "show_timestamp": 1714104001,
         "status": "estimated",
         "summary": "Stebe gets sent to white collar prison, where he quickly becomes one of the most popular inmates. However, when Theo gets locked up too, Stebe's position as the 'cool guy' comes under threat.",
         "title": "Prison",
@@ -4449,6 +4449,84 @@
         "summary": "Roger gets into a serious car accident and wakes up from his coma to discover that he now has the ability to see the future.  He uses this ability to rescue the Smith family from dangerous situations.",
         "title": "Vision: Impossible",
         "title_id": "2007881",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232855_010_03_851",
+        "create_time": 1714094136770,
+        "episode_in_season": "10",
+        "episode_number": "S9:E10",
+        "external_id": "16463567",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1714186800,
+        "last_update": 1714094136770,
+        "live": false,
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1714186800,
+        "season_number": "9",
+        "serial": 1714094136574,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1805,
+        "show_id": "14010316",
+        "show_timestamp": 1714186800,
+        "status": "estimated",
+        "summary": "The Smith family goes to a theme park  for vacation.",
+        "summary_long": "The Smith family goes to Familyland theme park for vacation.  Francine wants the family to spend the day together, but the individual members go their separate ways.  Francine cries in front of a statue of the park's founder, Roy Family, and awakens Roy from a deep slumber.",
+        "title": "Familyland",
+        "title_id": "2007880",
         "tv_rating": "TV-14"
     }
 ]
