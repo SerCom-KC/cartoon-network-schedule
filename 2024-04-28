@@ -2210,5 +2210,74 @@
         "title": "Sugar Rush",
         "title_id": "871357",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "267101_000_02_851",
+        "create_time": 1714245312230,
+        "episode_in_season": "0",
+        "external_id": "16502636",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Little Shop of Horrors",
+        "genres": [
+            "Comedy",
+            "Musical"
+        ],
+        "guide_timestamp": 1714338000,
+        "last_update": 1714245312230,
+        "live": false,
+        "paid": "267101.000.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Frank Oz",
+                "role": "Director"
+            },
+            {
+                "character": "Audrey II",
+                "name": "Levi Stubbs",
+                "role": "Voice"
+            },
+            {
+                "character": "Seymour Krelborn",
+                "name": "Rick Moranis",
+                "role": "Actor"
+            },
+            {
+                "character": "Audrey",
+                "name": "Ellen Greene",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Howard Ashman",
+                "role": "Screenplay"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1986,
+        "runtime_minutes": 120,
+        "scheduled_duration": 7200,
+        "scheduled_timestamp": 1714338000,
+        "season_number": "1",
+        "serial": 1714245311817,
+        "series_id": "73483",
+        "series_name": "Little Shop of Horrors (1986)",
+        "show_duration": 7200,
+        "show_id": "14056880",
+        "show_timestamp": 1714338000,
+        "status": "estimated",
+        "summary": "A timid clerk in a Skid Row flower shop feeds people to Audrey II, his talking plant from outer space.",
+        "summary_long": "Seymour, an orphan and a nerd who works in a run-down flower shop on Skid Row, spends his time doing menial tasks and dreaming of his co-worker, Audrey. Then, one day, just after an eclipse of the sun, Seymour discovers a strange plant. The exotic plant draws customers, saves the flower shop from bankruptcy and makes Seymour a hero in Audrey's eyes. But the plant has a rather unique appetite and it's getting interested in Audrey too.",
+        "title": "Little Shop of Horrors",
+        "title_id": "2479461",
+        "tv_rating": "TV-14"
     }
 ]
