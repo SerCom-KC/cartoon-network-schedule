@@ -134,5 +134,68 @@
         "title": "Shrimp's Odyssey",
         "title_id": "2322678",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251789_004_02_851",
+        "create_time": 1714272922277,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16463418",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Smiling Friends",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1714365900,
+        "last_update": 1714272922277,
+        "live": false,
+        "paid": "251789.004.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Zach Hadel",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": "Charlie",
+                "name": "Zach Hadel",
+                "role": "Voice"
+            },
+            {
+                "character": "Pim",
+                "name": "Michael Cusack",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1714365900,
+        "season_id": "15892",
+        "season_number": "1",
+        "serial": 1714272922054,
+        "series_id": "2224721",
+        "series_name": "Smiling Friends",
+        "show_duration": 900,
+        "show_id": "14010431",
+        "show_timestamp": 1714365900,
+        "status": "estimated",
+        "summary": "Pim ventures into the forest across the road to fetch firewood for the office Halloween party.",
+        "title": "A Silly Halloween Special",
+        "title_id": "2322679",
+        "tv_rating": "TV-14"
     }
 ]
