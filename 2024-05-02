@@ -133,5 +133,80 @@
         "title": "Frowning Friends",
         "title_id": "2322682",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L",
+            "S"
+        ],
+        "content_id": "229424_001_02_851",
+        "create_time": 1714532121719,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16463742",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "YOLO",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1714625100,
+        "last_update": 1714532121719,
+        "live": false,
+        "paid": "229424.001.02.851",
+        "participants": [
+            {
+                "character": "Sarah",
+                "name": "Sarah Bishop",
+                "role": "Voice"
+            },
+            {
+                "character": "Rachel",
+                "name": "Todor Manojlovic",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Emma Fitzsimons",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Greta Lee Jackson",
+                "role": "Executive Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1714625100,
+        "season_id": "15893",
+        "season_number": "1",
+        "serial": 1714532121320,
+        "series_id": "2224723",
+        "series_name": "YOLO",
+        "show_duration": 900,
+        "show_id": "14010653",
+        "show_timestamp": 1714625100,
+        "status": "estimated",
+        "summary": "Rachel is invited to the party of her former school mate, Maddison, and takes BFF Sarah as her plus one. Can Rachel scale the tower to get a selfie with Maddison, and can Sarah escape the 'plus one' hell to which she has been relegated?",
+        "summary_long": "Rachel is invited to the exclusive birthday party of her super popular former school mate, Maddison, and takes BFF Sarah as her plus one. Can Rachel scale the tower to get a selfie with Maddison to boost her own social media credibility, and can Sarah escape the 'plus one' hell to which she has been relegated?",
+        "title": "Maddison's Birthday Party",
+        "title_id": "2224724",
+        "tv_rating": "TV-14"
     }
 ]
