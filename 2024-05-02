@@ -89,7 +89,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1714624200,
-        "last_update": 1714531088845,
+        "last_update": 1714611636250,
         "live": false,
         "paid": "251789.007.02.851",
         "participants": [
@@ -122,10 +122,10 @@
         "scheduled_timestamp": 1714624200,
         "season_id": "15892",
         "season_number": "1",
-        "serial": 1714531088448,
+        "serial": 1714611636029,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
-        "show_duration": 900,
+        "show_duration": 893,
         "show_id": "14010652",
         "show_timestamp": 1714624200,
         "status": "estimated",
@@ -153,7 +153,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1714625100,
-        "last_update": 1714532121719,
+        "last_update": 1714611636251,
         "live": false,
         "paid": "229424.001.02.851",
         "participants": [
@@ -196,10 +196,10 @@
         "scheduled_timestamp": 1714625100,
         "season_id": "15893",
         "season_number": "1",
-        "serial": 1714532121320,
+        "serial": 1714611636029,
         "series_id": "2224723",
         "series_name": "YOLO",
-        "show_duration": 900,
+        "show_duration": 898,
         "show_id": "14010653",
         "show_timestamp": 1714625100,
         "status": "estimated",
@@ -4485,6 +4485,86 @@
         "summary_long": "Roger pushes himself to the breaking point by working non-stop at his dive bar. When he suffers a heart attack, Roger decides to sell the bar to a company that promises to continue his vision. Upon returning to visit, Roger sees that the dive bar has been completely remade as a family friendly restaurant.",
         "title": "Roger Passes the Bar",
         "title_id": "2012721",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232831_001_05_851",
+        "create_time": 1714609698283,
+        "episode_in_season": "1",
+        "episode_number": "S10:E01",
+        "external_id": "16463808",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1714701600,
+        "last_update": 1714609698283,
+        "live": false,
+        "paid": "232831.001.05.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1714701600,
+        "season_id": "7408",
+        "season_number": "10",
+        "serial": 1714609698060,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14010719",
+        "show_timestamp": 1714701600,
+        "status": "estimated",
+        "summary": "When her efforts to save the planet prove hopeless, Hayley decides that she might get more attention if she becomes a blonde. Meanwhile, Stan and Steve go on a mission to find a new home for the Smiths.",
+        "title": "Blonde Ambition",
+        "title_id": "2019416",
         "tv_rating": "TV-14"
     }
 ]
