@@ -1532,5 +1532,79 @@
         "title": "Lost In My Space",
         "title_id": "757037",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229024_023_03_851",
+        "create_time": 1714723800637,
+        "episode_in_season": "23",
+        "episode_number": "S3:E23",
+        "external_id": "16463898",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1714816800,
+        "last_update": 1714723800637,
+        "live": false,
+        "paid": "229024.023.03.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1714816800,
+        "season_id": "5555",
+        "season_number": "3",
+        "serial": 1714723800444,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 910,
+        "show_id": "14010809",
+        "show_timestamp": 1714816800,
+        "status": "estimated",
+        "summary": "Mordecai and Rigby find out that Benson is going to replace them and have to figure out a way to stop it.",
+        "title": "Replaced",
+        "title_id": "871338",
+        "tv_rating": "TV-PG"
     }
 ]
