@@ -663,5 +663,180 @@
         "title": "Meeseeks and Destroy",
         "title_id": "2013510",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "156102_006_02_851",
+        "create_time": 1714975794796,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "16494990",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1715067000,
+        "last_update": 1714975794796,
+        "live": false,
+        "paid": "156102.006.02.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1715067000,
+        "season_id": "7491",
+        "season_number": "1",
+        "serial": 1714975794453,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14125042",
+        "show_timestamp": 1715067000,
+        "status": "estimated",
+        "summary": "Rick helps Morty win over the girl of his dreams in this one, broh. Fist bump me, broh.",
+        "title": "Rick Potion #9",
+        "title_id": "2013508",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229713_001_02_851",
+        "create_time": 1714975794797,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16494991",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1715068800,
+        "last_update": 1714975794797,
+        "live": false,
+        "paid": "229713.001.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1715068800,
+        "season_id": "5822",
+        "season_number": "1",
+        "serial": 1714975794453,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 901,
+        "show_id": "14125043",
+        "show_timestamp": 1715068800,
+        "status": "estimated",
+        "summary": "Too moist to burn.",
+        "title": "Animals",
+        "title_id": "830074",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229713_002_02_851",
+        "create_time": 1714976292453,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16494992",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1715069700,
+        "last_update": 1714976292453,
+        "live": false,
+        "paid": "229713.002.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1715069700,
+        "season_id": "5822",
+        "season_number": "1",
+        "serial": 1714976292168,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 900,
+        "show_id": "14125044",
+        "show_timestamp": 1715069700,
+        "status": "estimated",
+        "summary": "Delicious When Consumed.",
+        "title": "Food",
+        "title_id": "846836",
+        "tv_rating": "TV-14"
     }
 ]
