@@ -4478,5 +4478,84 @@
         "title": "Beach, Please",
         "title_id": "2438988",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232833_001_04_851",
+        "create_time": 1715038752881,
+        "episode_in_season": "1",
+        "episode_number": "S11:E01",
+        "external_id": "16495129",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1715131800,
+        "last_update": 1715038752881,
+        "live": false,
+        "paid": "232833.001.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1715131800,
+        "season_id": "7625",
+        "season_number": "11",
+        "serial": 1715038752581,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14125100",
+        "show_timestamp": 1715131800,
+        "status": "estimated",
+        "summary": "Stan sets out to stop a tree that he considers his father from being cut down. Steve realizes he's stopped growing and considers surgery.",
+        "title": "Roots",
+        "title_id": "2041474",
+        "tv_rating": "TV-14"
     }
 ]
