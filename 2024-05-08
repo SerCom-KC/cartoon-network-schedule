@@ -661,5 +661,130 @@
         "title": "Raising Gazorpazorp",
         "title_id": "2013513",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251737_008_03_851",
+        "create_time": 1715061602963,
+        "episode_in_season": "8",
+        "episode_number": "S1:E08",
+        "external_id": "16495142",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1715153400,
+        "last_update": 1715061602963,
+        "live": false,
+        "paid": "251737.008.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1715153400,
+        "season_id": "7491",
+        "season_number": "1",
+        "serial": 1715061602664,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14125113",
+        "show_timestamp": 1715153400,
+        "status": "estimated",
+        "summary": "Rick hacks the cable box to allow access to TV from multiple realities. But guess what, broh? Jerry, Beth, and Summer are focused on one of Rick's other inventions. They don't care, broh.",
+        "title": "Rixty Minutes",
+        "title_id": "2013514",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "229713_003_02_851",
+        "create_time": 1715061602963,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16495143",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1715155200,
+        "last_update": 1715061602963,
+        "live": false,
+        "paid": "229713.003.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1715155200,
+        "season_id": "5822",
+        "season_number": "1",
+        "serial": 1715061602664,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 900,
+        "show_id": "14125114",
+        "show_timestamp": 1715155200,
+        "status": "estimated",
+        "summary": "The language of the body in motion speaks all languages.",
+        "title": "Dance",
+        "title_id": "861946",
+        "tv_rating": "TV-PG"
     }
 ]
