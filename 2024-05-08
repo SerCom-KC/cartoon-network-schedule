@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1715140800,
-        "last_update": 1715127994156,
+        "last_update": 1715131829691,
         "live": false,
         "paid": "251737.008.03.851",
         "participants": [
@@ -59,12 +59,12 @@
         "scheduled_timestamp": 1715140800,
         "season_id": "7491",
         "season_number": "1",
-        "serial": 1715127965813,
+        "serial": 1715131829499,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1794,
         "show_id": "14125105",
-        "show_timestamp": 1715140800,
+        "show_timestamp": 1715140799,
         "status": "estimated",
         "summary": "Rick hacks the cable box to allow access to TV from multiple realities. But guess what, broh? Jerry, Beth, and Summer are focused on one of Rick's other inventions. They don't care, broh.",
         "title": "Rixty Minutes",
@@ -4713,6 +4713,86 @@
         "summary": "In an attempt to maintain his \"prime,\" Stan explores some cosmetic solutions that could not go worse.",
         "title": "Saving Face",
         "title_id": "2392762",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_012_01_851",
+        "create_time": 1715130773184,
+        "episode_in_season": "12",
+        "episode_number": "S18:E10",
+        "external_id": "16494300",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1715223600,
+        "last_update": 1715130773184,
+        "live": false,
+        "paid": "232841.012.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1715223600,
+        "season_id": "25259",
+        "season_number": "18",
+        "serial": 1715130772981,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14125175",
+        "show_timestamp": 1715223600,
+        "status": "estimated",
+        "summary": "When Stan goes too far to keep his work friend away from Francine, she is forced to save her new \"little\" friend.",
+        "title": "Frantastic Voyage",
+        "title_id": "2392763",
         "tv_rating": "TV-14"
     }
 ]
