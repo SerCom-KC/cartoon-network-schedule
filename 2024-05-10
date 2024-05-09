@@ -623,5 +623,140 @@
         "title": "Stan-Dan Deliver",
         "title_id": "2041482",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251737_011_03_851",
+        "create_time": 1715233345779,
+        "episode_in_season": "11",
+        "episode_number": "S1:E11",
+        "external_id": "16494463",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1715324400,
+        "last_update": 1715233345779,
+        "live": false,
+        "paid": "251737.011.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1715324400,
+        "season_id": "7491",
+        "season_number": "1",
+        "serial": 1715233345281,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14125256",
+        "show_timestamp": 1715324400,
+        "status": "estimated",
+        "summary": "Beth and Jerry head off on a romantic getaway. Rick and Summer throw a huge intergalactic house party, broh.",
+        "title": "Ricksy Business",
+        "title_id": "2013516",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251789_007_02_851",
+        "create_time": 1715233345780,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "16507951",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Smiling Friends",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1715326200,
+        "last_update": 1715233345780,
+        "live": false,
+        "paid": "251789.007.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Zach Hadel",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": "Charlie",
+                "name": "Zach Hadel",
+                "role": "Voice"
+            },
+            {
+                "character": "Pim",
+                "name": "Michael Cusack",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1715326200,
+        "season_id": "15892",
+        "season_number": "1",
+        "serial": 1715233345281,
+        "series_id": "2224721",
+        "series_name": "Smiling Friends",
+        "show_duration": 900,
+        "show_id": "14321295",
+        "show_timestamp": 1715326200,
+        "status": "estimated",
+        "summary": "A rival business moves across the street, much to the Boss's dismay. Nuff said.",
+        "title": "Frowning Friends",
+        "title_id": "2322682",
+        "tv_rating": "TV-14"
     }
 ]
