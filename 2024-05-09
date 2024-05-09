@@ -4710,5 +4710,156 @@
         "title": "Stan-Dan Deliver",
         "title_id": "2041482",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232833_009_05_851",
+        "create_time": 1715216423525,
+        "episode_in_season": "9",
+        "episode_number": "S11:E09",
+        "external_id": "16494454",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1715310000,
+        "last_update": 1715216423525,
+        "live": false,
+        "paid": "232833.009.05.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1715310000,
+        "season_id": "7625",
+        "season_number": "11",
+        "serial": 1715216423382,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14125247",
+        "show_timestamp": 1715310000,
+        "status": "estimated",
+        "summary": "Francine sets out to help news anchor Greg when he and Terry split up. Roger becomes obsessed with a fictional boy from an old game called Dream Phone.",
+        "title": "Anchorfran",
+        "title_id": "2041484",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251737_011_03_851",
+        "create_time": 1715218976589,
+        "episode_in_season": "11",
+        "episode_number": "S1:E11",
+        "external_id": "16494455",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1715311800,
+        "last_update": 1715218976589,
+        "live": false,
+        "paid": "251737.011.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1715311800,
+        "season_id": "7491",
+        "season_number": "1",
+        "serial": 1715218975990,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1805,
+        "show_id": "14125248",
+        "show_timestamp": 1715311800,
+        "status": "estimated",
+        "summary": "Beth and Jerry head off on a romantic getaway. Rick and Summer throw a huge intergalactic house party, broh.",
+        "title": "Ricksy Business",
+        "title_id": "2013516",
+        "tv_rating": "TV-14"
     }
 ]
