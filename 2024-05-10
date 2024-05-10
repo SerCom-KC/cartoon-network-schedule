@@ -17,7 +17,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1715313600,
-        "last_update": 1715294334426,
+        "last_update": 1715306525561,
         "live": false,
         "paid": "251789.007.02.851",
         "participants": [
@@ -50,12 +50,12 @@
         "scheduled_timestamp": 1715313600,
         "season_id": "15892",
         "season_number": "1",
-        "serial": 1715294334084,
+        "serial": 1715306525337,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
         "show_duration": 898,
         "show_id": "14321293",
-        "show_timestamp": 1715313600,
+        "show_timestamp": 1715313602,
         "status": "estimated",
         "summary": "A rival business moves across the street, much to the Boss's dismay. Nuff said.",
         "title": "Frowning Friends",
@@ -77,7 +77,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1715314500,
-        "last_update": 1715221064740,
+        "last_update": 1715306525562,
         "live": false,
         "paid": "251789.008.02.851",
         "participants": [
@@ -110,12 +110,12 @@
         "scheduled_timestamp": 1715314500,
         "season_id": "15892",
         "season_number": "1",
-        "serial": 1715221064520,
+        "serial": 1715306525337,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
         "show_duration": 912,
         "show_id": "14321294",
-        "show_timestamp": 1715314500,
+        "show_timestamp": 1715314501,
         "status": "estimated",
         "summary": "In the season finale, Charlie actually dies for real.",
         "title": "Charlie Dies and Doesn't Come Back",
@@ -4683,6 +4683,75 @@
         "summary": "When Stan is on a mission, Francine pretends she's a widow. Steve and his friends play wrestling and get beat up by Principal Lewis.",
         "title": "Widow's Pique",
         "title_id": "2041486",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "251739_001_03_851",
+        "create_time": 1715305756499,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "16494579",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1715398200,
+        "last_update": 1715305756499,
+        "live": false,
+        "paid": "251739.001.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1715398200,
+        "season_id": "9517",
+        "season_number": "2",
+        "serial": 1715305755923,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1801,
+        "show_id": "14125319",
+        "show_timestamp": 1715398200,
+        "status": "estimated",
+        "summary": "Rick don goofed this time and mussed up the whole time frame broh! Beth and Jerry get romantic!",
+        "title": "A Rickle in Time",
+        "title_id": "2060764",
         "tv_rating": "TV-14"
     }
 ]
