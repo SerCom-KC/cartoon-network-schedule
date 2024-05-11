@@ -14,7 +14,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1715400000,
-        "last_update": 1715383102547,
+        "last_update": 1715392933030,
         "live": false,
         "paid": "229912.001.02.851",
         "participants": [
@@ -47,12 +47,12 @@
         "scheduled_timestamp": 1715400000,
         "season_id": "15892",
         "season_number": "1",
-        "serial": 1715383102223,
+        "serial": 1715392932803,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
         "show_duration": 921,
         "show_id": "14131000",
-        "show_timestamp": 1715400000,
+        "show_timestamp": 1715400007,
         "status": "estimated",
         "summary": "A small company dedicated to bringing happiness to the world receives a simple request to help a woman's unhappy son smile again, but the job turns out to be more complicated than it seems.",
         "title": "Desmond's Big Day Out",
@@ -78,7 +78,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1715400900,
-        "last_update": 1715381963483,
+        "last_update": 1715392933031,
         "live": false,
         "paid": "229912.002.02.851",
         "participants": [
@@ -111,12 +111,12 @@
         "scheduled_timestamp": 1715400900,
         "season_id": "15892",
         "season_number": "1",
-        "serial": 1715381963211,
+        "serial": 1715392932803,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
         "show_duration": 876,
         "show_id": "14131001",
-        "show_timestamp": 1715400900,
+        "show_timestamp": 1715400903,
         "status": "estimated",
         "summary": "After beloved frog celebrity Mr. Frog gets into hot frog water, Pim and Charlie are tasked with helping the frog get things back on frog track. Meanwhile, Glep has a crazy side adventure that has the critics going wild.",
         "title": "Mr. Frog",
@@ -3950,6 +3950,77 @@
         "summary": "Get off my face broh.",
         "title": "Promortyus",
         "title_id": "2206491",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251793_008_03_851",
+        "create_time": 1715391383931,
+        "episode_in_season": "8",
+        "episode_number": "S4:E08",
+        "external_id": "16494637",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1715484600,
+        "last_update": 1715391383931,
+        "live": false,
+        "paid": "251793.008.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1715484600,
+        "season_id": "15308",
+        "season_number": "4",
+        "serial": 1715391383584,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1805,
+        "show_id": "14125377",
+        "show_timestamp": 1715484600,
+        "status": "estimated",
+        "summary": "The one with the acid vat, broh.",
+        "title": "The Vat of Acid Episode",
+        "title_id": "2206493",
         "tv_rating": "TV-14"
     }
 ]
