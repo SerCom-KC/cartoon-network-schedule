@@ -2199,5 +2199,157 @@
         "title": "Fuzzy Dice",
         "title_id": "871354",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229024_039_03_851",
+        "create_time": 1715456592333,
+        "episode_in_season": "39",
+        "episode_number": "S3:E39",
+        "external_id": "16494672",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1715546700,
+        "last_update": 1715456592333,
+        "live": false,
+        "paid": "229024.039.03.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 906,
+        "scheduled_timestamp": 1715546700,
+        "season_id": "5555",
+        "season_number": "3",
+        "serial": 1715456591982,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 906,
+        "show_id": "14125412",
+        "show_timestamp": 1715546700,
+        "status": "estimated",
+        "summary": "Mordecai and Rigby have to pick up the donuts for the morning meeting.",
+        "title": "Sugar Rush",
+        "title_id": "871357",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "266585_000_02_851",
+        "create_time": 1715456592334,
+        "external_id": "16512482",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Mortal Kombat: Annihilation",
+        "genres": [
+            "Action",
+            "Martial Arts"
+        ],
+        "guide_timestamp": 1715547600,
+        "last_update": 1715456592334,
+        "live": false,
+        "paid": "266585.000.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "John R. Leonetti",
+                "role": "Director"
+            },
+            {
+                "character": "Liu Kang",
+                "name": "Robin Shou",
+                "role": "Actor"
+            },
+            {
+                "character": "Kitana",
+                "name": "Talisa Soto",
+                "role": "Actor"
+            },
+            {
+                "character": "Shao Khan",
+                "name": "Brian Thompson",
+                "role": "Actor"
+            },
+            {
+                "character": "Sonya Blade",
+                "name": "Sandra Hess",
+                "role": "Actor"
+            },
+            {
+                "character": "Lord Raiden",
+                "name": "James Remar",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Brent V. Friedman",
+                "role": "Screenplay"
+            },
+            {
+                "character": null,
+                "name": "Bryce Zabel",
+                "role": "Screenplay"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1997,
+        "runtime_minutes": 120,
+        "scheduled_duration": 7202,
+        "scheduled_timestamp": 1715547600,
+        "serial": 1715456591982,
+        "series_id": "91641",
+        "series_name": "Mortal Kombat: Annihilation (1997)",
+        "show_duration": 7202,
+        "show_id": "14125413",
+        "show_timestamp": 1715547600,
+        "status": "estimated",
+        "summary": "A group of heroic warriors has only six days to save the planet. To succeed they must survive the most spectacular series of challenges any human, or god, has ever encountered.",
+        "title": "Mortal Kombat: Annihilation",
+        "title_id": "2479507",
+        "tv_rating": "TV-14"
     }
 ]
