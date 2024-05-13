@@ -335,5 +335,83 @@
         "title": "The Granite Family",
         "title_id": "896645",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "232833_018_05_851",
+        "create_time": 1715571618527,
+        "episode_in_season": "18",
+        "episode_number": "S11:E18",
+        "external_id": "16494754",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1715664600,
+        "last_update": 1715571618527,
+        "live": false,
+        "paid": "232833.018.05.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1715664600,
+        "season_id": "7625",
+        "season_number": "11",
+        "serial": 1715571618262,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "14125498",
+        "show_timestamp": 1715664600,
+        "status": "estimated",
+        "summary": "When Stan discovers a salt mine in the backyard, the Morton Salt Company wants to buy it. It turns out Steve is the rightful owner of the land and he faces pressure from the family to sell.",
+        "title": "Mine Struggle",
+        "title_id": "2046302",
+        "tv_rating": "TV-14"
     }
 ]
