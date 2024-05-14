@@ -4145,5 +4145,107 @@
         "title": "Torpedo",
         "title_id": "2003435",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169768_001_02_851",
+        "create_time": 1715727956883,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "16494890",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1715819400,
+        "last_update": 1715727956883,
+        "live": false,
+        "paid": "169768.001.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1715819400,
+        "season_id": "7296",
+        "season_number": "2",
+        "serial": 1715727956604,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14125628",
+        "show_timestamp": 1715819400,
+        "status": "estimated",
+        "summary": "The kids hunt for treasure in an abandoned taffy factory, and Bob and Linda must find them before the factory's scheduled demolition.",
+        "title": "The Belchies",
+        "title_id": "2003436",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169768_002_02_851",
+        "create_time": 1715727956926,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16494891",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1715821200,
+        "last_update": 1715727956926,
+        "live": false,
+        "paid": "169768.002.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1715821200,
+        "season_id": "7296",
+        "season_number": "2",
+        "serial": 1715727956604,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1804,
+        "show_id": "14125629",
+        "show_timestamp": 1715821200,
+        "status": "estimated",
+        "summary": "A bank robber holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis.",
+        "title": "Bob Day Afternoon",
+        "title_id": "2003437",
+        "tv_rating": "TV-14"
     }
 ]
