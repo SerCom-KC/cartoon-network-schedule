@@ -18,7 +18,7 @@
             "Animation"
         ],
         "guide_timestamp": 1715832000,
-        "last_update": 1715739671496,
+        "last_update": 1715798459110,
         "live": false,
         "paid": "251739.008.02.851",
         "participants": [
@@ -56,10 +56,10 @@
         "scheduled_timestamp": 1715832000,
         "season_id": "9517",
         "season_number": "2",
-        "serial": 1715739671273,
+        "serial": 1715798458866,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1795,
         "show_id": "14125635",
         "show_timestamp": 1715832000,
         "status": "estimated",
@@ -229,7 +229,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1715835600,
-        "last_update": 1715743346033,
+        "last_update": 1715798459110,
         "live": false,
         "paid": "254883.008.02.851",
         "participants": [
@@ -262,10 +262,10 @@
         "scheduled_timestamp": 1715835600,
         "season_id": "7250",
         "season_number": "9",
-        "serial": 1715743345703,
+        "serial": 1715798458866,
         "series_id": "896639",
         "series_name": "Aqua Something You Know Whatever",
-        "show_duration": 900,
+        "show_duration": 899,
         "show_id": "14125637",
         "show_timestamp": 1715835600,
         "status": "estimated",
@@ -293,7 +293,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1715836500,
-        "last_update": 1715743346034,
+        "last_update": 1715798460094,
         "live": false,
         "paid": "254883.009.02.851",
         "participants": [
@@ -326,10 +326,10 @@
         "scheduled_timestamp": 1715836500,
         "season_id": "7250",
         "season_number": "9",
-        "serial": 1715743345703,
+        "serial": 1715798459850,
         "series_id": "896639",
         "series_name": "Aqua Something You Know Whatever",
-        "show_duration": 900,
+        "show_duration": 895,
         "show_id": "14125638",
         "show_timestamp": 1715836500,
         "status": "estimated",
@@ -437,7 +437,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1715839200,
-        "last_update": 1715747020582,
+        "last_update": 1715798460094,
         "live": false,
         "paid": "232841.014.02.851",
         "participants": [
@@ -485,10 +485,10 @@
         "scheduled_timestamp": 1715839200,
         "season_id": "25259",
         "season_number": "18",
-        "serial": 1715747020245,
+        "serial": 1715798459850,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "14125640",
         "show_timestamp": 1715839200,
         "status": "estimated",
@@ -515,7 +515,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1715841000,
-        "last_update": 1715747645486,
+        "last_update": 1715798460095,
         "live": false,
         "paid": "232841.015.05.851",
         "participants": [
@@ -563,10 +563,10 @@
         "scheduled_timestamp": 1715841000,
         "season_id": "25259",
         "season_number": "18",
-        "serial": 1715747645162,
+        "serial": 1715798459850,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1798,
         "show_id": "14125641",
         "show_timestamp": 1715841000,
         "status": "estimated",
@@ -3840,6 +3840,78 @@
         "summary": "The guys have to get Muscle Man married.",
         "title": "Dumped at the Altar",
         "title_id": "2043707",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229026_001_02_851",
+        "create_time": 1715798460095,
+        "episode_in_season": "1",
+        "episode_number": "S7:E01",
+        "external_id": "16494952",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1715891400,
+        "last_update": 1715798460095,
+        "live": false,
+        "paid": "229026.001.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1715891400,
+        "season_id": "9462",
+        "season_number": "7",
+        "serial": 1715798459850,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 900,
+        "show_id": "14125690",
+        "show_timestamp": 1715891400,
+        "status": "estimated",
+        "summary": "Benson is going to fire Mordecai if Rigby can't bring him back from a bizarre land of dudes also known as Dumptown USA.",
+        "title": "Dumptown USA",
+        "title_id": "2056503",
         "tv_rating": "TV-PG"
     }
 ]
