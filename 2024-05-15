@@ -231,7 +231,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1715749200,
-        "last_update": 1715655624828,
+        "last_update": 1715738481855,
         "live": false,
         "paid": "254883.006.02.851",
         "participants": [
@@ -264,10 +264,10 @@
         "scheduled_timestamp": 1715749200,
         "season_id": "7250",
         "season_number": "9",
-        "serial": 1715655624601,
+        "serial": 1715738481634,
         "series_id": "896639",
         "series_name": "Aqua Something You Know Whatever",
-        "show_duration": 900,
+        "show_duration": 898,
         "show_id": "14125568",
         "show_timestamp": 1715749200,
         "status": "estimated",
@@ -291,7 +291,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1715750100,
-        "last_update": 1715657592641,
+        "last_update": 1715738481855,
         "live": false,
         "paid": "254883.007.02.851",
         "participants": [
@@ -324,10 +324,10 @@
         "scheduled_timestamp": 1715750100,
         "season_id": "7250",
         "season_number": "9",
-        "serial": 1715657592266,
+        "serial": 1715738481634,
         "series_id": "896639",
         "series_name": "Aqua Something You Know Whatever",
-        "show_duration": 900,
+        "show_duration": 899,
         "show_id": "14125569",
         "show_timestamp": 1715750100,
         "status": "estimated",
@@ -435,7 +435,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1715752800,
-        "last_update": 1715659445472,
+        "last_update": 1715738481855,
         "live": false,
         "paid": "232834.001.03.851",
         "participants": [
@@ -483,10 +483,10 @@
         "scheduled_timestamp": 1715752800,
         "season_id": "9750",
         "season_number": "12",
-        "serial": 1715659445281,
+        "serial": 1715738481634,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "14125571",
         "show_timestamp": 1715752800,
         "status": "estimated",
@@ -4483,6 +4483,156 @@
         "summary": "Francine becomes an overnight sensation when a famous art dealer discovers her homemade pottery.",
         "title": "Productive Panic",
         "title_id": "2397214",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_016_02_851",
+        "create_time": 1715735996584,
+        "episode_in_season": "16",
+        "episode_number": "S18:E14",
+        "external_id": "16494895",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1715828400,
+        "last_update": 1715735996584,
+        "live": false,
+        "paid": "232841.016.02.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1715828400,
+        "season_id": "25259",
+        "season_number": "18",
+        "serial": 1715735996378,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14125633",
+        "show_timestamp": 1715828400,
+        "status": "estimated",
+        "summary": "Hayley searches for a runaway Steve so they can go to a Shaggy concert.",
+        "title": "Multiverse of American Dadness",
+        "title_id": "2397215",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251739_007_03_851",
+        "create_time": 1715738012404,
+        "episode_in_season": "7",
+        "episode_number": "S2:E07",
+        "external_id": "16494896",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1715830200,
+        "last_update": 1715738012404,
+        "live": false,
+        "paid": "251739.007.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1715830200,
+        "season_id": "9517",
+        "season_number": "2",
+        "serial": 1715738012169,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14125634",
+        "show_timestamp": 1715830200,
+        "status": "estimated",
+        "summary": "Rick don joins in on some hijinks in this one broh. Beth and Jerry sort out their relationship too broh.",
+        "title": "Big Trouble in Little Sanchez",
+        "title_id": "2060770",
         "tv_rating": "TV-14"
     }
 ]
