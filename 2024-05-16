@@ -815,5 +815,89 @@
         "title": "Sports",
         "title_id": "2032789",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229872_002_02_851",
+        "create_time": 1715754934422,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16494908",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Superjail!",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Crime"
+        ],
+        "guide_timestamp": 1715848200,
+        "last_update": 1715754934422,
+        "live": false,
+        "paid": "229872.002.02.851",
+        "participants": [
+            {
+                "character": "The Warden",
+                "name": "David Wain",
+                "role": "Voice"
+            },
+            {
+                "character": "Jared",
+                "name": "Teddy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Alice",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            },
+            {
+                "character": "The Doctor",
+                "name": "Christopher McCulloch",
+                "role": "Voice"
+            },
+            {
+                "character": "The Twins",
+                "name": "Richard Mather",
+                "role": "Voice"
+            },
+            {
+                "character": "Lord Stingray",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Jean Baptiste Le Ghei",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            },
+            {
+                "character": "Fatty",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1715848200,
+        "season_id": "2007",
+        "season_number": "2",
+        "serial": 1715754934159,
+        "series_id": "666506",
+        "series_name": "Superjail!",
+        "show_duration": 901,
+        "show_id": "14125646",
+        "show_timestamp": 1715848200,
+        "status": "estimated",
+        "summary": "Jared isn't feeling himself after an accident makes him a freak, and the Warden a rich man in the fast-growing business of black market organ sales! But too much inventory can be a problem especially when it wants to take over SuperJail.",
+        "title": "Mayhem Donor",
+        "title_id": "835263",
+        "tv_rating": "TV-MA"
     }
 ]
