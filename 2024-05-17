@@ -1143,5 +1143,55 @@
         "title": "Synchronized Swimming",
         "title_id": "2003438",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169768_004_02_851",
+        "create_time": 1715845411526,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "16495020",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1715938200,
+        "last_update": 1715845411526,
+        "live": false,
+        "paid": "169768.004.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1715938200,
+        "season_id": "7296",
+        "season_number": "2",
+        "serial": 1715845411244,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14125722",
+        "show_timestamp": 1715938200,
+        "status": "estimated",
+        "summary": "Bob becomes obsessed with an old-school burger-flipping video game after Jimmy Pesto gets the high score and writes \"BOB SUX\" on the leader board.",
+        "title": "Burgerboss",
+        "title_id": "2003439",
+        "tv_rating": "TV-14"
     }
 ]
