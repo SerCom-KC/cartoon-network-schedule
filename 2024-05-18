@@ -505,5 +505,124 @@
         "title": "A Nice Night for a Drive",
         "title_id": "2069541",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232834_011_04_851",
+        "create_time": 1715926006403,
+        "episode_in_season": "11",
+        "episode_number": "S12:E11",
+        "external_id": "16494332",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716017400,
+        "last_update": 1715926006403,
+        "live": false,
+        "paid": "232834.011.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1716017400,
+        "season_id": "9750",
+        "season_number": "12",
+        "serial": 1715926006125,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "14125784",
+        "show_timestamp": 1716017400,
+        "status": "estimated",
+        "summary": "Francine steals from the CIA and pretends to be a sexy supervillain to incite Stan to be more seductive. Roger tricks Hayley and Steve into trapping Jay Leno so he can take revenge on him.",
+        "title": "Casino Normale",
+        "title_id": "2069542",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233055_004_01_851",
+        "create_time": 1715926006911,
+        "episode_in_season": "4",
+        "episode_number": "S5:E04",
+        "external_id": "16494333",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1716019200,
+        "last_update": 1715926006911,
+        "live": false,
+        "paid": "233055.004.01.851",
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1716019200,
+        "season_id": "7292",
+        "season_number": "5",
+        "serial": 1715926006719,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1807,
+        "show_id": "14125785",
+        "show_timestamp": 1716019200,
+        "status": "estimated",
+        "summary": "Zoidberg is sentenced to death for eating a flag at a celebration in Washington, D.C.",
+        "title": "A Taste of Freedom",
+        "title_id": "442426",
+        "tv_rating": "TV-14"
     }
 ]
