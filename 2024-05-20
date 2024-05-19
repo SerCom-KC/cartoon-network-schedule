@@ -4511,5 +4511,56 @@
         "title": "Lindapendent Woman",
         "title_id": "2003525",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169771_016_03_851",
+        "create_time": 1716161580241,
+        "episode_in_season": "16",
+        "episode_number": "S3:E16",
+        "external_id": "16493791",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1716255000,
+        "last_update": 1716161580241,
+        "live": false,
+        "paid": "169771.016.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1716255000,
+        "season_id": "7298",
+        "season_number": "3",
+        "serial": 1716161579977,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14124311",
+        "show_timestamp": 1716255000,
+        "status": "estimated",
+        "summary": "Topsy: Sparks fly when Louise is determined to take down her Thomas Edison-obsessed science teacher by recreating a famous experiment where Thomas Edison (played by Gene) electrocutes an elephant named Topsy (played by Tina).",
+        "title": "Topsy",
+        "title_id": "2003527",
+        "tv_rating": "TV-PG"
     }
 ]
