@@ -4562,5 +4562,135 @@
         "title": "Topsy",
         "title_id": "2003527",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169771_017_03_851",
+        "create_time": 1716163915133,
+        "episode_in_season": "17",
+        "episode_number": "S3:E17",
+        "external_id": "16493792",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1716256800,
+        "last_update": 1716163915133,
+        "live": false,
+        "paid": "169771.017.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1716256800,
+        "season_id": "7298",
+        "season_number": "3",
+        "serial": 1716163914927,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14124312",
+        "show_timestamp": 1716256800,
+        "status": "estimated",
+        "summary": "Two For Tina: Jimmy Jr. is threatened when Tina starts dating a ballet dancer named Josh, and the two boys get into an epic dance-off for her heart.",
+        "title": "Two for Tina",
+        "title_id": "2003528",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232834_018_04_851",
+        "create_time": 1716166426937,
+        "episode_in_season": "18",
+        "episode_number": "S12:E18",
+        "external_id": "16493793",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716258600,
+        "last_update": 1716166426937,
+        "live": false,
+        "paid": "232834.018.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1716258600,
+        "season_id": "9750",
+        "season_number": "12",
+        "serial": 1716166426646,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "14124313",
+        "show_timestamp": 1716258600,
+        "status": "estimated",
+        "summary": "While having trouble communicating, Stan and Hayley team up to stop a terrorist plot to blow up the Bazooka Sharks arena. Roger pretends to be an escort.",
+        "title": "The Long Bomb",
+        "title_id": "2069549",
+        "tv_rating": "TV-14"
     }
 ]
