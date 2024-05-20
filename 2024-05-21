@@ -213,5 +213,122 @@
         "title": "Tracker",
         "title_id": "2424752",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "251835_002_02_851",
+        "create_time": 1716174984911,
+        "episode_in_season": "2",
+        "episode_number": "S10:E02",
+        "external_id": "16493798",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716267600,
+        "last_update": 1716174984911,
+        "live": false,
+        "paid": "251835.002.02.851",
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 908,
+        "scheduled_timestamp": 1716267600,
+        "season_id": "15554",
+        "season_number": "10",
+        "serial": 1716174984263,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 908,
+        "show_id": "14124318",
+        "show_timestamp": 1716267600,
+        "status": "estimated",
+        "summary": "Shake enlists Carl's help in training for the title of 'Coolest Dude Ever.'",
+        "title": "The Dudies",
+        "title_id": "2005988",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L"
+        ],
+        "content_id": "251835_003_02_851",
+        "create_time": 1716174984912,
+        "episode_in_season": "3",
+        "episode_number": "S10:E03",
+        "external_id": "16493799",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716268500,
+        "last_update": 1716174984912,
+        "live": false,
+        "paid": "251835.003.02.851",
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1716268500,
+        "season_id": "15554",
+        "season_number": "10",
+        "serial": 1716174984263,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 900,
+        "show_id": "14124319",
+        "show_timestamp": 1716268500,
+        "status": "estimated",
+        "summary": "Master Shake's crippling addiction to shellfish leads to a long-overdue intervention.",
+        "title": "Merlo Sauvignon Blanco",
+        "title_id": "2005990",
+        "tv_rating": "TV-14"
     }
 ]
