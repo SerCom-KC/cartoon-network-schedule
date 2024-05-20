@@ -17,7 +17,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1716177600,
-        "last_update": 1716084332630,
+        "last_update": 1716170518126,
         "live": false,
         "paid": "250996.003.03.851",
         "participants": [
@@ -50,12 +50,12 @@
         "scheduled_timestamp": 1716177600,
         "season_id": "27328",
         "season_number": "2",
-        "serial": 1716084332324,
+        "serial": 1716170517905,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
         "show_duration": 970,
         "show_id": "14410932",
-        "show_timestamp": 1716177600,
+        "show_timestamp": 1716177601,
         "status": "estimated",
         "summary": "Allan is tasked with finding more paper clips for the office. *Spits on you*",
         "title": "A Allan Adventure",
@@ -4691,6 +4691,155 @@
         "summary": "While having trouble communicating, Stan and Hayley team up to stop a terrorist plot to blow up the Bazooka Sharks arena. Roger pretends to be an escort.",
         "title": "The Long Bomb",
         "title_id": "2069549",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232834_020_04_851",
+        "create_time": 1716167660365,
+        "episode_in_season": "20",
+        "episode_number": "S12:E20",
+        "external_id": "16493794",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716260400,
+        "last_update": 1716167660365,
+        "live": false,
+        "paid": "232834.020.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1716260400,
+        "season_id": "9750",
+        "season_number": "12",
+        "serial": 1716167660151,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14124314",
+        "show_timestamp": 1716260400,
+        "status": "estimated",
+        "summary": "Stan and Steve open up their own father-son garbage business after Stan inherits his father's old truck. Roger finds Hayley is a natural at bumper pool and brings her to play with the best player in town.",
+        "title": "Garbage Stan",
+        "title_id": "2069551",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251792_003_03_851",
+        "create_time": 1716170100279,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "16493795",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1716262200,
+        "last_update": 1716170100279,
+        "live": false,
+        "paid": "251792.003.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1716262200,
+        "season_id": "10773",
+        "season_number": "3",
+        "serial": 1716170099788,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1807,
+        "show_id": "14124315",
+        "show_timestamp": 1716262200,
+        "status": "estimated",
+        "summary": "It's family therapy time in this one broh. Classic stuff. Pickle Rick too.",
+        "title": "Pickle Rick",
+        "title_id": "2116832",
         "tv_rating": "TV-14"
     }
 ]
