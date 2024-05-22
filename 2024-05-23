@@ -767,5 +767,140 @@
         "title": "Shapes",
         "title_id": "2087831",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229709_002_02_851",
+        "create_time": 1716359307099,
+        "episode_in_season": "2",
+        "episode_number": "S6:E02",
+        "external_id": "16495309",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1716452100,
+        "last_update": 1716359307099,
+        "live": false,
+        "paid": "229709.002.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1716452100,
+        "season_id": "10187",
+        "season_number": "6",
+        "serial": 1716359306864,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 900,
+        "show_id": "14126031",
+        "show_timestamp": 1716452100,
+        "status": "estimated",
+        "summary": "No Clowns were harmed in the making of this video.",
+        "title": "Clowns",
+        "title_id": "2087832",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "252029_010_01_851",
+        "create_time": 1716359481917,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "16495310",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Superjail!",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Crime"
+        ],
+        "guide_timestamp": 1716453000,
+        "last_update": 1716359481917,
+        "live": false,
+        "paid": "252029.010.01.851",
+        "participants": [
+            {
+                "character": "The Warden",
+                "name": "David Wain",
+                "role": "Voice"
+            },
+            {
+                "character": "Jared",
+                "name": "Teddy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Alice",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            },
+            {
+                "character": "The Doctor",
+                "name": "Christopher McCulloch",
+                "role": "Voice"
+            },
+            {
+                "character": "The Twins",
+                "name": "Richard Mather",
+                "role": "Voice"
+            },
+            {
+                "character": "Lord Stingray",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Jean Baptiste Le Ghei",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            },
+            {
+                "character": "Fatty",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1716453000,
+        "season_id": "2007",
+        "season_number": "2",
+        "serial": 1716359481664,
+        "series_id": "666506",
+        "series_name": "Superjail!",
+        "show_duration": 901,
+        "show_id": "14126032",
+        "show_timestamp": 1716453000,
+        "status": "estimated",
+        "summary": "The Warden takes the staff and inmates on a fantastical pleasure cruise aboard his flying ship.",
+        "title": "Vacation",
+        "title_id": "840324",
+        "tv_rating": "TV-MA"
     }
 ]
