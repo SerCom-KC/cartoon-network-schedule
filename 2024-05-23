@@ -902,5 +902,139 @@
         "title": "Vacation",
         "title_id": "840324",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "252030_001_01_851",
+        "create_time": 1716361705383,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "16495311",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Superjail!",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Crime"
+        ],
+        "guide_timestamp": 1716453900,
+        "last_update": 1716361705383,
+        "live": false,
+        "paid": "252030.001.01.851",
+        "participants": [
+            {
+                "character": "The Warden",
+                "name": "David Wain",
+                "role": "Voice"
+            },
+            {
+                "character": "Jared",
+                "name": "Teddy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Alice",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            },
+            {
+                "character": "The Doctor",
+                "name": "Christopher McCulloch",
+                "role": "Voice"
+            },
+            {
+                "character": "The Twins",
+                "name": "Richard Mather",
+                "role": "Voice"
+            },
+            {
+                "character": "Lord Stingray",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Jean Baptiste Le Ghei",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            },
+            {
+                "character": "Fatty",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1716453900,
+        "season_id": "2008",
+        "season_number": "3",
+        "serial": 1716361705107,
+        "series_id": "666506",
+        "series_name": "Superjail!",
+        "show_duration": 900,
+        "show_id": "14126033",
+        "show_timestamp": 1716453900,
+        "status": "estimated",
+        "summary": "The Warden must rise to the occasion to take back Superjail.",
+        "title": "Stingstress",
+        "title_id": "966783",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169771_021_03_851",
+        "create_time": 1716361705418,
+        "episode_in_season": "21",
+        "episode_number": "S3:E21",
+        "external_id": "16495312",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1716454800,
+        "last_update": 1716361705418,
+        "live": false,
+        "paid": "169771.021.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1716454800,
+        "season_id": "7298",
+        "season_number": "3",
+        "serial": 1716361705107,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1804,
+        "show_id": "14126034",
+        "show_timestamp": 1716454800,
+        "status": "estimated",
+        "summary": "Boyz 4 Now: While accompanying Tina to a  concert, Louise develops a crush on one of the lead singers, Boo Boo - and is in disbelief that she actually likes a boy!",
+        "summary_long": "While accompanying Tina to a \"Boyz 4 Now\" concert, Louise develops a crush on one of the lead singers, Boo Boo - and is in disbelief that she actually likes a boy! Meanwhile, Gene gets creative - and slightly offensive - in a table-setting competition.",
+        "title": "Boyz 4 Now",
+        "title_id": "2003532",
+        "tv_rating": "TV-14"
     }
 ]
