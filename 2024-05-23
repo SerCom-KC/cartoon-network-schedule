@@ -215,5 +215,123 @@
         "title": "Pilot",
         "title_id": "2388926",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "251835_006_02_851",
+        "create_time": 1716347009967,
+        "episode_in_season": "6",
+        "episode_number": "S10:E06",
+        "external_id": "16495301",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716440400,
+        "last_update": 1716347009967,
+        "live": false,
+        "paid": "251835.006.02.851",
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1716440400,
+        "season_id": "15554",
+        "season_number": "10",
+        "serial": 1716347009594,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 900,
+        "show_id": "14126023",
+        "show_timestamp": 1716440400,
+        "status": "estimated",
+        "summary": "Master Shake joins a hippie drum circle, and his new bongos harbor a dark secret.",
+        "title": "Skins",
+        "title_id": "2005993",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "251835_007_02_851",
+        "create_time": 1716348068118,
+        "episode_in_season": "7",
+        "episode_number": "S10:E07",
+        "external_id": "16495302",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716441300,
+        "last_update": 1716348068118,
+        "live": false,
+        "paid": "251835.007.02.851",
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1716441300,
+        "season_id": "15554",
+        "season_number": "10",
+        "serial": 1716348067870,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 902,
+        "show_id": "14126024",
+        "show_timestamp": 1716441300,
+        "status": "estimated",
+        "summary": "Master Shake finds love in a woman so perfect, it seems as if she were made for him.",
+        "title": "Freda",
+        "title_id": "2005995",
+        "tv_rating": "TV-14"
     }
 ]
