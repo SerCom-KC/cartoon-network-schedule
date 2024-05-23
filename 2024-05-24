@@ -1096,5 +1096,106 @@
         "title": "Uh-Oh, It's Magic",
         "title_id": "966785",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169796_001_03_851",
+        "create_time": 1716449425914,
+        "episode_in_season": "1",
+        "episode_number": "S4:E01",
+        "external_id": "16495253",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1716541200,
+        "last_update": 1716449425914,
+        "live": false,
+        "paid": "169796.001.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1716541200,
+        "season_id": "8898",
+        "season_number": "4",
+        "serial": 1716449425683,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14126107",
+        "show_timestamp": 1716541200,
+        "status": "estimated",
+        "summary": "Bob, Linda and the kids go on a camping adventure and face the perils of nature... and Bob's intestines. Braving wild river rapids, eager squirrels and parent/child separation, the Belchers prove they are worth their mettle.",
+        "title": "A River Runs Through Bob",
+        "title_id": "2030303",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169796_003_03_851",
+        "create_time": 1716449425915,
+        "episode_in_season": "3",
+        "episode_number": "S4:E03",
+        "external_id": "16495254",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1716543000,
+        "last_update": 1716449425915,
+        "live": false,
+        "paid": "169796.003.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1716543000,
+        "season_id": "8898",
+        "season_number": "4",
+        "serial": 1716449425683,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1804,
+        "show_id": "14126108",
+        "show_timestamp": 1716543000,
+        "status": "estimated",
+        "summary": "Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of \"Upskirt Kurt,\" the most charming pilot in the air.",
+        "title": "Seaplane!",
+        "title_id": "2030306",
+        "tv_rating": "TV-14"
     }
 ]
