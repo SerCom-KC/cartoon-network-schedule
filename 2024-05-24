@@ -4574,5 +4574,85 @@
         "title": "Slumber Party",
         "title_id": "2030649",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232845_010_04_851",
+        "create_time": 1716507435398,
+        "episode_in_season": "10",
+        "episode_number": "S13:E10",
+        "external_id": "16495191",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716600600,
+        "last_update": 1716507435398,
+        "live": false,
+        "paid": "232845.010.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1716600600,
+        "season_id": "9751",
+        "season_number": "13",
+        "serial": 1716507435189,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "14126160",
+        "show_timestamp": 1716600600,
+        "status": "estimated",
+        "summary": "Stan gets in over his head when he runs for mayor.",
+        "title": "Railroaded",
+        "title_id": "2069563",
+        "tv_rating": "TV-14"
     }
 ]
