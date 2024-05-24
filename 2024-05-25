@@ -2975,5 +2975,85 @@
         "title": "Mazel Tina",
         "title_id": "2030314",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232845_014_04_851",
+        "create_time": 1716591993847,
+        "episode_in_season": "14",
+        "episode_number": "S13:E14",
+        "external_id": "16495949",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716685200,
+        "last_update": 1716591993847,
+        "live": false,
+        "paid": "232845.014.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1716685200,
+        "season_id": "9751",
+        "season_number": "13",
+        "serial": 1716591993556,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14126214",
+        "show_timestamp": 1716685200,
+        "status": "estimated",
+        "summary": "After her family accuses her of being a quitter, Francine becomes a bodybuilder. Klaus claims to have invented the high five.",
+        "title": "One-Woman Swole",
+        "title_id": "2069567",
+        "tv_rating": "TV-14"
     }
 ]
