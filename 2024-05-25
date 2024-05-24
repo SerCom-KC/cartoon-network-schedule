@@ -492,5 +492,116 @@
         "title": "Aisle 8A",
         "title_id": "731285",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233075_008_02_851",
+        "create_time": 1716537762870,
+        "episode_in_season": "8",
+        "episode_number": "S4:E08",
+        "external_id": "16495911",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1716629400,
+        "last_update": 1716537762870,
+        "live": false,
+        "paid": "233075.008.02.851",
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1716629400,
+        "season_id": "1537",
+        "season_number": "4",
+        "serial": 1716537762508,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "14126176",
+        "show_timestamp": 1716629400,
+        "status": "estimated",
+        "summary": "Not in My Back Hoe: Hank strikes up a friendship with a man just like himself, straining his relationship with Dale, Bill and Boomhauer; Cotton puts up his own child as collateral so he can test drive a new car.",
+        "title": "Not in My Back Hoe",
+        "title_id": "731288",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229021_011_04_851",
+        "create_time": 1716537762871,
+        "episode_in_season": "11",
+        "episode_number": "S4:E11",
+        "external_id": "16495912",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1716631200,
+        "last_update": 1716537762871,
+        "live": false,
+        "paid": "229021.011.04.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1716631200,
+        "season_id": "5556",
+        "season_number": "4",
+        "serial": 1716537762508,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 900,
+        "show_id": "14126177",
+        "show_timestamp": 1716631200,
+        "status": "estimated",
+        "summary": "Mordecai, Rigby and Eileen want to celebrate Margaret's new internship before she has to quit the coffee shop.",
+        "title": "T.G.I. Tuesday",
+        "title_id": "962462",
+        "tv_rating": "TV-PG"
     }
 ]
