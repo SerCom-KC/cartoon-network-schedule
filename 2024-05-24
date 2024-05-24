@@ -4892,5 +4892,76 @@
         "title": "Mean Francine",
         "title_id": "2069566",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251792_010_03_851",
+        "create_time": 1716514303013,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "16507987",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1716607800,
+        "last_update": 1716514303013,
+        "live": false,
+        "paid": "251792.010.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1716607800,
+        "season_id": "10773",
+        "season_number": "3",
+        "serial": 1716514302776,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14126164",
+        "show_timestamp": 1716607800,
+        "status": "estimated",
+        "summary": "Rick goes toe to toe with the President in this one broh.",
+        "title": "The Rickchurian Mortydate",
+        "title_id": "2116839",
+        "tv_rating": "TV-14"
     }
 ]
