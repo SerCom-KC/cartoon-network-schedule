@@ -91,7 +91,7 @@
             "Animation"
         ],
         "guide_timestamp": 1716616800,
-        "last_update": 1716523729356,
+        "last_update": 1716597584185,
         "live": false,
         "paid": "251792.010.03.851",
         "participants": [
@@ -129,10 +129,10 @@
         "scheduled_timestamp": 1716616800,
         "season_id": "10773",
         "season_number": "3",
-        "serial": 1716523729100,
+        "serial": 1716597583950,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1790,
         "show_id": "14126169",
         "show_timestamp": 1716616800,
         "status": "estimated",
@@ -162,7 +162,7 @@
             "Animation"
         ],
         "guide_timestamp": 1716618600,
-        "last_update": 1716527403856,
+        "last_update": 1716597584185,
         "live": false,
         "paid": "251793.001.03.851",
         "participants": [
@@ -200,10 +200,10 @@
         "scheduled_timestamp": 1716618600,
         "season_id": "15308",
         "season_number": "4",
-        "serial": 1716527403580,
+        "serial": 1716597583950,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1797,
         "show_id": "14126170",
         "show_timestamp": 1716618600,
         "status": "estimated",
@@ -232,7 +232,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1716620400,
-        "last_update": 1716527403857,
+        "last_update": 1716597584185,
         "live": false,
         "paid": "232845.010.04.851",
         "participants": [
@@ -280,10 +280,10 @@
         "scheduled_timestamp": 1716620400,
         "season_id": "9751",
         "season_number": "13",
-        "serial": 1716527403580,
+        "serial": 1716597583950,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "14126171",
         "show_timestamp": 1716620400,
         "status": "estimated",
@@ -509,7 +509,7 @@
             "Drama"
         ],
         "guide_timestamp": 1716629400,
-        "last_update": 1716537762870,
+        "last_update": 1716597584681,
         "live": false,
         "paid": "233075.008.02.851",
         "premiere": false,
@@ -520,10 +520,10 @@
         "scheduled_timestamp": 1716629400,
         "season_id": "1537",
         "season_number": "4",
-        "serial": 1716537762508,
+        "serial": 1716597584512,
         "series_id": "629835",
         "series_name": "King of the Hill",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "14126176",
         "show_timestamp": 1716629400,
         "status": "estimated",
@@ -3133,6 +3133,165 @@
         "summary": "Jeff starts hanging out with Stan's favorite celebrity chef while in search of an identity. Klaus and Roger start their own valet operation.",
         "title": "Flavortown",
         "title_id": "2069568",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232845_016_03_851",
+        "create_time": 1716595738949,
+        "episode_in_season": "16",
+        "episode_number": "S13:E16",
+        "external_id": "16495951",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716688800,
+        "last_update": 1716595738949,
+        "live": false,
+        "paid": "232845.016.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1716688800,
+        "season_id": "9751",
+        "season_number": "13",
+        "serial": 1716595738727,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1807,
+        "show_id": "14126216",
+        "show_timestamp": 1716688800,
+        "status": "estimated",
+        "summary": "In the show's 250th episode, Stan has to take over Roger's different personas after a tumor takes him out of commission. Principal Lewis pressures Steve and the school choir to do whatever it takes to win.",
+        "title": "Persona Assistant",
+        "title_id": "2069569",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232845_017_03_851",
+        "create_time": 1716597584682,
+        "episode_in_season": "17",
+        "episode_number": "S13:E17",
+        "external_id": "16495952",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716690600,
+        "last_update": 1716597584682,
+        "live": false,
+        "paid": "232845.017.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1716690600,
+        "season_id": "9751",
+        "season_number": "13",
+        "serial": 1716597584512,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "14126217",
+        "show_timestamp": 1716690600,
+        "status": "estimated",
+        "summary": "Steve gets competitive during the father-son events at Possum Lake. Roger learns how to ride a bike.",
+        "title": "The Legend of Old Ulysses",
+        "title_id": "2069570",
         "tv_rating": "TV-14"
     }
 ]
