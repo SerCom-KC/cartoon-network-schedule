@@ -2303,5 +2303,148 @@
         "title": "Caveman",
         "title_id": "977577",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229021_019_02_851",
+        "create_time": 1716663717035,
+        "episode_in_season": "19",
+        "episode_number": "S4:E19",
+        "external_id": "16495786",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1716756300,
+        "last_update": 1716663717035,
+        "live": false,
+        "paid": "229021.019.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1716756300,
+        "season_id": "5556",
+        "season_number": "4",
+        "serial": 1716663716671,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 900,
+        "show_id": "14126255",
+        "show_timestamp": 1716756300,
+        "status": "estimated",
+        "summary": "Mordecai and Rigby want to help their favorite 80's sitcom star escape to the mountains.",
+        "title": "That's My Television",
+        "title_id": "977578",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "233656_000_03_851",
+        "create_time": 1716663717067,
+        "external_id": "16524050",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Buffy the Vampire Slayer",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1716757200,
+        "last_update": 1716663717067,
+        "live": false,
+        "paid": "233656.000.03.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Kristy Swanson",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Donald Sutherland",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Luke Perry",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Rutger Hauer",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "David Arquette",
+                "role": "Actor"
+            },
+            {
+                "character": null,
+                "name": "Paul Reubens",
+                "role": "Actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1992,
+        "runtime_minutes": 86,
+        "scheduled_duration": 7207,
+        "scheduled_timestamp": 1716757200,
+        "serial": 1716663716671,
+        "series_id": "95040",
+        "series_name": "Buffy the Vampire Slayer",
+        "show_duration": 7207,
+        "show_id": "14321333",
+        "show_timestamp": 1716757200,
+        "status": "estimated",
+        "summary": "Story about a very hip vampire who leaves Romania for the consumerism of America, and Buffy, \"cheerleader by day, vampire slayer by night.\"",
+        "title": "Buffy the Vampire Slayer",
+        "title_id": "18603",
+        "tv_rating": "TV-14"
     }
 ]
