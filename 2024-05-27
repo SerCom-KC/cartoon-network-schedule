@@ -3759,5 +3759,98 @@
         "title": "OWW",
         "title_id": "2223222",
         "tv_rating": "TV-Y7"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "168747_000_05_851",
+        "create_time": 1716744735238,
+        "episode_in_season": "0",
+        "external_id": "16496037",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Lego Movie, The",
+        "genres": [
+            "Adaptation",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1716836400,
+        "last_update": 1716744735238,
+        "live": false,
+        "paid": "168747.000.05.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Phil Lord",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Chris Miller",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Phil Lord",
+                "role": "Screenplay"
+            },
+            {
+                "character": null,
+                "name": "Chris Miller",
+                "role": "Screenplay"
+            },
+            {
+                "character": "Batman",
+                "name": "Will Arnett",
+                "role": "Voice"
+            },
+            {
+                "character": "Wyldstyle",
+                "name": "Elizabeth Banks",
+                "role": "Voice"
+            },
+            {
+                "character": "Vitruvius",
+                "name": "Morgan Freeman",
+                "role": "Voice"
+            },
+            {
+                "character": "Emmet Brickowski",
+                "name": "Chris Pratt",
+                "role": "Voice"
+            },
+            {
+                "character": "Unikitty",
+                "name": "Alison Brie",
+                "role": "Voice"
+            },
+            {
+                "character": "Lord Business",
+                "name": "Will Ferrell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 101,
+        "scheduled_duration": 7200,
+        "scheduled_timestamp": 1716836400,
+        "season_number": "1",
+        "serial": 1716744734916,
+        "series_id": "76860",
+        "series_name": "The Lego Movie (2014)",
+        "show_duration": 7200,
+        "show_id": "14131024",
+        "show_timestamp": 1716836400,
+        "status": "estimated",
+        "summary": "Emmet is an ordinary, perfectly average LEGO minifigure who is mistakenly identified as the most extraordinary person and the key to saving the world. He is drafted into a fellowship of strangers on an epic quest to stop an evil tyrant.",
+        "summary_long": "Emmet is an ordinary, rules-following, perfectly average LEGO minifigure who is mistakenly identified as the most extraordinary person and the key to saving the world. He is drafted into a fellowship of strangers on an epic quest to stop an evil tyrant, a journey for which Emmet is hopelessly under-prepared.",
+        "title": "The Lego Movie",
+        "title_id": "896652",
+        "tv_rating": "TV-PG"
     }
 ]
