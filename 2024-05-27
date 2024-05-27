@@ -4378,5 +4378,135 @@
         "title": "Wharf Horse",
         "title_id": "2030322",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169796_022_03_851",
+        "create_time": 1716768647177,
+        "episode_in_season": "22",
+        "episode_number": "S4:E22",
+        "external_id": "16495726",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1716861600,
+        "last_update": 1716768647177,
+        "live": false,
+        "paid": "169796.022.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1716861600,
+        "season_id": "8898",
+        "season_number": "4",
+        "serial": 1716768646940,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1801,
+        "show_id": "14126327",
+        "show_timestamp": 1716861600,
+        "status": "estimated",
+        "summary": "It's Linda and the kids to the rescue when Felix takes desperate measures, and puts Bob and Mr. Fischoeder in danger.",
+        "title": "World Wharf II: The Wharfening",
+        "title_id": "2030323",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232845_018_03_851",
+        "create_time": 1716770457159,
+        "episode_in_season": "18",
+        "episode_number": "S13:E18",
+        "external_id": "16495727",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716863400,
+        "last_update": 1716770457159,
+        "live": false,
+        "paid": "232845.018.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1716863400,
+        "season_id": "9751",
+        "season_number": "13",
+        "serial": 1716770456969,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14126328",
+        "show_timestamp": 1716863400,
+        "status": "estimated",
+        "summary": "Steve and Roger restart their career as a twin brother acting duo. The family becomes addicted to a novelty gift shop.",
+        "title": "Twinanigans",
+        "title_id": "2069571",
+        "tv_rating": "TV-14"
     }
 ]
