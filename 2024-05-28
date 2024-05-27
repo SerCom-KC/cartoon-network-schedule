@@ -214,5 +214,122 @@
         "title": "Factory 37",
         "title_id": "2388928",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "251835_010_02_851",
+        "create_time": 1716779221717,
+        "episode_in_season": "10",
+        "episode_number": "S10:E10",
+        "external_id": "16495732",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716872400,
+        "last_update": 1716779221717,
+        "live": false,
+        "paid": "251835.010.02.851",
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 905,
+        "scheduled_timestamp": 1716872400,
+        "season_id": "15554",
+        "season_number": "10",
+        "serial": 1716779221430,
+        "series_id": "2005986",
+        "series_name": "Aqua TV Show Show",
+        "show_duration": 905,
+        "show_id": "14126333",
+        "show_timestamp": 1716872400,
+        "status": "estimated",
+        "summary": "After awakening from months of hypersleep, the Plutonians are sent on a deadly mission by their new masters, the Mooninites.",
+        "title": "Spacecadeuce",
+        "title_id": "2005987",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "251836_001_02_851",
+        "create_time": 1716779886182,
+        "episode_in_season": "1",
+        "episode_number": "S11:E01",
+        "external_id": "16495733",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua Teen Hunger Force Forever",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1716873300,
+        "last_update": 1716779886182,
+        "live": false,
+        "paid": "251836.001.02.851",
+        "participants": [
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1716873300,
+        "season_id": "15555",
+        "season_number": "11",
+        "serial": 1716779885941,
+        "series_id": "2059880",
+        "series_name": "Aqua Teen Hunger Force Forever",
+        "show_duration": 900,
+        "show_id": "14126334",
+        "show_timestamp": 1716873300,
+        "status": "estimated",
+        "summary": "This very special episode of Aqua Teen is brought to you by Abraham Lincoln's Lunch Links. Now available in Tough n' Tenacious Teriyaki!",
+        "title": "Mouth Quest",
+        "title_id": "2059921",
+        "tv_rating": "TV-MA"
     }
 ]
