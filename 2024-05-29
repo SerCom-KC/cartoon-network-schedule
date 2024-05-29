@@ -21,7 +21,7 @@
             "Animation"
         ],
         "guide_timestamp": 1716955200,
-        "last_update": 1716862307680,
+        "last_update": 1716948062411,
         "live": false,
         "paid": "251793.005.04.851",
         "participants": [
@@ -59,12 +59,12 @@
         "scheduled_timestamp": 1716955200,
         "season_id": "15308",
         "season_number": "4",
-        "serial": 1716862307286,
+        "serial": 1716948062209,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1800,
         "show_id": "14126404",
-        "show_timestamp": 1716955200,
+        "show_timestamp": 1716955202,
         "status": "estimated",
         "summary": "Lots of things in space broh. Snakes and sharp stuff. Watch this broh.",
         "title": "Rattlestar Ricklactica",
@@ -92,7 +92,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1716957000,
-        "last_update": 1716865981581,
+        "last_update": 1716948062411,
         "live": false,
         "paid": "252750.004.01.851",
         "participants": [
@@ -205,12 +205,12 @@
         "scheduled_timestamp": 1716957000,
         "season_id": "25122",
         "season_number": "1",
-        "serial": 1716865981376,
+        "serial": 1716948062209,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
         "show_id": "14126405",
-        "show_timestamp": 1716957000,
+        "show_timestamp": 1716957001,
         "status": "estimated",
         "summary": "When Theo's old charismatic friend and former bandmate shows up unexpectedly at the Hornsby Manor, Stebe is thrown into a full-blown identity crisis.",
         "title": "Stebe",
@@ -431,7 +431,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1716962400,
-        "last_update": 1716869656379,
+        "last_update": 1716948062411,
         "live": false,
         "paid": "232845.022.04.851",
         "participants": [
@@ -479,10 +479,10 @@
         "scheduled_timestamp": 1716962400,
         "season_id": "9751",
         "season_number": "13",
-        "serial": 1716869656137,
+        "serial": 1716948062209,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "14126409",
         "show_timestamp": 1716962400,
         "status": "estimated",
@@ -4809,6 +4809,156 @@
         "summary": "Hayley tries to help Roger write a book.",
         "title": "The Professor and the Coach",
         "title_id": "2392752",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232841_002_02_851",
+        "create_time": 1716945332386,
+        "episode_in_season": "2",
+        "episode_number": "S18:E01",
+        "external_id": "16495694",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1717038000,
+        "last_update": 1716945332386,
+        "live": false,
+        "paid": "232841.002.02.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1717038000,
+        "season_id": "25259",
+        "season_number": "18",
+        "serial": 1716945332196,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1806,
+        "show_id": "14126475",
+        "show_timestamp": 1717038000,
+        "status": "estimated",
+        "summary": "A lunar misstep sends Roger on an unexpected detour to New Mexico.",
+        "title": "Fellow Traveler",
+        "title_id": "2392753",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251793_006_03_851",
+        "create_time": 1716947013070,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "16495695",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1717039800,
+        "last_update": 1716947013070,
+        "live": false,
+        "paid": "251793.006.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1717039800,
+        "season_id": "15308",
+        "season_number": "4",
+        "serial": 1716947012866,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14126476",
+        "show_timestamp": 1717039800,
+        "status": "estimated",
+        "summary": "Choo Choo, broh. Catch this train broh.",
+        "title": "Never Ricking Morty",
+        "title_id": "2206492",
         "tv_rating": "TV-14"
     }
 ]
