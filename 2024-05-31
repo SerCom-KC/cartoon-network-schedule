@@ -4446,5 +4446,85 @@
         "title": "The Runway Club",
         "title_id": "2065465",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232847_007_02_851",
+        "create_time": 1717111855196,
+        "episode_in_season": "7",
+        "episode_number": "S14:E07",
+        "external_id": "16495571",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1717205400,
+        "last_update": 1717111855196,
+        "live": false,
+        "paid": "232847.007.02.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1717205400,
+        "season_id": "12035",
+        "season_number": "14",
+        "serial": 1717111854938,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "14126612",
+        "show_timestamp": 1717205400,
+        "status": "estimated",
+        "summary": "Stan has Roger pretend to be a shark to help Steve overcome his fears. Hayley's friend Danuta becomes romantically interested in Klaus.",
+        "title": "Shark?!",
+        "title_id": "2186656",
+        "tv_rating": "TV-14"
     }
 ]
