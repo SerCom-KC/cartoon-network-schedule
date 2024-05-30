@@ -20,7 +20,7 @@
             "Animation"
         ],
         "guide_timestamp": 1717041600,
-        "last_update": 1716949081624,
+        "last_update": 1717034477159,
         "live": false,
         "paid": "251793.007.03.851",
         "participants": [
@@ -58,12 +58,12 @@
         "scheduled_timestamp": 1717041600,
         "season_id": "15308",
         "season_number": "4",
-        "serial": 1716949081177,
+        "serial": 1717034476889,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1804,
         "show_id": "14126477",
-        "show_timestamp": 1717041600,
+        "show_timestamp": 1717041602,
         "status": "estimated",
         "summary": "Get off my face broh.",
         "title": "Promortyus",
@@ -91,7 +91,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1717043400,
-        "last_update": 1716950687548,
+        "last_update": 1717034477159,
         "live": false,
         "paid": "252750.005.01.851",
         "participants": [
@@ -204,12 +204,12 @@
         "scheduled_timestamp": 1717043400,
         "season_id": "25122",
         "season_number": "1",
-        "serial": 1716950687109,
+        "serial": 1717034476889,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "show_duration": 1800,
         "show_id": "14126478",
-        "show_timestamp": 1717043400,
+        "show_timestamp": 1717043401,
         "status": "estimated",
         "summary": "Deb becomes the target of intense internet backlash after an altercation at the local grocery store earns her widespread infamy.",
         "title": "Business Mom",
@@ -432,7 +432,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1717048800,
-        "last_update": 1716956576236,
+        "last_update": 1717034477159,
         "live": false,
         "paid": "232841.022.02.851",
         "participants": [
@@ -480,10 +480,10 @@
         "scheduled_timestamp": 1717048800,
         "season_id": "25259",
         "season_number": "18",
-        "serial": 1716956576034,
+        "serial": 1717034476889,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1791,
         "show_id": "14126482",
         "show_timestamp": 1717048800,
         "status": "estimated",
@@ -4807,6 +4807,77 @@
         "summary": "Roger breaks up Steve's friendship with Snot, Barry & Toshi. Jeff realizes he has a flair for house flipping and gets Stan, Francine and Hayley involved.",
         "title": "Lost Boys",
         "title_id": "2186655",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251793_008_03_851",
+        "create_time": 1717034611740,
+        "episode_in_season": "8",
+        "episode_number": "S4:E08",
+        "external_id": "16495639",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1717126200,
+        "last_update": 1717034611740,
+        "live": false,
+        "paid": "251793.008.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1717126200,
+        "season_id": "15308",
+        "season_number": "4",
+        "serial": 1717034611539,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1805,
+        "show_id": "14126548",
+        "show_timestamp": 1717126200,
+        "status": "estimated",
+        "summary": "The one with the acid vat, broh.",
+        "title": "The Vat of Acid Episode",
+        "title_id": "2206493",
         "tv_rating": "TV-14"
     }
 ]
