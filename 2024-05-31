@@ -825,5 +825,109 @@
         "title": "A Allan Adventure",
         "title_id": "2424767",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229708_004_02_851",
+        "create_time": 1717049877884,
+        "episode_in_season": "4",
+        "episode_number": "S8:E04",
+        "external_id": "16495647",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1717142400,
+        "last_update": 1717049877884,
+        "live": false,
+        "paid": "229708.004.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 911,
+        "scheduled_timestamp": 1717142400,
+        "season_id": "12414",
+        "season_number": "8",
+        "serial": 1717049877669,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 911,
+        "show_id": "14126560",
+        "show_timestamp": 1717142400,
+        "status": "estimated",
+        "summary": "The ultimate bookend to humanity.",
+        "title": "Winter",
+        "title_id": "2165432",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229716_001_02_851",
+        "create_time": 1717049877915,
+        "episode_in_season": "1",
+        "episode_number": "S9:E01",
+        "external_id": "16495648",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1717143300,
+        "last_update": 1717049877915,
+        "live": false,
+        "paid": "229716.001.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 930,
+        "scheduled_timestamp": 1717143300,
+        "season_id": "15166",
+        "season_number": "9",
+        "serial": 1717049877669,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 930,
+        "show_id": "14126561",
+        "show_timestamp": 1717143300,
+        "status": "estimated",
+        "summary": "Got you covered.",
+        "title": "Fashion",
+        "title_id": "2199311",
+        "tv_rating": "TV-14"
     }
 ]
