@@ -727,5 +727,84 @@
         "title": "Shark?!",
         "title_id": "2186656",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232847_008_02_851",
+        "create_time": 1717134458152,
+        "episode_in_season": "8",
+        "episode_number": "S14:E08",
+        "external_id": "16495579",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1717227000,
+        "last_update": 1717134458152,
+        "live": false,
+        "paid": "232847.008.02.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1717227000,
+        "season_id": "12035",
+        "season_number": "14",
+        "serial": 1717134457843,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "14126628",
+        "show_timestamp": 1717227000,
+        "status": "estimated",
+        "summary": "Hayley and Jeff move into a van and start living life on the open road. Francine and Steve are haunted by a rideshare driver that they rated poorly.",
+        "title": "The Long March",
+        "title_id": "2186657",
+        "tv_rating": "TV-14"
     }
 ]
