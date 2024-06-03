@@ -764,5 +764,89 @@
         "title": "Fire",
         "title_id": "2199313",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229876_002_02_851",
+        "create_time": 1717396799750,
+        "episode_in_season": "2",
+        "episode_number": "S4:E02",
+        "external_id": "16516604",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Superjail!",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Crime"
+        ],
+        "guide_timestamp": 1717489800,
+        "last_update": 1717396799750,
+        "live": false,
+        "paid": "229876.002.02.851",
+        "participants": [
+            {
+                "character": "The Warden",
+                "name": "David Wain",
+                "role": "Voice"
+            },
+            {
+                "character": "Jared",
+                "name": "Teddy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Alice",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            },
+            {
+                "character": "The Doctor",
+                "name": "Christopher McCulloch",
+                "role": "Voice"
+            },
+            {
+                "character": "The Twins",
+                "name": "Richard Mather",
+                "role": "Voice"
+            },
+            {
+                "character": "Lord Stingray",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Jean Baptiste Le Ghei",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            },
+            {
+                "character": "Fatty",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1717489800,
+        "season_id": "7682",
+        "season_number": "4",
+        "serial": 1717396799476,
+        "series_id": "666506",
+        "series_name": "Superjail!",
+        "show_duration": 901,
+        "show_id": "14411020",
+        "show_timestamp": 1717489800,
+        "status": "estimated",
+        "summary": "The Warden bans smoking, which begins a deadly race for the last pack.",
+        "title": "The Last Pack",
+        "title_id": "2021780",
+        "tv_rating": "TV-MA"
     }
 ]
