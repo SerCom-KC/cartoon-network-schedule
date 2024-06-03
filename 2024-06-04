@@ -2096,5 +2096,110 @@
         "title": "Little Red Katzen Hood",
         "title_id": "2202047",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234423_018_01_851",
+        "create_time": 1717429014124,
+        "episode_in_season": "18",
+        "episode_number": "S5:E18",
+        "external_id": "16516626",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Show, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1717514400,
+        "last_update": 1717429014124,
+        "live": false,
+        "paid": "234423.018.01.851",
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 10,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1717514400,
+        "season_id": "14103",
+        "season_number": "5",
+        "serial": 1717429013952,
+        "series_id": "2011437",
+        "series_name": "The Tom and Jerry Show",
+        "show_duration": 600,
+        "show_id": "14411042",
+        "show_timestamp": 1717514400,
+        "status": "estimated",
+        "summary": "Meathead turns into a genius when he gulps down a bottle of specially formulated water.",
+        "title": "Professor Meathead",
+        "title_id": "2202048",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234509_004_02_851",
+        "create_time": 1717429014165,
+        "episode_in_season": "4",
+        "episode_number": "S1:EL04",
+        "external_id": "16516627",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1717515000,
+        "last_update": 1717429014165,
+        "live": false,
+        "paid": "234509.004.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Joseph Barbera",
+                "role": "Director"
+            },
+            {
+                "character": "Jerry Mouse",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Tom Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": "Meathead Cat",
+                "name": "Non-Speaking Role",
+                "role": "Animated Character"
+            },
+            {
+                "character": null,
+                "name": "William Hanna",
+                "role": "Director"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1941,
+        "runtime_minutes": 7,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1717515000,
+        "season_id": "240",
+        "season_number": "1",
+        "serial": 1717429013952,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "show_duration": 600,
+        "show_id": "14411043",
+        "show_timestamp": 1717515000,
+        "status": "estimated",
+        "summary": "Tom and another cat Meathead fight over Jerry.",
+        "title": "Sufferin' Cats",
+        "title_id": "312089",
+        "tv_rating": "TV-G"
     }
 ]
