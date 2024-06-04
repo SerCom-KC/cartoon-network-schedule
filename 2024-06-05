@@ -640,5 +640,128 @@
         "title": "Anatomy Park",
         "title_id": "2013511",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "251737_004_03_851",
+        "create_time": 1717481118711,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16516673",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1717572600,
+        "last_update": 1717481118711,
+        "live": false,
+        "paid": "251737.004.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1717572600,
+        "season_id": "7491",
+        "season_number": "1",
+        "serial": 1717481118436,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14411089",
+        "show_timestamp": 1717572600,
+        "status": "estimated",
+        "summary": "Rick and Morty try to get to the bottom of a mystery in this M. Night Shamyaloin style twistaroony of an episode!",
+        "title": "M. Night Shaym-Aliens!",
+        "title_id": "2013509",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229716_004_02_851",
+        "create_time": 1717481118741,
+        "episode_in_season": "4",
+        "episode_number": "S9:E04",
+        "external_id": "16516674",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Off the Air",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "guide_timestamp": 1717574400,
+        "last_update": 1717481118741,
+        "live": false,
+        "paid": "229716.004.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Creator"
+            },
+            {
+                "character": "Various",
+                "name": "Various",
+                "role": "Various"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1717574400,
+        "season_id": "15166",
+        "season_number": "9",
+        "serial": 1717481118436,
+        "series_id": "830073",
+        "series_name": "Off the Air",
+        "show_duration": 900,
+        "show_id": "14411090",
+        "show_timestamp": 1717574400,
+        "status": "estimated",
+        "summary": "Watch, rinse, repeat.",
+        "title": "Patterns",
+        "title_id": "2199314",
+        "tv_rating": "TV-PG"
     }
 ]
