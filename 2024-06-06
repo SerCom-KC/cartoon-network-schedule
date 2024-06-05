@@ -828,5 +828,89 @@
         "title": "Progress",
         "title_id": "2228724",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229876_006_02_851",
+        "create_time": 1717569672784,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "16516746",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Superjail!",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Crime"
+        ],
+        "guide_timestamp": 1717662600,
+        "last_update": 1717569672784,
+        "live": false,
+        "paid": "229876.006.02.851",
+        "participants": [
+            {
+                "character": "The Warden",
+                "name": "David Wain",
+                "role": "Voice"
+            },
+            {
+                "character": "Jared",
+                "name": "Teddy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Alice",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            },
+            {
+                "character": "The Doctor",
+                "name": "Christopher McCulloch",
+                "role": "Voice"
+            },
+            {
+                "character": "The Twins",
+                "name": "Richard Mather",
+                "role": "Voice"
+            },
+            {
+                "character": "Lord Stingray",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Jean Baptiste Le Ghei",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            },
+            {
+                "character": "Fatty",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1717662600,
+        "season_id": "7682",
+        "season_number": "4",
+        "serial": 1717569672571,
+        "series_id": "666506",
+        "series_name": "Superjail!",
+        "show_duration": 901,
+        "show_id": "14411165",
+        "show_timestamp": 1717662600,
+        "status": "estimated",
+        "summary": "Superjail's darkest secret leads to backwater neighbors who throw a killer hoedown.",
+        "title": "The Superjail Six",
+        "title_id": "2021784",
+        "tv_rating": "TV-MA"
     }
 ]
