@@ -424,5 +424,84 @@
         "title": "Viced Principal",
         "title_id": "2392754",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232841_004_02_851",
+        "create_time": 1717560511635,
+        "episode_in_season": "4",
+        "episode_number": "S18:E04",
+        "external_id": "16516740",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1717653600,
+        "last_update": 1717560511635,
+        "live": false,
+        "paid": "232841.004.02.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1717653600,
+        "season_id": "25259",
+        "season_number": "18",
+        "serial": 1717560511373,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1804,
+        "show_id": "14411159",
+        "show_timestamp": 1717653600,
+        "status": "estimated",
+        "summary": "Klaus and Jeff's friendship is threatened by Klaus's girlfriend from another realm.",
+        "title": "The Pleasanting at Smith House",
+        "title_id": "2392755",
+        "tv_rating": "TV-14"
     }
 ]
