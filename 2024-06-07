@@ -945,5 +945,89 @@
         "title": "Moon",
         "title_id": "2321722",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229893_002_02_851",
+        "create_time": 1717655672517,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16516290",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Superjail!",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Crime"
+        ],
+        "guide_timestamp": 1717749000,
+        "last_update": 1717655672517,
+        "live": false,
+        "paid": "229893.002.02.851",
+        "participants": [
+            {
+                "character": "The Warden",
+                "name": "David Wain",
+                "role": "Voice"
+            },
+            {
+                "character": "Jared",
+                "name": "Teddy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Alice",
+                "name": "Christy Karacas",
+                "role": "Voice"
+            },
+            {
+                "character": "The Doctor",
+                "name": "Christopher McCulloch",
+                "role": "Voice"
+            },
+            {
+                "character": "The Twins",
+                "name": "Richard Mather",
+                "role": "Voice"
+            },
+            {
+                "character": "Lord Stingray",
+                "name": "Eric Bauza",
+                "role": "Voice"
+            },
+            {
+                "character": "Jean Baptiste Le Ghei",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            },
+            {
+                "character": "Fatty",
+                "name": "Stephen Warbrick",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1717749000,
+        "season_id": "2006",
+        "season_number": "1",
+        "serial": 1717655672279,
+        "series_id": "666506",
+        "series_name": "Superjail!",
+        "show_duration": 900,
+        "show_id": "14411237",
+        "show_timestamp": 1717749000,
+        "status": "estimated",
+        "summary": "The Warden builds a bar inside Superjail so he can ask Alice out on a date.",
+        "title": "Superbar",
+        "title_id": "718997",
+        "tv_rating": "TV-MA"
     }
 ]
