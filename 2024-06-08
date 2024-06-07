@@ -652,5 +652,84 @@
         "title": "Rixty Minutes",
         "title_id": "2013514",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232837_003_04_851",
+        "create_time": 1717735584209,
+        "episode_in_season": "3",
+        "episode_number": "S15:E03",
+        "external_id": "16516354",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1717828200,
+        "last_update": 1717735584209,
+        "live": false,
+        "paid": "232837.003.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1717828200,
+        "season_id": "14124",
+        "season_number": "15",
+        "serial": 1717735583934,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "14411302",
+        "show_timestamp": 1717828200,
+        "status": "estimated",
+        "summary": "Steve discovers his mom has never stopped giving him her breastmilk.",
+        "title": "Tapped Out",
+        "title_id": "2197406",
+        "tv_rating": "TV-14"
     }
 ]
