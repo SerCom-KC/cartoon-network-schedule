@@ -731,5 +731,85 @@
         "title": "Tapped Out",
         "title_id": "2197406",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_004_03_851",
+        "create_time": 1717736592160,
+        "episode_in_season": "4",
+        "episode_number": "S15:E04",
+        "external_id": "16516355",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1717830000,
+        "last_update": 1717736592160,
+        "live": false,
+        "paid": "232837.004.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1717830000,
+        "season_id": "14124",
+        "season_number": "15",
+        "serial": 1717736591735,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14411303",
+        "show_timestamp": 1717830000,
+        "status": "estimated",
+        "summary": "Stan and Steve enter an e-sports game tournament to save the world. The rest of the family get stuck in a banister.",
+        "title": "Brave N00b World",
+        "title_id": "2197407",
+        "tv_rating": "TV-14"
     }
 ]
