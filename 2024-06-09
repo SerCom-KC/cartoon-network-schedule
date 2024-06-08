@@ -2771,5 +2771,83 @@
         "title": "Eggs for Days",
         "title_id": "2132982",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "232851_001_01_851",
+        "create_time": 1717887712145,
+        "episode_in_season": "1",
+        "episode_number": "S17:E01",
+        "external_id": "16516447",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1717981200,
+        "last_update": 1717887712145,
+        "live": false,
+        "paid": "232851.001.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1717981200,
+        "season_id": "24150",
+        "season_number": "17",
+        "serial": 1717887711949,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14411397",
+        "show_timestamp": 1717981200,
+        "status": "estimated",
+        "summary": "Francine becomes a realtor in Langley's world of high-end real estate, while the rest of the family sells coffee from the front yard.",
+        "title": "Langley Dollar Listings",
+        "title_id": "2342087",
+        "tv_rating": "TV-14"
     }
 ]
