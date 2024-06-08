@@ -2262,5 +2262,77 @@
         "title": "Last Meal",
         "title_id": "977591",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229021_036_02_851",
+        "create_time": 1717871905440,
+        "episode_in_season": "36",
+        "episode_number": "S4:E36",
+        "external_id": "16516441",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1717965000,
+        "last_update": 1717871905440,
+        "live": false,
+        "paid": "229021.036.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 11,
+        "scheduled_duration": 914,
+        "scheduled_timestamp": 1717965000,
+        "season_id": "5556",
+        "season_number": "4",
+        "serial": 1717871905210,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 914,
+        "show_id": "14411389",
+        "show_timestamp": 1717965000,
+        "status": "estimated",
+        "summary": "The park guys have to help Muscle Man stop fighting in his sleep.",
+        "title": "Sleep Fighter",
+        "title_id": "977595",
+        "tv_rating": "TV-PG"
     }
 ]
