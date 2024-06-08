@@ -328,5 +328,112 @@
         "title": "What Are You?",
         "title_id": "2436328",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229014_005_02_851",
+        "create_time": 1717827236841,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "16516407",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Genndy Tartakovsky's Primal",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1717918200,
+        "last_update": 1717827236841,
+        "live": false,
+        "paid": "229014.005.02.851",
+        "participants": [
+            {
+                "character": "Spear",
+                "name": "Aaron LaPlante",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Darrick Bachman",
+                "role": "Writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1811,
+        "scheduled_timestamp": 1717918200,
+        "season_id": "15372",
+        "season_number": "1",
+        "serial": 1717827236514,
+        "series_id": "2211157",
+        "series_name": "Genndy Tartakovsky's Primal",
+        "show_duration": 1811,
+        "show_id": "14411355",
+        "show_timestamp": 1717918200,
+        "status": "estimated",
+        "summary": "An oasis of peace only leads to a brutal attack from a vicious tribe of ape-like men.",
+        "title": "Rage of the Ape-Men",
+        "title_id": "2211162",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233057_003_01_851",
+        "create_time": 1717827236842,
+        "episode_in_season": "3",
+        "episode_number": "S7:E03",
+        "external_id": "16516408",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1717920000,
+        "last_update": 1717827236842,
+        "live": false,
+        "paid": "233057.003.01.851",
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1717920000,
+        "season_id": "12326",
+        "season_number": "7",
+        "serial": 1717827236514,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "14411356",
+        "show_timestamp": 1717920000,
+        "status": "estimated",
+        "summary": "The latest trend in social networking and having no life takes over Earth; and Fry posts an embarrassing video of Leela on-line.",
+        "title": "Attack of the Killer App",
+        "title_id": "2161622",
+        "tv_rating": "TV-14"
     }
 ]
