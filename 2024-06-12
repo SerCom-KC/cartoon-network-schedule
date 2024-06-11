@@ -88,7 +88,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1718166600,
-        "last_update": 1718074553581,
+        "last_update": 1718139658993,
         "live": false,
         "paid": "251918.001.02.851",
         "participants": [
@@ -201,10 +201,10 @@
         "scheduled_timestamp": 1718166600,
         "season_id": "27326",
         "season_number": "2",
-        "serial": 1718074553271,
+        "serial": 1718139658793,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "14411540",
         "show_timestamp": 1718166600,
         "status": "estimated",
@@ -297,7 +297,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1718169300,
-        "last_update": 1718075839231,
+        "last_update": 1718139658994,
         "live": false,
         "paid": "254887.004.02.851",
         "participants": [
@@ -335,10 +335,10 @@
         "scheduled_timestamp": 1718169300,
         "season_id": "7251",
         "season_number": "8",
-        "serial": 1718075838950,
+        "serial": 1718139658793,
         "series_id": "847246",
         "series_name": "Aqua Unit Patrol Squad 1",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "14411542",
         "show_timestamp": 1718169300,
         "status": "estimated",
@@ -447,7 +447,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1718172000,
-        "last_update": 1718081901923,
+        "last_update": 1718139658995,
         "live": false,
         "paid": "232837.015.03.851",
         "participants": [
@@ -495,10 +495,10 @@
         "scheduled_timestamp": 1718172000,
         "season_id": "14124",
         "season_number": "15",
-        "serial": 1718081901663,
+        "serial": 1718139658793,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "14411544",
         "show_timestamp": 1718172000,
         "status": "estimated",
@@ -3898,7 +3898,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1718229600,
-        "last_update": 1718136308696,
+        "last_update": 1718139659976,
         "live": false,
         "paid": "229022.007.03.851",
         "participants": [
@@ -3927,14 +3927,14 @@
         "press_hold": false,
         "release_year": 2006,
         "runtime_minutes": 30,
-        "scheduled_duration": 1802,
+        "scheduled_duration": 1800,
         "scheduled_timestamp": 1718229600,
         "season_id": "1044",
         "season_number": "5",
-        "serial": 1718136308481,
+        "serial": 1718139659794,
         "series_id": "445510",
         "series_name": "The Grim Adventures of Billy & Mandy",
-        "show_duration": 1802,
+        "show_duration": 1800,
         "show_id": "14411592",
         "show_timestamp": 1718229600,
         "status": "estimated",
@@ -3942,6 +3942,110 @@
         "summary_long": "A Grim Day: What could be more exciting than a day off for the Grim Reaper?  A day off with giant lawn gnomes proves to be a good start.  Pandora's Lunch Box: More than just lunch lurks in the lost lunchbox of this little lady!  Will Billy and Mandy succumb to the spectral sandwiches inside the sinister sarcophagus of snacks?",
         "title": "A Grim Day/Pandora's Lunch Box",
         "title_id": "630231",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229022_008_03_851",
+        "create_time": 1718139659977,
+        "episode_in_season": "8",
+        "episode_number": "S5:E08",
+        "external_id": "16548285",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Grim Adventures of Billy & Mandy, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1718231400,
+        "last_update": 1718139659977,
+        "live": false,
+        "paid": "229022.008.03.851",
+        "participants": [
+            {
+                "character": "Billy",
+                "name": "Richard Steven Horvitz",
+                "role": "Voice"
+            },
+            {
+                "character": "Mandy",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Grim Reaper",
+                "name": "Greg Eagles",
+                "role": "Voice"
+            },
+            {
+                "character": "Irwin",
+                "name": "Vanessa Marshall",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1718231400,
+        "season_id": "1044",
+        "season_number": "5",
+        "serial": 1718139659794,
+        "series_id": "445510",
+        "series_name": "The Grim Adventures of Billy & Mandy",
+        "show_duration": 1800,
+        "show_id": "14411593",
+        "show_timestamp": 1718231400,
+        "status": "estimated",
+        "summary": "Grim finally escapes from Billy and Mandy, but finds himself working for an even more sinister force-- the Martian Grim Reaper and his zombie army.",
+        "title": "Billy and Mandy vs. the Martians",
+        "title_id": "630232",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233066_012_04_851",
+        "create_time": 1718139659978,
+        "episode_in_season": "12",
+        "episode_number": "S6:E12",
+        "external_id": "16516852",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1718233200,
+        "last_update": 1718139659978,
+        "live": false,
+        "paid": "233066.012.04.851",
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1718233200,
+        "season_id": "1539",
+        "season_number": "6",
+        "serial": 1718139659794,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "14411594",
+        "show_timestamp": 1718233200,
+        "status": "estimated",
+        "summary": "Bill gets drunk and steals a military tank after learning he was used as a guinea pig in a secret Army experiment.",
+        "title": "Tankin' it to the Streets",
+        "title_id": "731374",
         "tv_rating": "TV-PG"
     }
 ]
