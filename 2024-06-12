@@ -346,5 +346,85 @@
         "title": "Freedom Cobra",
         "title_id": "846828",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_014_03_851",
+        "create_time": 1718078227714,
+        "episode_in_season": "14",
+        "episode_number": "S15:E14",
+        "external_id": "16516801",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1718170200,
+        "last_update": 1718078227714,
+        "live": false,
+        "paid": "232837.014.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1718170200,
+        "season_id": "14124",
+        "season_number": "15",
+        "serial": 1718078227426,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "14411543",
+        "show_timestamp": 1718170200,
+        "status": "estimated",
+        "summary": "Concerned that Hayley is too soft-hearted, Stan attempts to make her \"farm tough\" by turning the house into an urban homestead.",
+        "title": "First, Do No Farm",
+        "title_id": "2197420",
+        "tv_rating": "TV-14"
     }
 ]
