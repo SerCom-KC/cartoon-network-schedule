@@ -215,5 +215,75 @@
         "title": "MyCycle",
         "title_id": "2424746",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "254887_005_02_851",
+        "create_time": 1718161479767,
+        "episode_in_season": "5",
+        "episode_number": "S8:E05",
+        "external_id": "16516864",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua Unit Patrol Squad 1",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1718254800,
+        "last_update": 1718161479767,
+        "live": false,
+        "paid": "254887.005.02.851",
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Various",
+                "name": "George Lowe",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1718254800,
+        "season_id": "7251",
+        "season_number": "8",
+        "serial": 1718161479516,
+        "series_id": "847246",
+        "series_name": "Aqua Unit Patrol Squad 1",
+        "show_duration": 900,
+        "show_id": "14411606",
+        "show_timestamp": 1718254800,
+        "status": "estimated",
+        "summary": "Shake succumbs to predatory lending and the possibility of having his skull ripped out of his head.",
+        "title": "The Creditor",
+        "title_id": "846830",
+        "tv_rating": "TV-14"
     }
 ]
