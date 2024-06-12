@@ -3957,7 +3957,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1718312400,
-        "last_update": 1718220511366,
+        "last_update": 1718223857036,
         "live": false,
         "paid": "228258.008.04.851",
         "participants": [
@@ -3985,7 +3985,7 @@
         "scheduled_timestamp": 1718312400,
         "season_id": "432",
         "season_number": "3",
-        "serial": 1718220511366,
+        "serial": 1718223857036,
         "series_id": "327280",
         "series_name": "Ed, Edd n Eddy",
         "show_duration": 1800,
@@ -4016,7 +4016,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1718314200,
-        "last_update": 1718222095962,
+        "last_update": 1718223857037,
         "live": false,
         "paid": "228258.009.03.851",
         "participants": [
@@ -4040,14 +4040,14 @@
         "press_hold": false,
         "release_year": 2002,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1810,
         "scheduled_timestamp": 1718314200,
         "season_id": "432",
         "season_number": "3",
-        "serial": 1718222095962,
+        "serial": 1718223857036,
         "series_id": "327280",
         "series_name": "Ed, Edd n Eddy",
-        "show_duration": 1800,
+        "show_duration": 1810,
         "show_id": "14446583",
         "show_timestamp": 1718314200,
         "status": "estimated",
@@ -4056,6 +4056,70 @@
         "taxonomy_id": "228258-009",
         "title": "Rock-A-Bye Ed/O-Ed Eleven",
         "title_id": "342103",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229022_009_03_851",
+        "create_time": 1718223857038,
+        "episode_in_season": "9",
+        "episode_number": "S5:E09",
+        "external_id": "16548282",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Grim Adventures of Billy & Mandy, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1718316000,
+        "last_update": 1718223857038,
+        "live": false,
+        "paid": "229022.009.03.851",
+        "participants": [
+            {
+                "character": "Billy",
+                "name": "Richard Steven Horvitz",
+                "role": "Voice"
+            },
+            {
+                "character": "Mandy",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Grim Reaper",
+                "name": "Greg Eagles",
+                "role": "Voice"
+            },
+            {
+                "character": "Irwin",
+                "name": "Vanessa Marshall",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1718316000,
+        "season_id": "1044",
+        "season_number": "5",
+        "serial": 1718223857036,
+        "series_id": "445510",
+        "series_name": "The Grim Adventures of Billy & Mandy",
+        "show_duration": 1800,
+        "show_id": "14446584",
+        "show_timestamp": 1718316000,
+        "status": "estimated",
+        "summary": "Billy must fight a dragon, but is he the hunter, the hunted or just plain stupid? Then a drive across town with Dracula turns into a nightmare.",
+        "summary_long": "Dumb-Dumbs and Dragons: Billy wants to become a hero and must fight a dragon, but is he the hunter or the hunted?  Or just plain stupid?  Fear And Loathing in Endsville: Grim and Dracula get lost in a dead end desert...like an angry woman.",
+        "taxonomy_id": "229022-009",
+        "title": "Dumb-Dumbs and Dragons/Fear and Loathing in Endsville",
+        "title_id": "630233",
         "tv_rating": "TV-PG"
     }
 ]
