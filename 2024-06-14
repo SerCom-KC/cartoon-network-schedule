@@ -567,5 +567,86 @@
         "title": "Dammmm, Stan!",
         "title_id": "2197424",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_020_03_851",
+        "create_time": 1718254006507,
+        "episode_in_season": "20",
+        "episode_number": "S15:E20",
+        "external_id": "16516934",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1718346600,
+        "last_update": 1718254006507,
+        "live": false,
+        "paid": "232837.020.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1718346600,
+        "season_id": "14124",
+        "season_number": "15",
+        "serial": 1718254006507,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "14411676",
+        "show_timestamp": 1718346600,
+        "status": "estimated",
+        "summary": "The Smiths take a trip on an old steam locomotive to visit Francine's aunt only to discover it's being hijacked.",
+        "taxonomy_id": "232837-020",
+        "title": "The Last Ride of the Dodge City Rambler",
+        "title_id": "2197425",
+        "tv_rating": "TV-14"
     }
 ]
