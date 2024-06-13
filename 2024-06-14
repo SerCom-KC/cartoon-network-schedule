@@ -781,5 +781,138 @@
         "title": "Charlie, Pim, and Bill vs the Alien",
         "title_id": "2424770",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "250996_005_03_851",
+        "create_time": 1718258838752,
+        "episode_in_season": "5",
+        "episode_number": "S2:E05",
+        "external_id": "16516936",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Smiling Friends",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1718351100,
+        "last_update": 1718258838752,
+        "live": false,
+        "paid": "250996.005.03.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Zach Hadel",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": "Charlie",
+                "name": "Zach Hadel",
+                "role": "Voice"
+            },
+            {
+                "character": "Pim",
+                "name": "Michael Cusack",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1718351100,
+        "season_id": "27328",
+        "season_number": "2",
+        "serial": 1718258838752,
+        "series_id": "2224721",
+        "series_name": "Smiling Friends",
+        "show_duration": 900,
+        "show_id": "14411678",
+        "show_timestamp": 1718351100,
+        "status": "estimated",
+        "summary": "After some of the Boss's usual tomfoolery, Pim and Charlie are tasked with helping a mad scientist with an \"egg dilemma\".",
+        "taxonomy_id": "250996-005",
+        "title": "Brother's Egg",
+        "title_id": "2424769",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252039_005_02_851",
+        "create_time": 1718258838753,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "16516937",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Black Dynamite",
+        "genres": [
+            "Action",
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1718352000,
+        "last_update": 1718258838753,
+        "live": false,
+        "paid": "252039.005.02.851",
+        "participants": [
+            {
+                "character": "Black Dynamite",
+                "name": "Michael Jai White",
+                "role": "Voice"
+            },
+            {
+                "character": "Bullhorn",
+                "name": "Byron Minns",
+                "role": "Voice"
+            },
+            {
+                "character": "Honeybee",
+                "name": "Kym Whitley",
+                "role": "Voice"
+            },
+            {
+                "character": "Cream Corn",
+                "name": "Tommy Davidson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1718352000,
+        "season_id": "6142",
+        "season_number": "1",
+        "serial": 1718258838752,
+        "series_id": "859366",
+        "series_name": "Black Dynamite",
+        "show_duration": 1800,
+        "show_id": "14411679",
+        "show_timestamp": 1718352000,
+        "status": "estimated",
+        "summary": "It's Christmastime at The Whorephanage, and while Black Dynamite loves the holidays, he's distracted by a problem: what can he get the orphans for Christmas?",
+        "taxonomy_id": "252039-005",
+        "title": "\"A Crisis for Christmas\" or \"The Dark Side of the Dark Side of the Moon\"",
+        "title_id": "961489",
+        "tv_rating": "TV-14"
     }
 ]
