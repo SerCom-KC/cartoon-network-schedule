@@ -4404,5 +4404,86 @@
         "title": "Are You There Bob? It's Me Birthday ",
         "title_id": "2171456",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232850_001_03_851",
+        "create_time": 1718322456376,
+        "episode_in_season": "1",
+        "episode_number": "S16:E01",
+        "external_id": "16516989",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1718415000,
+        "last_update": 1718322456376,
+        "live": false,
+        "paid": "232850.001.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1718415000,
+        "season_id": "16310",
+        "season_number": "16",
+        "serial": 1718322456375,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "14411732",
+        "show_timestamp": 1718415000,
+        "status": "estimated",
+        "summary": "Worried that he's not smart enough for Hayley, Jeff undergoes an experimental intelligence enhancement procedure at the CIA. Roger recruits Steve to help him harvest snake venom.",
+        "taxonomy_id": "232850-001",
+        "title": "Who Smarted?",
+        "title_id": "2238748",
+        "tv_rating": "TV-14"
     }
 ]
