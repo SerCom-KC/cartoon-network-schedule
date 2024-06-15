@@ -338,5 +338,70 @@
         "title": "Tonight",
         "title_id": "2436329",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229014_006_02_851",
+        "create_time": 1718429760418,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "16517052",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Genndy Tartakovsky's Primal",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1718523000,
+        "last_update": 1718429760418,
+        "live": false,
+        "paid": "229014.006.02.851",
+        "participants": [
+            {
+                "character": "Spear",
+                "name": "Aaron LaPlante",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Director"
+            },
+            {
+                "character": null,
+                "name": "Genndy Tartakovsky",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Darrick Bachman",
+                "role": "Writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1718523000,
+        "season_id": "15372",
+        "season_number": "1",
+        "serial": 1718429760418,
+        "series_id": "2211157",
+        "series_name": "Genndy Tartakovsky's Primal",
+        "show_duration": 1800,
+        "show_id": "14411795",
+        "show_timestamp": 1718523000,
+        "status": "estimated",
+        "summary": "Spear struggles to nurse Fang back to health and escape the scavengers of the primordial world.",
+        "taxonomy_id": "229014-006",
+        "title": "Scent of Prey",
+        "title_id": "2211163",
+        "tv_rating": "TV-14"
     }
 ]
