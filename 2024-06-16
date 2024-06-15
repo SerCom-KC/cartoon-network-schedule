@@ -2600,5 +2600,103 @@
         "title": "Tomb Raider",
         "title_id": "2128554",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "229692_036_02_851",
+        "create_time": 1718487043860,
+        "episode_in_season": "36",
+        "episode_number": "S1:E36",
+        "external_id": "16517091",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Infomercials",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1718579700,
+        "last_update": 1718487043860,
+        "live": false,
+        "paid": "229692.036.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Various",
+                "role": "Actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 944,
+        "scheduled_timestamp": 1718579700,
+        "season_id": "7402",
+        "season_number": "1",
+        "serial": 1718487043858,
+        "series_id": "2007823",
+        "series_name": "Infomercials",
+        "show_duration": 944,
+        "show_id": "14411834",
+        "show_timestamp": 1718579700,
+        "status": "estimated",
+        "summary": "A game show where Jo Firestone sets up a cookie tasting in a parking lot to try to make friends. Contestants must ultimately decide between a friendship and $50 cash.",
+        "taxonomy_id": "229692-036",
+        "title": "Rate the Cookie",
+        "title_id": "2236211",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250263_001_04_851",
+        "create_time": 1718487043860,
+        "episode_in_season": "1",
+        "episode_number": "S9:E01",
+        "external_id": "16517092",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1718580600,
+        "last_update": 1718487043860,
+        "live": false,
+        "paid": "250263.001.04.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1718580600,
+        "season_id": "27919",
+        "season_number": "9",
+        "serial": 1718487043858,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14411835",
+        "show_timestamp": 1718580600,
+        "status": "estimated",
+        "summary": "Tina's just a girl who's boy crazy.",
+        "summary_long": "Convinced she's met the love of her life, Tina decides to disguise herself as a boy and sneak into the Boyz 4 Now auditions to find him. Back at the restaurant, Teddy asks the rest of the Belcher gang to nurse his baby rat back to health.",
+        "taxonomy_id": "250263-001",
+        "title": "Just One of the Boyz 4 Now for Now",
+        "title_id": "2438917",
+        "tv_rating": "TV-14"
     }
 ]
