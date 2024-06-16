@@ -468,5 +468,78 @@
         "title": "American Dad Graffito",
         "title_id": "2342092",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251793_004_03_851",
+        "create_time": 1718513452893,
+        "episode_in_season": "4",
+        "episode_number": "S4:E04",
+        "external_id": "16551694",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1718605800,
+        "last_update": 1718513452893,
+        "live": false,
+        "paid": "251793.004.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1718605800,
+        "season_id": "15308",
+        "season_number": "4",
+        "serial": 1718513452893,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14411850",
+        "show_timestamp": 1718605800,
+        "status": "estimated",
+        "summary": "Morty gets a dragon in this one broh. It's a wild ride broh.",
+        "taxonomy_id": "251793-004",
+        "title": "Claw and Hoarder: Special Ricktim's Morty",
+        "title_id": "2206486",
+        "tv_rating": "TV-14"
     }
 ]
