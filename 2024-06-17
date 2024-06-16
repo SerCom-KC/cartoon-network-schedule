@@ -17,7 +17,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1718596800,
-        "last_update": 1718504105164,
+        "last_update": 1718570008511,
         "live": false,
         "paid": "250996.007.03.851",
         "participants": [
@@ -50,10 +50,10 @@
         "scheduled_timestamp": 1718596800,
         "season_id": "27328",
         "season_number": "2",
-        "serial": 1718504105164,
+        "serial": 1718570008509,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
-        "show_duration": 900,
+        "show_duration": 884,
         "show_id": "14411844",
         "show_timestamp": 1718596800,
         "status": "estimated",
@@ -286,7 +286,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1718600400,
-        "last_update": 1718507963040,
+        "last_update": 1718570008512,
         "live": false,
         "paid": "233475.000.01.851",
         "premiere": false,
@@ -295,10 +295,10 @@
         "runtime_minutes": 22,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1718600400,
-        "serial": 1718507963040,
+        "serial": 1718570008509,
         "series_id": "93207",
         "series_name": "Robot Chicken (LWM)",
-        "show_duration": 1800,
+        "show_duration": 1795,
         "show_id": "14411847",
         "show_timestamp": 1718600400,
         "status": "estimated",
@@ -4024,6 +4024,70 @@
         "taxonomy_id": "229022-011",
         "title": "Hurter Monkey/Goodbling and the Hip-Hop-Opotamus",
         "title_id": "630235",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229022_012_03_851",
+        "create_time": 1718570008512,
+        "episode_in_season": "12",
+        "episode_number": "S5:E12",
+        "external_id": "16548308",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Grim Adventures of Billy & Mandy, The",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1718663400,
+        "last_update": 1718570008512,
+        "live": false,
+        "paid": "229022.012.03.851",
+        "participants": [
+            {
+                "character": "Billy",
+                "name": "Richard Steven Horvitz",
+                "role": "Voice"
+            },
+            {
+                "character": "Mandy",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Grim Reaper",
+                "name": "Greg Eagles",
+                "role": "Voice"
+            },
+            {
+                "character": "Irwin",
+                "name": "Vanessa Marshall",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1718663400,
+        "season_id": "1044",
+        "season_number": "5",
+        "serial": 1718570008509,
+        "series_id": "445510",
+        "series_name": "The Grim Adventures of Billy & Mandy",
+        "show_duration": 1803,
+        "show_id": "14411899",
+        "show_timestamp": 1718663400,
+        "status": "estimated",
+        "summary": "Jeff the Spider infects Mandy with the spider pox and kicks Billy out of his own bed. Then Fred Fredburger shows up and everyone gets a brain freeze.",
+        "summary_long": "Spidermandy: Jeff the Spider infects Mandy with the spider pox and kicks Bill out of his own bed.  Both problems can only be solved if Billy confronts his fear of his estranged son.  A A-Fred, Be Very A-Fred: The Grim Reaper is excited to be the new spokesmonster for a major corporation, until he discovers that part of his job is babysitting the world's most obnoxious monster.",
+        "taxonomy_id": "229022-012",
+        "title": "Spidermandy/Be A-Fred, Be Very A-Fred",
+        "title_id": "630236",
         "tv_rating": "TV-PG"
     }
 ]
