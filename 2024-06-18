@@ -437,5 +437,86 @@
         "title": "Mused and Abused",
         "title_id": "2238756",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232850_010_03_851",
+        "create_time": 1718597498256,
+        "episode_in_season": "10",
+        "episode_number": "S16:E10",
+        "external_id": "16517168",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1718690400,
+        "last_update": 1718597498256,
+        "live": false,
+        "paid": "232850.010.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1718690400,
+        "season_id": "16310",
+        "season_number": "16",
+        "serial": 1718597498256,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14411915",
+        "show_timestamp": 1718690400,
+        "status": "estimated",
+        "summary": "Stan's childhood imaginary friend returns to collect a debt. Klaus has a big date and needs a fishbowl upgrade.",
+        "taxonomy_id": "232850-010",
+        "title": "Henderson",
+        "title_id": "2238758",
+        "tv_rating": "TV-14"
     }
 ]
