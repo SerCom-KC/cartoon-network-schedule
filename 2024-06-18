@@ -518,5 +518,85 @@
         "title": "Henderson",
         "title_id": "2238758",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232850_011_03_851",
+        "create_time": 1718598863762,
+        "episode_in_season": "11",
+        "episode_number": "S16:E11",
+        "external_id": "16517169",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1718692200,
+        "last_update": 1718598863762,
+        "live": false,
+        "paid": "232850.011.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1718692200,
+        "season_id": "16310",
+        "season_number": "16",
+        "serial": 1718598863762,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "14411916",
+        "show_timestamp": 1718692200,
+        "status": "estimated",
+        "summary": "Hayley searches for guidance and instead finds a community of 'cool butts.'",
+        "taxonomy_id": "232850-011",
+        "title": "Hot Scoomp",
+        "title_id": "2238759",
+        "tv_rating": "TV-14"
     }
 ]
