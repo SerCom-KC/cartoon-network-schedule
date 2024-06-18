@@ -458,7 +458,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1718690400,
-        "last_update": 1718597498256,
+        "last_update": 1718673895685,
         "live": false,
         "paid": "232850.010.03.851",
         "participants": [
@@ -506,10 +506,10 @@
         "scheduled_timestamp": 1718690400,
         "season_id": "16310",
         "season_number": "16",
-        "serial": 1718597498256,
+        "serial": 1718673895685,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1791,
         "show_id": "14411915",
         "show_timestamp": 1718690400,
         "status": "estimated",
@@ -619,7 +619,7 @@
             "Animation"
         ],
         "guide_timestamp": 1718694000,
-        "last_update": 1718601033286,
+        "last_update": 1718673895670,
         "live": false,
         "paid": "251739.005.03.851",
         "participants": [
@@ -657,10 +657,10 @@
         "scheduled_timestamp": 1718694000,
         "season_id": "9517",
         "season_number": "2",
-        "serial": 1718601033284,
+        "serial": 1718673895670,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1795,
         "show_id": "14411917",
         "show_timestamp": 1718694000,
         "status": "estimated",
@@ -4790,6 +4790,77 @@
         "taxonomy_id": "232850-015",
         "title": "Comb Over: A Hair Piece",
         "title_id": "2238764",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251739_007_03_851",
+        "create_time": 1718674269992,
+        "episode_in_season": "7",
+        "episode_number": "S2:E07",
+        "external_id": "16517229",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1718767800,
+        "last_update": 1718674269992,
+        "live": false,
+        "paid": "251739.007.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1718767800,
+        "season_id": "9517",
+        "season_number": "2",
+        "serial": 1718674269992,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1808,
+        "show_id": "14411976",
+        "show_timestamp": 1718767800,
+        "status": "estimated",
+        "summary": "Rick don joins in on some hijinks in this one broh. Beth and Jerry sort out their relationship too broh.",
+        "taxonomy_id": "251739-007",
+        "title": "Big Trouble in Little Sanchez",
+        "title_id": "2060770",
         "tv_rating": "TV-14"
     }
 ]
