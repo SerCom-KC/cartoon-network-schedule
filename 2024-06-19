@@ -425,5 +425,86 @@
         "title": "Lumberjerk",
         "title_id": "2238761",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232850_013_03_851",
+        "create_time": 1718684811099,
+        "episode_in_season": "13",
+        "episode_number": "S16:E13",
+        "external_id": "16517235",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1718776800,
+        "last_update": 1718684811099,
+        "live": false,
+        "paid": "232850.013.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1718776800,
+        "season_id": "16310",
+        "season_number": "16",
+        "serial": 1718684811099,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14411982",
+        "show_timestamp": 1718776800,
+        "status": "estimated",
+        "summary": "Stan and Francine go back in time to settle an argument.",
+        "taxonomy_id": "232850-013",
+        "title": "Stan & Francine & Stan & Francine & Radika",
+        "title_id": "2238762",
+        "tv_rating": "TV-14"
     }
 ]
