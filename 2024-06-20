@@ -4408,5 +4408,85 @@
         "title": "Long Time Listener, First Time Bob",
         "title_id": "2438935",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232850_016_03_851",
+        "create_time": 1718840006873,
+        "episode_in_season": "16",
+        "episode_number": "S16:E16",
+        "external_id": "16517357",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1718933400,
+        "last_update": 1718840006873,
+        "live": false,
+        "paid": "232850.016.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1718933400,
+        "season_id": "16310",
+        "season_number": "16",
+        "serial": 1718840006873,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "14412104",
+        "show_timestamp": 1718933400,
+        "status": "estimated",
+        "summary": "After Stan sells off the coveted family plot, the family opens their own cemetery in the backyard with the help of basketball Hall-of-Famer Scottie Pippen.",
+        "taxonomy_id": "232850-016",
+        "title": "Plot Heavy",
+        "title_id": "2238760",
+        "tv_rating": "TV-14"
     }
 ]
