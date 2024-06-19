@@ -245,5 +245,89 @@
         "title": "The Red Ball",
         "title_id": "798554",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "251785_014_03_851",
+        "create_time": 1718768883665,
+        "episode_in_season": "14",
+        "episode_number": "S3:E14",
+        "external_id": "16517299",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Boondocks, The",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1718861400,
+        "last_update": 1718768883665,
+        "live": false,
+        "paid": "251785.014.03.851",
+        "participants": [
+            {
+                "character": "Riley Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Huey Freeman",
+                "name": "Regina King",
+                "role": "Voice"
+            },
+            {
+                "character": "Robert Freeman",
+                "name": "John Witherspoon",
+                "role": "Voice"
+            },
+            {
+                "character": "Uncle Ruckus",
+                "name": "Gary Anthony Williams",
+                "role": "Voice"
+            },
+            {
+                "character": "Tom Dubois",
+                "name": "Cedric Yarbrough",
+                "role": "Voice"
+            },
+            {
+                "character": "Sarah Dubois",
+                "name": "Jill Talley",
+                "role": "Voice"
+            },
+            {
+                "character": "Jazmine Dubois",
+                "name": "Gabby Soleil",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Aaron McGruder",
+                "role": "Creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1718861400,
+        "season_id": "1284",
+        "season_number": "3",
+        "serial": 1718768883665,
+        "series_id": "610028",
+        "series_name": "The Boondocks",
+        "show_duration": 1802,
+        "show_id": "14412046",
+        "show_timestamp": 1718861400,
+        "status": "estimated",
+        "summary": "A terror attack near Woodcrest is imminent, and domestic terrorist Huey Freeman is the main suspect. With super-agent Jack Flowers on his tail and Ed and Rummy on the loose, can anyone save the day?",
+        "taxonomy_id": "251785-014",
+        "title": "It's Goin' Down",
+        "title_id": "798567",
+        "tv_rating": "TV-MA"
     }
 ]
