@@ -15,7 +15,7 @@
             "Drama"
         ],
         "guide_timestamp": 1718856000,
-        "last_update": 1718762920780,
+        "last_update": 1718826345272,
         "live": false,
         "paid": "251784.012.03.851",
         "participants": [
@@ -68,10 +68,10 @@
         "scheduled_timestamp": 1718856000,
         "season_id": "1283",
         "season_number": "2",
-        "serial": 1718762920780,
+        "serial": 1718826345270,
         "series_id": "610028",
         "series_name": "The Boondocks",
-        "show_duration": 1800,
+        "show_duration": 1789,
         "show_id": "14412043",
         "show_timestamp": 1718856000,
         "status": "estimated",
@@ -97,7 +97,7 @@
             "Drama"
         ],
         "guide_timestamp": 1718857800,
-        "last_update": 1718765240460,
+        "last_update": 1718826345272,
         "live": false,
         "paid": "251785.001.03.851",
         "participants": [
@@ -150,10 +150,10 @@
         "scheduled_timestamp": 1718857800,
         "season_id": "1284",
         "season_number": "3",
-        "serial": 1718765240458,
+        "serial": 1718826345270,
         "series_id": "610028",
         "series_name": "The Boondocks",
-        "show_duration": 1800,
+        "show_duration": 1798,
         "show_id": "14412044",
         "show_timestamp": 1718857800,
         "status": "estimated",
@@ -3985,6 +3985,65 @@
         "taxonomy_id": "228262-003",
         "title": "One Size Fits Ed/Pain in the Ed",
         "title_id": "434490",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "228262_004_03_851",
+        "create_time": 1718826345273,
+        "episode_in_season": "4",
+        "episode_number": "S4:E04",
+        "external_id": "16548300",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ed, Edd n Eddy",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1718919000,
+        "last_update": 1718826345273,
+        "live": false,
+        "paid": "228262.004.03.851",
+        "participants": [
+            {
+                "character": "Ed",
+                "name": "Matt Hill",
+                "role": "Voice"
+            },
+            {
+                "character": "Edd",
+                "name": "Sam Vincent",
+                "role": "Voice"
+            },
+            {
+                "character": "Eddy",
+                "name": "Tony Sampson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1718919000,
+        "season_id": "433",
+        "season_number": "4",
+        "serial": 1718826345270,
+        "series_id": "327280",
+        "series_name": "Ed, Edd n Eddy",
+        "show_duration": 1800,
+        "show_id": "14446587",
+        "show_timestamp": 1718919000,
+        "status": "estimated",
+        "summary": "Eddy and Edd must turn to the Urban Rangers for help after the Kanker sisters kidnap Ed. then, everyone in the neighborhood competes to be the first to remove a quarter that's stuck to the sidewalk.",
+        "summary_long": "Ed Overboard: Eddy and Edd must turn to the Urban Rangers for help after the Kanker sisters kidnap Ed./One of Those Eds: Everyone in the neighborhood competes to be the first to remove a quarter that's stuck to the sidewalk.",
+        "taxonomy_id": "228262-004",
+        "title": "Ed Overboard/One of Those Eds",
+        "title_id": "434491",
         "tv_rating": "TV-PG"
     }
 ]
