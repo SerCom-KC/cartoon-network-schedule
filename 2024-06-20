@@ -562,5 +562,77 @@
         "title": "Look Who's Purging Now",
         "title_id": "2060773",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251739_010_03_851",
+        "create_time": 1718776158333,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "16517303",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1718868600,
+        "last_update": 1718776158333,
+        "live": false,
+        "paid": "251739.010.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1811,
+        "scheduled_timestamp": 1718868600,
+        "season_id": "9517",
+        "season_number": "2",
+        "serial": 1718776158333,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1811,
+        "show_id": "14412050",
+        "show_timestamp": 1718868600,
+        "status": "estimated",
+        "summary": "Things go ham in this one broh. They all don mussed up this time. The whole family mussed up broh.",
+        "taxonomy_id": "251739-010",
+        "title": "The Wedding Squanchers",
+        "title_id": "2060772",
+        "tv_rating": "TV-14"
     }
 ]
