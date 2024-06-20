@@ -270,5 +270,68 @@
         "title": "MALL",
         "title_id": "2424750",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "S"
+        ],
+        "content_id": "254883_003_02_851",
+        "create_time": 1718852742194,
+        "episode_in_season": "3",
+        "episode_number": "S9:E03",
+        "external_id": "16517363",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua Something You Know Whatever",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1718946000,
+        "last_update": 1718852742194,
+        "live": false,
+        "paid": "254883.003.02.851",
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "Voice"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 910,
+        "scheduled_timestamp": 1718946000,
+        "season_id": "7250",
+        "season_number": "9",
+        "serial": 1718852742194,
+        "series_id": "896639",
+        "series_name": "Aqua Something You Know Whatever",
+        "show_duration": 910,
+        "show_id": "14412111",
+        "show_timestamp": 1718946000,
+        "status": "estimated",
+        "summary": "Wearing Carl's amazing rock-and-roll fantasy shirt comes at a heavy price.",
+        "taxonomy_id": "254883-003",
+        "title": "Shirt Herpes",
+        "title_id": "896642",
+        "tv_rating": "TV-MA"
     }
 ]
