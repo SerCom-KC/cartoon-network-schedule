@@ -19,7 +19,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1719028800,
-        "last_update": 1718998411710,
+        "last_update": 1719001432496,
         "live": false,
         "paid": "250996.004.03.851",
         "participants": [
@@ -48,11 +48,11 @@
         "press_hold": false,
         "release_year": 2023,
         "runtime_minutes": 15,
-        "scheduled_duration": 900,
+        "scheduled_duration": 902,
         "scheduled_timestamp": 1719028800,
         "season_id": "27328",
         "season_number": "2",
-        "serial": 1718998411708,
+        "serial": 1719001432496,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
         "show_duration": 887,
@@ -3609,6 +3609,48 @@
         "taxonomy_id": "233056-015",
         "title": "An Officer and a Gentle Boy",
         "title_id": "731482",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233056_016_03_851",
+        "create_time": 1719001427606,
+        "episode_in_season": "16",
+        "episode_number": "S7:E16",
+        "external_id": "16517473",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1719093600,
+        "last_update": 1719001427606,
+        "live": false,
+        "paid": "233056.016.03.851",
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1719093600,
+        "season_id": "1540",
+        "season_number": "7",
+        "serial": 1719001427606,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "14412227",
+        "show_timestamp": 1719093600,
+        "status": "estimated",
+        "summary": "Miseducation of Bobby Hill, The: When Hank teaches Bobby the basics of propane sales, Bobby ignores the advice and uses his own strategy-with impressive results.",
+        "taxonomy_id": "233056-016",
+        "title": "The Miseducation of Bobby Hill",
+        "title_id": "731483",
         "tv_rating": "TV-PG"
     }
 ]
