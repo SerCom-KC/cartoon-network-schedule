@@ -1108,5 +1108,80 @@
         "title": "That's My Television",
         "title_id": "977578",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229021_020_02_851",
+        "create_time": 1719131245879,
+        "episode_in_season": "20",
+        "episode_number": "S4:E20",
+        "external_id": "16517586",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1719223800,
+        "last_update": 1719131245879,
+        "live": false,
+        "paid": "229021.020.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 11,
+        "scheduled_duration": 990,
+        "scheduled_timestamp": 1719223920,
+        "season_id": "5556",
+        "season_number": "4",
+        "serial": 1719131245879,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 990,
+        "show_id": "14412300",
+        "show_timestamp": 1719223920,
+        "status": "estimated",
+        "summary": "Mordecai and Rigby have to get rid of some geese that are causing problems at the park.",
+        "taxonomy_id": "229021-020",
+        "title": "A Bunch of Full Grown Geese",
+        "title_id": "962467",
+        "tv_rating": "TV-PG"
     }
 ]
