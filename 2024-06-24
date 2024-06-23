@@ -312,5 +312,85 @@
         "title": "Robot Chicken: Star Wars Episode II",
         "title_id": "744127",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232851_009_01_851",
+        "create_time": 1719113770395,
+        "episode_in_season": "9",
+        "episode_number": "S17:E09",
+        "external_id": "16517534",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1719207000,
+        "last_update": 1719113770395,
+        "live": false,
+        "paid": "232851.009.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1719207000,
+        "season_id": "24150",
+        "season_number": "17",
+        "serial": 1719113770395,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "14412289",
+        "show_timestamp": 1719207000,
+        "status": "estimated",
+        "summary": "Wheels and the Legman try to hunt down the perpetrators who destroyed Steve's secret swimming hole. Meanwhile, Klaus helps an aging Principal Lewis reclaim his confidence.",
+        "taxonomy_id": "232851-009",
+        "title": "The Curious Case of the Old Hole",
+        "title_id": "2342097",
+        "tv_rating": "TV-14"
     }
 ]
