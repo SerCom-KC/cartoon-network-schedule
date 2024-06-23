@@ -392,5 +392,86 @@
         "title": "The Curious Case of the Old Hole",
         "title_id": "2342097",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_010_02_851",
+        "create_time": 1719115640940,
+        "episode_in_season": "10",
+        "episode_number": "S17:E10",
+        "external_id": "16517535",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1719208800,
+        "last_update": 1719115640940,
+        "live": false,
+        "paid": "232851.010.02.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1719208800,
+        "season_id": "24150",
+        "season_number": "17",
+        "serial": 1719115640940,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1805,
+        "show_id": "14412290",
+        "show_timestamp": 1719208800,
+        "status": "estimated",
+        "summary": "The Smiths return from a difficult, quarrelsome vacation, but they can't get a break from each other.",
+        "taxonomy_id": "232851-010",
+        "title": "Gold Top Nuts",
+        "title_id": "2342095",
+        "tv_rating": "TV-14"
     }
 ]
