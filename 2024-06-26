@@ -294,7 +294,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1719378900,
-        "last_update": 1719286655089,
+        "last_update": 1719357801000,
         "live": false,
         "paid": "254883.008.02.851",
         "participants": [
@@ -327,10 +327,10 @@
         "scheduled_timestamp": 1719378900,
         "season_id": "7250",
         "season_number": "9",
-        "serial": 1719286655089,
+        "serial": 1719357801000,
         "series_id": "896639",
         "series_name": "Aqua Something You Know Whatever",
-        "show_duration": 900,
+        "show_duration": 894,
         "show_id": "14412422",
         "show_timestamp": 1719378900,
         "status": "estimated",
@@ -4455,6 +4455,56 @@
         "taxonomy_id": "250264-021",
         "title": "Local She-Ro",
         "title_id": "2438959",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_022_03_851",
+        "create_time": 1719357801001,
+        "episode_in_season": "22",
+        "episode_number": "S10:E22",
+        "external_id": "16517830",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1719450000,
+        "last_update": 1719357801001,
+        "live": false,
+        "paid": "250264.022.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1719450000,
+        "season_id": "27920",
+        "season_number": "10",
+        "serial": 1719357801000,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14412480",
+        "show_timestamp": 1719450000,
+        "status": "estimated",
+        "summary": "Louise becomes the teacher.",
+        "summary_long": "A classmate comes to Louise for lessons in how to get in trouble. Meanwhile, Bob reluctantly agrees to bring Jimmy Pesto his hernia medication.",
+        "taxonomy_id": "250264-022",
+        "title": "Prank You for Being a Friend",
+        "title_id": "2438960",
         "tv_rating": "TV-PG"
     }
 ]
