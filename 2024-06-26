@@ -581,5 +581,78 @@
         "title": "Widowmaker",
         "title_id": "700751",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251792_005_03_851",
+        "create_time": 1719292178651,
+        "episode_in_season": "5",
+        "episode_number": "S3:E05",
+        "external_id": "16517904",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1719385200,
+        "last_update": 1719292178651,
+        "live": false,
+        "paid": "251792.005.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1719385200,
+        "season_id": "10773",
+        "season_number": "3",
+        "serial": 1719292178651,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1802,
+        "show_id": "14412426",
+        "show_timestamp": 1719385200,
+        "status": "estimated",
+        "summary": "Beth blows it as a mom in this one broh. Summer has body issues.",
+        "taxonomy_id": "251792-005",
+        "title": "The Whirly Dirly Conspiracy",
+        "title_id": "2116834",
+        "tv_rating": "TV-14"
     }
 ]
