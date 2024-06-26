@@ -421,5 +421,86 @@
         "title": "Productive Panic",
         "title_id": "2397214",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_016_02_851",
+        "create_time": 1719376053023,
+        "episode_in_season": "16",
+        "episode_number": "S18:E14",
+        "external_id": "16517841",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1719468000,
+        "last_update": 1719376053023,
+        "live": false,
+        "paid": "232841.016.02.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1719468000,
+        "season_id": "25259",
+        "season_number": "18",
+        "serial": 1719376053023,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1805,
+        "show_id": "14412491",
+        "show_timestamp": 1719468000,
+        "status": "estimated",
+        "summary": "Hayley searches for a runaway Steve so they can go to a Shaggy concert.",
+        "taxonomy_id": "232841-016",
+        "title": "Multiverse of American Dadness",
+        "title_id": "2397215",
+        "tv_rating": "TV-14"
     }
 ]
