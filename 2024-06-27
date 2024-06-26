@@ -342,5 +342,84 @@
         "title": "Totem Pole",
         "title_id": "896648",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "232841_015_05_851",
+        "create_time": 1719373212426,
+        "episode_in_season": "15",
+        "episode_number": "S18:E13",
+        "external_id": "16521797",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1719466200,
+        "last_update": 1719373212426,
+        "live": false,
+        "paid": "232841.015.05.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1719466200,
+        "season_id": "25259",
+        "season_number": "18",
+        "serial": 1719373212426,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14412490",
+        "show_timestamp": 1719466200,
+        "status": "estimated",
+        "summary": "Francine becomes an overnight sensation when a famous art dealer discovers her homemade pottery.",
+        "taxonomy_id": "232841-015",
+        "title": "Productive Panic",
+        "title_id": "2397214",
+        "tv_rating": "TV-14"
     }
 ]
