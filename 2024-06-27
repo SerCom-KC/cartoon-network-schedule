@@ -583,5 +583,77 @@
         "title": "A New Era for the Smith House",
         "title_id": "2399408",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251792_007_03_851",
+        "create_time": 1719379552700,
+        "episode_in_season": "7",
+        "episode_number": "S3:E07",
+        "external_id": "16517843",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1719471600,
+        "last_update": 1719379552700,
+        "live": false,
+        "paid": "251792.007.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1719471600,
+        "season_id": "10773",
+        "season_number": "3",
+        "serial": 1719379552700,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14412493",
+        "show_timestamp": 1719471600,
+        "status": "estimated",
+        "summary": "Atlantis here we come broh! A nice self contained episode about Atlantis!",
+        "taxonomy_id": "251792-007",
+        "title": "The Ricklantis Mixup",
+        "title_id": "2116836",
+        "tv_rating": "TV-14"
     }
 ]
