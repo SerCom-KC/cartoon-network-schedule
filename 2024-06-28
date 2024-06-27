@@ -393,5 +393,86 @@
         "title": "The Dudies",
         "title_id": "2005988",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232843_013_04_851",
+        "create_time": 1719460269263,
+        "episode_in_season": "13",
+        "episode_number": "S3:E13",
+        "external_id": "16517781",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1719552600,
+        "last_update": 1719460269263,
+        "live": false,
+        "paid": "232843.013.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1719552600,
+        "season_id": "1186",
+        "season_number": "3",
+        "serial": 1719460269262,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14412560",
+        "show_timestamp": 1719552600,
+        "status": "estimated",
+        "summary": "When the CIA initiates an Alien Task Force, a peculiar twist of fate puts Roger in charge of the task force in disguise, who marks Stan as an alien to protect his own identity. Meanwhile Francine comes to grips with being left-handed.",
+        "taxonomy_id": "232843-013",
+        "title": "Office Spaceman",
+        "title_id": "700743",
+        "tv_rating": "TV-14"
     }
 ]
