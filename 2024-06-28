@@ -4306,5 +4306,55 @@
         "title": "A River Runs Through Bob",
         "title_id": "2030303",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250265_005_03_851",
+        "create_time": 1719526672485,
+        "episode_in_season": "5",
+        "episode_number": "S11:E05",
+        "external_id": "16517710",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1719619200,
+        "last_update": 1719526672485,
+        "live": false,
+        "paid": "250265.005.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1719619200,
+        "season_id": "27921",
+        "season_number": "11",
+        "serial": 1719526672485,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1805,
+        "show_id": "14412620",
+        "show_timestamp": 1719619200,
+        "status": "estimated",
+        "summary": "Tina goes on a power trip.",
+        "summary_long": "Tina is put in charge of the Wagstaff School time capsule project, but she makes an enemy when she rejects Tammy's submission. Meanwhile, Bob teases Linda over her inability to whistle.",
+        "taxonomy_id": "250265-005",
+        "title": "Fast Time Capsules at Wagstaff School",
+        "title_id": "2438965",
+        "tv_rating": "TV-PG"
     }
 ]
