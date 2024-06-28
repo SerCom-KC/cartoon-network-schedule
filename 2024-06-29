@@ -866,5 +866,50 @@
         "title": "Holiday Spectacular",
         "title_id": "2161632",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "233061_001_01_851",
+        "create_time": 1719556452823,
+        "episode_in_season": "1",
+        "episode_number": "S8:E01",
+        "external_id": "16517727",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1719649800,
+        "last_update": 1719556452823,
+        "live": false,
+        "paid": "233061.001.01.851",
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1719649800,
+        "season_id": "12327",
+        "season_number": "8",
+        "serial": 1719556452823,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "14412641",
+        "show_timestamp": 1719649800,
+        "status": "estimated",
+        "summary": "The crew members encounter a bizarre alien with the power to change their sexual characteristics.",
+        "taxonomy_id": "233061-001",
+        "title": "Neutopia",
+        "title_id": "2161639",
+        "tv_rating": "TV-14"
     }
 ]
