@@ -188,5 +188,70 @@
         "title": "Charlie, Pim, and Bill vs the Alien",
         "title_id": "2424770",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "250996_005_03_851",
+        "create_time": 1719543184580,
+        "episode_in_season": "5",
+        "episode_number": "S2:E05",
+        "external_id": "16517719",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Smiling Friends",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1719636300,
+        "last_update": 1719543184580,
+        "live": false,
+        "paid": "250996.005.03.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Zach Hadel",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": "Charlie",
+                "name": "Zach Hadel",
+                "role": "Voice"
+            },
+            {
+                "character": "Pim",
+                "name": "Michael Cusack",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1719636300,
+        "season_id": "27328",
+        "season_number": "2",
+        "serial": 1719543184580,
+        "series_id": "2224721",
+        "series_name": "Smiling Friends",
+        "show_duration": 900,
+        "show_id": "14412631",
+        "show_timestamp": 1719636300,
+        "status": "estimated",
+        "summary": "After some of the Boss's usual tomfoolery, Pim and Charlie are tasked with helping a mad scientist with an \"egg dilemma\".",
+        "taxonomy_id": "250996-005",
+        "title": "Brother's Egg",
+        "title_id": "2424769",
+        "tv_rating": "TV-14"
     }
 ]
