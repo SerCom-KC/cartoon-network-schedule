@@ -3579,5 +3579,57 @@
         "title": "My Hair Lady",
         "title_id": "731501",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "250265_008_02_851",
+        "create_time": 1719608699496,
+        "episode_in_season": "8",
+        "episode_number": "S11:E08",
+        "external_id": "16517637",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1719702000,
+        "last_update": 1719608699496,
+        "live": false,
+        "paid": "250265.008.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1719702000,
+        "season_id": "27921",
+        "season_number": "11",
+        "serial": 1719608699496,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1803,
+        "show_id": "14412679",
+        "show_timestamp": 1719702000,
+        "status": "estimated",
+        "summary": "A layover turns into the annual Belcher visit.",
+        "summary_long": "When Linda's parents have a layover at an airport nearby, Bob and Linda attempt to turn it into their annual \"visit.\"",
+        "taxonomy_id": "250265-008",
+        "title": "The Terminalator II: Terminals of Endearment",
+        "title_id": "2438968",
+        "tv_rating": "TV-PG"
     }
 ]
