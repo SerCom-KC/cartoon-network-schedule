@@ -143,7 +143,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1719635400,
-        "last_update": 1719541900453,
+        "last_update": 1719617540361,
         "live": false,
         "paid": "250996.006.03.851",
         "participants": [
@@ -176,10 +176,10 @@
         "scheduled_timestamp": 1719635400,
         "season_id": "27328",
         "season_number": "2",
-        "serial": 1719541900451,
+        "serial": 1719617540361,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
-        "show_duration": 900,
+        "show_duration": 894,
         "show_id": "14412630",
         "show_timestamp": 1719635400,
         "status": "estimated",
@@ -208,7 +208,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1719636300,
-        "last_update": 1719543184580,
+        "last_update": 1719617540362,
         "live": false,
         "paid": "250996.005.03.851",
         "participants": [
@@ -241,10 +241,10 @@
         "scheduled_timestamp": 1719636300,
         "season_id": "27328",
         "season_number": "2",
-        "serial": 1719543184580,
+        "serial": 1719617540361,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "14412631",
         "show_timestamp": 1719636300,
         "status": "estimated",
@@ -3865,6 +3865,87 @@
         "taxonomy_id": "232843-022",
         "title": "Phantom of the Telethon",
         "title_id": "711535",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232838_001_03_851",
+        "create_time": 1719617540363,
+        "episode_in_season": "1",
+        "episode_number": "S4:E01",
+        "external_id": "16517642",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1719711000,
+        "last_update": 1719617540363,
+        "live": false,
+        "paid": "232838.001.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1719711000,
+        "season_id": "1187",
+        "season_number": "4",
+        "serial": 1719617540361,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14412684",
+        "show_timestamp": 1719711000,
+        "status": "estimated",
+        "summary": "While Steve is showering after gym class, it is pointed out to him that he has scoliosis! Stan takes him to the doctor, who confirms the ugly truth, and gives him a huge back brace to wear to correct the curvature.",
+        "summary_long": "While Steve is showering after gym class, it is pointed out to him that he has scoliosis! Stan takes him to the doctor, who confirms the ugly truth, and gives him a huge back brace to wear to correct the curvature. Steve is absolutely mortified, and refuses to go to school. Stan persuades him into going by pointing out it's not the outside that matters, but the inside.",
+        "taxonomy_id": "232838-001",
+        "title": "Chimdale",
+        "title_id": "711539",
         "tv_rating": "TV-14"
     }
 ]
