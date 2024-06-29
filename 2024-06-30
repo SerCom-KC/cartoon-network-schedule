@@ -2412,5 +2412,122 @@
         "title": "Expert or Liar",
         "title_id": "2007007",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229020_030_03_851",
+        "create_time": 1719687794967,
+        "episode_in_season": "30",
+        "episode_number": "S5:E30",
+        "external_id": "16517560",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1719780300,
+        "last_update": 1719687794967,
+        "live": false,
+        "paid": "229020.030.03.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1719780300,
+        "season_id": "7365",
+        "season_number": "5",
+        "serial": 1719687794967,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 900,
+        "show_id": "14412724",
+        "show_timestamp": 1719780300,
+        "status": "estimated",
+        "summary": "Pops wants to catch a wave.",
+        "taxonomy_id": "229020-030",
+        "title": "Catching the Wave",
+        "title_id": "2008035",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233048_001_01_851",
+        "create_time": 1719687794968,
+        "episode_in_season": "1",
+        "episode_number": "S6:E01",
+        "external_id": "16540580",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1719781200,
+        "last_update": 1719687794968,
+        "live": false,
+        "paid": "233048.001.01.851",
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1719781200,
+        "season_id": "12325",
+        "season_number": "6",
+        "serial": 1719687794967,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1807,
+        "show_id": "14412725",
+        "show_timestamp": 1719781200,
+        "status": "estimated",
+        "summary": "Fry learns he has a tattoo of Bender that is made of microscopic zeros and ones and when read out loud, reveals the code to create a Time Sphere.",
+        "taxonomy_id": "233048-001",
+        "title": "Bender's Big Score Part 1",
+        "title_id": "2161604",
+        "tv_rating": "TV-14"
     }
 ]
