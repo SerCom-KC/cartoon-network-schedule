@@ -2864,5 +2864,86 @@
         "title": "Y Tu Tina Tambien",
         "title_id": "2438976",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_013_02_851",
+        "create_time": 1719702393188,
+        "episode_in_season": "13",
+        "episode_number": "S17:E13",
+        "external_id": "16517565",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1719795600,
+        "last_update": 1719702393188,
+        "live": false,
+        "paid": "232851.013.02.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1719795600,
+        "season_id": "24150",
+        "season_number": "17",
+        "serial": 1719702393188,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1804,
+        "show_id": "14412733",
+        "show_timestamp": 1719795600,
+        "status": "estimated",
+        "summary": "Roger is forced to confront himself after a series of accidents. Klaus and Jeff bond.",
+        "taxonomy_id": "232851-013",
+        "title": "The Fast and the Spurious",
+        "title_id": "2342102",
+        "tv_rating": "TV-14"
     }
 ]
