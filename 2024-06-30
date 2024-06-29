@@ -1104,5 +1104,72 @@
         "title": "The Box",
         "title_id": "2089014",
         "tv_rating": "TV-Y7-FV"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "241732_005_02_851",
+        "create_time": 1719656164724,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "16527601",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo Show, The",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1719748800,
+        "last_update": 1719656164724,
+        "live": false,
+        "paid": "241732.005.02.851",
+        "participants": [
+            {
+                "character": "Shaggy Rogers",
+                "name": "Casey Kasem",
+                "role": "Voice"
+            },
+            {
+                "character": "Scooby-Doo",
+                "name": "Don Messick",
+                "role": "Voice"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Heather North",
+                "role": "Voice"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Patricia Stevens",
+                "role": "Voice"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1976,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1719748800,
+        "season_id": "316",
+        "season_number": "1",
+        "serial": 1719656164724,
+        "series_id": "317041",
+        "series_name": "The Scooby-Doo Show",
+        "show_duration": 1800,
+        "show_id": "14412702",
+        "show_timestamp": 1719748800,
+        "status": "estimated",
+        "summary": "The gang witnesses a terrifying visit by the legendary Headless Horseman of Sleepy Hollow!",
+        "taxonomy_id": "241732-005",
+        "title": "The Headless Horseman of Halloween",
+        "title_id": "123540",
+        "tv_rating": "TV-G"
     }
 ]
