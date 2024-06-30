@@ -4582,5 +4582,98 @@
         "title": "Phish and Wildlife",
         "title_id": "731502",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233060_014_02_851",
+        "create_time": 1719785826142,
+        "episode_in_season": "14",
+        "episode_number": "S8:E14",
+        "external_id": "16540992",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1719876600,
+        "last_update": 1719785826142,
+        "live": false,
+        "paid": "233060.014.02.851",
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2003,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1719876600,
+        "season_id": "1541",
+        "season_number": "8",
+        "serial": 1719785826142,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "14439759",
+        "show_timestamp": 1719876600,
+        "status": "estimated",
+        "summary": "When racecar driver John Force needs a kidney transplant, Dale turns out to be a perfect match; Peggy helps Bobby win over his classmates when he reads announcements over the school's intercom system.",
+        "taxonomy_id": "233060-014",
+        "title": "Dale Be Not Proud",
+        "title_id": "731504",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250265_015_03_851",
+        "create_time": 1719785826143,
+        "episode_in_season": "15",
+        "episode_number": "S11:E15",
+        "external_id": "16540993",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1719878400,
+        "last_update": 1719785826143,
+        "live": false,
+        "paid": "250265.015.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1719878400,
+        "season_id": "27921",
+        "season_number": "11",
+        "serial": 1719785826142,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1806,
+        "show_id": "14439760",
+        "show_timestamp": 1719878400,
+        "status": "estimated",
+        "summary": "Linda's new routine is wreaking havoc.",
+        "summary_long": "Linda's new routine of diet and exercise gives her gastrointestinal trouble on the day of parent-teacher-student conferences.",
+        "taxonomy_id": "250265-015",
+        "title": "Sheshank Redumption",
+        "title_id": "2438975",
+        "tv_rating": "TV-PG"
     }
 ]
