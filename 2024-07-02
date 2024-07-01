@@ -738,5 +738,147 @@
         "title": "Promortyus",
         "title_id": "2206491",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251793_008_03_851",
+        "create_time": 1719813336477,
+        "episode_in_season": "8",
+        "episode_number": "S4:E08",
+        "external_id": "16541010",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1719905400,
+        "last_update": 1719813336477,
+        "live": false,
+        "paid": "251793.008.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1719905400,
+        "season_id": "15308",
+        "season_number": "4",
+        "serial": 1719813336477,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1805,
+        "show_id": "14439777",
+        "show_timestamp": 1719905400,
+        "status": "estimated",
+        "summary": "The one with the acid vat, broh.",
+        "taxonomy_id": "251793-008",
+        "title": "The Vat of Acid Episode",
+        "title_id": "2206493",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "228343_001_02_851",
+        "create_time": 1719813965690,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "16553288",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jellies, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1719907200,
+        "last_update": 1719813965690,
+        "live": false,
+        "paid": "228343.001.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Tyler The Creator",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Lionel Boyce (L-Boy)",
+                "role": "Creator"
+            },
+            {
+                "character": "Cornell Jelly",
+                "name": "Phil LaMarr",
+                "role": "Voice"
+            },
+            {
+                "character": "Barry Jelly",
+                "name": "Earl Skakel",
+                "role": "Voice"
+            },
+            {
+                "character": "Debbie Jelly",
+                "name": "A.J. Johnson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1719907200,
+        "season_id": "11985",
+        "season_number": "1",
+        "serial": 1719813965690,
+        "series_id": "2132025",
+        "series_name": "The Jellies",
+        "show_duration": 900,
+        "show_id": "14456107",
+        "show_timestamp": 1719907200,
+        "status": "estimated",
+        "summary": "When Debbie and Barry's marriage hits a rough patch, Cornell decides to take matters into his own hands to save it.",
+        "taxonomy_id": "228343-001",
+        "title": "Gangsta's Paradise",
+        "title_id": "2132027",
+        "tv_rating": "TV-14"
     }
 ]
