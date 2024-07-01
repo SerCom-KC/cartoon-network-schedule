@@ -880,5 +880,76 @@
         "title": "Gangsta's Paradise",
         "title_id": "2132027",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "228343_002_02_851",
+        "create_time": 1719815376301,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16553289",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jellies, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1719908100,
+        "last_update": 1719815376301,
+        "live": false,
+        "paid": "228343.002.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Tyler The Creator",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Lionel Boyce (L-Boy)",
+                "role": "Creator"
+            },
+            {
+                "character": "Cornell Jelly",
+                "name": "Phil LaMarr",
+                "role": "Voice"
+            },
+            {
+                "character": "Barry Jelly",
+                "name": "Earl Skakel",
+                "role": "Voice"
+            },
+            {
+                "character": "Debbie Jelly",
+                "name": "A.J. Johnson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1719908100,
+        "season_id": "11985",
+        "season_number": "1",
+        "serial": 1719815376300,
+        "series_id": "2132025",
+        "series_name": "The Jellies",
+        "show_duration": 901,
+        "show_id": "14456108",
+        "show_timestamp": 1719908100,
+        "status": "estimated",
+        "summary": "Ray can't seem to get a date for the prom so Cornell goes to enormous lengths to help a friend out.",
+        "taxonomy_id": "228343-002",
+        "title": "Ray's Perfect Date",
+        "title_id": "2132028",
+        "tv_rating": "TV-14"
     }
 ]
