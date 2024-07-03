@@ -500,5 +500,86 @@
         "title": "Footprints",
         "title_id": "2399410",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_020_01_851",
+        "create_time": 1719980680510,
+        "episode_in_season": "20",
+        "episode_number": "S18:E19",
+        "external_id": "16541327",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1720072800,
+        "last_update": 1719980680510,
+        "live": false,
+        "paid": "232841.020.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1720072800,
+        "season_id": "25259",
+        "season_number": "18",
+        "serial": 1719980680510,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14439916",
+        "show_timestamp": 1720072800,
+        "status": "estimated",
+        "summary": "In order to have a chance with a girl, Steve and Snot must track down a keg of 4Loko.",
+        "taxonomy_id": "232841-020",
+        "title": "Steve, Snot, and the Quest for the Og 4LOCO",
+        "title_id": "2408660",
+        "tv_rating": "TV-14"
     }
 ]
