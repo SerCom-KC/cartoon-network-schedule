@@ -3951,5 +3951,121 @@
         "title": "Space Escape",
         "title_id": "2088605",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229032_016_02_851",
+        "create_time": 1720119913608,
+        "episode_in_season": "16",
+        "episode_number": "S8:E16",
+        "external_id": "16541191",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1720212300,
+        "last_update": 1720119913608,
+        "live": false,
+        "paid": "229032.016.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1720212300,
+        "season_id": "9882",
+        "season_number": "8",
+        "serial": 1720119913608,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 900,
+        "show_id": "14440039",
+        "show_timestamp": 1720212300,
+        "status": "estimated",
+        "summary": "The guys get new beds.",
+        "taxonomy_id": "229032-016",
+        "title": "New Beds",
+        "title_id": "2088606",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "268720_006_02_851",
+        "create_time": 1720119913609,
+        "episode_in_season": "6",
+        "episode_number": "6",
+        "external_id": "16541192",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Sailor Moon",
+        "genres": [
+            "Animation",
+            "Anime"
+        ],
+        "guide_timestamp": 1720213200,
+        "last_update": 1720119913609,
+        "live": false,
+        "paid": "268720.006.02.851",
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1720213200,
+        "season_id": "30821",
+        "season_number": "1",
+        "serial": 1720119913608,
+        "series_id": "2529996",
+        "series_name": "Sailor Moon",
+        "show_duration": 1800,
+        "show_id": "14440040",
+        "show_timestamp": 1720213200,
+        "status": "estimated",
+        "summary": "One rainy day, Usagi bumps into Yusuke Amade, a famous musician who claims he is being chased by a monster. Realizing the man is telling the truth, Usagi and Luna decide to keep an eye on Yusuke by staking out the venue where he performs.",
+        "taxonomy_id": "268720-006",
+        "title": "Protect the Melody of Love: Usagi Plays Cupid",
+        "title_id": "2530002",
+        "tv_rating": "TV-PG"
     }
 ]
