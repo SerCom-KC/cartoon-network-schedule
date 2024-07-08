@@ -661,5 +661,77 @@
         "title": "May the Best Stan Win",
         "title_id": "748135",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251794_006_03_851",
+        "create_time": 1720415059538,
+        "episode_in_season": "6",
+        "episode_number": "S5:E06",
+        "external_id": "16540896",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1720508400,
+        "last_update": 1720415059538,
+        "live": false,
+        "paid": "251794.006.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1720508400,
+        "season_id": "17487",
+        "season_number": "5",
+        "serial": 1720415059538,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1801,
+        "show_id": "14440237",
+        "show_timestamp": 1720508400,
+        "status": "estimated",
+        "summary": "Gobble gobble broh. Rick and Morty givin thanks in this one.",
+        "taxonomy_id": "251794-006",
+        "title": "Rick & Morty's Thanksploitation Spectacular",
+        "title_id": "2270464",
+        "tv_rating": "TV-14"
     }
 ]
