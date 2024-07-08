@@ -805,5 +805,76 @@
         "title": "Gotron Jerrysis Rickvangelion",
         "title_id": "2270461",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "228343_011_02_851",
+        "create_time": 1720418519825,
+        "episode_in_season": "11",
+        "episode_number": "109/110",
+        "external_id": "16540898",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jellies, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1720512000,
+        "last_update": 1720418519825,
+        "live": false,
+        "paid": "228343.011.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Tyler The Creator",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Lionel Boyce (L-Boy)",
+                "role": "Creator"
+            },
+            {
+                "character": "Cornell Jelly",
+                "name": "Phil LaMarr",
+                "role": "Voice"
+            },
+            {
+                "character": "Barry Jelly",
+                "name": "Earl Skakel",
+                "role": "Voice"
+            },
+            {
+                "character": "Debbie Jelly",
+                "name": "A.J. Johnson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1720512000,
+        "season_id": "11985",
+        "season_number": "1",
+        "serial": 1720418519825,
+        "series_id": "2132025",
+        "series_name": "The Jellies",
+        "show_duration": 1800,
+        "show_id": "14440239",
+        "show_timestamp": 1720512000,
+        "status": "estimated",
+        "summary": "Just watch this episode, trust me.",
+        "taxonomy_id": "228343-011",
+        "title": "The Invasion",
+        "title_id": "2132034",
+        "tv_rating": "TV-14"
     }
 ]
