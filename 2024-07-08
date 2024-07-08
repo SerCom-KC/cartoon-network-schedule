@@ -17,7 +17,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1720411200,
-        "last_update": 1720318065262,
+        "last_update": 1720404112584,
         "live": false,
         "paid": "268716.001.02.851",
         "premiere": true,
@@ -28,12 +28,12 @@
         "scheduled_timestamp": 1720411200,
         "season_id": "30822",
         "season_number": "1",
-        "serial": 1720318065262,
+        "serial": 1720404112580,
         "series_id": "2530043",
         "series_name": "Psi Cops",
         "show_duration": 906,
         "show_id": "14456113",
-        "show_timestamp": 1720411200,
+        "show_timestamp": 1720411206,
         "status": "estimated",
         "summary": "An experimental facility hidden in a frozen wasteland houses dark secrets, scientists with hidden agendas, genetically altered monkeys and well\u2026 bananas.",
         "taxonomy_id": "268716-001",
@@ -59,7 +59,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1720412100,
-        "last_update": 1720385850055,
+        "last_update": 1720404112584,
         "live": false,
         "paid": "268716.002.02.851",
         "premiere": true,
@@ -70,12 +70,12 @@
         "scheduled_timestamp": 1720412100,
         "season_id": "30822",
         "season_number": "1",
-        "serial": 1720385850053,
+        "serial": 1720404112580,
         "series_id": "2530043",
         "series_name": "Psi Cops",
         "show_duration": 841,
         "show_id": "14456114",
-        "show_timestamp": 1720412100,
+        "show_timestamp": 1720412102,
         "status": "estimated",
         "summary": "Kydd and Felixx finally take down an alien! That looks eerily like an old man\u2026 but it's not actually an old man\u2026.is it?",
         "taxonomy_id": "268716-002",
@@ -101,7 +101,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1720413000,
-        "last_update": 1720320095740,
+        "last_update": 1720404112585,
         "live": false,
         "paid": "250996.002.03.851",
         "participants": [
@@ -134,12 +134,12 @@
         "scheduled_timestamp": 1720413000,
         "season_id": "27328",
         "season_number": "2",
-        "serial": 1720320095739,
+        "serial": 1720404112580,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
         "show_duration": 944,
         "show_id": "14440161",
-        "show_timestamp": 1720413000,
+        "show_timestamp": 1720413001,
         "status": "estimated",
         "summary": "Yes, You Do Need to Watch This Important Episode of Smiling Friends Where They Help the President Smile. Here's Why That's a Good Thing.",
         "taxonomy_id": "250996-002",
@@ -4841,6 +4841,78 @@
         "taxonomy_id": "232848-002",
         "title": "A Jones for a Smith",
         "title_id": "748130",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251794_006_03_851",
+        "create_time": 1720402962513,
+        "episode_in_season": "6",
+        "episode_number": "S5:E06",
+        "external_id": "16540887",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1720495800,
+        "last_update": 1720402962513,
+        "live": false,
+        "paid": "251794.006.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1720495800,
+        "season_id": "17487",
+        "season_number": "5",
+        "serial": 1720402962513,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1806,
+        "show_id": "14440228",
+        "show_timestamp": 1720495800,
+        "status": "estimated",
+        "summary": "Gobble gobble broh. Rick and Morty givin thanks in this one.",
+        "taxonomy_id": "251794-006",
+        "title": "Rick & Morty's Thanksploitation Spectacular",
+        "title_id": "2270464",
         "tv_rating": "TV-14"
     }
 ]
