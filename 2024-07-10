@@ -492,5 +492,86 @@
         "title": "Return of the Bling",
         "title_id": "748129",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232848_005_04_851",
+        "create_time": 1720499049360,
+        "episode_in_season": "5",
+        "episode_number": "S5:E05",
+        "external_id": "16540835",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1720591200,
+        "last_update": 1720499049360,
+        "live": false,
+        "paid": "232848.005.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1720591200,
+        "season_id": "1188",
+        "season_number": "5",
+        "serial": 1720499049360,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1805,
+        "show_id": "14440304",
+        "show_timestamp": 1720591200,
+        "status": "estimated",
+        "summary": "In an attempt to prove his manhood to Stan, Roger joins the Police Academy. But it's not very long until he becomes a corrupt cop.",
+        "taxonomy_id": "232848-005",
+        "title": "Cops and Roger",
+        "title_id": "798356",
+        "tv_rating": "TV-14"
     }
 ]
