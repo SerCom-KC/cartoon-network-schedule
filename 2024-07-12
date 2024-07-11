@@ -4332,5 +4332,55 @@
         "title": "Bob Day Afternoon",
         "title_id": "2003437",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169768_003_02_851",
+        "create_time": 1720736235972,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": "16540643",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1720828800,
+        "last_update": 1720736235972,
+        "live": false,
+        "paid": "169768.003.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1720828800,
+        "season_id": "7296",
+        "season_number": "2",
+        "serial": 1720736235972,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14440500",
+        "show_timestamp": 1720828800,
+        "status": "estimated",
+        "summary": "The kids con their way out of gym class with a bogus synchronized swimming independent study. Meanwhile, Bob welcomes a new soft serve ice cream machine to the restaurant.",
+        "taxonomy_id": "169768-003",
+        "title": "Synchronized Swimming",
+        "title_id": "2003438",
+        "tv_rating": "TV-PG"
     }
 ]
