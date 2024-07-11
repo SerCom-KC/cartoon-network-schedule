@@ -4280,5 +4280,57 @@
         "title": "The Death of Clark Kent",
         "title_id": "2288472",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169768_002_02_851",
+        "create_time": 1720734817299,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16540642",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1720827000,
+        "last_update": 1720734817299,
+        "live": false,
+        "paid": "169768.002.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1720827000,
+        "season_id": "7296",
+        "season_number": "2",
+        "serial": 1720734817299,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14440499",
+        "show_timestamp": 1720827000,
+        "status": "estimated",
+        "summary": "A bank robber holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis.",
+        "taxonomy_id": "169768-002",
+        "title": "Bob Day Afternoon",
+        "title_id": "2003437",
+        "tv_rating": "TV-14"
     }
 ]
