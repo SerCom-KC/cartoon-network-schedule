@@ -1087,5 +1087,57 @@
         "title": "Torpedo",
         "title_id": "2003435",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169768_001_02_851",
+        "create_time": 1720683304669,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "16540597",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1720776600,
+        "last_update": 1720683304669,
+        "live": false,
+        "paid": "169768.001.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1720776600,
+        "season_id": "7296",
+        "season_number": "2",
+        "serial": 1720683304669,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14440451",
+        "show_timestamp": 1720776600,
+        "status": "estimated",
+        "summary": "The kids hunt for treasure in an abandoned taffy factory, and Bob and Linda must find them before the factory's scheduled demolition.",
+        "taxonomy_id": "169768-001",
+        "title": "The Belchies",
+        "title_id": "2003436",
+        "tv_rating": "TV-14"
     }
 ]
