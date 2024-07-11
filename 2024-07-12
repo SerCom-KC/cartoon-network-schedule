@@ -785,5 +785,188 @@
         "title": "The Facility",
         "title_id": "2530044",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "268716_002_02_851",
+        "create_time": 1720678663797,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "16564410",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Psi Cops",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1720770300,
+        "last_update": 1720678663797,
+        "live": false,
+        "paid": "268716.002.02.851",
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1720770300,
+        "season_id": "30822",
+        "season_number": "1",
+        "serial": 1720678663797,
+        "series_id": "2530043",
+        "series_name": "Psi Cops",
+        "show_duration": 900,
+        "show_id": "14456130",
+        "show_timestamp": 1720770300,
+        "status": "estimated",
+        "summary": "Kydd and Felixx finally take down an alien! That looks eerily like an old man\u2026 but it's not actually an old man\u2026.is it?",
+        "taxonomy_id": "268716-002",
+        "title": "Alien Autopsy",
+        "title_id": "2530045",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "228338_003_02_851",
+        "create_time": 1720678663798,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": "16553309",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jellies, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1720771200,
+        "last_update": 1720678663798,
+        "live": false,
+        "paid": "228338.003.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Tyler The Creator",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Lionel Boyce (L-Boy)",
+                "role": "Creator"
+            },
+            {
+                "character": "Cornell Jelly",
+                "name": "Phil LaMarr",
+                "role": "Voice"
+            },
+            {
+                "character": "Barry Jelly",
+                "name": "Earl Skakel",
+                "role": "Voice"
+            },
+            {
+                "character": "Debbie Jelly",
+                "name": "A.J. Johnson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 907,
+        "scheduled_timestamp": 1720771200,
+        "season_id": "13882",
+        "season_number": "2",
+        "serial": 1720678663797,
+        "series_id": "2132025",
+        "series_name": "The Jellies",
+        "show_duration": 907,
+        "show_id": "14456131",
+        "show_timestamp": 1720771200,
+        "status": "estimated",
+        "summary": "Trouble looms as the city of Walla Walla is gentrified by peanuts.",
+        "taxonomy_id": "228338-003",
+        "title": "These Nuts",
+        "title_id": "2191414",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252055_004_02_851",
+        "create_time": 1720678663798,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "16540594",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jellies, The",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1720772100,
+        "last_update": 1720678663798,
+        "live": false,
+        "paid": "252055.004.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Tyler The Creator",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Lionel Boyce (L-Boy)",
+                "role": "Creator"
+            },
+            {
+                "character": "Cornell Jelly",
+                "name": "Phil LaMarr",
+                "role": "Voice"
+            },
+            {
+                "character": "Barry Jelly",
+                "name": "Earl Skakel",
+                "role": "Voice"
+            },
+            {
+                "character": "Debbie Jelly",
+                "name": "A.J. Johnson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1720772100,
+        "season_id": "13882",
+        "season_number": "2",
+        "serial": 1720678663797,
+        "series_id": "2132025",
+        "series_name": "The Jellies",
+        "show_duration": 900,
+        "show_id": "14440448",
+        "show_timestamp": 1720772100,
+        "status": "estimated",
+        "summary": "Debbie meets a sleazy TV lawyer and gets swept up in the world of sleazy TV law.",
+        "taxonomy_id": "252055-004",
+        "title": "Crash for Cash",
+        "title_id": "2191419",
+        "tv_rating": "TV-14"
     }
 ]
