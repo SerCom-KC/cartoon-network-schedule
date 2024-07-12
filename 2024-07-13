@@ -579,5 +579,77 @@
         "title": "Bro Down",
         "title_id": "2424747",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251795_008_03_851",
+        "create_time": 1720756918644,
+        "episode_in_season": "8",
+        "episode_number": "S6:E08",
+        "external_id": "16540584",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1720850400,
+        "last_update": 1720756918644,
+        "live": false,
+        "paid": "251795.008.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1720850400,
+        "season_id": "25507",
+        "season_number": "6",
+        "serial": 1720756918644,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1810,
+        "show_id": "14440512",
+        "show_timestamp": 1720850400,
+        "status": "estimated",
+        "summary": "Haters gonna hate, broh.",
+        "taxonomy_id": "251795-008",
+        "title": "Analyze Piss",
+        "title_id": "2397941",
+        "tv_rating": "TV-14"
     }
 ]
