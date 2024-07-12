@@ -3829,5 +3829,57 @@
         "title": "Bad Tina",
         "title_id": "2003443",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169768_009_03_851",
+        "create_time": 1720823828242,
+        "episode_in_season": "9",
+        "episode_number": "S2:E09",
+        "external_id": "16541465",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1720917000,
+        "last_update": 1720823828242,
+        "live": false,
+        "paid": "169768.009.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1720917000,
+        "season_id": "7296",
+        "season_number": "2",
+        "serial": 1720823828242,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1801,
+        "show_id": "14440561",
+        "show_timestamp": 1720917000,
+        "status": "estimated",
+        "summary": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.",
+        "taxonomy_id": "169768-009",
+        "title": "Beefsquatch",
+        "title_id": "2003444",
+        "tv_rating": "TV-14"
     }
 ]
