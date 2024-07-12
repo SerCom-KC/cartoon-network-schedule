@@ -3963,5 +3963,85 @@
         "title": "Fartbreak Hotel",
         "title_id": "822211",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232842_010_03_851",
+        "create_time": 1720827250374,
+        "episode_in_season": "10",
+        "episode_number": "S6:E10",
+        "external_id": "16541467",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1720920600,
+        "last_update": 1720827250374,
+        "live": false,
+        "paid": "232842.010.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1720920600,
+        "season_id": "1189",
+        "season_number": "6",
+        "serial": 1720827250374,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "14440563",
+        "show_timestamp": 1720920600,
+        "status": "estimated",
+        "summary": "On the hunt for new friends, Stan and Francine hit it off with a younger married couple, Tom and Cami.",
+        "taxonomy_id": "232842-010",
+        "title": "Stanny-Boy and Frantastic",
+        "title_id": "748139",
+        "tv_rating": "TV-14"
     }
 ]
