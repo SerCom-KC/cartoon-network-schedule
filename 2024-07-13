@@ -3881,5 +3881,87 @@
         "title": "Beefsquatch",
         "title_id": "2003444",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232842_009_03_851",
+        "create_time": 1720826750021,
+        "episode_in_season": "9",
+        "episode_number": "S6:E09",
+        "external_id": "16541466",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1720918800,
+        "last_update": 1720826750021,
+        "live": false,
+        "paid": "232842.009.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1720918800,
+        "season_id": "1189",
+        "season_number": "6",
+        "serial": 1720826750021,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1805,
+        "show_id": "14440562",
+        "show_timestamp": 1720918800,
+        "status": "estimated",
+        "summary": "When Roger releases lethal gas into the Smith residence, the family moves into a hotel while the fumes clear.",
+        "summary_long": "When Roger releases lethal gas into the Smith residence, the family moves into a hotel while the fumes clear. Francine finds herself with a lot of free time on her hands, and she soon finds herself working in the construction business.",
+        "taxonomy_id": "232842-009",
+        "title": "Fartbreak Hotel",
+        "title_id": "822211",
+        "tv_rating": "TV-14"
     }
 ]
