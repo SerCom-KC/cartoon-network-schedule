@@ -1028,5 +1028,56 @@
         "title": "Dog",
         "title_id": "2424753",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169771_004_02_851",
+        "create_time": 1720940857304,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "16541343",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1721034000,
+        "last_update": 1720940857304,
+        "live": false,
+        "paid": "169771.004.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1721034000,
+        "season_id": "7298",
+        "season_number": "3",
+        "serial": 1720940857304,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14440628",
+        "show_timestamp": 1721034000,
+        "status": "estimated",
+        "summary": "When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills. Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant.",
+        "summary_long": "When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills outside of the restaurant. However, Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant.",
+        "taxonomy_id": "169771-004",
+        "title": "Mutiny on the Windbreaker",
+        "title_id": "2003515",
+        "tv_rating": "TV-PG"
     }
 ]
