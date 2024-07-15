@@ -60,7 +60,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1721016900,
-        "last_update": 1720926159529,
+        "last_update": 1721008804402,
         "live": false,
         "paid": "268716.004.02.851",
         "premiere": true,
@@ -71,10 +71,10 @@
         "scheduled_timestamp": 1721016900,
         "season_id": "30822",
         "season_number": "1",
-        "serial": 1720926159529,
+        "serial": 1721008804399,
         "series_id": "2530043",
         "series_name": "Psi Cops",
-        "show_duration": 900,
+        "show_duration": 871,
         "show_id": "14456138",
         "show_timestamp": 1721016900,
         "status": "estimated",
@@ -170,7 +170,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1721018700,
-        "last_update": 1720926159531,
+        "last_update": 1721008804403,
         "live": false,
         "paid": "250996.005.03.851",
         "participants": [
@@ -203,10 +203,10 @@
         "scheduled_timestamp": 1721018700,
         "season_id": "27328",
         "season_number": "2",
-        "serial": 1720926159529,
+        "serial": 1721008804399,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
-        "show_duration": 900,
+        "show_duration": 891,
         "show_id": "14440619",
         "show_timestamp": 1721018700,
         "status": "estimated",
@@ -236,7 +236,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1721019600,
-        "last_update": 1720926159532,
+        "last_update": 1721008804403,
         "live": false,
         "paid": "251918.010.02.851",
         "participants": [
@@ -349,10 +349,10 @@
         "scheduled_timestamp": 1721019600,
         "season_id": "27326",
         "season_number": "2",
-        "serial": 1720926159529,
+        "serial": 1721008804399,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
-        "show_duration": 1800,
+        "show_duration": 1795,
         "show_id": "14440620",
         "show_timestamp": 1721019600,
         "status": "estimated",
@@ -727,7 +727,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1721029500,
-        "last_update": 1720936541793,
+        "last_update": 1721008844599,
         "live": false,
         "paid": "268716.004.02.851",
         "premiere": false,
@@ -738,10 +738,10 @@
         "scheduled_timestamp": 1721029500,
         "season_id": "30822",
         "season_number": "1",
-        "serial": 1720936541792,
+        "serial": 1721008844598,
         "series_id": "2530043",
         "series_name": "Psi Cops",
-        "show_duration": 900,
+        "show_duration": 891,
         "show_id": "14456140",
         "show_timestamp": 1721029500,
         "status": "estimated",
@@ -1048,7 +1048,7 @@
             "Family"
         ],
         "guide_timestamp": 1721034000,
-        "last_update": 1720940857304,
+        "last_update": 1721008844599,
         "live": false,
         "paid": "169771.004.02.851",
         "participants": [
@@ -1066,10 +1066,10 @@
         "scheduled_timestamp": 1721034000,
         "season_id": "7298",
         "season_number": "3",
-        "serial": 1720940857304,
+        "serial": 1721008844598,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1800,
+        "show_duration": 1790,
         "show_id": "14440628",
         "show_timestamp": 1721034000,
         "status": "estimated",
@@ -4897,6 +4897,78 @@
         "taxonomy_id": "232842-014",
         "title": "School Lies",
         "title_id": "748156",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251795_009_03_851",
+        "create_time": 1721007010056,
+        "episode_in_season": "9",
+        "episode_number": "S6:E09",
+        "external_id": "16542340",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1721100600,
+        "last_update": 1721007010056,
+        "live": false,
+        "paid": "251795.009.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1721100600,
+        "season_id": "25507",
+        "season_number": "6",
+        "serial": 1721007010056,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14440685",
+        "show_timestamp": 1721100600,
+        "status": "estimated",
+        "summary": "Things are heating up, y'know what I mean broh?",
+        "taxonomy_id": "251795-009",
+        "title": "A Rick in King Mortur's Mort",
+        "title_id": "2397942",
         "tv_rating": "TV-14"
     }
 ]
