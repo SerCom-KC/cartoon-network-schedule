@@ -130,5 +130,80 @@
         "title": "Desmond's Big Day Out",
         "title_id": "2224722",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251841_002_01_851",
+        "create_time": 1721012263178,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16542343",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "YOLO",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1721105100,
+        "last_update": 1721012263178,
+        "live": false,
+        "paid": "251841.002.01.851",
+        "participants": [
+            {
+                "character": "Sarah",
+                "name": "Sarah Bishop",
+                "role": "Voice"
+            },
+            {
+                "character": "Rachel",
+                "name": "Todor Manojlovic",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Emma Fitzsimons",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Greta Lee Jackson",
+                "role": "Executive Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1721105100,
+        "season_id": "25947",
+        "season_number": "2",
+        "serial": 1721012263178,
+        "series_id": "2224723",
+        "series_name": "YOLO",
+        "show_duration": 901,
+        "show_id": "14440688",
+        "show_timestamp": 1721105100,
+        "status": "estimated",
+        "summary": "Sarah, Rachel, and Lucas head to Planet Bali for Sarah's sister's wedding and are surprised to discover the identity of the groom. But the bride's intentions are far more sinister than tying the knot.",
+        "summary_long": "Sarah, Rachel, and Lucas head to Planet Bali for Sarah's sister's wedding and are surprised to discover the identity of the groom. But the bride's intentions are far more sinister than tying the knot. Whilst waiting on the beach to guard Rachel's sword, Lucas encounters a mermaid who sets him on a new quest.",
+        "taxonomy_id": "251841-002",
+        "title": "Planet Bali",
+        "title_id": "2412375",
+        "tv_rating": "TV-14"
     }
 ]
