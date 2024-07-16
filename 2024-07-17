@@ -580,5 +580,86 @@
         "title": "Home Wrecker",
         "title_id": "748158",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232842_018_03_851",
+        "create_time": 1721104701084,
+        "episode_in_season": "18",
+        "episode_number": "S6:E18",
+        "external_id": "16541533",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1721197800,
+        "last_update": 1721104701084,
+        "live": false,
+        "paid": "232842.018.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1721197800,
+        "season_id": "1189",
+        "season_number": "6",
+        "serial": 1721104701082,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14440765",
+        "show_timestamp": 1721197800,
+        "status": "estimated",
+        "summary": "Francine gets a job at Stan's office, which cramps Stan's style and his ability to flirt with co-workers. When Francine retaliates with a little flirting of her own, war breaks out at work.",
+        "taxonomy_id": "232842-018",
+        "title": "Flirting With Disaster",
+        "title_id": "748159",
+        "tv_rating": "TV-14"
     }
 ]
