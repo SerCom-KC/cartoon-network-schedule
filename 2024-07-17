@@ -879,5 +879,146 @@
         "title": "Baby Boom",
         "title_id": "862776",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252065_004_02_851",
+        "create_time": 1721111541291,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "16541537",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "China, IL",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1721204100,
+        "last_update": 1721111541291,
+        "live": false,
+        "paid": "252065.004.02.851",
+        "participants": [
+            {
+                "character": "Frank Smith",
+                "name": "Brad Neely",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Brad Neely",
+                "role": "Voice"
+            },
+            {
+                "character": "Baby Cakes",
+                "name": "Brad Neely",
+                "role": "Voice"
+            },
+            {
+                "character": "Pony Merks",
+                "name": "Greta Gerwig",
+                "role": "Voice"
+            },
+            {
+                "character": "The Dean",
+                "name": "Hulk Hogan",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1721204100,
+        "season_id": "6185",
+        "season_number": "1",
+        "serial": 1721111541291,
+        "series_id": "862772",
+        "series_name": "China, IL",
+        "show_duration": 901,
+        "show_id": "14440769",
+        "show_timestamp": 1721204100,
+        "status": "estimated",
+        "summary": "Student registration for the History Department sinks to an all-time low after the death of Harold, one of the faculty's best professors. Steve must come up with a plan to save their jobs.",
+        "summary_long": "Student registration for the History Department sinks to an all-time low after the death of Harold, one of the faculty's best professors. Steve must come up with a plan to save their jobs while Frank becomes convinced that he's getting unsolicited attention from a paranormal being.",
+        "taxonomy_id": "252065-004",
+        "title": "Coming Out of the Casket",
+        "title_id": "862775",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229182_003_02_851",
+        "create_time": 1721111541292,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16541538",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Moral Orel",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1721205000,
+        "last_update": 1721111541292,
+        "live": false,
+        "paid": "229182.003.02.851",
+        "participants": [
+            {
+                "character": "Orel Puppington",
+                "name": "Carolyn Lawrence",
+                "role": "Voice"
+            },
+            {
+                "character": "Clay Puppington",
+                "name": "Scott Adsit",
+                "role": "Voice"
+            },
+            {
+                "character": "Bloberta Puppington",
+                "name": "Britta Phillips",
+                "role": "Voice"
+            },
+            {
+                "character": "Shapey Puppington",
+                "name": "Tigger Stamatopoulos",
+                "role": "Voice"
+            },
+            {
+                "character": "Rod Putty",
+                "name": "William Salyers",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 15,
+        "scheduled_duration": 904,
+        "scheduled_timestamp": 1721205000,
+        "season_id": "1520",
+        "season_number": "1",
+        "serial": 1721111541291,
+        "series_id": "629688",
+        "series_name": "Moral Orel",
+        "show_duration": 904,
+        "show_id": "14440770",
+        "show_timestamp": 1721205000,
+        "status": "estimated",
+        "summary": "When Reverend Putty preaches the righteousness of helping the poor, Orel befriends a down-and-out crack dealer.",
+        "taxonomy_id": "229182-003",
+        "title": "Charity",
+        "title_id": "630820",
+        "tv_rating": "TV-MA"
     }
 ]
