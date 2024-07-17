@@ -1019,5 +1019,125 @@
         "title": "The Blessed Union",
         "title_id": "633147",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229182_006_02_851",
+        "create_time": 1721200723505,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "16541608",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Moral Orel",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1721292300,
+        "last_update": 1721200723505,
+        "live": false,
+        "paid": "229182.006.02.851",
+        "participants": [
+            {
+                "character": "Orel Puppington",
+                "name": "Carolyn Lawrence",
+                "role": "Voice"
+            },
+            {
+                "character": "Clay Puppington",
+                "name": "Scott Adsit",
+                "role": "Voice"
+            },
+            {
+                "character": "Bloberta Puppington",
+                "name": "Britta Phillips",
+                "role": "Voice"
+            },
+            {
+                "character": "Shapey Puppington",
+                "name": "Tigger Stamatopoulos",
+                "role": "Voice"
+            },
+            {
+                "character": "Rod Putty",
+                "name": "William Salyers",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 15,
+        "scheduled_duration": 906,
+        "scheduled_timestamp": 1721292300,
+        "season_id": "1520",
+        "season_number": "1",
+        "serial": 1721200723505,
+        "series_id": "629688",
+        "series_name": "Moral Orel",
+        "show_duration": 906,
+        "show_id": "14440844",
+        "show_timestamp": 1721292300,
+        "status": "estimated",
+        "summary": "Orel gets a big head when he learns that God is everywhere, even in him.",
+        "taxonomy_id": "229182-006",
+        "title": "Omnipresence",
+        "title_id": "633148",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169771_019_03_851",
+        "create_time": 1721200723506,
+        "episode_in_season": "19",
+        "episode_number": "S3:E19",
+        "external_id": "16541609",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1721293200,
+        "last_update": 1721200723506,
+        "live": false,
+        "paid": "169771.019.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1721293200,
+        "season_id": "7298",
+        "season_number": "3",
+        "serial": 1721200723505,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14440845",
+        "show_timestamp": 1721293200,
+        "status": "estimated",
+        "summary": "After the family car breaks down and ruins their plans for a movie night out, the Belchers find themselves competing on the TV game show \"Family Fracas!\" To the dismay of the program's host, they keep winning and coming back each night.",
+        "summary_long": "After the family car breaks down and ruins their plans for a movie night out, the Belchers find themselves competing on the TV game show \"Family Fracas!\" To the dismay of the program's host, they keep winning and coming back each night - that is, until their lucky streak comes to a suspicious end.",
+        "taxonomy_id": "169771-019",
+        "title": "Family Fracas",
+        "title_id": "2003530",
+        "tv_rating": "TV-PG"
     }
 ]
