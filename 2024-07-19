@@ -1367,5 +1367,153 @@
         "title": "The Best Burger in the World",
         "title_id": "849710",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229024_023_03_851",
+        "create_time": 1721292478248,
+        "episode_in_season": "23",
+        "episode_number": "S3:E23",
+        "external_id": "16541681",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1721385000,
+        "last_update": 1721292478248,
+        "live": false,
+        "paid": "229024.023.03.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 12,
+        "scheduled_duration": 720,
+        "scheduled_timestamp": 1721384880,
+        "season_id": "5555",
+        "season_number": "3",
+        "serial": 1721292478248,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 720,
+        "show_id": "14440917",
+        "show_timestamp": 1721384880,
+        "status": "estimated",
+        "summary": "Mordecai and Rigby find out that Benson is going to replace them and have to figure out a way to stop it.",
+        "taxonomy_id": "229024-023",
+        "title": "Replaced",
+        "title_id": "871338",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229024_024_03_851",
+        "create_time": 1721292478249,
+        "episode_in_season": "24",
+        "episode_number": "S3:E24",
+        "external_id": "16541682",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1721385600,
+        "last_update": 1721292478249,
+        "live": false,
+        "paid": "229024.024.03.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 16,
+        "scheduled_duration": 989,
+        "scheduled_timestamp": 1721385600,
+        "season_id": "5555",
+        "season_number": "3",
+        "serial": 1721292478248,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 989,
+        "show_id": "14440918",
+        "show_timestamp": 1721385600,
+        "status": "estimated",
+        "summary": "Rigby changes his name so that he can be cooler.",
+        "taxonomy_id": "229024-024",
+        "title": "Trash Boat",
+        "title_id": "871341",
+        "tv_rating": "TV-PG"
     }
 ]
