@@ -2736,5 +2736,86 @@
         "title": "The Kids Rob a Train",
         "title_id": "2030317",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_003_01_851",
+        "create_time": 1721516501263,
+        "episode_in_season": "3",
+        "episode_number": "S17:E03",
+        "external_id": "16541831",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1721610000,
+        "last_update": 1721516501263,
+        "live": false,
+        "paid": "232851.003.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1721610000,
+        "season_id": "24150",
+        "season_number": "17",
+        "serial": 1721516501263,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1806,
+        "show_id": "14441074",
+        "show_timestamp": 1721610000,
+        "status": "estimated",
+        "summary": "Stan takes Steve to his favorite barbershop to hang with his crew; Jeff starts journaling to help with his bad memory.",
+        "taxonomy_id": "232851-003",
+        "title": "The Book of Fischer",
+        "title_id": "2342089",
+        "tv_rating": "TV-14"
     }
 ]
