@@ -19,7 +19,7 @@
             "Animation"
         ],
         "guide_timestamp": 1721448000,
-        "last_update": 1721356545241,
+        "last_update": 1721440929270,
         "live": false,
         "paid": "251795.001.03.851",
         "participants": [
@@ -57,12 +57,12 @@
         "scheduled_timestamp": 1721448000,
         "season_id": "25507",
         "season_number": "6",
-        "serial": 1721356545241,
+        "serial": 1721440929269,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "show_duration": 1809,
         "show_id": "14440971",
-        "show_timestamp": 1721448000,
+        "show_timestamp": 1721448001,
         "status": "estimated",
         "summary": "Last season's finale was a doozy, broh. What do we do now, broh?",
         "taxonomy_id": "251795-001",
@@ -3977,6 +3977,78 @@
         "taxonomy_id": "251793-007",
         "title": "Promortyus",
         "title_id": "2206491",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251793_008_03_851",
+        "create_time": 1721440427053,
+        "episode_in_season": "8",
+        "episode_number": "S4:E08",
+        "external_id": "16541787",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1721532600,
+        "last_update": 1721440427053,
+        "live": false,
+        "paid": "251793.008.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1721532600,
+        "season_id": "15308",
+        "season_number": "4",
+        "serial": 1721440427053,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1805,
+        "show_id": "14441030",
+        "show_timestamp": 1721532600,
+        "status": "estimated",
+        "summary": "The one with the acid vat, broh.",
+        "taxonomy_id": "251793-008",
+        "title": "The Vat of Acid Episode",
+        "title_id": "2206493",
         "tv_rating": "TV-14"
     }
 ]
