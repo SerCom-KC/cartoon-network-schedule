@@ -2283,5 +2283,122 @@
         "title": "Benson's Suit",
         "title_id": "2043700",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229019_019_02_851",
+        "create_time": 1721502947369,
+        "episode_in_season": "19",
+        "episode_number": "S6:E19",
+        "external_id": "16541822",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1721594700,
+        "last_update": 1721502947369,
+        "live": false,
+        "paid": "229019.019.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 11,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1721594700,
+        "season_id": "9091",
+        "season_number": "6",
+        "serial": 1721502947369,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 900,
+        "show_id": "14441065",
+        "show_timestamp": 1721594700,
+        "status": "estimated",
+        "summary": "Mordecai and Rigby want to find a rare, golden video game patch.",
+        "taxonomy_id": "229019-019",
+        "title": "Gamers Never Say Die",
+        "title_id": "2043701",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233048_013_01_851",
+        "create_time": 1721502947369,
+        "episode_in_season": "13",
+        "episode_number": "S6:E13",
+        "external_id": "16541823",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1721595600,
+        "last_update": 1721502947369,
+        "live": false,
+        "paid": "233048.013.01.851",
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1721595600,
+        "season_id": "12325",
+        "season_number": "6",
+        "serial": 1721502947369,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "14441066",
+        "show_timestamp": 1721595600,
+        "status": "estimated",
+        "summary": "In New Mars Vegas, Fry gains the power to read minds and competes in a poker tournament.",
+        "taxonomy_id": "233048-013",
+        "title": "Into the Wild Green Yonder Part 1",
+        "title_id": "2161616",
+        "tv_rating": "TV-14"
     }
 ]
