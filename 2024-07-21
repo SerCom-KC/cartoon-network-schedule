@@ -18,7 +18,7 @@
             "Animation"
         ],
         "guide_timestamp": 1721534400,
-        "last_update": 1721441416437,
+        "last_update": 1721527289225,
         "live": false,
         "paid": "250998.010.02.851",
         "participants": [
@@ -71,12 +71,12 @@
         "scheduled_timestamp": 1721534400,
         "season_id": "19409",
         "season_number": "2",
-        "serial": 1721441416436,
+        "serial": 1721527289223,
         "series_id": "2288454",
         "series_name": "My Adventures with Superman",
         "show_duration": 1883,
         "show_id": "14417013",
-        "show_timestamp": 1721534400,
+        "show_timestamp": 1721534401,
         "status": "estimated",
         "summary": "TBD",
         "summary_long": "Superman, Kara, Lois, and Jimmy team up to fight Brainiac\u2026but will Superman have to choose between saving Earth and saving the people he loves? It's truth, justice, and a better way clashing with the might of Krypton in the season two finale!",
@@ -3128,6 +3128,78 @@
         "taxonomy_id": "251795-007",
         "title": "Full Meta Jackrick",
         "title_id": "2397940",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251795_008_03_851",
+        "create_time": 1721525955763,
+        "episode_in_season": "8",
+        "episode_number": "S6:E08",
+        "external_id": "16541836",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1721619000,
+        "last_update": 1721525955763,
+        "live": false,
+        "paid": "251795.008.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1721619000,
+        "season_id": "25507",
+        "season_number": "6",
+        "serial": 1721525955763,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1805,
+        "show_id": "14441079",
+        "show_timestamp": 1721619000,
+        "status": "estimated",
+        "summary": "Haters gonna hate, broh.",
+        "taxonomy_id": "251795-008",
+        "title": "Analyze Piss",
+        "title_id": "2397941",
         "tv_rating": "TV-14"
     }
 ]
