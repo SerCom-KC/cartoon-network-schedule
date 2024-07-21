@@ -1188,5 +1188,78 @@
         "title": "Access Denied",
         "title_id": "871348",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229024_030_03_851",
+        "create_time": 1721550363117,
+        "episode_in_season": "30",
+        "episode_number": "S3:E30",
+        "external_id": "16541850",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1721643000,
+        "last_update": 1721550363117,
+        "live": false,
+        "paid": "229024.030.03.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J. G. Quintel",
+                "role": "Voice"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "Voice"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "Voice"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 16,
+        "scheduled_duration": 989,
+        "scheduled_timestamp": 1721643120,
+        "season_id": "5555",
+        "season_number": "3",
+        "serial": 1721550363117,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "show_duration": 989,
+        "show_id": "14441093",
+        "show_timestamp": 1721643120,
+        "status": "estimated",
+        "summary": "Rigby gets mentored by Muscle Man.",
+        "taxonomy_id": "229024-030",
+        "title": "Muscle Mentor",
+        "title_id": "871347",
+        "tv_rating": "TV-PG"
     }
 ]
