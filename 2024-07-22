@@ -40,5 +40,108 @@
         "title": "Small Townies",
         "title_id": "2530048",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "268716_006_02_851",
+        "create_time": 1721529626026,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "16578528",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Psi Cops",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1721621700,
+        "last_update": 1721529626026,
+        "live": false,
+        "paid": "268716.006.02.851",
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 15,
+        "scheduled_duration": 976,
+        "scheduled_timestamp": 1721621700,
+        "season_id": "30822",
+        "season_number": "1",
+        "serial": 1721529626026,
+        "series_id": "2530043",
+        "series_name": "Psi Cops",
+        "show_duration": 976,
+        "show_id": "14456161",
+        "show_timestamp": 1721621700,
+        "status": "estimated",
+        "summary": "Faith heals all. Well, faith and money.",
+        "taxonomy_id": "268716-006",
+        "title": "Faith Healer",
+        "title_id": "2530049",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250996_006_03_851",
+        "create_time": 1721529626027,
+        "episode_in_season": "6",
+        "episode_number": "S2:E06",
+        "external_id": "16541837",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Smiling Friends",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1721622600,
+        "last_update": 1721529626027,
+        "live": false,
+        "paid": "250996.006.03.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Zach Hadel",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Michael Cusack",
+                "role": "Creator"
+            },
+            {
+                "character": "Charlie",
+                "name": "Zach Hadel",
+                "role": "Voice"
+            },
+            {
+                "character": "Pim",
+                "name": "Michael Cusack",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1721622600,
+        "season_id": "27328",
+        "season_number": "2",
+        "serial": 1721529626026,
+        "series_id": "2224721",
+        "series_name": "Smiling Friends",
+        "show_duration": 900,
+        "show_id": "14441080",
+        "show_timestamp": 1721622600,
+        "status": "estimated",
+        "summary": "This episode tells the story of a thirty-four year-old boy named Pim who sets out to save his mother on Mars after she is abducted by Martians.",
+        "taxonomy_id": "250996-006",
+        "title": "Charlie, Pim, and Bill vs the Alien",
+        "title_id": "2424770",
+        "tv_rating": "TV-MA"
     }
 ]
