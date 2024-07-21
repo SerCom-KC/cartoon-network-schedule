@@ -514,5 +514,76 @@
         "title": "A Roger Story",
         "title_id": "2342090",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251795_007_03_851",
+        "create_time": 1721536812480,
+        "episode_in_season": "7",
+        "episode_number": "S6:E07",
+        "external_id": "16541842",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1721629800,
+        "last_update": 1721536812480,
+        "live": false,
+        "paid": "251795.007.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1721629800,
+        "season_id": "25507",
+        "season_number": "6",
+        "serial": 1721536812480,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "14441085",
+        "show_timestamp": 1721629800,
+        "status": "estimated",
+        "summary": "This one wrinkled my brain, broh.",
+        "taxonomy_id": "251795-007",
+        "title": "Full Meta Jackrick",
+        "title_id": "2397940",
+        "tv_rating": "TV-14"
     }
 ]
