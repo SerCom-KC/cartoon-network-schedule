@@ -103,7 +103,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1721536200,
-        "last_update": 1721443915869,
+        "last_update": 1721520969239,
         "live": false,
         "paid": "251121.049.02.851",
         "premiere": true,
@@ -114,10 +114,10 @@
         "scheduled_timestamp": 1721536200,
         "season_id": "27725",
         "season_number": "17",
-        "serial": 1721443915869,
+        "serial": 1721520969239,
         "series_id": "608007",
         "series_name": "One Piece",
-        "show_duration": 1800,
+        "show_duration": 1719,
         "show_id": "14463487",
         "show_timestamp": 1721536200,
         "status": "estimated",
@@ -145,7 +145,7 @@
             "Adventure"
         ],
         "guide_timestamp": 1721538000,
-        "last_update": 1721445098677,
+        "last_update": 1721520969240,
         "live": false,
         "paid": "251121.050.02.851",
         "premiere": true,
@@ -156,10 +156,10 @@
         "scheduled_timestamp": 1721538000,
         "season_id": "27725",
         "season_number": "17",
-        "serial": 1721445098677,
+        "serial": 1721520969239,
         "series_id": "608007",
         "series_name": "One Piece",
-        "show_duration": 1800,
+        "show_duration": 1795,
         "show_id": "14463488",
         "show_timestamp": 1721538000,
         "status": "estimated",
@@ -2896,6 +2896,238 @@
         "taxonomy_id": "232851-004",
         "title": "A Roger Story",
         "title_id": "2342090",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232851_005_01_851",
+        "create_time": 1721520968037,
+        "episode_in_season": "5",
+        "episode_number": "S17:E05",
+        "external_id": "16541833",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1721613600,
+        "last_update": 1721520968037,
+        "live": false,
+        "paid": "232851.005.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1721613600,
+        "season_id": "24150",
+        "season_number": "17",
+        "serial": 1721520968037,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "14441076",
+        "show_timestamp": 1721613600,
+        "status": "estimated",
+        "summary": "Stan insists everyone help him recreate the rustic family ski trips of his childhood while Klaus falls in love with a tech support operator.",
+        "taxonomy_id": "232851-005",
+        "title": "Epic Powder Dump",
+        "title_id": "2342091",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_006_01_851",
+        "create_time": 1721522281588,
+        "episode_in_season": "6",
+        "episode_number": "S17:E06",
+        "external_id": "16541834",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1721615400,
+        "last_update": 1721522281588,
+        "live": false,
+        "paid": "232851.006.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1721615400,
+        "season_id": "24150",
+        "season_number": "17",
+        "serial": 1721522281588,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1802,
+        "show_id": "14441077",
+        "show_timestamp": 1721615400,
+        "status": "estimated",
+        "summary": "To save a beloved restaurant from closing, Stan must bring the 1950s back to Langley.",
+        "taxonomy_id": "232851-006",
+        "title": "American Dad Graffito",
+        "title_id": "2342092",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251795_007_03_851",
+        "create_time": 1721524454783,
+        "episode_in_season": "7",
+        "episode_number": "S6:E07",
+        "external_id": "16541835",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1721617200,
+        "last_update": 1721524454783,
+        "live": false,
+        "paid": "251795.007.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1721617200,
+        "season_id": "25507",
+        "season_number": "6",
+        "serial": 1721524454783,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1802,
+        "show_id": "14441078",
+        "show_timestamp": 1721617200,
+        "status": "estimated",
+        "summary": "This one wrinkled my brain, broh.",
+        "taxonomy_id": "251795-007",
+        "title": "Full Meta Jackrick",
+        "title_id": "2397940",
         "tv_rating": "TV-14"
     }
 ]
