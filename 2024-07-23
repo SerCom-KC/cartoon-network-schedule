@@ -91,7 +91,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1721709000,
-        "last_update": 1721618016481,
+        "last_update": 1721687859053,
         "live": false,
         "paid": "251789.005.02.851",
         "participants": [
@@ -124,10 +124,10 @@
         "scheduled_timestamp": 1721709000,
         "season_id": "15892",
         "season_number": "1",
-        "serial": 1721618016481,
+        "serial": 1721687859052,
         "series_id": "2224721",
         "series_name": "Smiling Friends",
-        "show_duration": 900,
+        "show_duration": 898,
         "show_id": "14441149",
         "show_timestamp": 1721709000,
         "status": "estimated",
@@ -155,7 +155,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1721709900,
-        "last_update": 1721618016482,
+        "last_update": 1721687859053,
         "live": false,
         "paid": "251841.006.01.851",
         "participants": [
@@ -198,10 +198,10 @@
         "scheduled_timestamp": 1721709900,
         "season_id": "25947",
         "season_number": "2",
-        "serial": 1721618016481,
+        "serial": 1721687859052,
         "series_id": "2224723",
         "series_name": "YOLO",
-        "show_duration": 900,
+        "show_duration": 891,
         "show_id": "14441150",
         "show_timestamp": 1721709900,
         "status": "estimated",
@@ -688,7 +688,7 @@
             "Animation"
         ],
         "guide_timestamp": 1721718000,
-        "last_update": 1721624891886,
+        "last_update": 1721687859053,
         "live": false,
         "paid": "251737.007.03.851",
         "participants": [
@@ -726,10 +726,10 @@
         "scheduled_timestamp": 1721718000,
         "season_id": "7491",
         "season_number": "1",
-        "serial": 1721624891885,
+        "serial": 1721687859052,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1794,
         "show_id": "14441156",
         "show_timestamp": 1721718000,
         "status": "estimated",
@@ -761,7 +761,7 @@
             "Animation"
         ],
         "guide_timestamp": 1721719800,
-        "last_update": 1721628280927,
+        "last_update": 1721687859054,
         "live": false,
         "paid": "251737.008.03.851",
         "participants": [
@@ -799,10 +799,10 @@
         "scheduled_timestamp": 1721719800,
         "season_id": "7491",
         "season_number": "1",
-        "serial": 1721628280927,
+        "serial": 1721687859052,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "14441157",
         "show_timestamp": 1721719800,
         "status": "estimated",
@@ -1041,7 +1041,7 @@
             "Drama"
         ],
         "guide_timestamp": 1721724300,
-        "last_update": 1721631672578,
+        "last_update": 1721687859054,
         "live": false,
         "paid": "229182.010.03.851",
         "participants": [
@@ -1079,10 +1079,10 @@
         "scheduled_timestamp": 1721724300,
         "season_id": "1520",
         "season_number": "1",
-        "serial": 1721631672577,
+        "serial": 1721687859052,
         "series_id": "629688",
         "series_name": "Moral Orel",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "14441161",
         "show_timestamp": 1721724300,
         "status": "estimated",
@@ -1112,7 +1112,7 @@
             "Family"
         ],
         "guide_timestamp": 1721725200,
-        "last_update": 1721631672579,
+        "last_update": 1721687859054,
         "live": false,
         "paid": "169796.019.03.851",
         "participants": [
@@ -1130,10 +1130,10 @@
         "scheduled_timestamp": 1721725200,
         "season_id": "8898",
         "season_number": "4",
-        "serial": 1721631672577,
+        "serial": 1721687859052,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1800,
+        "show_duration": 1789,
         "show_id": "14441162",
         "show_timestamp": 1721725200,
         "status": "estimated",
@@ -4348,6 +4348,57 @@
         "taxonomy_id": "169767-003",
         "title": "Sacred Cow",
         "title_id": "2003425",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169796_022_03_851",
+        "create_time": 1721687853928,
+        "episode_in_season": "22",
+        "episode_number": "S4:E22",
+        "external_id": "16541961",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1721781000,
+        "last_update": 1721687853928,
+        "live": false,
+        "paid": "169796.022.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1721781000,
+        "season_id": "8898",
+        "season_number": "4",
+        "serial": 1721687853928,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14441212",
+        "show_timestamp": 1721781000,
+        "status": "estimated",
+        "summary": "It's Linda and the kids to the rescue when Felix takes desperate measures, and puts Bob and Mr. Fischoeder in danger.",
+        "taxonomy_id": "169796-022",
+        "title": "World Wharf II: The Wharfening",
+        "title_id": "2030323",
         "tv_rating": "TV-14"
     }
 ]
