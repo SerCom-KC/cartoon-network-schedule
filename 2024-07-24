@@ -1065,5 +1065,56 @@
         "title": "Sacred Cow",
         "title_id": "2003425",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "169796_022_03_851",
+        "create_time": 1721720168591,
+        "episode_in_season": "22",
+        "episode_number": "S4:E22",
+        "external_id": "16541982",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1721813400,
+        "last_update": 1721720168591,
+        "live": false,
+        "paid": "169796.022.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1721813400,
+        "season_id": "8898",
+        "season_number": "4",
+        "serial": 1721720168591,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14441233",
+        "show_timestamp": 1721813400,
+        "status": "estimated",
+        "summary": "It's Linda and the kids to the rescue when Felix takes desperate measures, and puts Bob and Mr. Fischoeder in danger.",
+        "taxonomy_id": "169796-022",
+        "title": "World Wharf II: The Wharfening",
+        "title_id": "2030323",
+        "tv_rating": "TV-14"
     }
 ]
