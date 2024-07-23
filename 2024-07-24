@@ -947,5 +947,123 @@
         "title": "God's Image",
         "title_id": "653291",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229181_002_02_851",
+        "create_time": 1721719730268,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "16541980",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Moral Orel",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1721810700,
+        "last_update": 1721719730268,
+        "live": false,
+        "paid": "229181.002.02.851",
+        "participants": [
+            {
+                "character": "Orel Puppington",
+                "name": "Carolyn Lawrence",
+                "role": "Voice"
+            },
+            {
+                "character": "Clay Puppington",
+                "name": "Scott Adsit",
+                "role": "Voice"
+            },
+            {
+                "character": "Bloberta Puppington",
+                "name": "Britta Phillips",
+                "role": "Voice"
+            },
+            {
+                "character": "Shapey Puppington",
+                "name": "Tigger Stamatopoulos",
+                "role": "Voice"
+            },
+            {
+                "character": "Rod Putty",
+                "name": "William Salyers",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2005,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1721810700,
+        "season_id": "1521",
+        "season_number": "2",
+        "serial": 1721719730268,
+        "series_id": "629688",
+        "series_name": "Moral Orel",
+        "show_duration": 900,
+        "show_id": "14441231",
+        "show_timestamp": 1721810700,
+        "status": "estimated",
+        "summary": "Orel's new pet puppy becomes a serious threat to the town and its beliefs.",
+        "taxonomy_id": "229181-002",
+        "title": "Love",
+        "title_id": "653308",
+        "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "169767_003_02_851",
+        "create_time": 1721719730269,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "16578596",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1721811600,
+        "last_update": 1721719730269,
+        "live": false,
+        "paid": "169767.003.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1721811600,
+        "season_id": "7295",
+        "season_number": "1",
+        "serial": 1721719730268,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1800,
+        "show_id": "14441232",
+        "show_timestamp": 1721811600,
+        "status": "estimated",
+        "summary": "When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement about animal cruelty, Bob is livid when it starts to scare away customers.",
+        "taxonomy_id": "169767-003",
+        "title": "Sacred Cow",
+        "title_id": "2003425",
+        "tv_rating": "TV-14"
     }
 ]
