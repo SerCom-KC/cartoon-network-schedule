@@ -807,5 +807,145 @@
         "title": "Close Rick-Counters of the Rick Kind",
         "title_id": "2013512",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252068_001_02_851",
+        "create_time": 1721716351024,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "16541978",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "China, IL",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1721808000,
+        "last_update": 1721716351024,
+        "live": false,
+        "paid": "252068.001.02.851",
+        "participants": [
+            {
+                "character": "Frank Smith",
+                "name": "Brad Neely",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Brad Neely",
+                "role": "Voice"
+            },
+            {
+                "character": "Baby Cakes",
+                "name": "Brad Neely",
+                "role": "Voice"
+            },
+            {
+                "character": "Pony Merks",
+                "name": "Greta Gerwig",
+                "role": "Voice"
+            },
+            {
+                "character": "The Dean",
+                "name": "Hulk Hogan",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1721808000,
+        "season_id": "7415",
+        "season_number": "2",
+        "serial": 1721716351024,
+        "series_id": "862772",
+        "series_name": "China, IL",
+        "show_duration": 1806,
+        "show_id": "14441229",
+        "show_timestamp": 1721808000,
+        "status": "estimated",
+        "summary": "It's the first day of school and Frank is determined to give the perfect lecture.",
+        "taxonomy_id": "252068-001",
+        "title": "The Perfect Lecture",
+        "title_id": "2008006",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229181_001_02_851",
+        "create_time": 1721716351025,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "16541979",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Moral Orel",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1721809800,
+        "last_update": 1721716351025,
+        "live": false,
+        "paid": "229181.001.02.851",
+        "participants": [
+            {
+                "character": "Orel Puppington",
+                "name": "Carolyn Lawrence",
+                "role": "Voice"
+            },
+            {
+                "character": "Clay Puppington",
+                "name": "Scott Adsit",
+                "role": "Voice"
+            },
+            {
+                "character": "Bloberta Puppington",
+                "name": "Britta Phillips",
+                "role": "Voice"
+            },
+            {
+                "character": "Shapey Puppington",
+                "name": "Tigger Stamatopoulos",
+                "role": "Voice"
+            },
+            {
+                "character": "Rod Putty",
+                "name": "William Salyers",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2005,
+        "runtime_minutes": 15,
+        "scheduled_duration": 915,
+        "scheduled_timestamp": 1721809800,
+        "season_id": "1521",
+        "season_number": "2",
+        "serial": 1721716351024,
+        "series_id": "629688",
+        "series_name": "Moral Orel",
+        "show_duration": 915,
+        "show_id": "14441230",
+        "show_timestamp": 1721809800,
+        "status": "estimated",
+        "summary": "Orel learns about the great American pastime, discrimination.",
+        "taxonomy_id": "229181-001",
+        "title": "God's Image",
+        "title_id": "653291",
+        "tv_rating": "TV-MA"
     }
 ]
