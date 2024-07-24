@@ -3186,7 +3186,7 @@
         "content_id": "234271_005_02_851",
         "create_time": 1721750555713,
         "episode_in_season": "5",
-        "episode_number": "S8:E04",
+        "episode_number": "S8:E05",
         "external_id": "16542011",
         "feed_id": "as-east",
         "franchise_id": "489898",
@@ -3197,7 +3197,7 @@
             "Kids & Family"
         ],
         "guide_timestamp": 1721842200,
-        "last_update": 1721842249272,
+        "last_update": 1721844039126,
         "live": false,
         "paid": "234271.005.01.851",
         "participants": [
@@ -3253,7 +3253,7 @@
         "season_number": "8",
         "season_summary": "The super teens deal with everyday issues of adolescence.",
         "season_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
-        "serial": 1721842249272,
+        "serial": 1721844039125,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "series_summary": "The super teens deal with everyday issues of adolescence.",
@@ -3261,7 +3261,7 @@
         "show_duration": 1800,
         "show_id": "14441262",
         "show_timestamp": 1721842203,
-        "status": "current",
+        "status": "actual",
         "summary": "To get a license deal with the Toy Master, the Titans become action heroes.",
         "summary_long": "The Titans learn that toys from comedy shows don't sell, so they become action heroes and land a toy license deal. But, when they grow tired of the action lifestyle, the Titans try to destroy Toy Master's cosmic toy factory to get out of their contract.",
         "taxonomy_id": "234271-005",
@@ -3289,7 +3289,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1721844000,
-        "last_update": 1721841334769,
+        "last_update": 1721844933071,
         "live": false,
         "paid": "228419.030.01.817",
         "participants": [
@@ -3335,15 +3335,15 @@
         "season_number": "1",
         "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
         "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
-        "serial": 1721841334766,
+        "serial": 1721844933070,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
         "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
         "show_duration": 900,
         "show_id": "14441263",
-        "show_timestamp": 1721844003,
-        "status": "estimated",
+        "show_timestamp": 1721844011,
+        "status": "actual",
         "summary": "Ms. Simian \"befriends\" Gumball in order to win a Favorite Teacher Award.",
         "summary_long": "Ms. Simian sets out to \"befriend\" Gumball in order to win a Favorite Teacher Award.",
         "taxonomy_id": "228419-030",
@@ -3371,7 +3371,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1721844900,
-        "last_update": 1721841334770,
+        "last_update": 1721845832869,
         "live": false,
         "paid": "228420.017.01.817",
         "participants": [
@@ -3417,15 +3417,15 @@
         "season_number": "3",
         "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
         "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
-        "serial": 1721841334766,
+        "serial": 1721845832869,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
         "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
         "show_duration": 900,
         "show_id": "14441264",
-        "show_timestamp": 1721844901,
-        "status": "estimated",
+        "show_timestamp": 1721844926,
+        "status": "actual",
         "summary": "It's Mother's Day and kids put their moms through a series of tests.",
         "summary_long": "It\u2019s Mother's Day and kids put their moms through a series of tests to determine who has the World\u2019s Greatest Mom. It's Mother's Day, and Gumball and Darwin discover that Tobias and Banana Joe have both made a card for \"The Best Mom in the World.\"",
         "taxonomy_id": "228420-017",
@@ -3435,7 +3435,9 @@
     },
     {
         "blackout_type": "none",
-        "content_advisories": [],
+        "content_advisories": [
+            "FV"
+        ],
         "content_id": "228419_032_03_851",
         "create_time": 1721753942525,
         "episode_in_season": "32",
@@ -3445,44 +3447,45 @@
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
         "genres": [
-            "Animation",
-            "Children",
+            "Kids & Family",
+            "Cartoons",
+            "Family Laughs",
             "Comedy"
         ],
         "guide_timestamp": 1721845800,
-        "last_update": 1721753942525,
+        "last_update": 1721845827339,
         "live": false,
-        "paid": "228419.032.03.851",
+        "paid": "228419.032.01.817",
         "participants": [
             {
                 "character": "Gumball Watterson",
                 "name": "Jacob Hopkins",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Darwin Watterson",
                 "name": "Terrell Ransom Jr.",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
             },
             {
                 "character": "Richard Watterson",
                 "name": "Dan Russell",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Nicole Watterson",
                 "name": "Teresa Gallagher",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Penny Fitzgerald",
                 "name": "Teresa Gallagher",
-                "role": "Voice"
+                "role": "voice-actor"
             }
         ],
         "premiere": false,
@@ -3492,19 +3495,25 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721845800,
         "season_id": "5890",
+        "season_name": "The Amazing World of Gumball",
         "season_number": "1",
-        "serial": 1721753942525,
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1721845827339,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
         "show_duration": 900,
         "show_id": "14441265",
-        "show_timestamp": 1721845800,
-        "status": "estimated",
+        "show_timestamp": 1721845826,
+        "status": "current",
         "summary": "Gumball experiences an impossibly unfortunate chain of events.",
+        "summary_long": "Gumball experiences an impossibly unfortunate chain of events.",
         "taxonomy_id": "228419-032",
         "title": "The Curse",
         "title_id": "839530",
-        "tv_rating": "TV-Y7-FV"
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -3514,19 +3523,19 @@
         "content_id": "228419_033_02_851",
         "create_time": 1721753942526,
         "episode_in_season": "33",
-        "episode_number": "S1:E33",
+        "episode_number": "S1:EL33",
         "external_id": "16542015",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
         "genres": [
+            "Kids & Family",
             "Cartoons",
-            "Comedy",
             "Family Laughs",
-            "Kids & Family"
+            "Comedy"
         ],
         "guide_timestamp": 1721846700,
-        "last_update": 1721839578136,
+        "last_update": 1721845041841,
         "live": false,
         "paid": "228419.033.01.817",
         "participants": [
@@ -3572,14 +3581,14 @@
         "season_number": "1",
         "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
         "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
-        "serial": 1721839578135,
+        "serial": 1721845041839,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
         "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
         "show_duration": 900,
         "show_id": "14441266",
-        "show_timestamp": 1721846700,
+        "show_timestamp": 1721846722,
         "status": "estimated",
         "summary": "Gumball and Darwin accidentally create a monster that eats their family.",
         "summary_long": "Gumball and Darwin accidentally create a loveable monster that eats their family.",
@@ -3590,7 +3599,9 @@
     },
     {
         "blackout_type": "none",
-        "content_advisories": [],
+        "content_advisories": [
+            "FV"
+        ],
         "content_id": "228419_034_03_851",
         "create_time": 1721754380266,
         "episode_in_season": "34",
@@ -3600,44 +3611,45 @@
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
         "genres": [
-            "Animation",
-            "Children",
+            "Kids & Family",
+            "Cartoons",
+            "Family Laughs",
             "Comedy"
         ],
         "guide_timestamp": 1721847600,
-        "last_update": 1721754380266,
+        "last_update": 1721845041841,
         "live": false,
-        "paid": "228419.034.03.851",
+        "paid": "228419.034.01.817",
         "participants": [
             {
                 "character": "Gumball Watterson",
                 "name": "Jacob Hopkins",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Darwin Watterson",
                 "name": "Terrell Ransom Jr.",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
             },
             {
                 "character": "Richard Watterson",
                 "name": "Dan Russell",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Nicole Watterson",
                 "name": "Teresa Gallagher",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Penny Fitzgerald",
                 "name": "Teresa Gallagher",
-                "role": "Voice"
+                "role": "voice-actor"
             }
         ],
         "premiere": false,
@@ -3647,23 +3659,31 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721847600,
         "season_id": "5890",
+        "season_name": "The Amazing World of Gumball",
         "season_number": "1",
-        "serial": 1721754380266,
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1721845041839,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
         "show_duration": 900,
         "show_id": "14441267",
-        "show_timestamp": 1721847600,
+        "show_timestamp": 1721847618,
         "status": "estimated",
-        "summary": "Gumball is embarrassed when Mom comes to school to spend some \"quality time\".",
+        "summary": "Gumball is embarrassed when Mom comes to school to spend \"quality time.\"",
+        "summary_long": "Gumball is embarrassed when Mom comes to school to spend some \"quality time.\"",
         "taxonomy_id": "228419-034",
         "title": "The Meddler",
         "title_id": "839544",
-        "tv_rating": "TV-Y7-FV"
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
-        "content_advisories": [],
+        "content_advisories": [
+            "FV"
+        ],
         "content_id": "228419_035_03_851",
         "create_time": 1721755113676,
         "episode_in_season": "35",
@@ -3673,44 +3693,45 @@
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
         "genres": [
-            "Animation",
-            "Children",
+            "Kids & Family",
+            "Cartoons",
+            "Family Laughs",
             "Comedy"
         ],
         "guide_timestamp": 1721848500,
-        "last_update": 1721755113676,
+        "last_update": 1721845041842,
         "live": false,
-        "paid": "228419.035.03.851",
+        "paid": "228419.035.01.817",
         "participants": [
             {
                 "character": "Gumball Watterson",
                 "name": "Jacob Hopkins",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Darwin Watterson",
                 "name": "Terrell Ransom Jr.",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
             },
             {
                 "character": "Richard Watterson",
                 "name": "Dan Russell",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Nicole Watterson",
                 "name": "Teresa Gallagher",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Penny Fitzgerald",
                 "name": "Teresa Gallagher",
-                "role": "Voice"
+                "role": "voice-actor"
             }
         ],
         "premiere": false,
@@ -3720,23 +3741,31 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721848500,
         "season_id": "5890",
+        "season_name": "The Amazing World of Gumball",
         "season_number": "1",
-        "serial": 1721755113676,
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1721845041839,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
         "show_duration": 900,
         "show_id": "14441268",
-        "show_timestamp": 1721848500,
+        "show_timestamp": 1721848514,
         "status": "estimated",
-        "summary": "Gumball's magic tinfoil helmet threatens to tear the Watterson family apart!",
+        "summary": "Gumball's tinfoil helmet threatens to tear the Watterson family apart!",
+        "summary_long": "Gumball's magic tinfoil helmet threatens to tear the Watterson family apart!",
         "taxonomy_id": "228419-035",
         "title": "The Helmet",
         "title_id": "839540",
-        "tv_rating": "TV-Y7-FV"
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
-        "content_advisories": [],
+        "content_advisories": [
+            "FV"
+        ],
         "content_id": "228419_036_03_851",
         "create_time": 1721757329429,
         "episode_in_season": "36",
@@ -3746,44 +3775,45 @@
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
         "genres": [
-            "Animation",
-            "Children",
+            "Kids & Family",
+            "Cartoons",
+            "Family Laughs",
             "Comedy"
         ],
         "guide_timestamp": 1721849400,
-        "last_update": 1721757329429,
+        "last_update": 1721845041842,
         "live": false,
-        "paid": "228419.036.03.851",
+        "paid": "228419.036.01.817",
         "participants": [
             {
                 "character": "Gumball Watterson",
                 "name": "Jacob Hopkins",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Darwin Watterson",
                 "name": "Terrell Ransom Jr.",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
             },
             {
                 "character": "Richard Watterson",
                 "name": "Dan Russell",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Nicole Watterson",
                 "name": "Teresa Gallagher",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Penny Fitzgerald",
                 "name": "Teresa Gallagher",
-                "role": "Voice"
+                "role": "voice-actor"
             }
         ],
         "premiere": false,
@@ -3793,23 +3823,31 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721849400,
         "season_id": "5890",
+        "season_name": "The Amazing World of Gumball",
         "season_number": "1",
-        "serial": 1721757329429,
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1721845041839,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
         "show_duration": 900,
         "show_id": "14441269",
-        "show_timestamp": 1721849400,
+        "show_timestamp": 1721849411,
         "status": "estimated",
         "summary": "Anais is convinced that Gumball is being bullied by Tina Rex.",
+        "summary_long": "Anais is convinced that Gumball is being bullied by Tina Rex.",
         "taxonomy_id": "228419-036",
         "title": "The Fight",
         "title_id": "839539",
-        "tv_rating": "TV-Y7-FV"
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
-        "content_advisories": [],
+        "content_advisories": [
+            "FV"
+        ],
         "content_id": "228418_001_04_851",
         "create_time": 1721757329430,
         "episode_in_season": "1",
@@ -3819,44 +3857,45 @@
         "franchise_id": "489898",
         "franchise_name": "Amazing World of Gumball, The",
         "genres": [
-            "Animation",
-            "Children",
+            "Kids & Family",
+            "Cartoons",
+            "Family Laughs",
             "Comedy"
         ],
         "guide_timestamp": 1721850300,
-        "last_update": 1721757329430,
+        "last_update": 1721845041843,
         "live": false,
-        "paid": "228418.001.04.851",
+        "paid": "228418.001.01.817",
         "participants": [
             {
                 "character": "Gumball Watterson",
                 "name": "Jacob Hopkins",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Darwin Watterson",
                 "name": "Terrell Ransom Jr.",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Anais Watterson",
-                "name": "Kyla Rae Kowalewski",
-                "role": "Voice"
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
             },
             {
                 "character": "Richard Watterson",
                 "name": "Dan Russell",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Nicole Watterson",
                 "name": "Teresa Gallagher",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Penny Fitzgerald",
                 "name": "Teresa Gallagher",
-                "role": "Voice"
+                "role": "voice-actor"
             }
         ],
         "premiere": false,
@@ -3866,19 +3905,25 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721850300,
         "season_id": "5891",
+        "season_name": "The Amazing World of Gumball",
         "season_number": "2",
-        "serial": 1721757329429,
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1721845041839,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
         "show_duration": 900,
         "show_id": "14441270",
-        "show_timestamp": 1721850300,
+        "show_timestamp": 1721850307,
         "status": "estimated",
-        "summary": "Gumball and Darwin learn that it isn't wise to upset Hector, Elmore's resident Giant.",
+        "summary": "Gumball and Darwin learn not to upset Hector, Elmore's resident Giant.",
+        "summary_long": "Gumball and Darwin learn that it isn't wise to upset Hector, Elmore's resident Giant.",
         "taxonomy_id": "228418-001",
         "title": "The Colossus",
         "title_id": "894308",
-        "tv_rating": "TV-Y7-FV"
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -3892,62 +3937,70 @@
         "franchise_id": "489898",
         "franchise_name": "Regular Show",
         "genres": [
-            "Adventure",
-            "Animation",
-            "Children"
+            "Offbeat",
+            "Kids & Family",
+            "Comedy",
+            "Cartoons",
+            "Teen Comedy"
         ],
         "guide_timestamp": 1721851200,
-        "last_update": 1721758604842,
+        "last_update": 1721845041843,
         "live": false,
-        "paid": "229021.008.03.851",
+        "paid": "229021.008.01.817",
         "participants": [
             {
                 "character": "Mordecai",
-                "name": "J. G. Quintel",
-                "role": "Voice"
+                "name": "J Quintel",
+                "role": "voice-actor"
             },
             {
                 "character": "Rigby",
                 "name": "William Salyers",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Benson",
                 "name": "Sam Marin",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Pops",
                 "name": "Sam Marin",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Muscle Man",
                 "name": "Sam Marin",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Skips",
                 "name": "Mark Hamill",
-                "role": "Voice"
+                "role": "voice-actor"
             }
         ],
         "premiere": false,
         "press_hold": false,
         "release_year": 2012,
-        "runtime_minutes": 11,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721851200,
         "season_id": "5556",
+        "season_name": "Regular Show",
         "season_number": "4",
-        "serial": 1721758604842,
+        "season_summary": "Mordecai and Rigby have adventures that always get interrupted by zombies.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1721845041839,
         "series_id": "810150",
         "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have adventures that always get interrupted by zombies.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
         "show_duration": 900,
         "show_id": "14441271",
-        "show_timestamp": 1721851200,
+        "show_timestamp": 1721851203,
         "status": "estimated",
-        "summary": "Pops wants to beat the milk challenge to prove he's one of the guys.",
+        "summary": "Pops wants to beat the milk challenge to prove he\u2019s one of the guys.",
+        "summary_long": "Pops wants to beat the milk challenge to prove he\u2019s one of the guys.",
         "taxonomy_id": "229021-008",
         "title": "Guy's Night",
         "title_id": "962460",
@@ -3965,62 +4018,70 @@
         "franchise_id": "489898",
         "franchise_name": "Regular Show",
         "genres": [
-            "Adventure",
-            "Animation",
-            "Children"
+            "Offbeat",
+            "Kids & Family",
+            "Comedy",
+            "Cartoons",
+            "Teen Comedy"
         ],
         "guide_timestamp": 1721852100,
-        "last_update": 1721758604843,
+        "last_update": 1721845041844,
         "live": false,
-        "paid": "229021.009.02.851",
+        "paid": "229021.009.01.817",
         "participants": [
             {
                 "character": "Mordecai",
-                "name": "J. G. Quintel",
-                "role": "Voice"
+                "name": "J Quintel",
+                "role": "voice-actor"
             },
             {
                 "character": "Rigby",
                 "name": "William Salyers",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Benson",
                 "name": "Sam Marin",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Pops",
                 "name": "Sam Marin",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Muscle Man",
                 "name": "Sam Marin",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Skips",
                 "name": "Mark Hamill",
-                "role": "Voice"
+                "role": "voice-actor"
             }
         ],
         "premiere": false,
         "press_hold": false,
         "release_year": 2012,
-        "runtime_minutes": 11,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721852100,
         "season_id": "5556",
+        "season_name": "Regular Show",
         "season_number": "4",
-        "serial": 1721758604842,
+        "season_summary": "Mordecai and Rigby have adventures that always get interrupted by zombies.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1721845041839,
         "series_id": "810150",
         "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have adventures that always get interrupted by zombies.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
         "show_duration": 900,
         "show_id": "14441272",
-        "show_timestamp": 1721852100,
+        "show_timestamp": 1721852102,
         "status": "estimated",
         "summary": "Rigby needs to do one pull-up so he can pass the park physical.",
+        "summary_long": "Rigby needs to do one pull-up so he can pass the park physical.",
         "taxonomy_id": "229021-009",
         "title": "One Pull Up",
         "title_id": "962461",
@@ -4038,62 +4099,70 @@
         "franchise_id": "489898",
         "franchise_name": "Regular Show",
         "genres": [
-            "Adventure",
-            "Animation",
-            "Children"
+            "Cartoons",
+            "Comedy",
+            "Kids & Family",
+            "Offbeat",
+            "Teen Comedy"
         ],
         "guide_timestamp": 1721853000,
-        "last_update": 1721760711254,
+        "last_update": 1721845067131,
         "live": false,
-        "paid": "229021.011.04.851",
+        "paid": "229021.011.01.817",
         "participants": [
             {
                 "character": "Mordecai",
-                "name": "J. G. Quintel",
-                "role": "Voice"
+                "name": "J Quintel",
+                "role": "voice-actor"
             },
             {
                 "character": "Rigby",
                 "name": "William Salyers",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Benson",
                 "name": "Sam Marin",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Pops",
                 "name": "Sam Marin",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Muscle Man",
                 "name": "Sam Marin",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Skips",
                 "name": "Mark Hamill",
-                "role": "Voice"
+                "role": "voice-actor"
             }
         ],
         "premiere": false,
         "press_hold": false,
         "release_year": 2013,
-        "runtime_minutes": 11,
+        "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721853000,
         "season_id": "5556",
+        "season_name": "Regular Show",
         "season_number": "4",
-        "serial": 1721760711254,
+        "season_summary": "Mordecai and Rigby have adventures that always get interrupted by zombies.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1721845067131,
         "series_id": "810150",
         "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have adventures that always get interrupted by zombies.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
         "show_duration": 900,
         "show_id": "14441273",
-        "show_timestamp": 1721853000,
+        "show_timestamp": 1721853001,
         "status": "estimated",
-        "summary": "Mordecai, Rigby and Eileen want to celebrate Margaret's new internship before she has to quit the coffee shop.",
+        "summary": "Mordecai, Rigby and Eileen want to celebrate Margaret\u2019s new internship.",
+        "summary_long": "Mordecai, Rigby and Eileen want to celebrate Margaret\u2019s new internship before she has to quit the coffee shop.",
         "taxonomy_id": "229021-011",
         "title": "T.G.I. Tuesday",
         "title_id": "962462",
@@ -4245,48 +4314,53 @@
         "franchise_id": "489898",
         "franchise_name": "Dexter's Laboratory",
         "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
+            "Cartoons",
+            "Family Laughs",
+            "Kids & Family"
         ],
         "guide_timestamp": 1721856600,
-        "last_update": 1721764096772,
+        "last_update": 1721845067132,
         "live": false,
-        "paid": "229027.010.03.851",
+        "paid": "229027.010.01.817",
         "participants": [
             {
                 "character": "Dexter",
                 "name": "Christine Cavanaugh",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Dee Dee",
                 "name": "Kat Cressida",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Mandark",
                 "name": "Eddie Deezen",
-                "role": "Voice"
+                "role": "voice-actor"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 1995,
+        "release_year": 1997,
         "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1721856600,
         "season_id": "56",
+        "season_name": "Dexter's Laboratory",
         "season_number": "2",
-        "serial": 1721764096772,
+        "season_summary": "Dexter, a child genius, whips up dazzling, world-saving inventions.",
+        "season_summary_long": "Dexter, a child genius, whips up dazzling, world-saving inventions in his laboratory. Dee Dee wrecks his experiments but his nemesis is Mandark, his brilliant rival at Huber Elementary School. Mom and Dad have no idea what he's up to.",
+        "serial": 1721845067131,
         "series_id": "100106",
         "series_name": "Dexter's Laboratory",
+        "series_summary": "Science-loving genius Dexter creates more cool inventions.",
+        "series_summary_long": "Dexter, a child genius, whips up dazzling, world-saving inventions in his laboratory. Dee Dee wrecks his experiments, but his nemesis is Mandark, his brilliant rival at Huber Elementary School. Mom and Dad have no idea what he's up to.",
         "show_duration": 1800,
         "show_id": "14446617",
         "show_timestamp": 1721856600,
         "status": "estimated",
-        "summary": "When the family goes to a carnival, Dexter can't get on a ride because he's too short. Then, using a nuclear reactor core, Dexter makes a reading lamp. Finally, trying to avoid the flu, Dexter hides in a protective bubble in his lab.",
-        "summary_long": "Eww, That's Growth: When the whole family goes to a carnival, Dexter can't get on a ride because he's too short. Using scientific knowledge, he makes himself grow taller and taller and taller./Nuclear Confusion: Using a nuclear reactor core, Dexter makes the perfect reading lamp. Dee Dee takes it to play a game of hide and seek. Now, Dexter must to find the core in an hour to avoid destroying the Earth./Germ Warfare: Desperately trying to avoid catching the flu, Dexter hides in a protective bubble in his lab only to have the runny-nosed Dee Dee destroy his lab in search of her pink hanky.",
+        "summary": "The family goes to a carnival, but Dexter can't go on a ride.",
+        "summary_long": "When the family goes to a carnival, Dexter can't get on a ride because he's too short. Then, using a nuclear reactor core, Dexter makes a reading lamp. Finally, trying to avoid the flu, Dexter hides in a protective bubble in his lab.",
         "taxonomy_id": "229027-010",
         "title": "Eww, That's Growth/Nuclear Confusion/Germ Warfare",
         "title_id": "323562",
@@ -4304,48 +4378,69 @@
         "franchise_id": "489898",
         "franchise_name": "Courage the Cowardly Dog",
         "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
         ],
         "guide_timestamp": 1721858400,
-        "last_update": 1721765590524,
+        "last_update": 1721845067133,
         "live": false,
-        "paid": "228255.008.03.851",
+        "paid": "228255.008.01.817",
         "participants": [
             {
                 "character": "Courage",
                 "name": "Marty Grabstein",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Muriel Bagge",
                 "name": "Thea White",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Eustace Bagge",
                 "name": "Lionel Wilson",
-                "role": "Voice"
+                "role": "voice-actor"
+            },
+            {
+                "character": "Courage",
+                "name": "Marty Grabstein",
+                "role": "actor"
+            },
+            {
+                "character": "",
+                "name": "Thea White",
+                "role": "actor"
+            },
+            {
+                "character": "",
+                "name": "John Dilworth",
+                "role": "director"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2000,
+        "release_year": 2001,
         "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1721858400,
         "season_id": "484",
+        "season_name": "Courage the Cowardly Dog",
         "season_number": "2",
-        "serial": 1721765590522,
+        "season_summary": "A scared dog and an elderly farming couple encounter the supernatural.",
+        "season_summary_long": "Courage the Cowardly Dog follows a frightened, pink beagle dog that lives with a married elderly pair of farmers in the Middle of Nowhere. The trio is thrown into bizarre misadventures, often involving the paranormal and supernatural.",
+        "serial": 1721845067131,
         "series_id": "330149",
         "series_name": "Courage the Cowardly Dog",
+        "series_summary": "A scared dog and an elderly farming couple encounter the supernatural.",
+        "series_summary_long": "Courage the Cowardly Dog follows a frightened, pink beagle that lives with a married elderly pair of farmers in the Middle of Nowhere. The trio is thrown into bizarre misadventures, often involving the paranormal and supernatural.",
         "show_duration": 1800,
         "show_id": "14446618",
         "show_timestamp": 1721858400,
         "status": "estimated",
-        "summary": "Because of her blood type, Muriel is kidnapped and taken to a hair farm to be used for growing hair. Then, Eustace sees a show about a hat worth millions and takes the family on an adventure to find it.",
-        "summary_long": "Bad Hair Day: Because of her rare blood type, Muriel is kidnapped and taken to a Hair Farm to be used for growing hair. Eustace and Courage track her down at the hair farm only to find it is being run by Eustaace's mother. Together they must find a way to rescue her./The Forbidden Hat of Gold: Eustace sees a TV show about a long-lost golden hat worth millions and takes the family on a wild adventure to find it. After an arduous journey, they finally arrive at the city and Eustace manages to steal the golden mask, angering the monks who guard it. Eustace refuses to return the mask, and the monks demand Muriel as a human sacrifice. Courage must find a way to save her and return the mask.",
+        "summary": "Muriel is kidnapped and taken to a hair farm to be used for growing hair.",
+        "summary_long": "Because of her blood type, Muriel is kidnapped and taken to a hair farm to be used for growing hair. Then, Eustace sees a show about a hat worth millions and takes the family on an adventure to find it.",
         "taxonomy_id": "228255-008",
         "title": "Bad Hair Day/Forbidden Hat of Gold",
         "title_id": "341715",
@@ -4363,48 +4458,69 @@
         "franchise_id": "489898",
         "franchise_name": "Courage the Cowardly Dog",
         "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
         ],
         "guide_timestamp": 1721860200,
-        "last_update": 1721767488750,
+        "last_update": 1721845571072,
         "live": false,
-        "paid": "228255.009.03.851",
+        "paid": "228255.009.01.817",
         "participants": [
             {
                 "character": "Courage",
                 "name": "Marty Grabstein",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Muriel Bagge",
                 "name": "Thea White",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Eustace Bagge",
                 "name": "Lionel Wilson",
-                "role": "Voice"
+                "role": "voice-actor"
+            },
+            {
+                "character": "Courage",
+                "name": "Marty Grabstein",
+                "role": "actor"
+            },
+            {
+                "character": "",
+                "name": "Thea White",
+                "role": "actor"
+            },
+            {
+                "character": "",
+                "name": "John Dilworth",
+                "role": "director"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2000,
+        "release_year": 2001,
         "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1721860200,
         "season_id": "484",
+        "season_name": "Courage the Cowardly Dog",
         "season_number": "2",
-        "serial": 1721767488750,
+        "season_summary": "A scared dog and an elderly farming couple encounter the supernatural.",
+        "season_summary_long": "Courage the Cowardly Dog follows a frightened, pink beagle dog that lives with a married elderly pair of farmers in the Middle of Nowhere. The trio is thrown into bizarre misadventures, often involving the paranormal and supernatural.",
+        "serial": 1721845571072,
         "series_id": "330149",
         "series_name": "Courage the Cowardly Dog",
+        "series_summary": "A scared dog and an elderly farming couple encounter the supernatural.",
+        "series_summary_long": "Courage the Cowardly Dog follows a frightened, pink beagle that lives with a married elderly pair of farmers in the Middle of Nowhere. The trio is thrown into bizarre misadventures, often involving the paranormal and supernatural.",
         "show_duration": 1800,
         "show_id": "14446619",
         "show_timestamp": 1721860200,
         "status": "estimated",
-        "summary": "The family signs up for a free vacation but end up having to serve as the ship's crew. They're forced to help the captain hunt for an evil sea serpent. Then, while digging, Courage unearths a bone from a giant kangaroo.",
-        "summary_long": "Serpent of Evil River: The family signs up for a free sea-faring vacation but instead of being guests, they end up having to serve as the ship's crew. Led by the single-minded Captain Sharky, they're forced to help him hunt for an evil sea serpent./The Transplant: While digging near the farmhouse, Courage unearths a bone from a giant kangaroo, which Dr. Vindaloo then uses during a back surgery transplant on Eustace. The transplant turns Eustace into a giant kangaroo monster, who grabs Muriel and sets off on a path of destruction around the globe. Courage must become a kangaroo monster himself to try to defeat Eustace kangaroo monster and save Muriel.",
+        "summary": "The family signs up for a vacation but ends up serving as the ship's crew.",
+        "summary_long": "The family signs up for a free vacation but ends up having to serve as the ship's crew. They're forced to help the captain hunt for an evil sea serpent. Then, while digging, Courage unearths a bone from a giant kangaroo.",
         "taxonomy_id": "228255-009",
         "title": "Serpent of Evil River/The Transplant",
         "title_id": "341716",
