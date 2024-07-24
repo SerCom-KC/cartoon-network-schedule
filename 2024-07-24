@@ -2565,28 +2565,47 @@
     },
     {
         "blackout_type": "none",
-        "content_advisories": [],
+        "content_advisories": [
+            "FV"
+        ],
         "content_id": "218418_003_02_851",
         "create_time": 1721750555708,
         "episode_in_season": "3",
-        "episode_number": "S1:E02",
+        "episode_number": "S1:E03",
         "external_id": "16577948",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Be Cool, Scooby-Doo!",
         "genres": [
+            "Cartoons",
             "Comedy",
-            "Mystery"
+            "Family Laughs",
+            "Kids & Family"
         ],
         "guide_timestamp": 1721835000,
-        "last_update": 1721835086112,
+        "last_update": 1721838370059,
         "live": false,
-        "paid": "218418.003.02.851",
+        "paid": "218418.003.01.817",
         "participants": [
             {
                 "character": "Daphne Blake",
-                "name": "Grey DeLisle (Griffin)",
-                "role": "Voice"
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Kate Micucci",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
             }
         ],
         "premiere": true,
@@ -2596,20 +2615,25 @@
         "scheduled_duration": 1810,
         "scheduled_timestamp": 1721835000,
         "season_id": "8936",
+        "season_name": "Be Cool, Scooby-Doo!",
         "season_number": "1",
-        "serial": 1721835086112,
+        "season_summary": "The Scooby gang is back with a modern comedic twist on the beloved classic.",
+        "season_summary_long": "The Scooby gang is back with a modern comedic twist on the beloved classic. With high school over, Shaggy, Scooby, Velma, Daphne and Fred hit the road in the Mystery Machine. However, havoc-wrecking monsters have a way of finding the gang.",
+        "serial": 1721838370057,
         "series_id": "2031360",
         "series_name": "Be Cool, Scooby-Doo!",
-        "show_duration": 1810,
+        "series_summary": "The Scooby gang is back with a modern comedic twist on the beloved classic.",
+        "series_summary_long": "The Scooby gang is back with a modern comedic twist on the beloved classic. With high school over, Shaggy, Scooby, Velma, Daphne and Fred hit the road in the Mystery Machine. However, havoc-wrecking monsters have a way of finding the gang.",
+        "show_duration": 1800,
         "show_id": "14485429",
         "show_timestamp": 1721834998,
-        "status": "current",
-        "summary": "Fred gets a call for help from Chuck leading the gang on a rescue mission deep in the caverns of an ancient civilization. Once there, they learn of the real mystery: the ghost of the Tribal Warrior still protects the cavern from outsiders!",
-        "summary_long": "Fred gets a call for help from Chuck, his daredevil of a best friend, leading the gang on a rescue mission deep in the caverns of an ancient civilization. Once there, they learn of the real mystery: the ghost of the Tribal Warrior still protects the cavern from outsiders!",
+        "status": "actual",
+        "summary": "The gang goes on a mission deep in the caverns of an ancient civilization.",
+        "summary_long": "Fred gets a call for help from Chuck leading the gang on a rescue mission deep in the caverns of an ancient civilization. Once there, they learn of the real mystery: the ghost of the Tribal Warrior still protects the cavern from outsiders!",
         "taxonomy_id": "218418-003",
         "title": "Game of Chicken",
         "title_id": "2031363",
-        "tv_rating": "TV-Y7-FV"
+        "tv_rating": "TV-Y7"
     },
     {
         "blackout_type": "none",
@@ -2623,34 +2647,94 @@
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
         "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
+            "Kids & Family",
+            "Cartoons",
+            "Family Adventures"
         ],
         "guide_timestamp": 1721836800,
-        "last_update": 1721835086113,
+        "last_update": 1721838604442,
         "live": false,
-        "paid": "229072.037.02.851",
+        "paid": "229072.037.01.817",
         "participants": [
             {
                 "character": "Craig Williams",
                 "name": "Philip Solomon",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Kelsey",
                 "name": "Georgie Kidder",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Kelsey",
                 "name": "Noel Wells",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "J.P.",
                 "name": "H. Michael Croner",
-                "role": "Voice"
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "No\u00ebl Wells",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Michael Croner",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Phil LaMarr",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Karen Fukuhara",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Lauren Lapkus",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Eddy Houchins",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Martin Ansolabehere",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Stu Livingston",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Ben Levin",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Matt Burnett",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Matt Burnett",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Ben Levin",
+                "role": "creator"
             }
         ],
         "premiere": false,
@@ -2660,17 +2744,23 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1721836800,
         "season_id": "15811",
+        "season_name": "Craig of the Creek",
         "season_number": "3",
-        "serial": 1721835086112,
+        "season_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "season_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "serial": 1721838604442,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
+        "series_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "series_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
         "show_duration": 1800,
         "show_id": "14441257",
-        "show_timestamp": 1721836798,
-        "status": "estimated",
+        "show_timestamp": 1721836809,
+        "status": "actual",
         "summary": "It all comes down to this, the fate of the Creek is at stake!",
+        "summary_long": "It all comes down to this, the fate of the Creek is at stake!",
         "taxonomy_id": "229072-037",
-        "title": "Capture The Flag Part V: The Game",
+        "title": "Capture the Flag Part V: The Game",
         "title_id": "2242212",
         "tv_rating": "TV-Y7"
     },
@@ -2686,34 +2776,84 @@
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
         "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
+            "Kids & Family",
+            "Cartoons",
+            "Family Adventures"
         ],
         "guide_timestamp": 1721838600,
-        "last_update": 1721835086113,
+        "last_update": 1721838630701,
         "live": false,
-        "paid": "229083.004.02.851",
+        "paid": "229083.004.01.817",
         "participants": [
             {
                 "character": "Craig Williams",
                 "name": "Philip Solomon",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Kelsey",
                 "name": "Georgie Kidder",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Kelsey",
                 "name": "Noel Wells",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "J.P.",
                 "name": "H. Michael Croner",
-                "role": "Voice"
+                "role": "voice-actor"
+            },
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "actor"
+            },
+            {
+                "character": "J.P",
+                "name": "Michael Croner",
+                "role": "actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "No\u00ebl Wells",
+                "role": "actor"
+            },
+            {
+                "character": "",
+                "name": "Eddy Houchins",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Martin Ansolabehere",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Stu Livingston",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Ben Levin",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Matt Burnett",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Matt Burnett",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Ben Levin",
+                "role": "creator"
             }
         ],
         "premiere": false,
@@ -2723,15 +2863,21 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721838600,
         "season_id": "16991",
+        "season_name": "Craig of the Creek",
         "season_number": "4",
-        "serial": 1721835086112,
+        "season_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "season_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "serial": 1721838630701,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
+        "series_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "series_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
         "show_duration": 900,
         "show_id": "14441258",
-        "show_timestamp": 1721838599,
-        "status": "estimated",
-        "summary": "Craig offers to help the Sewer Queen by going undercover as a member of the swim team.",
+        "show_timestamp": 1721838610,
+        "status": "current",
+        "summary": "Craig offers to help the Sewer Queen by going undercover.",
+        "summary_long": "Craig offers to help the Sewer Queen by going undercover as a member of the swim team.",
         "taxonomy_id": "229083-004",
         "title": "Sink or Swim Team",
         "title_id": "2260156",
@@ -2749,34 +2895,84 @@
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
         "genres": [
-            "Animation",
-            "Children",
-            "Comedy"
+            "Kids & Family",
+            "Cartoons",
+            "Family Adventures"
         ],
         "guide_timestamp": 1721839500,
-        "last_update": 1721835086113,
+        "last_update": 1721838644657,
         "live": false,
-        "paid": "229083.005.02.851",
+        "paid": "229083.005.01.817",
         "participants": [
             {
                 "character": "Craig Williams",
                 "name": "Philip Solomon",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Kelsey",
                 "name": "Georgie Kidder",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Kelsey",
                 "name": "Noel Wells",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "J.P.",
                 "name": "H. Michael Croner",
-                "role": "Voice"
+                "role": "voice-actor"
+            },
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "actor"
+            },
+            {
+                "character": "J.P",
+                "name": "Michael Croner",
+                "role": "actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "No\u00ebl Wells",
+                "role": "actor"
+            },
+            {
+                "character": "",
+                "name": "Eddy Houchins",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Martin Ansolabehere",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Stu Livingston",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Ben Levin",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Matt Burnett",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Matt Burnett",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Ben Levin",
+                "role": "creator"
             }
         ],
         "premiere": false,
@@ -2786,15 +2982,21 @@
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721839500,
         "season_id": "16991",
+        "season_name": "Craig of the Creek",
         "season_number": "4",
-        "serial": 1721835086112,
+        "season_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "season_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "serial": 1721838644655,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
+        "series_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "series_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
         "show_duration": 900,
         "show_id": "14441259",
-        "show_timestamp": 1721839499,
+        "show_timestamp": 1721839510,
         "status": "estimated",
         "summary": "Craig tries to rid himself of a bad nickname.",
+        "summary_long": "Craig tries to rid himself of a bad nickname.",
         "taxonomy_id": "229083-005",
         "title": "The Quick Name",
         "title_id": "2260158",
@@ -2812,72 +3014,78 @@
         "franchise_id": "489898",
         "franchise_name": "Teen Titans Go!",
         "genres": [
-            "Action",
-            "Adventure",
-            "Animation"
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
         ],
         "guide_timestamp": 1721840400,
-        "last_update": 1721824396467,
+        "last_update": 1721838644658,
         "live": false,
-        "paid": "234271.025.03.851",
+        "paid": "234271.025.01.851",
         "participants": [
             {
                 "character": "Robin",
                 "name": "Scott Menville",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Starfire",
                 "name": "Hynden Walch",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Raven",
                 "name": "Tara Strong",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Cyborg",
                 "name": "Khary Payton",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Beast Boy",
                 "name": "Greg Cipes",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
-                "character": null,
+                "character": "",
                 "name": "Sam Register",
-                "role": "Executive Producer"
+                "role": "executive-producer"
             },
             {
-                "character": null,
+                "character": "",
                 "name": "Michael Jelenic",
-                "role": "Producer"
+                "role": "producer"
             },
             {
-                "character": null,
+                "character": "",
                 "name": "Aaron Horvath",
-                "role": "Producer"
+                "role": "producer"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2022,
+        "release_year": 2023,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721840400,
         "season_id": "25818",
+        "season_name": "Teen Titans Go!",
         "season_number": "8",
-        "serial": 1721824396467,
+        "season_summary": "The super teens deal with everyday issues of adolescence.",
+        "season_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "serial": 1721838644655,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
-        "show_duration": 899,
+        "series_summary": "The super teens deal with everyday issues of adolescence.",
+        "series_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "show_duration": 900,
         "show_id": "14441260",
-        "show_timestamp": 1721840400,
+        "show_timestamp": 1721840406,
         "status": "estimated",
-        "summary": "Control Freak leads the Titans on a chase through various cartoon intro sequences.",
+        "summary": "Control Freak leads the Titans on a chase through various cartoons.",
+        "summary_long": "Control Freak leads the Titans on a chase through various cartoon intro sequences.",
         "taxonomy_id": "234271-025",
         "title": "Intro",
         "title_id": "2409322",
@@ -2889,78 +3097,84 @@
         "content_id": "234271_035_02_851",
         "create_time": 1721750555712,
         "episode_in_season": "35",
-        "episode_number": "S8:E25",
+        "episode_number": "S8:E35",
         "external_id": "16542010",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Teen Titans Go!",
         "genres": [
-            "Action",
-            "Adventure",
-            "Animation"
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
         ],
         "guide_timestamp": 1721841300,
-        "last_update": 1721824396467,
+        "last_update": 1721838664887,
         "live": false,
-        "paid": "234271.035.02.851",
+        "paid": "234271.035.01.851",
         "participants": [
             {
                 "character": "Robin",
                 "name": "Scott Menville",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Starfire",
                 "name": "Hynden Walch",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Raven",
                 "name": "Tara Strong",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Cyborg",
                 "name": "Khary Payton",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Beast Boy",
                 "name": "Greg Cipes",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
-                "character": null,
+                "character": "",
                 "name": "Sam Register",
-                "role": "Executive Producer"
+                "role": "executive-producer"
             },
             {
-                "character": null,
+                "character": "",
                 "name": "Michael Jelenic",
-                "role": "Producer"
+                "role": "producer"
             },
             {
-                "character": null,
+                "character": "",
                 "name": "Aaron Horvath",
-                "role": "Producer"
+                "role": "producer"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2022,
+        "release_year": 2023,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1721841300,
         "season_id": "25818",
+        "season_name": "Teen Titans Go!",
         "season_number": "8",
-        "serial": 1721824396467,
+        "season_summary": "The super teens deal with everyday issues of adolescence.",
+        "season_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "serial": 1721838664887,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
-        "show_duration": 891,
+        "series_summary": "The super teens deal with everyday issues of adolescence.",
+        "series_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "show_duration": 900,
         "show_id": "14441261",
-        "show_timestamp": 1721841300,
+        "show_timestamp": 1721841302,
         "status": "estimated",
-        "summary": "Starfire is the captain of a spaceship heading back to her home planet of Tarmaran and her crew is some of Earth's finest specimens.",
+        "summary": "Starfire is the captain of a spaceship heading back to her home planet.",
+        "summary_long": "Starfire is the captain of a spaceship heading back to her home planet of Tarmaran, and her crew is some of Earth's finest specimens.",
         "taxonomy_id": "234271-035",
         "title": "Ship",
         "title_id": "2409332",
@@ -2972,78 +3186,84 @@
         "content_id": "234271_005_02_851",
         "create_time": 1721750555713,
         "episode_in_season": "5",
-        "episode_number": "S8:E04",
+        "episode_number": "S8:E05",
         "external_id": "16542011",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Teen Titans Go!",
         "genres": [
-            "Action",
-            "Adventure",
-            "Animation"
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
         ],
         "guide_timestamp": 1721842200,
-        "last_update": 1721765587616,
+        "last_update": 1721838664888,
         "live": false,
-        "paid": "234271.005.02.851",
+        "paid": "234271.005.01.851",
         "participants": [
             {
                 "character": "Robin",
                 "name": "Scott Menville",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Starfire",
                 "name": "Hynden Walch",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Raven",
                 "name": "Tara Strong",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Cyborg",
                 "name": "Khary Payton",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
                 "character": "Beast Boy",
                 "name": "Greg Cipes",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
-                "character": null,
+                "character": "",
                 "name": "Sam Register",
-                "role": "Executive Producer"
+                "role": "executive-producer"
             },
             {
-                "character": null,
+                "character": "",
                 "name": "Michael Jelenic",
-                "role": "Producer"
+                "role": "producer"
             },
             {
-                "character": null,
+                "character": "",
                 "name": "Aaron Horvath",
-                "role": "Producer"
+                "role": "producer"
             }
         ],
         "premiere": false,
         "press_hold": false,
-        "release_year": 2022,
+        "release_year": 2023,
         "runtime_minutes": 30,
         "scheduled_duration": 1808,
         "scheduled_timestamp": 1721842200,
         "season_id": "25818",
+        "season_name": "Teen Titans Go!",
         "season_number": "8",
-        "serial": 1721765587615,
+        "season_summary": "The super teens deal with everyday issues of adolescence.",
+        "season_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "serial": 1721838664887,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
-        "show_duration": 1808,
+        "series_summary": "The super teens deal with everyday issues of adolescence.",
+        "series_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "show_duration": 1800,
         "show_id": "14441262",
-        "show_timestamp": 1721842200,
+        "show_timestamp": 1721842201,
         "status": "estimated",
-        "summary": "In order to get a toy license deal with the Toy Master, the Titans become action heroes.",
+        "summary": "To get a license deal with the Toy Master, the Titans become action heroes.",
+        "summary_long": "The Titans learn that toys from comedy shows don't sell, so they become action heroes and land a toy license deal. But, when they grow tired of the action lifestyle, the Titans try to destroy Toy Master's cosmic toy factory to get out of their contract.",
         "taxonomy_id": "234271-005",
         "title": "Teen Titans Action",
         "title_id": "2409298",
