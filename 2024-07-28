@@ -11,14 +11,14 @@
         "franchise_id": "489898",
         "franchise_name": "My Adventures with Superman",
         "genres": [
-            "Action",
-            "Adult Animation",
-            "Adventure",
             "Kids & Family",
-            "Superheroes"
+            "Action",
+            "Superheroes",
+            "Adventure",
+            "Adult Animation"
         ],
         "guide_timestamp": 1722139200,
-        "last_update": 1722045719689,
+        "last_update": 1722132113985,
         "live": false,
         "paid": "250998.001.01.851",
         "participants": [
@@ -59,7 +59,7 @@
         "season_number": "2",
         "season_summary": "Reporters Clark, Lois and Jimmy set out to uncover who Superman really is.",
         "season_summary_long": "My Adventures With Superman follows Clark Kent, Lois Lane and Jimmy Olsen discovering who they are, what they can accomplish -- and saving their city from the forces that conspire to destroy it!",
-        "serial": 1722045719688,
+        "serial": 1722132113982,
         "series_id": "2288454",
         "series_name": "My Adventures with Superman",
         "series_summary": "Reporters Clark, Lois and Jimmy set out to uncover who Superman really is.",
@@ -70,6 +70,7 @@
         "status": "estimated",
         "summary": "Clark agonizes over what to do for his and Lois' first Valentine's Day.",
         "summary_long": "Clark agonizes over what to do for his and Lois' first Valentine's Day \u2026 until visions of his father lead him, Jimmy and Lois to the remains of his Spaceship and the new villains of Task Force X!",
+        "taxonomy_id": "250998-001",
         "title": "More Things in Heaven and Earth",
         "title_id": "2288465",
         "tv_rating": "TV-PG"
@@ -4687,6 +4688,56 @@
         "taxonomy_id": "251795-009",
         "title": "A Rick in King Mortur's Mort",
         "title_id": "2397942",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251795_010_03_851",
+        "create_time": 1722130392903,
+        "episode_in_season": "10",
+        "episode_number": "S6:E10",
+        "external_id": "16542276",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Space & Beyond"
+        ],
+        "guide_timestamp": 1722223800,
+        "last_update": 1722130392903,
+        "live": false,
+        "paid": "251795.010.01.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1722223800,
+        "season_id": "25507",
+        "season_name": "Rick and Morty",
+        "season_number": "6",
+        "serial": 1722130392903,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "14441535",
+        "show_timestamp": 1722223800,
+        "status": "estimated",
+        "summary": "Merry Rickmas, broh!",
+        "summary_long": "Merry Rickmas, broh!",
+        "taxonomy_id": "251795-010",
+        "title": "Ricktional Mortpoon's Rickmas Mortcation",
+        "title_id": "2397943",
         "tv_rating": "TV-14"
     }
 ]
