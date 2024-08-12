@@ -772,5 +772,61 @@
         "title": "Alone",
         "title_id": "723831",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "250263_010_03_851",
+        "create_time": 1723446376279,
+        "episode_in_season": "10",
+        "episode_number": "S9:E10",
+        "external_id": "16569282",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1723539600,
+        "last_update": 1723446376279,
+        "live": false,
+        "paid": "250263.010.01.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1723539600,
+        "season_id": "27919",
+        "season_name": "Bob's Burgers (Season 9)",
+        "season_number": "9",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1723446376279,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "14474255",
+        "show_timestamp": 1723539600,
+        "status": "estimated",
+        "summary": "It's all fun and games until the Belchers lose their sledding turf.",
+        "summary_long": "The battle is on when some angsty teenagers take over Louise, Gene and Tina's usual sledding territory, inciting an epic turf war. Meanwhile, Bob steps in to help Linda, who's in a time crunch to get three scarves knitted before Christmas.",
+        "taxonomy_id": "250263-010",
+        "title": "Better Off Sled",
+        "title_id": "2438926",
+        "tv_rating": "TV-PG"
     }
 ]
