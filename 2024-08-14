@@ -68,7 +68,7 @@
             "Offbeat"
         ],
         "guide_timestamp": 1723609800,
-        "last_update": 1723516887184,
+        "last_update": 1723588935780,
         "live": false,
         "paid": "251783.006.01.851",
         "participants": [],
@@ -81,7 +81,7 @@
         "season_id": "1282",
         "season_name": "The Boondocks (Non-Explicit RPK)",
         "season_number": "1",
-        "serial": 1723516887184,
+        "serial": 1723588935780,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "series_summary": "Brothers Huey and Riley move to Woodcrest to live with their grandfather.",
@@ -92,6 +92,7 @@
         "status": "estimated",
         "summary": "Riley convinces two reality shows that Granddad's blind and runs a shelter.",
         "summary_long": "While Riley's convincing two reality shows that Granddad's blind and running a homeless shelter, Huey is being shadowed by a secret government agent. But is he real?",
+        "taxonomy_id": "251783-006",
         "title": "The Real",
         "title_id": "623582",
         "tv_rating": "TV-MA"
@@ -168,7 +169,7 @@
             "Offbeat"
         ],
         "guide_timestamp": 1723612500,
-        "last_update": 1723520483547,
+        "last_update": 1723588935781,
         "live": false,
         "paid": "251866.019.01.851",
         "participants": [],
@@ -181,7 +182,7 @@
         "season_id": "9792",
         "season_name": "Robot Chicken (Season 8) (LWM) (Non-Explicit RPK)",
         "season_number": "8",
-        "serial": 1723520483546,
+        "serial": 1723588935780,
         "series_id": "608360",
         "series_name": "Robot Chicken",
         "series_summary": "Rapid-fire channel flips propel viewers through twisted pop culture takes.",
@@ -192,6 +193,7 @@
         "status": "estimated",
         "summary": "The writers imagine if Darth Vader learned to say \"I'm Sorry.\"",
         "summary_long": "The writers of Robot Chicken imagine what would happen if Darth Vader learned to say \"I'm Sorry.\" Bugs Bunny takes his cross-dressing to the next level. The Terminator changes the future a bit too much. Edna Mode gets an incredible new job.",
+        "taxonomy_id": "251866-019",
         "title": "Not Enough Women",
         "title_id": "2072686",
         "tv_rating": "TV-14"
@@ -1390,6 +1392,62 @@
         "summary_long": "Things get out of hand when Louise wins a contest to be Principal for a Day. Back at the restaurant, Teddy has a unique suggestion to help Bob when he suddenly finds himself unable to flip burgers.",
         "title": "The Fresh Princ-ipal",
         "title_id": "2438931",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "250263_016_03_851",
+        "create_time": 1723588936213,
+        "episode_in_season": "16",
+        "episode_number": "S9:E16",
+        "external_id": "16569404",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1723681800,
+        "last_update": 1723588936213,
+        "live": false,
+        "paid": "250263.016.01.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1723681800,
+        "season_id": "27919",
+        "season_name": "Bob's Burgers (Season 9)",
+        "season_number": "9",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1723588936213,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "14474377",
+        "show_timestamp": 1723681800,
+        "status": "estimated",
+        "summary": "Bob attempts to take a day off.",
+        "summary_long": "The family forces workaholic Bob to take a much-needed day off, only for him to wind up working at a local sandwich shop. Meanwhile, Linda and the kids throw a last minute baby shower at the restaurant for a female biker group.",
+        "title": "Roamin' Bob-iday",
+        "title_id": "2438932",
         "tv_rating": "TV-PG"
     }
 ]
