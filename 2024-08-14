@@ -781,5 +781,63 @@
         "title": "Dumb",
         "title_id": "723833",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "250263_013_03_851",
+        "create_time": 1723532836227,
+        "episode_in_season": "13",
+        "episode_number": "S9:E13",
+        "external_id": "16569352",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1723626000,
+        "last_update": 1723532836227,
+        "live": false,
+        "paid": "250263.013.01.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1723626000,
+        "season_id": "27919",
+        "season_name": "Bob's Burgers (Season 9)",
+        "season_number": "9",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1723532836227,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "14474325",
+        "show_timestamp": 1723626000,
+        "status": "estimated",
+        "summary": "Tina, Louise and Gene save Valentine's Day.",
+        "summary_long": "A Valentine's Day fight between Bob and Linda has the kids feeling confused. After a failed attempt to see a movie, it's up to Tina, Louise and Gene to tell their own story as a distraction from the awkward tension.",
+        "taxonomy_id": "250263-013",
+        "title": "Bed, Bob & Beyond",
+        "title_id": "2438929",
+        "tv_rating": "TV-PG"
     }
 ]
