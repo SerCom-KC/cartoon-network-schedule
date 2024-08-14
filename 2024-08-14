@@ -21,7 +21,7 @@
             "Space & Beyond"
         ],
         "guide_timestamp": 1723608000,
-        "last_update": 1723514821390,
+        "last_update": 1723599151124,
         "live": false,
         "paid": "251793.006.01.851",
         "participants": [],
@@ -34,14 +34,14 @@
         "season_id": "15308",
         "season_name": "Rick and Morty (Season 4) (Non-Explicit Repack)",
         "season_number": "4",
-        "serial": 1723514821390,
+        "serial": 1723599151119,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
         "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
         "show_duration": 1800,
         "show_id": "14474313",
-        "show_timestamp": 1723608000,
+        "show_timestamp": 1723608001,
         "status": "estimated",
         "summary": "Choo choo, broh. Catch this train, broh.",
         "summary_long": "Choo choo, broh. Catch this train, broh.",
@@ -1759,6 +1759,144 @@
         "taxonomy_id": "232841-001",
         "title": "The Professor and the Coach",
         "title_id": "2392752",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_002_01_851",
+        "create_time": 1723597845209,
+        "episode_in_season": "2",
+        "episode_number": "S18:E02",
+        "external_id": "16569409",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1723690800,
+        "last_update": 1723597845209,
+        "live": false,
+        "paid": "232841.002.01.857",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1723690800,
+        "season_id": "25259",
+        "season_name": "American Dad",
+        "season_number": "18",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1723597845209,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "14474382",
+        "show_timestamp": 1723690800,
+        "status": "estimated",
+        "summary": "A lunar misstep sends Roger on an unexpected detour to New Mexico.",
+        "summary_long": "A lunar misstep sends Roger on an unexpected detour to New Mexico.",
+        "taxonomy_id": "232841-002",
+        "title": "Fellow Traveler",
+        "title_id": "2392753",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251793_007_03_851",
+        "create_time": 1723599916770,
+        "episode_in_season": "7",
+        "episode_number": "S4:E07",
+        "external_id": "16569410",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Space & Beyond"
+        ],
+        "guide_timestamp": 1723692600,
+        "last_update": 1723599916770,
+        "live": false,
+        "paid": "251793.007.01.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1723692600,
+        "season_id": "15308",
+        "season_name": "Rick and Morty (Season 4) (Non-Explicit Repack)",
+        "season_number": "4",
+        "serial": 1723599916770,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "14474383",
+        "show_timestamp": 1723692600,
+        "status": "estimated",
+        "summary": "Get off my face, broh.",
+        "summary_long": "Get off my face, broh.",
+        "taxonomy_id": "251793-007",
+        "title": "Promortyus",
+        "title_id": "2206491",
         "tv_rating": "TV-14"
     }
 ]
