@@ -769,5 +769,62 @@
         "title": "Passing",
         "title_id": "723836",
         "tv_rating": "TV-MA"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "250263_016_03_851",
+        "create_time": 1723619464352,
+        "episode_in_season": "16",
+        "episode_number": "S9:E16",
+        "external_id": "16569423",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1723712400,
+        "last_update": 1723619464352,
+        "live": false,
+        "paid": "250263.016.01.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1723712400,
+        "season_id": "27919",
+        "season_name": "Bob's Burgers (Season 9)",
+        "season_number": "9",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1723619464352,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "14474396",
+        "show_timestamp": 1723712400,
+        "status": "estimated",
+        "summary": "Bob attempts to take a day off.",
+        "summary_long": "The family forces workaholic Bob to take a much-needed day off, only for him to wind up working at a local sandwich shop. Meanwhile, Linda and the kids throw a last minute baby shower at the restaurant for a female biker group.",
+        "taxonomy_id": "250263-016",
+        "title": "Roamin' Bob-iday",
+        "title_id": "2438932",
+        "tv_rating": "TV-PG"
     }
 ]
