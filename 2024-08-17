@@ -807,7 +807,7 @@
             "Drama"
         ],
         "guide_timestamp": 1723932000,
-        "last_update": 1723846378812,
+        "last_update": 1723852407277,
         "live": false,
         "paid": "233052.004.01.851",
         "participants": [],
@@ -815,12 +815,12 @@
         "press_hold": false,
         "release_year": 1998,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1810,
         "scheduled_timestamp": 1723932000,
         "season_id": "1536",
         "season_name": "King of the Hill (Season 3)",
         "season_number": "3",
-        "serial": 1723846378812,
+        "serial": 1723852407277,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
@@ -829,6 +829,7 @@
         "status": "estimated",
         "summary": "Hank decides to breed Lady Bird.  Dale applies for a bounty hunter's license.",
         "summary_long": "Pregnant Paws: Hank decides to breed Lady Bird.  Dale applies for a bounty hunter's license.",
+        "taxonomy_id": "233052-004",
         "title": "Pregnant Paws",
         "title_id": "728863",
         "tv_rating": "TV-PG"
@@ -1113,7 +1114,7 @@
             "Comedy"
         ],
         "guide_timestamp": 1723942800,
-        "last_update": 1723849982951,
+        "last_update": 1723852408639,
         "live": false,
         "paid": "232833.018.05.851",
         "participants": [
@@ -1157,14 +1158,14 @@
         "press_hold": false,
         "release_year": 2016,
         "runtime_minutes": 30,
-        "scheduled_duration": 1800,
+        "scheduled_duration": 1806,
         "scheduled_timestamp": 1723942800,
         "season_id": "7625",
         "season_name": "American Dad",
         "season_number": "11",
         "season_summary": "A CIA agent will do anything to protect his homeland and family.",
         "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
-        "serial": 1723849982951,
+        "serial": 1723852408639,
         "series_id": "581006",
         "series_name": "American Dad",
         "series_summary": "A CIA agent will do anything to protect his homeland and family.",
@@ -1175,8 +1176,180 @@
         "status": "estimated",
         "summary": "Stan sways the Morton Salt Company to buy the salt mine in his backyard.",
         "summary_long": "When Stan discovers a salt mine in the backyard, the Morton Salt Company wants to buy it. It turns out Steve is the rightful owner of the land and he faces pressure from the family to sell.",
+        "taxonomy_id": "232833-018",
         "title": "Mine Struggle",
         "title_id": "2046302",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "S"
+        ],
+        "content_id": "232833_019_05_851",
+        "create_time": 1723852408639,
+        "episode_in_season": "19",
+        "episode_number": "S11:E19",
+        "external_id": "16569609",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1723944600,
+        "last_update": 1723852408639,
+        "live": false,
+        "paid": "232833.019.01.857",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1723944600,
+        "season_id": "7625",
+        "season_name": "American Dad",
+        "season_number": "11",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1723852408639,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "14474583",
+        "show_timestamp": 1723944600,
+        "status": "estimated",
+        "summary": "Stan brings President Garfield back to life to teach Hayley about history.",
+        "summary_long": "Stan brings President Garfield back to life in order to teach Hayley about history. Steve writes for the school newspaper.",
+        "title": "Garfield and Friends",
+        "title_id": "2046303",
+        "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_002_03_851",
+        "create_time": 1723853576544,
+        "episode_in_season": "2",
+        "episode_number": "S15:E02",
+        "external_id": "16578566",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1723946400,
+        "last_update": 1723853576544,
+        "live": false,
+        "paid": "232837.002.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1723946400,
+        "season_id": "14124",
+        "season_name": "American Dad",
+        "season_number": "15",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1723853576544,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "14474584",
+        "show_timestamp": 1723946400,
+        "status": "estimated",
+        "summary": "Stan abducts The Weeknd to teach Roger a valuable lesson.",
+        "summary_long": "Stan abducts The Weeknd to teach Roger a valuable lesson. Meanwhile, Hayley attempts to sleep with the celebrity singer.",
+        "taxonomy_id": "232837-002",
+        "title": "A Starboy is Born",
+        "title_id": "2197419",
         "tv_rating": "TV-14"
     }
 ]
