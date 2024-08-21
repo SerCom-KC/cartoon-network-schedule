@@ -22,7 +22,7 @@
             "Space & Beyond"
         ],
         "guide_timestamp": 1724299200,
-        "last_update": 1724205891147,
+        "last_update": 1724281544982,
         "live": false,
         "paid": "251794.004.01.851",
         "participants": [],
@@ -35,7 +35,7 @@
         "season_id": "17487",
         "season_name": "Rick and Morty (Season 5) (Non-Explicit RPK)",
         "season_number": "5",
-        "serial": 1724205891145,
+        "serial": 1724281544982,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
@@ -69,7 +69,7 @@
             "Offbeat"
         ],
         "guide_timestamp": 1724301000,
-        "last_update": 1724209496560,
+        "last_update": 1724281549458,
         "live": false,
         "paid": "251783.011.01.851",
         "participants": [],
@@ -84,7 +84,7 @@
         "season_number": "1",
         "season_summary": "Brothers Huey and Riley move to Woodcrest to live with their grandfather.",
         "season_summary_long": "Brothers Huey and Riley Freeman move from the South Side of Chicago to live with their grandfather in the predominantly white suburb of Woodcrest. A clash of lifestyles, classes and cultures follows.",
-        "serial": 1724209496559,
+        "serial": 1724281549458,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "series_summary": "Brothers Huey and Riley move to Woodcrest to live with their grandfather.",
@@ -95,6 +95,7 @@
         "status": "estimated",
         "summary": "Huey must stop Riley and his friends from nabbing talk show deity Oprah.",
         "summary_long": "Huey has to stop Riley and a small gang of misfit idiots from nabbing the talk show deity, Oprah.",
+        "taxonomy_id": "251783-011",
         "title": "Let's Nab Oprah",
         "title_id": "627813",
         "tv_rating": "TV-MA"
@@ -1271,6 +1272,116 @@
         "summary_long": "Linda tries to take her family to the symphony on free admission night, but her efforts are thwarted by a pinworm epidemic.",
         "title": "Worms of In-Rear-Ment",
         "title_id": "2438962",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "250265_003_03_851",
+        "create_time": 1724281553862,
+        "episode_in_season": "3",
+        "episode_number": "S11:E03",
+        "external_id": "16570710",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1724373000,
+        "last_update": 1724281553862,
+        "live": false,
+        "paid": "250265.003.01.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1724373000,
+        "season_id": "27921",
+        "season_name": "Bob's Burgers (Season 11)",
+        "season_number": "11",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1724281553862,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "14474915",
+        "show_timestamp": 1724373000,
+        "status": "estimated",
+        "summary": "Bob gets a new job.",
+        "summary_long": "Bob agrees to be the temporary chef at the Fischoeders' new nightclub. Meanwhile, the kids get a hold of a stock tank and decide to throw a pool party in the restaurant's basement.",
+        "title": "Copa-Bob-Bana",
+        "title_id": "2438963",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250265_005_03_851",
+        "create_time": 1724281553863,
+        "episode_in_season": "5",
+        "episode_number": "S11:E05",
+        "external_id": "16570711",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1724374800,
+        "last_update": 1724281553863,
+        "live": false,
+        "paid": "250265.005.01.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1724374800,
+        "season_id": "27921",
+        "season_name": "Bob's Burgers (Season 11)",
+        "season_number": "11",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1724281553862,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "14474916",
+        "show_timestamp": 1724374800,
+        "status": "estimated",
+        "summary": "Tina goes on a power trip.",
+        "summary_long": "Tina is put in charge of the Wagstaff School time capsule project, but she makes an enemy when she rejects Tammy's submission. Meanwhile, Bob teases Linda over her inability to whistle.",
+        "title": "Fast Time Capsules at Wagstaff School",
+        "title_id": "2438965",
         "tv_rating": "TV-PG"
     }
 ]
