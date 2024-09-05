@@ -866,5 +866,84 @@
         "title": "The Belchies",
         "title_id": "2003436",
         "tv_rating": "TV-14"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "169768_002_02_851",
+        "create_time": 1725523305438,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "169768-002-851-1725615000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1725615000,
+        "last_time_machine_update": 1725523305438,
+        "last_update": 1725523305438,
+        "live": false,
+        "paid": "169768.002.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1725615000,
+        "season_id": "7296",
+        "season_name": "Bob's Burgers",
+        "season_number": "2",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1725523305438,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "14506912",
+        "show_timestamp": 1725615000,
+        "status": "estimated",
+        "summary": "A bank robber holds up a bank across the street from Bob's Burgers.",
+        "summary_long": "A bank robber holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis.",
+        "taxonomy_id": "169768-002",
+        "title": "Bob Day Afternoon",
+        "title_id": "2003437",
+        "tv_rating": "TV-14"
     }
 ]
