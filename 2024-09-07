@@ -1503,5 +1503,130 @@
         "title": "Hank and the Great Glass Elevator",
         "title_id": "731338",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233070_012_02_851",
+        "create_time": 1725657503011,
+        "episode_in_season": "12",
+        "episode_number": "S5:E12",
+        "external_id": "233070-012-851-1725748200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1725748200,
+        "last_time_machine_update": 1725657503011,
+        "last_update": 1725657503011,
+        "live": false,
+        "paid": "233070.012.02.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1725748200,
+        "season_id": "1538",
+        "season_name": "King of the Hill (Season 5)",
+        "season_number": "5",
+        "serial": 1725657503011,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "14507019",
+        "show_timestamp": 1725748200,
+        "status": "estimated",
+        "summary": "Now Who's the Dummy?: Hank takes a special interest in Bobby's sports-loving ventriloquist's dummy.",
+        "summary_long": "Now Who's the Dummy?: Hank takes a special interest in Bobby's sports-loving ventriloquist's dummy.",
+        "taxonomy_id": "233070-012",
+        "title": "Now Who's the Dummy?",
+        "title_id": "731339",
+        "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169768_007_02_851",
+        "create_time": 1725657506298,
+        "episode_in_season": "7",
+        "episode_number": "S2:E07",
+        "external_id": "169768-007-851-1725750000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1725750000,
+        "last_time_machine_update": 1725657506298,
+        "last_update": 1725657506298,
+        "live": false,
+        "paid": "169768.007.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1725750000,
+        "season_id": "7296",
+        "season_name": "Bob's Burgers",
+        "season_number": "2",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1725657506298,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "14507020",
+        "show_timestamp": 1725750000,
+        "status": "estimated",
+        "summary": "The Belchers fear that a critic's negative review will keep customers away.",
+        "summary_long": "When the restaurant receives a bad review from a food critic, the Belchers fear that the negative press will keep customers away. When Bob shows up at the critic's house for a redo, his plan quickly spirals out of control.",
+        "taxonomy_id": "169768-007",
+        "title": "Moody Foodie",
+        "title_id": "2003442",
+        "tv_rating": "TV-14"
     }
 ]
