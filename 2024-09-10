@@ -22,8 +22,8 @@
             "Space & Beyond"
         ],
         "guide_timestamp": 1725940800,
-        "last_time_machine_update": 1725913228082,
-        "last_update": 1725913228082,
+        "last_time_machine_update": 1725923744800,
+        "last_update": 1725923744800,
         "live": false,
         "paid": "251737.011.03.851",
         "participants": [],
@@ -36,7 +36,7 @@
         "season_id": "7491",
         "season_name": "Rick and Morty",
         "season_number": "1",
-        "serial": 1725913228081,
+        "serial": 1725923744800,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
@@ -70,8 +70,8 @@
             "Offbeat"
         ],
         "guide_timestamp": 1725942600,
-        "last_time_machine_update": 1725850017786,
-        "last_update": 1725850017786,
+        "last_time_machine_update": 1725923744801,
+        "last_update": 1725923744801,
         "live": false,
         "paid": "251784.012.03.851",
         "participants": [],
@@ -86,7 +86,7 @@
         "season_number": "2",
         "season_summary": "Brothers Huey and Riley Freeman move in with their granddad in Woodcrest.",
         "season_summary_long": "Brothers Huey and Riley Freeman move from the South Side of Chicago to live with their grandfather in the predominantly white suburb of Woodcrest. A clash of lifestyles, classes and cultures follows.",
-        "serial": 1725850017786,
+        "serial": 1725923744800,
         "series_id": "610028",
         "series_name": "The Boondocks",
         "series_summary": "Brothers Huey and Riley move to Woodcrest to live with their grandfather.",
@@ -1457,5 +1457,82 @@
         "title": "Two for Tina",
         "title_id": "2003528",
         "tv_rating": "TV-PG"
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169771_018_03_851",
+        "create_time": 1725923738849,
+        "episode_in_season": "18",
+        "episode_number": "S3:E18",
+        "external_id": "169771-018-851-1726016400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1726016400,
+        "last_time_machine_update": 1725923738849,
+        "last_update": 1725923738849,
+        "live": false,
+        "paid": "169771.018.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1726016400,
+        "season_id": "7298",
+        "season_name": "Bob's Burgers",
+        "season_number": "3",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1725923738849,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275460576",
+        "show_timestamp": 1726016400,
+        "status": "estimated",
+        "summary": "The Belcher family road-trips down to Florida to visit Linda's parents.",
+        "summary_long": "The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that -- to Linda's complete horror -- is full of senior swingers!",
+        "taxonomy_id": "169771-018",
+        "title": "It Snakes a Village",
+        "title_id": "2003529",
+        "tv_rating": "TV-14"
     }
 ]
