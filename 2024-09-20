@@ -143,5 +143,78 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251785-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "268716_021_02_851",
+        "create_time": 1726715382106,
+        "episode_in_season": "21",
+        "episode_number": "S1:E21",
+        "external_id": "268716-021-851-1726808340",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Psi Cops",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1726808400,
+        "last_time_machine_update": 1726715382106,
+        "last_update": 1726715382106,
+        "live": false,
+        "paid": "268716.021.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Chris Nielsen",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Bart Batchelor",
+                "role": "creator"
+            },
+            {
+                "character": "Kydd",
+                "name": "Chris Nielsen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Felixx",
+                "name": "Bart Batchelor",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1726808340,
+        "season_id": "30822",
+        "season_name": "Psi Cops",
+        "season_number": "1",
+        "season_summary": "Kydd and Felixx are top detectives at the paranormal agency Psi Cops.",
+        "season_summary_long": "Coworker friends forever (CFFs) Kydd and Felixx are top detectives at the paranormal agency Psi Cops, where they solve mysteries and supernatural crimes using their overly competent incompetence.",
+        "serial": 1726715382106,
+        "series_id": "2530043",
+        "series_name": "Psi Cops",
+        "series_summary": "Kydd and Felixx are top detectives at the paranormal agency Psi Cops.",
+        "series_summary_long": "Coworker friends forever (CFFs) Kydd and Felixx are top detectives at the paranormal agency Psi Cops, where they solve mysteries and supernatural crimes using their overly competent incompetence.",
+        "show_duration": 900,
+        "show_id": "275497550",
+        "show_timestamp": 1726808340,
+        "status": "estimated",
+        "summary": "What's the best way to determine whether a house is to blame for murders?",
+        "summary_long": "What's the best way to determine whether a house is to blame for all the murders that took place there? Fill it with serial killers, obviously.",
+        "taxonomy_id": "268716-021",
+        "title": "Murder House",
+        "title_id": "2530059",
+        "tv_rating": "TV-MA",
+        "upid": "DISC268716-021",
+        "upid_type": 12
     }
 ]
