@@ -216,5 +216,168 @@
         "tv_rating": "TV-MA",
         "upid": "DISC268716-021",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "268716_022_02_851",
+        "create_time": 1726717578456,
+        "episode_in_season": "22",
+        "episode_number": "S1:E22",
+        "external_id": "268716-022-851-1726809300",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Psi Cops",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1726809300,
+        "last_time_machine_update": 1726717578456,
+        "last_update": 1726717578456,
+        "live": false,
+        "paid": "268716.022.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Chris Nielsen",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Bart Batchelor",
+                "role": "creator"
+            },
+            {
+                "character": "Kydd",
+                "name": "Chris Nielsen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Felixx",
+                "name": "Bart Batchelor",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 916,
+        "scheduled_timestamp": 1726809300,
+        "season_id": "30822",
+        "season_name": "Psi Cops",
+        "season_number": "1",
+        "season_summary": "Kydd and Felixx are top detectives at the paranormal agency Psi Cops.",
+        "season_summary_long": "Coworker friends forever (CFFs) Kydd and Felixx are top detectives at the paranormal agency Psi Cops, where they solve mysteries and supernatural crimes using their overly competent incompetence.",
+        "serial": 1726717578456,
+        "series_id": "2530043",
+        "series_name": "Psi Cops",
+        "series_summary": "Kydd and Felixx are top detectives at the paranormal agency Psi Cops.",
+        "series_summary_long": "Coworker friends forever (CFFs) Kydd and Felixx are top detectives at the paranormal agency Psi Cops, where they solve mysteries and supernatural crimes using their overly competent incompetence.",
+        "show_duration": 900,
+        "show_id": "275497560",
+        "show_timestamp": 1726809300,
+        "status": "estimated",
+        "summary": "Kydd and Felixx allow a reanimated corpse to terrorize a military base.",
+        "summary_long": "Kydd and Felixx allow a reanimated corpse to terrorize a military base until they are paid properly.",
+        "taxonomy_id": "268716-022",
+        "title": "Undead Soldier",
+        "title_id": "2530057",
+        "tv_rating": "TV-MA",
+        "upid": "DISC268716-022",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232850_010_03_851",
+        "create_time": 1726717578457,
+        "episode_in_season": "10",
+        "episode_number": "S16:E10",
+        "external_id": "232850-010-851-1726810200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1726810200,
+        "last_time_machine_update": 1726717578457,
+        "last_update": 1726717578457,
+        "live": false,
+        "paid": "232850.010.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1726810200,
+        "season_id": "16310",
+        "season_name": "American Dad",
+        "season_number": "16",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1726717578456,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275497570",
+        "show_timestamp": 1726810200,
+        "status": "estimated",
+        "summary": "Stan's childhood imaginary friend returns to collect a debt.",
+        "summary_long": "Stan's childhood imaginary friend returns to collect a debt. Klaus has a big date and needs a fishbowl upgrade.",
+        "taxonomy_id": "232850-010",
+        "title": "Henderson",
+        "title_id": "2238758",
+        "tv_rating": "TV-14",
+        "upid": "DISC232850-010",
+        "upid_type": 12
     }
 ]
