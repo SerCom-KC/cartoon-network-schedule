@@ -4728,5 +4728,97 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC250755-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250755_002_01_851",
+        "create_time": 1726848922666,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "250755-002-851-1726941600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Classic Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1726941600,
+        "last_time_machine_update": 1726848922666,
+        "last_update": 1726848922666,
+        "live": false,
+        "paid": "250755.002.01.851",
+        "participants": [
+            {
+                "character": "Tom",
+                "name": "Don Brown",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry",
+                "name": "Sam Vincent",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Spike",
+                "name": "Michael Donovan",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Colin Murdock",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Reece Thompson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sander Schwartz",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Don Jurwich",
+                "role": "producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1726941600,
+        "season_id": "7268",
+        "season_name": "Tom and Jerry Tales",
+        "season_number": "1",
+        "season_summary": "Tom and Jerry chase each other in all-new hilarious cartoon shorts.",
+        "season_summary_long": "Tom and Jerry return to basics, chasing each other in an all-new series of hilarious cartoon shorts.",
+        "serial": 1726848922666,
+        "series_id": "627595",
+        "series_name": "Tom and Jerry Tales",
+        "series_summary": "Tom and Jerry chase each other in all-new hilarious cartoon shorts.",
+        "series_summary_long": "Tom and Jerry return to basics, chasing each other in an all-new series of hilarious cartoon shorts.",
+        "show_duration": 1800,
+        "show_id": "275505452",
+        "show_timestamp": 1726941600,
+        "status": "estimated",
+        "summary": "Spike mistakes Tom and Jerry for valets and gives them his car keys.",
+        "summary_long": "Tom and Jerry are mistaken for valets by Spike, who gives them his car keys. Tom is put in charge of a hotel, and Jerry tries to turn his job into a nightmare. At the dump, Jerry is caught between Tom and Butch as they wage battle for him.",
+        "taxonomy_id": "250755-002",
+        "title": "Joy Riding Jokers/Cat Got Your Luggage?/City Dump Chumps",
+        "title_id": "633712",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC250755-002",
+        "upid_type": 12
     }
 ]
