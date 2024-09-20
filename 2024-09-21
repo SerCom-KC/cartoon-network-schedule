@@ -4636,5 +4636,97 @@
         "tv_rating": "TV-PG",
         "upid": "DISC235002-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250755_001_01_851",
+        "create_time": 1726846991879,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "250755-001-851-1726939800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Classic Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1726939800,
+        "last_time_machine_update": 1726846991879,
+        "last_update": 1726846991879,
+        "live": false,
+        "paid": "250755.001.01.851",
+        "participants": [
+            {
+                "character": "Tom",
+                "name": "Don Brown",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry",
+                "name": "Sam Vincent",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Spike",
+                "name": "Michael Donovan",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Colin Murdock",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Reece Thompson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sander Schwartz",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Don Jurwich",
+                "role": "producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1726939800,
+        "season_id": "7268",
+        "season_name": "Tom and Jerry Tales",
+        "season_number": "1",
+        "season_summary": "Tom and Jerry chase each other in all-new hilarious cartoon shorts.",
+        "season_summary_long": "Tom and Jerry return to basics, chasing each other in an all-new series of hilarious cartoon shorts.",
+        "serial": 1726846991879,
+        "series_id": "627595",
+        "series_name": "Tom and Jerry Tales",
+        "series_summary": "Tom and Jerry chase each other in all-new hilarious cartoon shorts.",
+        "series_summary_long": "Tom and Jerry return to basics, chasing each other in an all-new series of hilarious cartoon shorts.",
+        "show_duration": 1800,
+        "show_id": "275505383",
+        "show_timestamp": 1726939800,
+        "status": "estimated",
+        "summary": "Tom is painted to look like a tiger, and Tom and Butch team up.",
+        "summary_long": "Tom is painted to look like a tiger until the real tiger is exposed. Tom takes a job at the zoo under the supervision of Spike. Tom and Butch team up to catch Jerry in the north, but they must evade Jerry's bear friend.",
+        "taxonomy_id": "250755-001",
+        "title": "Tiger Cat/Feeding Time/Polar Peril",
+        "title_id": "633713",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC250755-001",
+        "upid_type": 12
     }
 ]
