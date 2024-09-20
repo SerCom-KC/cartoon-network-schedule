@@ -1700,5 +1700,160 @@
         "tv_rating": "TV-PG",
         "upid": "DISC233072-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "233054_001_03_851",
+        "create_time": 1726815931064,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "233054-001-851-1726907400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1726907400,
+        "last_time_machine_update": 1726815931064,
+        "last_update": 1726815931064,
+        "live": false,
+        "paid": "233054.001.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Matt Groening",
+                "role": "created-by"
+            },
+            {
+                "character": "",
+                "name": "Matt Groening",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "David Cohen",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Billy West",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Katey Sagal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "John DiMaggio",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Tress MacNeille",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Maurice LaMarche",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Phil LaMarr",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "David Herman",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1726907400,
+        "season_id": "952",
+        "season_name": "Futurama",
+        "season_number": "2",
+        "season_summary": "After being frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
+        "season_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "serial": 1726815931064,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "series_summary": "After being frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
+        "series_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "show_duration": 1800,
+        "show_id": "275501756",
+        "show_timestamp": 1726907400,
+        "status": "estimated",
+        "summary": "Romance and danger follow Bender and Fry on the space cruise ship, Titanic.",
+        "summary_long": "Romance and danger follow Bender and Fry on the space cruise ship, Titanic.",
+        "taxonomy_id": "233054-001",
+        "title": "A Flight to Remember",
+        "title_id": "437542",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233054-001",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233066_020_03_851",
+        "create_time": 1726815931065,
+        "episode_in_season": "20",
+        "episode_number": "S6:E20",
+        "external_id": "233066-020-851-1726909200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1726909200,
+        "last_time_machine_update": 1726815931065,
+        "last_update": 1726815931065,
+        "live": false,
+        "paid": "233066.020.03.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1726909200,
+        "season_id": "1539",
+        "season_name": "King of the Hill (Season 6)",
+        "season_number": "6",
+        "serial": 1726815931064,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "275501766",
+        "show_timestamp": 1726909200,
+        "status": "estimated",
+        "summary": "The Hills take Cotton to Japan so he can apologize to the widow of a soldier he killed during WWII.",
+        "summary_long": "The Hills take Cotton to Japan so he can apologize to the widow of a soldier he killed during WWII.",
+        "taxonomy_id": "233066-020",
+        "title": "Returning Japanese",
+        "title_id": "731392",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233066-020",
+        "upid_type": 12
     }
 ]
