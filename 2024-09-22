@@ -4204,5 +4204,137 @@
         "tv_rating": "TV-PG",
         "upid": "DISC138933-000",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "229692_036_02_851",
+        "create_time": 1726957119182,
+        "episode_in_season": "36",
+        "episode_number": "S1:E36",
+        "external_id": "229692-036-851-1727048700",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Infomercials",
+        "genres": [
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1727048700,
+        "last_time_machine_update": 1726957119182,
+        "last_update": 1726957119182,
+        "live": false,
+        "paid": "229692.036.02.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 989,
+        "scheduled_timestamp": 1727048700,
+        "season_id": "7402",
+        "season_name": "Infomercials",
+        "season_number": "1",
+        "season_summary": "Parodies and cliches of television programs.",
+        "season_summary_long": "Parodies and cliches of television programs.",
+        "serial": 1726957119181,
+        "series_id": "2007823",
+        "series_name": "Infomercials",
+        "series_summary": "Parodies and cliches of television programs.",
+        "series_summary_long": "Parodies and cliches of television programs.",
+        "show_duration": 900,
+        "show_id": "275509578",
+        "show_timestamp": 1727048700,
+        "status": "estimated",
+        "summary": "A game show where Jo Firestone sets up a cookie tasting in a parking lot to try to make friends. Contestants must ultimately decide between a friendship and $50 cash.",
+        "summary_long": "A game show where Jo Firestone sets up a cookie tasting in a parking lot to try to make friends. Contestants must ultimately decide between a friendship and $50 cash.",
+        "taxonomy_id": "229692-036",
+        "title": "Rate the Cookie",
+        "title_id": "2236211",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229692-036",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169687_019_03_851",
+        "create_time": 1726957119182,
+        "episode_in_season": "19",
+        "episode_number": "S5:E19",
+        "external_id": "169687-019-851-1727049600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1727049600,
+        "last_time_machine_update": 1726957119182,
+        "last_update": 1726957119182,
+        "live": false,
+        "paid": "169687.019.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1727049600,
+        "season_id": "9711",
+        "season_name": "Bob's Burgers",
+        "season_number": "5",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1726957119181,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275509588",
+        "show_timestamp": 1727049600,
+        "status": "estimated",
+        "summary": "In true Belcher fashion, the family gets stuck in a terrible storm.",
+        "summary_long": "In true Belcher fashion, the family gets stuck in a terrible storm while taking care of a beach house in Craggy Neck. The storm is the least of their worries when they are forced to take shelter with the mysterious owner of the home.",
+        "taxonomy_id": "169687-019",
+        "title": "Housetrap",
+        "title_id": "2065468",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169687-019",
+        "upid_type": 12
     }
 ]
