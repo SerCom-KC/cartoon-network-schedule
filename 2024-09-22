@@ -1059,5 +1059,65 @@
         "tv_rating": "TV-PG",
         "upid": "DISC233056-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234512_001_02_851",
+        "create_time": 1726914479125,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "234512-001-851-1726999200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Adventure Time",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1726999200,
+        "last_time_machine_update": 1726914479125,
+        "last_update": 1726914479125,
+        "live": false,
+        "paid": "234512.001.02.851",
+        "participants": [
+            {
+                "character": "Finn",
+                "name": "Jeremy Shada",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jake",
+                "name": "John DiMaggio",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1726999200,
+        "season_id": "4935",
+        "season_name": "Adventure Time (Combined)",
+        "season_number": "1",
+        "serial": 1726914479125,
+        "series_id": "757073",
+        "series_name": "Adventure Time",
+        "series_summary": "Unlikely heroes Finn and Jake traverse the mystical Land of Ooo.",
+        "series_summary_long": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
+        "show_duration": 1800,
+        "show_id": "275509268",
+        "show_timestamp": 1726999200,
+        "status": "estimated",
+        "summary": "Slumber Party Panic: Finn must keep his promise to Princess Bubblegum and cover up the zombie problem they've created./Trouble in Lumpy Space: Finn and Jake try to go on a quest while protecting Tree Trunks.",
+        "summary_long": "Finn must keep his promise to Princess Bubblegum and cover up the zombie problem they've created. Then, Finn and Jake try to go on a quest while protecting Tree Trunks.",
+        "taxonomy_id": "234512-001",
+        "title": "Slumber Party Panic/Trouble in Lumpy Space",
+        "title_id": "791149",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234512-001",
+        "upid_type": 12
     }
 ]
