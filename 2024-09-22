@@ -1119,5 +1119,65 @@
         "tv_rating": "TV-PG",
         "upid": "DISC234512-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234512_002_02_851",
+        "create_time": 1726914848895,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "234512-002-851-1727001000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Adventure Time",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1727001000,
+        "last_time_machine_update": 1726914848895,
+        "last_update": 1726914848895,
+        "live": false,
+        "paid": "234512.002.02.851",
+        "participants": [
+            {
+                "character": "Finn",
+                "name": "Jeremy Shada",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jake",
+                "name": "John DiMaggio",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1727001000,
+        "season_id": "4935",
+        "season_name": "Adventure Time (Combined)",
+        "season_number": "1",
+        "serial": 1726914848895,
+        "series_id": "757073",
+        "series_name": "Adventure Time",
+        "series_summary": "Unlikely heroes Finn and Jake traverse the mystical Land of Ooo.",
+        "series_summary_long": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
+        "show_duration": 1800,
+        "show_id": "275509288",
+        "show_timestamp": 1727001000,
+        "status": "estimated",
+        "summary": "Enchiridion: Finn quests for a book that will make him a better hero./The Jiggler: Finn and Jake must figure out what's wrong with a creature.",
+        "summary_long": "Finn quests for a book that will make him a better hero. Then, Finn and Jake must figure out what's wrong with a creature.",
+        "taxonomy_id": "234512-002",
+        "title": "Enchiridion/The Jiggler",
+        "title_id": "791156",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234512-002",
+        "upid_type": 12
     }
 ]
