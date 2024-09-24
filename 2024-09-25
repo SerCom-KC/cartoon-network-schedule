@@ -445,5 +445,148 @@
         "tv_rating": "TV-14",
         "upid": "DISC232843-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "S",
+            "V"
+        ],
+        "content_id": "232843_009_04_851",
+        "create_time": 1727154771364,
+        "episode_in_season": "9",
+        "episode_number": "S3:E09",
+        "external_id": "232843-009-851-1727245800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1727245800,
+        "last_time_machine_update": 1727154771364,
+        "last_update": 1727154771364,
+        "live": false,
+        "paid": "232843.009.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1727245800,
+        "season_id": "1186",
+        "season_name": "American Dad",
+        "season_number": "3",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1727154771364,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275518060",
+        "show_timestamp": 1727245800,
+        "status": "estimated",
+        "summary": "Stan and the family are characters in a James Bond-style spoof.",
+        "summary_long": "Stan and the family are characters in a James Bond-style spoof. Stan must stop Tearjerker, played by Roger, a diabolical film producer who makes movies that can kill.",
+        "taxonomy_id": "232843-009",
+        "title": "Tearjerker",
+        "title_id": "700742",
+        "tv_rating": "TV-14",
+        "upid": "DISC232843-009",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251792_010_03_851",
+        "create_time": 1727154771365,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "251792-010-851-1727247600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Space & Beyond"
+        ],
+        "guide_timestamp": 1727247600,
+        "last_time_machine_update": 1727154771365,
+        "last_update": 1727154771365,
+        "live": false,
+        "paid": "251792.010.03.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1727247600,
+        "season_id": "10773",
+        "season_name": "Rick and Morty (Season 3) (Non-Explicit Repack)",
+        "season_number": "3",
+        "serial": 1727154771364,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "275518070",
+        "show_timestamp": 1727247600,
+        "status": "estimated",
+        "summary": "Rick goes toe-to-toe with the president in this one, broh.",
+        "summary_long": "Rick goes toe-to-toe with the president in this one, broh.",
+        "taxonomy_id": "251792-010",
+        "title": "The Rickchurian Mortydate",
+        "title_id": "2116839",
+        "tv_rating": "TV-14",
+        "upid": "DISC251792-010",
+        "upid_type": 12
     }
 ]
