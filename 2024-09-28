@@ -4329,5 +4329,79 @@
         "tv_rating": "TV-G",
         "upid": "DISC168445-013",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "242928_000_02_851",
+        "create_time": 1727459403001,
+        "episode_in_season": "0",
+        "external_id": "242928-000-851-1727551800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ben 10 vs. The Universe: The Movie",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animated Movies",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1727551800,
+        "last_time_machine_update": 1727459403001,
+        "last_update": 1727459403001,
+        "live": false,
+        "paid": "242928.000.02.851",
+        "participants": [
+            {
+                "character": "Gwen Tennyson",
+                "name": "Montserrat Hernandez",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Grandpa Max",
+                "name": "David Kaye",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Ben Tennyson",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Henrique Jardim",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "John McIntyre",
+                "role": "director"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 90,
+        "scheduled_duration": 5536,
+        "scheduled_timestamp": 1727551800,
+        "serial": 1727459403001,
+        "series_id": "100492",
+        "series_name": "Ben 10 Vs. The Universe: The Movie",
+        "series_summary": "Ben goes interstellar to save the day when a blast from the past returns.",
+        "series_summary_long": "When a blast from Ben\u2019s past -- Vilgax -- returns to do double the damage on Team Tennyson and planet Earth itself, Ben must go interstellar to save the day while Gwen and Grandpa Max team-up with Kevin to protect the world in Ben\u2019s absence.",
+        "show_duration": 5400,
+        "show_id": "275534154",
+        "show_timestamp": 1727551800,
+        "status": "estimated",
+        "summary": "Ben goes interstellar to save the day when a blast from the past returns.",
+        "summary_long": "When a blast from Ben's past -- Vilgax -- returns to do double the damage on Team Tennyson and planet Earth itself, Ben must go interstellar to save the day while Gwen and Grandpa Max team-up with Kevin to protect the world in Ben's absence.",
+        "taxonomy_id": "242928-000",
+        "title": "Ben 10 vs. The Universe: The Movie",
+        "title_id": "2240064",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC242928-000",
+        "upid_type": 12
     }
 ]
