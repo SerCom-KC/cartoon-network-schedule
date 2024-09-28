@@ -1201,5 +1201,65 @@
         "tv_rating": "TV-PG",
         "upid": "DISC234512-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234512_004_02_851",
+        "create_time": 1727520245656,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "234512-004-851-1727605800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Adventure Time",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1727605800,
+        "last_time_machine_update": 1727520245656,
+        "last_update": 1727520245656,
+        "live": false,
+        "paid": "234512.004.02.851",
+        "participants": [
+            {
+                "character": "Finn",
+                "name": "Jeremy Shada",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jake",
+                "name": "John DiMaggio",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1727605800,
+        "season_id": "4935",
+        "season_name": "Adventure Time (Combined)",
+        "season_number": "1",
+        "serial": 1727520245655,
+        "series_id": "757073",
+        "series_name": "Adventure Time",
+        "series_summary": "Unlikely heroes Finn and Jake traverse the mystical Land of Ooo.",
+        "series_summary_long": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
+        "show_duration": 1800,
+        "show_id": "275537940",
+        "show_timestamp": 1727605800,
+        "status": "estimated",
+        "summary": "Ricardio the Heart Guy: Finn becomes jealous of Princes Bubblegum's new suitor./Business Time: Finn and Jake must travel to a far-off land to stop Jake from becoming permanently Lumpy.",
+        "summary_long": "Finn becomes jealous of Princes Bubblegum's new suitor. Then, Finn and Jake must travel to a far-off land to stop Jake from becoming permanently Lumpy.",
+        "taxonomy_id": "234512-004",
+        "title": "Ricardio the Heart Guy/Business Time",
+        "title_id": "791158",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234512-004",
+        "upid_type": 12
     }
 ]
