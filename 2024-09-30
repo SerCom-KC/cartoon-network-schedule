@@ -1550,5 +1550,164 @@
         "tv_rating": "TV-MA",
         "upid": "DISC233111-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "S",
+            "V"
+        ],
+        "content_id": "233111_007_02_851",
+        "create_time": 1727594559712,
+        "episode_in_season": "7",
+        "episode_number": "S2:E07",
+        "external_id": "233111-007-851-1727685900",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Mr. Pickles",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1727685900,
+        "last_time_machine_update": 1727594559712,
+        "last_update": 1727594559712,
+        "live": false,
+        "paid": "233111.007.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Will Carsola",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Dave Stewart",
+                "role": "creator"
+            },
+            {
+                "character": "Linda",
+                "name": "Dave Stewart",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Sheriff",
+                "name": "Will Carsola",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tommy",
+                "name": "Kaitlyn Robrock",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1727685900,
+        "season_id": "10066",
+        "season_name": "Mr. Pickles",
+        "season_number": "2",
+        "season_summary": "Tommy Goodman and his lovable dog Mr. Pickles roam around Old Town.",
+        "season_summary_long": "Tommy Goodman and his best friend, his family's lovable dog Mr. Pickles, roam around the old-fashioned world of Old Town together.",
+        "serial": 1727594559711,
+        "series_id": "2007539",
+        "series_name": "Mr. Pickles",
+        "series_summary": "Tommy Goodman and his lovable dog Mr. Pickles roam around Old Town.",
+        "series_summary_long": "Tommy Goodman and his best friend, his family's lovable dog Mr. Pickles, roam around the old-fashioned world of Old Town together.",
+        "show_duration": 900,
+        "show_id": "275538460",
+        "show_timestamp": 1727685900,
+        "status": "estimated",
+        "summary": "Tommy tries to take care of a rambunctious and rare forest creature.",
+        "summary_long": "Tommy learns about responsibility the hard way by trying to take care of a rambunctious and rare forest creature.",
+        "taxonomy_id": "233111-007",
+        "title": "My Dear Boy",
+        "title_id": "2085306",
+        "tv_rating": "TV-MA",
+        "upid": "DISC233111-007",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "169734_012_02_851",
+        "create_time": 1727594559712,
+        "episode_in_season": "12",
+        "episode_number": "S7:E12",
+        "external_id": "169734-012-851-1727686800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1727686800,
+        "last_time_machine_update": 1727594559712,
+        "last_update": 1727594559712,
+        "live": false,
+        "paid": "169734.012.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1727686800,
+        "season_id": "12008",
+        "season_name": "Bob's Burgers",
+        "season_number": "7",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1727594559711,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275538470",
+        "show_timestamp": 1727686800,
+        "status": "estimated",
+        "summary": "Gene learns that the formula for his favorite chocolate has changed.",
+        "summary_long": "When Gene learns that the formula for his favorite chocolate has changed, he works with the head of the company in an attempt to remedy the situation. Meanwhile, Bob gets wrapped up in one of Teddy's less-than-perfect plans.",
+        "taxonomy_id": "169734-012",
+        "title": "Like Gene for Chocolate",
+        "title_id": "2132976",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169734-012",
+        "upid_type": 12
     }
 ]
