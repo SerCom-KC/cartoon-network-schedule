@@ -1709,5 +1709,83 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169734-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "169734_013_03_851",
+        "create_time": 1727595663092,
+        "episode_in_season": "13",
+        "episode_number": "S7:E13",
+        "external_id": "169734-013-851-1727688600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1727688600,
+        "last_time_machine_update": 1727595663092,
+        "last_update": 1727595663092,
+        "live": false,
+        "paid": "169734.013.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1727688600,
+        "season_id": "12008",
+        "season_name": "Bob's Burgers",
+        "season_number": "7",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1727595663092,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275538480",
+        "show_timestamp": 1727688600,
+        "status": "estimated",
+        "summary": "Linda jumps at the chance to chaperone Tina's weekend away.",
+        "summary_long": "Linda jumps at the chance to chaperone Tina's weekend away at a heroine conference, but Tina's new friend could put Linda's perfect weekend in jeopardy. Meanwhile, the younger Belchers have plans for their weekend alone with Bob.",
+        "taxonomy_id": "169734-013",
+        "title": "The Grand Mama-Pest Hotel",
+        "title_id": "2132977",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169734-013",
+        "upid_type": 12
     }
 ]
