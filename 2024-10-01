@@ -296,5 +296,94 @@
         "tv_rating": "TV-14",
         "upid": "DISC232838-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232838_006_01_851",
+        "create_time": 1727670131837,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "232838-006-851-1727762400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1727762400,
+        "last_time_machine_update": 1727670131837,
+        "last_update": 1727670131837,
+        "live": false,
+        "paid": "232838.006.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1727762400,
+        "season_id": "1187",
+        "season_name": "American Dad",
+        "season_number": "4",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1727670131837,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275542616",
+        "show_timestamp": 1727762400,
+        "status": "estimated",
+        "summary": "Steve convinces Stan to allow his father to await trial in their home.",
+        "summary_long": "When Stan's con-man dad Jack resurfaces in prison awaiting trial for a crime he did not commit, Steve gets Stan to let Jack stay with them under house arrest.",
+        "taxonomy_id": "232838-006",
+        "title": "Jack's Back",
+        "title_id": "748109",
+        "tv_rating": "TV-14",
+        "upid": "DISC232838-006",
+        "upid_type": 12
     }
 ]
