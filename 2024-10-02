@@ -4485,5 +4485,88 @@
         "tv_rating": "TV-PG",
         "upid": "DISC229032-026",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229035_001_03_851",
+        "create_time": 1727810362490,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "229035-001-851-1727901900",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Kids & Family",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1727901900,
+        "last_time_machine_update": 1727810362490,
+        "last_update": 1727810362490,
+        "live": false,
+        "paid": "229035.001.03.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1727901900,
+        "season_id": "5553",
+        "season_name": "Regular Show",
+        "season_number": "1",
+        "season_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1727810362490,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "show_duration": 900,
+        "show_id": "275550608",
+        "show_timestamp": 1727901900,
+        "status": "estimated",
+        "summary": "Mordecai and Rigby find a mysterious keyboard that does anything they want.",
+        "summary_long": "Mordecai and Rigby find a mysterious keyboard that allows them to do anything they want, including accidentally sending Benson to the moon.",
+        "taxonomy_id": "229035-001",
+        "title": "The Power",
+        "title_id": "810151",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229035-001",
+        "upid_type": 12
     }
 ]
