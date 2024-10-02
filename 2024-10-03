@@ -632,5 +632,136 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251788-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "251871_009_01_851",
+        "create_time": 1727853066681,
+        "episode_in_season": "9",
+        "episode_number": "S3:E09",
+        "external_id": "251871-009-851-1727944200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tuca & Bertie",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1727944200,
+        "last_time_machine_update": 1727853066681,
+        "last_update": 1727853066681,
+        "live": false,
+        "paid": "251871.009.01.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1727944200,
+        "season_id": "25101",
+        "season_name": "Tuca & Bertie (Season 3) (Non-Explicit RPK)",
+        "season_number": "3",
+        "serial": 1727853066679,
+        "series_id": "2266164",
+        "series_name": "Tuca & Bertie",
+        "series_summary": "A comedy about bird besties who live in the same apartment building.",
+        "series_summary_long": "The animated series is a comedy about bird besties who live in the same apartment building: Tuca, a cocky, care-free toucan, Bertie, an anxious, daydreaming song thrush, and Bertie\u2019s boyfriend, Speckle, a jovial, optimistic robin.",
+        "show_duration": 1800,
+        "show_id": "275550858",
+        "show_timestamp": 1727944200,
+        "status": "estimated",
+        "summary": "There's a wedding in Bird Town, and that means being forced to mingle with ex-lovers while dressed up real fancy!",
+        "summary_long": "There's a wedding in Bird Town, and that means being forced to mingle with ex-lovers while dressed up real fancy!",
+        "taxonomy_id": "251871-009",
+        "title": "Somebirdy's Getting Married",
+        "title_id": "2388619",
+        "tv_rating": "TV-14",
+        "upid": "DISC251871-009",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "166124_001_02_851",
+        "create_time": 1727853066681,
+        "episode_in_season": "1",
+        "episode_number": "S8:E01",
+        "external_id": "166124-001-851-1727946000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1727946000,
+        "last_time_machine_update": 1727853066681,
+        "last_update": 1727853066681,
+        "live": false,
+        "paid": "166124.001.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1727946000,
+        "season_id": "12616",
+        "season_name": "Bob's Burgers",
+        "season_number": "8",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1727853066679,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275550868",
+        "show_timestamp": 1727946000,
+        "status": "estimated",
+        "summary": "Bob's Burgers begins serving brunch, but it quickly turns to chaos.",
+        "summary_long": "To compete with Jimmy Pesto, Bob's Burgers begins serving brunch, but it quickly turns to chaos. Meanwhile, Tina, Gene and Louise decide to help Mr. Fischoeder's brother hide from him.",
+        "taxonomy_id": "166124-001",
+        "title": "Brunchsquatch",
+        "title_id": "2171432",
+        "tv_rating": "TV-PG",
+        "upid": "DISC166124-001",
+        "upid_type": 12
     }
 ]
