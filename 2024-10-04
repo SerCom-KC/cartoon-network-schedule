@@ -89,5 +89,151 @@
         "tv_rating": "TV-14",
         "upid": "DISC239131-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "250416_001_03_851",
+        "create_time": 1727923779390,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "250416-001-851-1728016200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Uzumaki (English Language Version)",
+        "genres": [
+            "Adult Animation",
+            "Anime",
+            "Horror",
+            "Occult"
+        ],
+        "guide_timestamp": 1728016200,
+        "last_time_machine_update": 1727923779390,
+        "last_update": 1727923779390,
+        "live": false,
+        "paid": "250416.001.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Hiroshi Nagahama",
+                "role": "director"
+            },
+            {
+                "character": "Kirie Goshima",
+                "name": "Abby Trott",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shuichi Saito",
+                "name": "Robbie Daymond",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kirie's Father",
+                "name": "Doug Stone",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shuichi's Father",
+                "name": "Aaron LaPlante",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Yukie Saito",
+                "name": "Cristina Vee",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Katayama",
+                "name": "Max Mittelman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Junji Ito",
+                "role": "creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1861,
+        "scheduled_timestamp": 1728016200,
+        "season_id": "13942",
+        "season_name": "Uzumaki",
+        "season_number": "1",
+        "season_summary": "Kirie tries to escape a town where residents get obsessed with spirals.",
+        "season_summary_long": "Kirie tries to escape from her town Kurouzu-cho, where the residents get obsessed with spirals due to an unexplained curse.",
+        "serial": 1727923779390,
+        "series_id": "2193532",
+        "series_name": "Uzumaki",
+        "series_summary": "Kirie tries to escape a town where residents get obsessed with spirals.",
+        "series_summary_long": "Kirie tries to escape from her town Kurouzu-cho, where the residents get obsessed with spirals due to an unexplained curse.",
+        "show_duration": 1800,
+        "show_id": "275554854",
+        "show_timestamp": 1728016200,
+        "status": "estimated",
+        "summary": "As Shuichi urges Kirie to escape the town with him, the horror begins.",
+        "summary_long": "As Shuichi urges Kirie to escape the town with him, the real \"spiral\" horror begins.",
+        "taxonomy_id": "250416-001",
+        "title": "(Dub) Episode 1",
+        "title_id": "2193533",
+        "tv_rating": "TV-MA",
+        "upid": "DISC250416-001",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "251869_018_02_851",
+        "create_time": 1727924511865,
+        "episode_in_season": "18",
+        "episode_number": "S11:E18",
+        "external_id": "251869-018-851-1728018060",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Robot Chicken",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1728018000,
+        "last_time_machine_update": 1727924511865,
+        "last_update": 1727924511865,
+        "live": false,
+        "paid": "251869.018.02.851",
+        "participants": [],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 15,
+        "scheduled_duration": 858,
+        "scheduled_timestamp": 1728018060,
+        "season_id": "17207",
+        "season_name": "Robot Chicken (Season 11) (Non-Explicit RPK)",
+        "season_number": "11",
+        "serial": 1727924511865,
+        "series_id": "608360",
+        "series_name": "Robot Chicken",
+        "series_summary": "Rapid-fire channel flips propel viewers through twisted pop culture takes.",
+        "series_summary_long": "Rapid-fire channel flips propel viewers through Robot Chicken's twisted takes on pop culture. The quarter-hour Adult Swim entry brings action figures to life in three-dimensional worlds through the old-school magic of stop-motion animation.",
+        "show_duration": 900,
+        "show_id": "275554864",
+        "show_timestamp": 1728018060,
+        "status": "estimated",
+        "summary": "Robot Chicken tells \"Lion King\" from the perspective of the wildebeests.",
+        "summary_long": "Robot Chicken tells the \"Lion King\" tale from the perspective of the wildebeests. What happens when a mouse accepts a browser cookie. The Golden Girls discover the otherworldly and deadly secret behind St. Olaf!",
+        "taxonomy_id": "251869-018",
+        "title": "May Cause an Excess of Ham",
+        "title_id": "2270604",
+        "tv_rating": "TV-MA",
+        "upid": "DISC251869-018",
+        "upid_type": 12
     }
 ]
