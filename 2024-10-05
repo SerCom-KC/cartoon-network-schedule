@@ -954,5 +954,94 @@
         "tv_rating": "TV-14",
         "upid": "DISC251794-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232838_017_03_851",
+        "create_time": 1728017783867,
+        "episode_in_season": "17",
+        "episode_number": "S4:E17",
+        "external_id": "232838-017-851-1728109800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1728109800,
+        "last_time_machine_update": 1728017783867,
+        "last_update": 1728017783867,
+        "live": false,
+        "paid": "232838.017.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1728109800,
+        "season_id": "1187",
+        "season_name": "American Dad",
+        "season_number": "4",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1728017783867,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275559030",
+        "show_timestamp": 1728109800,
+        "status": "estimated",
+        "summary": "Francine looks forward to her newfound alone time with Stan.",
+        "summary_long": "When Hayley and Steve leave for their respective summers of fun, Francine looks forward to her newfound alone time with Stan.",
+        "taxonomy_id": "232838-017",
+        "title": "Brains, Brains, and Automobiles",
+        "title_id": "748134",
+        "tv_rating": "TV-14",
+        "upid": "DISC232838-017",
+        "upid_type": 12
     }
 ]
