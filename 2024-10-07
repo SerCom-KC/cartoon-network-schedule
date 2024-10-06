@@ -3664,5 +3664,83 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC229159-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234842_005_02_851",
+        "create_time": 1728221663183,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "234842-005-851-1728315000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo Where Are You!",
+        "genres": [
+            "Classic Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1728315000,
+        "last_time_machine_update": 1728221663183,
+        "last_update": 1728221663183,
+        "live": false,
+        "paid": "234842.005.02.851",
+        "participants": [
+            {
+                "character": "Shaggy Rogers",
+                "name": "Casey Kasem",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Scooby-Doo",
+                "name": "Don Messick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Nicole Jaffe",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Stefanianna Christopherson",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1969,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1728315000,
+        "season_id": "317",
+        "season_name": "Scooby-Doo Where Are You!",
+        "season_number": "1",
+        "season_summary": "Velma, Fred, Daphne, Shaggy and Scooby-Doo hit the road to solve mysteries.",
+        "season_summary_long": "Brainiac Velma, jock Fred, fashionista Daphne, hippie Shaggy and the talking Great Dane Scooby-Doo climb into their Mystery Machine van and hit the road to solve strange phenomenon. Mysteries just have a way of falling into the gang's laps.",
+        "serial": 1728221663183,
+        "series_id": "317121",
+        "series_name": "Scooby-Doo, Where Are You!",
+        "series_summary": "Velma, Fred, Daphne, Shaggy and Scooby-Doo hit the road to solve mysteries.",
+        "series_summary_long": "Brainiac Velma, jock Fred, fashionista Daphne, hippie Shaggy and the talking Great Dane Scooby-Doo climb into their Mystery Machine van and hit the road to solve strange phenomenon. Mysteries just have a way of falling into the gang\u2019s laps.",
+        "show_duration": 1800,
+        "show_id": "275570928",
+        "show_timestamp": 1728315000,
+        "status": "estimated",
+        "summary": "Scooby impersonates a prize-winning Great Dane to catch a show dog thief.",
+        "summary_long": "Scooby impersonates a prize-winning Great Dane to catch whoever is stealing show dogs.",
+        "taxonomy_id": "234842-005",
+        "title": "Decoy for a Dognapper",
+        "title_id": "123491",
+        "tv_rating": "TV-G",
+        "upid": "DISC234842-005",
+        "upid_type": 12
     }
 ]
