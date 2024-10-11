@@ -5953,5 +5953,63 @@
         "tv_rating": "TV-14",
         "upid": "DISC250264-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_002_03_851",
+        "create_time": 1728687084473,
+        "episode_in_season": "2",
+        "episode_number": "S10:E02",
+        "external_id": "250264-002-851-1728779400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1728779400,
+        "last_time_machine_update": 1728687084473,
+        "last_update": 1728687084473,
+        "live": false,
+        "paid": "250264.002.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1728779400,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1728687084473,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275591578",
+        "show_timestamp": 1728779400,
+        "status": "estimated",
+        "summary": "Bob and Gene are on the hunt for mushrooms.",
+        "summary_long": "Unable to afford a rare gourmet mushroom for a Burger of the Day, Bob and Gene jump into the cutthroat world of mushroom foraging. Meanwhile, Tina's powerful new prescription glasses lead her to believe she has a superpower.",
+        "taxonomy_id": "250264-002",
+        "title": "Boys Just Wanna Have Fungus",
+        "title_id": "2438940",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250264-002",
+        "upid_type": 12
     }
 ]
