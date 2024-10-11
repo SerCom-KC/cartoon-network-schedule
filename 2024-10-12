@@ -5431,5 +5431,161 @@
         "tv_rating": "TV-G",
         "upid": "DISC168446-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229460_045_04_851",
+        "create_time": 1728666982477,
+        "episode_in_season": "45",
+        "episode_number": "S5:E45",
+        "external_id": "229460-045-851-1728759600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1728759600,
+        "last_time_machine_update": 1728666982477,
+        "last_update": 1728666982477,
+        "live": false,
+        "paid": "229460.045.04.851",
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1728759600,
+        "season_id": "12309",
+        "season_name": "Teen Titans Go!",
+        "season_number": "5",
+        "season_summary": "The super teens deal with everyday issues of adolescence.",
+        "season_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "serial": 1728666982477,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "series_summary": "The super teens deal with everyday issues of adolescence.",
+        "series_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "show_duration": 900,
+        "show_id": "275591488",
+        "show_timestamp": 1728759600,
+        "status": "estimated",
+        "summary": "Control Freak forces the Titans and the Scooby Gang to compete.",
+        "summary_long": "Control Freak forces the Titans and the Scooby Gang to compete on Family Feud.",
+        "taxonomy_id": "229460-045",
+        "title": "Cartoon Feud",
+        "title_id": "2188576",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229460-045",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "168735_000_02_851",
+        "create_time": 1728666972332,
+        "episode_in_season": "0",
+        "external_id": "168735-000-851-1728760500",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Frankencreepy",
+        "genres": [
+            "Animated Movies",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1728760500,
+        "last_time_machine_update": 1728666972332,
+        "last_update": 1728666972332,
+        "live": false,
+        "paid": "168735.000.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Paul Mcevoy",
+                "role": "director"
+            },
+            {
+                "character": "Scooby-Doo/Fred Jones",
+                "name": "Frank Walker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Jim Krieg",
+                "role": "screenplay"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 74,
+        "scheduled_duration": 6307,
+        "scheduled_timestamp": 1728760500,
+        "season_number": "1",
+        "serial": 1728666972332,
+        "series_id": "76848",
+        "series_name": "Scooby-Doo! Frankencreepy",
+        "series_summary": "Velma inherits her great-great-uncle Dr. Von Dinkenstein's castle.",
+        "series_summary_long": "Velma discovers she's inherited her great-great-uncle Dr. Von Dinkenstein's castle in Transylvania, Pennsylvania. When the gang persuades Velma to go claim her inheritance, the ghost of the castle blows up the Mystery Machine as a warning!",
+        "show_duration": 6307,
+        "show_id": "275591498",
+        "show_timestamp": 1728760500,
+        "status": "estimated",
+        "summary": "Velma inherits her great-great-uncle Dr. Von Dinkenstein's castle.",
+        "summary_long": "Velma discovers she's inherited her great-great-uncle Dr. Von Dinkenstein's castle in Transylvania, Pennsylvania. When the gang persuades Velma to go claim her inheritance, the ghost of the castle blows up the Mystery Machine as a warning!",
+        "taxonomy_id": "168735-000",
+        "title": "Scooby-Doo! Frankencreepy",
+        "title_id": "845009",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC168735-000",
+        "upid_type": 12
     }
 ]
