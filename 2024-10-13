@@ -1179,5 +1179,80 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC218419-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "218419_004_01_851",
+        "create_time": 1728729258129,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "218419-004-851-1728815400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Be Cool, Scooby-Doo!",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1728815400,
+        "last_time_machine_update": 1728729258129,
+        "last_update": 1728729258129,
+        "live": false,
+        "paid": "218419.004.01.851",
+        "participants": [
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Kate Micucci",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1728815400,
+        "season_id": "10121",
+        "season_name": "Be Cool, Scooby-Doo!",
+        "season_number": "2",
+        "season_summary": "The Scooby gang is back with a modern comedic twist on the beloved classic.",
+        "season_summary_long": "The Scooby gang is back with a modern comedic twist on the beloved classic. With high school over, Shaggy, Scooby, Velma, Daphne and Fred hit the road in the Mystery Machine. However, havoc-wrecking monsters have a way of finding the gang.",
+        "serial": 1728729258129,
+        "series_id": "2031360",
+        "series_name": "Be Cool, Scooby-Doo!",
+        "series_summary": "The Scooby gang is back with a modern comedic twist on the beloved classic.",
+        "series_summary_long": "The Scooby gang is back with a modern comedic twist on the beloved classic. With high school over, Shaggy, Scooby, Velma, Daphne and Fred hit the road in the Mystery Machine. However, havoc-wrecking monsters have a way of finding the gang.",
+        "show_duration": 1800,
+        "show_id": "275595284",
+        "show_timestamp": 1728815400,
+        "status": "estimated",
+        "summary": "Shaggy and Scooby decide to quit and train their replacements.",
+        "summary_long": "Finally fed up with monsters and mayhem, Shaggy and Scooby decide to quit the Gang and train their replacements in one on-the-job training session, unraveling the mystery of a vampire that's terrorizing a small town.",
+        "taxonomy_id": "218419-004",
+        "title": "How to Train Your Coward",
+        "title_id": "2086073",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC218419-004",
+        "upid_type": 12
     }
 ]
