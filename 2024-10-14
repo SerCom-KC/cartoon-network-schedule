@@ -5268,5 +5268,63 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250264-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_013_03_851",
+        "create_time": 1728862738177,
+        "episode_in_season": "13",
+        "episode_number": "S10:E13",
+        "external_id": "250264-013-851-1728955800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1728955800,
+        "last_time_machine_update": 1728862738177,
+        "last_update": 1728862738177,
+        "live": false,
+        "paid": "250264.013.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1728955800,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1728862738177,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275599790",
+        "show_timestamp": 1728955800,
+        "status": "estimated",
+        "summary": "Louise looks for a sea monster.",
+        "summary_long": "Louise skeptically joins Jessica and fifth grader Megan in their search for Wharfy, a mythical sea monster, while Bob takes an online master class by a world-renowned chef.",
+        "taxonomy_id": "250264-013",
+        "title": "Three Girls and a Little Wharfy",
+        "title_id": "2438951",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250264-013",
+        "upid_type": 12
     }
 ]
