@@ -6080,5 +6080,153 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250264-016",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_017_03_851",
+        "create_time": 1728949187512,
+        "episode_in_season": "17",
+        "episode_number": "S10:E17",
+        "external_id": "250264-017-851-1729040400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1729040400,
+        "last_time_machine_update": 1728949187512,
+        "last_update": 1728949187512,
+        "live": false,
+        "paid": "250264.017.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1729040400,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1728949187512,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275603926",
+        "show_timestamp": 1729040400,
+        "status": "estimated",
+        "summary": "The Belchers take a road trip.",
+        "summary_long": "The family takes an unexpected road trip with Nat the limo driver.",
+        "taxonomy_id": "250264-017",
+        "title": "Just the Trip",
+        "title_id": "2438955",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250264-017",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232852_005_03_851",
+        "create_time": 1728949187513,
+        "episode_in_season": "5",
+        "episode_number": "S7:E05",
+        "external_id": "232852-005-851-1729042200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1729042200,
+        "last_time_machine_update": 1728949187513,
+        "last_update": 1728949187513,
+        "live": false,
+        "paid": "232852.005.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1729042200,
+        "season_id": "1190",
+        "season_name": "American Dad",
+        "season_number": "7",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1728949187512,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275603936",
+        "show_timestamp": 1729042200,
+        "status": "estimated",
+        "summary": "Stan uses an avatar of a hot girl to bond with Steve.",
+        "summary_long": "Stan uses an avatar of a hot girl to bond with Steve. Roger plots a violent end for frat brothers who stiffed him out of $20 for a limousine ride.",
+        "taxonomy_id": "232852-005",
+        "title": "Virtual In-Stanity",
+        "title_id": "748169",
+        "tv_rating": "TV-14",
+        "upid": "DISC232852-005",
+        "upid_type": 12
     }
 ]
