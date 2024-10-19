@@ -3896,5 +3896,64 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-014",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250265_015_03_851",
+        "create_time": 1729377155100,
+        "episode_in_season": "15",
+        "episode_number": "S11:E15",
+        "external_id": "250265-015-851-1729470600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1729470600,
+        "last_time_machine_update": 1729377155100,
+        "last_update": 1729377155100,
+        "live": false,
+        "paid": "250265.015.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1729470600,
+        "season_id": "27921",
+        "season_name": "Bob's Burgers (Season 11)",
+        "season_number": "11",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1729377155100,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275624186",
+        "show_timestamp": 1729470600,
+        "status": "estimated",
+        "summary": "Linda's new routine is wreaking havoc.",
+        "summary_long": "Linda\u2019s new routine of diet and exercise gives her gastrointestinal trouble on the day of parent-teacher-student conferences.",
+        "taxonomy_id": "250265-015",
+        "title": "Sheshank Redumption",
+        "title_id": "2438975",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250265-015",
+        "upid_type": 12
     }
 ]
