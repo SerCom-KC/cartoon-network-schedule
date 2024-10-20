@@ -1313,5 +1313,90 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-015",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229021_024_02_851",
+        "create_time": 1729418619345,
+        "episode_in_season": "24",
+        "episode_number": "S4:E24",
+        "external_id": "229021-024-851-1729504800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Kids & Family",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1729504800,
+        "last_time_machine_update": 1729418619345,
+        "last_update": 1729418619345,
+        "live": false,
+        "paid": "229021.024.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 723,
+        "scheduled_timestamp": 1729504800,
+        "season_id": "5556",
+        "season_name": "Regular Show",
+        "season_number": "4",
+        "season_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1729418619344,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "show_duration": 900,
+        "show_id": "275628042",
+        "show_timestamp": 1729504800,
+        "status": "estimated",
+        "summary": "Muscle Man wants a radio station to play the song he wrote for Starla.",
+        "summary_long": "Muscle Man wants a local radio station to play the song he wrote for Starla.",
+        "taxonomy_id": "229021-024",
+        "title": "K.I.L.I.T. Radio",
+        "title_id": "977581",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229021-024",
+        "upid_type": 12
     }
 ]
