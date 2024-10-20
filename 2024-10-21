@@ -5232,5 +5232,65 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-017",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "250264_004_03_851",
+        "create_time": 1729465371045,
+        "episode_in_season": "4",
+        "episode_number": "S10:E04",
+        "external_id": "250264-004-851-1729558800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1729558800,
+        "last_time_machine_update": 1729465371045,
+        "last_update": 1729465371045,
+        "live": false,
+        "paid": "250264.004.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1729558800,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1729465371045,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275628502",
+        "show_timestamp": 1729558800,
+        "status": "estimated",
+        "summary": "A pig stir in science class.",
+        "summary_long": "Tina dissects a fetal pig in science class and things get spooky. Also, Bob and Linda do battle with a giant ball of ear wax.",
+        "taxonomy_id": "250264-004",
+        "title": "Pig Trouble in Little Tina",
+        "title_id": "2438942",
+        "tv_rating": "TV-14",
+        "upid": "DISC250264-004",
+        "upid_type": 12
     }
 ]
