@@ -5824,5 +5824,83 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "166124_003_02_851",
+        "create_time": 1729550034933,
+        "episode_in_season": "3",
+        "episode_number": "S8:E03",
+        "external_id": "166124-003-851-1729643400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1729643400,
+        "last_time_machine_update": 1729550034933,
+        "last_update": 1729550034933,
+        "live": false,
+        "paid": "166124.003.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1729643400,
+        "season_id": "12616",
+        "season_name": "Bob's Burgers",
+        "season_number": "8",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1729550034933,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275632588",
+        "show_timestamp": 1729643400,
+        "status": "estimated",
+        "summary": "On Halloween night, Linda tries to impress the kids.",
+        "summary_long": "On Halloween night, Linda tries to impress the kids by taking them to look for a wolf that has been terrorizing the town. Meanwhile, an injured and medicated Bob believes that Teddy has turned into a werewolf.",
+        "taxonomy_id": "166124-003",
+        "title": "The Wolf of Wharf Street",
+        "title_id": "2171434",
+        "tv_rating": "TV-14",
+        "upid": "DISC166124-003",
+        "upid_type": 12
     }
 ]
