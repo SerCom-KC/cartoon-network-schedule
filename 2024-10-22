@@ -1619,5 +1619,64 @@
         "tv_rating": "TV-14",
         "upid": "DISC251873-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250265_004_03_851",
+        "create_time": 1729494853426,
+        "episode_in_season": "4",
+        "episode_number": "S11:E04",
+        "external_id": "250265-004-851-1729587600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1729587600,
+        "last_time_machine_update": 1729494853426,
+        "last_update": 1729494853426,
+        "live": false,
+        "paid": "250265.004.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1729587600,
+        "season_id": "27921",
+        "season_name": "Bob's Burgers (Season 11)",
+        "season_number": "11",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1729494853426,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275628692",
+        "show_timestamp": 1729587600,
+        "status": "estimated",
+        "summary": "The kids' Halloween plan goes awry.",
+        "summary_long": "Louise's plan to get revenge on Halloween for a candy transgression hits a snag when the Belcher kids meet a mysterious elderly woman at a hotel. Meanwhile, Linda and a very squeamish Bob donate blood at a vampire-themed blood mobile.",
+        "taxonomy_id": "250265-004",
+        "title": "Heartbreak Hotel-Oween",
+        "title_id": "2438964",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250265-004",
+        "upid_type": 12
     }
 ]
