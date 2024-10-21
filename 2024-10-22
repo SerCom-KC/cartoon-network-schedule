@@ -4559,5 +4559,90 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228427-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228427_002_03_851",
+        "create_time": 1729529652874,
+        "episode_in_season": "2",
+        "episode_number": "S4:E02",
+        "external_id": "228427-002-851-1729622700",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1729622700,
+        "last_time_machine_update": 1729529652874,
+        "last_update": 1729529652874,
+        "live": false,
+        "paid": "228427.002.03.851",
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 904,
+        "scheduled_timestamp": 1729622700,
+        "season_id": "9631",
+        "season_name": "The Amazing World of Gumball",
+        "season_number": "4",
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1729529652874,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "show_duration": 904,
+        "show_id": "275632428",
+        "show_timestamp": 1729622700,
+        "status": "estimated",
+        "summary": "Gumball and Darwin realize Rob has been trying to destroy them for a while.",
+        "summary_long": "Gumball and Darwin discover Rob has been trying to destroy them for some time but his traps never work. Taking pity on him, the kids make it their mission to help Rob become a better nemesis.",
+        "taxonomy_id": "228427-002",
+        "title": "The Nemesis",
+        "title_id": "2062744",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228427-002",
+        "upid_type": 12
     }
 ]
