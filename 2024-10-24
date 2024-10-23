@@ -244,5 +244,184 @@
         "tv_rating": "TV-14",
         "upid": "DISC232841-021",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232850_022_03_851",
+        "create_time": 1729657563448,
+        "episode_in_season": "22",
+        "episode_number": "S16:E22",
+        "external_id": "232850-022-851-1729749600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1729749600,
+        "last_time_machine_update": 1729657563448,
+        "last_update": 1729657563448,
+        "live": false,
+        "paid": "232850.022.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1729749600,
+        "season_id": "16310",
+        "season_name": "American Dad",
+        "season_number": "16",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1729657563448,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275636784",
+        "show_timestamp": 1729749600,
+        "status": "estimated",
+        "summary": "Steve takes action when Principal Lewis threatens to cancel science club.",
+        "summary_long": "When Principal Lewis threatens to cancel science club, Steve takes matters into his own hands in a monstrous way.",
+        "taxonomy_id": "232850-022",
+        "title": "Steve's Franken Out",
+        "title_id": "2238757",
+        "tv_rating": "TV-14",
+        "upid": "DISC232850-022",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_007_03_851",
+        "create_time": 1729658045174,
+        "episode_in_season": "7",
+        "episode_number": "S18:E15",
+        "external_id": "232841-007-851-1729751400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1729751400,
+        "last_time_machine_update": 1729658045174,
+        "last_update": 1729658045174,
+        "live": false,
+        "paid": "232841.007.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1729751400,
+        "season_id": "25259",
+        "season_name": "American Dad",
+        "season_number": "18",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1729658045174,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275636794",
+        "show_timestamp": 1729751400,
+        "status": "estimated",
+        "summary": "It's Halloween night and Stan is missing, so the Smith gang heads to the spooky, abandoned CIA headquarters to investigate.",
+        "summary_long": "It\u2019s Halloween night and Stan is missing, so the Smith gang heads to the spooky, abandoned CIA headquarters to investigate.",
+        "taxonomy_id": "232841-007",
+        "title": "Z.O.I.N.C.S.",
+        "title_id": "2392758",
+        "tv_rating": "TV-14",
+        "upid": "DISC232841-007",
+        "upid_type": 12
     }
 ]
