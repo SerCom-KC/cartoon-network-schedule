@@ -712,5 +712,100 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251739-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "250416_004_03_851",
+        "create_time": 1729749960045,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "250416-004-851-1729843200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Uzumaki (English Language Version)",
+        "genres": [
+            "Adult Animation",
+            "Anime",
+            "Horror",
+            "Occult"
+        ],
+        "guide_timestamp": 1729843200,
+        "last_time_machine_update": 1729749960045,
+        "last_update": 1729749960045,
+        "live": false,
+        "paid": "250416.004.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Hiroshi Nagahama",
+                "role": "director"
+            },
+            {
+                "character": "Kirie Goshima",
+                "name": "Abby Trott",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shuichi Saito",
+                "name": "Robbie Daymond",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kirie's Father",
+                "name": "Doug Stone",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shuichi's Father",
+                "name": "Aaron LaPlante",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Yukie Saito",
+                "name": "Cristina Vee",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Katayama",
+                "name": "Max Mittelman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Junji Ito",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 45,
+        "scheduled_duration": 2702,
+        "scheduled_timestamp": 1729843200,
+        "season_id": "13942",
+        "season_name": "Uzumaki",
+        "season_number": "1",
+        "season_summary": "Kirie tries to escape a town where residents get obsessed with spirals.",
+        "season_summary_long": "Kirie tries to escape from her town Kurouzu-cho, where the residents get obsessed with spirals due to an unexplained curse.",
+        "serial": 1729749960045,
+        "series_id": "2193532",
+        "series_name": "Uzumaki",
+        "series_summary": "Kirie tries to escape a town where residents get obsessed with spirals.",
+        "series_summary_long": "Kirie tries to escape from her town Kurouzu-cho, where the residents get obsessed with spirals due to an unexplained curse.",
+        "show_duration": 2700,
+        "show_id": "275640920",
+        "show_timestamp": 1729843200,
+        "status": "estimated",
+        "summary": "The spiral curse is destroying the town and taking peoples' minds with it.",
+        "summary_long": "The curse of the spirals is destroying the town and taking peoples' minds with it. The chaos reaches a fever pitch.",
+        "taxonomy_id": "250416-004",
+        "title": "(Dub) Episode 4",
+        "title_id": "2193536",
+        "tv_rating": "TV-MA",
+        "upid": "DISC250416-004",
+        "upid_type": 12
     }
 ]
