@@ -1079,5 +1079,83 @@
         "tv_rating": "TV-14",
         "upid": "DISC169796-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "169687_002_03_851",
+        "create_time": 1729755232218,
+        "episode_in_season": "2",
+        "episode_number": "S5:E02",
+        "external_id": "169687-002-851-1729848600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1729848600,
+        "last_time_machine_update": 1729755232218,
+        "last_update": 1729755232218,
+        "live": false,
+        "paid": "169687.002.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1729848600,
+        "season_id": "9711",
+        "season_name": "Bob's Burgers",
+        "season_number": "5",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1729755232218,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275640950",
+        "show_timestamp": 1729848600,
+        "status": "estimated",
+        "summary": "Tina begins an out-of-this-world romance with a ghost.",
+        "summary_long": "Tina begins an out-of-this-world romance with a ghost that is believed to be living in the Belcher's basement. And when Bob realizes that an in-house ghost may increase revenues, he too becomes a fan of the paranormal entity.",
+        "taxonomy_id": "169687-002",
+        "title": "Tina and the Real Ghost",
+        "title_id": "2065452",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169687-002",
+        "upid_type": 12
     }
 ]
