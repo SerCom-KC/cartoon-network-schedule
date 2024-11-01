@@ -4329,5 +4329,84 @@
         "tv_rating": "TV-G",
         "upid": "DISC168445-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "169842_000_02_851",
+        "create_time": 1730485120386,
+        "episode_in_season": "0",
+        "external_id": "169842-000-851-1730575800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo and the Samurai Sword",
+        "genres": [
+            "Animated Movies",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1730575800,
+        "last_time_machine_update": 1730485120386,
+        "last_update": 1730485120386,
+        "live": false,
+        "paid": "169842.000.02.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Casey Kasem",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Christopher Berkeley",
+                "role": "director"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 90,
+        "scheduled_duration": 5475,
+        "scheduled_timestamp": 1730575800,
+        "season_number": "1",
+        "serial": 1730485120385,
+        "series_id": "77212",
+        "series_name": "Scooby-Doo and the Samurai Sword",
+        "series_summary": "Mystery Inc. travels the globe to solve a series of ancient riddles.",
+        "series_summary_long": "The Mystery Inc. crew travels the globe on a transcontinental treasure hunt to solve a series of ancient riddles. Scooby-Doo and Shaggy are indoctrinated by an unlikely Sword Master.",
+        "show_duration": 5400,
+        "show_id": "275677514",
+        "show_timestamp": 1730575800,
+        "status": "estimated",
+        "summary": "Mystery Inc. travels the globe to solve a series of ancient riddles.",
+        "summary_long": "The Mystery Inc. crew travels the globe on a transcontinental treasure hunt to solve a series of ancient riddles. Scooby-Doo and Shaggy are indoctrinated by an unlikely Sword Master.",
+        "taxonomy_id": "169842-000",
+        "title": "Scooby-Doo and the Samurai Sword",
+        "title_id": "753723",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC169842-000",
+        "upid_type": 12
     }
 ]
