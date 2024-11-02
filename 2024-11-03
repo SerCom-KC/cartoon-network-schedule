@@ -524,5 +524,77 @@
         "tv_rating": "TV-PG",
         "upid": "DISC251121-064",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "233373_133_02_851",
+        "create_time": 1730523657233,
+        "episode_in_season": "133",
+        "episode_number": "S6:E133",
+        "external_id": "233373-133-851-1730617200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "My Hero Academia",
+        "genres": [
+            "Action"
+        ],
+        "guide_timestamp": 1730617200,
+        "last_time_machine_update": 1730523657233,
+        "last_update": 1730523657233,
+        "live": false,
+        "paid": "233373.133.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Kenji Nagasaki",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Y\u00f4suke Kuroda",
+                "role": "writer"
+            },
+            {
+                "character": "Izuku Midoriya",
+                "name": "Daiki Yamashita",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Izuku Midoriya",
+                "name": "Justin Briner",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1730617200,
+        "season_id": "27046",
+        "season_name": "My Hero Academia",
+        "season_number": "6",
+        "season_summary": "Despite being born powerless, Izuku never gives up on becoming a hero.",
+        "season_summary_long": "Despite being born powerless in a super-powered world, Izuku never gives up on becoming a hero.",
+        "serial": 1730523657233,
+        "series_id": "2142267",
+        "series_name": "My Hero Academia",
+        "series_summary": "Despite being born powerless, Izuku never gives up on becoming a hero.",
+        "series_summary_long": "Despite being born powerless in a super-powered world, Izuku never gives up on becoming a hero.",
+        "show_duration": 1800,
+        "show_id": "346986167",
+        "show_timestamp": 1730617200,
+        "status": "estimated",
+        "summary": "The top heroes continue to face criticism as they deal with jailbreakers.",
+        "summary_long": "The top three heroes continue to face criticism as they deal with jailbreakers and look for hints about All For One and Shigaraki's whereabouts, and Izuku comes across a villain from Tartarus.",
+        "taxonomy_id": "233373-133",
+        "title": "Hired Gun",
+        "title_id": "2417795",
+        "tv_rating": "TV-14",
+        "upid": "DISC233373-133",
+        "upid_type": 12
     }
 ]
