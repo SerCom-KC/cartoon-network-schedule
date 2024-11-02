@@ -3965,5 +3965,82 @@
         "tv_rating": "TV-PG",
         "upid": "DISC229024-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "165213_000_08_851",
+        "create_time": 1730586870593,
+        "episode_in_season": "0",
+        "external_id": "165213-000-851-1730671200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Fred Claus",
+        "genres": [
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1730671200,
+        "last_time_machine_update": 1730586870593,
+        "last_update": 1730586870593,
+        "live": false,
+        "mpaa_rating": "PG",
+        "paid": "165213.000.08.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "David Dobkin",
+                "role": "director"
+            },
+            {
+                "character": "Fred Claus",
+                "name": "Vince Vaughn",
+                "role": "actor"
+            },
+            {
+                "character": "Santa Claus",
+                "name": "Paul Giamatti",
+                "role": "actor"
+            },
+            {
+                "character": "Wanda Blinkowski",
+                "name": "Rachel Weisz",
+                "role": "actor"
+            },
+            {
+                "character": "",
+                "name": "Dan Fogelman",
+                "role": "screenplay"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 120,
+        "scheduled_duration": 9000,
+        "scheduled_timestamp": 1730671200,
+        "season_number": "1",
+        "serial": 1730586870593,
+        "series_id": "75587",
+        "series_name": "Fred Claus",
+        "series_summary": "Santa bails his brother Fred out of trouble and puts him to work.",
+        "series_summary_long": "The yuletide season brings headaches for Santa Claus, who bails his ne'er-do-well brother Fred out of trouble and puts him to work in his factory.",
+        "show_duration": 7200,
+        "show_id": "322082690",
+        "show_timestamp": 1730671200,
+        "status": "estimated",
+        "summary": "Santa bails his brother Fred out of trouble and puts him to work.",
+        "summary_long": "The yuletide season brings headaches for Santa Claus, who bails his ne'er-do-well brother Fred out of trouble and puts him to work in his factory.",
+        "taxonomy_id": "165213-000",
+        "title": "Fred Claus",
+        "title_id": "658292",
+        "tv_rating": "TV-PG",
+        "upid": "DISC165213-000",
+        "upid_type": 12
     }
 ]
