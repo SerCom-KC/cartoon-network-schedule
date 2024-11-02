@@ -3571,5 +3571,65 @@
         "tv_rating": "TV-PG",
         "upid": "DISC234515-026",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234514_001_01_851",
+        "create_time": 1730573545868,
+        "episode_in_season": "1",
+        "episode_number": "S6:E01",
+        "external_id": "234514-001-851-1730665800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Adventure Time",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1730665800,
+        "last_time_machine_update": 1730573545868,
+        "last_update": 1730573545868,
+        "live": false,
+        "paid": "234514.001.01.851",
+        "participants": [
+            {
+                "character": "Finn",
+                "name": "Jeremy Shada",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jake",
+                "name": "John DiMaggio",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1730665800,
+        "season_id": "7216",
+        "season_name": "Adventure Time (Season 6) (Combined)",
+        "season_number": "6",
+        "serial": 1730573545868,
+        "series_id": "757073",
+        "series_name": "Adventure Time",
+        "series_summary": "Unlikely heroes Finn and Jake traverse the mystical Land of Ooo.",
+        "series_summary_long": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
+        "show_duration": 1800,
+        "show_id": "275681510",
+        "show_timestamp": 1730665800,
+        "status": "estimated",
+        "summary": "Wake Up: In order to find Finn's father, Finn and Jame must commit a cosmic crime unless the Lich beats them to it./Escape from the Citadel: Finn and Jake follow the Lich of the Citadel, where Finn meets his long lost dad. But just how far does the apple fall from the tree?",
+        "summary_long": "In order to find Finn's father, Finn and Jame must commit a cosmic crime unless the Lich beats them to it. Then, Finn and Jake follow the Lich of the Citadel, where Finn meets his long lost dad. How far does the apple fall from the tree?",
+        "taxonomy_id": "234514-001",
+        "title": "Wake Up/Escape from the Citadel",
+        "title_id": "2014398",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234514-001",
+        "upid_type": 12
     }
 ]
