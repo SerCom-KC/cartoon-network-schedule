@@ -1361,5 +1361,63 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250266-016",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250266_017_03_851",
+        "create_time": 1730624136554,
+        "episode_in_season": "17",
+        "episode_number": "S12:E17",
+        "external_id": "250266-017-851-1730716200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1730716200,
+        "last_time_machine_update": 1730624136554,
+        "last_update": 1730624136554,
+        "live": false,
+        "paid": "250266.017.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1730716200,
+        "season_id": "27922",
+        "season_name": "Bob's Burgers (Season 12)",
+        "season_number": "12",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1730624136553,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275681810",
+        "show_timestamp": 1730716200,
+        "status": "estimated",
+        "summary": "Louise gets a new house pet.",
+        "summary_long": "Louise befriends a house spider and hides it in her room after Linda and Bob tell her to remove it from the apartment. Meanwhile, Bob tries to make a friend outside of the people that come to the restaurant.",
+        "taxonomy_id": "250266-017",
+        "title": "Spider House Rules",
+        "title_id": "2438999",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250266-017",
+        "upid_type": 12
     }
 ]
