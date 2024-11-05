@@ -487,5 +487,94 @@
         "tv_rating": "TV-MA",
         "upid": "DISC268716-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232855_019_04_851",
+        "create_time": 1730782107601,
+        "episode_in_season": "19",
+        "episode_number": "S9:E19",
+        "external_id": "232855-019-851-1730874600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1730874600,
+        "last_time_machine_update": 1730782107601,
+        "last_update": 1730782107601,
+        "live": false,
+        "paid": "232855.019.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1730874600,
+        "season_id": "7619",
+        "season_name": "American Dad",
+        "season_number": "9",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1730782107601,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275690062",
+        "show_timestamp": 1730874600,
+        "status": "estimated",
+        "summary": "Hayley discovers Roger is the journalist she is interning for.",
+        "summary_long": "Hayley wants to save the world through investigative journalism, so she becomes an intern for a local news reporter. The reporter turns out to be Roger, who gets ratings through sensationalized stories.",
+        "taxonomy_id": "232855-019",
+        "title": "News Glance with Genevieve Vavance",
+        "title_id": "2012720",
+        "tv_rating": "TV-14",
+        "upid": "DISC232855-019",
+        "upid_type": 12
     }
 ]
