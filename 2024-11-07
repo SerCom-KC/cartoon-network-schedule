@@ -352,5 +352,78 @@
         "tv_rating": "TV-14",
         "upid": "DISC233143-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "268716_005_02_851",
+        "create_time": 1730865855912,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "268716-005-851-1730959200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Psi Cops",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1730959200,
+        "last_time_machine_update": 1730865855912,
+        "last_update": 1730865855912,
+        "live": false,
+        "paid": "268716.005.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Chris Nielsen",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Bart Batchelor",
+                "role": "creator"
+            },
+            {
+                "character": "Kydd",
+                "name": "Chris Nielsen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Felixx",
+                "name": "Bart Batchelor",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1730959200,
+        "season_id": "30822",
+        "season_name": "Psi Cops",
+        "season_number": "1",
+        "season_summary": "Kydd and Felixx are top detectives at the paranormal agency Psi Cops.",
+        "season_summary_long": "Coworker friends forever (CFFs) Kydd and Felixx are top detectives at the paranormal agency Psi Cops, where they solve mysteries and supernatural crimes using their overly competent incompetence.",
+        "serial": 1730865855912,
+        "series_id": "2530043",
+        "series_name": "Psi Cops",
+        "series_summary": "Kydd and Felixx are top detectives at the paranormal agency Psi Cops.",
+        "series_summary_long": "Coworker friends forever (CFFs) Kydd and Felixx are top detectives at the paranormal agency Psi Cops, where they solve mysteries and supernatural crimes using their overly competent incompetence.",
+        "show_duration": 900,
+        "show_id": "275694138",
+        "show_timestamp": 1730959200,
+        "status": "estimated",
+        "summary": "The Psi Cops explore small town living and cars that crash into nothing.",
+        "summary_long": "The Psi Cops Duo explores small town living, cars that crash into nothing, and meet the charming locals like Old Bill ... and Old Bill ... and ... Old Bill ...",
+        "taxonomy_id": "268716-005",
+        "title": "Small Townies",
+        "title_id": "2530048",
+        "tv_rating": "TV-MA",
+        "upid": "DISC268716-005",
+        "upid_type": 12
     }
 ]
