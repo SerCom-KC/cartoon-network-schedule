@@ -5842,5 +5842,142 @@
         "tv_rating": "TV-14",
         "upid": "DISC232831-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "255276_001_04_851",
+        "create_time": 1730946495375,
+        "episode_in_season": "1",
+        "episode_number": "S19:E01",
+        "external_id": "255276-001-851-1731038400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1731038400,
+        "last_time_machine_update": 1730946495375,
+        "last_update": 1730946495375,
+        "live": false,
+        "paid": "255276.001.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1731038400,
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1730946495375,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275698174",
+        "show_timestamp": 1731038400,
+        "status": "estimated",
+        "summary": "Stan, Francine and Roger concoct the perfect plan to rob a bank.",
+        "summary_long": "Stan, Francine and Roger concoct the perfect plan to rob a bank but agree never to do it. Peace reigns.",
+        "taxonomy_id": "255276-001",
+        "title": "The Grocery Store Bank",
+        "title_id": "2445744",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-001",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251792_010_03_851",
+        "create_time": 1730946859478,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "251792-010-851-1731040200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Space & Beyond"
+        ],
+        "guide_timestamp": 1731040200,
+        "last_time_machine_update": 1730946859478,
+        "last_update": 1730946859478,
+        "live": false,
+        "paid": "251792.010.03.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1731040200,
+        "season_id": "10773",
+        "season_name": "Rick and Morty (Season 3) (Non-Explicit Repack)",
+        "season_number": "3",
+        "serial": 1730946859478,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "275698184",
+        "show_timestamp": 1731040200,
+        "status": "estimated",
+        "summary": "Rick goes toe-to-toe with the president in this one, broh.",
+        "summary_long": "Rick goes toe-to-toe with the president in this one, broh.",
+        "taxonomy_id": "251792-010",
+        "title": "The Rickchurian Mortydate",
+        "title_id": "2116839",
+        "tv_rating": "TV-14",
+        "upid": "DISC251792-010",
+        "upid_type": 12
     }
 ]
