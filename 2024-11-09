@@ -752,5 +752,53 @@
         "tv_rating": "TV-PG",
         "upid": "DISC233064-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233081_008_03_851",
+        "create_time": 1731053438742,
+        "episode_in_season": "8",
+        "episode_number": "S12:E08",
+        "external_id": "233081-008-851-1731146400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1731146400,
+        "last_time_machine_update": 1731053438742,
+        "last_update": 1731053438742,
+        "live": false,
+        "paid": "233081.008.03.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1731146400,
+        "season_id": "1545",
+        "season_name": "King of the Hill (Season 12)",
+        "season_number": "12",
+        "serial": 1731053438742,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "275702410",
+        "show_timestamp": 1731146400,
+        "status": "estimated",
+        "summary": "Peggy goes to unusual lengths to fix a real-estate listing.",
+        "summary_long": "When Peggy gets a real-estate listing, she finds that the family living in the house is scaring off buyers, and she goes to unusual lengths to fix the problem.",
+        "taxonomy_id": "233081-008",
+        "title": "Six Characters in Search of a House",
+        "title_id": "731572",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233081-008",
+        "upid_type": 12
     }
 ]
