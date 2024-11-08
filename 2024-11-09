@@ -357,5 +357,95 @@
         "tv_rating": "TV-14",
         "upid": "DISC232831-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232831_009_05_851",
+        "create_time": 1731046292663,
+        "episode_in_season": "9",
+        "episode_number": "S10:E09",
+        "external_id": "232831-009-851-1731139200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1731139200,
+        "last_time_machine_update": 1731046292663,
+        "last_update": 1731046292663,
+        "live": false,
+        "paid": "232831.009.05.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1731139200,
+        "season_id": "7408",
+        "season_name": "American Dad",
+        "season_number": "10",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1731046292663,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275702370",
+        "show_timestamp": 1731139200,
+        "status": "estimated",
+        "summary": "Hayley gets a job and starts to fall for a co-worker. Meanwhile, Stan chauffers Steve and Francine to a Mother-Son dance. Hayley is broke and gets an office job where she meets a cute co-worker named Ax. Klaus and Roger encourage her to have sex with Ax on an office retreat. Hayley is all for it until she finds out Ax is a married man. Hayley backs out when she sees he has a tattoo of Roger. Back at home, Stan steals Francine from Steve at the school dance and tries to make it up to him by letting them dance at home.",
+        "summary_long": "Hayley gets a job and starts to fall for a co-worker. Meanwhile, Stan chauffers Steve and Francine to a Mother-Son dance.",
+        "taxonomy_id": "232831-009",
+        "title": "My Affair Lady",
+        "title_id": "2019418",
+        "tv_rating": "TV-14",
+        "upid": "DISC232831-009",
+        "upid_type": 12
     }
 ]
