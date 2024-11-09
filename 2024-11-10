@@ -4184,5 +4184,86 @@
         "tv_rating": "TV-14",
         "upid": "DISC169768-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "169768_009_03_851",
+        "create_time": 1731195648802,
+        "episode_in_season": "9",
+        "episode_number": "S2:E09",
+        "external_id": "169768-009-851-1731288600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1731288600,
+        "last_time_machine_update": 1731195648802,
+        "last_update": 1731195648802,
+        "live": false,
+        "paid": "169768.009.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1731288600,
+        "season_id": "7296",
+        "season_name": "Bob's Burgers",
+        "season_number": "2",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1731195648801,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275710272",
+        "show_timestamp": 1731288600,
+        "status": "estimated",
+        "summary": "Bob appears in a cooking segment on a local news morning program.",
+        "summary_long": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.",
+        "taxonomy_id": "169768-009",
+        "title": "Beefsquatch",
+        "title_id": "2003444",
+        "tv_rating": "TV-14",
+        "upid": "DISC169768-009",
+        "upid_type": 12
     }
 ]
