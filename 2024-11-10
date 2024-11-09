@@ -825,5 +825,112 @@
         "tv_rating": "TV-14",
         "upid": "DISC239131-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251915_014_02_851",
+        "create_time": 1731133984545,
+        "episode_in_season": "14",
+        "episode_number": "S1:E14",
+        "external_id": "251915-014-851-1731227400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Venture Bros., The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1731227400,
+        "last_time_machine_update": 1731133984545,
+        "last_update": 1731133984545,
+        "live": false,
+        "paid": "251915.014.02.851",
+        "participants": [
+            {
+                "character": "Thaddeus Venture",
+                "name": "James Urbaniak",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hank Venture",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "The Monarch",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Steven S.H. Yoon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "David Lipson",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Doc Hammer",
+                "role": "writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1845,
+        "scheduled_timestamp": 1731227400,
+        "season_id": "968",
+        "season_name": "The Venture Bros.",
+        "season_number": "1",
+        "season_summary": "A scientist, his dim-witted children and their guard battle enemies.",
+        "season_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "serial": 1731133984544,
+        "series_id": "439722",
+        "series_name": "The Venture Bros.",
+        "series_summary": "A scientist, his dim-witted children and security guard battle enemies.",
+        "series_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "show_duration": 1800,
+        "show_id": "275706376",
+        "show_timestamp": 1731227400,
+        "status": "estimated",
+        "summary": "Dr. Venture finally learns the secret of his recurring womb nightmares when a stomach tumor turns out to be something far more sinister. In a fit of jealousy over their mistaken belief their father is pregnant, the boys run away from home. But their newfound freedom is short lived once they run afoul of the law and land themselves in a \"Scared Straight\"-style outreach program headed by none other than the recently incarcerated Monarch.",
+        "summary_long": "Dr. Venture finally learns the secret of his recurring womb nightmares when a stomach tumor turns out to be something far more sinister. In a fit of jealousy over their mistaken belief their father is pregnant, the boys run away from home.",
+        "taxonomy_id": "251915-014",
+        "title": "Return to Spider-Skull Island",
+        "title_id": "964779",
+        "tv_rating": "TV-14",
+        "upid": "DISC251915-014",
+        "upid_type": 12
     }
 ]
