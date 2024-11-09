@@ -662,5 +662,77 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250876-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "233373_135_02_851",
+        "create_time": 1731130747451,
+        "episode_in_season": "135",
+        "episode_number": "S6:E135",
+        "external_id": "233373-135-851-1731223800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "My Hero Academia",
+        "genres": [
+            "Action"
+        ],
+        "guide_timestamp": 1731223800,
+        "last_time_machine_update": 1731130747451,
+        "last_update": 1731130747451,
+        "live": false,
+        "paid": "233373.135.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Kenji Nagasaki",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Y\u00f4suke Kuroda",
+                "role": "writer"
+            },
+            {
+                "character": "Izuku Midoriya",
+                "name": "Daiki Yamashita",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Izuku Midoriya",
+                "name": "Justin Briner",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1731223800,
+        "season_id": "27046",
+        "season_name": "My Hero Academia",
+        "season_number": "6",
+        "season_summary": "Despite being born powerless, Izuku never gives up on becoming a hero.",
+        "season_summary_long": "Despite being born powerless in a super-powered world, Izuku never gives up on becoming a hero.",
+        "serial": 1731130747451,
+        "series_id": "2142267",
+        "series_name": "My Hero Academia",
+        "series_summary": "Despite being born powerless, Izuku never gives up on becoming a hero.",
+        "series_summary_long": "Despite being born powerless in a super-powered world, Izuku never gives up on becoming a hero.",
+        "show_duration": 1800,
+        "show_id": "275706356",
+        "show_timestamp": 1731223800,
+        "status": "estimated",
+        "summary": "Izuku's classmates realize something is wrong and try to help him.",
+        "summary_long": "As Izuku goes off alone in his quest for justice, his classmates realize something is wrong and try to find a way to help him.",
+        "taxonomy_id": "233373-135",
+        "title": "Friend",
+        "title_id": "2417797",
+        "tv_rating": "TV-14",
+        "upid": "DISC233373-135",
+        "upid_type": 12
     }
 ]
