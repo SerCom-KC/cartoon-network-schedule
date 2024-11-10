@@ -1247,5 +1247,84 @@
         "tv_rating": "TV-MA",
         "upid": "DISC233112-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169768_008_03_851",
+        "create_time": 1731225907966,
+        "episode_in_season": "8",
+        "episode_number": "S2:E08",
+        "external_id": "169768-008-851-1731319200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1731319200,
+        "last_time_machine_update": 1731225907966,
+        "last_update": 1731225907966,
+        "live": false,
+        "paid": "169768.008.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1731319200,
+        "season_id": "7296",
+        "season_name": "Bob's Burgers",
+        "season_number": "2",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1731225907966,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275710482",
+        "show_timestamp": 1731319200,
+        "status": "estimated",
+        "summary": "Tina starts hanging out with bad girl Tammy.",
+        "summary_long": "Tina starts hanging out with bad girl Tammy in an effort to get closer to Jimmy Junior.",
+        "taxonomy_id": "169768-008",
+        "title": "Bad Tina",
+        "title_id": "2003443",
+        "tv_rating": "TV-14",
+        "upid": "DISC169768-008",
+        "upid_type": 12
     }
 ]
