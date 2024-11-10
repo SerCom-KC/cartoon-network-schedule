@@ -3638,5 +3638,77 @@
         "tv_rating": "TV-G",
         "upid": "DISC234842-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "246605_031_02_851",
+        "create_time": 1731253123101,
+        "episode_in_season": "31",
+        "episode_number": "S5:E31",
+        "external_id": "246605-031-851-1731346200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1731346200,
+        "last_time_machine_update": 1731253123101,
+        "last_update": 1731253123101,
+        "live": false,
+        "paid": "246605.031.02.851",
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "voice-actor"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1731346200,
+        "season_id": "25427",
+        "season_name": "Craig of the Creek",
+        "season_number": "5",
+        "season_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "season_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "serial": 1731253123101,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "series_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "series_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "show_duration": 901,
+        "show_id": "275714278",
+        "show_timestamp": 1731346200,
+        "status": "estimated",
+        "summary": "Craig and his friends seek to unmask a mysterious villain.",
+        "summary_long": "Craig and his friends seek to unmask the mysterious villain who is messing with their search for the Heart of the Forest.",
+        "taxonomy_id": "246605-031",
+        "title": "Who Is the Red Poncho?",
+        "title_id": "2396426",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC246605-031",
+        "upid_type": 12
     }
 ]
