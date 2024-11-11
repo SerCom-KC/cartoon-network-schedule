@@ -1,6 +1,7 @@
 [
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "V"
         ],
@@ -76,6 +77,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "250996_004_03_851",
         "create_time": 1731210782336,
@@ -149,6 +151,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "250996_005_03_851",
         "create_time": 1731210782337,
@@ -354,6 +357,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "V"
         ],
@@ -659,6 +663,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -713,6 +718,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -767,6 +773,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "V"
         ],
@@ -842,6 +849,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "250996_004_03_851",
         "create_time": 1731222090118,
@@ -915,6 +923,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "250996_005_03_851",
         "create_time": 1731224187100,
@@ -1120,6 +1129,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "V"
         ],
@@ -1250,6 +1260,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L"
@@ -1410,6 +1421,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229026_016_02_851",
         "create_time": 1731236555840,
@@ -1493,6 +1505,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229026_017_02_851",
         "create_time": 1731237446245,
@@ -1956,6 +1969,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "228558_034_02_851",
         "create_time": 1731239857464,
@@ -2078,9 +2092,11 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "228558_035_02_851",
         "create_time": 1731239857464,
+        "dvs": true,
         "episode_in_season": "35",
         "episode_number": "S1:E35",
         "external_id": "228558-035-851-1731328560",
@@ -2190,6 +2206,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "228868_019_02_851",
         "create_time": 1731239857464,
@@ -2342,6 +2359,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "228868_020_02_851",
         "create_time": 1731239857462,
@@ -2494,9 +2512,11 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "228868_021_02_851",
         "create_time": 1731239857463,
+        "dvs": true,
         "episode_in_season": "21",
         "episode_number": "S1:E21",
         "external_id": "228868-021-851-1731330960",
@@ -2646,6 +2666,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -2731,6 +2752,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -2816,6 +2838,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -2901,6 +2924,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -2986,6 +3010,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "V"
         ],
@@ -3155,6 +3180,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "233136_006_01_851",
         "create_time": 1731244581864,
@@ -3233,6 +3259,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "250770_011_01_851",
         "create_time": 1731244581865,
@@ -3382,6 +3409,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229159_010_02_851",
         "create_time": 1731248152531,
@@ -3579,8 +3607,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1731344400,
-        "last_time_machine_update": 1731340874493,
-        "last_update": 1731340874493,
+        "last_time_machine_update": 1731342693984,
+        "last_update": 1731342693984,
         "live": false,
         "paid": "234842.012.02.851",
         "participants": [
@@ -3621,14 +3649,14 @@
         "season_number": "1",
         "season_summary": "Velma, Fred, Daphne, Shaggy and Scooby-Doo hit the road to solve mysteries.",
         "season_summary_long": "Brainiac Velma, jock Fred, fashionista Daphne, hippie Shaggy and the talking Great Dane Scooby-Doo climb into their Mystery Machine van and hit the road to solve strange phenomenon. Mysteries just have a way of falling into the gang's laps.",
-        "serial": 1731340874493,
+        "serial": 1731342693983,
         "series_id": "317121",
         "series_name": "Scooby-Doo, Where Are You!",
         "series_summary": "Velma, Fred, Daphne, Shaggy and Scooby-Doo hit the road to solve mysteries.",
         "series_summary_long": "Brainiac Velma, jock Fred, fashionista Daphne, hippie Shaggy and the talking Great Dane Scooby-Doo climb into their Mystery Machine van and hit the road to solve strange phenomenon. Mysteries just have a way of falling into the gang\u2019s laps.",
         "show_duration": 1800,
         "show_id": "275714268",
-        "show_timestamp": 1731344403,
+        "show_timestamp": 1731344404,
         "status": "estimated",
         "summary": "The gang helps set up an ancient Egypt exhibit, but the star vanishes.",
         "summary_long": "The gang helps a professor set up an ancient Egypt exhibit, but the star of the display keeps vanishing.",
@@ -3641,9 +3669,11 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "246605_031_02_851",
         "create_time": 1731253123101,
+        "dvs": true,
         "episode_in_season": "31",
         "episode_number": "S5:E31",
         "external_id": "246605-031-851-1731346200",
@@ -3713,9 +3743,11 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "246605_032_02_851",
         "create_time": 1731255285489,
+        "dvs": true,
         "episode_in_season": "32",
         "episode_number": "S5:E32",
         "external_id": "246605-032-851-1731347100",
@@ -3728,8 +3760,8 @@
             "Kids & Family"
         ],
         "guide_timestamp": 1731347100,
-        "last_time_machine_update": 1731255285489,
-        "last_update": 1731255285489,
+        "last_time_machine_update": 1731342693985,
+        "last_update": 1731342693985,
         "live": false,
         "paid": "246605.032.02.851",
         "participants": [
@@ -3765,14 +3797,14 @@
         "season_number": "5",
         "season_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
         "season_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
-        "serial": 1731255285489,
+        "serial": 1731342693983,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "series_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
         "series_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
         "show_duration": 901,
         "show_id": "275714288",
-        "show_timestamp": 1731347100,
+        "show_timestamp": 1731347101,
         "status": "estimated",
         "summary": "The former King of the Other Side of the Creek shares his story.",
         "summary_long": "The former King of the Other Side of the Creek shares his story.",
@@ -3874,6 +3906,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "243470_016_02_851",
         "create_time": 1731256437016,
@@ -3963,6 +3996,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229472_026_04_851",
         "create_time": 1731256437017,
@@ -4040,6 +4074,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229472_027_03_851",
         "create_time": 1731258848840,
@@ -4117,6 +4152,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229472_028_03_851",
         "create_time": 1731258848841,
@@ -4194,6 +4230,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229472_029_03_851",
         "create_time": 1731259739654,
@@ -4441,6 +4478,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -4611,6 +4649,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -4864,6 +4903,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229026_021_02_851",
         "create_time": 1731266368063,
@@ -4947,6 +4987,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229026_022_02_851",
         "create_time": 1731267347729,
@@ -5113,6 +5154,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "228250_011_03_851",
         "create_time": 1731276665810,
@@ -5201,6 +5243,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229017_011_03_851",
         "create_time": 1731278872171,
@@ -5216,8 +5259,8 @@
             "Kids & Family"
         ],
         "guide_timestamp": 1731364200,
-        "last_time_machine_update": 1731341999255,
-        "last_update": 1731341999255,
+        "last_time_machine_update": 1731343144891,
+        "last_update": 1731343144891,
         "live": false,
         "paid": "229017.011.03.851",
         "participants": [
@@ -5248,14 +5291,14 @@
         "season_number": "3",
         "season_summary": "Dexter, a child genius, whips up world-saving inventions in his laboratory.",
         "season_summary_long": "Dexter, a child genius, whips up dazzling, world-saving inventions in his laboratory. Dee Dee wrecks his experiments but his nemesis is Mandark, his brilliant rival at Huber Elementary School. Mom and Dad have no idea what he's up to.",
-        "serial": 1731341999252,
+        "serial": 1731343144891,
         "series_id": "100106",
         "series_name": "Dexter's Laboratory",
         "series_summary": "Science-loving genius Dexter creates more cool inventions.",
         "series_summary_long": "Dexter, a child genius, whips up dazzling, world-saving inventions in his laboratory. Dee Dee wrecks his experiments, but his nemesis is Mandark, his brilliant rival at Huber Elementary School. Mom and Dad have no idea what he's up to.",
         "show_duration": 1800,
         "show_id": "275714468",
-        "show_timestamp": 1731364210,
+        "show_timestamp": 1731364200,
         "status": "estimated",
         "summary": "Genius Dexter is distraught when he has to have a parent-principal meeting.",
         "summary_long": "When Dexter has to have a parent-principal meeting at school, the boy genius is distraught. Then, when Dexter gets bitten by a set of false teeth belonging to an old clown, he becomes infected with clown's syndrome.",
@@ -5268,6 +5311,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "250896_017_03_851",
         "create_time": 1731279952860,
@@ -5281,8 +5325,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1731366000,
-        "last_time_machine_update": 1731332269473,
-        "last_update": 1731332269473,
+        "last_time_machine_update": 1731343175114,
+        "last_update": 1731343175114,
         "live": false,
         "paid": "250896.017.03.851",
         "participants": [
@@ -5313,14 +5357,14 @@
         "season_number": "1",
         "season_summary": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak.",
         "season_summary_long": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak from \"Space Ghost Coast to Coast.\"",
-        "serial": 1731332269469,
+        "serial": 1731343175114,
         "series_id": "313949",
         "series_name": "Cartoon Planet",
         "series_summary": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak.",
         "series_summary_long": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak from \"Space Ghost Coast to Coast.\"",
         "show_duration": 1800,
         "show_id": "275714478",
-        "show_timestamp": 1731366010,
+        "show_timestamp": 1731366000,
         "status": "estimated",
         "summary": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak.",
         "summary_long": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak from \"Space Ghost Coast to Coast.\"",
@@ -5333,6 +5377,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "250896_018_03_851",
         "create_time": 1731279959491,
@@ -5346,8 +5391,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1731367800,
-        "last_time_machine_update": 1731341999255,
-        "last_update": 1731341999255,
+        "last_time_machine_update": 1731343144892,
+        "last_update": 1731343144892,
         "live": false,
         "paid": "250896.018.03.851",
         "participants": [
@@ -5378,14 +5423,14 @@
         "season_number": "1",
         "season_summary": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak.",
         "season_summary_long": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak from \"Space Ghost Coast to Coast.\"",
-        "serial": 1731341999252,
+        "serial": 1731343144891,
         "series_id": "313949",
         "series_name": "Cartoon Planet",
         "series_summary": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak.",
         "series_summary_long": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak from \"Space Ghost Coast to Coast.\"",
         "show_duration": 1800,
         "show_id": "275714488",
-        "show_timestamp": 1731367810,
+        "show_timestamp": 1731367800,
         "status": "estimated",
         "summary": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak.",
         "summary_long": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak from \"Space Ghost Coast to Coast.\"",
@@ -5398,6 +5443,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L"
         ],
@@ -5446,6 +5492,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L"
         ],
@@ -5574,6 +5621,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -5654,6 +5702,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L"
@@ -5733,6 +5782,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -5894,6 +5944,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -5984,6 +6035,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -6073,6 +6125,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L",
             "V"

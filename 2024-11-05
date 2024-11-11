@@ -1,6 +1,7 @@
 [
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L",
             "V"
@@ -197,6 +198,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -347,11 +349,13 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "V"
         ],
         "content_id": "268716_001_02_851",
         "create_time": 1730695004175,
+        "dvs": true,
         "episode_in_season": "1",
         "episode_number": "S1:E01",
         "external_id": "268716-001-851-1730786400",
@@ -420,11 +424,13 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "V"
         ],
         "content_id": "268716_002_02_851",
         "create_time": 1730695004176,
+        "dvs": true,
         "episode_in_season": "2",
         "episode_number": "S1:E02",
         "external_id": "268716-002-851-1730787300",
@@ -493,6 +499,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -583,6 +590,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -673,6 +681,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -762,6 +771,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -816,6 +826,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L",
             "V"
@@ -1107,6 +1118,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -1301,12 +1313,14 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L"
         ],
         "content_id": "250266_021_03_851",
         "create_time": 1730708410486,
+        "dvs": true,
         "episode_in_season": "21",
         "episode_number": "S12:E21",
         "external_id": "250266-021-851-1730800800",
@@ -1360,6 +1374,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -1367,6 +1382,7 @@
         ],
         "content_id": "250266_022_03_851",
         "create_time": 1730709134928,
+        "dvs": true,
         "episode_in_season": "22",
         "episode_number": "S12:E22",
         "external_id": "250266-022-851-1730802600",
@@ -1669,6 +1685,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229019_014_02_851",
         "create_time": 1730737889540,
@@ -1971,6 +1988,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "228558_025_02_851",
         "create_time": 1730737889541,
@@ -2093,6 +2111,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "228558_026_02_851",
         "create_time": 1730737889541,
@@ -2218,6 +2237,7 @@
         "content_advisories": [],
         "content_id": "228868_015_02_851",
         "create_time": 1730737889541,
+        "dvs": true,
         "episode_in_season": "15",
         "episode_number": "S1:E15",
         "external_id": "228868-015-851-1730811120",
@@ -2367,6 +2387,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "251003_006_02_851",
         "create_time": 1730737889541,
@@ -2529,6 +2550,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -2614,6 +2636,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -2961,6 +2984,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "233136_004_01_851",
         "create_time": 1730737929013,
@@ -3039,6 +3063,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "250770_007_02_851",
         "create_time": 1730737929013,
@@ -3369,6 +3394,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "234842_004_02_851",
         "create_time": 1730741563727,
@@ -3447,6 +3473,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229083_036_02_851",
         "create_time": 1730741563727,
@@ -3554,6 +3581,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229083_037_02_851",
         "create_time": 1730741563728,
@@ -3661,6 +3689,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "243470_005_01_851",
         "create_time": 1730741563728,
@@ -3740,6 +3769,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "243470_006_01_851",
         "create_time": 1730741563730,
@@ -3896,6 +3926,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229472_011_03_851",
         "create_time": 1730741563729,
@@ -3973,6 +4004,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229472_012_03_851",
         "create_time": 1730741563729,
@@ -4050,6 +4082,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229472_013_03_851",
         "create_time": 1730741563729,
@@ -4127,6 +4160,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -4212,6 +4246,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -4297,6 +4332,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -4467,6 +4503,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -4720,6 +4757,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "V"
         ],
@@ -4805,6 +4843,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229019_017_02_851",
         "create_time": 1730750092347,
@@ -4888,6 +4927,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "V"
         ],
@@ -5041,6 +5081,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "228260_007_03_851",
         "create_time": 1730759928768,
@@ -5109,6 +5150,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229041_006_03_851",
         "create_time": 1730762002794,
@@ -5176,6 +5218,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "229041_007_03_851",
         "create_time": 1730762002795,
@@ -5291,6 +5334,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L"
         ],
@@ -5339,6 +5383,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L"
@@ -5574,6 +5619,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -5932,6 +5978,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
