@@ -3536,5 +3536,84 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC229159-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "234841_003_02_851",
+        "create_time": 1731595000298,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": "234841-003-851-1731688200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo Where Are You!",
+        "genres": [
+            "Classic Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1731688200,
+        "last_time_machine_update": 1731595000298,
+        "last_update": 1731595000298,
+        "live": false,
+        "paid": "234841.003.02.851",
+        "participants": [
+            {
+                "character": "Shaggy Rogers",
+                "name": "Casey Kasem",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Scooby-Doo",
+                "name": "Don Messick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Nicole Jaffe",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Heather North",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1970,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1731688200,
+        "season_id": "318",
+        "season_name": "Scooby-Doo Where Are You!",
+        "season_number": "2",
+        "season_summary": "Velma, Fred, Daphne, Shaggy and Scooby-Doo hit the road to solve mysteries.",
+        "season_summary_long": "Brainiac Velma, jock Fred, fashionista Daphne, hippie Shaggy and the talking Great Dane Scooby-Doo, climb into their Mystery Machine van and hit the road to solve strange phenomenon. Mysteries just have a way of falling into the gang's laps.",
+        "serial": 1731595000298,
+        "series_id": "317121",
+        "series_name": "Scooby-Doo, Where Are You!",
+        "series_summary": "Velma, Fred, Daphne, Shaggy and Scooby-Doo hit the road to solve mysteries.",
+        "series_summary_long": "Brainiac Velma, jock Fred, fashionista Daphne, hippie Shaggy and the talking Great Dane Scooby-Doo climb into their Mystery Machine van and hit the road to solve strange phenomenon. Mysteries just have a way of falling into the gang\u2019s laps.",
+        "show_duration": 1800,
+        "show_id": "275730642",
+        "show_timestamp": 1731688200,
+        "status": "estimated",
+        "summary": "The kids look for a ghostly bank robber who is able to walk through walls.",
+        "summary_long": "The kids look for a ghostly bank robber, who seems able to walk through walls.",
+        "taxonomy_id": "234841-003",
+        "title": "Jeepers It's the Creeper",
+        "title_id": "123506",
+        "tv_rating": "TV-G",
+        "upid": "DISC234841-003",
+        "upid_type": 12
     }
 ]
