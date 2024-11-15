@@ -259,5 +259,92 @@
         "tv_rating": "TV-MA",
         "upid": "DISC267271-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "267271_008_02_851",
+        "create_time": 1731643145669,
+        "episode_in_season": "8",
+        "episode_number": "S6:E08",
+        "external_id": "267271-008-851-1731735900",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Adult Swim SMALLS",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1731735900,
+        "last_time_machine_update": 1731643145669,
+        "last_update": 1731643145669,
+        "live": false,
+        "paid": "267271.008.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Brent Busby",
+                "role": "sound-mixer"
+            },
+            {
+                "character": "",
+                "name": "Sabrina Vega",
+                "role": "production-assistant"
+            },
+            {
+                "character": "",
+                "name": "Paula Navarro",
+                "role": "associate-producer"
+            },
+            {
+                "character": "",
+                "name": "Alan Steadman",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Melissa Warrenburg",
+                "role": "supervising-producer"
+            },
+            {
+                "character": "",
+                "name": "Dave Hughes",
+                "role": "executive-producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1731735900,
+        "season_id": "30371",
+        "season_name": "Adult Swim SMALLS",
+        "season_number": "6",
+        "season_summary": "Animated shorts and short series from Adult Swim.",
+        "season_summary_long": "Animated shorts and short series from Adult Swim.",
+        "serial": 1731643145669,
+        "series_id": "2326791",
+        "series_name": "Adult Swim SMALLS",
+        "series_summary": "Animated shorts and short series from Adult Swim.",
+        "series_summary_long": "Animated shorts and short series from Adult Swim.",
+        "show_duration": 900,
+        "show_id": "275730992",
+        "show_timestamp": 1731735900,
+        "status": "estimated",
+        "summary": "The baristas of Caf\u00e9 Beans struggle with hellish customers and life.",
+        "summary_long": "Every day, the baristas of Caf\u00e9 Beans test their sanity against a hellish onslaught of customers while navigating their early 20's together in a city floating on the edge of a black hole.",
+        "taxonomy_id": "267271-008",
+        "title": "Beantown",
+        "title_id": "2546921",
+        "tv_rating": "TV-MA",
+        "upid": "DISC267271-008",
+        "upid_type": 12
     }
 ]
