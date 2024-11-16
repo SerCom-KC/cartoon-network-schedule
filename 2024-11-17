@@ -3825,5 +3825,96 @@
         "tv_rating": "TV-PG",
         "upid": "DISC229024-021",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "140459_000_03_851",
+        "create_time": 1731794593761,
+        "episode_in_season": "0",
+        "external_id": "140459-000-851-1731880800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Polar Express, The",
+        "genres": [
+            "Kids & Family",
+            "Animated Movies",
+            "Family Adventures"
+        ],
+        "guide_timestamp": 1731880800,
+        "last_time_machine_update": 1731794593761,
+        "last_update": 1731794593761,
+        "live": false,
+        "paid": "140459.000.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Robert Zemeckis",
+                "role": "directed-by"
+            },
+            {
+                "character": "The Boy",
+                "name": "Tom Hanks",
+                "role": "voice-actor"
+            },
+            {
+                "character": "The Conductor",
+                "name": "Tom Hanks",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Holly",
+                "name": "Nona Gaye",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Santa Claus",
+                "name": "Tom Hanks",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Know-It-All Boy",
+                "name": "Eddie Deezen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "William Broyles Jr.",
+                "role": "screenplay-by"
+            },
+            {
+                "character": "",
+                "name": "Robert Zemeckis",
+                "role": "screenplay-by"
+            },
+            {
+                "character": "",
+                "name": "Chris Van Allsburg",
+                "role": "based-on-the-book-by"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2004,
+        "runtime_minutes": 120,
+        "scheduled_duration": 7200,
+        "scheduled_timestamp": 1731880800,
+        "serial": 1731794593761,
+        "series_id": "73660",
+        "series_name": "The Polar Express",
+        "series_summary": "A doubting young boy takes an extraordinary train ride to the North Pole.",
+        "series_summary_long": "The conductor of a train to the North Pole guides a boy who questions the existence of Santa Claus.",
+        "show_duration": 7200,
+        "show_id": "275738904",
+        "show_timestamp": 1731880800,
+        "status": "estimated",
+        "summary": "A doubting young boy takes an extraordinary train ride to the North Pole.",
+        "summary_long": "The conductor of a train to the North Pole guides a boy who questions the existence of Santa Claus.",
+        "taxonomy_id": "140459-000",
+        "title": "The Polar Express",
+        "title_id": "452714",
+        "tv_rating": "TV-PG",
+        "upid": "DISC140459-000",
+        "upid_type": 12
     }
 ]
