@@ -5330,5 +5330,86 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169820-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169734_006_02_851",
+        "create_time": 1732314580415,
+        "episode_in_season": "6",
+        "episode_number": "S7:E06",
+        "external_id": "169734-006-851-1732406400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1732406400,
+        "last_time_machine_update": 1732314580415,
+        "last_update": 1732314580415,
+        "live": false,
+        "paid": "169734.006.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1732406400,
+        "season_id": "12008",
+        "season_name": "Bob's Burgers",
+        "season_number": "7",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1732314580414,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "336420854",
+        "show_timestamp": 1732406400,
+        "status": "estimated",
+        "summary": "Mr. Frond's annual play threatens to ruin the half day before Thanksgiving.",
+        "summary_long": "When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend.",
+        "taxonomy_id": "169734-006",
+        "title": "The Quirk-Ducers",
+        "title_id": "2132992",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169734-006",
+        "upid_type": 12
     }
 ]
