@@ -5411,5 +5411,84 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169734-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "166124_005_02_851",
+        "create_time": 1732315543880,
+        "episode_in_season": "5",
+        "episode_number": "S8:E05",
+        "external_id": "166124-005-851-1732408200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1732408200,
+        "last_time_machine_update": 1732315543880,
+        "last_update": 1732315543880,
+        "live": false,
+        "paid": "166124.005.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1732408200,
+        "season_id": "12616",
+        "season_name": "Bob's Burgers",
+        "season_number": "8",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1732315543880,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "336420857",
+        "show_timestamp": 1732408200,
+        "status": "estimated",
+        "summary": "Teddy's family unexpectedly announces that they're coming for Thanksgiving.",
+        "summary_long": "When Teddy's family unexpectedly announces that they're coming for Thanksgiving, the Belchers agree to pitch in. The preparation proves to be more challenging than they had anticipated, especially upon discovering that Teddy is a hoarder.",
+        "taxonomy_id": "166124-005",
+        "title": "Thanks-hoarding",
+        "title_id": "2171436",
+        "tv_rating": "TV-PG",
+        "upid": "DISC166124-005",
+        "upid_type": 12
     }
 ]
