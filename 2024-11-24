@@ -5240,5 +5240,143 @@
         "tv_rating": "TV-14",
         "upid": "DISC232851-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "255276_004_04_851",
+        "create_time": 1732413916621,
+        "episode_in_season": "4",
+        "episode_number": "S19:E04",
+        "external_id": "255276-004-851-1732505400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1732505400,
+        "last_time_machine_update": 1732413916621,
+        "last_update": 1732413916621,
+        "live": false,
+        "paid": "255276.004.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1732505400,
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1732413916621,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275767826",
+        "show_timestamp": 1732505400,
+        "status": "estimated",
+        "summary": "The family's dream of climbing Mount Everest turns into a nightmare.",
+        "summary_long": "The family's dream of climbing Mount Everest turns into a nightmare when Stan tries to save a buck and takes them to a different, much cheaper mountain.",
+        "taxonomy_id": "255276-004",
+        "title": "Touch the Sun: A Chimborazo Adventure",
+        "title_id": "2445747",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-004",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251795_001_03_851",
+        "create_time": 1732413916621,
+        "episode_in_season": "1",
+        "episode_number": "S6:E01",
+        "external_id": "251795-001-851-1732507200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Space & Beyond"
+        ],
+        "guide_timestamp": 1732507200,
+        "last_time_machine_update": 1732413916621,
+        "last_update": 1732413916621,
+        "live": false,
+        "paid": "251795.001.03.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1732507200,
+        "season_id": "25507",
+        "season_name": "Rick and Morty",
+        "season_number": "6",
+        "serial": 1732413916621,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "275767836",
+        "show_timestamp": 1732507200,
+        "status": "estimated",
+        "summary": "Last season's finale was a doozy, broh. What do we do now, broh?",
+        "summary_long": "Last season's finale was a doozy, broh. What do we do now, broh?",
+        "taxonomy_id": "251795-001",
+        "title": "Solaricks",
+        "title_id": "2397933",
+        "tv_rating": "TV-14",
+        "upid": "DISC251795-001",
+        "upid_type": 12
     }
 ]
