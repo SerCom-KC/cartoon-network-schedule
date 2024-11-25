@@ -1610,5 +1610,85 @@
         "tv_rating": "TV-14",
         "upid": "DISC169771-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169796_005_03_851",
+        "create_time": 1732523859987,
+        "episode_in_season": "5",
+        "episode_number": "S4:E05",
+        "external_id": "169796-005-851-1732617000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1732617000,
+        "last_time_machine_update": 1732523859987,
+        "last_update": 1732523859987,
+        "live": false,
+        "paid": "169796.005.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1732617000,
+        "season_id": "8898",
+        "season_name": "Bob's Burgers",
+        "season_number": "4",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1732523859987,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275772142",
+        "show_timestamp": 1732617000,
+        "status": "estimated",
+        "summary": "Bob meticulously prepares the family turkey for a perfect Thanksgiving.",
+        "summary_long": "Determined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage.",
+        "taxonomy_id": "169796-005",
+        "title": "Turkey in a Can",
+        "title_id": "2030308",
+        "tv_rating": "TV-14",
+        "upid": "DISC169796-005",
+        "upid_type": 12
     }
 ]
