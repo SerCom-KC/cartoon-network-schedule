@@ -1004,5 +1004,85 @@
         "tv_rating": "TV-14",
         "upid": "DISC156102-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "229338_005_02_851",
+        "create_time": 1732518521269,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "229338-005-851-1732611600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Delocated",
+        "genres": [
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1732611600,
+        "last_time_machine_update": 1732518521269,
+        "last_update": 1732518521269,
+        "live": false,
+        "paid": "229338.005.02.851",
+        "participants": [
+            {
+                "character": "Jon",
+                "name": "Jon Glaser",
+                "role": "actor"
+            },
+            {
+                "character": "Susan",
+                "name": "Nadia Dajani",
+                "role": "actor"
+            },
+            {
+                "character": "David",
+                "name": "Jacob Kogan",
+                "role": "actor"
+            },
+            {
+                "character": "Yvgeny Mirminsky",
+                "name": "Eugene Mirman",
+                "role": "actor"
+            },
+            {
+                "character": "Sergei Mirminsky",
+                "name": "Steve Cirbus",
+                "role": "actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 15,
+        "scheduled_duration": 906,
+        "scheduled_timestamp": 1732611600,
+        "season_id": "2356",
+        "season_name": "Delocated",
+        "season_number": "1",
+        "season_summary": "A family in the witness protection program is given their own reality show.",
+        "season_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "serial": 1732518521269,
+        "series_id": "680051",
+        "series_name": "Delocated",
+        "series_summary": "A family in the witness protection program is given their own reality show.",
+        "series_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "show_duration": 900,
+        "show_id": "275772092",
+        "show_timestamp": 1732611600,
+        "status": "estimated",
+        "summary": "\"Jon\" becomes a successful children's lullaby personality.",
+        "summary_long": "\"Jon\" becomes a successful children's lullaby personality while his girlfriend Kim is out of town on a yoga retreat.",
+        "taxonomy_id": "229338-005",
+        "title": "The Soother",
+        "title_id": "751595",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229338-005",
+        "upid_type": 12
     }
 ]
