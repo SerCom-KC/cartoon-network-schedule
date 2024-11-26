@@ -172,5 +172,83 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251798-000",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "250240_003_03_851",
+        "create_time": 1732597090222,
+        "episode_in_season": "3",
+        "episode_number": "S12:E03",
+        "external_id": "250240-003-851-1732689900",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua Teen Hunger Force",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1732689900,
+        "last_time_machine_update": 1732597090222,
+        "last_update": 1732597090222,
+        "live": false,
+        "paid": "250240.003.03.851",
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1732689900,
+        "season_id": "25542",
+        "season_name": "Aqua Teen Hunger Force",
+        "season_number": "12",
+        "season_summary": "Three food items and their life together in South Jersey.",
+        "season_summary_long": "Three food items and their life together in South Jersey.",
+        "serial": 1732597090222,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "series_summary": "Three food items and their life together in South Jersey.",
+        "series_summary_long": "Three food items and their life together in South Jersey.",
+        "show_duration": 900,
+        "show_id": "275776068",
+        "show_timestamp": 1732689900,
+        "status": "estimated",
+        "summary": "Chap2er 2wo of 2he Grea2es2 Mo2ion Pic2ure 2rilogy ever 2i2led.",
+        "summary_long": "Chap2er 2wo of 2he Grea2es2 Mo2ion Pic2ure 2rilogy ever 2i2led.",
+        "taxonomy_id": "250240-003",
+        "title": "Scrip2 2i2le: The Ts Are 2s",
+        "title_id": "2438770",
+        "tv_rating": "TV-14",
+        "upid": "DISC250240-003",
+        "upid_type": 12
     }
 ]
