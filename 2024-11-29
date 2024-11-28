@@ -568,5 +568,92 @@
         "tv_rating": "TV-MA",
         "upid": "DISC250984-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "252082_007_01_851",
+        "create_time": 1732778776150,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "252082-007-851-1732870800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King Star King",
+        "genres": [
+            "Action",
+            "Adult Animation",
+            "Offbeat",
+            "Superheroes"
+        ],
+        "guide_timestamp": 1732870800,
+        "last_time_machine_update": 1732778776150,
+        "last_update": 1732778776150,
+        "live": false,
+        "paid": "252082.007.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "J.J. Villard",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Eric Kaplan",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "J.J. Villard",
+                "role": "director"
+            },
+            {
+                "character": "King Star King",
+                "name": "Tommy Blacha",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Narrator",
+                "name": "Robin Atkin Downes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pooza",
+                "name": "J.J. Villard",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1732870800,
+        "season_id": "7482",
+        "season_name": "King Star King",
+        "season_number": "1",
+        "season_summary": "King Star King wins his love but must reclaim his spot in the heavens.",
+        "season_summary_long": "King Star King is a modern he-man who's used to living among the gods. His life takes a big turn when he falls to Earth and finds himself working as a fry cook. To reclaim his spot in the heavens, King Star King must battle amnesia and evil Spring Bunny.",
+        "serial": 1732778776150,
+        "series_id": "2013226",
+        "series_name": "King Star King",
+        "series_summary": "King Star King wins his love but must reclaim his spot in the heavens.",
+        "series_summary_long": "King Star King is a modern he-man who's used to living among the gods. His life takes a big turn when he falls to Earth and finds himself working as a fry cook. To reclaim his spot in the heavens, King Star King must battle amnesia and evil Spring Bunny.",
+        "show_duration": 1800,
+        "show_id": "336423622",
+        "show_timestamp": 1732870800,
+        "status": "estimated",
+        "summary": "King Star King is back! And this time he's a middle-aged slob.",
+        "summary_long": "King Star King is back! And this time he's a fat, bald, middle-aged slob with a family, a mortgage and a job at Amazon. Join King Star King, Hank Waffles, Pooza and Gerbils on a dimension spanning adventure to save King Star King's family!",
+        "taxonomy_id": "252082-007",
+        "title": "King Star King!/!/!/",
+        "title_id": "2418647",
+        "tv_rating": "TV-MA",
+        "upid": "DISC252082-007",
+        "upid_type": 12
     }
 ]
