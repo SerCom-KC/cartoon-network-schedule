@@ -4683,5 +4683,80 @@
         "tv_rating": "TV-PG",
         "upid": "DISC233983-000",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "271966_000_03_851",
+        "create_time": 1733004258129,
+        "episode_in_season": "0",
+        "external_id": "271966-000-851-1733090400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hobbit, The",
+        "genres": [
+            "Adult Animation",
+            "Epic Quests",
+            "Fantasy & Sci-Fi",
+            "Magic"
+        ],
+        "guide_timestamp": 1733090400,
+        "last_time_machine_update": 1733004258129,
+        "last_update": 1733004258129,
+        "live": false,
+        "paid": "271966.000.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Jules Bass",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Arthur Rankin",
+                "role": "director"
+            },
+            {
+                "character": "Bilbo Baggins",
+                "name": "Orson Bean",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gandalf the Grey",
+                "name": "John Huston",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Romeo Muller",
+                "role": "writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1977,
+        "runtime_minutes": 105,
+        "scheduled_duration": 6306,
+        "scheduled_timestamp": 1733090400,
+        "serial": 1733004258129,
+        "series_id": "95211",
+        "series_name": "The Hobbit",
+        "series_summary": "Bilbo Baggins goes on a quest to find a treasure buried deep in a mountain.",
+        "series_summary_long": "The story follows the adventures of Bilbo Baggins, a diminutive creative who resides in a place called Middle-Earth before he is compelled to go on a quest to find a treasure buried deep in the heart of Lonely Mountain.",
+        "show_duration": 6300,
+        "show_id": "275796328",
+        "show_timestamp": 1733090400,
+        "status": "estimated",
+        "summary": "Bilbo Baggins goes on a quest to find a treasure.",
+        "summary_long": "The story follows the adventures of Bilbo Baggins, a diminutive creative who resides in a place called Middle-Earth before he is compelled to go on a quest to find a treasure buried deep in the heart of Lonely Mountain.",
+        "taxonomy_id": "271966-000",
+        "title": "The Hobbit",
+        "title_id": "2543838",
+        "tv_rating": "TV-PG",
+        "upid": "DISC271966-000",
+        "upid_type": 12
     }
 ]
