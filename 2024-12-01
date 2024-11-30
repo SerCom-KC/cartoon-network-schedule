@@ -678,5 +678,78 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250876-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "233373_138_01_851",
+        "create_time": 1732945257140,
+        "episode_in_season": "138",
+        "episode_number": "S6:E138",
+        "external_id": "233373-138-851-1733038200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "My Hero Academia",
+        "genres": [
+            "Action"
+        ],
+        "guide_timestamp": 1733038200,
+        "last_time_machine_update": 1732945257140,
+        "last_update": 1732945257140,
+        "live": false,
+        "paid": "233373.138.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Kenji Nagasaki",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Y\u00f4suke Kuroda",
+                "role": "writer"
+            },
+            {
+                "character": "Izuku Midoriya",
+                "name": "Daiki Yamashita",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Izuku Midoriya",
+                "name": "Justin Briner",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1733038200,
+        "season_id": "27046",
+        "season_name": "My Hero Academia",
+        "season_number": "6",
+        "season_summary": "Despite being born powerless, Izuku never gives up on becoming a hero.",
+        "season_summary_long": "Despite being born powerless in a super-powered world, Izuku never gives up on becoming a hero.",
+        "serial": 1732945257140,
+        "series_id": "2142267",
+        "series_name": "My Hero Academia",
+        "series_summary": "Despite being born powerless, Izuku never gives up on becoming a hero.",
+        "series_summary_long": "Despite being born powerless in a super-powered world, Izuku never gives up on becoming a hero.",
+        "show_duration": 1800,
+        "show_id": "346986280",
+        "show_timestamp": 1733038200,
+        "status": "estimated",
+        "summary": "All Might has an encounter with Stain that leads to new information.",
+        "summary_long": "As Izuku tries to rest and recover back at U.A. with his classmates, All Might has an encounter with Stain that leads to new information about Shigaraki and All For One.",
+        "taxonomy_id": "233373-138",
+        "title": "No Man Is an Island",
+        "title_id": "2417800",
+        "tv_rating": "TV-14",
+        "upid": "DISC233373-138",
+        "upid_type": 12
     }
 ]
