@@ -3854,5 +3854,97 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC229166-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "241733_006_02_851",
+        "create_time": 1733157936567,
+        "episode_in_season": "6",
+        "episode_number": "S2:E06",
+        "external_id": "241733-006-851-1733243400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo Show, The",
+        "genres": [
+            "Classic Cartoons",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1733243400,
+        "last_time_machine_update": 1733157936567,
+        "last_update": 1733157936567,
+        "live": false,
+        "paid": "241733.006.02.851",
+        "participants": [
+            {
+                "character": "Freddy",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Heather North",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy",
+                "name": "Casey Kasem",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Scooby-Doo",
+                "name": "Don Messick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Patricia Stevens",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Charles A. Nichols",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "executive-producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1978,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1733243400,
+        "season_id": "23547",
+        "season_name": "The Scooby-Doo Show",
+        "season_number": "2",
+        "season_summary": "Scooby-Doo may shiver and cower, but he always solves the mystery.",
+        "season_summary_long": "A globetrotting canine Sherlock Holmes with a heart of pure cowardice, Scooby-Doo shivers and cowers, but he always solves the mystery--with laughs. Watch out, villains! Scooby-Doo is on your trail\u2026",
+        "serial": 1733157936567,
+        "series_id": "317041",
+        "series_name": "The Scooby-Doo Show",
+        "series_summary": "Scooby-Doo may shiver and cower, but he always solves the mystery.",
+        "series_summary_long": "A globetrotting canine Sherlock Holmes with a heart of pure cowardice, Scooby-Doo shivers and cowers, but he always solves the mystery -- with laughs. Watch out, villains! Scooby-Doo is on your trail\u2026",
+        "show_duration": 1800,
+        "show_id": "275804380",
+        "show_timestamp": 1733243400,
+        "status": "estimated",
+        "summary": "Professor Krueger summons the kids to the North Pole.",
+        "summary_long": "Professor Krueger summons the kids to the North Pole, where they confront a giant Snow Beast.",
+        "taxonomy_id": "241733-006",
+        "title": "A Scary Night with a Snow Beast Fright",
+        "title_id": "123565",
+        "tv_rating": "TV-G",
+        "upid": "DISC241733-006",
+        "upid_type": 12
     }
 ]
