@@ -1585,5 +1585,84 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169734-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "169734_004_02_851",
+        "create_time": 1733302415121,
+        "episode_in_season": "4",
+        "episode_number": "S7:E04",
+        "external_id": "169734-004-851-1733394600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1733394600,
+        "last_time_machine_update": 1733302415121,
+        "last_update": 1733302415121,
+        "live": false,
+        "paid": "169734.004.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1733394600,
+        "season_id": "12008",
+        "season_name": "Bob's Burgers",
+        "season_number": "7",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1733302415121,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275808956",
+        "show_timestamp": 1733394600,
+        "status": "estimated",
+        "summary": "Bob secures a new meat provider who claims to save clients money.",
+        "summary_long": "After a tip from Jimmy Pesto, Bob secures a new meat provider who claims to save clients money on every order. The Belchers quickly realize that the situation is too good to be true, as they find themselves involved in an investigation.",
+        "taxonomy_id": "169734-004",
+        "title": "They Serve Horses, Don't They?",
+        "title_id": "2132973",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169734-004",
+        "upid_type": 12
     }
 ]
