@@ -1054,5 +1054,86 @@
         "tv_rating": "TV-14",
         "upid": "DISC251739-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "229337_004_02_851",
+        "create_time": 1733297198720,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "229337-004-851-1733389200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Delocated",
+        "genres": [
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1733389200,
+        "last_time_machine_update": 1733297198720,
+        "last_update": 1733297198720,
+        "live": false,
+        "paid": "229337.004.02.851",
+        "participants": [
+            {
+                "character": "Jon",
+                "name": "Jon Glaser",
+                "role": "actor"
+            },
+            {
+                "character": "Susan",
+                "name": "Nadia Dajani",
+                "role": "actor"
+            },
+            {
+                "character": "David",
+                "name": "Jacob Kogan",
+                "role": "actor"
+            },
+            {
+                "character": "Yvgeny Mirminsky",
+                "name": "Eugene Mirman",
+                "role": "actor"
+            },
+            {
+                "character": "Sergei Mirminsky",
+                "name": "Steve Cirbus",
+                "role": "actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1733389200,
+        "season_id": "2357",
+        "season_name": "Delocated",
+        "season_number": "2",
+        "season_summary": "A family in the witness protection program is given their own reality show.",
+        "season_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "serial": 1733297198720,
+        "series_id": "680051",
+        "series_name": "Delocated",
+        "series_summary": "A family in the witness protection program is given their own reality show.",
+        "series_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "show_duration": 1800,
+        "show_id": "275808916",
+        "show_timestamp": 1733389200,
+        "status": "estimated",
+        "summary": "\"Jon\" enjoys a convention for members of the witness protection program.",
+        "summary_long": "\"Jon\" enjoys a weekend convention for members of the witness protection program. Sergei and Yvgeny bond.",
+        "taxonomy_id": "229337-004",
+        "title": "Mixer",
+        "title_id": "811362",
+        "tv_rating": "TV-14",
+        "upid": "DISC229337-004",
+        "upid_type": 12
     }
 ]
