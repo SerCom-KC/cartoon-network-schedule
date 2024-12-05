@@ -1489,5 +1489,83 @@
         "tv_rating": "TV-MA",
         "upid": "DISC232299-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "169734_008_02_851",
+        "create_time": 1733386556340,
+        "episode_in_season": "8",
+        "episode_number": "S7:E08",
+        "external_id": "169734-008-851-1733479200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1733479200,
+        "last_time_machine_update": 1733386556340,
+        "last_update": 1733386556340,
+        "live": false,
+        "paid": "169734.008.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1733479200,
+        "season_id": "12008",
+        "season_name": "Bob's Burgers",
+        "season_number": "7",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1733386556340,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275813042",
+        "show_timestamp": 1733479200,
+        "status": "estimated",
+        "summary": "Tina is left with no choice but to telecommute to school.",
+        "summary_long": "When Tina hurts her ankle, she is left with no choice but to telecommute to school. After enrolling in a program that allows her to send a robot version of herself to class, Tina finds herself having a breakthrough with Jimmy Jr.",
+        "taxonomy_id": "169734-008",
+        "title": "Ex Machtina",
+        "title_id": "2132974",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169734-008",
+        "upid_type": 12
     }
 ]
