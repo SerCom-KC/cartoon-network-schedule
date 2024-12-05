@@ -1567,5 +1567,84 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169734-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "169734_010_02_851",
+        "create_time": 1733388776826,
+        "episode_in_season": "10",
+        "episode_number": "S7:E10",
+        "external_id": "169734-010-851-1733481000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1733481000,
+        "last_time_machine_update": 1733388776826,
+        "last_update": 1733388776826,
+        "live": false,
+        "paid": "169734.010.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1809,
+        "scheduled_timestamp": 1733481000,
+        "season_id": "12008",
+        "season_name": "Bob's Burgers",
+        "season_number": "7",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1733388776826,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275813052",
+        "show_timestamp": 1733481000,
+        "status": "estimated",
+        "summary": "Gayle's cat, Mr. Business, lands himself a pet agent, Ian Amberson.",
+        "summary_long": "When Gayle's cat, Mr. Business, lands himself a pet agent, Ian Amberson, Bob finds out that Linda may have been helping to fund the cat's career.",
+        "taxonomy_id": "169734-010",
+        "title": "There's No Business Like Mr. Business Business",
+        "title_id": "2132978",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169734-010",
+        "upid_type": 12
     }
 ]
