@@ -3377,5 +3377,112 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC218419-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "273044_000_03_851",
+        "create_time": 1733609407473,
+        "episode_in_season": "0",
+        "external_id": "273044-000-851-1733695200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Lord of the Rings, The",
+        "genres": [
+            "Animated Movies",
+            "Fantasy & Sci-Fi",
+            "Kids & Family",
+            "Magic"
+        ],
+        "guide_timestamp": 1733695200,
+        "last_time_machine_update": 1733609407473,
+        "last_update": 1733609407473,
+        "live": false,
+        "mpaa_rating": "PG",
+        "paid": "273044.000.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Ralph Bakshi",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Saul Zaentz",
+                "role": "producer"
+            },
+            {
+                "character": "Frodo Baggins",
+                "name": "Christopher Guard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gandalf Stormcrow",
+                "name": "William Squire",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Aragorn",
+                "name": "John Hurt",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Samwise Gamgee",
+                "name": "Michael Sholes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pippin",
+                "name": "Dominic Guard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Legolas",
+                "name": "Anthony Daniels",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Peter S. Beagle",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Chris Conkling",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "J.R.R. Tolkien",
+                "role": "based-on-the-book-by"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1978,
+        "runtime_minutes": 180,
+        "scheduled_duration": 10804,
+        "scheduled_timestamp": 1733695200,
+        "season_number": "1",
+        "serial": 1733609407473,
+        "series_id": "117995",
+        "series_name": "The Lord of the Rings",
+        "series_summary": "Frodo the Hobbit joins a group of adventurers to destroy the one true ring.",
+        "series_summary_long": "From director Ralph Bakshi comes an ambitious animated version of the classic Tolkien tale about the Fellowship of the Ring embarking on a journey to destroy the One Ring and end the evil Sauron's reign over Middle Earth.",
+        "show_duration": 10800,
+        "show_id": "275824880",
+        "show_timestamp": 1733695200,
+        "status": "estimated",
+        "summary": "Frodo the Hobbit joins a group of adventurers to destroy the one true ring.",
+        "summary_long": "From director Ralph Bakshi comes an ambitious animated version of the classic Tolkien tale about the Fellowship of the Ring embarking on a journey to destroy the One Ring and end the evil Sauron's reign over Middle Earth.",
+        "taxonomy_id": "273044-000",
+        "title": "The Lord of the Rings",
+        "title_id": "81828",
+        "tv_rating": "TV-PG",
+        "upid": "DISC273044-000",
+        "upid_type": 12
     }
 ]
