@@ -1139,5 +1139,85 @@
         "tv_rating": "TV-PG",
         "upid": "DISC166124-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "166124_007_02_851",
+        "create_time": 1733734103564,
+        "episode_in_season": "7",
+        "episode_number": "S8:E07",
+        "external_id": "166124-007-851-1733826600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1733826600,
+        "last_time_machine_update": 1733734103564,
+        "last_update": 1733734103564,
+        "live": false,
+        "paid": "166124.007.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1733826600,
+        "season_id": "12616",
+        "season_name": "Bob's Burgers",
+        "season_number": "8",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1733734103564,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275829436",
+        "show_timestamp": 1733826600,
+        "status": "estimated",
+        "summary": "Linda\u2019s prized ornaments go missing during a holiday party.",
+        "summary_long": "After Linda\u2019s prized ornaments go missing during a holiday party at the restaurant, Linda suspects one of the attendees as the thief. However, the kids have their own theory: attributing the robbery to the anti-Santa \u2013 \"The Bleaken.\"",
+        "taxonomy_id": "166124-007",
+        "title": "The Bleakening Part 2",
+        "title_id": "2171438",
+        "tv_rating": "TV-PG",
+        "upid": "DISC166124-007",
+        "upid_type": 12
     }
 ]
