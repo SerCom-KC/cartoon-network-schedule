@@ -4677,5 +4677,66 @@
         "tv_rating": "TV-PG",
         "upid": "DISC229461-049",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "234516_010_02_851",
+        "create_time": 1734022914579,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "234516-010-851-1734116400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Adventure Time",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1734116400,
+        "last_time_machine_update": 1734022914579,
+        "last_update": 1734022914579,
+        "live": false,
+        "paid": "234516.010.02.851",
+        "participants": [
+            {
+                "character": "Finn",
+                "name": "Jeremy Shada",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jake",
+                "name": "John DiMaggio",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1734116400,
+        "season_id": "4937",
+        "season_name": "Adventure Time (Season 3) (Combined)",
+        "season_number": "3",
+        "serial": 1734022914579,
+        "series_id": "757073",
+        "series_name": "Adventure Time",
+        "series_summary": "Unlikely heroes Finn and Jake traverse the mystical Land of Ooo.",
+        "series_summary_long": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
+        "show_duration": 1800,
+        "show_id": "275845430",
+        "show_timestamp": 1734116400,
+        "status": "estimated",
+        "summary": "Finn and Jake continue to explore the world of old Christmas specials while the Ice King fumes.",
+        "summary_long": "Finn and Jake continue to explore the world of old Christmas specials while the Ice King fumes.",
+        "taxonomy_id": "234516-010",
+        "title": "Holly Jolly Secrets",
+        "title_id": "842869",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234516-010",
+        "upid_type": 12
     }
 ]
