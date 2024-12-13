@@ -3110,5 +3110,92 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC250750-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "226503_015_03_851",
+        "create_time": 1734109264874,
+        "episode_in_season": "15",
+        "episode_number": "S5:E15",
+        "external_id": "226503-015-851-1734202800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Flintstones, The",
+        "genres": [
+            "Classic Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1734202800,
+        "last_time_machine_update": 1734109264874,
+        "last_update": 1734109264874,
+        "live": false,
+        "paid": "226503.015.03.851",
+        "participants": [
+            {
+                "character": "Fred Flintstone",
+                "name": "Alan Reed",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Barney Rubble",
+                "name": "Mel Blanc",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Wilma Flintstone",
+                "name": "Jean Vander Pyl",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Betty Rubble",
+                "name": "Bea Benaderet",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bamm-Bamm Rubble",
+                "name": "Don Messick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1964,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1734202800,
+        "season_id": "92",
+        "season_name": "The Flintstones",
+        "season_number": "5",
+        "season_summary": "Join the fun in Bedrock with this fabulous modern Stone-Age family.",
+        "season_summary_long": "The Flintstones were the modern Stone Age family. Residing in Bedrock, Fred Flintstone works an unsatisfying quarry job but returns home to lovely wife Wilma and daughter Pebbles.",
+        "serial": 1734109264874,
+        "series_id": "100120",
+        "series_name": "The Flintstones",
+        "series_summary": "Join the fun in Bedrock with this fabulous modern Stone-Age family.",
+        "series_summary_long": "The Flintstones were the modern Stone Age family. Residing in Bedrock, Fred Flintstone works an unsatisfying quarry job but returns home to lovely wife Wilma and daughter Pebbles.",
+        "show_duration": 1800,
+        "show_id": "275849486",
+        "show_timestamp": 1734202800,
+        "status": "estimated",
+        "summary": "Fred takes a seasonal job as a department store Santa Claus.",
+        "summary_long": "Fred Flintstone takes a job as a department store Santa Claus. When the real Santa falls ill, he asks Fred for a favor.",
+        "taxonomy_id": "226503-015",
+        "title": "Christmas Flintstone",
+        "title_id": "123298",
+        "tv_rating": "TV-G",
+        "upid": "DISC226503-015",
+        "upid_type": 12
     }
 ]
