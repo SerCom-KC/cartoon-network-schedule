@@ -3197,5 +3197,107 @@
         "tv_rating": "TV-G",
         "upid": "DISC226503-015",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "251057_000_01_851",
+        "create_time": 1734111297794,
+        "episode_in_season": "0",
+        "external_id": "251057-000-851-1734204600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Flintstone Christmas, A",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1734204600,
+        "last_time_machine_update": 1734111297794,
+        "last_update": 1734111297794,
+        "live": false,
+        "paid": "251057.000.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Charles August Nichols",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sid Marcus",
+                "role": "director"
+            },
+            {
+                "character": "Fred Flintstone",
+                "name": "Henry Corden",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Barney Rubble",
+                "name": "Mel Blanc",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Santa Claus",
+                "name": "Hal Smith",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Wilma Flintstone",
+                "name": "Jean Vander Pyl",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Betty Rubble",
+                "name": "Gay Autterson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "George Slate",
+                "name": "John Stephenson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dino Flintstone",
+                "name": "Mel Blanc",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Duane Poole",
+                "role": "screenplay"
+            },
+            {
+                "character": "",
+                "name": "Dick Robbins",
+                "role": "screenplay"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 1977,
+        "runtime_minutes": 90,
+        "scheduled_duration": 3600,
+        "scheduled_timestamp": 1734204600,
+        "serial": 1734111297794,
+        "series_id": "107492",
+        "series_name": "A Flintstone Christmas",
+        "series_summary": "Fred and Barney must save Christmas by taking an injured Santa's place.",
+        "series_summary_long": "When Santa Claus sprains his ankle while delivering presents in Bedrock, Fred Flintstone and Barney must save Christmas by taking Santa's place. The only problem is that Fred promised Mr. Slate that he would play Santa at the children's holiday party!",
+        "show_duration": 5400,
+        "show_id": "275849496",
+        "show_timestamp": 1734204600,
+        "status": "estimated",
+        "summary": "Fred and Barney must save Christmas by taking an injured Santa's place.",
+        "summary_long": "When Santa Claus sprains his ankle while delivering presents in Bedrock, Fred Flintstone and Barney must save Christmas by taking Santa's place. The only problem is that Fred promised Mr. Slate that he would play Santa at the children's holiday party!",
+        "taxonomy_id": "251057-000",
+        "title": "A Flintstone Christmas",
+        "title_id": "307312",
+        "tv_rating": "TV-G",
+        "upid": "DISC251057-000",
+        "upid_type": 12
     }
 ]
