@@ -840,5 +840,219 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250876-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "239131_007_03_851",
+        "create_time": 1734158407775,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "239131-007-851-1734249600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty: The Anime (English Language Version)",
+        "genres": [
+            "Adult Animation",
+            "Anime",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1734249600,
+        "last_time_machine_update": 1734158407775,
+        "last_update": 1734158407775,
+        "live": false,
+        "paid": "239131.007.03.851",
+        "participants": [
+            {
+                "character": "Rick/Jerry",
+                "name": "Joe Daniels",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Morty",
+                "name": "Gabriel Regojo",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Elle",
+                "name": "Luci Christian",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Summer",
+                "name": "Donna Bella Litton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth",
+                "name": "Patricia Duran",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Jason DeMarco",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Joseph Chou",
+                "role": "executive-producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1817,
+        "scheduled_timestamp": 1734249600,
+        "season_id": "27325",
+        "season_name": "Rick and Morty: The Anime",
+        "season_number": "1",
+        "season_summary": "It's life mostly as usual for\u00a0the\u00a0Smith family, and\u00a0they're all an\u00a0anime.",
+        "season_summary_long": "It's life mostly as usual for\u00a0the\u00a0Smith family.\u00a0Rick\u00a0relaxes in a pseudo-world between multiverses, Summer helps Space Beth fight\u00a0the\u00a0evil Galactic Federation,\u00a0and\u00a0Morty\u00a0falls in love with a mysterious girl.\u00a0And\u00a0they're all an\u00a0anime.",
+        "serial": 1734158407774,
+        "series_id": "2424733",
+        "series_name": "Rick and Morty: The Anime",
+        "series_summary": "It's life mostly as usual for\u00a0the\u00a0Smith family, and\u00a0they're all an\u00a0anime.",
+        "series_summary_long": "It's life mostly as usual for\u00a0the\u00a0Smith family.\u00a0Rick\u00a0relaxes in a pseudo-world between multiverses, Summer helps Space Beth fight\u00a0the\u00a0evil Galactic Federation,\u00a0and\u00a0Morty\u00a0falls in love with a mysterious girl.\u00a0And\u00a0they're all an\u00a0anime.",
+        "show_duration": 1800,
+        "show_id": "275849716",
+        "show_timestamp": 1734249600,
+        "status": "estimated",
+        "summary": "When a Morty goes down, a Rick takes action. Nothing bad could happen.",
+        "summary_long": "When a Morty goes down, a Rick takes action. Nothing bad could happen to the universe, right?",
+        "taxonomy_id": "239131-007",
+        "title": "(Dub) When We Meet in Our Dreams",
+        "title_id": "2424740",
+        "tv_rating": "TV-14",
+        "upid": "DISC239131-007",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "229427_005_03_851",
+        "create_time": 1734158407776,
+        "episode_in_season": "5",
+        "episode_number": "S2:E05",
+        "external_id": "229427-005-851-1734251400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Venture Bros., The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1734251400,
+        "last_time_machine_update": 1734158407776,
+        "last_update": 1734158407776,
+        "live": false,
+        "paid": "229427.005.03.851",
+        "participants": [
+            {
+                "character": "Thaddeus Venture",
+                "name": "James Urbaniak",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hank Venture",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Professor Impossible",
+                "name": "Colbert Stephen",
+                "role": "actor"
+            },
+            {
+                "character": "Hank Venture / The Monarch",
+                "name": "Christopher McCulloch",
+                "role": "actor"
+            },
+            {
+                "character": "Dr. Venture",
+                "name": "James Urbaniak",
+                "role": "actor"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "actor"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "actor"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Steven S.H. Yoon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Rachel Simon",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1734251400,
+        "season_id": "969",
+        "season_name": "The Venture Bros.",
+        "season_number": "2",
+        "season_summary": "A scientist, his dim-witted children and their guard battle enemies.",
+        "season_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "serial": 1734158407774,
+        "series_id": "439722",
+        "series_name": "The Venture Bros.",
+        "series_summary": "A scientist, his dim-witted children and security guard battle enemies.",
+        "series_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "show_duration": 1800,
+        "show_id": "275849726",
+        "show_timestamp": 1734251400,
+        "status": "estimated",
+        "summary": "Team Venture is on a global hunt for pieces of a fantastic machine.",
+        "summary_long": "Brock's discovery of a videotape from Jonas Venture Sr. sets Team Venture on a global hunt for pieces of a fantastic and potentially deadly machine.",
+        "taxonomy_id": "229427-005",
+        "title": "Twenty Years to Midnight",
+        "title_id": "639417",
+        "tv_rating": "TV-14",
+        "upid": "DISC229427-005",
+        "upid_type": 12
     }
 ]
