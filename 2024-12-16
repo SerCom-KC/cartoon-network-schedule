@@ -5162,5 +5162,145 @@
         "tv_rating": "TV-PG",
         "upid": "DISC233071-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169734_007_02_851",
+        "create_time": 1734306529502,
+        "episode_in_season": "7",
+        "episode_number": "S7:E07",
+        "external_id": "169734-007-851-1734397200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1734397200,
+        "last_time_machine_update": 1734306529502,
+        "last_update": 1734306529502,
+        "live": false,
+        "paid": "169734.007.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1734397200,
+        "season_id": "12008",
+        "season_name": "Bob's Burgers",
+        "season_number": "7",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1734306529502,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "352572958",
+        "show_timestamp": 1734397200,
+        "status": "estimated",
+        "summary": "Bob gets an unexpected call from Mr. Fischoeder.",
+        "summary_long": "As the Belchers prepare for Christmas, Bob gets an unexpected call from Mr. Fischoeder asking him to bring food to a party at his home. Bob delivers the food and soon becomes embroiled in an intense gingerbread house building competition.",
+        "taxonomy_id": "169734-007",
+        "title": "The Last Gingerbread House on the Left",
+        "title_id": "2132993",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169734-007",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "250263_010_02_851",
+        "create_time": 1734306529503,
+        "dvs": true,
+        "episode_in_season": "10",
+        "episode_number": "S9:E10",
+        "external_id": "250263-010-851-1734399000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1734399000,
+        "last_time_machine_update": 1734306529503,
+        "last_update": 1734306529503,
+        "live": false,
+        "paid": "250263.010.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1734399000,
+        "season_id": "27919",
+        "season_name": "Bob's Burgers (Season 9)",
+        "season_number": "9",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1734306529502,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275857828",
+        "show_timestamp": 1734399000,
+        "status": "estimated",
+        "summary": "It's all fun and games until the Belchers lose their sledding turf.",
+        "summary_long": "The battle is on when some angsty teenagers take over Louise, Gene and Tina's usual sledding territory, inciting an epic turf war. Meanwhile, Bob steps in to help Linda, who's in a time crunch to get three scarves knitted before Christmas.",
+        "taxonomy_id": "250263-010",
+        "title": "Better Off Sled",
+        "title_id": "2438926",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250263-010",
+        "upid_type": 12
     }
 ]
