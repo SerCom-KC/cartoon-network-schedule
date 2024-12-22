@@ -322,5 +322,79 @@
         "tv_rating": "TV-14",
         "upid": "DISC251795-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "233068_001_01_851",
+        "create_time": 1734849394853,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "233068-001-851-1734942600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Joe Pera Helps You Find The Perfect Christmas Tree",
+        "genres": [
+            "Comedy",
+            "Holiday"
+        ],
+        "guide_timestamp": 1734942600,
+        "last_time_machine_update": 1734849394853,
+        "last_update": 1734849394853,
+        "live": false,
+        "paid": "233068.001.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Joe Pera",
+                "role": "host"
+            },
+            {
+                "character": "",
+                "name": "Marty Schousboe",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Dan Licata",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Joe Pera",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1734942600,
+        "season_id": "10575",
+        "season_name": "Joe Pera Helps You Find The Perfect Christmas Tree",
+        "season_number": "1",
+        "season_summary": "Joe Pera shares how to choose the perfect Christmas tree for you.",
+        "season_summary_long": "Joe Pera provides the information necessary to choose the perfect Christmas tree for you. Species covered will include the Fraser Fir, Balsam Fir, Douglas Fir, White Spruce, Blue Spruce, Grand Fir, Noble Fir, Scotch Pine and Concolor Fir.",
+        "serial": 1734849394853,
+        "series_id": "2106835",
+        "series_name": "Joe Pera Helps You Find The Perfect Christmas Tree",
+        "series_summary": "Joe Pera shares how to choose the perfect Christmas tree for you.",
+        "series_summary_long": "Joe Pera provides the information necessary to choose the perfect Christmas tree for you. Species covered will include the Fraser Fir, Balsam Fir, Douglas Fir, White Spruce, Blue Spruce, Grand Fir, Noble Fir, Scotch Pine and Concolor Fir.",
+        "show_duration": 1800,
+        "show_id": "275882374",
+        "show_timestamp": 1734942600,
+        "status": "estimated",
+        "summary": "Joe Pera shares how to choose the perfect Christmas tree for you.",
+        "summary_long": "Joe Pera provides the information necessary to choose the perfect Christmas tree for you. Species covered will include the Fraser Fir, Balsam Fir, Douglas Fir, White Spruce, Blue Spruce, Grand Fir, Noble Fir, Scotch Pine and Concolor Fir.",
+        "taxonomy_id": "233068-001",
+        "title": "Joe Pera Helps You Find the Perfect Christmas Tree",
+        "title_id": "2106836",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233068-001",
+        "upid_type": 12
     }
 ]
