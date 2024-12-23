@@ -2731,5 +2731,124 @@
         "tv_rating": "TV-PG",
         "upid": "DISC235002-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "243968_000_01_851",
+        "create_time": 1734961059766,
+        "episode_in_season": "0",
+        "external_id": "243968-000-851-1735054200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom & Jerry: Santa's Little Helpers",
+        "genres": [
+            "Animated Movies",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1735054200,
+        "last_time_machine_update": 1734961059766,
+        "last_update": 1734961059766,
+        "live": false,
+        "paid": "243968.000.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Darrell Van Citters",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Jim Praytor",
+                "role": "written-by"
+            },
+            {
+                "character": "",
+                "name": "Robert Zappia",
+                "role": "written-by"
+            },
+            {
+                "character": "Cindy",
+                "name": "Nickie Bryar",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Santa Claus",
+                "name": "Mark Hamill",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Mrs. Claus",
+                "name": "Edie McClurg",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tuffy Mouse",
+                "name": "Kath Soucie",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tom Cat",
+                "name": "Rick Zieff",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Tom Kenny",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Ashley Postlewaite",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Darrell Van Citters",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Jim Praytor",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Robert Zappia",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1735054200,
+        "serial": 1734961059766,
+        "series_id": "101142",
+        "series_name": "Tom & Jerry: Santa's Little Helpers",
+        "series_summary": "Jerry brings mayhem to the North Pole after being invited by Santa Claus.",
+        "series_summary_long": "Jerry and Tuffy are living the good life in Santa's workshop until the day Tom is rescued by the Claus family! With Tom in the house, there's nothing but mayhem at the North Pole.",
+        "show_duration": 1800,
+        "show_id": "275890336",
+        "show_timestamp": 1735054200,
+        "status": "estimated",
+        "summary": "Jerry brings mayhem to the North Pole after being invited by Santa Claus.",
+        "summary_long": "Jerry and Tuffy are living the good life in Santa's workshop until the day Tom is rescued by the Claus family! With Tom in the house, there's nothing but mayhem at the North Pole.",
+        "taxonomy_id": "243968-000",
+        "title": "Tom & Jerry: Santa's Little Helpers",
+        "title_id": "2031815",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC243968-000",
+        "upid_type": 12
     }
 ]
