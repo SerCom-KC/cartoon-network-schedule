@@ -277,5 +277,97 @@
         "tv_rating": "TV-MA",
         "upid": "DISC250996-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232831_006_05_851",
+        "create_time": 1734928321868,
+        "episode_in_season": "6",
+        "episode_number": "S10:E06",
+        "external_id": "232831-006-851-1735021800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy",
+            "Holiday"
+        ],
+        "guide_timestamp": 1735021800,
+        "last_time_machine_update": 1734928321868,
+        "last_update": 1734928321868,
+        "live": false,
+        "paid": "232831.006.05.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1735021800,
+        "season_id": "7408",
+        "season_name": "American Dad",
+        "season_number": "10",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1734928321868,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275886610",
+        "show_timestamp": 1735021800,
+        "status": "estimated",
+        "summary": "Stan wishes he could have Principal Lewis' carefree, single life.",
+        "summary_long": "When Stan wishes he could have Principal Lewis\u2019 carefree, single life, his wish comes true! Meanwhile, in his wish world, Principal Lewis has Stan\u2019s family.",
+        "taxonomy_id": "232831-006",
+        "title": "Dreaming of a White Porsche Christmas",
+        "title_id": "2019423",
+        "tv_rating": "TV-14",
+        "upid": "DISC232831-006",
+        "upid_type": 12
     }
 ]
