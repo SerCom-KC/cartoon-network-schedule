@@ -369,5 +369,95 @@
         "tv_rating": "TV-14",
         "upid": "DISC232831-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232834_007_04_851",
+        "create_time": 1734931420275,
+        "dvs": true,
+        "episode_in_season": "7",
+        "episode_number": "S12:E07",
+        "external_id": "232834-007-851-1735023600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1735023600,
+        "last_time_machine_update": 1734931420275,
+        "last_update": 1734931420275,
+        "live": false,
+        "paid": "232834.007.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1735023600,
+        "season_id": "9750",
+        "season_name": "American Dad",
+        "season_number": "12",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1734931420274,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "352576059",
+        "show_timestamp": 1735023600,
+        "status": "estimated",
+        "summary": "The Smiths rescue Steve after he is kidnapped and taken to the North Pole.",
+        "summary_long": "The Smith family must rescue Steve after he is kidnapped and taken to the North Pole. There, Santa Claus is using children to mine for precious stones that he needs to perform an ancient ritual.",
+        "taxonomy_id": "232834-007",
+        "title": "Ninety North, Zero West",
+        "title_id": "2069538",
+        "tv_rating": "TV-14",
+        "upid": "DISC232834-007",
+        "upid_type": 12
     }
 ]
