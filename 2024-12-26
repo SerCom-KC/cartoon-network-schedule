@@ -828,5 +828,91 @@
         "tv_rating": "TV-PG",
         "upid": "DISC229019-017",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "229019_018_02_851",
+        "create_time": 1735125498553,
+        "episode_in_season": "18",
+        "episode_number": "S6:E18",
+        "external_id": "229019-018-851-1735211520",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Kids & Family",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1735211400,
+        "last_time_machine_update": 1735125498553,
+        "last_update": 1735125498553,
+        "live": false,
+        "paid": "229019.018.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 15,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1735211520,
+        "season_id": "9091",
+        "season_name": "Regular Show",
+        "season_number": "6",
+        "season_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1735125498553,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "show_duration": 900,
+        "show_id": "275898388",
+        "show_timestamp": 1735211520,
+        "status": "estimated",
+        "summary": "Benson wants to feel better about himself.",
+        "summary_long": "Benson wants to feel better about himself.",
+        "taxonomy_id": "229019-018",
+        "title": "Benson's Suit",
+        "title_id": "2043700",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229019-018",
+        "upid_type": 12
     }
 ]
