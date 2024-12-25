@@ -3256,5 +3256,113 @@
         "tv_rating": "TV-G",
         "upid": "DISC241733-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229075_003_03_851",
+        "create_time": 1735141116862,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": "229075-003-851-1735234200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1735234200,
+        "last_time_machine_update": 1735141116862,
+        "last_update": 1735141116862,
+        "live": false,
+        "paid": "229075.003.03.851",
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "voice-actor"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Eddy Houchins",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Martin Ansolabehere",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Stu Livingston",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Ben Levin",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Matt Burnett",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Matt Burnett",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Ben Levin",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1735234200,
+        "season_id": "13923",
+        "season_name": "Craig of the Creek",
+        "season_number": "2",
+        "season_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "season_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "serial": 1735141116862,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "series_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "series_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "show_duration": 900,
+        "show_id": "275898608",
+        "show_timestamp": 1735234200,
+        "status": "estimated",
+        "summary": "The Honeysuckle Rangers try to steal Craig's most prized possession.",
+        "summary_long": "Craig discovers that the Honeysuckle Rangers have snuck into his side of the Creek to steal his most prized possession.",
+        "taxonomy_id": "229075-003",
+        "title": "Return of the Honeysuckle Rangers",
+        "title_id": "2178246",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC229075-003",
+        "upid_type": 12
     }
 ]
