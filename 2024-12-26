@@ -684,5 +684,65 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250263-020",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250263_021_02_851",
+        "create_time": 1735116585885,
+        "dvs": true,
+        "episode_in_season": "21",
+        "episode_number": "S9:E21",
+        "external_id": "250263-021-851-1735209000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1735209000,
+        "last_time_machine_update": 1735116585885,
+        "last_update": 1735116585885,
+        "live": false,
+        "paid": "250263.021.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1735209000,
+        "season_id": "27919",
+        "season_name": "Bob's Burgers (Season 9)",
+        "season_number": "9",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1735116585885,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275894822",
+        "show_timestamp": 1735209000,
+        "status": "estimated",
+        "summary": "Linda joins the P.T.A.",
+        "summary_long": "Linda attempts to become more involved with the P.T.A., inspired by its seemingly perfect president, Joanne. Meanwhile, Bob tries to cheer up a hardware store owner after unknowingly making a joke about his pet parrot that recently flew away.",
+        "taxonomy_id": "250263-021",
+        "title": "PTA It Ain't So",
+        "title_id": "2438937",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250263-021",
+        "upid_type": 12
     }
 ]
