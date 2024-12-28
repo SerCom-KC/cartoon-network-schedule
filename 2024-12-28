@@ -3897,5 +3897,152 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250264-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_012_02_851",
+        "create_time": 1735344520751,
+        "dvs": true,
+        "episode_in_season": "12",
+        "episode_number": "S10:E12",
+        "external_id": "250264-012-851-1735435800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1735435800,
+        "last_time_machine_update": 1735344520751,
+        "last_update": 1735344520751,
+        "live": false,
+        "paid": "250264.012.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1735435800,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1735344520750,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275906940",
+        "show_timestamp": 1735435800,
+        "status": "estimated",
+        "summary": "Tina becomes a mentor.",
+        "summary_long": "Tina goes too far trying to be a perfect mentor. Meanwhile, Bob and Linda test out the gym next door.",
+        "taxonomy_id": "250264-012",
+        "title": "A Fish Called Tina",
+        "title_id": "2438950",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250264-012",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "232850_007_03_851",
+        "create_time": 1735344520752,
+        "episode_in_season": "7",
+        "episode_number": "S16:E07",
+        "external_id": "232850-007-851-1735437600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1735437600,
+        "last_time_machine_update": 1735344520752,
+        "last_update": 1735344520752,
+        "live": false,
+        "paid": "232850.007.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1735437600,
+        "season_id": "16310",
+        "season_name": "American Dad",
+        "season_number": "16",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1735344520750,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275906950",
+        "show_timestamp": 1735437600,
+        "status": "estimated",
+        "summary": "Roger attempts to prove to Francine that he still has \"his edge.\"",
+        "summary_long": "After a series of boring personas, Roger goes to great lengths to prove to Francine he still has \u201chis edge.\"",
+        "taxonomy_id": "232850-007",
+        "title": "Little Bonnie Ramirez",
+        "title_id": "2238754",
+        "tv_rating": "TV-14",
+        "upid": "DISC232850-007",
+        "upid_type": 12
     }
 ]
