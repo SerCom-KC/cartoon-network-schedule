@@ -3153,5 +3153,591 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228418-014",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228418_015_03_851",
+        "create_time": 1735476792610,
+        "episode_in_season": "15",
+        "episode_number": "S2:E15",
+        "external_id": "228418-015-851-1735567920",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1735567800,
+        "last_time_machine_update": 1735476792610,
+        "last_update": 1735476792610,
+        "live": false,
+        "paid": "228418.015.03.851",
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 16,
+        "scheduled_duration": 1001,
+        "scheduled_timestamp": 1735567920,
+        "season_id": "5891",
+        "season_name": "The Amazing World of Gumball",
+        "season_number": "2",
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1735476792609,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "show_duration": 1001,
+        "show_id": "275914902",
+        "show_timestamp": 1735567920,
+        "status": "estimated",
+        "summary": "Santa Claus is coming to town. Unfortunately, he gets run over.",
+        "summary_long": "Santa Claus is coming to town. Unfortunately he gets run over by the Wattersons, so it's up to them to save Christmas.",
+        "taxonomy_id": "228418-015",
+        "title": "Christmas",
+        "title_id": "894324",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228418-015",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235001_004_02_851",
+        "create_time": 1735476792610,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "235001-004-851-1735568880",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1735569000,
+        "last_time_machine_update": 1735476792610,
+        "last_update": 1735476792610,
+        "live": false,
+        "paid": "235001.004.02.851",
+        "participants": [
+            {
+                "character": "Bugs Bunny/Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Speedy Gonzalez",
+                "name": "Fred Armisen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Kristen Wiig",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Russo",
+                "name": "Jennifer Esposito",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Yosemite Sam",
+                "name": "Maurice LaMarche",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Granny",
+                "name": "June Foray",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tasmanian Devil",
+                "name": "Jim Cummings",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Elmer Fudd",
+                "name": "Billy West",
+                "role": "voice-actor"
+            },
+            {
+                "character": "The Witch",
+                "name": "Roz Ryan",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pete Puma",
+                "name": "John Kassir",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Marvin The Martian",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tosh Gopher",
+                "name": "Jess Harnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Mac Gopher",
+                "name": "Rob Paulsen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pepe Le Pew",
+                "name": "Rene Auberjonis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Spike Brandt",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Tony Cervone",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Spike Brandt",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Tony Cervone",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Hugh Davidson",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Larry Dorf",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Rachel Ramras",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Steve Little",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1680,
+        "scheduled_timestamp": 1735568880,
+        "season_id": "5713",
+        "season_name": "The Looney Tunes Show",
+        "season_number": "1",
+        "season_summary": "Roommates Bugs and Daffy live in Los Angeles with their colorful neighbors.",
+        "season_summary_long": "Roommates Bugs and Daffy live in Los Angeles with their colorful neighbors, including Lola Bunny, Tina Russo, Porky Pig, Foghorn Leghorn, Elmer Fudd, Sylvester, Tweety, Granny, Gossamer, Yosemite Sam, Speedy Gonzales, Marvin the Martian and more.",
+        "serial": 1735476792609,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "series_summary": "Roommates Bugs and Daffy live in Los Angeles with their colorful neighbors.",
+        "series_summary_long": "Roommates Bugs and Daffy live in Los Angeles with their colorful neighbors, including Lola Bunny, Tina Russo, Porky Pig, Foghorn Leghorn, Elmer Fudd, Sylvester, Tweety, Granny, Gossamer, Yosemite Sam, Speedy Gonzales, Marvin the Martian and more.",
+        "show_duration": 1800,
+        "show_id": "275914912",
+        "show_timestamp": 1735568880,
+        "status": "estimated",
+        "summary": "Yosemite Sam crashes -- and clashes -- with Bugs and Daffy.",
+        "summary_long": "Bugs and Daffy find that having a neighbor like Yosemite Sam doesn't make you feel very neighborly.",
+        "taxonomy_id": "235001-004",
+        "title": "Fish and Visitors",
+        "title_id": "824657",
+        "tv_rating": "TV-PG",
+        "upid": "DISC235001-004",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "260569_006_01_851",
+        "create_time": 1735477860891,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "260569-006-851-1735570560",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1735570500,
+        "last_time_machine_update": 1735477860891,
+        "last_update": 1735477860891,
+        "live": false,
+        "paid": "260569.006.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Vivek Bolar",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 5,
+        "scheduled_duration": 240,
+        "scheduled_timestamp": 1735570560,
+        "season_id": "28754",
+        "season_name": "Tom and Jerry",
+        "season_number": "1",
+        "season_summary": "Journey into the heart of Singapore with Tom and Jerry.",
+        "season_summary_long": "Journey into the heart of Singapore with Tom and Jerry as they weave through the labyrinth of towering estates and skyscrapers and bask in the vibrant green of the urban jungle.",
+        "serial": 1735477860891,
+        "series_id": "2467145",
+        "series_name": "Tom and Jerry",
+        "series_summary": "Journey into the heart of Singapore with Tom and Jerry.",
+        "series_summary_long": "Journey into the heart of Singapore with Tom and Jerry as they weave through the labyrinth of towering estates and skyscrapers and bask in the vibrant green of the urban jungle.",
+        "show_duration": 300,
+        "show_id": "275914922",
+        "show_timestamp": 1735570560,
+        "status": "estimated",
+        "summary": "Tom and Jerry fight to cool down in a hot day at the beach.",
+        "summary_long": "It's another hot and humid day in Singapore. Cool down with Tom and Jerry by the beach as they chase each other into a frenzy for an icy delight \u2013 Ice Kachang!",
+        "taxonomy_id": "260569-006",
+        "title": "Ice Ice Paradise",
+        "title_id": "2467151",
+        "tv_rating": "TV-G",
+        "upid": "DISC260569-006",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "233126_061_01_851",
+        "create_time": 1735477862784,
+        "episode_in_season": "61",
+        "episode_number": "S2:E61",
+        "external_id": "233126-061-851-1735570800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Show, The",
+        "genres": [
+            "Classic Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1735570800,
+        "last_time_machine_update": 1735477862784,
+        "last_update": 1735477862784,
+        "live": false,
+        "paid": "233126.061.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Darrell Van Citters",
+                "role": "director"
+            },
+            {
+                "character": "Rick",
+                "name": "Stephen Stanton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Spike",
+                "name": "Rick Zieff",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beatie",
+                "name": "Cree Summer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tuffy",
+                "name": "Kath Soucie",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hildie",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Newt",
+                "name": "Rene Mujica",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Toodles",
+                "name": "Alicyn Packard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Butch",
+                "name": "Joey D'Auria",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Little Quacker",
+                "name": "Sam Kwasman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Ginger",
+                "name": "Grey DeLisle Griffin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Ashley Postlewaite",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Darrell Van Citters",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Jim Praytor",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Robert Zappia",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 10,
+        "scheduled_duration": 615,
+        "scheduled_timestamp": 1735570800,
+        "season_id": "9237",
+        "season_name": "The Tom and Jerry Show",
+        "season_number": "2",
+        "season_summary": "Follow Tom and Jerry as they explore fantastic new places.",
+        "season_summary_long": "The cat and mouse rivals are back and up to their old antics in a new setting that puts a fresh spin on the classic series. Follow Tom and Jerry as they explore fantastic new places.",
+        "serial": 1735477862783,
+        "series_id": "2011437",
+        "series_name": "The Tom and Jerry Show",
+        "series_summary": "The cat and mouse rivals are up to their old antics in a new setting.",
+        "series_summary_long": "The cat and mouse rivals are back and up to their old antics in a new setting that puts a fresh spin on the classic series. Follow Tom and Jerry as they explore fantastic new places.",
+        "show_duration": 615,
+        "show_id": "275914932",
+        "show_timestamp": 1735570800,
+        "status": "estimated",
+        "summary": "Tom will do anything Jerry tells him in order to regrow his hair.",
+        "summary_long": "Tom's being unusually difficult when he's rocked by an epiphany -- he's losing his hair! Paranoid he's going to become a hairless cat, Tom will do anything Jerry tells him to do in order to regrow it.",
+        "taxonomy_id": "233126-061",
+        "title": "Hair Today, Gone Tomorrow",
+        "title_id": "2079083",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233126-061",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "233126_062_01_851",
+        "create_time": 1735477862784,
+        "episode_in_season": "62",
+        "episode_number": "S2:E62",
+        "external_id": "233126-062-851-1735571400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Show, The",
+        "genres": [
+            "Classic Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1735571400,
+        "last_time_machine_update": 1735477862784,
+        "last_update": 1735477862784,
+        "live": false,
+        "paid": "233126.062.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Darrell Van Citters",
+                "role": "director"
+            },
+            {
+                "character": "Rick",
+                "name": "Stephen Stanton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Spike",
+                "name": "Rick Zieff",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beatie",
+                "name": "Cree Summer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tuffy",
+                "name": "Kath Soucie",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hildie",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Newt",
+                "name": "Rene Mujica",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Toodles",
+                "name": "Alicyn Packard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Butch",
+                "name": "Joey D'Auria",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Little Quacker",
+                "name": "Sam Kwasman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Ginger",
+                "name": "Grey DeLisle Griffin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Ashley Postlewaite",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Darrell Van Citters",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Jim Praytor",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Robert Zappia",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2018,
+        "runtime_minutes": 10,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1735571400,
+        "season_id": "9237",
+        "season_name": "The Tom and Jerry Show",
+        "season_number": "2",
+        "season_summary": "Follow Tom and Jerry as they explore fantastic new places.",
+        "season_summary_long": "The cat and mouse rivals are back and up to their old antics in a new setting that puts a fresh spin on the classic series. Follow Tom and Jerry as they explore fantastic new places.",
+        "serial": 1735477862783,
+        "series_id": "2011437",
+        "series_name": "The Tom and Jerry Show",
+        "series_summary": "The cat and mouse rivals are up to their old antics in a new setting.",
+        "series_summary_long": "The cat and mouse rivals are back and up to their old antics in a new setting that puts a fresh spin on the classic series. Follow Tom and Jerry as they explore fantastic new places.",
+        "show_duration": 600,
+        "show_id": "275914942",
+        "show_timestamp": 1735571400,
+        "status": "estimated",
+        "summary": "Tom's hit by a trolley while he and Jerry are investigating a case.",
+        "summary_long": "When Tom's hit by a trolley while he and Jerry are investigating their latest case, he's sent to recover at the local animal hospital. Tom begins to suspect the answer to the case they're working on is right under his broken nose.",
+        "taxonomy_id": "233126-062",
+        "title": "Missing in Traction",
+        "title_id": "2079078",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233126-062",
+        "upid_type": 12
     }
 ]
