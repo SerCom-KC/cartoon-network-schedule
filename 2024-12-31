@@ -1140,5 +1140,145 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251900-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "229334_004_02_851",
+        "create_time": 1735545520283,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "229334-004-851-1735637400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Delocated",
+        "genres": [
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1735637400,
+        "last_time_machine_update": 1735545520283,
+        "last_update": 1735545520283,
+        "live": false,
+        "paid": "229334.004.02.851",
+        "participants": [
+            {
+                "character": "Jon",
+                "name": "Jon Glaser",
+                "role": "actor"
+            },
+            {
+                "character": "Susan",
+                "name": "Nadia Dajani",
+                "role": "actor"
+            },
+            {
+                "character": "David",
+                "name": "Jacob Kogan",
+                "role": "actor"
+            },
+            {
+                "character": "Yvgeny Mirminsky",
+                "name": "Eugene Mirman",
+                "role": "actor"
+            },
+            {
+                "character": "Sergei Mirminsky",
+                "name": "Steve Cirbus",
+                "role": "actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1809,
+        "scheduled_timestamp": 1735637400,
+        "season_id": "2358",
+        "season_name": "Delocated",
+        "season_number": "3",
+        "season_summary": "A family in the witness protection program is given their own reality show.",
+        "season_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "serial": 1735545520283,
+        "series_id": "680051",
+        "series_name": "Delocated",
+        "series_summary": "A family in the witness protection program is given their own reality show.",
+        "series_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "show_duration": 1800,
+        "show_id": "352578683",
+        "show_timestamp": 1735637400,
+        "status": "estimated",
+        "summary": "\"Jon\" takes David for a weekend in the country. Todd Barry gets engaged.",
+        "summary_long": "\"Jon\" takes David for a weekend in the country. Todd Barry gets engaged.",
+        "taxonomy_id": "229334-004",
+        "title": "Camping",
+        "title_id": "878911",
+        "tv_rating": "TV-14",
+        "upid": "DISC229334-004",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_019_02_851",
+        "create_time": 1735546372859,
+        "dvs": true,
+        "episode_in_season": "19",
+        "episode_number": "S10:E19",
+        "external_id": "250264-019-851-1735639200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1735639200,
+        "last_time_machine_update": 1735546372859,
+        "last_update": 1735546372859,
+        "live": false,
+        "paid": "250264.019.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1735639200,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1735546372859,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "352578687",
+        "show_timestamp": 1735639200,
+        "status": "estimated",
+        "summary": "The kids try to cheer Teddy up.",
+        "summary_long": "When Teddy finds himself doubting his abilities as a handyman, the kids build up his confidence.",
+        "taxonomy_id": "250264-019",
+        "title": "The Handyman Can",
+        "title_id": "2438957",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250264-019",
+        "upid_type": 12
     }
 ]
