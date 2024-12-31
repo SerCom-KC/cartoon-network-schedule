@@ -1077,5 +1077,146 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251900-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "229334_005_02_851",
+        "create_time": 1735631902750,
+        "episode_in_season": "5",
+        "episode_number": "S3:E05",
+        "external_id": "229334-005-851-1735723800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Delocated",
+        "genres": [
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1735723800,
+        "last_time_machine_update": 1735631902750,
+        "last_update": 1735631902750,
+        "live": false,
+        "paid": "229334.005.02.851",
+        "participants": [
+            {
+                "character": "Jon",
+                "name": "Jon Glaser",
+                "role": "actor"
+            },
+            {
+                "character": "Susan",
+                "name": "Nadia Dajani",
+                "role": "actor"
+            },
+            {
+                "character": "David",
+                "name": "Jacob Kogan",
+                "role": "actor"
+            },
+            {
+                "character": "Yvgeny Mirminsky",
+                "name": "Eugene Mirman",
+                "role": "actor"
+            },
+            {
+                "character": "Sergei Mirminsky",
+                "name": "Steve Cirbus",
+                "role": "actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1735723800,
+        "season_id": "2358",
+        "season_name": "Delocated",
+        "season_number": "3",
+        "season_summary": "A family in the witness protection program is given their own reality show.",
+        "season_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "serial": 1735631902750,
+        "series_id": "680051",
+        "series_name": "Delocated",
+        "series_summary": "A family in the witness protection program is given their own reality show.",
+        "series_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "show_duration": 1800,
+        "show_id": "275919478",
+        "show_timestamp": 1735723800,
+        "status": "estimated",
+        "summary": "\"Jon\" hires a warm-up comic for his life.",
+        "summary_long": "\"Jon\" hires a warm-up comic for his life. Yvgeny prepares to start his vodka business.",
+        "taxonomy_id": "229334-005",
+        "title": "Warm-Up",
+        "title_id": "878912",
+        "tv_rating": "TV-14",
+        "upid": "DISC229334-005",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_022_02_851",
+        "create_time": 1735632212154,
+        "dvs": true,
+        "episode_in_season": "22",
+        "episode_number": "S10:E22",
+        "external_id": "250264-022-851-1735725600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1735725600,
+        "last_time_machine_update": 1735632212154,
+        "last_update": 1735632212154,
+        "live": false,
+        "paid": "250264.022.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1811,
+        "scheduled_timestamp": 1735725600,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1735632212154,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "353583407",
+        "show_timestamp": 1735725600,
+        "status": "estimated",
+        "summary": "Louise becomes the teacher.",
+        "summary_long": "A classmate comes to Louise for lessons in how to get in trouble. Meanwhile, Bob reluctantly agrees to bring Jimmy Pesto his hernia medication.",
+        "taxonomy_id": "250264-022",
+        "title": "Prank You for Being a Friend",
+        "title_id": "2438960",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250264-022",
+        "upid_type": 12
     }
 ]
