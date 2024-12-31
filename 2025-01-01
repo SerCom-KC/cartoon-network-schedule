@@ -1278,5 +1278,151 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "250474_001_01_851",
+        "create_time": 1735643824774,
+        "episode_in_season": "1",
+        "episode_number": "S6:E01",
+        "external_id": "250474-001-851-1735729200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1735729200,
+        "last_time_machine_update": 1735643824774,
+        "last_update": 1735643824774,
+        "live": false,
+        "paid": "250474.001.01.851",
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "voice-actor"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 12,
+        "scheduled_duration": 725,
+        "scheduled_timestamp": 1735729200,
+        "season_id": "27926",
+        "season_name": "Craig of the Creek",
+        "season_number": "6",
+        "season_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "season_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "serial": 1735643824773,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "series_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "series_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "show_duration": 725,
+        "show_id": "352578698",
+        "show_timestamp": 1735729200,
+        "status": "estimated",
+        "summary": "Craig goes on a sleepover adventure to Kelsey's house.",
+        "summary_long": "The Sleepover Chronicles Part I: Craig goes on a sleepover adventure to Kelsey's house.",
+        "taxonomy_id": "250474-001",
+        "title": "Rise and Shine",
+        "title_id": "2396438",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC250474-001",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250474_005_01_851",
+        "create_time": 1735643824775,
+        "dvs": true,
+        "episode_in_season": "5",
+        "episode_number": "S6:E05",
+        "external_id": "250474-005-851-1735729920",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1735729800,
+        "last_time_machine_update": 1735643824775,
+        "last_update": 1735643824775,
+        "live": false,
+        "paid": "250474.005.01.851",
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "voice-actor"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 16,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1735729920,
+        "season_id": "27926",
+        "season_name": "Craig of the Creek",
+        "season_number": "6",
+        "season_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "season_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "serial": 1735643824773,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "series_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "series_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "show_duration": 960,
+        "show_id": "275922964",
+        "show_timestamp": 1735729920,
+        "status": "estimated",
+        "summary": "Another side of JP is revealed.",
+        "summary_long": "The Sleepover Chronicles Part II: Another side of JP is revealed.",
+        "taxonomy_id": "250474-005",
+        "title": "Sleep Talk JP",
+        "title_id": "2396443",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC250474-005",
+        "upid_type": 12
     }
 ]
