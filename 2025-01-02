@@ -5753,5 +5753,83 @@
         "tv_rating": "TV-14",
         "upid": "DISC271167-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "S"
+        ],
+        "content_id": "271160_022_01_851",
+        "create_time": 1735787289509,
+        "episode_in_season": "22",
+        "episode_number": "S9:E22",
+        "external_id": "271160-022-851-1735878600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1735878600,
+        "last_time_machine_update": 1735787289509,
+        "last_update": 1735787289509,
+        "live": false,
+        "paid": "271160.022.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2010,
+        "runtime_minutes": 60,
+        "scheduled_duration": 3600,
+        "scheduled_timestamp": 1735878600,
+        "season_id": "998",
+        "season_name": "Family Guy",
+        "season_number": "9",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1735787289509,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 3600,
+        "show_id": "275927580",
+        "show_timestamp": 1735878600,
+        "status": "estimated",
+        "summary": "Brian and Stewie adventure to the North Pole to seek out Santa Claus.",
+        "summary_long": "Brian and Stewie take their adventures to the North Pole to seek out Santa Claus.",
+        "taxonomy_id": "271160-022",
+        "title": "Road to the North Pole",
+        "title_id": "826695",
+        "tv_rating": "TV-14",
+        "upid": "DISC271160-022",
+        "upid_type": 12
     }
 ]
