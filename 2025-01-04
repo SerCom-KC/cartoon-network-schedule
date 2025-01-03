@@ -847,5 +847,81 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "218418_011_02_851",
+        "create_time": 1735903653527,
+        "episode_in_season": "11",
+        "episode_number": "S1:E11",
+        "external_id": "218418-011-851-1735988400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Be Cool, Scooby-Doo!",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1735988400,
+        "last_time_machine_update": 1735903653527,
+        "last_update": 1735903653527,
+        "live": false,
+        "paid": "218418.011.02.851",
+        "participants": [
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Kate Micucci",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1735988400,
+        "season_id": "8936",
+        "season_name": "Be Cool, Scooby-Doo!",
+        "season_number": "1",
+        "season_summary": "The Scooby gang is back with a modern comedic twist on the beloved classic.",
+        "season_summary_long": "The Scooby gang is back with a modern comedic twist on the beloved classic. With high school over, Shaggy, Scooby, Velma, Daphne and Fred hit the road in the Mystery Machine. However, havoc-wrecking monsters have a way of finding the gang.",
+        "serial": 1735903653527,
+        "series_id": "2031360",
+        "series_name": "Be Cool, Scooby-Doo!",
+        "series_summary": "The Scooby gang is back with a modern comedic twist on the beloved classic.",
+        "series_summary_long": "The Scooby gang is back with a modern comedic twist on the beloved classic. With high school over, Shaggy, Scooby, Velma, Daphne and Fred hit the road in the Mystery Machine. However, havoc-wrecking monsters have a way of finding the gang.",
+        "show_duration": 1800,
+        "show_id": "275935242",
+        "show_timestamp": 1735988400,
+        "status": "estimated",
+        "summary": "The Gang gets caught up in the mystery of an alien monster.",
+        "summary_long": "Daphne always dreamed of meeting extra terrestrial life, but that dream becomes a nightmare when the gang gets caught up in the mystery of a scary Alien Monster and brought to Area 53, a government facility so secret, it's two numbers higher than Area 51!",
+        "taxonomy_id": "218418-011",
+        "title": "Area 51 Adjacent",
+        "title_id": "2054151",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC218418-011",
+        "upid_type": 12
     }
 ]
