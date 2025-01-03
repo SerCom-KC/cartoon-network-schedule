@@ -1834,5 +1834,70 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC250474-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "221762_001_02_851",
+        "create_time": 1735907868682,
+        "episode_in_season": "1",
+        "episode_number": "S7:E01",
+        "external_id": "221762-001-851-1736001000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Totally Spies Woohp World",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1736001000,
+        "last_time_machine_update": 1735907868682,
+        "last_update": 1735907868682,
+        "live": false,
+        "paid": "221762.001.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Vincent Chalvon-Demersay",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "David Michel",
+                "role": "creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1736001000,
+        "season_id": "31690",
+        "season_name": "Totally Spies Woohp World",
+        "season_number": "7",
+        "season_summary": "New season, new HQ, new villains: Clover, Sam and Alex are TOTALLY back!",
+        "season_summary_long": "This season sees the rise of a new uber-villain named Cyberchac! Soon our spies face various digital attacks as Cyberchac attempts to break into WOOHP World. What does he want? Will the spies ever be able to discover who is behind his mask?!",
+        "serial": 1735907868682,
+        "series_id": "2420187",
+        "series_name": "Totally Spies",
+        "series_summary": "Three young women work as undercover spy agents for the WOOHP.",
+        "series_summary_long": "Three teenage girls from Beverly Hills attempt to balance their lives as students with their undercover work as super-spies for an elite international agency, battling an array of bizarre criminals.",
+        "show_duration": 1800,
+        "show_id": "275935362",
+        "show_timestamp": 1736001000,
+        "status": "estimated",
+        "summary": "A giant panda unleashes frozen terror on the streets of Singapore!",
+        "summary_long": "After a long summer of no action, the Spies think they may have lost their edge as they fumble fighting a giant robot panda unleashing frozen terror on the streets of Singapore. Can they prove they've still got what it takes by powering-down the panda?",
+        "taxonomy_id": "221762-001",
+        "title": "Frankenpanda",
+        "title_id": "2420188",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC221762-001",
+        "upid_type": 12
     }
 ]
