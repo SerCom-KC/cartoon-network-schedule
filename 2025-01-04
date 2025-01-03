@@ -2900,5 +2900,171 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC250474-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "250474_006_01_851",
+        "create_time": 1735921266516,
+        "dvs": true,
+        "episode_in_season": "6",
+        "episode_number": "S6:E06",
+        "external_id": "250474-006-851-1736014500",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Craig of the Creek",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1736014500,
+        "last_time_machine_update": 1735921266516,
+        "last_update": 1735921266516,
+        "live": false,
+        "paid": "250474.006.01.851",
+        "participants": [
+            {
+                "character": "Craig Williams",
+                "name": "Philip Solomon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Georgie Kidder",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kelsey",
+                "name": "Noel Wells",
+                "role": "voice-actor"
+            },
+            {
+                "character": "J.P.",
+                "name": "H. Michael Croner",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1736014500,
+        "season_id": "27926",
+        "season_name": "Craig of the Creek",
+        "season_number": "6",
+        "season_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "season_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "serial": 1735921266516,
+        "series_id": "2132940",
+        "series_name": "Craig of the Creek",
+        "series_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
+        "series_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
+        "show_duration": 900,
+        "show_id": "275935482",
+        "show_timestamp": 1736014500,
+        "status": "estimated",
+        "summary": "Craig and friends compete in a series of cutthroat games to win a prize.",
+        "summary_long": "The Sleepover Chronicles Part VI: Craig and friends compete in a series of cutthroat games to win Eliza's mystery prize.",
+        "taxonomy_id": "250474-006",
+        "title": "The Slumber Party",
+        "title_id": "2396444",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC250474-006",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250750_010_02_851",
+        "create_time": 1735921848137,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "250750-010-851-1736015400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Tales",
+        "genres": [
+            "Classic Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1736015400,
+        "last_time_machine_update": 1735921848137,
+        "last_update": 1735921848137,
+        "live": false,
+        "paid": "250750.010.02.851",
+        "participants": [
+            {
+                "character": "Tom",
+                "name": "Don Brown",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry",
+                "name": "Sam Vincent",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Spike",
+                "name": "Michael Donovan",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Colin Murdock",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Reece Thompson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sander Schwartz",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Don Jurwich",
+                "role": "producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1736015400,
+        "season_id": "7269",
+        "season_name": "Tom and Jerry Tales",
+        "season_number": "2",
+        "season_summary": "Tom and Jerry chase each other in all-new hilarious cartoon shorts.",
+        "season_summary_long": "Tom and Jerry return to basics, chasing each other in an all-new series of hilarious cartoon shorts.",
+        "serial": 1735921848136,
+        "series_id": "627595",
+        "series_name": "Tom and Jerry Tales",
+        "series_summary": "Tom and Jerry chase each other in all-new hilarious cartoon shorts.",
+        "series_summary_long": "Tom and Jerry return to basics, chasing each other in an all-new series of hilarious cartoon shorts.",
+        "show_duration": 1800,
+        "show_id": "275935492",
+        "show_timestamp": 1736015400,
+        "status": "estimated",
+        "summary": "Jerry's figure-skating rink is overrun by hockey enthusiast Tom.",
+        "summary_long": "Jerry's figure-skating rink is overrun by hockey enthusiast Tom. A snowball fight escalates into an all-out snow war. When Tom tries to wrest Jerry from the mouse's cabin, he winds up crashing in the den of a ferocious Abominable Snowmouse.",
+        "taxonomy_id": "250750-010",
+        "title": "Hockey Schtick/Snow Brawl/Snow Mouse",
+        "title_id": "702918",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC250750-010",
+        "upid_type": 12
     }
 ]
