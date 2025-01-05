@@ -3887,5 +3887,176 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-017",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "232851_001_01_851",
+        "create_time": 1736034693660,
+        "episode_in_season": "1",
+        "episode_number": "S17:E01",
+        "external_id": "232851-001-851-1736127000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1736127000,
+        "last_time_machine_update": 1736034693660,
+        "last_update": 1736034693660,
+        "live": false,
+        "paid": "232851.001.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1736127000,
+        "season_id": "24150",
+        "season_name": "American Dad",
+        "season_number": "17",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1736034693660,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275939678",
+        "show_timestamp": 1736127000,
+        "status": "estimated",
+        "summary": "Francine becomes a realtor in Langley's world of high-end real estate.",
+        "summary_long": "Francine becomes a realtor in Langley's world of high-end real estate, while the rest of the family sells coffee from the front yard.",
+        "taxonomy_id": "232851-001",
+        "title": "Langley Dollar Listings",
+        "title_id": "2342087",
+        "tv_rating": "TV-14",
+        "upid": "DISC232851-001",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "255276_009_04_851",
+        "create_time": 1736036638474,
+        "episode_in_season": "9",
+        "episode_number": "S19:E10",
+        "external_id": "255276-009-851-1736128800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1736128800,
+        "last_time_machine_update": 1736036638474,
+        "last_update": 1736036638474,
+        "live": false,
+        "paid": "255276.009.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1736128800,
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1736036638474,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275939688",
+        "show_timestamp": 1736128800,
+        "status": "estimated",
+        "summary": "Jeff gets a job after the family calls him out for being a mooch.",
+        "summary_long": "Jeff gets a job after the family calls him out for being a mooch. When he unexpectedly strikes it rich, Hayley must protect Jeff from the family's greed.",
+        "taxonomy_id": "255276-009",
+        "title": "Idiot Rich",
+        "title_id": "2445752",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-009",
+        "upid_type": 12
     }
 ]
