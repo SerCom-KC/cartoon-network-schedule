@@ -665,5 +665,150 @@
         "tv_rating": "TV-14",
         "upid": "DISC232843-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232843_005_04_851",
+        "create_time": 1736230400856,
+        "episode_in_season": "5",
+        "episode_number": "S3:E05",
+        "external_id": "232843-005-851-1736323200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1736323200,
+        "last_time_machine_update": 1736230400856,
+        "last_update": 1736230400856,
+        "live": false,
+        "paid": "232843.005.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1736323200,
+        "season_id": "1186",
+        "season_name": "American Dad",
+        "season_number": "3",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1736230400855,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275948150",
+        "show_timestamp": 1736323200,
+        "status": "estimated",
+        "summary": "Stan is exposed while playing poker with his friends.",
+        "summary_long": "While playing poker with the guys, Stan is exposed as a virgin, but not in the traditional way - he's never killed anyone. Roger and the guys help Stan bust his killing cherry.",
+        "taxonomy_id": "232843-005",
+        "title": "42-Year-Old Virgin",
+        "title_id": "700738",
+        "tv_rating": "TV-14",
+        "upid": "DISC232843-005",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251794_010_02_851",
+        "create_time": 1736231762512,
+        "episode_in_season": "10",
+        "episode_number": "S5:E10",
+        "external_id": "251794-010-851-1736325000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Space & Beyond"
+        ],
+        "guide_timestamp": 1736325000,
+        "last_time_machine_update": 1736231762512,
+        "last_update": 1736231762512,
+        "live": false,
+        "paid": "251794.010.02.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1736325000,
+        "season_id": "17487",
+        "season_name": "Rick and Morty (Season 5) (Non-Explicit RPK)",
+        "season_number": "5",
+        "serial": 1736231762512,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "275948160",
+        "show_timestamp": 1736325000,
+        "status": "estimated",
+        "summary": "Tryin' something new, broh. Doin' it big.",
+        "summary_long": "Tryin' something new, broh. Doin' it big.",
+        "taxonomy_id": "251794-010",
+        "title": "Rickmurai Jack",
+        "title_id": "2270467",
+        "tv_rating": "TV-14",
+        "upid": "DISC251794-010",
+        "upid_type": 12
     }
 ]
