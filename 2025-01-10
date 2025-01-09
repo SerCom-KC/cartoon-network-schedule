@@ -851,5 +851,146 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251900-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "229334_009_02_851",
+        "create_time": 1736409616196,
+        "episode_in_season": "9",
+        "episode_number": "S3:E09",
+        "external_id": "229334-009-851-1736501400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Delocated",
+        "genres": [
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1736501400,
+        "last_time_machine_update": 1736409616196,
+        "last_update": 1736409616196,
+        "live": false,
+        "paid": "229334.009.02.851",
+        "participants": [
+            {
+                "character": "Jon",
+                "name": "Jon Glaser",
+                "role": "actor"
+            },
+            {
+                "character": "Susan",
+                "name": "Nadia Dajani",
+                "role": "actor"
+            },
+            {
+                "character": "David",
+                "name": "Jacob Kogan",
+                "role": "actor"
+            },
+            {
+                "character": "Yvgeny Mirminsky",
+                "name": "Eugene Mirman",
+                "role": "actor"
+            },
+            {
+                "character": "Sergei Mirminsky",
+                "name": "Steve Cirbus",
+                "role": "actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1809,
+        "scheduled_timestamp": 1736501400,
+        "season_id": "2358",
+        "season_name": "Delocated",
+        "season_number": "3",
+        "season_summary": "A family in the witness protection program is given their own reality show.",
+        "season_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "serial": 1736409616196,
+        "series_id": "680051",
+        "series_name": "Delocated",
+        "series_summary": "A family in the witness protection program is given their own reality show.",
+        "series_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "show_duration": 1800,
+        "show_id": "275956372",
+        "show_timestamp": 1736501400,
+        "status": "estimated",
+        "summary": "\"Jon\" tries to take more control of his life.",
+        "summary_long": "\"Jon\" tries to take more control of his life. War seems imminent between the Mirminsky's and the Wang Cho's.",
+        "taxonomy_id": "229334-009",
+        "title": "Jon Done Gone Nuts",
+        "title_id": "878916",
+        "tv_rating": "TV-14",
+        "upid": "DISC229334-009",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250266_007_02_851",
+        "create_time": 1736409935821,
+        "dvs": true,
+        "episode_in_season": "7",
+        "episode_number": "S12:E07",
+        "external_id": "250266-007-851-1736503200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1736503200,
+        "last_time_machine_update": 1736409935821,
+        "last_update": 1736409935821,
+        "live": false,
+        "paid": "250266.007.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1736503200,
+        "season_id": "27922",
+        "season_name": "Bob's Burgers (Season 12)",
+        "season_number": "12",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1736409935821,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275956382",
+        "show_timestamp": 1736503200,
+        "status": "estimated",
+        "summary": "The Belchers try to build a loft bed.",
+        "summary_long": "Linda and the girls attempt to build a loft bed for Louise in just one day. Meanwhile, Bob and Gene host a group of gamers and their tabletop role-playing game.",
+        "taxonomy_id": "250266-007",
+        "title": "Loft in Bedslation",
+        "title_id": "2438989",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250266-007",
+        "upid_type": 12
     }
 ]
