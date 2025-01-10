@@ -976,5 +976,147 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251900-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "229334_010_02_851",
+        "create_time": 1736495697694,
+        "episode_in_season": "10",
+        "episode_number": "S3:E10",
+        "external_id": "229334-010-851-1736587800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Delocated",
+        "genres": [
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1736587800,
+        "last_time_machine_update": 1736495697694,
+        "last_update": 1736495697694,
+        "live": false,
+        "paid": "229334.010.02.851",
+        "participants": [
+            {
+                "character": "Jon",
+                "name": "Jon Glaser",
+                "role": "actor"
+            },
+            {
+                "character": "Susan",
+                "name": "Nadia Dajani",
+                "role": "actor"
+            },
+            {
+                "character": "David",
+                "name": "Jacob Kogan",
+                "role": "actor"
+            },
+            {
+                "character": "Yvgeny Mirminsky",
+                "name": "Eugene Mirman",
+                "role": "actor"
+            },
+            {
+                "character": "Sergei Mirminsky",
+                "name": "Steve Cirbus",
+                "role": "actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1736587800,
+        "season_id": "2358",
+        "season_name": "Delocated",
+        "season_number": "3",
+        "season_summary": "A family in the witness protection program is given their own reality show.",
+        "season_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "serial": 1736495697694,
+        "series_id": "680051",
+        "series_name": "Delocated",
+        "series_summary": "A family in the witness protection program is given their own reality show.",
+        "series_summary_long": "A family in the witness protection program have been given their own reality show. Moved to New York City from the small town the government placed them in, they wear ski masks at all times to protect their identities.",
+        "show_duration": 1800,
+        "show_id": "275960498",
+        "show_timestamp": 1736587800,
+        "status": "estimated",
+        "summary": "Things go wrong at Delocated's first ever Reunion Special.",
+        "summary_long": "Things go wrong at Delocated's first ever Reunion Special.",
+        "taxonomy_id": "229334-010",
+        "title": "Reunion Show",
+        "title_id": "878917",
+        "tv_rating": "TV-14",
+        "upid": "DISC229334-010",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250266_013_02_851",
+        "create_time": 1736496242973,
+        "episode_in_season": "13",
+        "episode_number": "S12:E13",
+        "external_id": "250266-013-851-1736589600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1736589600,
+        "last_time_machine_update": 1736496242973,
+        "last_update": 1736496242973,
+        "live": false,
+        "paid": "250266.013.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1736589600,
+        "season_id": "27922",
+        "season_name": "Bob's Burgers (Season 12)",
+        "season_number": "12",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1736496242973,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "275960508",
+        "show_timestamp": 1736589600,
+        "status": "estimated",
+        "summary": "Teddy confronts his past.",
+        "summary_long": "Linda encourages Teddy to attend a farewell ceremony for the ship on which he served in the Navy, but it means confronting his Navy pals -- and his past.",
+        "taxonomy_id": "250266-013",
+        "title": "Frigate Me Knot",
+        "title_id": "2438995",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250266-013",
+        "upid_type": 12
     }
 ]
