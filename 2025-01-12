@@ -737,5 +737,106 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250876-014",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "268302_001_04_851",
+        "create_time": 1736574057595,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "268302-001-851-1736667000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Naruto",
+        "genres": [
+            "Action",
+            "Adult Animation",
+            "Adventure",
+            "Anime"
+        ],
+        "guide_timestamp": 1736667000,
+        "last_time_machine_update": 1736574057595,
+        "last_update": 1736574057595,
+        "live": false,
+        "paid": "268302.001.04.851",
+        "participants": [
+            {
+                "character": "Naruto Uzumaki",
+                "name": "Junko Takeuchi",
+                "role": "actor"
+            },
+            {
+                "character": "Naruto Uzumaki",
+                "name": "Maile Flanagan",
+                "role": "actor"
+            },
+            {
+                "character": "Sakura Haruno",
+                "name": "Chie Nakamura",
+                "role": "actor"
+            },
+            {
+                "character": "Sakura Haruno",
+                "name": "Kate Higgins",
+                "role": "actor"
+            },
+            {
+                "character": "",
+                "name": "Hayato Date",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Ken Hagino",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Tomoko Gushima",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Masashi Kishimoto",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Satoru Nishizono",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1736667000,
+        "season_id": "1444",
+        "season_name": "Naruto",
+        "season_number": "1",
+        "season_summary": "Naruto is determined to become the Hokage, a ninja and village leader.",
+        "season_summary_long": "Naruto Uzumaki of the Hidden Leaf Village carries within him the ultimate secret. Can this plucky prankster achieve his goal to become the Hokage?",
+        "serial": 1736574057595,
+        "series_id": "622269",
+        "series_name": "Naruto",
+        "series_summary": "Naruto is determined to become the Hokage, a ninja and village leader.",
+        "series_summary_long": "Naruto Uzumaki of the Hidden Leaf Village carries within him the ultimate secret. Can this plucky prankster achieve his goal to become the Hokage?",
+        "show_duration": 1800,
+        "show_id": "275964384",
+        "show_timestamp": 1736667000,
+        "status": "estimated",
+        "summary": "Welcome to the Hidden Leaf Village, where ninja roam the land.",
+        "summary_long": "Welcome to the Hidden Leaf Village, where ninja roam the land and the mischievous Naruto Uzumaki causes trouble wherever he goes.",
+        "taxonomy_id": "268302-001",
+        "title": "Enter: Naruto Uzumaki",
+        "title_id": "622455",
+        "tv_rating": "TV-14",
+        "upid": "DISC268302-001",
+        "upid_type": 12
     }
 ]
