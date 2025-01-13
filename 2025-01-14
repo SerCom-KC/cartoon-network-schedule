@@ -3367,5 +3367,97 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC229166-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "241732_022_02_851",
+        "create_time": 1736787291828,
+        "episode_in_season": "22",
+        "episode_number": "S1:E22",
+        "external_id": "241732-022-851-1736872200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo Show, The",
+        "genres": [
+            "Classic Cartoons",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1736872200,
+        "last_time_machine_update": 1736787291828,
+        "last_update": 1736787291828,
+        "live": false,
+        "paid": "241732.022.02.851",
+        "participants": [
+            {
+                "character": "Freddy",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Heather North",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy",
+                "name": "Casey Kasem",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Patricia Stevens",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Scooby-Doo",
+                "name": "Don Messick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Charles A. Nichols",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "executive-producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 1977,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1736872200,
+        "season_id": "316",
+        "season_name": "The Scooby-Doo Show",
+        "season_number": "1",
+        "season_summary": "Scooby-Doo may shiver and cower, but he always solves the mystery.",
+        "season_summary_long": "A globetrotting canine Sherlock Holmes with a heart of pure cowardice, Scooby-Doo shivers and cowers, but he always solves the mystery -- with laughs. Watch out, villains! Scooby-Doo is on your trail\u2026",
+        "serial": 1736787291828,
+        "series_id": "317041",
+        "series_name": "The Scooby-Doo Show",
+        "series_summary": "Scooby-Doo may shiver and cower, but he always solves the mystery.",
+        "series_summary_long": "A globetrotting canine Sherlock Holmes with a heart of pure cowardice, Scooby-Doo shivers and cowers, but he always solves the mystery -- with laughs. Watch out, villains! Scooby-Doo is on your trail\u2026",
+        "show_duration": 1800,
+        "show_id": "275976402",
+        "show_timestamp": 1736872200,
+        "status": "estimated",
+        "summary": "A phantom racer captures Shaggy and takes him to an old junkyard.",
+        "summary_long": "A phantom racer captures Shaggy and takes him to a hideaway beneath an old junkyard.",
+        "taxonomy_id": "241732-022",
+        "title": "The Spooky Case of the Grand Prix Race",
+        "title_id": "123557",
+        "tv_rating": "TV-G",
+        "upid": "DISC241732-022",
+        "upid_type": 12
     }
 ]
