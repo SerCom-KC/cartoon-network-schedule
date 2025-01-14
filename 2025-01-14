@@ -6138,5 +6138,86 @@
         "tv_rating": "TV-14",
         "upid": "DISC271173-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271173_019_01_851",
+        "create_time": 1736821618787,
+        "episode_in_season": "19",
+        "episode_number": "S10:E19",
+        "external_id": "271173-019-851-1736913600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1736913600,
+        "last_time_machine_update": 1736821618787,
+        "last_update": 1736821618787,
+        "live": false,
+        "paid": "271173.019.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1736913600,
+        "season_id": "999",
+        "season_name": "Family Guy",
+        "season_number": "10",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1736821618787,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "275976722",
+        "show_timestamp": 1736913600,
+        "status": "estimated",
+        "summary": "Stewie meets a little girl who might be his soulmate.",
+        "summary_long": "Stewie meets a little girl who might be his soulmate. Lois buys twin beds after Peter repeatedly crushes her in his sleep.",
+        "taxonomy_id": "271173-019",
+        "title": "Mr. and Mrs. Stewie",
+        "title_id": "865341",
+        "tv_rating": "TV-14",
+        "upid": "DISC271173-019",
+        "upid_type": 12
     }
 ]
