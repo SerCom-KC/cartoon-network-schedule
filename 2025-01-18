@@ -1325,5 +1325,146 @@
         "tv_rating": "TV-14",
         "upid": "DISC232838-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "232838_005_04_851",
+        "create_time": 1737097208119,
+        "episode_in_season": "5",
+        "episode_number": "S4:E05",
+        "external_id": "232838-005-851-1737189000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1737189000,
+        "last_time_machine_update": 1737097208119,
+        "last_update": 1737097208119,
+        "live": false,
+        "paid": "232838.005.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1737189000,
+        "season_id": "1187",
+        "season_name": "American Dad",
+        "season_number": "4",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1737097208118,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "275989150",
+        "show_timestamp": 1737189000,
+        "status": "estimated",
+        "summary": "Roger becomes Roy Rogers McFreely to step in as the new HOA president.",
+        "summary_long": "After term limits force Stan out of his position as president of the HOA, Roger steps in as the new leader under the guise of one Roy Rogers McFreely. Roger uses his power to pass new resolutions and by-laws solely to anger Stan.",
+        "taxonomy_id": "232838-005",
+        "title": "Roy Rodgers McFreely",
+        "title_id": "748152",
+        "tv_rating": "TV-14",
+        "upid": "DISC232838-005",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "251901_007_02_851",
+        "create_time": 1737097630670,
+        "episode_in_season": "7",
+        "episode_number": "S4:E07",
+        "external_id": "251901-007-851-1737190800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Metalocalypse",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1737190800,
+        "last_time_machine_update": 1737097630670,
+        "last_update": 1737097630670,
+        "live": false,
+        "paid": "251901.007.02.851",
+        "participants": [],
+        "premiere": true,
+        "press_hold": false,
+        "release_year": 2012,
+        "runtime_minutes": 15,
+        "scheduled_duration": 906,
+        "scheduled_timestamp": 1737190800,
+        "season_id": "1734",
+        "season_name": "Metalocalypse (Season 4) (Non-Explicit RPK)",
+        "season_number": "4",
+        "serial": 1737097630661,
+        "series_id": "648666",
+        "series_name": "Metalocalypse",
+        "series_summary": "Death-metal band Dethklok has a lingering effect on its fans.",
+        "series_summary_long": "Death-metal band Dethklok has a lingering effect on its fans, who take the words seriously and do anything Dethklok lyrics say. The government fears the band's influence and sets out to destroy it by covert means.",
+        "show_duration": 900,
+        "show_id": "275989160",
+        "show_timestamp": 1737190800,
+        "status": "estimated",
+        "summary": "In an effort to make friends, Toki goes to Rockaroonie Fantasy Camp -  a weekend getaway to rub elbows with rock and roll royalty (but he attends as a camper.) Instead of meeting friends, he is bullied by other campers.",
+        "summary_long": "In an effort to make friends, Toki goes to Rockaroonie Fantasy Camp -  a weekend getaway to rub elbows with rock and roll royalty (but he attends as a camper.) Instead of meeting friends, he is bullied by other campers and has no one to turn to but celebrity counselor, Magnus Hammersmith; ex-Dethklok guitarist with a troubled past. With Toki - the diabetic scaredy cat - out of Mordhaus, Skwisgaar and Murderface act out and over do it with candy and scary movies.",
+        "taxonomy_id": "251901-007",
+        "title": "Dethcamp",
+        "title_id": "892267",
+        "tv_rating": "TV-MA",
+        "upid": "DISC251901-007",
+        "upid_type": 12
     }
 ]
