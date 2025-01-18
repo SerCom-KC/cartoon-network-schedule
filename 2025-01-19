@@ -939,5 +939,173 @@
         "tv_rating": "TV-14",
         "upid": "DISC239131-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229427_009_03_851",
+        "create_time": 1737183784590,
+        "episode_in_season": "9",
+        "episode_number": "S2:E09",
+        "external_id": "229427-009-851-1737275580",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Venture Bros., The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1737275700,
+        "last_time_machine_update": 1737183784590,
+        "last_update": 1737183784590,
+        "live": false,
+        "paid": "229427.009.03.851",
+        "participants": [
+            {
+                "character": "Thaddeus Venture",
+                "name": "James Urbaniak",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hank Venture",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hank Venture",
+                "name": "Christopher McCulloch",
+                "role": "actor"
+            },
+            {
+                "character": "Dr. Venture",
+                "name": "James Urbaniak",
+                "role": "actor"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "actor"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "actor"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Steven S.H. Yoon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Rachel Simon",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1755,
+        "scheduled_timestamp": 1737275580,
+        "season_id": "969",
+        "season_name": "The Venture Bros.",
+        "season_number": "2",
+        "season_summary": "A scientist, his dim-witted children and their guard battle enemies.",
+        "season_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "serial": 1737183784589,
+        "series_id": "439722",
+        "series_name": "The Venture Bros.",
+        "series_summary": "A scientist, his dim-witted children and security guard battle enemies.",
+        "series_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "show_duration": 1800,
+        "show_id": "275993096",
+        "show_timestamp": 1737275580,
+        "status": "estimated",
+        "summary": "The ghost of Abe Lincoln and Team Venture investigate an insidious plot.",
+        "summary_long": "The ghost of Abraham Lincoln and Team Venture investigate an insidious plot to assassinate the President.",
+        "taxonomy_id": "229427-009",
+        "title": "Guess Who's Coming to State Dinner",
+        "title_id": "639421",
+        "tv_rating": "TV-MA",
+        "upid": "DISC229427-009",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "233057_002_01_851",
+        "create_time": 1737183784590,
+        "episode_in_season": "2",
+        "episode_number": "S7:E02",
+        "external_id": "233057-002-851-1737277320",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1737277200,
+        "last_time_machine_update": 1737183784590,
+        "last_update": 1737183784590,
+        "live": false,
+        "paid": "233057.002.01.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1740,
+        "scheduled_timestamp": 1737277320,
+        "season_id": "12326",
+        "season_name": "Futurama (Season 7)",
+        "season_number": "7",
+        "season_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "serial": 1737183784589,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "series_summary": "After being frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
+        "series_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "show_duration": 1800,
+        "show_id": "368069437",
+        "show_timestamp": 1737277320,
+        "status": "estimated",
+        "summary": "Leela and Zapp Brannigan find themselves stranded on an Eden-like planet.",
+        "summary_long": "Leela and Zapp Brannigan find themselves stranded on an Eden-like planet.",
+        "taxonomy_id": "233057-002",
+        "title": "In-A-Gadda-Da-Leela",
+        "title_id": "2161621",
+        "tv_rating": "TV-14",
+        "upid": "DISC233057-002",
+        "upid_type": 12
     }
 ]
