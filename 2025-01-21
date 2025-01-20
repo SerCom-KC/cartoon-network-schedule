@@ -729,5 +729,74 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251901-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252041_001_02_851",
+        "create_time": 1737358891284,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "252041-001-851-1737451800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adult Animation",
+            "Adventure",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1737451800,
+        "last_time_machine_update": 1737358891284,
+        "last_update": 1737358891284,
+        "live": false,
+        "paid": "252041.001.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Pete Michels",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Brian Wysol",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1737451800,
+        "season_id": "10500",
+        "season_name": "Hot Streets",
+        "season_number": "1",
+        "season_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "season_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "serial": 1737358891284,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "series_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "series_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "show_duration": 900,
+        "show_id": "276001378",
+        "show_timestamp": 1737451800,
+        "status": "estimated",
+        "summary": "Jen grows an umbilical cord. Branski talks about apples. There's mummies.",
+        "summary_long": "Jen grows an umbilical cord. Branski talks about apples. Also, there's mummies.",
+        "taxonomy_id": "252041-001",
+        "title": "Got a Minute for Love?",
+        "title_id": "2131833",
+        "tv_rating": "TV-14",
+        "upid": "DISC252041-001",
+        "upid_type": 12
     }
 ]
