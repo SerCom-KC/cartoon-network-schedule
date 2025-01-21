@@ -6199,5 +6199,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC271165-019",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271165_020_01_851",
+        "create_time": 1737425657541,
+        "episode_in_season": "20",
+        "episode_number": "S11:E20",
+        "external_id": "271165-020-851-1737518400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1737518400,
+        "last_time_machine_update": 1737425657541,
+        "last_update": 1737425657541,
+        "live": false,
+        "paid": "271165.020.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1737518400,
+        "season_id": "1000",
+        "season_name": "Family Guy",
+        "season_number": "11",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1737425657540,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276005404",
+        "show_timestamp": 1737518400,
+        "status": "estimated",
+        "summary": "The Griffins move to a farm, where they're forced to open a meth lab.",
+        "summary_long": "When a crime spree sweeps through Quahog, the Griffins move to the safety of a farm, where they're forced to open a meth lab to make ends meet.",
+        "taxonomy_id": "271165-020",
+        "title": "Farmer Guy",
+        "title_id": "809262",
+        "tv_rating": "TV-14",
+        "upid": "DISC271165-020",
+        "upid_type": 12
     }
 ]
