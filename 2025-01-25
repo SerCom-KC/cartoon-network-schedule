@@ -1390,5 +1390,73 @@
         "tv_rating": "TV-MA",
         "upid": "DISC229067-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "229700_009_02_851",
+        "create_time": 1737704479431,
+        "episode_in_season": "9",
+        "episode_number": "S1:E09",
+        "external_id": "229700-009-851-1737797400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adult Animation",
+            "Adventure",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1737797400,
+        "last_time_machine_update": 1737704479431,
+        "last_update": 1737704479431,
+        "live": false,
+        "paid": "229700.009.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Pete Michels",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Brian Wysol",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1737797400,
+        "season_id": "10500",
+        "season_name": "Hot Streets",
+        "season_number": "1",
+        "season_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "season_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "serial": 1737704479431,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "series_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "series_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "show_duration": 900,
+        "show_id": "276017842",
+        "show_timestamp": 1737797400,
+        "status": "estimated",
+        "summary": "Branski must broker a peace treaty between humans and an underwater race.",
+        "summary_long": "Branski must broker a peace treaty between humans and an underwater race, the Vek.",
+        "taxonomy_id": "229700-009",
+        "title": "Squid of the Dead",
+        "title_id": "2131840",
+        "tv_rating": "TV-MA",
+        "upid": "DISC229700-009",
+        "upid_type": 12
     }
 ]
