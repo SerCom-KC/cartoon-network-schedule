@@ -1458,5 +1458,156 @@
         "tv_rating": "TV-MA",
         "upid": "DISC229700-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252041_010_02_851",
+        "create_time": 1737707364004,
+        "episode_in_season": "10",
+        "episode_number": "S1:E10",
+        "external_id": "252041-010-851-1737798300",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adult Animation",
+            "Adventure",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1737798300,
+        "last_time_machine_update": 1737707364004,
+        "last_update": 1737707364004,
+        "live": false,
+        "paid": "252041.010.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Pete Michels",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Brian Wysol",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 914,
+        "scheduled_timestamp": 1737798300,
+        "season_id": "10500",
+        "season_name": "Hot Streets",
+        "season_number": "1",
+        "season_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "season_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "serial": 1737707364004,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "series_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "series_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "show_duration": 900,
+        "show_id": "276017852",
+        "show_timestamp": 1737798300,
+        "status": "estimated",
+        "summary": "The Hot Streets gang faces their toughest opponents yet.",
+        "summary_long": "The Hot Streets gang faces their toughest opponents yet.",
+        "taxonomy_id": "252041-010",
+        "title": "The Final Stand",
+        "title_id": "2131841",
+        "tv_rating": "TV-14",
+        "upid": "DISC252041-010",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169771_019_03_851",
+        "create_time": 1737707364005,
+        "episode_in_season": "19",
+        "episode_number": "S3:E19",
+        "external_id": "169771-019-851-1737799200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1737799200,
+        "last_time_machine_update": 1737707364005,
+        "last_update": 1737707364005,
+        "live": false,
+        "paid": "169771.019.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1737799200,
+        "season_id": "7298",
+        "season_name": "Bob's Burgers",
+        "season_number": "3",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1737707364004,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276017862",
+        "show_timestamp": 1737799200,
+        "status": "estimated",
+        "summary": "The Belchers find themselves competing on the TV game show \"Family Fracas!\"",
+        "summary_long": "After the family car breaks down and ruins their plans for a movie night out, the Belchers find themselves competing on the TV game show \"Family Fracas!\" To the dismay of the program's host, they keep winning and coming back each night.",
+        "taxonomy_id": "169771-019",
+        "title": "Family Fracas",
+        "title_id": "2003530",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169771-019",
+        "upid_type": 12
     }
 ]
