@@ -1049,5 +1049,140 @@
         "tv_rating": "TV-14",
         "upid": "DISC233057-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "233057_005_01_851",
+        "create_time": 1737792967171,
+        "episode_in_season": "5",
+        "episode_number": "S7:E05",
+        "external_id": "233057-005-851-1737883800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1737883800,
+        "last_time_machine_update": 1737792967171,
+        "last_update": 1737792967171,
+        "live": false,
+        "paid": "233057.005.01.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1737883800,
+        "season_id": "12326",
+        "season_name": "Futurama (Season 7)",
+        "season_number": "7",
+        "season_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "serial": 1737792967171,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "series_summary": "After being frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
+        "series_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "show_duration": 1800,
+        "show_id": "276021798",
+        "show_timestamp": 1737883800,
+        "status": "estimated",
+        "summary": "The crew races to future-Rome to unearth the shocking secret of Leonardo da Vinci.",
+        "summary_long": "The crew races to future-Rome to unearth the shocking secret of Leonardo da Vinci.",
+        "taxonomy_id": "233057-005",
+        "title": "The Duh-Vinci Code",
+        "title_id": "2161624",
+        "tv_rating": "TV-14",
+        "upid": "DISC233057-005",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169771_022_03_851",
+        "create_time": 1737792967172,
+        "episode_in_season": "22",
+        "episode_number": "S3:E22",
+        "external_id": "169771-022-851-1737885600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1737885600,
+        "last_time_machine_update": 1737792967172,
+        "last_update": 1737792967172,
+        "live": false,
+        "paid": "169771.022.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1737885600,
+        "season_id": "7298",
+        "season_name": "Bob's Burgers",
+        "season_number": "3",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1737792967171,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "362086519",
+        "show_timestamp": 1737885600,
+        "status": "estimated",
+        "summary": "Bob has a father-daughter bonding moment with Louise.",
+        "summary_long": "While acting as a parent chaperone on the school's trip to the museum, Bob has a father-daughter bonding moment with Louise. Meanwhile, Gene and his friends are on a hunt to find exhibits that feature the female anatomy.",
+        "taxonomy_id": "169771-022",
+        "title": "Carpe Museum",
+        "title_id": "2003533",
+        "tv_rating": "TV-14",
+        "upid": "DISC169771-022",
+        "upid_type": 12
     }
 ]
