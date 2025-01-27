@@ -757,5 +757,97 @@
         "tv_rating": "TV-14",
         "upid": "DISC232848-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232848_004_03_851",
+        "create_time": 1737958749631,
+        "episode_in_season": "4",
+        "episode_number": "S5:E04",
+        "external_id": "232848-004-851-1738051200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1738051200,
+        "last_time_machine_update": 1737958749631,
+        "last_update": 1737958749631,
+        "live": false,
+        "paid": "232848.004.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1738051200,
+        "season_id": "1188",
+        "season_name": "American Dad",
+        "season_number": "5",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1737958749631,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276030080",
+        "show_timestamp": 1738051200,
+        "status": "estimated",
+        "summary": "Stan discovers that Roger used steroids while playing ice hockey.",
+        "summary_long": "Stan is appalled to discover that Roger - a \"Miracle On Ice\" hockey team member - used steroids; Hayley finds herself falling for Reginald.",
+        "taxonomy_id": "232848-004",
+        "title": "Return of the Bling",
+        "title_id": "748129",
+        "tv_rating": "TV-14",
+        "upid": "DISC232848-004",
+        "upid_type": 12
     }
 ]
