@@ -6152,5 +6152,85 @@
         "tv_rating": "TV-14",
         "upid": "DISC169796-014",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169796_015_03_851",
+        "create_time": 1738106792010,
+        "episode_in_season": "15",
+        "episode_number": "S4:E15",
+        "external_id": "169796-015-851-1738198800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1738198800,
+        "last_time_machine_update": 1738106792010,
+        "last_update": 1738106792010,
+        "live": false,
+        "paid": "169796.015.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1738198800,
+        "season_id": "8898",
+        "season_name": "Bob's Burgers",
+        "season_number": "4",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1738106792010,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276038112",
+        "show_timestamp": 1738198800,
+        "status": "estimated",
+        "summary": "The Belchers take a trip on a train and the kids are in a separate car.",
+        "summary_long": "The Belchers take a trip on a train, and Louise, Gene and Tina are seated in a separate car. Louise gets the children to help her to steal the chocolate supply from the restaurant car! Bob and Linda indulge in some wine tasting.",
+        "taxonomy_id": "169796-015",
+        "title": "The Kids Rob a Train",
+        "title_id": "2030317",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169796-015",
+        "upid_type": 12
     }
 ]
