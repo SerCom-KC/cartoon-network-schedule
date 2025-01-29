@@ -1133,5 +1133,141 @@
         "tv_rating": "TV-MA",
         "upid": "DISC229067-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252042_005_02_851",
+        "create_time": 1738137054599,
+        "episode_in_season": "5",
+        "episode_number": "S2:E05",
+        "external_id": "252042-005-851-1738229400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adult Animation",
+            "Adventure",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1738229400,
+        "last_time_machine_update": 1738137054599,
+        "last_update": 1738137054599,
+        "live": false,
+        "paid": "252042.005.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Pete Michels",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Brian Wysol",
+                "role": "creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1738229400,
+        "season_id": "13775",
+        "season_name": "Hot Streets",
+        "season_number": "2",
+        "season_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "season_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "serial": 1738137054598,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "series_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "series_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "show_duration": 900,
+        "show_id": "276038302",
+        "show_timestamp": 1738229400,
+        "status": "estimated",
+        "summary": "The team becomes digitized to enter an alien missile headed toward Mars.",
+        "taxonomy_id": "252042-005",
+        "title": "Tip to the Lip",
+        "title_id": "2184501",
+        "tv_rating": "TV-14",
+        "upid": "DISC252042-005",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "252042_006_02_851",
+        "create_time": 1738137054599,
+        "episode_in_season": "6",
+        "episode_number": "S2:E06",
+        "external_id": "252042-006-851-1738230300",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adult Animation",
+            "Adventure",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1738230300,
+        "last_time_machine_update": 1738137054599,
+        "last_update": 1738137054599,
+        "live": false,
+        "paid": "252042.006.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Pete Michels",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Brian Wysol",
+                "role": "creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1738230300,
+        "season_id": "13775",
+        "season_name": "Hot Streets",
+        "season_number": "2",
+        "season_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "season_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "serial": 1738137054598,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "series_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "series_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "show_duration": 900,
+        "show_id": "276038312",
+        "show_timestamp": 1738230300,
+        "status": "estimated",
+        "summary": "The Hot Streets gang goes to camp!",
+        "taxonomy_id": "252042-006",
+        "title": "Camp Hot Streets",
+        "title_id": "2184499",
+        "tv_rating": "TV-14",
+        "upid": "DISC252042-006",
+        "upid_type": 12
     }
 ]
