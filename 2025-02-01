@@ -1090,5 +1090,73 @@
         "tv_rating": "TV-14",
         "upid": "DISC252042-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "252042_010_02_851",
+        "create_time": 1738310073137,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "252042-010-851-1738403100",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Hot Streets",
+        "genres": [
+            "Adult Animation",
+            "Adventure",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1738403100,
+        "last_time_machine_update": 1738310073137,
+        "last_update": 1738310073137,
+        "live": false,
+        "paid": "252042.010.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Pete Michels",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Brian Wysol",
+                "role": "creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 916,
+        "scheduled_timestamp": 1738403100,
+        "season_id": "13775",
+        "season_name": "Hot Streets",
+        "season_number": "2",
+        "season_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "season_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "serial": 1738310073137,
+        "series_id": "2104364",
+        "series_name": "Hot Streets",
+        "series_summary": "FBI Agent Mark Branski and his partner investigate supernatural phenomena.",
+        "series_summary_long": "FBI Agent Mark Branski, his partner, his niece and her dog investigate supernatural phenomena.",
+        "show_duration": 900,
+        "show_id": "276046524",
+        "show_timestamp": 1738403100,
+        "status": "estimated",
+        "summary": "Earth is under siege by Hot Streets. Meanwhile, Jet Jr. gets pregnant.",
+        "taxonomy_id": "252042-010",
+        "title": "Hot Streets Begins",
+        "title_id": "2184505",
+        "tv_rating": "TV-14",
+        "upid": "DISC252042-010",
+        "upid_type": 12
     }
 ]
