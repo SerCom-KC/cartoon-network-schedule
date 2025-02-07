@@ -6758,5 +6758,142 @@
         "tv_rating": "TV-14",
         "upid": "DISC271159-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271159_010_01_851",
+        "create_time": 1738895134007,
+        "episode_in_season": "10",
+        "episode_number": "S14:E10",
+        "external_id": "271159-010-851-1738987200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1738987200,
+        "last_time_machine_update": 1738895134007,
+        "last_update": 1738895134007,
+        "live": false,
+        "paid": "271159.010.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1738987200,
+        "season_id": "9680",
+        "season_name": "Family Guy",
+        "season_number": "14",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1738895134006,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276075026",
+        "show_timestamp": 1738987200,
+        "status": "estimated",
+        "summary": "Peter finds VHS tapes of a Korean soap opera called Winter Summer.",
+        "summary_long": "As the guys go through Quagmire's father\u2019s old clothes, Peter finds a bunch of VHS tapes of a Korean soap opera called Winter Summer. It turns out Quagmire starred in the show years earlier while he was stationed in Busan with the Navy.",
+        "taxonomy_id": "271159-010",
+        "title": "Candy Quahog Marshmallow!",
+        "title_id": "2064576",
+        "tv_rating": "TV-14",
+        "upid": "DISC271159-010",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251793_003_03_851",
+        "create_time": 1738895699863,
+        "episode_in_season": "3",
+        "episode_number": "S4:E03",
+        "external_id": "251793-003-851-1738989000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Space & Beyond"
+        ],
+        "guide_timestamp": 1738989000,
+        "last_time_machine_update": 1738895699863,
+        "last_update": 1738895699863,
+        "live": false,
+        "paid": "251793.003.03.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1738989000,
+        "season_id": "15308",
+        "season_name": "Rick and Morty (Season 4) (Non-Explicit Repack)",
+        "season_number": "4",
+        "serial": 1738895699862,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276075036",
+        "show_timestamp": 1738989000,
+        "status": "estimated",
+        "summary": "Lots of twists and turns this time, broh. Wear your helmets.",
+        "summary_long": "Lots of twists and turns this time, broh. Wear your helmets.",
+        "taxonomy_id": "251793-003",
+        "title": "One Crew Over the Crewcoo's Morty",
+        "title_id": "2206488",
+        "tv_rating": "TV-14",
+        "upid": "DISC251793-003",
+        "upid_type": 12
     }
 ]
