@@ -2093,6 +2093,111 @@
     {
         "blackout_type": "none",
         "cc": true,
+        "content_advisories": [],
+        "content_id": "229035_008_03_851",
+        "create_time": 1738931838366,
+        "episode_in_season": "8",
+        "episode_number": "S1:E08",
+        "external_id": "229035-008-851-1739018700",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Kids & Family",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1739018700,
+        "last_time_machine_update": 1739022079855,
+        "last_update": 1739022079855,
+        "live": false,
+        "paid": "229035.008.03.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hi Five Ghost",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Robert Alvarez",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Brian Sheesley",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "J.G. Quintel",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1739018700,
+        "season_id": "5553",
+        "season_name": "Regular Show",
+        "season_number": "1",
+        "season_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1739022079855,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "show_duration": 900,
+        "show_id": "276078652",
+        "show_timestamp": 1739018709,
+        "status": "actual",
+        "summary": "In order to impress Margret, Mordecai hangs with a bunch of punk Unicorns.",
+        "summary_long": "In order to impress Margret and ask her out, Mordecai hangs with a bunch of punk Unicorns who say they can help him get his lady.",
+        "taxonomy_id": "229035-008",
+        "title": "The Unicorns Have Got to Go",
+        "title_id": "810155",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229035-008",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "FV"
         ],
@@ -2284,8 +2389,8 @@
             "Kids & Family"
         ],
         "guide_timestamp": 1739021400,
-        "last_time_machine_update": 1739021450470,
-        "last_update": 1739021450470,
+        "last_time_machine_update": 1739022363486,
+        "last_update": 1739022363486,
         "live": false,
         "paid": "228420.016.03.851",
         "participants": [
@@ -2332,7 +2437,7 @@
         "season_number": "3",
         "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
         "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
-        "serial": 1739021450470,
+        "serial": 1739022363485,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
@@ -2340,7 +2445,7 @@
         "show_duration": 895,
         "show_id": "276078682",
         "show_timestamp": 1739021401,
-        "status": "current",
+        "status": "actual",
         "summary": "Gumball must cure Darwin's allergy before he sneezes Elmore off the map.",
         "summary_long": "Darwin starts sneezing, and it seems he can't stop. The Wattersons figure maybe he's allergic to something. After a few guesses, they come to the conclusion that he is allergic to stupidity. Being surrounded by stupid people, this is kind of a problem.",
         "taxonomy_id": "228420-016",
@@ -2371,8 +2476,8 @@
             "Kids & Family"
         ],
         "guide_timestamp": 1739022300,
-        "last_time_machine_update": 1739021450472,
-        "last_update": 1739021450472,
+        "last_time_machine_update": 1739022363485,
+        "last_update": 1739022363485,
         "live": false,
         "paid": "228420.017.02.851",
         "participants": [
@@ -2419,15 +2524,15 @@
         "season_number": "3",
         "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
         "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
-        "serial": 1739021450470,
+        "serial": 1739022363485,
         "series_id": "835928",
         "series_name": "The Amazing World of Gumball",
         "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
         "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
-        "show_duration": 895,
+        "show_duration": 900,
         "show_id": "276078692",
-        "show_timestamp": 1739022301,
-        "status": "estimated",
+        "show_timestamp": 1739022296,
+        "status": "current",
         "summary": "The kids organize a competition to see who has the World's Greatest Mom.",
         "summary_long": "It's Mother's Day, and Gumball and Darwin discover that Tobias and Banana Joe have both made a card for \"The Best Mom in the World.\" Clearly Nicole Watterson is the best mom, but Tobias and BJ just won't admit it, so they organize a mom-off.",
         "taxonomy_id": "228420-017",
