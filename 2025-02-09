@@ -896,5 +896,109 @@
         "tv_rating": "TV-PG",
         "upid": "DISC268720-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "229427_012_03_851",
+        "create_time": 1738997197082,
+        "episode_in_season": "12",
+        "episode_number": "S2:E12",
+        "external_id": "229427-012-851-1739089800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Venture Bros., The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1739089800,
+        "last_time_machine_update": 1738997197082,
+        "last_update": 1738997197082,
+        "live": false,
+        "paid": "229427.012.03.851",
+        "participants": [
+            {
+                "character": "Thaddeus Venture",
+                "name": "James Urbaniak",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hank Venture/The Monarch",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dr. Girlfriend",
+                "name": "Doc Hammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Steven S.H. Yoon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Rachel Simon",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Doc Hammer",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1739089800,
+        "season_id": "969",
+        "season_name": "The Venture Bros.",
+        "season_number": "2",
+        "season_summary": "A scientist, his dim-witted children and their guard battle enemies.",
+        "season_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "serial": 1738997197082,
+        "series_id": "439722",
+        "series_name": "The Venture Bros.",
+        "series_summary": "A scientist, his dim-witted children and security guard battle enemies.",
+        "series_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "show_duration": 1800,
+        "show_id": "368034563",
+        "show_timestamp": 1739089800,
+        "status": "estimated",
+        "summary": "The stage is set for a showdown between The Monarch and Phantom Limb.",
+        "summary_long": "The stage is set for a deadly, ultimate showdown between The Monarch and Phantom Limb for the hand of Dr. Girlfriend.",
+        "taxonomy_id": "229427-012",
+        "title": "Showdown at Cremation Creek Part 1",
+        "title_id": "639425",
+        "tv_rating": "TV-14",
+        "upid": "DISC229427-012",
+        "upid_type": 12
     }
 ]
