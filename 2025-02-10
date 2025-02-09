@@ -4134,5 +4134,157 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC234507-117",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "234509_012_02_851",
+        "create_time": 1739119122655,
+        "episode_in_season": "12",
+        "episode_number": "S1:E12",
+        "external_id": "234509-012-851-1739211600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry",
+        "genres": [
+            "Classic Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1739211600,
+        "last_time_machine_update": 1739119122655,
+        "last_update": 1739119122655,
+        "live": false,
+        "paid": "234509.012.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "created-by"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "created-by"
+            },
+            {
+                "character": "Tom Cat",
+                "name": "William Hanna",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "CE",
+        "release_year": 1946,
+        "runtime_minutes": 10,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1739211600,
+        "season_id": "240",
+        "season_name": "Tom and Jerry",
+        "season_number": "1",
+        "season_summary": "In this decades-old rivalry, Tom and Jerry match wits against each other.",
+        "season_summary_long": "In this decades-old rivalry, Tom Cat and Jerry Mouse match wits against each other in numerous situations and settings.",
+        "serial": 1739119122655,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "series_summary": "In this decades-old rivalry, Tom and Jerry match wits against each other.",
+        "series_summary_long": "In this decades-old rivalry, Tom Cat and Jerry Mouse match wits against each other in numerous situations and settings.",
+        "show_duration": 600,
+        "show_id": "276087104",
+        "show_timestamp": 1739211600,
+        "status": "estimated",
+        "summary": "Tom hires an exterminator, another cat, to get rid of Jerry.",
+        "summary_long": "Tom hires an exterminator, another cat, to get rid of Jerry.",
+        "taxonomy_id": "234509-012",
+        "title": "Trap Happy",
+        "title_id": "312107",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234509-012",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234509_010_02_851",
+        "create_time": 1739119122656,
+        "episode_in_season": "10",
+        "episode_number": "S1:EL10",
+        "external_id": "234509-010-851-1739212200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry",
+        "genres": [
+            "Kids & Family",
+            "Classic Cartoons",
+            "Family Laughs"
+        ],
+        "guide_timestamp": 1739212200,
+        "last_time_machine_update": 1739119122656,
+        "last_update": 1739119122656,
+        "live": false,
+        "paid": "234509.010.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "created-by"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "created-by"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "CE",
+        "release_year": 1945,
+        "runtime_minutes": 10,
+        "scheduled_duration": 616,
+        "scheduled_timestamp": 1739212200,
+        "season_id": "240",
+        "season_name": "Tom and Jerry",
+        "season_number": "1",
+        "season_summary": "In this decades-old rivalry, Tom and Jerry match wits against each other.",
+        "season_summary_long": "In this decades-old rivalry, Tom Cat and Jerry Mouse match wits against each other in numerous situations and settings.",
+        "serial": 1739119122655,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "series_summary": "In this decades-old rivalry, Tom and Jerry match wits against each other.",
+        "series_summary_long": "In this decades-old rivalry, Tom Cat and Jerry Mouse match wits against each other in numerous situations and settings.",
+        "show_duration": 600,
+        "show_id": "276087114",
+        "show_timestamp": 1739212200,
+        "status": "estimated",
+        "summary": "Tom tries to play golf, but Jerry interferes with the cat's game.",
+        "summary_long": "Tom tries to play golf, but Jerry interferes with the cat's game.",
+        "taxonomy_id": "234509-010",
+        "title": "Tee for Two",
+        "title_id": "312094",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC234509-010",
+        "upid_type": 12
     }
 ]
