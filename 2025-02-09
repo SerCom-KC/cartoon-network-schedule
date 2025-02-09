@@ -4739,5 +4739,168 @@
         "tv_rating": "TV-14",
         "upid": "DISC271172-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271172_013_02_851",
+        "create_time": 1739066315214,
+        "episode_in_season": "13",
+        "episode_number": "S16:E13",
+        "external_id": "271172-013-851-1739158200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1739158200,
+        "last_time_machine_update": 1739066315214,
+        "last_update": 1739066315214,
+        "live": false,
+        "paid": "271172.013.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1739158200,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1739066315214,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276083078",
+        "show_timestamp": 1739158200,
+        "status": "estimated",
+        "summary": "Stewie and Brian solve a string of murders set in Victorian-era London.",
+        "summary_long": "In a special Dickensian-themed episode, Stewie and Brian are detectives who embark on solving a string of mysterious murders set in Victorian-era London.",
+        "taxonomy_id": "271172-013",
+        "title": "V Is for Mystery",
+        "title_id": "2539776",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-013",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271165_001_03_851",
+        "create_time": 1739066976615,
+        "episode_in_season": "1",
+        "episode_number": "S11:E01",
+        "external_id": "271165-004-851-1739160000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1739160000,
+        "last_time_machine_update": 1739066976615,
+        "last_update": 1739066976615,
+        "live": false,
+        "paid": "271165.001.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1739160000,
+        "season_id": "1000",
+        "season_name": "Family Guy",
+        "season_number": "11",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1739066976615,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276083088",
+        "show_timestamp": 1739160000,
+        "status": "estimated",
+        "summary": "Peter announces that the Griffins are climbing Mount Everest.",
+        "summary_long": "When the successful family of Lois' ex-boyfriend, Ross Fishman, mentions that they're all climbing Mount Everest, Peter announces that the Griffins are climbing it, too ... and will beat the Fishmans to the top.",
+        "taxonomy_id": "271165-001",
+        "title": "Into Fat Air",
+        "title_id": "865345",
+        "tv_rating": "TV-14",
+        "upid": "DISC271165-001",
+        "upid_type": 12
     }
 ]
