@@ -1088,5 +1088,136 @@
         "tv_rating": "TV-14",
         "upid": "DISC251841-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "251841_004_01_851",
+        "create_time": 1739088334882,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "251841-004-851-1739180700",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "YOLO",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1739180700,
+        "last_time_machine_update": 1739088334882,
+        "last_update": 1739088334882,
+        "live": false,
+        "paid": "251841.004.01.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1739180700,
+        "season_id": "25947",
+        "season_name": "YOLO: Silver Destiny (Season 2) (Non-Explicit RPK)",
+        "season_number": "2",
+        "serial": 1739088334881,
+        "series_id": "2224723",
+        "series_name": "YOLO",
+        "series_summary": "Two party girls look for fun times, new experiences and hopeful horoscopes.",
+        "series_summary_long": "Yolo Crystal Fantasy follows two Australian party girls, Sarah and Rachel, looking for fun times, new experiences, positive vibes and hopeful horoscopes in the bizarre town of Wollongong.",
+        "show_duration": 900,
+        "show_id": "276083238",
+        "show_timestamp": 1739180700,
+        "status": "estimated",
+        "summary": "Girls' movie night watching an art house flick starring a hot young actor leads to a wild romantic dream for Sarah, a dream which Rachel is determined to sabotage.",
+        "taxonomy_id": "251841-004",
+        "title": "Chaise and the City",
+        "title_id": "2412379",
+        "tv_rating": "TV-14",
+        "upid": "DISC251841-004",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "166124_008_02_851",
+        "create_time": 1739088334882,
+        "episode_in_season": "8",
+        "episode_number": "S8:E08",
+        "external_id": "166124-008-851-1739181600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1739181600,
+        "last_time_machine_update": 1739088334882,
+        "last_update": 1739088334882,
+        "live": false,
+        "paid": "166124.008.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1739181600,
+        "season_id": "12616",
+        "season_name": "Bob's Burgers",
+        "season_number": "8",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1739088334881,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276083248",
+        "show_timestamp": 1739181600,
+        "status": "estimated",
+        "summary": "The Belcher women have a limo girls' night out to make Tina feel better.",
+        "summary_long": "After a rough break up on Valentine's Day, the Belcher women have a limo girls' night out to make Tina feel better. Meanwhile, Bob and Gene have a trapeze experience that brings them closer.",
+        "taxonomy_id": "166124-008",
+        "title": "V for Valentine-detta",
+        "title_id": "2171448",
+        "tv_rating": "TV-PG",
+        "upid": "DISC166124-008",
+        "upid_type": 12
     }
 ]
