@@ -3739,5 +3739,142 @@
         "tv_rating": "TV-PG",
         "upid": "DISC234509-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "234506_020_02_851",
+        "create_time": 1739115412136,
+        "episode_in_season": "20",
+        "episode_number": "S2:E20",
+        "external_id": "234506-020-851-1739208000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry",
+        "genres": [
+            "Classic Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1739208000,
+        "last_time_machine_update": 1739115412136,
+        "last_update": 1739115412136,
+        "live": false,
+        "paid": "234506.020.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "created-by"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "created-by"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "CE",
+        "release_year": 1954,
+        "runtime_minutes": 10,
+        "scheduled_duration": 600,
+        "scheduled_timestamp": 1739208000,
+        "season_id": "15977",
+        "season_name": "Tom and Jerry",
+        "season_number": "2",
+        "season_summary": "In this decades-old rivalry, Tom and Jerry match wits against each other.",
+        "season_summary_long": "In this decades-old rivalry, Tom Cat and Jerry Mouse match wits against each other in numerous situations and settings.",
+        "serial": 1739115412135,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "series_summary": "In this decades-old rivalry, Tom and Jerry match wits against each other.",
+        "series_summary_long": "In this decades-old rivalry, Tom Cat and Jerry Mouse match wits against each other in numerous situations and settings.",
+        "show_duration": 600,
+        "show_id": "276087044",
+        "show_timestamp": 1739208000,
+        "status": "estimated",
+        "summary": "The kitchen floor is an ice-skating rink, but Tom still chases Jerry.",
+        "summary_long": "The kitchen floor is an ice-skating rink, but Tom still chases Jerry despite the slippery surface.",
+        "taxonomy_id": "234506-020",
+        "title": "Mice Follies",
+        "title_id": "312021",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC234506-020",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234509_021_02_851",
+        "create_time": 1739115412136,
+        "episode_in_season": "21",
+        "episode_number": "S1:E21",
+        "external_id": "234509-021-851-1739208600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry",
+        "genres": [
+            "Classic Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1739208600,
+        "last_time_machine_update": 1739115412136,
+        "last_update": 1739115412136,
+        "live": false,
+        "paid": "234509.021.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "created-by"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "created-by"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "CE",
+        "release_year": 1949,
+        "runtime_minutes": 10,
+        "scheduled_duration": 616,
+        "scheduled_timestamp": 1739208600,
+        "season_id": "240",
+        "season_name": "Tom and Jerry",
+        "season_number": "1",
+        "season_summary": "In this decades-old rivalry, Tom and Jerry match wits against each other.",
+        "season_summary_long": "In this decades-old rivalry, Tom Cat and Jerry Mouse match wits against each other in numerous situations and settings.",
+        "serial": 1739115412135,
+        "series_id": "313477",
+        "series_name": "Tom and Jerry",
+        "series_summary": "In this decades-old rivalry, Tom and Jerry match wits against each other.",
+        "series_summary_long": "In this decades-old rivalry, Tom Cat and Jerry Mouse match wits against each other in numerous situations and settings.",
+        "show_duration": 600,
+        "show_id": "276087054",
+        "show_timestamp": 1739208600,
+        "status": "estimated",
+        "summary": "Tom arrives in heaven only to find out that he needs to apologize to Jerry.",
+        "summary_long": "Tom arrives in heaven only to find out that in order to enter he must first go back and apologize to Jerry.",
+        "taxonomy_id": "234509-021",
+        "title": "Heavenly Puss",
+        "title_id": "311987",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234509-021",
+        "upid_type": 12
     }
 ]
