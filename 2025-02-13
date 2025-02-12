@@ -727,5 +727,179 @@
         "tv_rating": "TV-14",
         "upid": "DISC271168-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271159_018_01_851",
+        "create_time": 1739338842386,
+        "episode_in_season": "18",
+        "episode_number": "S14:E18",
+        "external_id": "271159-018-851-1739430000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1739430000,
+        "last_time_machine_update": 1739338842386,
+        "last_update": 1739338842386,
+        "live": false,
+        "paid": "271159.018.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1739430000,
+        "season_id": "9680",
+        "season_name": "Family Guy",
+        "season_number": "14",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1739338842385,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276095586",
+        "show_timestamp": 1739430000,
+        "status": "estimated",
+        "summary": "Peter becomes jealous when Lois fawns over the new Channel 5 reporter.",
+        "summary_long": "After Peter gets stuck overnight on the kiddie train at the Quahog Mall, he becomes jealous when Lois fawns over the handsome new Channel 5 reporter, Dallas Portland, who interviews him.",
+        "taxonomy_id": "271159-018",
+        "title": "The New Adventures of Old Tom",
+        "title_id": "2064591",
+        "tv_rating": "TV-14",
+        "upid": "DISC271159-018",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232838_008_03_851",
+        "create_time": 1739338842386,
+        "episode_in_season": "8",
+        "episode_number": "S4:E08",
+        "external_id": "232838-008-851-1739431800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1739431800,
+        "last_time_machine_update": 1739338842386,
+        "last_update": 1739338842386,
+        "live": false,
+        "paid": "232838.008.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1739431800,
+        "season_id": "1187",
+        "season_name": "American Dad",
+        "season_number": "4",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1739338842385,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276095596",
+        "show_timestamp": 1739431800,
+        "status": "estimated",
+        "summary": "Stan tells Francine that if she ever dies, he has a backup wife.",
+        "summary_long": "Stan reveals to Francine that, in the case she should die, he has a backup wife. Enraged with Stan, Francine takes Jim, one of Stan's CIA buddies, as her backup husband.",
+        "taxonomy_id": "232838-008",
+        "title": "Wife Insurance",
+        "title_id": "748116",
+        "tv_rating": "TV-14",
+        "upid": "DISC232838-008",
+        "upid_type": 12
     }
 ]
