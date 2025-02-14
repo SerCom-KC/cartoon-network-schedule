@@ -581,5 +581,87 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251795-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "252054_008_02_851",
+        "create_time": 1739517080914,
+        "episode_in_season": "8",
+        "episode_number": "S1:E08",
+        "external_id": "252054-008-851-1739610000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jellies, The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Teen Comedy"
+        ],
+        "guide_timestamp": 1739610000,
+        "last_time_machine_update": 1739517080914,
+        "last_update": 1739517080914,
+        "live": false,
+        "paid": "252054.008.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Tyler The Creator",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Lionel Boyce",
+                "role": "creator"
+            },
+            {
+                "character": "Cornell Jelly",
+                "name": "Phil LaMarr",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Barry Jelly",
+                "name": "Earl Skakel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Debbie Jelly",
+                "name": "A.J. Johnson",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 903,
+        "scheduled_timestamp": 1739610000,
+        "season_id": "11985",
+        "season_name": "The Jellies",
+        "season_number": "1",
+        "season_summary": "After learning his parents adopted him, a teen boy tries to find himself.",
+        "season_summary_long": "After learning his jellyfish parents adopted him, a teen boy tries to find himself.",
+        "serial": 1739517080914,
+        "series_id": "2132025",
+        "series_name": "The Jellies!",
+        "series_summary": "After learning his parents adopted him, a teen boy tries to find himself.",
+        "series_summary_long": "After learning his jellyfish parents adopted him, a teen boy tries to find himself.",
+        "show_duration": 900,
+        "show_id": "276103788",
+        "show_timestamp": 1739610000,
+        "status": "estimated",
+        "summary": "Two hip hop artists face off in a historic court case in civil court.",
+        "summary_long": "Two hip hop artists face off in a historic court case in civil court.",
+        "taxonomy_id": "252054-008",
+        "title": "Trial of the Century",
+        "title_id": "2132033",
+        "tv_rating": "TV-14",
+        "upid": "DISC252054-008",
+        "upid_type": 12
     }
 ]
