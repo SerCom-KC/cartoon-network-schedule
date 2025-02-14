@@ -1075,5 +1075,66 @@
         "tv_rating": "TV-MA",
         "upid": "DISC252047-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250265_011_02_851",
+        "create_time": 1739520639296,
+        "episode_in_season": "11",
+        "episode_number": "S11:E11",
+        "external_id": "250265-011-851-1739613600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1739613600,
+        "last_time_machine_update": 1739520639296,
+        "last_update": 1739520639296,
+        "live": false,
+        "paid": "250265.011.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1739613600,
+        "season_id": "27921",
+        "season_name": "Bob's Burgers (Season 11)",
+        "season_number": "11",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1739520639296,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276103818",
+        "show_timestamp": 1739613600,
+        "status": "estimated",
+        "summary": "It's Valentine's Day.",
+        "summary_long": "Louise convinces her parents to cash in on the lucrative Valentine's Day dinner business, even though it means putting Bob and Linda's own Valentine's Day plans on hold. Meanwhile, Tina attends Tammy's Anti-Valentine's Day party.",
+        "taxonomy_id": "250265-011",
+        "title": "Romancing the Beef",
+        "title_id": "2438971",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250265-011",
+        "upid_type": 12
     }
 ]
