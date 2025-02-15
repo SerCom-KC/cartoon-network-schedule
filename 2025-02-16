@@ -912,5 +912,164 @@
         "tv_rating": "TV-PG",
         "upid": "DISC268720-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "229427_013_03_851",
+        "create_time": 1739602725360,
+        "episode_in_season": "13",
+        "episode_number": "S2:E13",
+        "external_id": "229427-013-851-1739694600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Venture Bros., The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1739694600,
+        "last_time_machine_update": 1739602725360,
+        "last_update": 1739602725360,
+        "live": false,
+        "paid": "229427.013.03.851",
+        "participants": [
+            {
+                "character": "Thaddeus Venture",
+                "name": "James Urbaniak",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hank Venture/The Monarch",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dr. Girlfriend",
+                "name": "Doc Hammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Steven S.H. Yoon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Rachel Simon",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Doc Hammer",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1812,
+        "scheduled_timestamp": 1739694600,
+        "season_id": "969",
+        "season_name": "The Venture Bros.",
+        "season_number": "2",
+        "season_summary": "A scientist, his dim-witted children and their guard battle enemies.",
+        "season_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "serial": 1739602725360,
+        "series_id": "439722",
+        "series_name": "The Venture Bros.",
+        "series_summary": "A scientist, his dim-witted children and security guard battle enemies.",
+        "series_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "show_duration": 1800,
+        "show_id": "368037590",
+        "show_timestamp": 1739694600,
+        "status": "estimated",
+        "summary": "The Sovereign reveals his identity, and stuff explode all over the place.",
+        "summary_long": "The fate of almost everyone in the Venture universe hangs in the balance as The Sovereign reveals his identity, and stuff explode all over the place.",
+        "taxonomy_id": "229427-013",
+        "title": "Showdown at Cremation Creek Part 2",
+        "title_id": "639426",
+        "tv_rating": "TV-14",
+        "upid": "DISC229427-013",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233057_010_01_851",
+        "create_time": 1739602843238,
+        "episode_in_season": "10",
+        "episode_number": "S7:E10",
+        "external_id": "233057-010-851-1739696400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1739696400,
+        "last_time_machine_update": 1739602843238,
+        "last_update": 1739602843238,
+        "live": false,
+        "paid": "233057.010.01.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1739696400,
+        "season_id": "12326",
+        "season_name": "Futurama (Season 7)",
+        "season_number": "7",
+        "season_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "serial": 1739602843238,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "series_summary": "After being frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
+        "series_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "show_duration": 1800,
+        "show_id": "368037595",
+        "show_timestamp": 1739696400,
+        "status": "estimated",
+        "summary": "Crew members are able to swap minds thanks to a state-of-the-art gadget.",
+        "summary_long": "Crew members are able to swap minds thanks to a state-of-the-art gadget.",
+        "taxonomy_id": "233057-010",
+        "title": "The Prisoner of Benda",
+        "title_id": "2161629",
+        "tv_rating": "TV-14",
+        "upid": "DISC233057-010",
+        "upid_type": 12
     }
 ]
