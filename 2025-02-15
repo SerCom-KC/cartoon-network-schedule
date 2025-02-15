@@ -4867,5 +4867,142 @@
         "tv_rating": "TV-14",
         "upid": "DISC271162-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271162_005_01_851",
+        "create_time": 1739585007778,
+        "episode_in_season": "5",
+        "episode_number": "S15:E05",
+        "external_id": "271162-005-851-1739676600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1739676600,
+        "last_time_machine_update": 1739585007778,
+        "last_update": 1739585007778,
+        "live": false,
+        "paid": "271162.005.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1739676600,
+        "season_id": "10564",
+        "season_name": "Family Guy",
+        "season_number": "15",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1739585007777,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "368037577",
+        "show_timestamp": 1739676600,
+        "status": "estimated",
+        "summary": "Stewie encourages Chris to ask pop star Taylor Swift to the prom.",
+        "summary_long": "As prom approaches, Chris is having his usual girl troubles at school. When Chris is rejected by his crush, Stewie encourages him to post a fan video asking pop star Taylor Swift to the prom.",
+        "taxonomy_id": "271162-005",
+        "title": "Chris Has Got a Date, Date, Date, Date, Date",
+        "title_id": "2105384",
+        "tv_rating": "TV-14",
+        "upid": "DISC271162-005",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251792_003_03_851",
+        "create_time": 1739585007779,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "251792-003-851-1739678400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Space & Beyond"
+        ],
+        "guide_timestamp": 1739678400,
+        "last_time_machine_update": 1739585007779,
+        "last_update": 1739585007779,
+        "live": false,
+        "paid": "251792.003.03.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1812,
+        "scheduled_timestamp": 1739678400,
+        "season_id": "10773",
+        "season_name": "Rick and Morty (Season 3) (Non-Explicit Repack)",
+        "season_number": "3",
+        "serial": 1739585007777,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276107684",
+        "show_timestamp": 1739678400,
+        "status": "estimated",
+        "summary": "It's family therapy time in this one. Classic stuff. Pickle Rick, too.",
+        "summary_long": "It's family therapy time in this one, broh. Classic stuff. Pickle Rick, too.",
+        "taxonomy_id": "251792-003",
+        "title": "Pickle Rick",
+        "title_id": "2116832",
+        "tv_rating": "TV-14",
+        "upid": "DISC251792-003",
+        "upid_type": 12
     }
 ]
