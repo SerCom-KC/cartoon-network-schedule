@@ -5909,5 +5909,102 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC250949-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "250949_002_02_851",
+        "create_time": 1739744705259,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "250949-002-851-1739830500",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Uncle Gus",
+        "genres": [
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1739830500,
+        "last_time_machine_update": 1739744705259,
+        "last_update": 1739744705259,
+        "live": false,
+        "paid": "250949.002.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Lincoln Peirce",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Richard Ferguson-Hull",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Lincoln Peirce",
+                "role": "writer"
+            },
+            {
+                "character": "Uncle Gus",
+                "name": "Stuart Pankin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beeyotus/Commercial Narrator/Exercise Instructor",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Race Track Announcer/Wrecking Ball/Spanish Announcer",
+                "name": "Jeff Bennett",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gwennie/Jockey #1",
+                "name": "Lara Jill Miller",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Ali Ali/Jockey #2/Clerk",
+                "name": "Rob Paulsen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Flapjack",
+                "name": "Dave Thomas",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "CE",
+        "release_year": 2001,
+        "runtime_minutes": 15,
+        "scheduled_duration": 913,
+        "scheduled_timestamp": 1739830500,
+        "season_id": "574",
+        "season_name": "Uncle Gus",
+        "season_number": "1",
+        "season_summary": "Uncle Gus and his ragtag friends get into wacky adventures around town.",
+        "season_summary_long": "Middle-aged Uncle Gus and his ragtag bunch of friends get into wacky adventures around town.",
+        "serial": 1739744705259,
+        "series_id": "335929",
+        "series_name": "Uncle Gus",
+        "series_summary": "Uncle Gus and his ragtag friends get into wacky adventures around town.",
+        "series_summary_long": "Middle-aged Uncle Gus and his ragtag bunch of friends get into wacky adventures around town.",
+        "show_duration": 900,
+        "show_id": "276115936",
+        "show_timestamp": 1739830500,
+        "status": "estimated",
+        "summary": "Uncle Gus enters Flapjack in a horse race to win a bet against Ali Ali.",
+        "summary_long": "Uncle Gus enters his loyal talking horse, Flapjack, in a horse race to win a bet against the mysterious paperboy, Ali Ali.",
+        "taxonomy_id": "250949-002",
+        "title": "Not So Fast",
+        "title_id": "410461",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250949-002",
+        "upid_type": 12
     }
 ]
