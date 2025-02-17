@@ -6732,5 +6732,96 @@
         "tv_rating": "TV-14",
         "upid": "DISC232852-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232852_009_03_851",
+        "create_time": 1739750492864,
+        "episode_in_season": "9",
+        "episode_number": "S7:E09",
+        "external_id": "232852-009-851-1739844000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1739844000,
+        "last_time_machine_update": 1739750492864,
+        "last_update": 1739750492864,
+        "live": false,
+        "paid": "232852.009.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1739844000,
+        "season_id": "1190",
+        "season_name": "American Dad",
+        "season_number": "7",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1739750492863,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276116036",
+        "show_timestamp": 1739844000,
+        "status": "estimated",
+        "summary": "Stan gets Steve a job at a country club to prove the value of hard work.",
+        "summary_long": "Hoping to show Steve the value of hard work, Stan gets Steve a job at a country club. Francine struggles to come up with her own catchphrase.",
+        "taxonomy_id": "232852-009",
+        "title": "Stanny Tendergrass",
+        "title_id": "748141",
+        "tv_rating": "TV-14",
+        "upid": "DISC232852-009",
+        "upid_type": 12
     }
 ]
