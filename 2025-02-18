@@ -701,5 +701,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC271162-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271162_008_01_851",
+        "create_time": 1739768885666,
+        "episode_in_season": "8",
+        "episode_number": "S15:E08",
+        "external_id": "232845-005-851-1739862000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1739862000,
+        "last_time_machine_update": 1739768885666,
+        "last_update": 1739768885666,
+        "live": false,
+        "paid": "271162.008.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1739862000,
+        "season_id": "10564",
+        "season_name": "Family Guy",
+        "season_number": "15",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1739768885666,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276116156",
+        "show_timestamp": 1739862000,
+        "status": "estimated",
+        "summary": "Carter purchases Pawtucket Brewery and becomes Peter's new boss.",
+        "summary_long": "Carter purchases Pawtucket Brewery and becomes Peter's new boss. With great pleasure, he forces Peter to assume a variety of humiliating roles. Peter overhears Carter order staff to illegally make beer cans out of dangerous and cheap materials.",
+        "taxonomy_id": "271162-008",
+        "title": "Carter and Tricia",
+        "title_id": "2105387",
+        "tv_rating": "TV-14",
+        "upid": "DISC271162-008",
+        "upid_type": 12
     }
 ]
