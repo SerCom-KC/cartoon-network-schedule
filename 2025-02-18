@@ -1021,5 +1021,84 @@
         "tv_rating": "TV-14",
         "upid": "DISC251793-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "252055_001_02_851",
+        "create_time": 1739775832445,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "252055-001-851-1739869200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jellies, The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Teen Comedy"
+        ],
+        "guide_timestamp": 1739869200,
+        "last_time_machine_update": 1739775832445,
+        "last_update": 1739775832445,
+        "live": false,
+        "paid": "252055.001.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Tyler The Creator",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Lionel Boyce",
+                "role": "creator"
+            },
+            {
+                "character": "Cornell Jelly",
+                "name": "Phil LaMarr",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Barry Jelly",
+                "name": "Earl Skakel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Debbie Jelly",
+                "name": "A.J. Johnson",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 905,
+        "scheduled_timestamp": 1739869200,
+        "season_id": "13882",
+        "season_name": "The Jellies!",
+        "season_number": "2",
+        "season_summary": "After learning his parents adopted him, a teen boy tries to find himself.",
+        "season_summary_long": "After learning his jellyfish parents adopted him, a teen boy tries to find himself.",
+        "serial": 1739775832444,
+        "series_id": "2132025",
+        "series_name": "The Jellies!",
+        "series_summary": "After learning his parents adopted him, a teen boy tries to find himself.",
+        "series_summary_long": "After learning his jellyfish parents adopted him, a teen boy tries to find himself.",
+        "show_duration": 900,
+        "show_id": "276116196",
+        "show_timestamp": 1739869200,
+        "status": "estimated",
+        "summary": "Barry's brother comes to town and has a negative influence on Cornell.",
+        "summary_long": "Barry's brother comes to town and has a negative influence on Cornell.",
+        "taxonomy_id": "252055-001",
+        "title": "My Brother's Keeper",
+        "title_id": "2191418",
+        "tv_rating": "TV-MA",
+        "upid": "DISC252055-001",
+        "upid_type": 12
     }
 ]
