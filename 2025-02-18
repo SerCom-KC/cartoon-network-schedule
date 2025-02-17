@@ -6080,5 +6080,87 @@
         "tv_rating": "TV-PG",
         "upid": "DISC251164-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "251164_001_02_851",
+        "create_time": 1739831627613,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "251164-001-851-1739917800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Longhair and Doubledome",
+        "genres": [
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1739917800,
+        "last_time_machine_update": 1739831627613,
+        "last_update": 1739831627613,
+        "live": false,
+        "paid": "251164.001.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Gavrilo Gnatovich",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Gavrilo Gnatovich",
+                "role": "animator"
+            },
+            {
+                "character": "",
+                "name": "Gavrilo Gnatovich",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Gavrilo Gnatovich",
+                "role": "director"
+            },
+            {
+                "character": "Longhair",
+                "name": "Daniel Davis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Doubledome",
+                "name": "Jess Harnell",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "CE",
+        "release_year": 2002,
+        "runtime_minutes": 10,
+        "scheduled_duration": 480,
+        "scheduled_timestamp": 1739917800,
+        "season_id": "576",
+        "season_name": "Longhair and Doubledome",
+        "season_number": "1",
+        "season_summary": "Meet jolly but dimwitted Doubledome and smart but attitude-prone Longhair.",
+        "season_summary_long": "This cartoon follows two philosophical cavemen: Doubledome, a jolly but dimwitted caveman and Longhair, a rather smart caveman with an attitude problem.",
+        "serial": 1739831627613,
+        "series_id": "335937",
+        "series_name": "Longhair and Doubledome",
+        "series_summary": "Meet jolly but dimwitted Doubledome and smart but attitude-prone Longhair.",
+        "series_summary_long": "This cartoon follows two philosophical cavemen: Doubledome, a jolly but dimwitted caveman and Longhair, a rather smart caveman with an attitude problem.",
+        "show_duration": 600,
+        "show_id": "276119992",
+        "show_timestamp": 1739917800,
+        "status": "estimated",
+        "summary": "Upon discovering fire, Doubledome concludes that it must be his son, Bob.",
+        "summary_long": "Longhair and Doubledome discover fire. Having never before seen fire, Doubledome concludes that the blaze must be his son, Bob.",
+        "taxonomy_id": "251164-001",
+        "title": "Longhair and Doubledome 2: Where There's Smoke...There's Bob",
+        "title_id": "421548",
+        "tv_rating": "TV-PG",
+        "upid": "DISC251164-001",
+        "upid_type": 12
     }
 ]
