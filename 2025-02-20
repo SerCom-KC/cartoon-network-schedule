@@ -862,5 +862,96 @@
         "tv_rating": "TV-14",
         "upid": "DISC232841-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_020_01_851",
+        "create_time": 1739945480908,
+        "episode_in_season": "20",
+        "episode_number": "S18:E19",
+        "external_id": "232841-020-851-1740038400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1740038400,
+        "last_time_machine_update": 1739945480908,
+        "last_update": 1739945480908,
+        "live": false,
+        "paid": "232841.020.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1740038400,
+        "season_id": "25259",
+        "season_name": "American Dad",
+        "season_number": "18",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1739945480908,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276124328",
+        "show_timestamp": 1740038400,
+        "status": "estimated",
+        "summary": "To have a chance with a girl, Steve and Snot track down a keg of 4Loko.",
+        "summary_long": "In order to have a chance with a girl, Steve and Snot must track down a keg of 4Loko.",
+        "taxonomy_id": "232841-020",
+        "title": "Steve, Snot, and the Quest for the Og 4LOCO",
+        "title_id": "2408660",
+        "tv_rating": "TV-14",
+        "upid": "DISC232841-020",
+        "upid_type": 12
     }
 ]
