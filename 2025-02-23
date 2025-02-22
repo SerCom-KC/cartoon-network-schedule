@@ -866,5 +866,117 @@
         "tv_rating": "TV-PG",
         "upid": "DISC268720-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "V"
+        ],
+        "content_id": "251909_001_04_851",
+        "create_time": 1740206793712,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "251909-001-851-1740299400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Venture Bros., The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1740299400,
+        "last_time_machine_update": 1740206793712,
+        "last_update": 1740206793712,
+        "live": false,
+        "paid": "251909.001.04.851",
+        "participants": [
+            {
+                "character": "Thaddeus Venture",
+                "name": "James Urbaniak",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hank Venture",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "The Monarch",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dr. Mrs. The Monarch",
+                "name": "Doc Hammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Steven S.H. Yoon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Rachel Simon",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Doc Hammer",
+                "role": "writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1740299400,
+        "season_id": "970",
+        "season_name": "The Venture Bros.",
+        "season_number": "3",
+        "season_summary": "A scientist, his dim-witted children and their guard battle enemies.",
+        "season_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "serial": 1740206793712,
+        "series_id": "439722",
+        "series_name": "The Venture Bros.",
+        "series_summary": "A scientist, his dim-witted children and security guard battle enemies.",
+        "series_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "show_duration": 1800,
+        "show_id": "276136446",
+        "show_timestamp": 1740299400,
+        "status": "estimated",
+        "summary": "Truths about Dr. Venture's former arch nemeses are finally revealed.",
+        "summary_long": "The wait is over. The truths and half-truths about Dr. Venture's former arch nemeses, Dr. Girlfriend and The Monarch, are finally revealed (albeit obliquely) in an episode spanning twenty years.",
+        "taxonomy_id": "251909-001",
+        "title": "Shadowman 9: In the Cradle of Destiny",
+        "title_id": "718817",
+        "tv_rating": "TV-14",
+        "upid": "DISC251909-001",
+        "upid_type": 12
     }
 ]
