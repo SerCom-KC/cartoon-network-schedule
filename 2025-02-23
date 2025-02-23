@@ -4838,5 +4838,218 @@
         "tv_rating": "TV-14",
         "upid": "DISC271172-017",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271167_001_04_851",
+        "create_time": 1740278008584,
+        "episode_in_season": "1",
+        "episode_number": "S8:E01",
+        "external_id": "271167-001-851-1740369600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1740369600,
+        "last_time_machine_update": 1740278008584,
+        "last_update": 1740278008584,
+        "live": false,
+        "paid": "271167.001.04.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1740369600,
+        "season_id": "997",
+        "season_name": "Family Guy",
+        "season_number": "8",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1740278008584,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276140432",
+        "show_timestamp": 1740369600,
+        "status": "estimated",
+        "summary": "Stewie and Brian visit alternate universes and find one ruled by dogs.",
+        "summary_long": "Stewie and Brian visit alternate universes and become stuck in one ruled by dogs.",
+        "taxonomy_id": "271167-001",
+        "title": "Road to the Multiverse",
+        "title_id": "748755",
+        "tv_rating": "TV-14",
+        "upid": "DISC271167-001",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "239128_005_02_851",
+        "create_time": 1740278008584,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "239128-005-851-1740371400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Common Side Effects",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1740371400,
+        "last_time_machine_update": 1740278008584,
+        "last_update": 1740278008584,
+        "live": false,
+        "paid": "239128.005.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Joe Bennett",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Steve Hely",
+                "role": "creator"
+            },
+            {
+                "character": "Marshall Cuso",
+                "name": "Dave King",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Frances Applewhite",
+                "name": "Emily Pendergast",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rick Kruger",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Agent Harrington",
+                "name": "Martha Kelly",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Agent Copano",
+                "name": "Joseph Lee Anderson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Joe Bennett",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Steve Hely",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Mike Judge",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Greg Daniels",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Dustin Davis",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "James Merrill",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Max Minor",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Susan Shi",
+                "role": "producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1740371400,
+        "season_id": "27327",
+        "season_name": "Common Side Effects",
+        "season_number": "1",
+        "season_summary": "Former classmates Marshall and Frances uncover a sinister conspiracy.",
+        "season_summary_long": "Former classmates Marshall and Frances uncover a sinister conspiracy to destroy a mushroom that can cure all the world's diseases.",
+        "serial": 1740278008584,
+        "series_id": "2424754",
+        "series_name": "Common Side Effects",
+        "series_summary": "Former classmates Marshall and Frances uncover a sinister conspiracy.",
+        "series_summary_long": "Former classmates Marshall and Frances uncover a sinister conspiracy to destroy a mushroom that can cure all the world's diseases.",
+        "show_duration": 1800,
+        "show_id": "276140442",
+        "show_timestamp": 1740371400,
+        "status": "estimated",
+        "summary": "Marshall, Frances and their crazy neighbors deal with a dangerous incident.",
+        "summary_long": "Frances and Marshall attempt to grow the last of their mushroom supply, hoping their plan works. Copano and Harrington, surveilling Frances and Marshall, run into danger when confronted by a neighboring BMX gang.",
+        "taxonomy_id": "239128-005",
+        "title": "Star-Tel-Lite",
+        "title_id": "2424759",
+        "tv_rating": "TV-14",
+        "upid": "DISC239128-005",
+        "upid_type": 12
     }
 ]
