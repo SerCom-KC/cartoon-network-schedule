@@ -1036,5 +1036,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC251794-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "252055_006_02_851",
+        "create_time": 1740467132559,
+        "episode_in_season": "6",
+        "episode_number": "S2:E06",
+        "external_id": "252055-006-851-1740560400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jellies, The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Teen Comedy"
+        ],
+        "guide_timestamp": 1740560400,
+        "last_time_machine_update": 1740467132559,
+        "last_update": 1740467132559,
+        "live": false,
+        "paid": "252055.006.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Tyler The Creator",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Lionel Boyce",
+                "role": "creator"
+            },
+            {
+                "character": "Cornell Jelly",
+                "name": "Phil LaMarr",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Barry Jelly",
+                "name": "Earl Skakel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Debbie Jelly",
+                "name": "A.J. Johnson",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1740560400,
+        "season_id": "13882",
+        "season_name": "The Jellies!",
+        "season_number": "2",
+        "season_summary": "After learning his parents adopted him, a teen boy tries to find himself.",
+        "season_summary_long": "After learning his jellyfish parents adopted him, a teen boy tries to find himself.",
+        "serial": 1740467132558,
+        "series_id": "2132025",
+        "series_name": "The Jellies!",
+        "series_summary": "After learning his parents adopted him, a teen boy tries to find himself.",
+        "series_summary_long": "After learning his jellyfish parents adopted him, a teen boy tries to find himself.",
+        "show_duration": 900,
+        "show_id": "276148884",
+        "show_timestamp": 1740560400,
+        "status": "estimated",
+        "summary": "You know, every show has an episode like this.",
+        "summary_long": "You know, every show has an episode like this.",
+        "taxonomy_id": "252055-006",
+        "title": "The Storm",
+        "title_id": "2191420",
+        "tv_rating": "TV-MA",
+        "upid": "DISC252055-006",
+        "upid_type": 12
     }
 ]
