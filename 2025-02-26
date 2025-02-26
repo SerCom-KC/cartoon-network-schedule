@@ -6142,5 +6142,256 @@
         "tv_rating": "TV-14",
         "upid": "DISC232841-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "232841_009_01_851",
+        "create_time": 1740530652349,
+        "episode_in_season": "9",
+        "episode_number": "S18:E22",
+        "external_id": "232841-009-851-1740621600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1740621600,
+        "last_time_machine_update": 1740530652349,
+        "last_update": 1740530652349,
+        "live": false,
+        "paid": "232841.009.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1740621600,
+        "season_id": "25259",
+        "season_name": "American Dad",
+        "season_number": "18",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1740530652349,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276152810",
+        "show_timestamp": 1740621600,
+        "status": "estimated",
+        "summary": "Stan goes to great lengths to regain his title of \"King of Presents.\"",
+        "summary_long": "When Steve gives the family better Christmas gifts than Stan, Stan goes to great lengths to regain his title of \"King of Presents.\"",
+        "taxonomy_id": "232841-009",
+        "title": "Into the Jingleverse",
+        "title_id": "2392760",
+        "tv_rating": "TV-14",
+        "upid": "DISC232841-009",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271173_017_01_851",
+        "create_time": 1740530652349,
+        "episode_in_season": "17",
+        "episode_number": "S10:E17",
+        "external_id": "271173-017-851-1740623400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1740623400,
+        "last_time_machine_update": 1740530652349,
+        "last_update": 1740530652349,
+        "live": false,
+        "paid": "271173.017.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1740623400,
+        "season_id": "999",
+        "season_name": "Family Guy",
+        "season_number": "10",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1740530652349,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276152820",
+        "show_timestamp": 1740623400,
+        "status": "estimated",
+        "summary": "Peter, Brian, Joe, and Quagmire discover they're the last people on Earth.",
+        "summary_long": "After a car accident, Peter, Brian, Joe, and Quagmire wake up in a hospital with no memory and discover that they're the last people left on Earth.",
+        "taxonomy_id": "271173-017",
+        "title": "Forget Me Not",
+        "title_id": "865338",
+        "tv_rating": "TV-14",
+        "upid": "DISC271173-017",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "271171_015_03_851",
+        "create_time": 1740532095581,
+        "episode_in_season": "15",
+        "episode_number": "S5:E15",
+        "external_id": "271171-015-851-1740625200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1740625200,
+        "last_time_machine_update": 1740532095581,
+        "last_update": 1740532095581,
+        "live": false,
+        "paid": "271171.015.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin, Stewie Griffin, Brian Griffin, Quagmire, Tom Tucker",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1740625200,
+        "season_id": "994",
+        "season_name": "Family Guy",
+        "season_number": "5",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1740532095581,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276152830",
+        "show_timestamp": 1740625200,
+        "status": "estimated",
+        "summary": "When their church thinks Stewie is possessed, the family goes on the run.",
+        "summary_long": "When their church thinks Stewie is possessed by the devil, the family goes on the run and ends up in Texas.",
+        "taxonomy_id": "271171-015",
+        "title": "Boys Do Cry",
+        "title_id": "652678",
+        "tv_rating": "TV-14",
+        "upid": "DISC271171-015",
+        "upid_type": 12
     }
 ]
