@@ -4125,5 +4125,94 @@
         "tv_rating": "TV-G",
         "upid": "DISC250977-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "250977_010_03_851",
+        "create_time": 1740669265744,
+        "episode_in_season": "10",
+        "episode_number": "S1:E10",
+        "external_id": "250977-010-851-1740762000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "New Scooby-Doo Mysteries, The",
+        "genres": [
+            "Classic Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1740762000,
+        "last_time_machine_update": 1740669265744,
+        "last_update": 1740669265744,
+        "live": false,
+        "paid": "250977.010.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "executive-producer"
+            },
+            {
+                "character": "Shaggy",
+                "name": "Casey Kasem",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Scooby-Doo/Scrappy-Doo",
+                "name": "Don Messick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne",
+                "name": "Heather North",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma",
+                "name": "Marla Frumkin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 1984,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1740762000,
+        "season_id": "220",
+        "season_name": "The New Scooby-Doo Mysteries",
+        "season_number": "1",
+        "season_summary": "Scooby-Doo and his detective pals solve all-new, spine-tingling mysteries.",
+        "season_summary_long": "Scooby-Doo and his detective pals solve all-new, brain-puzzling, spine-tingling mysteries.",
+        "serial": 1740669265744,
+        "series_id": "313002",
+        "series_name": "The New Scooby-Doo Mysteries",
+        "series_summary": "Scooby-Doo and his detective pals solve all-new, spine-tingling mysteries.",
+        "series_summary_long": "Scooby-Doo and his detective pals solve all-new, brain-puzzling, spine-tingling mysteries.",
+        "show_duration": 1800,
+        "show_id": "276160752",
+        "show_timestamp": 1740762000,
+        "status": "estimated",
+        "summary": "The gang solves a crime while in Vegas to see Dooby-Doo.",
+        "summary_long": "The gang solves a crime while in Vegas to see Scooby's famous cousin, Dooby-Doo. Then, they investigate a riverboat ghost.",
+        "taxonomy_id": "250977-010",
+        "title": "The Dooby-Dooby Doo Ado/Snowboat Scooby",
+        "title_id": "123647",
+        "tv_rating": "TV-G",
+        "upid": "DISC250977-010",
+        "upid_type": 12
     }
 ]
