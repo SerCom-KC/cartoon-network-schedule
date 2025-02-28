@@ -4665,5 +4665,84 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC168240-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "251053_000_04_851",
+        "create_time": 1740768285961,
+        "episode_in_season": "0",
+        "external_id": "251053-000-851-1740861000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo and the Witch's Ghost",
+        "genres": [
+            "Animated Movies",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1740861000,
+        "last_time_machine_update": 1740768285961,
+        "last_update": 1740768285961,
+        "live": false,
+        "paid": "251053.000.04.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo/Shaggy Rogers",
+                "name": "Scott Innes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Mary Kay Bergman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "BJ Ward",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Ben Ravencroft",
+                "name": "Tim Curry",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Jim Stenstrum",
+                "role": "director"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "FF",
+        "release_year": 1999,
+        "runtime_minutes": 90,
+        "scheduled_duration": 5401,
+        "scheduled_timestamp": 1740861000,
+        "serial": 1740768285960,
+        "series_id": "107456",
+        "series_name": "Scooby-Doo and the Witch's Ghost",
+        "series_summary": "Ben Ravencroft invites the Scooby gang to a haunted harvest festival.",
+        "series_summary_long": "When the gang meets up with writer Ben Ravencroft, he invites them to New England for his hometown's Autumn Harvest Festival. Things take a supernatural detour when they learn the place is haunted by Ben's ancestor Sarah!",
+        "show_duration": 5400,
+        "show_id": "276164898",
+        "show_timestamp": 1740861000,
+        "status": "estimated",
+        "summary": "Ben Ravencroft invites the Scooby gang to a haunted harvest festival.",
+        "summary_long": "When the gang meets up with writer Ben Ravencroft, he invites them to New England for his hometown's Autumn Harvest Festival. Things take a supernatural detour when they learn the place is haunted by Ben's ancestor Sarah!",
+        "taxonomy_id": "251053-000",
+        "title": "Scooby-Doo and the Witch's Ghost",
+        "title_id": "332000",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC251053-000",
+        "upid_type": 12
     }
 ]
