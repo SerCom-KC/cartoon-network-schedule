@@ -570,5 +570,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC271172-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271172_020_02_851",
+        "create_time": 1740892266830,
+        "dvs": true,
+        "episode_in_season": "20",
+        "episode_number": "S16:E20",
+        "external_id": "271172-020-851-1740985200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1740985200,
+        "last_time_machine_update": 1740892266830,
+        "last_update": 1740892266830,
+        "live": false,
+        "paid": "271172.020.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1740985200,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1740892266829,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276169194",
+        "show_timestamp": 1740985200,
+        "status": "estimated",
+        "summary": "Peter falls into a coma and meets God face-to-face.",
+        "summary_long": "Peter falls into a coma and meets God face-to-face. He asks God some of life's tough questions.",
+        "taxonomy_id": "271172-020",
+        "title": "Are You There God? It's Me, Peter",
+        "title_id": "2539786",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-020",
+        "upid_type": 12
     }
 ]
