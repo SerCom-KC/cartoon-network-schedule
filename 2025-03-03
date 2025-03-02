@@ -488,5 +488,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC251865-021",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271172_018_02_851",
+        "create_time": 1740890911101,
+        "episode_in_season": "18",
+        "episode_number": "S16:E18",
+        "external_id": "271172-018-851-1740983400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1740983400,
+        "last_time_machine_update": 1740890911101,
+        "last_update": 1740890911101,
+        "live": false,
+        "paid": "271172.018.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1740983400,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1740890911100,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276169184",
+        "show_timestamp": 1740983400,
+        "status": "estimated",
+        "summary": "To help promote the brewery to millennials, Peter adopts the lifestyle.",
+        "summary_long": "To help promote the brewery to millennials, Peter adopts the millennial lifestyle.",
+        "taxonomy_id": "271172-018",
+        "title": "HTTPete",
+        "title_id": "2539784",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-018",
+        "upid_type": 12
     }
 ]
