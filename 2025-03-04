@@ -521,5 +521,169 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251867-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271164_012_03_851",
+        "create_time": 1740978273593,
+        "dvs": true,
+        "episode_in_season": "12",
+        "episode_number": "S6:E12",
+        "external_id": "271164-012-851-1741069800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1741069800,
+        "last_time_machine_update": 1740978273593,
+        "last_update": 1740978273593,
+        "live": false,
+        "paid": "271164.012.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1741069800,
+        "season_id": "995",
+        "season_name": "Family Guy",
+        "season_number": "6",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1740978273593,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276173420",
+        "show_timestamp": 1741069800,
+        "status": "estimated",
+        "summary": "When Peter gets a pet parrot, he begins acting like a pirate.",
+        "summary_long": "When Peter gets a pet parrot, he begins acting like a pirate. Peter accidentally kills the bird after raising hell through all of Quahog. Meanwhile, when Brian is visiting the vet, Chris falls in love with the intern, Anna.",
+        "taxonomy_id": "271164-012",
+        "title": "Long John Peter",
+        "title_id": "715148",
+        "tv_rating": "TV-14",
+        "upid": "DISC271164-012",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271170_002_01_851",
+        "create_time": 1740978273594,
+        "episode_in_season": "2",
+        "episode_number": "S7:E02",
+        "external_id": "271170-002-851-1741071600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1741071600,
+        "last_time_machine_update": 1740978273594,
+        "last_update": 1740978273594,
+        "live": false,
+        "paid": "271170.002.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1741071600,
+        "season_id": "996",
+        "season_name": "Family Guy",
+        "season_number": "7",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1740978273593,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276173430",
+        "show_timestamp": 1741071600,
+        "status": "estimated",
+        "summary": "When Peter finds Jesus in a store, he's determined to be his best friend.",
+        "summary_long": "Peter rediscovers his love for the painfully annoying song, \"Surfin' Bird,\" which drives people around him crazy. When Peter finds Jesus in a record store, he's determined to be his new best friend.",
+        "taxonomy_id": "271170-002",
+        "title": "I Dream of Jesus",
+        "title_id": "730919",
+        "tv_rating": "TV-14",
+        "upid": "DISC271170-002",
+        "upid_type": 12
     }
 ]
