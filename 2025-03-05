@@ -6384,5 +6384,143 @@
         "tv_rating": "TV-14",
         "upid": "DISC271170-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271170_009_03_851",
+        "create_time": 1741141797182,
+        "episode_in_season": "9",
+        "episode_number": "S7:E09",
+        "external_id": "271170-009-851-1741233600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1741233600,
+        "last_time_machine_update": 1741141797182,
+        "last_update": 1741141797182,
+        "live": false,
+        "paid": "271170.009.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1741233600,
+        "season_id": "996",
+        "season_name": "Family Guy",
+        "season_number": "7",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1741141797182,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276181532",
+        "show_timestamp": 1741233600,
+        "status": "estimated",
+        "summary": "Peter cashes in a raffle ticket and wins a golf outing with O.J. Simpson.",
+        "summary_long": "Peter cashes in a raffle ticket and wins a golf outing with O.J. Simpson, but when he brings home the infamous former running back, the residents of Quahog are not so welcoming to the new houseguest.",
+        "taxonomy_id": "271170-009",
+        "title": "The Juice Is Loose",
+        "title_id": "730926",
+        "tv_rating": "TV-14",
+        "upid": "DISC271170-009",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251737_007_03_851",
+        "create_time": 1741142834728,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "251737-007-851-1741235400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Space & Beyond"
+        ],
+        "guide_timestamp": 1741235400,
+        "last_time_machine_update": 1741142834728,
+        "last_update": 1741142834728,
+        "live": false,
+        "paid": "251737.007.03.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1741235400,
+        "season_id": "7491",
+        "season_name": "Rick and Morty",
+        "season_number": "1",
+        "serial": 1741142834728,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276181542",
+        "show_timestamp": 1741235400,
+        "status": "estimated",
+        "summary": "Morty convinces Rick to buy him a sexy robot. Guess what tho? Trouble happens, dog.",
+        "summary_long": "Morty convinces Rick to buy him a sexy robot. Guess what tho? Trouble happens, dog.",
+        "taxonomy_id": "251737-007",
+        "title": "Raising Gazorpazorp",
+        "title_id": "2013513",
+        "tv_rating": "TV-14",
+        "upid": "DISC251737-007",
+        "upid_type": 12
     }
 ]
