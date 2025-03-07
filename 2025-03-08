@@ -1063,5 +1063,76 @@
         "tv_rating": "TV-MA",
         "upid": "DISC229006-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "229692_001_02_851",
+        "create_time": 1741333062476,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "229692-001-851-1741426200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Infomercials",
+        "genres": [
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1741426200,
+        "last_time_machine_update": 1741333062476,
+        "last_update": 1741333062476,
+        "live": false,
+        "paid": "229692.001.02.851",
+        "participants": [
+            {
+                "character": "Denny Boffa",
+                "name": "Michael Mccafferty",
+                "role": "actor"
+            },
+            {
+                "character": "Mark",
+                "name": "Randall Park",
+                "role": "actor"
+            },
+            {
+                "character": "Eileen",
+                "name": "Jean Villepique",
+                "role": "actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "E",
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1741426200,
+        "season_id": "7402",
+        "season_name": "Infomercials",
+        "season_number": "1",
+        "season_summary": "Parodies and cliches of television programs.",
+        "season_summary_long": "Parodies and cliches of television programs.",
+        "serial": 1741333062476,
+        "series_id": "2007823",
+        "series_name": "Infomercials",
+        "series_summary": "Parodies and cliches of television programs.",
+        "series_summary_long": "Parodies and cliches of television programs.",
+        "show_duration": 900,
+        "show_id": "276189884",
+        "show_timestamp": 1741426200,
+        "status": "estimated",
+        "summary": "Denny Boffa wants to save viewers time with his new invention: an all-in-one multi-purpose broom tool called the Broomshakalaka. But when things go violently wrong on set, Denny is the one running out of time.",
+        "summary_long": "Denny Boffa wants to save viewers time with his new invention: an all-in-one multi-purpose broom tool called the Broomshakalaka. But when things go violently wrong on set, Denny is the one running out of time.",
+        "taxonomy_id": "229692-001",
+        "title": "Broomshakalaka",
+        "title_id": "2007826",
+        "tv_rating": "TV-14",
+        "upid": "DISC229692-001",
+        "upid_type": 12
     }
 ]
