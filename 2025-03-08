@@ -4248,5 +4248,85 @@
         "tv_rating": "TV-G",
         "upid": "DISC168446-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "170016_000_05_851",
+        "create_time": 1741373148273,
+        "episode_in_season": "0",
+        "external_id": "170016-000-851-1741465800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo and the Legend of the Vampire",
+        "genres": [
+            "Animated Movies",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1741465800,
+        "last_time_machine_update": 1741373148273,
+        "last_update": 1741373148273,
+        "live": false,
+        "paid": "170016.000.05.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Heather North",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Casey Kasem",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Nicole Jaffe",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Scott Jeralds",
+                "role": "director"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "FF",
+        "release_year": 2003,
+        "runtime_minutes": 90,
+        "scheduled_duration": 5400,
+        "scheduled_timestamp": 1741465800,
+        "season_number": "1",
+        "serial": 1741373148273,
+        "series_id": "77313",
+        "series_name": "Scooby-Doo and the Legend of The Vampire Rock",
+        "series_summary": "Scooby-Doo and the gang attend a music festival held at Vampire Rock.",
+        "series_summary_long": "On vacation in Australia, Scooby-Doo and the gang attend a music festival held at Vampire Rock. The music goes flat when the gang learns a creature called the Yowie Yahoo is kidnapping the musical acts and turning them into vampires!",
+        "show_duration": 5400,
+        "show_id": "381276419",
+        "show_timestamp": 1741465800,
+        "status": "estimated",
+        "summary": "Scooby-Doo and the gang attend a music festival held at Vampire Rock.",
+        "summary_long": "On vacation in Australia, Scooby-Doo and the gang attend a music festival held at Vampire Rock. The music goes flat when the gang learns a creature called the Yowie Yahoo is kidnapping the musical acts and turning them into vampires!",
+        "taxonomy_id": "170016-000",
+        "title": "Scooby-Doo and the Legend of The Vampire Rock",
+        "title_id": "439862",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC170016-000",
+        "upid_type": 12
     }
 ]
