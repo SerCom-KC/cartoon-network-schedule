@@ -423,5 +423,66 @@
         "tv_rating": "TV-14",
         "upid": "DISC251673-000",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_003_02_851",
+        "create_time": 1741325705994,
+        "dvs": true,
+        "episode_in_season": "3",
+        "episode_number": "S10:E03",
+        "external_id": "250264-003-851-1741419000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1741419000,
+        "last_time_machine_update": 1741325705994,
+        "last_update": 1741325705994,
+        "live": false,
+        "paid": "250264.003.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1741419000,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1741325705993,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276189834",
+        "show_timestamp": 1741419000,
+        "status": "estimated",
+        "summary": "Bob and Tina build a boat.",
+        "summary_long": "Tina and Bob participate in the Thundergirls' father-daughter cardboard boat race, and Tina tries to hide her feelings about Bob's awful boat-building skills. Meanwhile, Linda drags Louise and Gene to a fire station open house and overstays her welcome.",
+        "taxonomy_id": "250264-003",
+        "title": "Motor, She Boat",
+        "title_id": "2438941",
+        "tv_rating": "TV-14",
+        "upid": "DISC250264-003",
+        "upid_type": 12
     }
 ]
