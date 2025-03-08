@@ -2999,5 +2999,84 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228331-028",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "243453_025_01_851",
+        "create_time": 1741451929630,
+        "episode_in_season": "25",
+        "episode_number": "S4:E25",
+        "external_id": "243453-025-851-1741545000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Uncle Grandpa",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1741545000,
+        "last_time_machine_update": 1741451929630,
+        "last_update": 1741451929630,
+        "live": false,
+        "paid": "243453.025.01.851",
+        "participants": [
+            {
+                "character": "Uncle Grandpa",
+                "name": "Peter Browngardt",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Belly Bag",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pizza Steve",
+                "name": "Adam Devine",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Mr. Gus",
+                "name": "Kevin Michael Richardson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Peter Browngardt",
+                "role": "creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 916,
+        "scheduled_timestamp": 1741545000,
+        "season_id": "10229",
+        "season_name": "Uncle Grandpa",
+        "season_number": "4",
+        "season_summary": "Uncle Grandpa travels the world to save the day.",
+        "season_summary_long": "Uncle Grandpa is everyone on Earth's magical uncle AND grandpa, who travels around helping people and changing their lives forever.",
+        "serial": 1741451929630,
+        "series_id": "2007332",
+        "series_name": "Uncle Grandpa",
+        "series_summary": "Uncle Grandpa travels the world to save the day.",
+        "series_summary_long": "Uncle Grandpa is everyone on Earth's magical uncle AND grandpa, who travels around helping people and changing their lives forever.",
+        "show_duration": 916,
+        "show_id": "276197576",
+        "show_timestamp": 1741545000,
+        "status": "estimated",
+        "summary": "Cupid, too lonely to perform his duties, comes to Uncle Grandpa for help.",
+        "summary_long": "Cupid, too lonely to perform his Valentine's Day duties, comes to Uncle Grandpa for help.",
+        "taxonomy_id": "243453-025",
+        "title": "Uncle Cupid",
+        "title_id": "2069940",
+        "tv_rating": "TV-PG",
+        "upid": "DISC243453-025",
+        "upid_type": 12
     }
 ]
