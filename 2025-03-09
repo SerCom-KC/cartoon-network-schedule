@@ -536,5 +536,107 @@
         "tv_rating": "TV-PG",
         "upid": "DISC251121-080",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "268302_009_03_851",
+        "create_time": 1741412223843,
+        "episode_in_season": "9",
+        "episode_number": "S1:E09",
+        "external_id": "268302-009-851-1741505400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Naruto",
+        "genres": [
+            "Action",
+            "Adult Animation",
+            "Adventure",
+            "Anime"
+        ],
+        "guide_timestamp": 1741505400,
+        "last_time_machine_update": 1741412223843,
+        "last_update": 1741412223843,
+        "live": false,
+        "paid": "268302.009.03.851",
+        "participants": [
+            {
+                "character": "Naruto Uzumaki",
+                "name": "Junko Takeuchi",
+                "role": "actor"
+            },
+            {
+                "character": "Naruto Uzumaki",
+                "name": "Maile Flanagan",
+                "role": "actor"
+            },
+            {
+                "character": "Sakura Haruno",
+                "name": "Chie Nakamura",
+                "role": "actor"
+            },
+            {
+                "character": "Sakura Haruno",
+                "name": "Kate Higgins",
+                "role": "actor"
+            },
+            {
+                "character": "",
+                "name": "Hayato Date",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Ken Hagino",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Tomoko Gushima",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Masashi Kishimoto",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Satoru Nishizono",
+                "role": "writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1741505400,
+        "season_id": "1444",
+        "season_name": "Naruto",
+        "season_number": "1",
+        "season_summary": "Naruto is determined to become the Hokage, a ninja and village leader.",
+        "season_summary_long": "Naruto Uzumaki of the Hidden Leaf Village carries within him the ultimate secret. Can this plucky prankster achieve his goal to become the Hokage?",
+        "serial": 1741412223843,
+        "series_id": "622269",
+        "series_name": "Naruto",
+        "series_summary": "Naruto is determined to become the Hokage, a ninja and village leader.",
+        "series_summary_long": "Naruto Uzumaki of the Hidden Leaf Village carries within him the ultimate secret. Can this plucky prankster achieve his goal to become the Hokage?",
+        "show_duration": 1800,
+        "show_id": "276193790",
+        "show_timestamp": 1741505400,
+        "status": "estimated",
+        "summary": "Thanks to Naruto's ingenious plan, Kakashi is freed from the water prison.",
+        "summary_long": "Thanks to Naruto's ingenious plan, Kakashi is freed from the water prison.",
+        "taxonomy_id": "268302-009",
+        "title": "Kakashi: Sharingan Warrior",
+        "title_id": "622463",
+        "tv_rating": "TV-14",
+        "upid": "DISC268302-009",
+        "upid_type": 12
     }
 ]
