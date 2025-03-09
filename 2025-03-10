@@ -6695,5 +6695,97 @@
         "tv_rating": "TV-14",
         "upid": "DISC232855-022",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232855_023_04_851",
+        "create_time": 1741562459521,
+        "episode_in_season": "23",
+        "episode_number": "S9:E23",
+        "external_id": "232855-023-851-1741654800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1741654800,
+        "last_time_machine_update": 1741562459521,
+        "last_update": 1741562459521,
+        "live": false,
+        "paid": "232855.023.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1741654800,
+        "season_id": "7619",
+        "season_name": "American Dad",
+        "season_number": "9",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1741562459521,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276201982",
+        "show_timestamp": 1741654800,
+        "status": "estimated",
+        "summary": "Roger sways Francine to head to a forest where they find a crashed ship.",
+        "summary_long": "Roger has been acting needy with the family. He senses something in the air that is affecting his behavior, but he can\u2019t tell where its coming from. Roger leads Francine to a forest, where they find a crashed ship with the alien still alive.",
+        "taxonomy_id": "232855-023",
+        "title": "Blagsnarst: A Love Story",
+        "title_id": "2012722",
+        "tv_rating": "TV-14",
+        "upid": "DISC232855-023",
+        "upid_type": 12
     }
 ]
