@@ -6327,5 +6327,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC271167-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271167_006_02_851",
+        "create_time": 1741908361783,
+        "dvs": true,
+        "episode_in_season": "6",
+        "episode_number": "S8:E06",
+        "external_id": "271167-006-851-1742000400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1742000400,
+        "last_time_machine_update": 1741908361783,
+        "last_update": 1741908361783,
+        "live": false,
+        "paid": "271167.006.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1742000400,
+        "season_id": "997",
+        "season_name": "Family Guy",
+        "season_number": "8",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1741908361783,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276218356",
+        "show_timestamp": 1742000400,
+        "status": "estimated",
+        "summary": "Peter's ham radio communicates with the ghost of Ronald Regan.",
+        "summary_long": "Peter's ham radio communicates with the ghost of Ronald Regan. Quagmire discovers he fathered a baby girl. Stewie has himself cloned.",
+        "taxonomy_id": "271167-006",
+        "title": "Quagmire's Baby",
+        "title_id": "748753",
+        "tv_rating": "TV-14",
+        "upid": "DISC271167-006",
+        "upid_type": 12
     }
 ]
