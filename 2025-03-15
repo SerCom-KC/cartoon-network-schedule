@@ -3964,5 +3964,86 @@
         "tv_rating": "TV-G",
         "upid": "DISC232300-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "169843_000_01_851",
+        "create_time": 1741974700745,
+        "episode_in_season": "0",
+        "external_id": "169843-000-851-1742067000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Camp Scare",
+        "genres": [
+            "Animated Movies",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1742067000,
+        "last_time_machine_update": 1741974700745,
+        "last_update": 1741974700745,
+        "live": false,
+        "paid": "169843.000.01.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Ethan Spaulding",
+                "role": "director"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "FF",
+        "release_year": 2010,
+        "runtime_minutes": 69,
+        "scheduled_duration": 5406,
+        "scheduled_timestamp": 1742067000,
+        "season_number": "1",
+        "serial": 1741974700745,
+        "series_id": "77213",
+        "series_name": "Scooby-Doo! Camp Scare",
+        "series_summary": "At camp, the activities are endless and the urban legends are intense.",
+        "series_summary_long": "Welcome to Camp Little Moose where the counselors are friendly, the activities are endless and the urban legends are intense. In fact, every time someone tells a ghost story, the creepy creature comes to life!",
+        "show_duration": 5406,
+        "show_id": "276222252",
+        "show_timestamp": 1742067000,
+        "status": "estimated",
+        "summary": "At camp, the activities are endless and the urban legends are intense.",
+        "summary_long": "Welcome to Camp Little Moose where the counselors are friendly, the activities are endless and the urban legends are intense. In fact, every time someone tells a ghost story, the creepy creature comes to life!",
+        "taxonomy_id": "169843-000",
+        "title": "Scooby-Doo! Camp Scare",
+        "title_id": "827315",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC169843-000",
+        "upid_type": 12
     }
 ]
