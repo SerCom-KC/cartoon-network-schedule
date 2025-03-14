@@ -905,5 +905,70 @@
         "tv_rating": "TV-MA",
         "upid": "DISC229006-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "S"
+        ],
+        "content_id": "229692_003_02_851",
+        "create_time": 1741934493932,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "229692-003-851-1742027400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Infomercials",
+        "genres": [
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1742027400,
+        "last_time_machine_update": 1741934493932,
+        "last_update": 1741934493932,
+        "live": false,
+        "paid": "229692.003.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Alan Resnick",
+                "role": "host"
+            },
+            {
+                "character": "",
+                "name": "Dan Deacon",
+                "role": "host"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "E",
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1742027400,
+        "season_id": "7402",
+        "season_name": "Infomercials",
+        "season_number": "1",
+        "season_summary": "Parodies and cliches of television programs.",
+        "season_summary_long": "Parodies and cliches of television programs.",
+        "serial": 1741934493932,
+        "series_id": "2007823",
+        "series_name": "Infomercials",
+        "series_summary": "Parodies and cliches of television programs.",
+        "series_summary_long": "Parodies and cliches of television programs.",
+        "show_duration": 900,
+        "show_id": "276218516",
+        "show_timestamp": 1742027400,
+        "status": "estimated",
+        "summary": "A hot young tech wizard, Alan Resnick, takes you through his 4 step program for creating your own digital avatar. He shares his personal experiences of popularity, immortality and having it all.",
+        "summary_long": "A hot young tech wizard, Alan Resnick, takes you through his 4 step program for creating your own digital avatar. He shares his personal experiences of popularity, immortality and having it all.",
+        "taxonomy_id": "229692-003",
+        "title": "Live Forever as You Are Now with Alan Resnick",
+        "title_id": "2007830",
+        "tv_rating": "TV-14",
+        "upid": "DISC229692-003",
+        "upid_type": 12
     }
 ]
