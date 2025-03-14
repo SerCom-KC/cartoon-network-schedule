@@ -4607,5 +4607,85 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-014",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "S"
+        ],
+        "content_id": "271167_010_02_851",
+        "create_time": 1741996587380,
+        "dvs": true,
+        "episode_in_season": "10",
+        "episode_number": "S8:E10",
+        "external_id": "271167-010-851-1742088600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1742088600,
+        "last_time_machine_update": 1741996587380,
+        "last_update": 1741996587380,
+        "live": false,
+        "paid": "271167.010.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1742088600,
+        "season_id": "997",
+        "season_name": "Family Guy",
+        "season_number": "8",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1741996587379,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276222352",
+        "show_timestamp": 1742088600,
+        "status": "estimated",
+        "summary": "Peter develops amnesia while appearing on the game show \"Family Feud.\"",
+        "summary_long": "Peter develops amnesia while appearing on the game show \"Family Feud.\" Lois goes on a date with Quagmire after Peter returns home with another woman.",
+        "taxonomy_id": "271167-010",
+        "title": "Big Man on Hippocampus",
+        "title_id": "748758",
+        "tv_rating": "TV-14",
+        "upid": "DISC271167-010",
+        "upid_type": 12
     }
 ]
