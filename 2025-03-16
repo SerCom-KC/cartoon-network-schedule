@@ -4597,5 +4597,89 @@
         "tv_rating": "TV-14",
         "upid": "DISC232841-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "255276_020_04_851",
+        "create_time": 1742079764892,
+        "episode_in_season": "20",
+        "episode_number": "S19:E20",
+        "external_id": "255276-020-851-1742173200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1742173200,
+        "last_time_machine_update": 1742079764892,
+        "last_update": 1742079764892,
+        "live": false,
+        "paid": "255276.020.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1742173200,
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1742079764892,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276226428",
+        "show_timestamp": 1742173200,
+        "status": "estimated",
+        "summary": "Steve spends his summer working on an app with some unlikely friends.",
+        "summary_long": "Steve spends his summer working on an app with some unlikely friends, while the rest of the family become cord-cutters.",
+        "taxonomy_id": "255276-020",
+        "title": "Silicon Steve",
+        "title_id": "2445763",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-020",
+        "upid_type": 12
     }
 ]
