@@ -740,5 +740,118 @@
         "tv_rating": "TV-PG",
         "upid": "DISC268720-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251909_004_04_851",
+        "create_time": 1742017227186,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "251909-004-851-1742110200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Venture Bros., The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1742110200,
+        "last_time_machine_update": 1742017227186,
+        "last_update": 1742017227186,
+        "live": false,
+        "paid": "251909.004.04.851",
+        "participants": [
+            {
+                "character": "Thaddeus Venture",
+                "name": "James Urbaniak",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hank Venture",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "The Monarch",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dr. Mrs. The Monarch",
+                "name": "Doc Hammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Steven S.H. Yoon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Rachel Simon",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Doc Hammer",
+                "role": "writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1742110200,
+        "season_id": "970",
+        "season_name": "The Venture Bros.",
+        "season_number": "3",
+        "season_summary": "A scientist, his dim-witted children and their guard battle enemies.",
+        "season_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "serial": 1742017227186,
+        "series_id": "439722",
+        "series_name": "The Venture Bros.",
+        "series_summary": "A scientist, his dim-witted children and security guard battle enemies.",
+        "series_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "show_duration": 1800,
+        "show_id": "276222462",
+        "show_timestamp": 1742110200,
+        "status": "estimated",
+        "summary": "The Monarch and Dr. Mrs. The Monarch settle into their new home.",
+        "summary_long": "As The Monarch and Dr. Mrs. The Monarch settle into their new home and a new, no-more-arching-Dr.-Venture anymore life, Dr. Venture receives an unorthodox introduction to his new Guild-assigned nemesis.",
+        "taxonomy_id": "251909-004",
+        "title": "Home Is Where the Hate Is",
+        "title_id": "718822",
+        "tv_rating": "TV-14",
+        "upid": "DISC251909-004",
+        "upid_type": 12
     }
 ]
