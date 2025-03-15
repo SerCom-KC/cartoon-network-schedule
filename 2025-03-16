@@ -4681,5 +4681,88 @@
         "tv_rating": "TV-14",
         "upid": "DISC255276-020",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271172_004_02_851",
+        "create_time": 1742082190427,
+        "dvs": true,
+        "episode_in_season": "4",
+        "episode_number": "S16:E04",
+        "external_id": "271172-004-851-1742175000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1742175000,
+        "last_time_machine_update": 1742082190427,
+        "last_update": 1742082190427,
+        "live": false,
+        "paid": "271172.004.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1742175000,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1742082190427,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276226438",
+        "show_timestamp": 1742175000,
+        "status": "estimated",
+        "summary": "A special dollar bill gets passed from character to character in Quahog.",
+        "summary_long": "After Chris gets a special one-dollar bill for his birthday and quickly loses it, the dollar gets passed from character to character throughout Quahog.",
+        "taxonomy_id": "271172-004",
+        "title": "Follow the Money",
+        "title_id": "2539789",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-004",
+        "upid_type": 12
     }
 ]
