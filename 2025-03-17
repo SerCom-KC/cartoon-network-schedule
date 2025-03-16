@@ -1424,5 +1424,84 @@
         "tv_rating": "TV-14",
         "upid": "DISC270018-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "251835_002_02_851",
+        "create_time": 1742107147707,
+        "episode_in_season": "2",
+        "episode_number": "S10:E02",
+        "external_id": "251835-002-851-1742200200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1742200200,
+        "last_time_machine_update": 1742107147707,
+        "last_update": 1742107147707,
+        "live": false,
+        "paid": "251835.002.02.851",
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 903,
+        "scheduled_timestamp": 1742200200,
+        "season_id": "15554",
+        "season_name": "Aqua Teen Hunger Force (Season 10) (Non-Explicit RPK)",
+        "season_number": "10",
+        "season_summary": "Three food items and their life together in South Jersey.",
+        "season_summary_long": "Three food items and their life together in South Jersey.",
+        "serial": 1742107147707,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "series_summary": "Three food items and their life together in South Jersey.",
+        "series_summary_long": "Three food items and their life together in South Jersey.",
+        "show_duration": 900,
+        "show_id": "276226618",
+        "show_timestamp": 1742200200,
+        "status": "estimated",
+        "summary": "Shake enlists Carl's help in training for the title of \"Coolest Dude Ever.\"",
+        "summary_long": "Shake enlists Carl's help in training for the title of \"Coolest Dude Ever.\"",
+        "taxonomy_id": "251835-002",
+        "title": "The Dudies",
+        "title_id": "2005988",
+        "tv_rating": "TV-14",
+        "upid": "DISC251835-002",
+        "upid_type": 12
     }
 ]
