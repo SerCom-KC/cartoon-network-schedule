@@ -1503,5 +1503,133 @@
         "tv_rating": "TV-14",
         "upid": "DISC251835-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L"
+        ],
+        "content_id": "251835_003_02_851",
+        "create_time": 1742109594928,
+        "episode_in_season": "3",
+        "episode_number": "S10:E03",
+        "external_id": "251835-003-851-1742201100",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1742201100,
+        "last_time_machine_update": 1742109594928,
+        "last_update": 1742109594928,
+        "live": false,
+        "paid": "251835.003.02.851",
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1742201100,
+        "season_id": "15554",
+        "season_name": "Aqua Teen Hunger Force (Season 10) (Non-Explicit RPK)",
+        "season_number": "10",
+        "season_summary": "Three food items and their life together in South Jersey.",
+        "season_summary_long": "Three food items and their life together in South Jersey.",
+        "serial": 1742109594928,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "series_summary": "Three food items and their life together in South Jersey.",
+        "series_summary_long": "Three food items and their life together in South Jersey.",
+        "show_duration": 900,
+        "show_id": "276226628",
+        "show_timestamp": 1742201100,
+        "status": "estimated",
+        "summary": "Shake's addiction to shellfish leads to a long-overdue intervention.",
+        "summary_long": "Master Shake's crippling addiction to shellfish leads to a long-overdue intervention.",
+        "taxonomy_id": "251835-003",
+        "title": "Merlo Sauvignon Blanco",
+        "title_id": "2005990",
+        "tv_rating": "TV-14",
+        "upid": "DISC251835-003",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233070_007_02_851",
+        "create_time": 1742109601619,
+        "episode_in_season": "7",
+        "episode_number": "S5:E07",
+        "external_id": "233070-007-851-1742202000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1742202000,
+        "last_time_machine_update": 1742109601619,
+        "last_update": 1742109601619,
+        "live": false,
+        "paid": "233070.007.02.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1742202000,
+        "season_id": "1538",
+        "season_name": "King of the Hill (Season 5)",
+        "season_number": "5",
+        "serial": 1742109601619,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "386096511",
+        "show_timestamp": 1742202000,
+        "status": "estimated",
+        "summary": "Bobby attempts to achieve yearbook immortality by becoming the school mascot.",
+        "summary_long": "What Makes Bobby Run?: Bobby attempts to achieve yearbook immortality by becoming the school mascot.",
+        "taxonomy_id": "233070-007",
+        "title": "What Makes Bobby Run?",
+        "title_id": "731334",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233070-007",
+        "upid_type": 12
     }
 ]
