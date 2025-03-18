@@ -720,5 +720,66 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-022",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250266_001_02_851",
+        "create_time": 1742275376624,
+        "episode_in_season": "1",
+        "episode_number": "S12:E01",
+        "external_id": "250266-001-851-1742367600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1742367600,
+        "last_time_machine_update": 1742275376624,
+        "last_update": 1742275376624,
+        "live": false,
+        "paid": "250266.001.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1742367600,
+        "season_id": "27922",
+        "season_name": "Bob's Burgers (Season 12)",
+        "season_number": "12",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1742275376624,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276234880",
+        "show_timestamp": 1742367600,
+        "status": "estimated",
+        "summary": "Louise pays back a debt.",
+        "summary_long": "Louise must pay a debt to Millie by attending the Pixie Princess Promenade. Meanwhile, a bouquet in the shape of a dog forces Linda to confront her past.",
+        "taxonomy_id": "250266-001",
+        "title": "Manic Pixie Crap Show",
+        "title_id": "2438983",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250266-001",
+        "upid_type": 12
     }
 ]
