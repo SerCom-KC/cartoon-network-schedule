@@ -5889,5 +5889,167 @@
         "tv_rating": "TV-14",
         "upid": "DISC232833-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271165_006_01_851",
+        "create_time": 1742342702717,
+        "episode_in_season": "6",
+        "episode_number": "S11:E06",
+        "external_id": "271165-006-851-1742434200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1742434200,
+        "last_time_machine_update": 1742342702717,
+        "last_update": 1742342702717,
+        "live": false,
+        "paid": "271165.006.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1742434200,
+        "season_id": "1000",
+        "season_name": "Family Guy",
+        "season_number": "11",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1742342702716,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276238836",
+        "show_timestamp": 1742434200,
+        "status": "estimated",
+        "summary": "After celebrating another birthday, Lois adopts a younger lifestyle.",
+        "summary_long": "After celebrating another birthday, Lois adopts a younger look and lifestyle -- much to Peter's chagrin. A vengeful turtle targets the Griffins.",
+        "taxonomy_id": "271165-006",
+        "title": "Lois Comes Out of Her Shell",
+        "title_id": "809249",
+        "tv_rating": "TV-14",
+        "upid": "DISC271165-006",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "271167_017_02_851",
+        "create_time": 1742342702718,
+        "episode_in_season": "17",
+        "episode_number": "S8:E17",
+        "external_id": "271167-017-851-1742436000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1742436000,
+        "last_time_machine_update": 1742342702718,
+        "last_update": 1742342702718,
+        "live": false,
+        "paid": "271167.017.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1742436000,
+        "season_id": "997",
+        "season_name": "Family Guy",
+        "season_number": "8",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1742342702716,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276238846",
+        "show_timestamp": 1742436000,
+        "status": "estimated",
+        "summary": "Brian and Stewie are locked up inside a bank vault for an entire episode.",
+        "summary_long": "Brian and Stewie are locked up inside a bank vault for an entire episode.",
+        "taxonomy_id": "271167-017",
+        "title": "Brian and Stewie",
+        "title_id": "748769",
+        "tv_rating": "TV-14",
+        "upid": "DISC271167-017",
+        "upid_type": 12
     }
 ]
