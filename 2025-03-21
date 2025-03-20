@@ -444,5 +444,170 @@
         "tv_rating": "TV-PG",
         "upid": "DISC228453-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271161_001_02_851",
+        "create_time": 1742443251041,
+        "dvs": true,
+        "episode_in_season": "1",
+        "episode_number": "S17:E01",
+        "external_id": "271161-001-851-1742535000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1742535000,
+        "last_time_machine_update": 1742443251041,
+        "last_update": 1742443251041,
+        "live": false,
+        "paid": "271161.001.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1742535000,
+        "season_id": "31521",
+        "season_name": "Family Guy",
+        "season_number": "17",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1742443251041,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276243022",
+        "show_timestamp": 1742535000,
+        "status": "estimated",
+        "summary": "Brian falls in love with a woman named Jess, who reveals she has cancer.",
+        "summary_long": "In Part One of a special two-part story, Brian meets and quickly falls in love with a woman named Jess, who reveals she has cancer. After she receives devastating news regarding her diagnosis, Brian proposes marriage to her.",
+        "taxonomy_id": "271161-001",
+        "title": "Married with Cancer",
+        "title_id": "2539792",
+        "tv_rating": "TV-14",
+        "upid": "DISC271161-001",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271161_002_02_851",
+        "create_time": 1742443291323,
+        "dvs": true,
+        "episode_in_season": "2",
+        "episode_number": "S17:E02",
+        "external_id": "271161-002-851-1742536800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1742536800,
+        "last_time_machine_update": 1742443291323,
+        "last_update": 1742443291323,
+        "live": false,
+        "paid": "271161.002.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1742536800,
+        "season_id": "31521",
+        "season_name": "Family Guy",
+        "season_number": "17",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1742443291322,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276243032",
+        "show_timestamp": 1742536800,
+        "status": "estimated",
+        "summary": "Brian's marriage to Jess is not what he envisioned.",
+        "summary_long": "In Part Two of a special two-part story, Brian's marriage to Jess is not what he envisioned, especially after her miraculous recovery from cancer.",
+        "taxonomy_id": "271161-002",
+        "title": "Dead Dog Walking",
+        "title_id": "2539793",
+        "tv_rating": "TV-14",
+        "upid": "DISC271161-002",
+        "upid_type": 12
     }
 ]
