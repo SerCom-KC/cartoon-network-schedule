@@ -972,5 +972,180 @@
         "tv_rating": "TV-14",
         "upid": "DISC239128-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "228453_007_06_851",
+        "create_time": 1742453670240,
+        "episode_in_season": "7",
+        "episode_number": "S6:E07",
+        "external_id": "228453-007-851-1742545800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Space Ghost Coast to Coast",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1742545800,
+        "last_time_machine_update": 1742453670240,
+        "last_update": 1742453670240,
+        "live": false,
+        "paid": "228453.007.06.851",
+        "participants": [
+            {
+                "character": "Space Ghost",
+                "name": "George Lowe",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Zorak",
+                "name": "C Croker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Moltar",
+                "name": "C Croker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Space Ghost",
+                "name": "George Lowe",
+                "role": "actor"
+            },
+            {
+                "character": "Moltar and Zorak",
+                "name": "C. Martin Croker",
+                "role": "actor"
+            },
+            {
+                "character": "Conan O'Brien",
+                "name": "Conan O'Brien",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "C. Martin Croker",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Jeff Doud",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Mike Lazzo",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Keith Crofford",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Andy Merrill",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Matt Maiellaro",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Dave Willis",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Jim Fortier",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1742545800,
+        "season_id": "14008",
+        "season_name": "Space Ghost Coast to Coast",
+        "season_number": "6",
+        "season_summary": "A cartoon superhero interacts with live guests via his television set.",
+        "season_summary_long": "A cartoon superhero interacts with live guests via his television set.",
+        "serial": 1742453670240,
+        "series_id": "322328",
+        "series_name": "Space Ghost Coast to Coast",
+        "series_summary": "A cartoon superhero interacts with live guests via his television set.",
+        "series_summary_long": "A cartoon superhero interacts with live guests via his television set.",
+        "show_duration": 1800,
+        "show_id": "276243102",
+        "show_timestamp": 1742545800,
+        "status": "estimated",
+        "summary": "A fire ant bites Space Ghost and everything goes Dada.",
+        "summary_long": "Space Ghost and talk show host Conan O'Brien are engaged in riveting and witty repartee when a fire ant bites Space Ghost and everything goes Dada.",
+        "taxonomy_id": "228453-007",
+        "title": "Fire Ant",
+        "title_id": "333228",
+        "tv_rating": "TV-PG",
+        "upid": "DISC228453-007",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233070_016_02_851",
+        "create_time": 1742454349463,
+        "episode_in_season": "16",
+        "episode_number": "S5:E16",
+        "external_id": "233070-016-851-1742547600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1742547600,
+        "last_time_machine_update": 1742454349463,
+        "last_update": 1742454349463,
+        "live": false,
+        "paid": "233070.016.02.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2001,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1742547600,
+        "season_id": "1538",
+        "season_name": "King of the Hill (Season 5)",
+        "season_number": "5",
+        "serial": 1742454349463,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "276243082",
+        "show_timestamp": 1742547600,
+        "status": "estimated",
+        "summary": "When Bobby develops allergies, Hank must choose between his son and Ladybird.",
+        "summary_long": "Hank's Choice: When Bobby develops allergies, Hank must choose between his son and Ladybird.",
+        "taxonomy_id": "233070-016",
+        "title": "Hank's Choice",
+        "title_id": "731343",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233070-016",
+        "upid_type": 12
     }
 ]
