@@ -545,5 +545,67 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250266-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250266_012_02_851",
+        "create_time": 1742532370681,
+        "dvs": true,
+        "episode_in_season": "12",
+        "episode_number": "S12:E12",
+        "external_id": "250266-012-851-1742625000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1742625000,
+        "last_time_machine_update": 1742532370681,
+        "last_update": 1742532370681,
+        "live": false,
+        "paid": "250266.012.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1742625000,
+        "season_id": "27922",
+        "season_name": "Bob's Burgers (Season 12)",
+        "season_number": "12",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1742532370681,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276247118",
+        "show_timestamp": 1742625000,
+        "status": "estimated",
+        "summary": "Bob and Linda celebrate Valentine's Day.",
+        "summary_long": "Bob and Linda accept a Valentine's Day dinner invitation from the chef of a fancy restaurant. Meanwhile, the kids have a scheme to get cheap Valentine's Day candy, but first they'll have to make it past an unusually strict Jen the babysitter.",
+        "taxonomy_id": "250266-012",
+        "title": "Ferry on My Wayward Bob and Linda",
+        "title_id": "2438994",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250266-012",
+        "upid_type": 12
     }
 ]
