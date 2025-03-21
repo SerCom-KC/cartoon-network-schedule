@@ -4805,5 +4805,87 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250266-016",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271160_005_01_851",
+        "create_time": 1742600357403,
+        "episode_in_season": "5",
+        "episode_number": "S9:E05",
+        "external_id": "271160-005-851-1742693400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1742693400,
+        "last_time_machine_update": 1742600357403,
+        "last_update": 1742600357403,
+        "live": false,
+        "paid": "271160.005.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1813,
+        "scheduled_timestamp": 1742693400,
+        "season_id": "998",
+        "season_name": "Family Guy",
+        "season_number": "9",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1742600357403,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276251014",
+        "show_timestamp": 1742693400,
+        "status": "estimated",
+        "summary": "Peter coaxes Lois into entering an amateur boxing match.",
+        "summary_long": "Peter coaxes Lois into entering an amateur boxing match, where Lois easily defeats her opponent -- launching her career as a professional pugilist.",
+        "taxonomy_id": "271160-005",
+        "title": "Baby, You Knock Me Out",
+        "title_id": "809142",
+        "tv_rating": "TV-14",
+        "upid": "DISC271160-005",
+        "upid_type": 12
     }
 ]
