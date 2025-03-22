@@ -4466,5 +4466,65 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250266-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250266_019_02_851",
+        "create_time": 1742682423828,
+        "episode_in_season": "19",
+        "episode_number": "S12:E19",
+        "external_id": "250266-019-851-1742774400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1742774400,
+        "last_time_machine_update": 1742682423828,
+        "last_update": 1742682423828,
+        "live": false,
+        "paid": "250266.019.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1742774400,
+        "season_id": "27922",
+        "season_name": "Bob's Burgers (Season 12)",
+        "season_number": "12",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1742682423828,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276255080",
+        "show_timestamp": 1742774400,
+        "status": "estimated",
+        "summary": "Bob helps Gene with a school project.",
+        "summary_long": "When Gene becomes obsessed with an old handheld game, Bob offers to help with a school project in hopes of steering his son towards more \"interesting\" pursuits. Meanwhile, Louise and Tina take over a grocery store kiddie ride.",
+        "taxonomy_id": "250266-019",
+        "title": "A-Sprout a Boy",
+        "title_id": "2439001",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250266-019",
+        "upid_type": 12
     }
 ]
