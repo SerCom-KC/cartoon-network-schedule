@@ -4616,5 +4616,170 @@
         "tv_rating": "TV-14",
         "upid": "DISC232841-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "255276_022_03_851",
+        "create_time": 1742685990052,
+        "episode_in_season": "22",
+        "episode_number": "S19:E21",
+        "external_id": "255276-022-851-1742778000",
+        "feed_id": "as-east",
+        "franchise_id": "S94775",
+        "franchise_name": null,
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1742778000,
+        "last_time_machine_update": 1742685990052,
+        "last_update": 1742685990052,
+        "live": false,
+        "paid": "255276.022.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1742778000,
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1742685990052,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276255100",
+        "show_timestamp": 1742778000,
+        "status": "estimated",
+        "summary": "Stan uses an old computer and starts the clock toward nuclear annihilation.",
+        "summary_long": "Stan uses a mothballed military computer to do Steve's math homework, starting the clock toward nuclear annihilation.",
+        "taxonomy_id": "255276-022",
+        "title": "Guardian",
+        "title_id": "2445765",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-022",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271172_006_02_851",
+        "create_time": 1742686335389,
+        "episode_in_season": "6",
+        "episode_number": "S16:E06",
+        "external_id": "271172-006-851-1742779800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1742779800,
+        "last_time_machine_update": 1742686335389,
+        "last_update": 1742686335389,
+        "live": false,
+        "paid": "271172.006.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1742779800,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1742686335389,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276255110",
+        "show_timestamp": 1742779800,
+        "status": "estimated",
+        "summary": "Brian is forced to move out after posting an offensive viral tweet.",
+        "summary_long": "When Brian posts an offensive tweet that goes viral and the rest of the Griffins are also treated as outcasts, he's forced to move out of the Griffin house.",
+        "taxonomy_id": "271172-006",
+        "title": "The D in Apartment 23",
+        "title_id": "2539775",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-006",
+        "upid_type": 12
     }
 ]
