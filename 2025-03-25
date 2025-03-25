@@ -6233,5 +6233,114 @@
         "tv_rating": "TV-14",
         "upid": "DISC271160-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251792_009_03_851",
+        "create_time": 1742867437908,
+        "episode_in_season": "9",
+        "episode_number": "S3:E09",
+        "external_id": "251792-009-851-1742959800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Space & Beyond"
+        ],
+        "guide_timestamp": 1742959800,
+        "last_time_machine_update": 1742867437908,
+        "last_update": 1742867437908,
+        "live": false,
+        "paid": "251792.009.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Ryan Elder",
+                "role": "music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1742959800,
+        "season_id": "10773",
+        "season_name": "Rick and Morty (Season 3) (Non-Explicit Repack)",
+        "season_number": "3",
+        "season_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "serial": 1742867437908,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276263432",
+        "show_timestamp": 1742959800,
+        "status": "estimated",
+        "summary": "Jerry pulls in some lady in this one, broh. Beth revisits her childhood.",
+        "summary_long": "Jerry pulls in some lady in this one, broh. Beth revisits her childhood.",
+        "taxonomy_id": "251792-009",
+        "title": "The ABCs of Beth",
+        "title_id": "2116837",
+        "tv_rating": "TV-14",
+        "upid": "DISC251792-009",
+        "upid_type": 12
     }
 ]
