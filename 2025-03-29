@@ -4135,5 +4135,105 @@
         "tv_rating": "TV-G",
         "upid": "DISC168446-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229166_020_02_851",
+        "create_time": 1743181880831,
+        "episode_in_season": "20",
+        "episode_number": "S2:E20",
+        "external_id": "229166-020-851-1743274800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo and Guess Who?",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1743274800,
+        "last_time_machine_update": 1743181880831,
+        "last_update": 1743181880831,
+        "live": false,
+        "paid": "229166.020.02.851",
+        "participants": [
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Kate Micucci",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Sr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Alex Trebek",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Frank Paur",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Chris Bailey",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Ben Lapides",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1743274800,
+        "season_id": "15327",
+        "season_name": "Scooby-Doo and Guess Who?",
+        "season_number": "2",
+        "season_summary": "Mystery Inc. joins forces with some of the biggest names in pop culture.",
+        "season_summary_long": "The Mystery Inc. gang welcomes new members. Faced with some of their toughest mysteries yet, Fred, Daphne, Velma, Shaggy and Scooby-Doo join forces with some of the biggest names in celebrity and pop culture.",
+        "serial": 1743181880831,
+        "series_id": "2168685",
+        "series_name": "Scooby-Doo and Guess Who?",
+        "series_summary": "Mystery Inc. joins forces with some of the biggest names in pop culture.",
+        "series_summary_long": "The Mystery Inc. gang welcomes new members. Faced with some of their toughest mysteries yet, Fred, Daphne, Velma, Shaggy and Scooby-Doo join forces with some of the biggest names in celebrity and pop culture.",
+        "show_duration": 1801,
+        "show_id": "276279596",
+        "show_timestamp": 1743274800,
+        "status": "estimated",
+        "summary": "Velma and Shaggy are on Jeopardy, competing against Andy the Brain Bot.",
+        "summary_long": "Velma and Shaggy are contestants Jeopardy, competing against Andy the Brain Bot. When It threatens to destroy everything, our gang and Alex Trebek must get to the bottom of who's really behind this robot's dangerous actions.",
+        "taxonomy_id": "229166-020",
+        "title": "Total Jeopardy!",
+        "title_id": "2218265",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC229166-020",
+        "upid_type": 12
     }
 ]
