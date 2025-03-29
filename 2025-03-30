@@ -1161,5 +1161,106 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC168240-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "168240_006_02_851",
+        "create_time": 1743244483037,
+        "episode_in_season": "6",
+        "episode_number": "S1:E06",
+        "external_id": "168240-006-851-1743330600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Mystery Incorporated",
+        "genres": [
+            "Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1743330600,
+        "last_time_machine_update": 1743244483037,
+        "last_update": 1743244483037,
+        "live": false,
+        "paid": "168240.006.02.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Spike Brandt",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Tony Cervone",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Mitch Watson",
+                "role": "writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1743330600,
+        "season_id": "5436",
+        "season_name": "Scooby-Doo! Mystery Incorporated",
+        "season_number": "1",
+        "season_summary": "The Scooby gang aims to disprove the paranormal happenings of Crystal Cove.",
+        "season_summary_long": "A sleepy little village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences. The sleuthing team of Scooby-Doo and the gang prove all of this simply isn't real.",
+        "serial": 1743244483036,
+        "series_id": "796588",
+        "series_name": "Scooby-Doo! Mystery Incorporated",
+        "series_summary": "The Scooby gang aims to disprove the paranormal happenings of Crystal Cove.",
+        "series_summary_long": "A sleepy little village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences. The sleuthing team of Scooby-Doo and the gang prove all of this simply isn't real.",
+        "show_duration": 1800,
+        "show_id": "276283412",
+        "show_timestamp": 1743330600,
+        "status": "estimated",
+        "summary": "Daphne is convinced that a new student is a phantom.",
+        "summary_long": "When Fred asks new student Alice May to the prom, Daphne becomes convinced the girl is a phantom who wants to add Fred to her man posse. Meanwhile, Shaggy skips out on watching a horror marathon with Scooby to go to prom with Velma.",
+        "taxonomy_id": "168240-006",
+        "title": "The Legend of Alice May",
+        "title_id": "797604",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC168240-006",
+        "upid_type": 12
     }
 ]
