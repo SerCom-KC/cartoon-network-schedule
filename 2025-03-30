@@ -4618,5 +4618,90 @@
         "tv_rating": "TV-14",
         "upid": "DISC232841-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "255276_019_04_851",
+        "create_time": 1743289536685,
+        "episode_in_season": "19",
+        "episode_number": "S19:E22",
+        "external_id": "255276-019-851-1743382800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1743382800,
+        "last_time_machine_update": 1743289536685,
+        "last_update": 1743289536685,
+        "live": false,
+        "paid": "255276.019.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1743382800,
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1743289536685,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276283762",
+        "show_timestamp": 1743382800,
+        "status": "estimated",
+        "summary": "An aspiring inventor leaves the Farm to make a go of it in The Big City.",
+        "summary_long": "An aspiring inventor leaves the Farm to make a go of it in The Big City.",
+        "taxonomy_id": "255276-019",
+        "title": "What Great Advancements!",
+        "title_id": "2445762",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-019",
+        "upid_type": 12
     }
 ]
