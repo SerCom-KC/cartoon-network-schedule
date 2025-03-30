@@ -1481,5 +1481,83 @@
         "tv_rating": "TV-14",
         "upid": "DISC251835-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "251835_007_02_851",
+        "create_time": 1743317251989,
+        "episode_in_season": "7",
+        "episode_number": "S10:E07",
+        "external_id": "251835-007-851-1743410700",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aqua TV Show Show",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1743410700,
+        "last_time_machine_update": 1743317251989,
+        "last_update": 1743317251989,
+        "live": false,
+        "paid": "251835.007.02.851",
+        "participants": [
+            {
+                "character": "Master Shake",
+                "name": "Dana Snyder",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Frylock",
+                "name": "Carey Means",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meatwad",
+                "name": "Dave Willis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Carl Brutananadilewski",
+                "name": "Dave Willis",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 15,
+        "scheduled_duration": 902,
+        "scheduled_timestamp": 1743410700,
+        "season_id": "15554",
+        "season_name": "Aqua Teen Hunger Force (Season 10) (Non-Explicit RPK)",
+        "season_number": "10",
+        "season_summary": "Three food items and their life together in South Jersey.",
+        "season_summary_long": "Three food items and their life together in South Jersey.",
+        "serial": 1743317251989,
+        "series_id": "340537",
+        "series_name": "Aqua Teen Hunger Force",
+        "series_summary": "Three food items and their life together in South Jersey.",
+        "series_summary_long": "Three food items and their life together in South Jersey.",
+        "show_duration": 900,
+        "show_id": "276283962",
+        "show_timestamp": 1743410700,
+        "status": "estimated",
+        "summary": "Shake finds love in a woman so perfect, she seems to be made for him.",
+        "summary_long": "Master Shake finds love in a woman so perfect, it seems as if she were made for him.",
+        "taxonomy_id": "251835-007",
+        "title": "Freda",
+        "title_id": "2005995",
+        "tv_rating": "TV-14",
+        "upid": "DISC251835-007",
+        "upid_type": 12
     }
 ]
