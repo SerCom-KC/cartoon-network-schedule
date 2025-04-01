@@ -5751,5 +5751,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC232834-016",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271165_015_01_851",
+        "create_time": 1743550322355,
+        "episode_in_season": "15",
+        "episode_number": "S11:E15",
+        "external_id": "271165-015-851-1743643800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1743643800,
+        "last_time_machine_update": 1743550322355,
+        "last_update": 1743550322355,
+        "live": false,
+        "paid": "271165.015.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1743643800,
+        "season_id": "1000",
+        "season_name": "Family Guy",
+        "season_number": "11",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1743550322354,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "385766807",
+        "show_timestamp": 1743643800,
+        "status": "estimated",
+        "summary": "After befriending a Muslim man, Peter is interested in Islamic culture.",
+        "summary_long": "After befriending a Muslim man, Peter becomes interested in Islamic culture -- only to become unwittingly involved in a terrorist plot to blow up a Quahog bridge.",
+        "taxonomy_id": "271165-015",
+        "title": "Turban Cowboy",
+        "title_id": "809257",
+        "tv_rating": "TV-14",
+        "upid": "DISC271165-015",
+        "upid_type": 12
     }
 ]
