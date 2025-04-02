@@ -5677,5 +5677,172 @@
         "tv_rating": "TV-14",
         "upid": "DISC232851-017",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "255276_019_03_851",
+        "create_time": 1743637023571,
+        "episode_in_season": "19",
+        "episode_number": "S19:E22",
+        "external_id": "255276-019-851-1743728400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1743728400,
+        "last_time_machine_update": 1743637023571,
+        "last_update": 1743637023571,
+        "live": false,
+        "paid": "255276.019.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1743728400,
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1743637023571,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276300236",
+        "show_timestamp": 1743728400,
+        "status": "estimated",
+        "summary": "An aspiring inventor leaves the Farm to make a go of it in The Big City.",
+        "summary_long": "An aspiring inventor leaves the Farm to make a go of it in The Big City.",
+        "taxonomy_id": "255276-019",
+        "title": "What Great Advancements!",
+        "title_id": "2445762",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-019",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271165_016_01_851",
+        "create_time": 1743637023571,
+        "episode_in_season": "16",
+        "episode_number": "S11:E16",
+        "external_id": "271165-016-851-1743730200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1743730200,
+        "last_time_machine_update": 1743637023571,
+        "last_update": 1743637023571,
+        "live": false,
+        "paid": "271165.016.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1743730200,
+        "season_id": "1000",
+        "season_name": "Family Guy",
+        "season_number": "11",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1743637023571,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276300246",
+        "show_timestamp": 1743730200,
+        "status": "estimated",
+        "summary": "Mayor West goes on trial for murder after his aide is found stabbed.",
+        "summary_long": "Mayor West goes on trial for murder after his aide is found stabbed to death.",
+        "taxonomy_id": "271165-016",
+        "title": "12 and a Half Angry Men",
+        "title_id": "809134",
+        "tv_rating": "TV-14",
+        "upid": "DISC271165-016",
+        "upid_type": 12
     }
 ]
