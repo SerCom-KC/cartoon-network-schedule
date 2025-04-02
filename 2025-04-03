@@ -551,5 +551,86 @@
         "tv_rating": "TV-14",
         "upid": "DISC251866-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271160_020_01_851",
+        "create_time": 1743566587856,
+        "episode_in_season": "20",
+        "episode_number": "S9:E20",
+        "external_id": "271160-020-851-1743658200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1743658200,
+        "last_time_machine_update": 1743566587856,
+        "last_update": 1743566587856,
+        "live": false,
+        "paid": "271160.020.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 60,
+        "scheduled_duration": 3600,
+        "scheduled_timestamp": 1743658200,
+        "season_id": "998",
+        "season_name": "Family Guy",
+        "season_number": "9",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1743566587856,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 3600,
+        "show_id": "276296240",
+        "show_timestamp": 1743658200,
+        "status": "estimated",
+        "summary": "Some vacations are to die for.",
+        "summary_long": "Some vacations are to die for.",
+        "taxonomy_id": "271160-020",
+        "title": "And Then There Were Fewer",
+        "title_id": "821792",
+        "tv_rating": "TV-14",
+        "upid": "DISC271160-020",
+        "upid_type": 12
     }
 ]
