@@ -5697,5 +5697,97 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169771-016",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232834_019_04_851",
+        "create_time": 1743720125811,
+        "episode_in_season": "19",
+        "episode_number": "S12:E19",
+        "external_id": "232834-019-851-1743813000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1743813000,
+        "last_time_machine_update": 1743720125811,
+        "last_update": 1743720125811,
+        "live": false,
+        "paid": "232834.019.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1743813000,
+        "season_id": "9750",
+        "season_name": "American Dad",
+        "season_number": "12",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1743720125811,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276304332",
+        "show_timestamp": 1743813000,
+        "status": "estimated",
+        "summary": "Roger and Klaus share an online date together after having a secret affair.",
+        "summary_long": "Roger and Klaus start having a secret affair after they accidentally end up on an online date together. Steve tries to catch Hayley\u2019s pink eye to get out of doing a fitness test at school.",
+        "taxonomy_id": "232834-019",
+        "title": "Kloger",
+        "title_id": "2069550",
+        "tv_rating": "TV-14",
+        "upid": "DISC232834-019",
+        "upid_type": 12
     }
 ]
