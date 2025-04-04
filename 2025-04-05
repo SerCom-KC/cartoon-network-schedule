@@ -4429,5 +4429,86 @@
         "tv_rating": "TV-G",
         "upid": "DISC232300-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "169841_000_02_851",
+        "create_time": 1743789888037,
+        "episode_in_season": "0",
+        "external_id": "169841-000-851-1743881400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo and the Monster of Mexico",
+        "genres": [
+            "Animated Movies",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1743881400,
+        "last_time_machine_update": 1743789888037,
+        "last_update": 1743789888037,
+        "live": false,
+        "paid": "169841.000.02.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Casey Kasem",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Nicole Jaffe",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Heather North",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Scott Jeralds",
+                "role": "director"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "FF",
+        "release_year": 2003,
+        "runtime_minutes": 90,
+        "scheduled_duration": 5403,
+        "scheduled_timestamp": 1743881400,
+        "season_number": "1",
+        "serial": 1743789888037,
+        "series_id": "77211",
+        "series_name": "Scooby-Doo and the Monster of Mexico",
+        "series_summary": "Scooby-Doo and the gang head to Mexico and celebrate the Day of the Dead.",
+        "series_summary_long": "Scooby-Doo and the gang are in for a creepy encounter with a monster from Mexico in the mucho spooky, all-new Scooby-Doo movie. The sleuths take a well-earned vacation to visit a friend in Mexico and celebrate the Day of the Dead.",
+        "show_duration": 5400,
+        "show_id": "381288191",
+        "show_timestamp": 1743881400,
+        "status": "estimated",
+        "summary": "Scooby-Doo and the gang head to Mexico and celebrate the Day of the Dead.",
+        "summary_long": "Scooby-Doo and the gang are in for a creepy encounter with a monster from Mexico in the mucho spooky, all-new Scooby-Doo movie. The sleuths take a well-earned vacation to visit a friend in Mexico and celebrate the Day of the Dead.",
+        "taxonomy_id": "169841-000",
+        "title": "Scooby-Doo and the Monster of Mexico",
+        "title_id": "439863",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC169841-000",
+        "upid_type": 12
     }
 ]
