@@ -5057,5 +5057,168 @@
         "tv_rating": "TV-14",
         "upid": "DISC169771-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169771_019_03_851",
+        "create_time": 1743809476393,
+        "episode_in_season": "19",
+        "episode_number": "S3:E19",
+        "external_id": "169771-019-851-1743901200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1743901200,
+        "last_time_machine_update": 1743809476393,
+        "last_update": 1743809476393,
+        "live": false,
+        "paid": "169771.019.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1743901200,
+        "season_id": "7298",
+        "season_name": "Bob's Burgers",
+        "season_number": "3",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1743809476392,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276308348",
+        "show_timestamp": 1743901200,
+        "status": "estimated",
+        "summary": "The Belchers find themselves competing on the TV game show \"Family Fracas!\"",
+        "summary_long": "After the family car breaks down and ruins their plans for a movie night out, the Belchers find themselves competing on the TV game show \"Family Fracas!\" To the dismay of the program's host, they keep winning and coming back each night.",
+        "taxonomy_id": "169771-019",
+        "title": "Family Fracas",
+        "title_id": "2003530",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169771-019",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271173_012_01_851",
+        "create_time": 1743809476394,
+        "episode_in_season": "12",
+        "episode_number": "S10:E12",
+        "external_id": "271173-012-851-1743903000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1743903000,
+        "last_time_machine_update": 1743809476394,
+        "last_update": 1743809476394,
+        "live": false,
+        "paid": "271173.012.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1743903000,
+        "season_id": "999",
+        "season_name": "Family Guy",
+        "season_number": "10",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1743809476392,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276308358",
+        "show_timestamp": 1743903000,
+        "status": "estimated",
+        "summary": "Lois discovers Stewie's sick playmate is being denied medical treatment.",
+        "summary_long": "When Lois discovers that Stewie's sick playmate is being denied medical treatment because his parents are Christian Scientists, she decides to take matters into her own hands.",
+        "taxonomy_id": "271173-012",
+        "title": "Livin' on a Prayer",
+        "title_id": "865330",
+        "tv_rating": "TV-14",
+        "upid": "DISC271173-012",
+        "upid_type": 12
     }
 ]
