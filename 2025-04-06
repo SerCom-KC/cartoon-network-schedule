@@ -4577,5 +4577,146 @@
         "tv_rating": "TV-14",
         "upid": "DISC169771-022",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250263_001_04_851",
+        "create_time": 1743894496672,
+        "dvs": true,
+        "episode_in_season": "1",
+        "episode_number": "S9:E01",
+        "external_id": "250263-001-851-1743985800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1743985800,
+        "last_time_machine_update": 1743894496672,
+        "last_update": 1743894496672,
+        "live": false,
+        "paid": "250263.001.04.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1743985800,
+        "season_id": "27919",
+        "season_name": "Bob's Burgers (Season 9)",
+        "season_number": "9",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1743894496672,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276312394",
+        "show_timestamp": 1743985800,
+        "status": "estimated",
+        "summary": "Tina's just a girl who's boy crazy.",
+        "summary_long": "Convinced she's met the love of her life, Tina decides to disguise herself as a boy and sneak into the Boyz 4 Now auditions to find him. Back at the restaurant, Teddy asks the rest of the Belcher gang to nurse his baby rat back to health.",
+        "taxonomy_id": "250263-001",
+        "title": "Just One of the Boyz 4 Now for Now",
+        "title_id": "2438917",
+        "tv_rating": "TV-14",
+        "upid": "DISC250263-001",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "S",
+            "V"
+        ],
+        "content_id": "271172_001_02_851",
+        "create_time": 1743894496673,
+        "episode_in_season": "1",
+        "episode_number": "S16:E01",
+        "external_id": "271172-001-851-1743987600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1743987600,
+        "last_time_machine_update": 1743894496673,
+        "last_update": 1743894496673,
+        "live": false,
+        "paid": "271172.001.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1743987600,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1743894496672,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276312404",
+        "show_timestamp": 1743987600,
+        "status": "estimated",
+        "summary": "Peter goes on a campaign to make Family Guy more like Emmy-winning shows.",
+        "summary_long": "Tired of not winning an Emmy, Peter embarks on his own \"For Your Consideration\" campaign for Family Guy by making the show more like Emmy-winning shows -- and no category is off limits.",
+        "taxonomy_id": "271172-001",
+        "title": "Emmy-Winning Episode",
+        "title_id": "2539785",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-001",
+        "upid_type": 12
     }
 ]
