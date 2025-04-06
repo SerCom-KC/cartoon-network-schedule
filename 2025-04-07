@@ -6190,5 +6190,90 @@
         "tv_rating": "TV-14",
         "upid": "DISC255276-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "255276_004_04_851",
+        "create_time": 1743980461243,
+        "episode_in_season": "4",
+        "episode_number": "S19:E04",
+        "external_id": "255276-004-851-1744074000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1744074000,
+        "last_time_machine_update": 1743980461243,
+        "last_update": 1743980461243,
+        "live": false,
+        "paid": "255276.004.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1744074000,
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1743980461243,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276316630",
+        "show_timestamp": 1744074000,
+        "status": "estimated",
+        "summary": "The family's dream of climbing Mount Everest turns into a nightmare.",
+        "summary_long": "The family's dream of climbing Mount Everest turns into a nightmare when Stan tries to save a buck and takes them to a different, much cheaper mountain.",
+        "taxonomy_id": "255276-004",
+        "title": "Touch the Sun: A Chimborazo Adventure",
+        "title_id": "2445747",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-004",
+        "upid_type": 12
     }
 ]
