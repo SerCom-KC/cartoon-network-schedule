@@ -5514,5 +5514,172 @@
         "tv_rating": "TV-14",
         "upid": "DISC255276-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "255276_006_04_851",
+        "create_time": 1744069260374,
+        "episode_in_season": "6",
+        "episode_number": "S19:E06",
+        "external_id": "255276-006-851-1744160400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1744160400,
+        "last_time_machine_update": 1744069260374,
+        "last_update": 1744069260374,
+        "live": false,
+        "paid": "255276.006.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1744160400,
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1744069260373,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276320706",
+        "show_timestamp": 1744160400,
+        "status": "estimated",
+        "summary": "Steve is the only one of his friends to not like a fast-food restaurant.",
+        "summary_long": "Being the only one of his friends to not like a new fast-food restaurant drives Steve to madness. Stan and Francine go on a quest to return mistakenly delivered mail.",
+        "taxonomy_id": "255276-006",
+        "title": "The Violence of the Clams",
+        "title_id": "2445749",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-006",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271173_019_01_851",
+        "create_time": 1744069260375,
+        "episode_in_season": "19",
+        "episode_number": "S10:E19",
+        "external_id": "271173-019-851-1744162200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1744162200,
+        "last_time_machine_update": 1744069260375,
+        "last_update": 1744069260375,
+        "live": false,
+        "paid": "271173.019.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1744162200,
+        "season_id": "999",
+        "season_name": "Family Guy",
+        "season_number": "10",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1744069260373,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276320716",
+        "show_timestamp": 1744162200,
+        "status": "estimated",
+        "summary": "Stewie meets a little girl who might be his soulmate.",
+        "summary_long": "Stewie meets a little girl who might be his soulmate. Lois buys twin beds after Peter repeatedly crushes her in his sleep.",
+        "taxonomy_id": "271173-019",
+        "title": "Mr. and Mrs. Stewie",
+        "title_id": "865341",
+        "tv_rating": "TV-14",
+        "upid": "DISC271173-019",
+        "upid_type": 12
     }
 ]
