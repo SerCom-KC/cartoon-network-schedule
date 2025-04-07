@@ -473,5 +473,167 @@
         "tv_rating": "TV-14",
         "upid": "DISC251865-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "271171_001_02_851",
+        "create_time": 1743998251322,
+        "episode_in_season": "1",
+        "episode_number": "S5:E01",
+        "external_id": "271171-001-851-1744090200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1744090200,
+        "last_time_machine_update": 1743998251322,
+        "last_update": 1743998251322,
+        "live": false,
+        "paid": "271171.001.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin, Stewie Griffin, Brian Griffin, Quagmire, Tom Tucker",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1744090200,
+        "season_id": "994",
+        "season_name": "Family Guy",
+        "season_number": "5",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1743998251321,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276316730",
+        "show_timestamp": 1744090200,
+        "status": "estimated",
+        "summary": "Lois gets sick of Stewie's new affection, and Peter has a prostate exam.",
+        "summary_long": "Lois gets sick of Stewie's newfound affection, and Peter has a prostate exam.",
+        "taxonomy_id": "271171-001",
+        "title": "Stewie Loves Lois",
+        "title_id": "638932",
+        "tv_rating": "TV-14",
+        "upid": "DISC271171-001",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "S"
+        ],
+        "content_id": "271171_002_02_851",
+        "create_time": 1743998687707,
+        "dvs": true,
+        "episode_in_season": "2",
+        "episode_number": "S5:E02",
+        "external_id": "271171-002-851-1744092000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1744092000,
+        "last_time_machine_update": 1743998687707,
+        "last_update": 1743998687707,
+        "live": false,
+        "paid": "271171.002.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin, Stewie Griffin, Brian Griffin, Quagmire, Tom Tucker",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1744092000,
+        "season_id": "994",
+        "season_name": "Family Guy",
+        "season_number": "5",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1743998687707,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276316740",
+        "show_timestamp": 1744092000,
+        "status": "estimated",
+        "summary": "Peter's mom announces that she is getting a divorce.",
+        "summary_long": "Peter's mom announces that she is getting a divorce, Peter finds a father figure in anchorman Tom Tucker, and Brian gets his own radio show.",
+        "taxonomy_id": "271171-002",
+        "title": "Mother Tucker",
+        "title_id": "638931",
+        "tv_rating": "TV-14",
+        "upid": "DISC271171-002",
+        "upid_type": 12
     }
 ]
