@@ -471,5 +471,86 @@
         "tv_rating": "TV-MA",
         "upid": "DISC251865-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "271171_003_02_851",
+        "create_time": 1744084458508,
+        "dvs": true,
+        "episode_in_season": "3",
+        "episode_number": "S5:E03",
+        "external_id": "271171-003-851-1744176600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1744176600,
+        "last_time_machine_update": 1744084458508,
+        "last_update": 1744084458508,
+        "live": false,
+        "paid": "271171.003.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin, Stewie Griffin, Brian Griffin, Quagmire, Tom Tucker",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1744176600,
+        "season_id": "994",
+        "season_name": "Family Guy",
+        "season_number": "5",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1744084458508,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276320806",
+        "show_timestamp": 1744176600,
+        "status": "estimated",
+        "summary": "Brian and Stewie try to save the town from a corporate giant Superstore.",
+        "summary_long": "Brian and Stewie try to save the town when corporate giant Superstore puts all the local shops out of business.",
+        "taxonomy_id": "271171-003",
+        "title": "Hell Comes to Quahog",
+        "title_id": "638933",
+        "tv_rating": "TV-14",
+        "upid": "DISC271171-003",
+        "upid_type": 12
     }
 ]
