@@ -5484,5 +5484,90 @@
         "tv_rating": "TV-14",
         "upid": "DISC255276-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "255276_008_04_851",
+        "create_time": 1744154368170,
+        "episode_in_season": "8",
+        "episode_number": "S19:E08",
+        "external_id": "255276-008-851-1744246800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1744246800,
+        "last_time_machine_update": 1744154368170,
+        "last_update": 1744154368170,
+        "live": false,
+        "paid": "255276.008.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1744246800,
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1744154368169,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276324802",
+        "show_timestamp": 1744246800,
+        "status": "estimated",
+        "summary": "Steve and Stan try to uncover the past of one of Roger's personas.",
+        "summary_long": "After a nearly fatal interaction with one of Roger's personas, Steve and Stan work together to uncover the persona's mysterious past. Meanwhile, Jeff, Hayley and Francine explore new hobbies.",
+        "taxonomy_id": "255276-008",
+        "title": "Piece by Piece",
+        "title_id": "2445751",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-008",
+        "upid_type": 12
     }
 ]
