@@ -552,5 +552,145 @@
         "tv_rating": "TV-14",
         "upid": "DISC271171-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "S"
+        ],
+        "content_id": "271171_004_03_851",
+        "create_time": 1744088032378,
+        "episode_in_season": "4",
+        "episode_number": "S5:E04",
+        "external_id": "271171-004-851-1744178400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1744178400,
+        "last_time_machine_update": 1744088032378,
+        "last_update": 1744088032378,
+        "live": false,
+        "paid": "271171.004.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin, Stewie Griffin, Brian Griffin, Quagmire, Tom Tucker",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1744178400,
+        "season_id": "994",
+        "season_name": "Family Guy",
+        "season_number": "5",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1744088032377,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276320816",
+        "show_timestamp": 1744178400,
+        "status": "estimated",
+        "summary": "Brian and Stewie find themselves in boot camp.",
+        "summary_long": "Brian and Stewie find themselves in boot camp, and Chris and his rock band have a hit with their single \"Evil, Evil Monkey.\"",
+        "taxonomy_id": "271171-004",
+        "title": "Saving Private Brian",
+        "title_id": "638934",
+        "tv_rating": "TV-14",
+        "upid": "DISC271171-004",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_003_02_851",
+        "create_time": 1744088032378,
+        "dvs": true,
+        "episode_in_season": "3",
+        "episode_number": "S10:E03",
+        "external_id": "250264-003-851-1744180200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1744180200,
+        "last_time_machine_update": 1744088032378,
+        "last_update": 1744088032378,
+        "live": false,
+        "paid": "250264.003.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1744180200,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1744088032377,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276320826",
+        "show_timestamp": 1744180200,
+        "status": "estimated",
+        "summary": "Bob and Tina build a boat.",
+        "summary_long": "Tina and Bob participate in the Thundergirls' father-daughter cardboard boat race, and Tina tries to hide her feelings about Bob's awful boat-building skills. Meanwhile, Linda drags Louise and Gene to a fire station open house and overstays her welcome.",
+        "taxonomy_id": "250264-003",
+        "title": "Motor, She Boat",
+        "title_id": "2438941",
+        "tv_rating": "TV-14",
+        "upid": "DISC250264-003",
+        "upid_type": 12
     }
 ]
