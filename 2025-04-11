@@ -5725,5 +5725,91 @@
         "tv_rating": "TV-14",
         "upid": "DISC255276-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "255276_012_04_851",
+        "create_time": 1744326219938,
+        "episode_in_season": "12",
+        "episode_number": "S19:E12",
+        "external_id": "255276-012-851-1744419600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1744419600,
+        "last_time_machine_update": 1744326219938,
+        "last_update": 1744326219938,
+        "live": false,
+        "paid": "255276.012.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1744419600,
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1744326219937,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276333004",
+        "show_timestamp": 1744419600,
+        "status": "estimated",
+        "summary": "Francine joins Tuttle's gardening club, but he wants her gone.",
+        "summary_long": "Francine joins Tuttle's gardening club, but he wants her gone. Meanwhile, the rest of the family practice the power of yes.",
+        "taxonomy_id": "255276-012",
+        "title": "The Legend of Mike Madonia, the Rototiller Man",
+        "title_id": "2445755",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-012",
+        "upid_type": 12
     }
 ]
