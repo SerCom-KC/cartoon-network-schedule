@@ -818,5 +818,119 @@
         "tv_rating": "TV-PG",
         "upid": "DISC268720-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251909_008_04_851",
+        "create_time": 1744436573757,
+        "episode_in_season": "8",
+        "episode_number": "S3:E08",
+        "external_id": "251909-008-851-1744529400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Venture Bros., The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1744529400,
+        "last_time_machine_update": 1744436573757,
+        "last_update": 1744436573757,
+        "live": false,
+        "paid": "251909.008.04.851",
+        "participants": [
+            {
+                "character": "Thaddeus Venture",
+                "name": "James Urbaniak",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hank Venture",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "The Monarch",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dr. Mrs. The Monarch",
+                "name": "Doc Hammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Steven S.H. Yoon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Rachel Simon",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Doc Hammer",
+                "role": "writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1744529400,
+        "season_id": "970",
+        "season_name": "The Venture Bros.",
+        "season_number": "3",
+        "season_summary": "A scientist, his dim-witted children and their guard battle enemies.",
+        "season_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "serial": 1744436573757,
+        "series_id": "439722",
+        "series_name": "The Venture Bros.",
+        "series_summary": "A scientist, his dim-witted children and security guard battle enemies.",
+        "series_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "show_duration": 1800,
+        "show_id": "276337170",
+        "show_timestamp": 1744529400,
+        "status": "estimated",
+        "summary": "The Monarch seeks to re-spark his old hatred by visiting Venture Compound.",
+        "summary_long": "Bored and under-whelmed with his new Guild-assigned arch-enemies, The Monarch seeks to re-spark his old hatred by secretly visiting the Venture Compound while Dr. Venture is away at the Science Now conference.",
+        "taxonomy_id": "251909-008",
+        "title": "Tears of a Sea Cow",
+        "title_id": "718819",
+        "tv_rating": "TV-14",
+        "upid": "DISC251909-008",
+        "upid_type": 12
     }
 ]
