@@ -6307,5 +6307,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC255276-016",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271165_013_01_851",
+        "create_time": 1744588033957,
+        "episode_in_season": "13",
+        "episode_number": "S11:E13",
+        "external_id": "271165-013-851-1744680600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1744680600,
+        "last_time_machine_update": 1744588033957,
+        "last_update": 1744588033957,
+        "live": false,
+        "paid": "271165.013.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1744680600,
+        "season_id": "1000",
+        "season_name": "Family Guy",
+        "season_number": "11",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1744588033957,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276345312",
+        "show_timestamp": 1744680600,
+        "status": "estimated",
+        "summary": "After Meg sees Chris stealing money out of Lois' purse, she blackmails him.",
+        "summary_long": "After Meg sees Chris stealing money out of Lois' purse, she blackmails him into doing everything she says.",
+        "taxonomy_id": "271165-013",
+        "title": "Chris Cross",
+        "title_id": "809254",
+        "tv_rating": "TV-14",
+        "upid": "DISC271165-013",
+        "upid_type": 12
     }
 ]
