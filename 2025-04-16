@@ -613,8 +613,8 @@
             "Adult Animation"
         ],
         "guide_timestamp": 1744783200,
-        "last_time_machine_update": 1744690019490,
-        "last_update": 1744690019490,
+        "last_time_machine_update": 1744741628191,
+        "last_update": 1744741628191,
         "live": false,
         "paid": "271171.012.02.851",
         "participants": [
@@ -649,14 +649,14 @@
         "program_type": "EA",
         "release_year": 2007,
         "runtime_minutes": 30,
-        "scheduled_duration": 1801,
+        "scheduled_duration": 1800,
         "scheduled_timestamp": 1744783200,
         "season_id": "994",
         "season_name": "Family Guy",
         "season_number": "5",
         "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
         "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
-        "serial": 1744690019490,
+        "serial": 1744741628191,
         "series_id": "440990",
         "series_name": "Family Guy",
         "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
@@ -1377,8 +1377,8 @@
             "Drama"
         ],
         "guide_timestamp": 1744795800,
-        "last_time_machine_update": 1744702551898,
-        "last_update": 1744702551898,
+        "last_time_machine_update": 1744741628193,
+        "last_update": 1744741628193,
         "live": false,
         "paid": "233060.014.02.851",
         "participants": [],
@@ -1387,12 +1387,12 @@
         "program_type": "EA",
         "release_year": 2004,
         "runtime_minutes": 30,
-        "scheduled_duration": 1807,
+        "scheduled_duration": 1810,
         "scheduled_timestamp": 1744795800,
         "season_id": "1541",
         "season_name": "King of the Hill (Season 8)",
         "season_number": "8",
-        "serial": 1744702551897,
+        "serial": 1744741628191,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
@@ -4059,6 +4059,102 @@
         "title_id": "2089029",
         "tv_rating": "TV-Y7",
         "upid": "DISC228422-032",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228422_033_02_851",
+        "create_time": 1744741315508,
+        "episode_in_season": "33",
+        "episode_number": "S5:E33",
+        "external_id": "228422-033-851-1744827300",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1744827300,
+        "last_time_machine_update": 1744741315508,
+        "last_update": 1744741315508,
+        "live": false,
+        "paid": "228422.033.02.851",
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Mic Graves",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Ben Bocquelet",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1744827300,
+        "season_id": "10241",
+        "season_name": "The Amazing World of Gumball",
+        "season_number": "5",
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1744741315508,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "show_duration": 900,
+        "show_id": "276353294",
+        "show_timestamp": 1744827300,
+        "status": "estimated",
+        "summary": "The Wattersons compete over who has the worst life.",
+        "summary_long": "Each member of the family thinks their demographic has it the toughest. Gumball and Darwin think guys have it the worst.",
+        "taxonomy_id": "228422-033",
+        "title": "The Worst",
+        "title_id": "2089030",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228422-033",
         "upid_type": 12
     }
 ]
