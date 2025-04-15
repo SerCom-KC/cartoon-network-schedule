@@ -510,5 +510,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC270018-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271171_011_03_851",
+        "create_time": 1744688279604,
+        "episode_in_season": "11",
+        "episode_number": "S5:E11",
+        "external_id": "271171-011-851-1744781400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1744781400,
+        "last_time_machine_update": 1744688279604,
+        "last_update": 1744688279604,
+        "live": false,
+        "paid": "271171.011.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin, Stewie Griffin, Brian Griffin, Quagmire, Tom Tucker",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1744781400,
+        "season_id": "994",
+        "season_name": "Family Guy",
+        "season_number": "5",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1744688279604,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276349478",
+        "show_timestamp": 1744781400,
+        "status": "estimated",
+        "summary": "Peter beats up a bully who harasses Chris.",
+        "summary_long": "Peter beats up a bully who harasses Chris, and Stewie obsesses over getting a tan then fears he has cancer after spending too much time in a tanning booth.",
+        "taxonomy_id": "271171-011",
+        "title": "The Tan Aquatic with Steve Zissou",
+        "title_id": "652672",
+        "tv_rating": "TV-14",
+        "upid": "DISC271171-011",
+        "upid_type": 12
     }
 ]
