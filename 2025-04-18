@@ -4035,5 +4035,102 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228422-016",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228422_017_02_851",
+        "create_time": 1744910657545,
+        "episode_in_season": "17",
+        "episode_number": "S5:E17",
+        "external_id": "228422-017-851-1745003700",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1745003700,
+        "last_time_machine_update": 1744910657545,
+        "last_update": 1744910657545,
+        "live": false,
+        "paid": "228422.017.02.851",
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Mic Graves",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Ben Bocquelet",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1745003700,
+        "season_id": "10241",
+        "season_name": "The Amazing World of Gumball",
+        "season_number": "5",
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1744910657545,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "show_duration": 900,
+        "show_id": "276361556",
+        "show_timestamp": 1745003700,
+        "status": "estimated",
+        "summary": "A mysterious package shows up at the Watterson's house.",
+        "summary_long": "The Wattersons receive an unmarked package in the mail. To distract themselves from the urge to open it they all take turns to imagine what it might contain.",
+        "taxonomy_id": "228422-017",
+        "title": "The Box",
+        "title_id": "2089014",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228422-017",
+        "upid_type": 12
     }
 ]
