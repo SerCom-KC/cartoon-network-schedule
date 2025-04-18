@@ -4871,5 +4871,92 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169820-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271168_009_01_851",
+        "create_time": 1745019201765,
+        "episode_in_season": "9",
+        "episode_number": "S12:E09",
+        "external_id": "271168-009-851-1745112600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1745112600,
+        "last_time_machine_update": 1745019201765,
+        "last_update": 1745019201765,
+        "live": false,
+        "paid": "271168.009.01.851",
+        "participants": [
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Bob Bowen",
+                "role": "director"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745112600,
+        "season_id": "1001",
+        "season_name": "Family Guy",
+        "season_number": "12",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1745019201765,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "390873190",
+        "show_timestamp": 1745112600,
+        "status": "estimated",
+        "summary": "Peter asks Quagmire and Joe to step in and help him get his mojo back.",
+        "summary_long": "Lately Peter hasn't been able to perform very well in the bedroom. So he asks Quagmire and Joe to step in and help him get his mojo back.",
+        "taxonomy_id": "271168-009",
+        "title": "Peter Problems",
+        "title_id": "809273",
+        "tv_rating": "TV-14",
+        "upid": "DISC271168-009",
+        "upid_type": 12
     }
 ]
