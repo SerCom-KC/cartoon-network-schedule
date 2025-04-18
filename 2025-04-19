@@ -4162,5 +4162,99 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228423-015",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "250750_003_02_851",
+        "create_time": 1744990746878,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": "250750-003-851-1745083800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tom and Jerry Tales",
+        "genres": [
+            "Classic Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1745083800,
+        "last_time_machine_update": 1744990746878,
+        "last_update": 1744990746878,
+        "live": false,
+        "paid": "250750.003.02.851",
+        "participants": [
+            {
+                "character": "Tom",
+                "name": "Don Brown",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry",
+                "name": "Sam Vincent",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Spike",
+                "name": "Michael Donovan",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Colin Murdock",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Reece Thompson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sander Schwartz",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Don Jurwich",
+                "role": "producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745083800,
+        "season_id": "7269",
+        "season_name": "Tom and Jerry Tales",
+        "season_number": "2",
+        "season_summary": "Tom and Jerry chase each other in all-new hilarious cartoon shorts.",
+        "season_summary_long": "Tom and Jerry return to basics, chasing each other in an all-new series of hilarious cartoon shorts.",
+        "serial": 1744990746878,
+        "series_id": "627595",
+        "series_name": "Tom and Jerry Tales",
+        "series_summary": "Tom and Jerry chase each other in all-new hilarious cartoon shorts.",
+        "series_summary_long": "Tom and Jerry return to basics, chasing each other in an all-new series of hilarious cartoon shorts.",
+        "show_duration": 1800,
+        "show_id": "390873126",
+        "show_timestamp": 1745083800,
+        "status": "estimated",
+        "summary": "Tom must be on his best behavior when his owner brings him to school.",
+        "summary_long": "Tom's owner brings him to school and makes him be on his best behavior. Then, Jerry and Tuffy try to sabotage Tom's chances of winning a cat show. Finally, after wreaking havoc, Mrs. Two-Shoes calls in a trainer to teach Tom some manners.",
+        "taxonomy_id": "250750-003",
+        "title": "Don't Bring Your Pet to School Day/Cat Show Catastrophe/The Cat Whisperer",
+        "title_id": "696230",
+        "tv_rating": "TV-G",
+        "upid": "DISC250750-003",
+        "upid_type": 12
     }
 ]
