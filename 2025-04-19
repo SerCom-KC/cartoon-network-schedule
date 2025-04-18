@@ -4350,5 +4350,85 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC250755-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "251043_000_02_851",
+        "create_time": 1744997537753,
+        "episode_in_season": "0",
+        "external_id": "251043-000-851-1745091000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Aloha, Scooby-Doo",
+        "genres": [
+            "Animated Movies",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1745091000,
+        "last_time_machine_update": 1744997537753,
+        "last_update": 1744997537753,
+        "live": false,
+        "paid": "251043.000.02.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Casey Kasem",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Tim Maltby",
+                "role": "director"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "FF",
+        "release_year": 2005,
+        "runtime_minutes": 90,
+        "scheduled_duration": 5400,
+        "scheduled_timestamp": 1745091000,
+        "serial": 1744997537753,
+        "series_id": "107474",
+        "series_name": "Aloha, Scooby-Doo",
+        "series_summary": "Scooby-Doo and the gang head to Hawaii for a surfing contest.",
+        "series_summary_long": "Scooby-Doo and the Mystery Inc. gang head to Hawaii for a big surfing contest that is disrupted by the rumblings of a nearby volcano and the disappearance of one of the surfers.",
+        "show_duration": 5400,
+        "show_id": "390873148",
+        "show_timestamp": 1745091000,
+        "status": "estimated",
+        "summary": "Scooby-Doo and the gang head to Hawaii for a surfing contest.",
+        "summary_long": "When Daphne is invited to Hawaii, the gang is drawn into a mystery in the small town of Hanahuna Bay where a surfing contest has somehow brought down upon the locals the ire of a legendary Hawaiian spirit, the Wiki-Tiki.",
+        "taxonomy_id": "251043-000",
+        "title": "Aloha, Scooby-Doo",
+        "title_id": "543872",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC251043-000",
+        "upid_type": 12
     }
 ]
