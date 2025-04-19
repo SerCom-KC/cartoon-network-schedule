@@ -4905,8 +4905,8 @@
             "Drama"
         ],
         "guide_timestamp": 1745101800,
-        "last_time_machine_update": 1745101852398,
-        "last_update": 1745101852398,
+        "last_time_machine_update": 1745103614985,
+        "last_update": 1745103614985,
         "live": false,
         "paid": "233071.004.02.851",
         "participants": [],
@@ -4920,13 +4920,13 @@
         "season_id": "1542",
         "season_name": "King of the Hill (Season 9)",
         "season_number": "9",
-        "serial": 1745101852398,
+        "serial": 1745103614984,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
         "show_id": "390873167",
         "show_timestamp": 1745101802,
-        "status": "current",
+        "status": "actual",
         "summary": "Peggy tries to spruce up the front yard by purchasing a lawn gnome, much to Hank's horror.",
         "summary_long": "Yard, She Blows!: Peggy tries to spruce up the front yard by purchasing a lawn gnome, much to Hank's horror.",
         "taxonomy_id": "233071-004",
@@ -4955,8 +4955,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1745103600,
-        "last_time_machine_update": 1745101854292,
-        "last_update": 1745101854292,
+        "last_time_machine_update": 1745103651260,
+        "last_update": 1745103651260,
         "live": false,
         "paid": "232841.003.01.851",
         "participants": [
@@ -5008,15 +5008,15 @@
         "season_number": "18",
         "season_summary": "A CIA agent will do anything to protect his homeland and family.",
         "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
-        "serial": 1745101854291,
+        "serial": 1745103651260,
         "series_id": "581006",
         "series_name": "American Dad",
         "series_summary": "A CIA agent will do anything to protect his homeland and family.",
         "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
         "show_duration": 1800,
         "show_id": "276365672",
-        "show_timestamp": 1745103602,
-        "status": "estimated",
+        "show_timestamp": 1745103609,
+        "status": "current",
         "summary": "Steve and Principal Lewis get caught in a dangerous situation at school.",
         "summary_long": "Steve and Principal Lewis get caught in a dangerous situation at the school, while the rest of the family makes an adorable new friend.",
         "taxonomy_id": "232841-003",
@@ -5024,6 +5024,96 @@
         "title_id": "2392754",
         "tv_rating": "TV-14",
         "upid": "DISC232841-003",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232841_004_01_851",
+        "create_time": 1745103667332,
+        "episode_in_season": "4",
+        "episode_number": "S18:E04",
+        "external_id": "232841-004-851-1745105400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1745105400,
+        "last_time_machine_update": 1745103667332,
+        "last_update": 1745103667332,
+        "live": false,
+        "paid": "232841.004.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1745105400,
+        "season_id": "25259",
+        "season_name": "American Dad",
+        "season_number": "18",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1745103667331,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276365682",
+        "show_timestamp": 1745105400,
+        "status": "estimated",
+        "summary": "Klaus and Jeff's friendship is threatened by Klaus's girlfriend.",
+        "summary_long": "Klaus and Jeff's friendship is threatened by Klaus's girlfriend from another realm.",
+        "taxonomy_id": "232841-004",
+        "title": "The Pleasanting at Smith House",
+        "title_id": "2392755",
+        "tv_rating": "TV-14",
+        "upid": "DISC232841-004",
         "upid_type": 12
     },
     {
