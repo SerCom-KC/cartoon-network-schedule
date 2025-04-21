@@ -558,5 +558,85 @@
         "tv_rating": "TV-14",
         "upid": "DISC270018-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "271171_015_03_851",
+        "create_time": 1745206540704,
+        "episode_in_season": "15",
+        "episode_number": "S5:E15",
+        "external_id": "271171-015-851-1745299800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1745299800,
+        "last_time_machine_update": 1745206540704,
+        "last_update": 1745206540704,
+        "live": false,
+        "paid": "271171.015.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin, Stewie Griffin, Brian Griffin, Quagmire, Tom Tucker",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745299800,
+        "season_id": "994",
+        "season_name": "Family Guy",
+        "season_number": "5",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1745206540704,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276374074",
+        "show_timestamp": 1745299800,
+        "status": "estimated",
+        "summary": "When their church thinks Stewie is possessed, the family goes on the run.",
+        "summary_long": "When their church thinks Stewie is possessed by the devil, the family goes on the run and ends up in Texas.",
+        "taxonomy_id": "271171-015",
+        "title": "Boys Do Cry",
+        "title_id": "652678",
+        "tv_rating": "TV-14",
+        "upid": "DISC271171-015",
+        "upid_type": 12
     }
 ]
