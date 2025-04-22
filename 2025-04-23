@@ -4503,5 +4503,86 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169734-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271168_020_01_851",
+        "create_time": 1745365544024,
+        "episode_in_season": "20",
+        "episode_number": "S12:E20",
+        "external_id": "271168-020-851-1745458200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1745458200,
+        "last_time_machine_update": 1745365544024,
+        "last_update": 1745365544024,
+        "live": false,
+        "paid": "271168.020.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745458200,
+        "season_id": "1001",
+        "season_name": "Family Guy",
+        "season_number": "12",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1745365544024,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276382156",
+        "show_timestamp": 1745458200,
+        "status": "estimated",
+        "summary": "The Browns move back to Quahog, and it looks like the gang is reunited.",
+        "summary_long": "With the Brown family moving back to Quahog, it looks like the old gang is reunited. But Peter's friendship with Cleveland is quickly put on hold when Donna and Lois butt heads over different parenting styles and forbid them to see each other.",
+        "taxonomy_id": "271168-020",
+        "title": "He's Bla-ack!",
+        "title_id": "809283",
+        "tv_rating": "TV-14",
+        "upid": "DISC271168-020",
+        "upid_type": 12
     }
 ]
