@@ -635,5 +635,145 @@
         "tv_rating": "TV-14",
         "upid": "DISC271170-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "271171_018_02_851",
+        "create_time": 1745296705670,
+        "episode_in_season": "18",
+        "episode_number": "S5:E18",
+        "external_id": "271171-018-851-1745388000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1745388000,
+        "last_time_machine_update": 1745296705670,
+        "last_update": 1745296705670,
+        "live": false,
+        "paid": "271171.018.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin, Stewie Griffin, Brian Griffin, Quagmire, Tom Tucker",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745388000,
+        "season_id": "994",
+        "season_name": "Family Guy",
+        "season_number": "5",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1745296705670,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276378150",
+        "show_timestamp": 1745388000,
+        "status": "estimated",
+        "summary": "Death allows Peter to go back in time to sow his wild oats.",
+        "summary_long": "Death allows Peter to go back in time for a night so he can sow his wild oats.",
+        "taxonomy_id": "271171-018",
+        "title": "Meet the Quagmires",
+        "title_id": "652682",
+        "tv_rating": "TV-14",
+        "upid": "DISC271171-018",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_019_02_851",
+        "create_time": 1745296705670,
+        "dvs": true,
+        "episode_in_season": "19",
+        "episode_number": "S10:E19",
+        "external_id": "250264-019-851-1745389800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1745389800,
+        "last_time_machine_update": 1745296705670,
+        "last_update": 1745296705670,
+        "live": false,
+        "paid": "250264.019.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745389800,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1745296705670,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276378160",
+        "show_timestamp": 1745389800,
+        "status": "estimated",
+        "summary": "The kids try to cheer Teddy up.",
+        "summary_long": "When Teddy finds himself doubting his abilities as a handyman, the kids build up his confidence.",
+        "taxonomy_id": "250264-019",
+        "title": "The Handyman Can",
+        "title_id": "2438957",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250264-019",
+        "upid_type": 12
     }
 ]
