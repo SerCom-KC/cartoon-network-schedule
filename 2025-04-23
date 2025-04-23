@@ -4584,5 +4584,86 @@
         "tv_rating": "TV-14",
         "upid": "DISC271168-020",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271158_001_02_851",
+        "create_time": 1745366653768,
+        "episode_in_season": "1",
+        "episode_number": "S13:E01",
+        "external_id": "271158-001-851-1745460000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1745460000,
+        "last_time_machine_update": 1745366653768,
+        "last_update": 1745366653768,
+        "live": false,
+        "paid": "271158.001.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 60,
+        "scheduled_duration": 3606,
+        "scheduled_timestamp": 1745460000,
+        "season_id": "1002",
+        "season_name": "Family Guy",
+        "season_number": "13",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1745366653768,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 3600,
+        "show_id": "276382166",
+        "show_timestamp": 1745460000,
+        "status": "estimated",
+        "summary": "Forced to flee Quahog, the Griffins arrive in a town called \"Springfield.\"",
+        "summary_long": "The Griffins are forced to flee their hometown of Quahog after Peter's offensive newspaper comics spark uproar amongst the local townspeople. Driving through the night, the Griffins arrive in a small suburban town called \"Springfield.\"",
+        "taxonomy_id": "271158-001",
+        "title": "Simpsons Guy",
+        "title_id": "809286",
+        "tv_rating": "TV-14",
+        "upid": "DISC271158-001",
+        "upid_type": 12
     }
 ]
