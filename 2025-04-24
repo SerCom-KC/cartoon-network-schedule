@@ -540,5 +540,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC270018-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "271164_002_02_851",
+        "create_time": 1745379813167,
+        "dvs": true,
+        "episode_in_season": "2",
+        "episode_number": "S6:E02",
+        "external_id": "271164-002-851-1745472600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1745472600,
+        "last_time_machine_update": 1745379813167,
+        "last_update": 1745379813167,
+        "live": false,
+        "paid": "271164.002.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745472600,
+        "season_id": "995",
+        "season_name": "Family Guy",
+        "season_number": "6",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1745379813167,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276382236",
+        "show_timestamp": 1745472600,
+        "status": "estimated",
+        "summary": "When Brian starts to show his age, the Griffins decide to get a new dog.",
+        "summary_long": "When Brian starts to show his age, the Griffins decide to get a new dog.",
+        "taxonomy_id": "271164-002",
+        "title": "Moving Out",
+        "title_id": "652683",
+        "tv_rating": "TV-14",
+        "upid": "DISC271164-002",
+        "upid_type": 12
     }
 ]
