@@ -4147,5 +4147,86 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC250755-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "168735_000_02_851",
+        "create_time": 1745601685821,
+        "episode_in_season": "0",
+        "external_id": "168735-000-851-1745694900",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Frankencreepy",
+        "genres": [
+            "Animated Movies",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1745694900,
+        "last_time_machine_update": 1745601685821,
+        "last_update": 1745601685821,
+        "live": false,
+        "paid": "168735.000.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Paul Mcevoy",
+                "role": "director"
+            },
+            {
+                "character": "Scooby-Doo/Fred Jones",
+                "name": "Frank Walker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Jim Krieg",
+                "role": "screenplay"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "FF",
+        "release_year": 2014,
+        "runtime_minutes": 74,
+        "scheduled_duration": 6300,
+        "scheduled_timestamp": 1745694900,
+        "season_number": "1",
+        "serial": 1745601685821,
+        "series_id": "76848",
+        "series_name": "Scooby-Doo! Frankencreepy",
+        "series_summary": "Velma inherits her great-great-uncle Dr. Von Dinkenstein's castle.",
+        "series_summary_long": "Velma discovers she's inherited her great-great-uncle Dr. Von Dinkenstein's castle in Transylvania, Pennsylvania. When the gang persuades Velma to go claim her inheritance, the ghost of the castle blows up the Mystery Machine as a warning!",
+        "show_duration": 6300,
+        "show_id": "276394294",
+        "show_timestamp": 1745694900,
+        "status": "estimated",
+        "summary": "Velma inherits her great-great-uncle Dr. Von Dinkenstein's castle.",
+        "summary_long": "Velma discovers she's inherited her great-great-uncle Dr. Von Dinkenstein's castle in Transylvania, Pennsylvania. When the gang persuades Velma to go claim her inheritance, the ghost of the castle blows up the Mystery Machine as a warning!",
+        "taxonomy_id": "168735-000",
+        "title": "Scooby-Doo! Frankencreepy",
+        "title_id": "845009",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC168735-000",
+        "upid_type": 12
     }
 ]
