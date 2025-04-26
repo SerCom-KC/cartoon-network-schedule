@@ -1059,5 +1059,105 @@
         "tv_rating": "TV-PG",
         "upid": "DISC233073-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "168240_013_03_851",
+        "create_time": 1745662172991,
+        "episode_in_season": "13",
+        "episode_number": "S1:E13",
+        "external_id": "168240-013-851-1745748000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Mystery Incorporated",
+        "genres": [
+            "Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1745748000,
+        "last_time_machine_update": 1745662172991,
+        "last_update": 1745662172991,
+        "live": false,
+        "paid": "168240.013.03.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Spike Brandt",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Tony Cervone",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Paul Rugg",
+                "role": "writer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745748000,
+        "season_id": "5436",
+        "season_name": "Scooby-Doo! Mystery Incorporated",
+        "season_number": "1",
+        "season_summary": "The Scooby gang aims to disprove the paranormal happenings of Crystal Cove.",
+        "season_summary_long": "A sleepy little village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences. The sleuthing team of Scooby-Doo and the gang prove all of this simply isn't real.",
+        "serial": 1745662172991,
+        "series_id": "796588",
+        "series_name": "Scooby-Doo! Mystery Incorporated",
+        "series_summary": "The Scooby gang aims to disprove the paranormal happenings of Crystal Cove.",
+        "series_summary_long": "A sleepy little village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences. The sleuthing team of Scooby-Doo and the gang prove all of this simply isn't real.",
+        "show_duration": 1800,
+        "show_id": "276398090",
+        "show_timestamp": 1745748000,
+        "status": "estimated",
+        "summary": "Bugs are taking over Crystal Cove and attacking prominent citizens.",
+        "summary_long": "Bugs are taking over Crystal Cove and attacking some of its most prominent citizens. With Mystery Inc. back together as a team, they begin to investigate. But when the gang gets too close to the truth, they become the bug's newest target.",
+        "taxonomy_id": "168240-013",
+        "title": "When the Cicada Calls",
+        "title_id": "797611",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC168240-013",
+        "upid_type": 12
     }
 ]
