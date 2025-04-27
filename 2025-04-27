@@ -14,14 +14,14 @@
         "franchise_id": "489898",
         "franchise_name": "Lazarus (English Language Version)",
         "genres": [
-            "Action",
-            "Adult Animation",
             "Anime",
-            "Fantasy & Sci-Fi"
+            "Fantasy & Sci-Fi",
+            "Action",
+            "Adult Animation"
         ],
         "guide_timestamp": 1745726400,
-        "last_time_machine_update": 1745633589333,
-        "last_update": 1745633589333,
+        "last_time_machine_update": 1745713865521,
+        "last_update": 1745713865521,
         "live": false,
         "paid": "269649.004.16.851",
         "participants": [
@@ -123,7 +123,7 @@
         "season_number": "1",
         "season_summary": "A miracle drug turns lethal, and a team of outlaws must save the world.",
         "season_summary_long": "2052 -- A miracle drug turns lethal, and humanity faces extinction. It's up to a team of outlaws known as LAZARUS to save the world. They have 30 days!",
-        "serial": 1745633589333,
+        "serial": 1745713865520,
         "series_id": "2536259",
         "series_name": "Lazarus",
         "series_summary": "A miracle drug turns lethal, and a team of outlaws must save the world.",
@@ -274,6 +274,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L",
             "V"
@@ -291,8 +292,8 @@
             "Anime"
         ],
         "guide_timestamp": 1745730000,
-        "last_time_machine_update": 1745636417938,
-        "last_update": 1745636417938,
+        "last_time_machine_update": 1745715139981,
+        "last_update": 1745715139981,
         "live": false,
         "paid": "275072.024.03.851",
         "participants": [
@@ -469,7 +470,7 @@
         "season_number": "1",
         "season_summary": "A boy learns he is the son of Satan and vows to defeat his father.",
         "season_summary_long": "Rin and his twin brother Yukio have been raised by Shiro Fujimoto, a priest. One day, Rin makes a discovery: his biological father is Satan! As evil intrudes on the border between the realms of Humans and Demons, Rin vows to defeat his own father, Satan.",
-        "serial": 1745636417938,
+        "serial": 1745715139981,
         "series_id": "2012528",
         "series_name": "Blue Exorcist",
         "series_summary": "A boy learns he is the son of Satan and vows to defeat his father.",
@@ -4657,6 +4658,251 @@
         "title_id": "2539772",
         "tv_rating": "TV-14",
         "upid": "DISC271172-019",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271161_015_02_851",
+        "create_time": 1745712267277,
+        "episode_in_season": "15",
+        "episode_number": "S17:E15",
+        "external_id": "271161-015-851-1745805600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1745805600,
+        "last_time_machine_update": 1745712267277,
+        "last_update": 1745712267277,
+        "live": false,
+        "paid": "271161.015.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1745805600,
+        "season_id": "31521",
+        "season_name": "Family Guy",
+        "season_number": "17",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1745712267277,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276398470",
+        "show_timestamp": 1745805600,
+        "status": "estimated",
+        "summary": "Quagmire hits it off with Courtney, only to discover she's his daughter.",
+        "summary_long": "When the guys volunteer to chaperone the high school prom, Quagmire hits it off with Courtney, only to discover that she is his daughter.",
+        "taxonomy_id": "271161-015",
+        "title": "No Giggity, No Doubt",
+        "title_id": "2539806",
+        "tv_rating": "TV-14",
+        "upid": "DISC271161-015",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271161_016_02_851",
+        "create_time": 1745715141141,
+        "episode_in_season": "16",
+        "episode_number": "S17:E16",
+        "external_id": "271161-016-851-1745807400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1745807400,
+        "last_time_machine_update": 1745715141141,
+        "last_update": 1745715141141,
+        "live": false,
+        "paid": "271161.016.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745807400,
+        "season_id": "31521",
+        "season_name": "Family Guy",
+        "season_number": "17",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1745715141141,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276398480",
+        "show_timestamp": 1745807400,
+        "status": "estimated",
+        "summary": "The Griffins provide DVD commentary on a recent episode.",
+        "summary_long": "In a special episode, the Griffins provide DVD commentary on a recent episode and reveal never-before-told drama between Peter and Lois.",
+        "taxonomy_id": "271161-016",
+        "title": "You Can't Handle the Booth!",
+        "title_id": "2539807",
+        "tv_rating": "TV-14",
+        "upid": "DISC271161-016",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "250984_005_02_851",
+        "create_time": 1745715731363,
+        "episode_in_season": "5",
+        "episode_number": "S7:E05",
+        "external_id": "250984-005-851-1745809200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1745809200,
+        "last_time_machine_update": 1745715731363,
+        "last_update": 1745715731363,
+        "live": false,
+        "paid": "250984.005.02.851",
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rick Sanchez",
+                "name": "Ian Cardoni",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Morty Smith",
+                "name": "Harry Belden",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1745809200,
+        "season_id": "27323",
+        "season_name": "Rick and Morty",
+        "season_number": "7",
+        "season_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "serial": 1745715731363,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276398490",
+        "show_timestamp": 1745809200,
+        "status": "estimated",
+        "summary": "Rick and Morty wilding out, broh. They getting up to stuff.",
+        "summary_long": "Rick and Morty wilding out, broh. They getting up to stuff.",
+        "taxonomy_id": "250984-005",
+        "title": "Unmortricken",
+        "title_id": "2424787",
+        "tv_rating": "TV-MA",
+        "upid": "DISC250984-005",
         "upid_type": 12
     }
 ]
