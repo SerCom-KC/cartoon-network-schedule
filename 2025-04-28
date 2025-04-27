@@ -5573,5 +5573,86 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169734-022",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271158_012_01_851",
+        "create_time": 1745797532916,
+        "episode_in_season": "12",
+        "episode_number": "S13:E12",
+        "external_id": "271158-012-851-1745890200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1745890200,
+        "last_time_machine_update": 1745797532916,
+        "last_update": 1745797532916,
+        "live": false,
+        "paid": "271158.012.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745890200,
+        "season_id": "1002",
+        "season_name": "Family Guy",
+        "season_number": "13",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1745797532916,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276402646",
+        "show_timestamp": 1745890200,
+        "status": "estimated",
+        "summary": "Stewie decides that having a baby will bring him and Brian back together.",
+        "summary_long": "Stewie fears that he and Brian are growing apart after Brian avoids several invitations to hangout. In an effort to rekindle their friendship, Stewie decides that having a baby would bring them back together.",
+        "taxonomy_id": "271158-012",
+        "title": "Stewie Is Enceinte",
+        "title_id": "809294",
+        "tv_rating": "TV-14",
+        "upid": "DISC271158-012",
+        "upid_type": 12
     }
 ]
