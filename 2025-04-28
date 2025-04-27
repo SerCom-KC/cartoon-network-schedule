@@ -3104,5 +3104,93 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC218419-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250977_005_04_851",
+        "create_time": 1745758615605,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "250977-005-851-1745850600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "New Scooby-Doo Mysteries, The",
+        "genres": [
+            "Classic Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1745850600,
+        "last_time_machine_update": 1745758615605,
+        "last_update": 1745758615605,
+        "live": false,
+        "paid": "250977.005.04.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "William Hanna",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Joseph Barbera",
+                "role": "executive-producer"
+            },
+            {
+                "character": "Shaggy",
+                "name": "Casey Kasem",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Scooby-Doo/Scrappy-Doo",
+                "name": "Don Messick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne",
+                "name": "Heather North",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma",
+                "name": "Marla Frumkin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 1984,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745850600,
+        "season_id": "220",
+        "season_name": "The New Scooby-Doo Mysteries",
+        "season_number": "1",
+        "season_summary": "Scooby-Doo and his detective pals solve all-new, spine-tingling mysteries.",
+        "season_summary_long": "Scooby-Doo and his detective pals solve all-new, brain-puzzling, spine-tingling mysteries.",
+        "serial": 1745758615605,
+        "series_id": "313002",
+        "series_name": "The New Scooby-Doo Mysteries",
+        "series_summary": "Scooby-Doo and his detective pals solve all-new, spine-tingling mysteries.",
+        "series_summary_long": "Scooby-Doo and his detective pals solve all-new, brain-puzzling, spine-tingling mysteries.",
+        "show_duration": 1800,
+        "show_id": "276402346",
+        "show_timestamp": 1745850600,
+        "status": "estimated",
+        "summary": "The gang races to recover a top-secret decoder stolen by Codefinger.",
+        "summary_long": "The gang races to recover a top-secret decoder stolen by the evil Codefinger. Then, Scooby investigates a hotel ghost.",
+        "taxonomy_id": "250977-005",
+        "title": "A Code in the Nose/Doom Service",
+        "title_id": "123642",
+        "tv_rating": "TV-G",
+        "upid": "DISC250977-005",
+        "upid_type": 12
     }
 ]
