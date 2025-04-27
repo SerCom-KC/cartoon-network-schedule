@@ -14,14 +14,14 @@
         "franchise_id": "489898",
         "franchise_name": "Lazarus (English Language Version)",
         "genres": [
-            "Anime",
-            "Fantasy & Sci-Fi",
             "Action",
-            "Adult Animation"
+            "Adult Animation",
+            "Anime",
+            "Fantasy & Sci-Fi"
         ],
         "guide_timestamp": 1745726400,
-        "last_time_machine_update": 1745713865521,
-        "last_update": 1745713865521,
+        "last_time_machine_update": 1745722854967,
+        "last_update": 1745722854967,
         "live": false,
         "paid": "269649.004.16.851",
         "participants": [
@@ -123,7 +123,7 @@
         "season_number": "1",
         "season_summary": "A miracle drug turns lethal, and a team of outlaws must save the world.",
         "season_summary_long": "2052 -- A miracle drug turns lethal, and humanity faces extinction. It's up to a team of outlaws known as LAZARUS to save the world. They have 30 days!",
-        "serial": 1745713865520,
+        "serial": 1745722854963,
         "series_id": "2536259",
         "series_name": "Lazarus",
         "series_summary": "A miracle drug turns lethal, and a team of outlaws must save the world.",
@@ -4903,6 +4903,89 @@
         "title_id": "2424787",
         "tv_rating": "TV-MA",
         "upid": "DISC250984-005",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "250984_009_02_851",
+        "create_time": 1745718891145,
+        "episode_in_season": "9",
+        "episode_number": "S7:E09",
+        "external_id": "250984-009-851-1745811000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1745811000,
+        "last_time_machine_update": 1745718891145,
+        "last_update": 1745718891145,
+        "live": false,
+        "paid": "250984.009.02.851",
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rick Sanchez",
+                "name": "Ian Cardoni",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Morty Smith",
+                "name": "Harry Belden",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1745811000,
+        "season_id": "27323",
+        "season_name": "Rick and Morty",
+        "season_number": "7",
+        "season_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "serial": 1745718891145,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276398500",
+        "show_timestamp": 1745811000,
+        "status": "estimated",
+        "summary": "Gotta keep those receipts, dawg.",
+        "summary_long": "Gotta keep those receipts, dawg.",
+        "taxonomy_id": "250984-009",
+        "title": "Rickfending Your Mort",
+        "title_id": "2424791",
+        "tv_rating": "TV-MA",
+        "upid": "DISC250984-009",
         "upid_type": 12
     }
 ]
