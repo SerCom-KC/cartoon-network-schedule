@@ -689,5 +689,86 @@
         "tv_rating": "TV-14",
         "upid": "DISC271164-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271164_007_02_851",
+        "create_time": 1745813294171,
+        "episode_in_season": "7",
+        "episode_number": "S6:E07",
+        "external_id": "271164-007-851-1745906400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1745906400,
+        "last_time_machine_update": 1745813294171,
+        "last_update": 1745813294171,
+        "live": false,
+        "paid": "271164.007.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1745906400,
+        "season_id": "995",
+        "season_name": "Family Guy",
+        "season_number": "6",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1745813294171,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276402756",
+        "show_timestamp": 1745906400,
+        "status": "estimated",
+        "summary": "When Meg is admitted to the hospital, Peter vows to treat her better.",
+        "summary_long": "Meg is admitted to the hospital due to a severe accident, and Peter vows to treat her better than he ever has before.",
+        "taxonomy_id": "271164-007",
+        "title": "Peter's Daughter",
+        "title_id": "663589",
+        "tv_rating": "TV-14",
+        "upid": "DISC271164-007",
+        "upid_type": 12
     }
 ]
