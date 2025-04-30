@@ -685,8 +685,8 @@
             "Adult Animation"
         ],
         "guide_timestamp": 1746079200,
-        "last_time_machine_update": 1745987333707,
-        "last_update": 1745987333707,
+        "last_time_machine_update": 1746028253084,
+        "last_update": 1746028253084,
         "live": false,
         "paid": "271164.011.03.851",
         "participants": [
@@ -721,14 +721,14 @@
         "program_type": "EA",
         "release_year": 2008,
         "runtime_minutes": 30,
-        "scheduled_duration": 1806,
+        "scheduled_duration": 1808,
         "scheduled_timestamp": 1746079200,
         "season_id": "995",
         "season_name": "Family Guy",
         "season_number": "6",
         "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
         "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
-        "serial": 1745987333707,
+        "serial": 1746028253083,
         "series_id": "440990",
         "series_name": "Family Guy",
         "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
@@ -828,8 +828,8 @@
             "Family"
         ],
         "guide_timestamp": 1746082800,
-        "last_time_machine_update": 1745991053868,
-        "last_update": 1745991053868,
+        "last_time_machine_update": 1746028253085,
+        "last_update": 1746028253085,
         "live": false,
         "paid": "250265.008.02.851",
         "participants": [
@@ -844,14 +844,14 @@
         "program_type": "EA",
         "release_year": 2020,
         "runtime_minutes": 30,
-        "scheduled_duration": 1803,
+        "scheduled_duration": 1804,
         "scheduled_timestamp": 1746082800,
         "season_id": "27921",
         "season_name": "Bob's Burgers (Season 11)",
         "season_number": "11",
         "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
         "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
-        "serial": 1745991053868,
+        "serial": 1746028253083,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
@@ -1009,6 +1009,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -1029,8 +1030,8 @@
             "Offbeat"
         ],
         "guide_timestamp": 1746086400,
-        "last_time_machine_update": 1745994731427,
-        "last_update": 1745994731427,
+        "last_time_machine_update": 1746028253086,
+        "last_update": 1746028253086,
         "live": false,
         "paid": "252750.003.01.851",
         "participants": [
@@ -1170,14 +1171,14 @@
         "program_type": "EA",
         "release_year": 2023,
         "runtime_minutes": 30,
-        "scheduled_duration": 1806,
+        "scheduled_duration": 1817,
         "scheduled_timestamp": 1746086400,
         "season_id": "25122",
         "season_name": "Royal Crackers",
         "season_number": "1",
         "season_summary": "A half-hour animated comedy series created by Jason Ruiz.",
         "season_summary_long": "Royal Crackers is a half-hour animated comedy series created by Jason Ruiz, who also serves as executive producer along with Seth Cohen (The Last Man on Earth, Hoops). The series is produced by Titmouse.",
-        "serial": 1745994731426,
+        "serial": 1746028253083,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "series_summary": "A half-hour animated comedy series created by Jason Ruiz.",
@@ -3279,6 +3280,979 @@
         "title_id": "123496",
         "tv_rating": "TV-G",
         "upid": "DISC234842-010",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229026_030_02_851",
+        "create_time": 1746028284546,
+        "episode_in_season": "30",
+        "episode_number": "S7:E30",
+        "external_id": "229026-030-851-1746113400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Kids & Family",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1746113400,
+        "last_time_machine_update": 1746028284546,
+        "last_update": 1746028284546,
+        "live": false,
+        "paid": "229026.030.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hi Five Ghost",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Robert Alvarez",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "J.G. Quintel",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1746113400,
+        "season_id": "9462",
+        "season_name": "Regular Show",
+        "season_number": "7",
+        "season_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1746028284546,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "show_duration": 900,
+        "show_id": "276414644",
+        "show_timestamp": 1746113400,
+        "status": "estimated",
+        "summary": "Pops thinks that he\u2019s a wizard trapped in medieval times.",
+        "summary_long": "Pops thinks that he\u2019s a wizard trapped in medieval times, and he wants to go back home.",
+        "taxonomy_id": "229026-030",
+        "title": "Marvolo the Wizard",
+        "title_id": "2065566",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229026-030",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229026_031_02_851",
+        "create_time": 1746028284548,
+        "episode_in_season": "31",
+        "episode_number": "S7:E31",
+        "external_id": "229026-031-851-1746114300",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Kids & Family",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1746114300,
+        "last_time_machine_update": 1746028284548,
+        "last_update": 1746028284548,
+        "live": false,
+        "paid": "229026.031.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hi Five Ghost",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Robert Alvarez",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "J.G. Quintel",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1746114300,
+        "season_id": "9462",
+        "season_name": "Regular Show",
+        "season_number": "7",
+        "season_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1746028284546,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "show_duration": 900,
+        "show_id": "276414654",
+        "show_timestamp": 1746114300,
+        "status": "estimated",
+        "summary": "Pops wants to see his favorite planet.",
+        "summary_long": "When the guys have to sleep outside for the night, Pops wants to see his favorite planet.",
+        "taxonomy_id": "229026-031",
+        "title": "Pops' Favorite Planet",
+        "title_id": "2065567",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229026-031",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229026_032_02_851",
+        "create_time": 1746029124020,
+        "episode_in_season": "32",
+        "episode_number": "S7:E32",
+        "external_id": "229026-032-851-1746115200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Kids & Family",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1746115200,
+        "last_time_machine_update": 1746029124020,
+        "last_update": 1746029124020,
+        "live": false,
+        "paid": "229026.032.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hi Five Ghost",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Robert Alvarez",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "J.G. Quintel",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1746115200,
+        "season_id": "9462",
+        "season_name": "Regular Show",
+        "season_number": "7",
+        "season_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1746029124019,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "show_duration": 900,
+        "show_id": "276414664",
+        "show_timestamp": 1746115200,
+        "status": "estimated",
+        "summary": "Benson has a crush on one of the Dome scientists.",
+        "summary_long": "Benson has a crush on one of the Dome scientists, and he wants to sneak her a bucket of chicken wings so that he can ask her out.",
+        "taxonomy_id": "229026-032",
+        "title": "Pam I Am",
+        "title_id": "2065568",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229026-032",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229026_033_02_851",
+        "create_time": 1746029124020,
+        "episode_in_season": "33",
+        "episode_number": "S7:E33",
+        "external_id": "229026-033-851-1746116100",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Kids & Family",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1746116100,
+        "last_time_machine_update": 1746029124020,
+        "last_update": 1746029124020,
+        "live": false,
+        "paid": "229026.033.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hi Five Ghost",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Robert Alvarez",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "J.G. Quintel",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1746116100,
+        "season_id": "9462",
+        "season_name": "Regular Show",
+        "season_number": "7",
+        "season_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1746029124019,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "show_duration": 900,
+        "show_id": "276414674",
+        "show_timestamp": 1746116100,
+        "status": "estimated",
+        "summary": "The head scientist puts Mordecai and Rigby on a 24-hour lockdown.",
+        "summary_long": "The head scientist puts Mordecai and Rigby on a 24-hour lockdown inside the Dome, but they want to sneak out and see one of their favorite bands.",
+        "taxonomy_id": "229026-033",
+        "title": "Lame Lockdown",
+        "title_id": "2065569",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229026-033",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229490_008_03_851",
+        "create_time": 1746029124020,
+        "dvs": true,
+        "episode_in_season": "8",
+        "episode_number": "S2:E08",
+        "external_id": "229490-008-851-1746117000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Total Dramarama",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1746117000,
+        "last_time_machine_update": 1746029124020,
+        "last_update": 1746029124020,
+        "live": false,
+        "paid": "229490.008.03.851",
+        "participants": [
+            {
+                "character": "Owen",
+                "name": "Scott Mccord",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Izzy",
+                "name": "Katie Crown",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Duncan",
+                "name": "Drew Nelson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Cody",
+                "name": "Wyatt White",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Chef Hatchet",
+                "name": "Deven Christian Mack",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Courtney",
+                "name": "Kerstin Dietrich",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gwen",
+                "name": "Lilly Bartlam",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bridgette",
+                "name": "Kristin Fairlie",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth",
+                "name": "Sarah Gadon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jude Lisowski",
+                "name": "Christian Potenza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Noah",
+                "name": "Cory Doran",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1746117000,
+        "season_id": "14051",
+        "season_name": "Total Dramarama",
+        "season_number": "2",
+        "season_summary": "Total Dramarama reimagines Total Drama Island cast members as 4-year-olds.",
+        "season_summary_long": "Total Dramarama goes back in time to re-introduce our favorite Total Drama Island cast members as 4-year-olds in a daycare center.",
+        "serial": 1746029124019,
+        "series_id": "2141710",
+        "series_name": "Total Dramarama",
+        "series_summary": "Total Dramarama reimagines Total Drama Island cast members as 4-year-olds.",
+        "series_summary_long": "Total Dramarama goes back in time to re-introduce our favorite Total Drama Island cast members as 4-year-olds in a daycare center.",
+        "show_duration": 900,
+        "show_id": "276414684",
+        "show_timestamp": 1746117000,
+        "status": "estimated",
+        "summary": "Duncan replaces Chef's to-do list with one of his own.",
+        "summary_long": "When Chef's mom becomes the supply teacher for a day, Duncan replaces Chef's to-do list with one of his own.",
+        "taxonomy_id": "229490-008",
+        "title": "Supply Mom",
+        "title_id": "2195816",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC229490-008",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229490_009_03_851",
+        "create_time": 1746029124021,
+        "dvs": true,
+        "episode_in_season": "9",
+        "episode_number": "S2:E09",
+        "external_id": "229490-009-851-1746117900",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Total Dramarama",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1746117900,
+        "last_time_machine_update": 1746029124021,
+        "last_update": 1746029124021,
+        "live": false,
+        "paid": "229490.009.03.851",
+        "participants": [
+            {
+                "character": "Owen",
+                "name": "Scott Mccord",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Izzy",
+                "name": "Katie Crown",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Duncan",
+                "name": "Drew Nelson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Cody",
+                "name": "Wyatt White",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Chef Hatchet",
+                "name": "Deven Christian Mack",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Courtney",
+                "name": "Kerstin Dietrich",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gwen",
+                "name": "Lilly Bartlam",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bridgette",
+                "name": "Kristin Fairlie",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth",
+                "name": "Sarah Gadon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jude Lisowski",
+                "name": "Christian Potenza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Noah",
+                "name": "Cory Doran",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 911,
+        "scheduled_timestamp": 1746117900,
+        "season_id": "14051",
+        "season_name": "Total Dramarama",
+        "season_number": "2",
+        "season_summary": "Total Dramarama reimagines Total Drama Island cast members as 4-year-olds.",
+        "season_summary_long": "Total Dramarama goes back in time to re-introduce our favorite Total Drama Island cast members as 4-year-olds in a daycare center.",
+        "serial": 1746029124019,
+        "series_id": "2141710",
+        "series_name": "Total Dramarama",
+        "series_summary": "Total Dramarama reimagines Total Drama Island cast members as 4-year-olds.",
+        "series_summary_long": "Total Dramarama goes back in time to re-introduce our favorite Total Drama Island cast members as 4-year-olds in a daycare center.",
+        "show_duration": 900,
+        "show_id": "276414694",
+        "show_timestamp": 1746117900,
+        "status": "estimated",
+        "summary": "Courtney drags Owen, Izzy and Beth to the Norberian Alps of Fruffenberg.",
+        "summary_long": "After eating Chef's extremely rare and expensive chocolates, Courtney drags Owen, Izzy and Beth all the way to the Norberian Alps of Fruffenberg to replace them.",
+        "taxonomy_id": "229490-009",
+        "title": "Mooshy Mon Mons",
+        "title_id": "2195817",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC229490-009",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "269644_017_03_851",
+        "create_time": 1746029085035,
+        "episode_in_season": "17",
+        "episode_number": "S9:E17",
+        "external_id": "269644-017-851-1746118800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1746118800,
+        "last_time_machine_update": 1746029085035,
+        "last_update": 1746029085035,
+        "live": false,
+        "paid": "269644.017.03.851",
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Michael Jelenic",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Aaron Horvath",
+                "role": "producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1746118800,
+        "season_id": "31309",
+        "season_name": "Teen Titans Go!",
+        "season_number": "9",
+        "season_summary": "The super teens deal with everyday issues of adolescence.",
+        "season_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "serial": 1746029085034,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "series_summary": "The super teens deal with everyday issues of adolescence.",
+        "series_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "show_duration": 900,
+        "show_id": "276414704",
+        "show_timestamp": 1746118800,
+        "status": "estimated",
+        "summary": "Robin, Raven, and Birdarang rush off to help a society dedicated to birds.",
+        "summary_long": "After they receive a distress call, Robin, Raven, and Birdarang rush off to help the Winged Warriors, a society dedicated to birds.",
+        "taxonomy_id": "269644-017",
+        "title": "Winged Warriors",
+        "title_id": "2536613",
+        "tv_rating": "TV-PG",
+        "upid": "DISC269644-017",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229460_017_03_851",
+        "create_time": 1746029125490,
+        "episode_in_season": "17",
+        "episode_number": "S5:E17",
+        "external_id": "229460-017-851-1746119700",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1746119700,
+        "last_time_machine_update": 1746029125490,
+        "last_update": 1746029125490,
+        "live": false,
+        "paid": "229460.017.03.851",
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 15,
+        "scheduled_duration": 904,
+        "scheduled_timestamp": 1746119700,
+        "season_id": "12309",
+        "season_name": "Teen Titans Go!",
+        "season_number": "5",
+        "season_summary": "The super teens deal with everyday issues of adolescence.",
+        "season_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "serial": 1746029125489,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "series_summary": "The super teens deal with everyday issues of adolescence.",
+        "series_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "show_duration": 900,
+        "show_id": "276414714",
+        "show_timestamp": 1746119700,
+        "status": "estimated",
+        "summary": "The Titans time travel back to the 1980s.",
+        "summary_long": "The Titans time travel back to the 1980s to determine whether or not it was the best decade ever.",
+        "taxonomy_id": "229460-017",
+        "title": "Nostalgia Is Not a Substitute for an Actual Story",
+        "title_id": "2174722",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229460-017",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234271_041_02_851",
+        "create_time": 1746029125490,
+        "episode_in_season": "41",
+        "episode_number": "S8:E41",
+        "external_id": "234271-041-851-1746120600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Cartoons",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1746120600,
+        "last_time_machine_update": 1746029125490,
+        "last_update": 1746029125490,
+        "live": false,
+        "paid": "234271.041.02.851",
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Michael Jelenic",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Aaron Horvath",
+                "role": "producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1746120600,
+        "season_id": "25818",
+        "season_name": "Teen Titans Go!",
+        "season_number": "8",
+        "season_summary": "The super teens deal with everyday issues of adolescence.",
+        "season_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "serial": 1746029125489,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "series_summary": "The super teens deal with everyday issues of adolescence.",
+        "series_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
+        "show_duration": 1800,
+        "show_id": "276414724",
+        "show_timestamp": 1746120600,
+        "status": "estimated",
+        "summary": "A jealous Superman banishes the Titans to world of stop-motion.",
+        "summary_long": "After Teen Titans Go! wins the award for being DC's longest running animated series, a jealous Superman banishes the Titans to world of stop-motion in order to get their show cancelled.",
+        "taxonomy_id": "234271-041",
+        "title": "Four Hundred",
+        "title_id": "2417905",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234271-041",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228420_015_03_851",
+        "create_time": 1746029125491,
+        "episode_in_season": "15",
+        "episode_number": "S3:E15",
+        "external_id": "228420-015-851-1746122400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1746122400,
+        "last_time_machine_update": 1746029125491,
+        "last_update": 1746029125491,
+        "live": false,
+        "paid": "228420.015.03.851",
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "CE",
+        "release_year": 2014,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1746122400,
+        "season_id": "7511",
+        "season_name": "The Amazing World of Gumball",
+        "season_number": "3",
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1746029125489,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "show_duration": 900,
+        "show_id": "276414734",
+        "show_timestamp": 1746122400,
+        "status": "estimated",
+        "summary": "Donut Cop shows that a misdemeanor can lead to a breakdown in the law.",
+        "summary_long": "Gumball jaywalks and is pulled over by Donut Cop. When Gumball objects, he is told that even a misdemeanor can lead to a breakdown in the law. To impress the kids, Donut Cop takes them for a ride-along in his cop car and begins breaking the law himself.",
+        "taxonomy_id": "228420-015",
+        "title": "The Law",
+        "title_id": "2014443",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228420-015",
         "upid_type": 12
     }
 ]
