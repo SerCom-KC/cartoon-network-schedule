@@ -806,5 +806,205 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "250265_008_02_851",
+        "create_time": 1745991053868,
+        "episode_in_season": "8",
+        "episode_number": "S11:E08",
+        "external_id": "250265-008-851-1746082800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1746082800,
+        "last_time_machine_update": 1745991053868,
+        "last_update": 1745991053868,
+        "live": false,
+        "paid": "250265.008.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1746082800,
+        "season_id": "27921",
+        "season_name": "Bob's Burgers (Season 11)",
+        "season_number": "11",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1745991053868,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276410958",
+        "show_timestamp": 1746082800,
+        "status": "estimated",
+        "summary": "A layover turns into the annual Belcher visit.",
+        "summary_long": "When Linda's parents have a layover at an airport nearby, Bob and Linda attempt to turn it into their annual \"visit.\u201d",
+        "taxonomy_id": "250265-008",
+        "title": "The Terminalator II: Terminals of Endearment",
+        "title_id": "2438968",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250265-008",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251739_002_03_851",
+        "create_time": 1745991013683,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "251739-002-851-1746084600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat",
+            "Space & Beyond"
+        ],
+        "guide_timestamp": 1746084600,
+        "last_time_machine_update": 1745991013683,
+        "last_update": 1745991013683,
+        "live": false,
+        "paid": "251739.002.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jessica",
+                "name": "Kari Whalgren",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Pete Michels",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Wesley Archer",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Tom Kauffman",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Eric Acosta",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Wade Randolph",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Ryan Elder",
+                "role": "music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746084600,
+        "season_id": "9517",
+        "season_name": "Rick and Morty",
+        "season_number": "2",
+        "season_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "serial": 1745991013683,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276410968",
+        "show_timestamp": 1746084600,
+        "status": "estimated",
+        "summary": "Morty don tries to save a life in this one, broh! Get strapped in, broh!",
+        "summary_long": "Morty don tries to save a life in this one, broh! Get strapped in, broh!",
+        "taxonomy_id": "251739-002",
+        "title": "Mortynight Run",
+        "title_id": "2060765",
+        "tv_rating": "TV-14",
+        "upid": "DISC251739-002",
+        "upid_type": 12
     }
 ]
