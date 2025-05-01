@@ -4828,5 +4828,71 @@
         "tv_rating": "TV-PG",
         "upid": "DISC234515-016",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250896_009_03_851",
+        "create_time": 1746133221405,
+        "episode_in_season": "9",
+        "episode_number": "9",
+        "external_id": "250896-009-851-1746219600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Cartoon Planet",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1746219600,
+        "last_time_machine_update": 1746133221405,
+        "last_update": 1746133221405,
+        "live": false,
+        "paid": "250896.009.03.851",
+        "participants": [
+            {
+                "character": "Space Ghost",
+                "name": "George Lowe",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Brak",
+                "name": "Andy Merrill",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Zorak",
+                "name": "C. Martin Croker",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 1997,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1746219600,
+        "season_id": "262",
+        "season_name": "Cartoon Planet",
+        "season_number": "1",
+        "season_summary": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak.",
+        "season_summary_long": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak from \"Space Ghost Coast to Coast.\"",
+        "serial": 1746133221405,
+        "series_id": "313949",
+        "series_name": "Cartoon Planet",
+        "series_summary": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak.",
+        "series_summary_long": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak from \"Space Ghost Coast to Coast.\"",
+        "show_duration": 1800,
+        "show_id": "276418930",
+        "show_timestamp": 1746219600,
+        "status": "estimated",
+        "summary": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak.",
+        "summary_long": "A block of classic cartoons emceed by Space Ghost, Brak and Zorak from \"Space Ghost Coast to Coast.\"",
+        "taxonomy_id": "250896-009",
+        "title": "The Big Mouths",
+        "title_id": "313962",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250896-009",
+        "upid_type": 12
     }
 ]
