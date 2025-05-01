@@ -805,5 +805,66 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250265_010_03_851",
+        "create_time": 1746076711718,
+        "dvs": true,
+        "episode_in_season": "10",
+        "episode_number": "S11:E10",
+        "external_id": "250265-010-851-1746169200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1746169200,
+        "last_time_machine_update": 1746076711718,
+        "last_update": 1746076711718,
+        "live": false,
+        "paid": "250265.010.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1746169200,
+        "season_id": "27921",
+        "season_name": "Bob's Burgers (Season 11)",
+        "season_number": "11",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1746076711718,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276415054",
+        "show_timestamp": 1746169200,
+        "status": "estimated",
+        "summary": "Christmas brings the Belchers a special job.",
+        "summary_long": "When the Belchers get an unexpected invitation to cater the Glencrest Yacht Club's holiday boat parade, Bob wonders if there's a catch. Meanwhile, Louise has her eye on the present-loaded Santa Schooner.",
+        "taxonomy_id": "250265-010",
+        "title": "Yachty or Nice",
+        "title_id": "2438970",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250265-010",
+        "upid_type": 12
     }
 ]
