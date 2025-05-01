@@ -5302,5 +5302,177 @@
         "tv_rating": "TV-PG",
         "upid": "DISC166124-015",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232845_006_01_851",
+        "create_time": 1746143456229,
+        "episode_in_season": "6",
+        "episode_number": "S13:E06",
+        "external_id": "232845-006-851-1746234000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1746234000,
+        "last_time_machine_update": 1746143456229,
+        "last_update": 1746143456229,
+        "live": false,
+        "paid": "232845.006.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746234000,
+        "season_id": "9751",
+        "season_name": "American Dad",
+        "season_number": "13",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1746143456229,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276419010",
+        "show_timestamp": 1746234000,
+        "status": "estimated",
+        "summary": "Stan deals with childhood issues of abandonment.",
+        "summary_long": "Stan deals with childhood issues of abandonment. Klaus starts a website to embarrass the Smith family about their fails.",
+        "taxonomy_id": "232845-006",
+        "title": "Klaustastrophe.tv",
+        "title_id": "2069559",
+        "tv_rating": "TV-14",
+        "upid": "DISC232845-006",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271159_009_01_851",
+        "create_time": 1746143456230,
+        "episode_in_season": "9",
+        "episode_number": "S14:E09",
+        "external_id": "271159-009-851-1746235800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1746235800,
+        "last_time_machine_update": 1746143456230,
+        "last_update": 1746143456230,
+        "live": false,
+        "paid": "271159.009.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746235800,
+        "season_id": "9680",
+        "season_name": "Family Guy",
+        "season_number": "14",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1746143456229,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276419020",
+        "show_timestamp": 1746235800,
+        "status": "estimated",
+        "summary": "Peter is arrested after he shoots an intruder in Cleveland's house.",
+        "summary_long": "Peter gets arrested and charged with a hate crime after he shoots an intruder climbing into Cleveland's house.",
+        "taxonomy_id": "271159-009",
+        "title": "A Shot in the Dark",
+        "title_id": "2064580",
+        "tv_rating": "TV-14",
+        "upid": "DISC271159-009",
+        "upid_type": 12
     }
 ]
