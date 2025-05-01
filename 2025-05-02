@@ -3107,5 +3107,105 @@
         "tv_rating": "TV-G",
         "upid": "DISC234842-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229026_036_02_851",
+        "create_time": 1746107545430,
+        "episode_in_season": "36",
+        "episode_number": "S7:E36",
+        "external_id": "229026-036-851-1746199800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Kids & Family",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1746199800,
+        "last_time_machine_update": 1746107545430,
+        "last_update": 1746107545430,
+        "live": false,
+        "paid": "229026.036.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hi Five Ghost",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Robert Alvarez",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "J.G. Quintel",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1746199800,
+        "season_id": "9462",
+        "season_name": "Regular Show",
+        "season_number": "7",
+        "season_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1746107545430,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "show_duration": 1800,
+        "show_id": "276418750",
+        "show_timestamp": 1746199800,
+        "status": "estimated",
+        "summary": "Rigby has to give a speech at his high school graduation.",
+        "summary_long": "Rigby has to give a speech at his high school graduation. The speech will be broadcast live on a TV show called Inspire America, and Rigby wants to make it memorable.",
+        "taxonomy_id": "229026-036",
+        "title": "Rigby's Graduation Day Special",
+        "title_id": "2065572",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229026-036",
+        "upid_type": 12
     }
 ]
