@@ -4191,5 +4191,79 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC250755-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "233216_000_01_851",
+        "create_time": 1746208408854,
+        "episode_in_season": "0",
+        "external_id": "233216-000-851-1746300600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo and the Alien Invaders",
+        "genres": [
+            "Kids & Family",
+            "Animated Movies",
+            "Family Laughs"
+        ],
+        "guide_timestamp": 1746300600,
+        "last_time_machine_update": 1746208408854,
+        "last_update": 1746208408854,
+        "live": false,
+        "paid": "233216.000.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Jim Stenstrum",
+                "role": "director"
+            },
+            {
+                "character": "Scooby-Doo/Shaggy Rogers",
+                "name": "Scott Innes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Mary Kay Bergman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "BJ Ward",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "FF",
+        "release_year": 2000,
+        "runtime_minutes": 90,
+        "scheduled_duration": 5405,
+        "scheduled_timestamp": 1746300600,
+        "serial": 1746208408854,
+        "series_id": "94886",
+        "series_name": "Scooby-Doo and the Alien Invaders",
+        "series_summary": "After being forced off the road by a UFO, Scooby and Shaggy are abducted.",
+        "series_summary_long": "The Mystery Machine breaks down after it is forced off the road by what appears to be a UFO. Locals confirm the sighting telling the gang about a project searching for extraterrestrial intelligence. Scooby and Shaggy are abducted by aliens.",
+        "show_duration": 5400,
+        "show_id": "276422966",
+        "show_timestamp": 1746300600,
+        "status": "estimated",
+        "summary": "After being forced off the road by a UFO, Scooby and Shaggy are abducted.",
+        "summary_long": "The Mystery Machine breaks down after it is forced off the road by what appears to be a UFO. Locals confirm the sighting telling the gang about a project searching for extraterrestrial intelligence. Scooby and Shaggy are abducted by aliens.",
+        "taxonomy_id": "233216-000",
+        "title": "Scooby-Doo and the Alien Invaders",
+        "title_id": "338111",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC233216-000",
+        "upid_type": 12
     }
 ]
