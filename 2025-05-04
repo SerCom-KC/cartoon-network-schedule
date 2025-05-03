@@ -816,5 +816,172 @@
         "tv_rating": "TV-PG",
         "upid": "DISC268720-014",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "251909_011_04_851",
+        "create_time": 1746252026276,
+        "episode_in_season": "11",
+        "episode_number": "S3:E11",
+        "external_id": "251909-011-851-1746343800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Venture Bros., The",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1746343800,
+        "last_time_machine_update": 1746252026276,
+        "last_update": 1746252026276,
+        "live": false,
+        "paid": "251909.011.04.851",
+        "participants": [
+            {
+                "character": "Thaddeus Venture",
+                "name": "James Urbaniak",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dean Venture",
+                "name": "Michael Sinterniklaas",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Brock Samson",
+                "name": "Patrick Warburton",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hank Venture",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "The Monarch",
+                "name": "Christopher McCulloch",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dr. Mrs. The Monarch",
+                "name": "Doc Hammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Steven S.H. Yoon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Rachel Simon",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Christopher McCulloch",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Doc Hammer",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746343800,
+        "season_id": "970",
+        "season_name": "The Venture Bros.",
+        "season_number": "3",
+        "season_summary": "A scientist, his dim-witted children and their guard battle enemies.",
+        "season_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "serial": 1746252026275,
+        "series_id": "439722",
+        "series_name": "The Venture Bros.",
+        "series_summary": "A scientist, his dim-witted children and security guard battle enemies.",
+        "series_summary_long": "A scientist, his dim-witted children and their security guard battle enemies.",
+        "show_duration": 1800,
+        "show_id": "390879184",
+        "show_timestamp": 1746343800,
+        "status": "estimated",
+        "summary": "A series of cryptic clues sends Team Venture out to uncover a mystery.",
+        "summary_long": "A series of cryptic clues sends Team Venture out to uncover a mystery left by the late Jonas Venture, Sr. As each new solved riddle exposes one more piece of secret Venture history.",
+        "taxonomy_id": "251909-011",
+        "title": "Orb",
+        "title_id": "718814",
+        "tv_rating": "TV-14",
+        "upid": "DISC251909-011",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "233074_007_01_851",
+        "create_time": 1746252026277,
+        "episode_in_season": "7",
+        "episode_number": "S9:E07",
+        "external_id": "233074-007-851-1746345600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1746345600,
+        "last_time_machine_update": 1746252026277,
+        "last_update": 1746252026277,
+        "live": false,
+        "paid": "233074.007.01.851",
+        "participants": [],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746345600,
+        "season_id": "12328",
+        "season_name": "Futurama (Season 9)",
+        "season_number": "9",
+        "season_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "serial": 1746252026275,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "series_summary": "After being frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
+        "series_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "show_duration": 1800,
+        "show_id": "276423196",
+        "show_timestamp": 1746345600,
+        "status": "estimated",
+        "summary": "Fed up with his inferiority to machines, Hermes replaces his body parts with mighty mechanical upgrades.",
+        "summary_long": "Fed up with his inferiority to machines, Hermes replaces his body parts with mighty mechanical upgrades.",
+        "taxonomy_id": "233074-007",
+        "title": "The Six Million Dollar Mon",
+        "title_id": "2161652",
+        "tv_rating": "TV-14",
+        "upid": "DISC233074-007",
+        "upid_type": 12
     }
 ]
