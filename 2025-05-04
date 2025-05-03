@@ -4151,5 +4151,86 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250263-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271164_014_03_851",
+        "create_time": 1746314550043,
+        "episode_in_season": "14",
+        "episode_number": "S6:E14",
+        "external_id": "271164-014-851-1746406800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1746406800,
+        "last_time_machine_update": 1746314550043,
+        "last_update": 1746314550043,
+        "live": false,
+        "paid": "271164.014.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 60,
+        "scheduled_duration": 3600,
+        "scheduled_timestamp": 1746406800,
+        "season_id": "995",
+        "season_name": "Family Guy",
+        "season_number": "6",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1746314550043,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 3600,
+        "show_id": "276427102",
+        "show_timestamp": 1746406800,
+        "status": "estimated",
+        "summary": "Peter tells his family the story of \"Star Wars IV: A New Hope.\"",
+        "summary_long": "After a power outage in Quahog, Peter Griffin tells his family the greatest story every told, \"Star Wars IV: A New Hope\" in this parody of the tale of Luke Skywalker (Chris Griffin) on his path to aid the rebellion.",
+        "taxonomy_id": "271164-014",
+        "title": "Blue Harvest Part 1 & 2",
+        "title_id": "652686",
+        "tv_rating": "TV-14",
+        "upid": "DISC271164-014",
+        "upid_type": 12
     }
 ]
