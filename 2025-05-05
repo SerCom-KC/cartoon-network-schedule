@@ -661,5 +661,170 @@
         "tv_rating": "TV-14",
         "upid": "DISC251869-013",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271172_008_02_851",
+        "create_time": 1746332607272,
+        "dvs": true,
+        "episode_in_season": "8",
+        "episode_number": "S16:E08",
+        "external_id": "271172-008-851-1746423000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1746423000,
+        "last_time_machine_update": 1746332607272,
+        "last_update": 1746332607272,
+        "live": false,
+        "paid": "271172.008.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746423000,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1746332607272,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276427202",
+        "show_timestamp": 1746423000,
+        "status": "estimated",
+        "summary": "Peter encourages Meg to attend a school party, where she takes up drinking.",
+        "summary_long": "Peter encourages Meg to attend a high school party, where she takes up drinking, which both concerns and delights her father.",
+        "taxonomy_id": "271172-008",
+        "title": "Crimes and Meg's Demeanor",
+        "title_id": "2539777",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-008",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "271172_009_02_851",
+        "create_time": 1746332607273,
+        "dvs": true,
+        "episode_in_season": "9",
+        "episode_number": "S16:E09",
+        "external_id": "271172-009-851-1746424800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1746424800,
+        "last_time_machine_update": 1746332607273,
+        "last_update": 1746332607273,
+        "live": false,
+        "paid": "271172.009.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1746424800,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1746332607272,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276427212",
+        "show_timestamp": 1746424800,
+        "status": "estimated",
+        "summary": "Peter is visited by ghosts of Christmas past, present and future.",
+        "summary_long": "In this special holiday episode, a selfish Peter loses his Christmas spirit and is visited by ghosts of Christmas past, present and future who take him on a journey around Quahog in the style of Charles Dickens' A Christmas Carol.",
+        "taxonomy_id": "271172-009",
+        "title": "Don't Be a Dickens at Christmas",
+        "title_id": "2539781",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-009",
+        "upid_type": 12
     }
 ]
