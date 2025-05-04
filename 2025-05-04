@@ -4232,5 +4232,165 @@
         "tv_rating": "TV-14",
         "upid": "DISC271164-014",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "S"
+        ],
+        "content_id": "271167_023_02_851",
+        "create_time": 1746318225655,
+        "episode_in_season": "23",
+        "episode_number": "S8:E20",
+        "external_id": "271167-023-851-1746410400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1746410400,
+        "last_time_machine_update": 1746318225655,
+        "last_update": 1746318225655,
+        "live": false,
+        "paid": "271167.023.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 60,
+        "scheduled_duration": 3604,
+        "scheduled_timestamp": 1746410400,
+        "season_id": "997",
+        "season_name": "Family Guy",
+        "season_number": "8",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1746318225655,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 3600,
+        "show_id": "276427112",
+        "show_timestamp": 1746410400,
+        "status": "estimated",
+        "summary": "Peter tells his version of the \"Star Wars\" saga, \"The Empire Strikes Back.\"",
+        "summary_long": "When the Griffins experience a power outage, Peter decides to tell his version of the \"Star Wars\" saga, \"The Empire Strikes Back.\"",
+        "taxonomy_id": "271167-023",
+        "title": "Something, Something, Something Dark Side",
+        "title_id": "730931",
+        "tv_rating": "TV-14",
+        "upid": "DISC271167-023",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "250984_008_02_851",
+        "create_time": 1746321971507,
+        "episode_in_season": "8",
+        "episode_number": "S7:E08",
+        "external_id": "250984-008-851-1746414000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1746414000,
+        "last_time_machine_update": 1746321971507,
+        "last_update": 1746321971507,
+        "live": false,
+        "paid": "250984.008.02.851",
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rick Sanchez",
+                "name": "Ian Cardoni",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Morty Smith",
+                "name": "Harry Belden",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1746414000,
+        "season_id": "27323",
+        "season_name": "Rick and Morty",
+        "season_number": "7",
+        "season_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "serial": 1746321971507,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276427122",
+        "show_timestamp": 1746414000,
+        "status": "estimated",
+        "summary": "High school, broh. Morty and Summer hang out in this one.",
+        "summary_long": "High school, broh. Morty and Summer hang out in this one.",
+        "taxonomy_id": "250984-008",
+        "title": "Wet Kuat Amortican Summer",
+        "title_id": "2424790",
+        "tv_rating": "TV-14",
+        "upid": "DISC250984-008",
+        "upid_type": 12
     }
 ]
