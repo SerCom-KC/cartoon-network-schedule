@@ -3657,5 +3657,105 @@
         "tv_rating": "TV-PG",
         "upid": "DISC229032-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229032_008_02_851",
+        "create_time": 1746369001250,
+        "episode_in_season": "8",
+        "episode_number": "S8:E08",
+        "external_id": "229032-008-851-1746461700",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Regular Show",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Kids & Family",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1746461700,
+        "last_time_machine_update": 1746369001250,
+        "last_update": 1746369001250,
+        "live": false,
+        "paid": "229032.008.02.851",
+        "participants": [
+            {
+                "character": "Mordecai",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rigby",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hi Five Ghost",
+                "name": "J.G. Quintel",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Benson",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pops",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Muscle Man",
+                "name": "Sam Marin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Skips",
+                "name": "Mark Hamill",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Robert Alvarez",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "J.G. Quintel",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1746461700,
+        "season_id": "9882",
+        "season_name": "Regular Show",
+        "season_number": "8",
+        "season_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "season_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "serial": 1746369001250,
+        "series_id": "810150",
+        "series_name": "Regular Show",
+        "series_summary": "Mordecai and Rigby have misadventures with their gang of friends.",
+        "series_summary_long": "Regular Show follows the lives of best friends Mordecai and Rigby, whose adventures always seem to be interrupted by zombies and misadventures with their gang of friends or sometimes even dealing with Death himself.",
+        "show_duration": 900,
+        "show_id": "276431068",
+        "show_timestamp": 1746461700,
+        "status": "estimated",
+        "summary": "Mordecai and Rigby have to recapture something they lost.",
+        "summary_long": "Mordecai and Rigby have to recapture something they lost.",
+        "taxonomy_id": "229032-008",
+        "title": "The Brain of Evil",
+        "title_id": "2075005",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229032-008",
+        "upid_type": 12
     }
 ]
