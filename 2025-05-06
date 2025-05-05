@@ -681,5 +681,84 @@
         "tv_rating": "TV-14",
         "upid": "DISC271170-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "S"
+        ],
+        "content_id": "271170_003_03_851",
+        "create_time": 1746418635131,
+        "episode_in_season": "3",
+        "episode_number": "S7:E03",
+        "external_id": "271170-003-851-1746511200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1746511200,
+        "last_time_machine_update": 1746418635131,
+        "last_update": 1746418635131,
+        "live": false,
+        "paid": "271170.003.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746511200,
+        "season_id": "996",
+        "season_name": "Family Guy",
+        "season_number": "7",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1746418635131,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276431428",
+        "show_timestamp": 1746511200,
+        "status": "estimated",
+        "summary": "Mort accidentally steps into a time machine and winds up in 1939 Poland.",
+        "summary_long": "Mort Goldman accidentally steps into a time machine and winds up in 1939 Poland in the middle of the Nazi invasion. Brian and Stewie follow him to Nazi Germany in an attempt to save him and bring him back to the present safely.",
+        "taxonomy_id": "271170-003",
+        "title": "Road to Germany",
+        "title_id": "730921",
+        "tv_rating": "TV-14",
+        "upid": "DISC271170-003",
+        "upid_type": 12
     }
 ]
