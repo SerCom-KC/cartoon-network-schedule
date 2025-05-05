@@ -599,5 +599,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC252750-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271170_002_03_851",
+        "create_time": 1746416464705,
+        "episode_in_season": "2",
+        "episode_number": "S7:E02",
+        "external_id": "271170-002-851-1746509400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1746509400,
+        "last_time_machine_update": 1746416464705,
+        "last_update": 1746416464705,
+        "live": false,
+        "paid": "271170.002.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746509400,
+        "season_id": "996",
+        "season_name": "Family Guy",
+        "season_number": "7",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1746416464705,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276431418",
+        "show_timestamp": 1746509400,
+        "status": "estimated",
+        "summary": "When Peter finds Jesus in a store, he's determined to be his best friend.",
+        "summary_long": "Peter rediscovers his love for the painfully annoying song, \"Surfin' Bird,\" which drives people around him crazy. When Peter finds Jesus in a record store, he's determined to be his new best friend.",
+        "taxonomy_id": "271170-002",
+        "title": "I Dream of Jesus",
+        "title_id": "730919",
+        "tv_rating": "TV-14",
+        "upid": "DISC271170-002",
+        "upid_type": 12
     }
 ]
