@@ -4914,5 +4914,66 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250263-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "250263_008_03_851",
+        "create_time": 1746486352880,
+        "dvs": true,
+        "episode_in_season": "8",
+        "episode_number": "S9:E08",
+        "external_id": "250263-008-851-1746579600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1746579600,
+        "last_time_machine_update": 1746486352880,
+        "last_update": 1746486352880,
+        "live": false,
+        "paid": "250263.008.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746579600,
+        "season_id": "27919",
+        "season_name": "Bob's Burgers (Season 9)",
+        "season_number": "9",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1746486352879,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276435404",
+        "show_timestamp": 1746579600,
+        "status": "estimated",
+        "summary": "Gene's BFF betrays him.",
+        "summary_long": "Gene is livid when his best friend, Alex, ditches him to be Courtney's roller-dancing partner. Meanwhile, Teddy, Linda and Bob let their imaginations get the best of them when they discover someone stalking the restaurant.",
+        "taxonomy_id": "250263-008",
+        "title": "Roller? I Hardly Know Her!",
+        "title_id": "2438924",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250263-008",
+        "upid_type": 12
     }
 ]
