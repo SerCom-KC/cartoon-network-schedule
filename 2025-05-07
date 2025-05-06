@@ -5120,5 +5120,75 @@
         "tv_rating": "TV-PG",
         "upid": "DISC234515-022",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "228258_012_04_851",
+        "create_time": 1746566686844,
+        "episode_in_season": "12",
+        "episode_number": "S3:E12",
+        "external_id": "228258-012-851-1746651600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ed, Edd n Eddy",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1746651600,
+        "last_time_machine_update": 1746566686844,
+        "last_update": 1746566686844,
+        "live": false,
+        "paid": "228258.012.04.851",
+        "participants": [
+            {
+                "character": "Ed",
+                "name": "Matt Hill",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Edd",
+                "name": "Sam Vincent",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eddy",
+                "name": "Tony Sampson",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2002,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746651600,
+        "season_id": "432",
+        "season_name": "Ed, Edd n Eddy",
+        "season_number": "3",
+        "season_summary": "Three best friends band together to tackle life's challenges.",
+        "season_summary_long": "Ed, Edd n Eddy tells the story of three best friends, who band together to tackle life\u2019s challenges. Though they have the same first name and live on the same cul-de-sac in the suburbs, the three youths have very different personalities.",
+        "serial": 1746566686844,
+        "series_id": "327280",
+        "series_name": "Ed, Edd n Eddy",
+        "series_summary": "Three best friends band together to tackle life's challenges.",
+        "series_summary_long": "Ed, Edd n Eddy tells the story of three best friends, who band together to tackle life's challenges. Though they have the same first name and live on the same cul-de-sac in the suburbs, the three youths have very different personalities.",
+        "show_duration": 1800,
+        "show_id": "276439420",
+        "show_timestamp": 1746651600,
+        "status": "estimated",
+        "summary": "Someone in the cul-de-sac is framing Ed, Edd and Eddy.",
+        "summary_long": "Someone in the cul-de-sac is framing Ed, Edd and Eddy, and now they must find a way to clear their names.",
+        "taxonomy_id": "228258-012",
+        "title": "If It Smells Like an Ed",
+        "title_id": "420356",
+        "tv_rating": "TV-PG",
+        "upid": "DISC228258-012",
+        "upid_type": 12
     }
 ]
