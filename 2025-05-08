@@ -140,13 +140,14 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L"
         ],
         "content_id": "279476_008_03_851",
         "create_time": 1746585780370,
         "episode_in_season": "8",
-        "episode_number": "S3:E07",
+        "episode_number": "S3:E08",
         "external_id": "279476-008-851-1746678600",
         "feed_id": "as-east",
         "franchise_id": "489898",
@@ -157,8 +158,8 @@
             "Offbeat"
         ],
         "guide_timestamp": 1746678600,
-        "last_time_machine_update": 1746585780370,
-        "last_update": 1746585780370,
+        "last_time_machine_update": 1746660029006,
+        "last_update": 1746660029006,
         "live": false,
         "paid": "279476.008.03.851",
         "participants": [
@@ -255,7 +256,7 @@
         "season_number": "3",
         "season_summary": "Sarah and Rachel return! The weirdness and strangeness is OUT. OF. CONTROL.",
         "season_summary_long": "Sarah and Rachel return!! The weirdness and strangeness is OUT. OF. CONTROL in this new series!! LETS GOOO hahah!! WEE!! ASDNJKISADIAOSD",
-        "serial": 1746585780367,
+        "serial": 1746660029005,
         "series_id": "2224723",
         "series_name": "YOLO",
         "series_summary": "Two party girls look for fun times, new experiences and hopeful horoscopes.",
@@ -275,6 +276,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L",
             "V"
@@ -288,14 +290,14 @@
         "franchise_id": "489898",
         "franchise_name": "Smiling Friends",
         "genres": [
-            "Comedy",
             "Adult Animation",
-            "Offbeat",
-            "Dark Comedy"
+            "Comedy",
+            "Dark Comedy",
+            "Offbeat"
         ],
         "guide_timestamp": 1746679500,
-        "last_time_machine_update": 1746587547875,
-        "last_update": 1746587547875,
+        "last_time_machine_update": 1746660034812,
+        "last_update": 1746660034812,
         "live": false,
         "paid": "251789.007.02.851",
         "participants": [
@@ -387,7 +389,7 @@
         "season_number": "1",
         "season_summary": "The employees of a small company aim to bring happiness to a bizarre world.",
         "season_summary_long": "Smiling Friends follows the employees of a small company dedicated to bringing happiness to a bizarre yet colorful world.",
-        "serial": 1746587547875,
+        "serial": 1746660034811,
         "series_id": "2224721",
         "series_name": "SMILING FRIENDS",
         "series_summary": "The employees of a small company aim to bring happiness to a bizarre world.",
@@ -1016,13 +1018,14 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L"
         ],
         "content_id": "279476_008_03_851",
         "create_time": 1746598132849,
         "episode_in_season": "8",
-        "episode_number": "S3:E07",
+        "episode_number": "S3:E08",
         "external_id": "279476-008-851-1746691200",
         "feed_id": "as-east",
         "franchise_id": "489898",
@@ -1033,8 +1036,8 @@
             "Offbeat"
         ],
         "guide_timestamp": 1746691200,
-        "last_time_machine_update": 1746598132849,
-        "last_update": 1746598132849,
+        "last_time_machine_update": 1746660034823,
+        "last_update": 1746660034823,
         "live": false,
         "paid": "279476.008.03.851",
         "participants": [
@@ -1131,7 +1134,7 @@
         "season_number": "3",
         "season_summary": "Sarah and Rachel return! The weirdness and strangeness is OUT. OF. CONTROL.",
         "season_summary_long": "Sarah and Rachel return!! The weirdness and strangeness is OUT. OF. CONTROL in this new series!! LETS GOOO hahah!! WEE!! ASDNJKISADIAOSD",
-        "serial": 1746598132849,
+        "serial": 1746660034811,
         "series_id": "2224723",
         "series_name": "YOLO",
         "series_summary": "Two party girls look for fun times, new experiences and hopeful horoscopes.",
@@ -5403,6 +5406,67 @@
         "title_id": "2438929",
         "tv_rating": "TV-PG",
         "upid": "DISC250263-013",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250263_014_02_851",
+        "create_time": 1746660034768,
+        "dvs": true,
+        "episode_in_season": "14",
+        "episode_number": "S9:E14",
+        "external_id": "250263-014-851-1746752400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1746752400,
+        "last_time_machine_update": 1746660034768,
+        "last_update": 1746660034768,
+        "live": false,
+        "paid": "250263.014.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746752400,
+        "season_id": "27919",
+        "season_name": "Bob's Burgers (Season 9)",
+        "season_number": "9",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1746660034768,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276443586",
+        "show_timestamp": 1746752400,
+        "status": "estimated",
+        "summary": "Tina's got birds on the brain.",
+        "summary_long": "Tina, discouraged by not being asked to prom by Jimmy Jr., forms an unhealthy attachment to a goose from the nearby park. Meanwhile, Linda joins a dating app to help Gretchen find a match.",
+        "taxonomy_id": "250263-014",
+        "title": "Every Which Way but Goose",
+        "title_id": "2438930",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250263-014",
         "upid_type": 12
     }
 ]
