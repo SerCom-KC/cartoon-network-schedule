@@ -462,5 +462,86 @@
         "tv_rating": "TV-14",
         "upid": "DISC271170-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271170_009_03_851",
+        "create_time": 1746677847642,
+        "episode_in_season": "9",
+        "episode_number": "S7:E09",
+        "external_id": "271170-009-851-1746770400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1746770400,
+        "last_time_machine_update": 1746677847642,
+        "last_update": 1746677847642,
+        "live": false,
+        "paid": "271170.009.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1746770400,
+        "season_id": "996",
+        "season_name": "Family Guy",
+        "season_number": "7",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1746677847642,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276443686",
+        "show_timestamp": 1746770400,
+        "status": "estimated",
+        "summary": "Peter cashes in a raffle ticket and wins a golf outing with O.J. Simpson.",
+        "summary_long": "Peter cashes in a raffle ticket and wins a golf outing with O.J. Simpson, but when he brings home the infamous former running back, the residents of Quahog are not so welcoming to the new houseguest.",
+        "taxonomy_id": "271170-009",
+        "title": "The Juice Is Loose",
+        "title_id": "730926",
+        "tv_rating": "TV-14",
+        "upid": "DISC271170-009",
+        "upid_type": 12
     }
 ]
