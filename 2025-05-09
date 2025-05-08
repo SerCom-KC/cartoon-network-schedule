@@ -603,5 +603,66 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-017",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "250265_018_03_851",
+        "create_time": 1746681314183,
+        "episode_in_season": "18",
+        "episode_number": "S11:E18",
+        "external_id": "250265-018-851-1746774000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1746774000,
+        "last_time_machine_update": 1746681314183,
+        "last_update": 1746681314183,
+        "live": false,
+        "paid": "250265.018.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746774000,
+        "season_id": "27921",
+        "season_name": "Bob's Burgers (Season 11)",
+        "season_number": "11",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1746681314183,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276443706",
+        "show_timestamp": 1746774000,
+        "status": "estimated",
+        "summary": "Bob is in a car accident.",
+        "summary_long": "When Bob gets into a four-car fender bender right outside the restaurant, he realizes finding out who is at fault will not be as simple as he thought.",
+        "taxonomy_id": "250265-018",
+        "title": "Some Kind of Fender Benderful",
+        "title_id": "2438978",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250265-018",
+        "upid_type": 12
     }
 ]
