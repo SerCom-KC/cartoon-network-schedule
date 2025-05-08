@@ -5102,8 +5102,8 @@
             "Drama"
         ],
         "guide_timestamp": 1746741600,
-        "last_time_machine_update": 1746741653042,
-        "last_update": 1746741653042,
+        "last_time_machine_update": 1746743410518,
+        "last_update": 1746743410518,
         "live": false,
         "paid": "233081.001.03.851",
         "participants": [],
@@ -5117,13 +5117,13 @@
         "season_id": "1545",
         "season_name": "King of the Hill (Season 12)",
         "season_number": "12",
-        "serial": 1746741653042,
+        "serial": 1746743410517,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
         "show_id": "276443526",
         "show_timestamp": 1746741598,
-        "status": "current",
+        "status": "actual",
         "summary": "When Ladybird bites Hank he brings in a \"dog spiritualist,\" what Hank finds out is that he needs to become more of a leader around the house.",
         "summary_long": "When Ladybird bites Hank he brings in a \"dog spiritualist,\" what Hank finds out is that he needs to become more of a leader around the house.",
         "taxonomy_id": "233081-001",
@@ -5152,8 +5152,8 @@
             "Drama"
         ],
         "guide_timestamp": 1746743400,
-        "last_time_machine_update": 1746741705161,
-        "last_update": 1746741705161,
+        "last_time_machine_update": 1746743429069,
+        "last_update": 1746743429069,
         "live": false,
         "paid": "233081.002.03.851",
         "participants": [],
@@ -5167,13 +5167,13 @@
         "season_id": "1545",
         "season_name": "King of the Hill (Season 12)",
         "season_number": "12",
-        "serial": 1746741705161,
+        "serial": 1746743429065,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
         "show_id": "276443536",
-        "show_timestamp": 1746743398,
-        "status": "estimated",
+        "show_timestamp": 1746743401,
+        "status": "current",
         "summary": "Hank's forced to step up when his favorite restaurant goes out of business.",
         "summary_long": "When the City Council bans the sale of foods containing trans fats, Hank's favorite restaurant goes out of business, and he's forced to step up.",
         "taxonomy_id": "233081-002",
@@ -5271,6 +5271,97 @@
         "title_id": "2342091",
         "tv_rating": "TV-14",
         "upid": "DISC232851-005",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232851_006_01_851",
+        "create_time": 1746743438074,
+        "episode_in_season": "6",
+        "episode_number": "S17:E06",
+        "external_id": "232851-006-851-1746747000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1746747000,
+        "last_time_machine_update": 1746743438074,
+        "last_update": 1746743438074,
+        "live": false,
+        "paid": "232851.006.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1746747000,
+        "season_id": "24150",
+        "season_name": "American Dad",
+        "season_number": "17",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1746743438072,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276443556",
+        "show_timestamp": 1746747000,
+        "status": "estimated",
+        "summary": "To save a restaurant from closing, Stan brings the 1950s back to Langley.",
+        "summary_long": "To save a beloved restaurant from closing, Stan must bring the 1950s back to Langley.",
+        "taxonomy_id": "232851-006",
+        "title": "American Dad Graffito",
+        "title_id": "2342092",
+        "tv_rating": "TV-14",
+        "upid": "DISC232851-006",
         "upid_type": 12
     },
     {
