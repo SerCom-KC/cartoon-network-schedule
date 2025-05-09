@@ -1283,5 +1283,140 @@
         "tv_rating": "TV-MA",
         "upid": "DISC229010-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229692_018_02_851",
+        "create_time": 1746773226520,
+        "episode_in_season": "18",
+        "episode_number": "S1:E18",
+        "external_id": "229692-018-851-1746865800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Infomercials",
+        "genres": [
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1746865800,
+        "last_time_machine_update": 1746773226520,
+        "last_update": 1746773226520,
+        "live": false,
+        "paid": "229692.018.02.851",
+        "participants": [
+            {
+                "character": "Xangelix",
+                "name": "Jerry Angelo",
+                "role": "actor"
+            },
+            {
+                "character": "Carla Wendos",
+                "name": "Molly Hawkey",
+                "role": "actor"
+            },
+            {
+                "character": "Morgio Zoroger",
+                "name": "Tim Kalpakis",
+                "role": "actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "E",
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1746865800,
+        "season_id": "7402",
+        "season_name": "Infomercials",
+        "season_number": "1",
+        "season_summary": "Parodies and cliches of television programs.",
+        "season_summary_long": "Parodies and cliches of television programs.",
+        "serial": 1746773226520,
+        "series_id": "2007823",
+        "series_name": "Infomercials",
+        "series_summary": "Parodies and cliches of television programs.",
+        "series_summary_long": "Parodies and cliches of television programs.",
+        "show_duration": 900,
+        "show_id": "276447852",
+        "show_timestamp": 1746865800,
+        "status": "estimated",
+        "summary": "Three legendary synth musicians compete in a cosmic battle for synth dominance, in this recently-unearthed concert from 1986.",
+        "summary_long": "Three legendary synth musicians compete in a cosmic battle for synth dominance, in this recently-unearthed concert from 1986.",
+        "taxonomy_id": "229692-018",
+        "title": "Live at the Necropolis: Lords of Synth",
+        "title_id": "2086420",
+        "tv_rating": "TV-14",
+        "upid": "DISC229692-018",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "229692_019_02_851",
+        "create_time": 1746773226521,
+        "episode_in_season": "19",
+        "episode_number": "S1:E19",
+        "external_id": "229692-019-851-1746866700",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Infomercials",
+        "genres": [
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1746866700,
+        "last_time_machine_update": 1746773226521,
+        "last_update": 1746773226521,
+        "live": false,
+        "paid": "229692.019.02.851",
+        "participants": [
+            {
+                "character": "Bruce",
+                "name": "Jerry Lambert",
+                "role": "actor"
+            },
+            {
+                "character": "Hector",
+                "name": "Jay Jackson",
+                "role": "actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "E",
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 903,
+        "scheduled_timestamp": 1746866700,
+        "season_id": "7402",
+        "season_name": "Infomercials",
+        "season_number": "1",
+        "season_summary": "Parodies and cliches of television programs.",
+        "season_summary_long": "Parodies and cliches of television programs.",
+        "serial": 1746773226520,
+        "series_id": "2007823",
+        "series_name": "Infomercials",
+        "series_summary": "Parodies and cliches of television programs.",
+        "series_summary_long": "Parodies and cliches of television programs.",
+        "show_duration": 900,
+        "show_id": "276447862",
+        "show_timestamp": 1746866700,
+        "status": "estimated",
+        "summary": "Horrible news bloopers from Your 7 News that should not be aired -- Adults Only.",
+        "summary_long": "Horrible news bloopers from Your 7 News that should not be aired -- Adults Only.",
+        "taxonomy_id": "229692-019",
+        "title": "NewsHits",
+        "title_id": "2086422",
+        "tv_rating": "TV-14",
+        "upid": "DISC229692-019",
+        "upid_type": 12
     }
 ]
