@@ -4055,5 +4055,85 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC250755-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "170057_000_02_851",
+        "create_time": 1746812694372,
+        "episode_in_season": "0",
+        "external_id": "170057-000-851-1746905400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Lego Scooby-Doo! Haunted Hollywood",
+        "genres": [
+            "Animated Movies",
+            "Family Adventures",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1746905400,
+        "last_time_machine_update": 1746812694372,
+        "last_update": 1746812694372,
+        "live": false,
+        "paid": "170057.000.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Rick Morales",
+                "role": "director"
+            },
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Kate Micucci",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "FF",
+        "release_year": 2016,
+        "runtime_minutes": 90,
+        "scheduled_duration": 5400,
+        "scheduled_timestamp": 1746905400,
+        "season_number": "1",
+        "serial": 1746812694372,
+        "series_id": "77342",
+        "series_name": "LEGO Scooby-Doo: Haunted Hollywood",
+        "series_summary": "The Scooby-Doo gang tries to rescue an old movie studio.",
+        "series_summary_long": "The Scooby-Doo gang tries to rescue an old movie studio that is threatened by developers and haunted by movie monsters.",
+        "show_duration": 5400,
+        "show_id": "276451628",
+        "show_timestamp": 1746905400,
+        "status": "estimated",
+        "summary": "The Scooby-Doo gang tries to rescue an old movie studio.",
+        "summary_long": "The Scooby-Doo gang tries to rescue an old movie studio that is threatened by developers and haunted by movie monsters.",
+        "taxonomy_id": "170057-000",
+        "title": "Lego Scooby-Doo! Haunted Hollywood",
+        "title_id": "2094154",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC170057-000",
+        "upid_type": 12
     }
 ]
