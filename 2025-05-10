@@ -4515,5 +4515,87 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250263-020",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271162_014_01_851",
+        "create_time": 1746833484773,
+        "episode_in_season": "14",
+        "episode_number": "S15:E14",
+        "external_id": "271162-014-851-1746927000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1746927000,
+        "last_time_machine_update": 1746833484773,
+        "last_update": 1746833484773,
+        "live": false,
+        "paid": "271162.014.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1746927000,
+        "season_id": "10564",
+        "season_name": "Family Guy",
+        "season_number": "15",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1746833484773,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276451728",
+        "show_timestamp": 1746927000,
+        "status": "estimated",
+        "summary": "Peter and the gang try to purchase the Medieval Castle for \"castle fun.\"",
+        "summary_long": "When the Medieval Castle comes up for auction, Peter and the gang try to purchase it for \"castle fun.\" After putting up a \"mystery\" paper bag containing nine thousand dollars, they end up losing the auction to Mayor West.",
+        "taxonomy_id": "271162-014",
+        "title": "The Dating Game",
+        "title_id": "2105393",
+        "tv_rating": "TV-14",
+        "upid": "DISC271162-014",
+        "upid_type": 12
     }
 ]
