@@ -3964,5 +3964,101 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228418-030",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228422_033_02_851",
+        "create_time": 1746889273862,
+        "episode_in_season": "33",
+        "episode_number": "S5:E33",
+        "external_id": "228422-033-851-1746982800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1746982800,
+        "last_time_machine_update": 1746889273862,
+        "last_update": 1746889273862,
+        "live": false,
+        "paid": "228422.033.02.851",
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Mic Graves",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Ben Bocquelet",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1746982800,
+        "season_id": "10241",
+        "season_name": "The Amazing World of Gumball",
+        "season_number": "5",
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1746889273862,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "show_duration": 900,
+        "show_id": "276455714",
+        "show_timestamp": 1746982800,
+        "status": "estimated",
+        "summary": "The Wattersons compete over who has the worst life.",
+        "summary_long": "Each member of the family thinks their demographic has it the toughest. Gumball and Darwin think guys have it the worst.",
+        "taxonomy_id": "228422-033",
+        "title": "The Worst",
+        "title_id": "2089030",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228422-033",
+        "upid_type": 12
     }
 ]
