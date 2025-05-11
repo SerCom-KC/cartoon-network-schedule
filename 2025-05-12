@@ -987,5 +987,124 @@
         "tv_rating": "TV-MA",
         "upid": "DISC250984-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "279476_002_03_851",
+        "create_time": 1746942184923,
+        "episode_in_season": "2",
+        "episode_number": "S3:E02",
+        "external_id": "279476-002-851-1747035000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "YOLO",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Offbeat"
+        ],
+        "guide_timestamp": 1747035000,
+        "last_time_machine_update": 1746942184923,
+        "last_update": 1746942184923,
+        "live": false,
+        "paid": "279476.002.03.851",
+        "participants": [
+            {
+                "character": "Sarah",
+                "name": "Sarah Bishop",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rachel/Additional Voices",
+                "name": "Todor Manojlovic",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lucas/Additional Voices",
+                "name": "Michael Cusack",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Michael Cusack",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Michael Cusack",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Michael Cusack",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Mike Cowap",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Emma Fitzsimons",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Laura Dimaio",
+                "role": "supervising-producer"
+            },
+            {
+                "character": "",
+                "name": "Paul Moran",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Michael Cusack",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Catriona Drummond",
+                "role": "art-director"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1747035000,
+        "season_id": "28421",
+        "season_name": "YOLO: Rainbow Trinity",
+        "season_number": "3",
+        "season_summary": "Sarah and Rachel return! The weirdness and strangeness is OUT. OF. CONTROL.",
+        "season_summary_long": "Sarah and Rachel return!! The weirdness and strangeness is OUT. OF. CONTROL in this new series!! LETS GOOO hahah!! WEE!! ASDNJKISADIAOSD",
+        "serial": 1746942184922,
+        "series_id": "2224723",
+        "series_name": "YOLO",
+        "series_summary": "Two party girls look for fun times, new experiences and hopeful horoscopes.",
+        "series_summary_long": "Yolo Crystal Fantasy follows two Australian party girls, Sarah and Rachel, looking for fun times, new experiences, positive vibes and hopeful horoscopes in the bizarre town of Wollongong.",
+        "show_duration": 900,
+        "show_id": "276456114",
+        "show_timestamp": 1747035000,
+        "status": "estimated",
+        "summary": "Sarah and Rachel hang with Sarah's parents at Winery Crawl World.",
+        "summary_long": "Sarah and Rachel spend quality time with Sarah's parents at Winery Crawl World where they find a mysterious club, and Lucas tries to tag along. As Sarah and Rachel party, Sarah's Mum and Dad go head-to-head in the Winery Slip and Slide Race Ride.",
+        "taxonomy_id": "279476-002",
+        "title": "Winery Crawl Slip and Slide Ride (MMM YUMMY WINE LOL *KISSYS*)",
+        "title_id": "2449478",
+        "tv_rating": "TV-14",
+        "upid": "DISC279476-002",
+        "upid_type": 12
     }
 ]
