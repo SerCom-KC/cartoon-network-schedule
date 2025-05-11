@@ -5416,5 +5416,86 @@
         "tv_rating": "TV-14",
         "upid": "DISC250264-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271162_017_01_851",
+        "create_time": 1747006549175,
+        "episode_in_season": "17",
+        "episode_number": "S15:E17",
+        "external_id": "271162-017-851-1747099800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1747099800,
+        "last_time_machine_update": 1747006549175,
+        "last_update": 1747006549175,
+        "live": false,
+        "paid": "271162.017.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1747099800,
+        "season_id": "10564",
+        "season_name": "Family Guy",
+        "season_number": "15",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1747006549175,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276459990",
+        "show_timestamp": 1747099800,
+        "status": "estimated",
+        "summary": "Peter wins a fantasy weekend for two at Fenway Park in the church raffle.",
+        "summary_long": "Peter wins a fantasy weekend for two at Fenway Park in the church raffle. Although Cleveland, Joe and Quagmire all vie for the second spot, Peter decides to take Lois along with him.",
+        "taxonomy_id": "271162-017",
+        "title": "Peter's Lost Youth",
+        "title_id": "2105396",
+        "tv_rating": "TV-14",
+        "upid": "DISC271162-017",
+        "upid_type": 12
     }
 ]
