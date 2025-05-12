@@ -5532,5 +5532,91 @@
         "tv_rating": "TV-14",
         "upid": "DISC250264-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271168_003_01_851",
+        "create_time": 1747093208362,
+        "episode_in_season": "3",
+        "episode_number": "S12:E03",
+        "external_id": "271168-003-851-1747186200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1747186200,
+        "last_time_machine_update": 1747093208362,
+        "last_update": 1747093208362,
+        "live": false,
+        "paid": "271168.003.01.851",
+        "participants": [
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Peter Michels",
+                "role": "director"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1747186200,
+        "season_id": "1001",
+        "season_name": "Family Guy",
+        "season_number": "12",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1747093208362,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276464086",
+        "show_timestamp": 1747186200,
+        "status": "estimated",
+        "summary": "When Quagmire takes his laptop in to be fixed, he asks the repair tech out.",
+        "summary_long": "Quagmire purchases a laptop, which gets infected by viruses from the dirty websites he visits. When he takes it in to be fixed, Sonja is unfazed by his browser history and recommends alternate sites. Quagmire asks her out on a date.",
+        "taxonomy_id": "271168-003",
+        "title": "Quagmire's Quagmire",
+        "title_id": "809267",
+        "tv_rating": "TV-14",
+        "upid": "DISC271168-003",
+        "upid_type": 12
     }
 ]
