@@ -5396,5 +5396,152 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250264-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "S"
+        ],
+        "content_id": "250264_007_03_851",
+        "create_time": 1747179036120,
+        "episode_in_season": "7",
+        "episode_number": "S10:E07",
+        "external_id": "250264-007-851-1747270800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1747270800,
+        "last_time_machine_update": 1747179036120,
+        "last_update": 1747179036120,
+        "live": false,
+        "paid": "250264.007.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1747270800,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1747179036120,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276468172",
+        "show_timestamp": 1747270800,
+        "status": "estimated",
+        "summary": "Bob and Linda brave a storm for a party.",
+        "summary_long": "Bob and Linda challenge themselves and attend a loft party on a stormy night, while the kids challenge their babysitter, Jen, and face the storm in an ice cream truck.",
+        "taxonomy_id": "250264-007",
+        "title": "Land of the Loft",
+        "title_id": "2438945",
+        "tv_rating": "TV-14",
+        "upid": "DISC250264-007",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271168_007_01_851",
+        "create_time": 1747179657914,
+        "episode_in_season": "7",
+        "episode_number": "S12:E07",
+        "external_id": "271168-007-851-1747272600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1747272600,
+        "last_time_machine_update": 1747179657914,
+        "last_update": 1747179657914,
+        "live": false,
+        "paid": "271168.007.01.851",
+        "participants": [
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Brian Iles",
+                "role": "director"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1747272600,
+        "season_id": "1001",
+        "season_name": "Family Guy",
+        "season_number": "12",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1747179657914,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276468182",
+        "show_timestamp": 1747272600,
+        "status": "estimated",
+        "summary": "Peter and Quagmire realize they harmonize well and start writing songs.",
+        "summary_long": "Peter and Quagmire scream when a bee flies by and realize they harmonize well together. They start writing and singing songs. Mort overhears them and is amazed by their talent. He offers to manage them.",
+        "taxonomy_id": "271168-007",
+        "title": "In Harmony's Way",
+        "title_id": "809271",
+        "tv_rating": "TV-14",
+        "upid": "DISC271168-007",
+        "upid_type": 12
     }
 ]
