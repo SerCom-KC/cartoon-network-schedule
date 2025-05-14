@@ -5300,5 +5300,65 @@
         "tv_rating": "TV-14",
         "upid": "DISC232851-017",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_008_02_851",
+        "create_time": 1747260438603,
+        "episode_in_season": "8",
+        "episode_number": "S10:E08",
+        "external_id": "250264-008-851-1747353600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1747353600,
+        "last_time_machine_update": 1747260438603,
+        "last_update": 1747260438603,
+        "live": false,
+        "paid": "250264.008.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1747353600,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1747260438603,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276472248",
+        "show_timestamp": 1747353600,
+        "status": "estimated",
+        "summary": "It's all about the turkey.",
+        "summary_long": "Bob is determined to do whatever it takes to cook a rare, heritage turkey after the gas goes out on Thanksgiving.",
+        "taxonomy_id": "250264-008",
+        "title": "Now We're Not Cooking with Gas",
+        "title_id": "2438946",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250264-008",
+        "upid_type": 12
     }
 ]
