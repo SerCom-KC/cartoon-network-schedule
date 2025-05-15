@@ -1416,5 +1416,986 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228427-020",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228427_021_03_851",
+        "create_time": 1747307709180,
+        "episode_in_season": "21",
+        "episode_number": "S4:E21",
+        "external_id": "228427-021-851-1747392000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Amazing World of Gumball, The",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1747392000,
+        "last_time_machine_update": 1747307709180,
+        "last_update": 1747307709180,
+        "live": false,
+        "paid": "228427.021.03.851",
+        "participants": [
+            {
+                "character": "Gumball Watterson",
+                "name": "Jacob Hopkins",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Darwin Watterson",
+                "name": "Terrell Ransom Jr.",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Anais Watterson",
+                "name": "Kyla Kowalewski",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Richard Watterson",
+                "name": "Dan Russell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Nicole Watterson",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Penny Fitzgerald",
+                "name": "Teresa Gallagher",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 16,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1747392000,
+        "season_id": "9631",
+        "season_name": "The Amazing World of Gumball",
+        "season_number": "4",
+        "season_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "season_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "serial": 1747307709177,
+        "series_id": "835928",
+        "series_name": "The Amazing World of Gumball",
+        "series_summary": "Gumball Watterson is a cat who attends middle school in the city of Elmore.",
+        "series_summary_long": "The Amazing World of Gumball revolves around the life of Gumball Watterson, a 12-year-old cat who attends middle school in the city of Elmore. Accompanied by Darwin, he frequently finds himself involved in shenanigans around the city.",
+        "show_duration": 960,
+        "show_id": "276475944",
+        "show_timestamp": 1747392000,
+        "status": "estimated",
+        "summary": "Darwin gets flushed out to sea and tries to return to the Wattersons.",
+        "summary_long": "Via the sewers, Darwin finds himself flushed out to sea. He is determined to make his way back to the Wattersons. A fish can't get very far on land so he will have to do millions of years of evolution quickly if he's going to get home safe.",
+        "taxonomy_id": "228427-021",
+        "title": "The Origins Part 2",
+        "title_id": "2062762",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228427-021",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "234452_028_02_851",
+        "create_time": 1747307709180,
+        "dvs": true,
+        "episode_in_season": "28",
+        "episode_number": "S2:E28",
+        "external_id": "234452-028-851-1747394640",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Cartoons",
+            "Kids & Family",
+            "Little Learners"
+        ],
+        "guide_timestamp": 1747394700,
+        "last_time_machine_update": 1747307709180,
+        "last_update": 1747307709180,
+        "live": false,
+        "paid": "234452.028.02.851",
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Nicole Belisle",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Abe Audish",
+                "role": "supervising-producer"
+            },
+            {
+                "character": "",
+                "name": "Matthew Janszen",
+                "role": "music"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 12,
+        "scheduled_duration": 720,
+        "scheduled_timestamp": 1747394640,
+        "season_id": "24899",
+        "season_name": "Bugs Bunny Builders",
+        "season_number": "2",
+        "season_summary": "Join the Looney Builders as they take on the looniest construction builds.",
+        "season_summary_long": "Preschoolers can join Bugs, Lola, Daffy, Porky and Tweety as they use their amazing vehicles to take on the looniest construction builds. They'll learn valuable lessons and never give up because The Looney Builders always get the job done!",
+        "serial": 1747307709177,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "series_summary": "Bugs, Lola, Daffy, Porky and Tweety take on loony construction builds.",
+        "series_summary_long": "Preschoolers can join Bugs, Lola, Daffy, Porky and Tweety as they use their amazing vehicles to take on the looniest construction builds. They\u2019ll learn valuable lessons and never give up because The Looney Builders always get the job done!",
+        "show_duration": 720,
+        "show_id": "276475974",
+        "show_timestamp": 1747394640,
+        "status": "estimated",
+        "summary": "Pauleen Penguin hires The Looney Builders to build an ice bowling alley.",
+        "summary_long": "Pauleen Penguin hires The Looney Builders to build an ice bowling alley in Looneyburg. Her homesickness causes setbacks until the crew helps her feel better.",
+        "taxonomy_id": "234452-028",
+        "title": "Pauleen's Pins",
+        "title_id": "2410039",
+        "tv_rating": "TV-Y",
+        "upid": "DISC234452-028",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "234452_025_02_851",
+        "create_time": 1747307668630,
+        "dvs": true,
+        "episode_in_season": "25",
+        "episode_number": "S2:E25",
+        "external_id": "234452-025-851-1747395360",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Cartoons",
+            "Kids & Family",
+            "Little Learners"
+        ],
+        "guide_timestamp": 1747395300,
+        "last_time_machine_update": 1747307668630,
+        "last_update": 1747307668630,
+        "live": false,
+        "paid": "234452.025.02.851",
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Nicole Belisle",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Abe Audish",
+                "role": "supervising-producer"
+            },
+            {
+                "character": "",
+                "name": "Matthew Janszen",
+                "role": "music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 16,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1747395360,
+        "season_id": "24899",
+        "season_name": "Bugs Bunny Builders",
+        "season_number": "2",
+        "season_summary": "Join the Looney Builders as they take on the looniest construction builds.",
+        "season_summary_long": "Preschoolers can join Bugs, Lola, Daffy, Porky and Tweety as they use their amazing vehicles to take on the looniest construction builds. They'll learn valuable lessons and never give up because The Looney Builders always get the job done!",
+        "serial": 1747307668630,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "series_summary": "Bugs, Lola, Daffy, Porky and Tweety take on loony construction builds.",
+        "series_summary_long": "Preschoolers can join Bugs, Lola, Daffy, Porky and Tweety as they use their amazing vehicles to take on the looniest construction builds. They\u2019ll learn valuable lessons and never give up because The Looney Builders always get the job done!",
+        "show_duration": 960,
+        "show_id": "276475984",
+        "show_timestamp": 1747395360,
+        "status": "estimated",
+        "summary": "Zaida Gator hires The Looney Builders to build her a boat.",
+        "summary_long": "Zaida Gator hires The Looney Builders to build her a boat so she can share her beignets in the swamp. She soon realizes there are others to share with elsewhere and enlists the crew to make it possible.",
+        "taxonomy_id": "234452-025",
+        "title": "Beignet Day",
+        "title_id": "2407186",
+        "tv_rating": "TV-Y",
+        "upid": "DISC234452-025",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "234452_014_02_851",
+        "create_time": 1747307709181,
+        "episode_in_season": "14",
+        "episode_number": "S2:E14",
+        "external_id": "234452-014-851-1747396320",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bugs Bunny Builders",
+        "genres": [
+            "Cartoons",
+            "Kids & Family",
+            "Little Learners"
+        ],
+        "guide_timestamp": 1747396200,
+        "last_time_machine_update": 1747307709181,
+        "last_update": 1747307709181,
+        "live": false,
+        "paid": "234452.014.02.851",
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tweety Bird",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Chandni Parekh",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Wile E. Coyote",
+                "name": "Keith Ferguson",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Taz",
+                "name": "Fred Tatasciore",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Sylvester James Pussycat, Sr.",
+                "name": "Jeff Bergman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hoots Talon",
+                "name": "David Shaughnessy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Nicole Belisle",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Abe Audish",
+                "role": "supervising-producer"
+            },
+            {
+                "character": "",
+                "name": "Matthew Janszen",
+                "role": "music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 12,
+        "scheduled_duration": 720,
+        "scheduled_timestamp": 1747396320,
+        "season_id": "24899",
+        "season_name": "Bugs Bunny Builders",
+        "season_number": "2",
+        "season_summary": "Join the Looney Builders as they take on the looniest construction builds.",
+        "season_summary_long": "Preschoolers can join Bugs, Lola, Daffy, Porky and Tweety as they use their amazing vehicles to take on the looniest construction builds. They'll learn valuable lessons and never give up because The Looney Builders always get the job done!",
+        "serial": 1747307709177,
+        "series_id": "2267156",
+        "series_name": "Bugs Bunny Builders",
+        "series_summary": "Bugs, Lola, Daffy, Porky and Tweety take on loony construction builds.",
+        "series_summary_long": "Preschoolers can join Bugs, Lola, Daffy, Porky and Tweety as they use their amazing vehicles to take on the looniest construction builds. They\u2019ll learn valuable lessons and never give up because The Looney Builders always get the job done!",
+        "show_duration": 720,
+        "show_id": "276475994",
+        "show_timestamp": 1747396320,
+        "status": "estimated",
+        "summary": "The Looney Builders take turns distracting Petunia.",
+        "summary_long": "The Looney Builders take turns distracting Petunia as they build her a big surprise birthday cake in the backyard.",
+        "taxonomy_id": "234452-014",
+        "title": "Cake Bake",
+        "title_id": "2391777",
+        "tv_rating": "TV-Y",
+        "upid": "DISC234452-014",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "267115_016_03_851",
+        "create_time": 1747307709178,
+        "episode_in_season": "16",
+        "episode_number": "S1:E16",
+        "external_id": "267115-016-851-1747397040",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Barney's World",
+        "genres": [
+            "Cartoons",
+            "Kids & Family",
+            "Little Learners"
+        ],
+        "guide_timestamp": 1747397100,
+        "last_time_machine_update": 1747307709178,
+        "last_update": 1747307709178,
+        "live": false,
+        "paid": "267115.016.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Sheryl Leach",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Kathy Parker",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Dennis DeShazer",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Nick Lopez",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Adrian Thatcher",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Matt Sax",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Duke Doyle",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Leah Gotcsik",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Athena Georgaklis",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Michelle Mendelovitz",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Doug Murphy",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Josh Silverman",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Mellany Walsh",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Pam Westman",
+                "role": "executive-producer"
+            },
+            {
+                "character": "Barney",
+                "name": "Jonathan Langdon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Vivie",
+                "name": "Ella Paciocco",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Mel",
+                "name": "Diana Tsoy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "David",
+                "name": "Jayd Deroch\u00e9",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2024,
+        "runtime_minutes": 12,
+        "scheduled_duration": 726,
+        "scheduled_timestamp": 1747397040,
+        "season_id": "30224",
+        "season_name": "Barney's World",
+        "season_number": "1",
+        "season_summary": "Meet Barney, the singing and dancing purple dinosaur who embodies love.",
+        "season_summary_long": "Meet Barney, the singing and dancing purple dinosaur who embodies love. This all-new animated series is set in the local playground, where Barney is joined by dinos Billy and Baby Bop and their three kid best friends.",
+        "serial": 1747307709177,
+        "series_id": "2503122",
+        "series_name": "Barney's World",
+        "series_summary": "Meet Barney, the singing and dancing purple dinosaur who embodies love.",
+        "series_summary_long": "Meet Barney, the singing and dancing purple dinosaur who embodies love. This all-new animated series is set in the local playground, where Barney is joined by dinos Billy and Baby Bop and their three kid best friends.",
+        "show_duration": 726,
+        "show_id": "276476004",
+        "show_timestamp": 1747397040,
+        "status": "estimated",
+        "summary": "Mel is frustrated at how long her broken arm is taking to heal.",
+        "summary_long": "Mel is frustrated that her arm isn't as strong as it used to be after she gets her cast off, so Barney whips up an adventure in the enchanted forest that helps her realize that it's okay for some things to take time.",
+        "taxonomy_id": "267115-016",
+        "title": "Worth the Wait",
+        "title_id": "2503161",
+        "tv_rating": "TV-Y",
+        "upid": "DISC267115-016",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "267115_017_03_851",
+        "create_time": 1747307709179,
+        "episode_in_season": "17",
+        "episode_number": "S1:E17",
+        "external_id": "267115-017-851-1747397760",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Barney's World",
+        "genres": [
+            "Cartoons",
+            "Kids & Family",
+            "Little Learners"
+        ],
+        "guide_timestamp": 1747397700,
+        "last_time_machine_update": 1747307709179,
+        "last_update": 1747307709179,
+        "live": false,
+        "paid": "267115.017.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Sheryl Leach",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Kathy Parker",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Dennis DeShazer",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Roxy Simons",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Adrian Thatcher",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Matt Sax",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Duke Doyle",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Leah Gotcsik",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "Athena Georgaklis",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Michelle Mendelovitz",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Doug Murphy",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Josh Silverman",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Pam Westman",
+                "role": "executive-producer"
+            },
+            {
+                "character": "Barney",
+                "name": "Jonathan Langdon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Vivie",
+                "name": "Ella Paciocco",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Mel",
+                "name": "Diana Tsoy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "David",
+                "name": "Jayd Deroch\u00e9",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Baby Bop",
+                "name": "Bryn McAuley",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2024,
+        "runtime_minutes": 16,
+        "scheduled_duration": 960,
+        "scheduled_timestamp": 1747397760,
+        "season_id": "30224",
+        "season_name": "Barney's World",
+        "season_number": "1",
+        "season_summary": "Meet Barney, the singing and dancing purple dinosaur who embodies love.",
+        "season_summary_long": "Meet Barney, the singing and dancing purple dinosaur who embodies love. This all-new animated series is set in the local playground, where Barney is joined by dinos Billy and Baby Bop and their three kid best friends.",
+        "serial": 1747307709177,
+        "series_id": "2503122",
+        "series_name": "Barney's World",
+        "series_summary": "Meet Barney, the singing and dancing purple dinosaur who embodies love.",
+        "series_summary_long": "Meet Barney, the singing and dancing purple dinosaur who embodies love. This all-new animated series is set in the local playground, where Barney is joined by dinos Billy and Baby Bop and their three kid best friends.",
+        "show_duration": 960,
+        "show_id": "276476014",
+        "show_timestamp": 1747397760,
+        "status": "estimated",
+        "summary": "Barney takes the kids on a high-seas adventure.",
+        "summary_long": "Vivie is overcome with feelings of anger after a pigeon messes up her painting. Barney and the kids play Pirates and the Sea Queen to help de-escalate Vivie's anger and learn healthy ways to manage big feelings.",
+        "taxonomy_id": "267115-017",
+        "title": "The Big Spill",
+        "title_id": "2503162",
+        "tv_rating": "TV-Y",
+        "upid": "DISC267115-017",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "250417_010_02_851",
+        "create_time": 1747307709179,
+        "episode_in_season": "10",
+        "episode_number": "S1:E10",
+        "external_id": "250417-010-851-1747398720",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Tiny Toons Looniversity",
+        "genres": [
+            "Cartoons",
+            "Comedy",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1747398600,
+        "last_time_machine_update": 1747307709179,
+        "last_update": 1747307709179,
+        "live": false,
+        "paid": "250417.010.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Steven Spielberg",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Darryl Frank",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Justin Falvey",
+                "role": "executive-producer"
+            },
+            {
+                "character": "Buster Bunny, Calamity Coyote, Daffy Duck and Gossamer",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Babs Bunny",
+                "name": "Ashleigh Hairston",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Plucky Duck, Hamton J. Pig",
+                "name": "David Errigo Jr",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bugs Bunny, Foghorn Leghorn, Sylvester",
+                "name": "Jeff Bergman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fifi La Fume",
+                "name": "Marieve Herington",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Sweetie Bird, Li'l Sneezer",
+                "name": "Tessa Netting",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Megan Fisher",
+                "role": "director"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 28,
+        "scheduled_duration": 1682,
+        "scheduled_timestamp": 1747398720,
+        "season_id": "17331",
+        "season_name": "Tiny Toons Looniversity",
+        "season_number": "1",
+        "season_summary": "Follow Babs and Buster Bunny as they learn what it takes to be a toon.",
+        "season_summary_long": "Tiny Toons Looniversity follows Babs and Buster Bunny, Sweetie Bird, Hamton J. Pig and Plucky Duck as they learn what it takes to be a professional toon under the tutelage of Bugs Bunny, Daffy Duck and other looney legends.",
+        "serial": 1747307709177,
+        "series_id": "2267298",
+        "series_name": "Tiny Toons Looniversity",
+        "series_summary": "Follow Babs and Buster Bunny as they learn what it takes to be a toon.",
+        "series_summary_long": "Tiny Toons Looniversity follows Babs and Buster Bunny, Sweetie Bird, Hamton J. Pig and Plucky Duck as they learn what it takes to be a professional toon under the tutelage of Bugs Bunny, Daffy Duck and other looney legends.",
+        "show_duration": 1682,
+        "show_id": "276476024",
+        "show_timestamp": 1747398720,
+        "status": "estimated",
+        "summary": "Buster finds a cloning machine at Wile E. Coyote's yard sale.",
+        "summary_long": "Buster finds a cloning machine at Wile E. Coyote's yard sale that he uses to make another Buster, and Babs and Sweetie snag a time machine that they use to open a vintage clothing store.",
+        "taxonomy_id": "250417-010",
+        "title": "Tears of a Clone",
+        "title_id": "2267308",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250417-010",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "235002_010_03_851",
+        "create_time": 1747307709180,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "235002-010-851-1747400400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Looney Tunes Show, The",
+        "genres": [
+            "Cartoons",
+            "Family Laughs",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1747400400,
+        "last_time_machine_update": 1747307709180,
+        "last_update": 1747307709180,
+        "live": false,
+        "paid": "235002.010.03.851",
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daffy Duck",
+                "name": "Jeff Bergman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Porky Pig",
+                "name": "Bob Bergen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Speedy Gonzalez",
+                "name": "Fred Armisen",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lola Bunny",
+                "name": "Kristen Wiig",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Russo",
+                "name": "Jennifer Esposito",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Yosemite Sam",
+                "name": "Maurice LaMarche",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Granny",
+                "name": "June Foray",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tasmanian Devil",
+                "name": "Jim Cummings",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Elmer Fudd",
+                "name": "Billy West",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Swinton Scott III",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Spike Brandt",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Tony Cervone",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Spike Brandt",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Tony Cervone",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Hugh Davidson",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Larry Dorf",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Rachel Ramras",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1681,
+        "scheduled_timestamp": 1747400400,
+        "season_id": "5714",
+        "season_name": "The Looney Tunes Show",
+        "season_number": "2",
+        "season_summary": "Roommates Bugs and Daffy live in Los Angeles with their colorful neighbors.",
+        "season_summary_long": "Roommates Bugs and Daffy live in Los Angeles with their colorful neighbors, including Lola Bunny, Tina Russo, Porky Pig, Foghorn Leghorn, Elmer Fudd, Sylvester, Tweety, Granny, Gossamer, Yosemite Sam, Speedy Gonzales, Marvin the Martian and more.",
+        "serial": 1747307709177,
+        "series_id": "824654",
+        "series_name": "The Looney Tunes Show",
+        "series_summary": "Roommates Bugs and Daffy live in Los Angeles with their colorful neighbors.",
+        "series_summary_long": "Roommates Bugs and Daffy live in Los Angeles with their colorful neighbors, including Lola Bunny, Tina Russo, Porky Pig, Foghorn Leghorn, Elmer Fudd, Sylvester, Tweety, Granny, Gossamer, Yosemite Sam, Speedy Gonzales, Marvin the Martian and more.",
+        "show_duration": 1800,
+        "show_id": "276476034",
+        "show_timestamp": 1747400400,
+        "status": "estimated",
+        "summary": "Lola decides to stage her own version of \"A Christmas Carol.\"",
+        "summary_long": "When the overwhelming heat zaps everyone's enthusiasm for Christmas, Lola decides to stage her own version of \"A Christmas Carol\" to renew the town's holiday spirit.",
+        "taxonomy_id": "235002-010",
+        "title": "A Christmas Carol",
+        "title_id": "886409",
+        "tv_rating": "TV-PG",
+        "upid": "DISC235002-010",
+        "upid_type": 12
     }
 ]
