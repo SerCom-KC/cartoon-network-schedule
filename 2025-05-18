@@ -4345,5 +4345,147 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250264-019",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250264_020_02_851",
+        "create_time": 1747522978464,
+        "dvs": true,
+        "episode_in_season": "20",
+        "episode_number": "S10:E20",
+        "external_id": "250264-020-851-1747614600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1747614600,
+        "last_time_machine_update": 1747522978464,
+        "last_update": 1747522978464,
+        "live": false,
+        "paid": "250264.020.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1747614600,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers (Season 10)",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1747522978463,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276484466",
+        "show_timestamp": 1747614600,
+        "status": "estimated",
+        "summary": "Louise confronts her fear of public pooping.",
+        "summary_long": "Louise must face her fear of public pooping when her class goes on an overnight trip to the aquarium. Meanwhile, Linda enlists the family to make a video for her parents' anniversary.",
+        "taxonomy_id": "250264-020",
+        "title": "Poops!... I Didn't Do It Again",
+        "title_id": "2438958",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250264-020",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271172_020_02_851",
+        "create_time": 1747522978464,
+        "dvs": true,
+        "episode_in_season": "20",
+        "episode_number": "S16:E20",
+        "external_id": "271172-020-851-1747616400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1747616400,
+        "last_time_machine_update": 1747522978464,
+        "last_update": 1747522978464,
+        "live": false,
+        "paid": "271172.020.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1747616400,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1747522978463,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276484476",
+        "show_timestamp": 1747616400,
+        "status": "estimated",
+        "summary": "Peter falls into a coma and meets God face-to-face.",
+        "summary_long": "Peter falls into a coma and meets God face-to-face. He asks God some of life's tough questions.",
+        "taxonomy_id": "271172-020",
+        "title": "Are You There God? It's Me, Peter",
+        "title_id": "2539786",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-020",
+        "upid_type": 12
     }
 ]
