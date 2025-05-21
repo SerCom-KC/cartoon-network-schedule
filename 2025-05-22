@@ -688,5 +688,66 @@
         "tv_rating": "TV-14",
         "upid": "DISC271158-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250266_010_02_851",
+        "create_time": 1747802810793,
+        "dvs": true,
+        "episode_in_season": "10",
+        "episode_number": "S12:E10",
+        "external_id": "250266-010-851-1747895400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1747895400,
+        "last_time_machine_update": 1747802810793,
+        "last_update": 1747802810793,
+        "live": false,
+        "paid": "250266.010.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1747895400,
+        "season_id": "27922",
+        "season_name": "Bob's Burgers (Season 12)",
+        "season_number": "12",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1747802810793,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276496964",
+        "show_timestamp": 1747895400,
+        "status": "estimated",
+        "summary": "The kids have a Christmas mission.",
+        "summary_long": "After Gene breaks his favorite, extremely rare '70s era Christmas record, Tina and Louise join him in the search for another copy. Meanwhile, Teddy wants to do a neighborhood Secret Santa with Bob and Linda.",
+        "taxonomy_id": "250266-010",
+        "title": "Gene's Christmas Break",
+        "title_id": "2438992",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250266-010",
+        "upid_type": 12
     }
 ]
