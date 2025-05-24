@@ -4839,5 +4839,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC271161-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271161_019_02_851",
+        "create_time": 1748130696387,
+        "episode_in_season": "19",
+        "episode_number": "S17:E19",
+        "external_id": "271161-019-851-1748223000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1748223000,
+        "last_time_machine_update": 1748130696387,
+        "last_update": 1748130696387,
+        "live": false,
+        "paid": "271161.019.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1748223000,
+        "season_id": "31521",
+        "season_name": "Family Guy",
+        "season_number": "17",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1748130696386,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276513158",
+        "show_timestamp": 1748223000,
+        "status": "estimated",
+        "summary": "When Meg suddenly becomes internet famous, she and an excited Peter work together to build her following and create content for her new image that revolves around unhealthy eating.",
+        "summary_listings": "When Meg becomes internet famous, she and an excited Peter work together to create content for her new image that revolves around unhealthy eating.",
+        "summary_long": "When Meg suddenly becomes internet famous, she and an excited Peter work together to build her following and create content for her new image that revolves around unhealthy eating.",
+        "summary_main": "When Meg suddenly becomes internet famous, she and an excited Peter work together to build her following and create content for her new image that revolves around unhealthy eating. Meanwhile, Brian and Stewie revel in a new ride while Brian\u2019s car gets repaired.",
+        "summary_short": "When Meg becomes famous, her new image revolves around unhealthy eating.",
+        "title": "Girl, Internetted",
+        "title_id": "2539810",
+        "tv_rating": "TV-14",
+        "upid": "DISC271161-019",
+        "upid_type": 12
     }
 ]
