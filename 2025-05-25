@@ -4672,5 +4672,88 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-020",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "S",
+            "V"
+        ],
+        "content_id": "271172_001_02_851",
+        "create_time": 1748127262979,
+        "episode_in_season": "1",
+        "episode_number": "S16:E01",
+        "external_id": "271172-001-851-1748219400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1748219400,
+        "last_time_machine_update": 1748127262979,
+        "last_update": 1748127262979,
+        "live": false,
+        "paid": "271172.001.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1748219400,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1748127262979,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276513138",
+        "show_timestamp": 1748219400,
+        "status": "estimated",
+        "summary": "Tired of not winning an Emmy, Peter embarks on a \"For Your Consideration\" campaign for Family Guy by making the show more like Emmy-winning shows.",
+        "summary_listings": "Tired of not winning an Emmy, Peter embarks on a \"For Your Consideration\" campaign for Family Guy by making the show more like Emmy-winning shows.",
+        "summary_long": "Tired of not winning an Emmy, Peter embarks on his own \"For Your Consideration\" campaign for Family Guy by making the show more like Emmy-winning shows -- and no category is off limits.",
+        "summary_main": "Tired of not winning an Emmy, Peter embarks on his own \"For Your Consideration\" campaign for Family Guy by making the show more like Emmy-winning shows -- and no category is off limits.",
+        "summary_short": "Peter goes on a campaign to make Family Guy more like Emmy-winning shows.",
+        "title": "Emmy-Winning Episode",
+        "title_id": "2539785",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-001",
+        "upid_type": 12
     }
 ]
