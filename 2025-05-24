@@ -2,8 +2,9 @@
     {
         "blackout_type": "none",
         "content_advisories": [
-            "D",
-            "L"
+            "L",
+            "S",
+            "V"
         ],
         "content_id": "250984_003_02_851",
         "create_time": 1747967096263,
@@ -14,12 +15,12 @@
         "franchise_id": "489898",
         "franchise_name": "Rick and Morty",
         "genres": [
-            "Action",
-            "Comedy"
+            "Comedy",
+            "Action"
         ],
         "guide_timestamp": 1748059200,
-        "last_time_machine_update": 1747967096263,
-        "last_update": 1747967096263,
+        "last_time_machine_update": 1748056908522,
+        "last_update": 1748056908522,
         "live": false,
         "paid": "250984.003.02.851",
         "participants": [
@@ -61,7 +62,7 @@
         "season_number": "7",
         "season_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
         "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
-        "serial": 1747967096263,
+        "serial": 1748056908517,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
@@ -77,7 +78,7 @@
         "summary_short": "Virginia is for lovers, broh.",
         "title": "Air Force Wong",
         "title_id": "2424785",
-        "tv_rating": "TV-14",
+        "tv_rating": "TV-MA",
         "upid": "DISC250984-003",
         "upid_type": 12
     },
@@ -506,7 +507,6 @@
         "blackout_type": "none",
         "cc": true,
         "content_advisories": [
-            "D",
             "L",
             "S",
             "V"
@@ -514,19 +514,19 @@
         "content_id": "250984_006_02_851",
         "create_time": 1747977909127,
         "episode_in_season": "6",
-        "episode_number": "S7:E06",
+        "episode_number": "S7:E09",
         "external_id": "250984-006-851-1748070000",
         "feed_id": "as-east",
         "franchise_id": "489898",
         "franchise_name": "Rick and Morty",
         "genres": [
-            "Action",
             "Comedy",
+            "Action",
             "Fantasy"
         ],
         "guide_timestamp": 1748070000,
-        "last_time_machine_update": 1747977909127,
-        "last_update": 1747977909127,
+        "last_time_machine_update": 1748056908535,
+        "last_update": 1748056908535,
         "live": false,
         "paid": "250984.006.02.851",
         "participants": [
@@ -568,7 +568,7 @@
         "season_number": "7",
         "season_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
         "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
-        "serial": 1747977909127,
+        "serial": 1748056908517,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
@@ -584,7 +584,7 @@
         "summary_short": "Heaven is for real, broh. I saw it, broh, I swear.",
         "title": "Mort: Ragnarick",
         "title_id": "2424788",
-        "tv_rating": "TV-14",
+        "tv_rating": "TV-MA",
         "upid": "DISC250984-006",
         "upid_type": 12
     },
