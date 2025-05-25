@@ -5897,5 +5897,89 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250266-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271159_001_01_851",
+        "create_time": 1748216011918,
+        "episode_in_season": "1",
+        "episode_number": "S14:E01",
+        "external_id": "271159-001-851-1748309400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1748309400,
+        "last_time_machine_update": 1748216011918,
+        "last_update": 1748216011918,
+        "live": false,
+        "paid": "271159.001.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1748309400,
+        "season_id": "9680",
+        "season_name": "Family Guy",
+        "season_number": "14",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1748216011918,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276517274",
+        "show_timestamp": 1748309400,
+        "status": "estimated",
+        "summary": "After Quagmire shows off his cooking skills to the gang, Lois suggests that he audition for Channel 5's new cooking show.",
+        "summary_listings": "After Quagmire shows off his cooking skills to the gang, Lois suggests that he audition for Channel 5's new cooking show.",
+        "summary_long": "After Quagmire shows off his cooking skills to the gang, Lois suggests that he audition for Channel 5's new cooking show.",
+        "summary_main": "After Quagmire shows off his cooking skills to the gang, Lois suggests that he audition for Channel 5's new cooking show.",
+        "summary_short": "Lois suggests that Quagmire audition for Channel 5's new cooking show.",
+        "title": "Pilling Them Softly",
+        "title_id": "809301",
+        "tv_rating": "TV-14",
+        "upid": "DISC271159-001",
+        "upid_type": 12
     }
 ]
