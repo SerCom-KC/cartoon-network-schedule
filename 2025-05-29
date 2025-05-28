@@ -804,5 +804,86 @@
         "tv_rating": "TV-14",
         "upid": "DISC271167-017",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169687_005_02_851",
+        "create_time": 1748406988516,
+        "episode_in_season": "5",
+        "episode_number": "S5:E05",
+        "external_id": "169687-005-851-1748500200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1748500200,
+        "last_time_machine_update": 1748406988516,
+        "last_update": 1748406988516,
+        "live": false,
+        "paid": "169687.005.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1748500200,
+        "season_id": "9711",
+        "season_name": "Bob's Burgers",
+        "season_number": "5",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1748406988516,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276525656",
+        "show_timestamp": 1748500200,
+        "status": "estimated",
+        "summary": "Bob enters a burger-tasting contest, only to discover that his most distinguishing ingredient is missing!",
+        "summary_listings": "Bob enters a burger-tasting contest, only to discover that his most distinguishing ingredient is missing!",
+        "summary_long": "Bob enters a burger-tasting contest, only to discover that his most distinguishing ingredient is missing! To help out their dad, the kids go on a mission to find the ever-so-important black garlic.",
+        "summary_main": "Bob enters a burger-tasting contest, only to discover that his most distinguishing ingredient is missing! To help out their dad, the kids go on a mission to find the ever-so-important black garlic.",
+        "summary_short": "Bob enters a burger-tasting contest!",
+        "title": "Best Burger",
+        "title_id": "2065451",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169687-005",
+        "upid_type": 12
     }
 ]
