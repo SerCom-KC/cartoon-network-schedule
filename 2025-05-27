@@ -6061,6 +6061,100 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_016_03_851",
+        "create_time": 1748390412291,
+        "episode_in_season": "16",
+        "episode_number": "S18:E14",
+        "external_id": "232841-016-851-1748388600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy",
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1748388600,
+        "last_time_machine_update": 1748390412291,
+        "last_update": 1748390412291,
+        "live": false,
+        "paid": "232841.016.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1748388600,
+        "season_id": "25259",
+        "season_name": "American Dad",
+        "season_number": "18",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1748390412290,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276521420",
+        "show_timestamp": 1748388600,
+        "status": "actual",
+        "summary": "Hayley searches for a runaway Steve so they can go to a Shaggy concert.",
+        "summary_listings": "Hayley searches for a runaway Steve so they can go to a Shaggy concert.",
+        "summary_long": "Hayley searches for a runaway Steve so they can go to a Shaggy concert.",
+        "summary_main": "Hayley searches for a runaway Steve so they can go to a Shaggy concert.",
+        "summary_short": "Hayley searches for a runaway Steve so they can go to a Shaggy concert.",
+        "title": "Multiverse of American Dadness",
+        "title_id": "2397215",
+        "tv_rating": "TV-14",
+        "upid": "DISC232841-016",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
         "cc": true,
         "content_advisories": [
             "D",
@@ -6079,8 +6173,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1748390400,
-        "last_time_machine_update": 1748298907073,
-        "last_update": 1748298907073,
+        "last_time_machine_update": 1748392216454,
+        "last_update": 1748392216454,
         "live": false,
         "paid": "250266.002.02.851",
         "participants": [
@@ -6102,7 +6196,7 @@
         "season_number": "12",
         "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
         "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
-        "serial": 1748298907073,
+        "serial": 1748392216453,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
@@ -6110,8 +6204,8 @@
         "show_duration": 1800,
         "show_id": "276521430",
         "show_timestamp": 1748390400,
-        "status": "estimated",
-        "summary": "In order to help with anxiety about an upcoming oral report, Mr. Frond lends Tina a crystal that his new girlfriend alleges has special powers.",
+        "status": "actual",
+        "summary": "Tina gets some help from a crystal.",
         "summary_listings": "In order to help with anxiety about an upcoming oral report, Mr. Frond lends Tina a crystal that his new girlfriend alleges has special powers.",
         "summary_long": "In order to help with anxiety about an upcoming oral report, Mr. Frond lends Tina a crystal that his new girlfriend alleges has special powers. Meanwhile, Bob and Linda buy a box of imperfect produce and try to use it all before it rots.",
         "summary_main": "In order to help with anxiety about an upcoming oral report, Mr. Frond lends Tina a crystal that his new girlfriend alleges has special powers. Meanwhile, Bob and Linda buy a box of imperfect produce and try to use it all before it rots.",
@@ -6140,8 +6234,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1748392200,
-        "last_time_machine_update": 1748298907073,
-        "last_update": 1748298907073,
+        "last_time_machine_update": 1748394045442,
+        "last_update": 1748394045442,
         "live": false,
         "paid": "250266.003.02.851",
         "participants": [
@@ -6163,7 +6257,7 @@
         "season_number": "12",
         "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
         "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
-        "serial": 1748298907073,
+        "serial": 1748394045441,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
@@ -6171,7 +6265,7 @@
         "show_duration": 1800,
         "show_id": "276521440",
         "show_timestamp": 1748392200,
-        "status": "estimated",
+        "status": "actual",
         "summary": "When a mysterious note is sent to Linda on Halloween, she and Gayle must travel to their hometown to face a wrong they committed 27 years ago.",
         "summary_listings": "When a mysterious note is sent to Linda on Halloween, she and Gayle must travel to their hometown to face a wrong they committed 27 years ago.",
         "summary_long": "When a mysterious note is sent to Linda on Halloween, she and Gayle must travel to their hometown to face a wrong they committed 27 years ago.",
@@ -6202,8 +6296,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1748394000,
-        "last_time_machine_update": 1748302509659,
-        "last_update": 1748302509659,
+        "last_time_machine_update": 1748395811428,
+        "last_update": 1748395811428,
         "live": false,
         "paid": "250266.004.02.851",
         "participants": [
@@ -6225,7 +6319,7 @@
         "season_number": "12",
         "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
         "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
-        "serial": 1748302509659,
+        "serial": 1748395811428,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
@@ -6233,7 +6327,7 @@
         "show_duration": 1800,
         "show_id": "276521450",
         "show_timestamp": 1748394000,
-        "status": "estimated",
+        "status": "actual",
         "summary": "Bob gets roped into a road trip with Teddy. Meanwhile, Linda and the kids compete for the title of Employee of the Day.",
         "summary_listings": "Bob gets roped into a road trip with Teddy. Meanwhile, Linda and the kids compete for the title of Employee of the Day.",
         "summary_long": "Bob gets roped into a road trip with Teddy. Meanwhile, Linda and the kids compete for the title of Employee of the Day.",
@@ -6266,8 +6360,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1748395800,
-        "last_time_machine_update": 1748302509659,
-        "last_update": 1748302509659,
+        "last_time_machine_update": 1748397609262,
+        "last_update": 1748397609262,
         "live": false,
         "paid": "271159.005.01.851",
         "participants": [
@@ -6309,7 +6403,7 @@
         "season_number": "14",
         "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
         "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
-        "serial": 1748302509659,
+        "serial": 1748397609262,
         "series_id": "440990",
         "series_name": "Family Guy",
         "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
@@ -6317,7 +6411,7 @@
         "show_duration": 1800,
         "show_id": "276521460",
         "show_timestamp": 1748395800,
-        "status": "estimated",
+        "status": "actual",
         "summary": "After learning his childhood home has finally been sold, Peter and the gang plan on breaking in to retrieve Peter's old porn video collection.",
         "summary_listings": "After learning his childhood home has finally been sold, Peter and the gang plan on breaking in to retrieve Peter's old porn video collection.",
         "summary_long": "After learning his childhood home has finally been sold after his mother's death, Peter and the gang plan on breaking in to retrieve Peter's old porn video collection.",
@@ -6331,6 +6425,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -6349,8 +6444,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1748397600,
-        "last_time_machine_update": 1748306073459,
-        "last_update": 1748306073459,
+        "last_time_machine_update": 1748397649501,
+        "last_update": 1748397649501,
         "live": false,
         "paid": "271159.006.01.851",
         "participants": [
@@ -6392,7 +6487,7 @@
         "season_number": "14",
         "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
         "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
-        "serial": 1748306073459,
+        "serial": 1748397649501,
         "series_id": "440990",
         "series_name": "Family Guy",
         "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
@@ -6400,8 +6495,8 @@
         "show_duration": 1800,
         "show_id": "276521470",
         "show_timestamp": 1748397600,
-        "status": "estimated",
-        "summary": "Peter's estranged sister Karen shows up to the Griffin family's Thanksgiving dinner, and Joe, Cleveland and Quagmire realize she is the famous wrestler, Heavy Flo.",
+        "status": "current",
+        "summary": "Joe, Cleveland and Quagmire realize Peter's estranged sister is the famous wrestler, Heavy Flo.",
         "summary_listings": "Joe, Cleveland and Quagmire realize Peter's estranged sister is the famous wrestler, Heavy Flo.",
         "summary_long": "Peter's estranged sister, Karen, shows up to the Griffin family's Thanksgiving dinner, and Joe, Cleveland and Quagmire realize she is the famous wrestler, Heavy Flo.",
         "summary_main": "Peter's estranged sister, Karen, shows up to the Griffin family's Thanksgiving dinner, and Joe, Cleveland and Quagmire realize she is the famous wrestler, Heavy Flo.",
