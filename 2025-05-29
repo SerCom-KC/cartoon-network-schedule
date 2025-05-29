@@ -5910,8 +5910,8 @@
             "Drama"
         ],
         "guide_timestamp": 1748557800,
-        "last_time_machine_update": 1748557836636,
-        "last_update": 1748557836636,
+        "last_time_machine_update": 1748559611404,
+        "last_update": 1748559611404,
         "live": false,
         "paid": "233052.013.02.851",
         "participants": [],
@@ -5925,13 +5925,13 @@
         "season_id": "1536",
         "season_name": "King of the Hill (Season 3)",
         "season_number": "3",
-        "serial": 1748557836636,
+        "serial": 1748559611403,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
         "show_id": "276529582",
         "show_timestamp": 1748557800,
-        "status": "current",
+        "status": "actual",
         "summary": "Hank inadvertently causes Kahn to lose his job.",
         "summary_listings": "Hank inadvertently causes Kahn to lose his job.",
         "summary_long": "Hank inadvertently causes Kahn to lose his job.",
@@ -5941,6 +5941,100 @@
         "title_id": "731255",
         "tv_rating": "TV-PG",
         "upid": "DISC233052-013",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_020_01_851",
+        "create_time": 1748559641687,
+        "episode_in_season": "20",
+        "episode_number": "S18:E20",
+        "external_id": "232841-020-851-1748559600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1748559600,
+        "last_time_machine_update": 1748559641687,
+        "last_update": 1748559641687,
+        "live": false,
+        "paid": "232841.020.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1748559600,
+        "season_id": "25259",
+        "season_name": "American Dad",
+        "season_number": "18",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1748559641686,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276529592",
+        "show_timestamp": 1748559600,
+        "status": "current",
+        "summary": "In order to have a chance with a girl, Steve and Snot must track down a keg of 4Loko.",
+        "summary_listings": "In order to have a chance with a girl, Steve and Snot must track down a keg of 4Loko.",
+        "summary_long": "In order to have a chance with a girl, Steve and Snot must track down a keg of 4Loko.",
+        "summary_main": "In order to have a chance with a girl, Steve and Snot must track down a keg of 4Loko.",
+        "summary_short": "To have a chance with a girl, Steve and Snot track down a keg of 4Loko.",
+        "title": "Steve, Snot, and the Quest for the Og 4LOCO",
+        "title_id": "2408660",
+        "tv_rating": "TV-14",
+        "upid": "DISC232841-020",
         "upid_type": 12
     },
     {
