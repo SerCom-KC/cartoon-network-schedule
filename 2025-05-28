@@ -5821,6 +5821,100 @@
     },
     {
         "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232841_019_01_851",
+        "create_time": 1748476812333,
+        "episode_in_season": "19",
+        "episode_number": "S18:E18",
+        "external_id": "232841-019-851-1748475000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy",
+            "Adult Animation"
+        ],
+        "guide_timestamp": 1748475000,
+        "last_time_machine_update": 1748476812333,
+        "last_update": 1748476812333,
+        "live": false,
+        "paid": "232841.019.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1748475000,
+        "season_id": "25259",
+        "season_name": "American Dad",
+        "season_number": "18",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1748476812333,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276525506",
+        "show_timestamp": 1748475000,
+        "status": "actual",
+        "summary": "Stan and Roger go on a mission to leave their mark on humanity; Jeff finally deals with the reality of losing his signature hat.",
+        "summary_listings": "Stan and Roger go on a mission to leave their mark on humanity. Then, Jeff finally deals with the reality of losing his signature hat.",
+        "summary_long": "Stan and Roger go on a mission to leave their mark on humanity. Then, Jeff finally deals with the reality of losing his signature hat.",
+        "summary_main": "Stan and Roger go on a mission to leave their mark on humanity. Then, Jeff finally deals with the reality of losing his signature hat.",
+        "summary_short": "Stan and Roger go on a mission to leave their mark on humanity.",
+        "title": "Footprints",
+        "title_id": "2399410",
+        "tv_rating": "TV-14",
+        "upid": "DISC232841-019",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
         "cc": true,
         "content_advisories": [
             "L"
@@ -5838,8 +5932,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1748476800,
-        "last_time_machine_update": 1748385314915,
-        "last_update": 1748385314915,
+        "last_time_machine_update": 1748478613470,
+        "last_update": 1748478613470,
         "live": false,
         "paid": "250266.005.02.851",
         "participants": [
@@ -5861,7 +5955,7 @@
         "season_number": "12",
         "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
         "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
-        "serial": 1748385314912,
+        "serial": 1748478613470,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
@@ -5869,7 +5963,7 @@
         "show_duration": 1800,
         "show_id": "276525516",
         "show_timestamp": 1748476800,
-        "status": "estimated",
+        "status": "actual",
         "summary": "Gene has a freak-out about growing up and desperately tries to relive his youth. Meanwhile, Linda is tempted to try a fancy new hair salon.",
         "summary_listings": "Gene has a freak-out about growing up and desperately tries to relive his youth. Meanwhile, Linda is tempted to try a fancy new hair salon.",
         "summary_long": "Gene has a freak-out about growing up and desperately tries to relive his youth. Meanwhile, Linda is tempted to try the fancy new hair salon that opened up next to Bob's Burgers, but she's scared of her hairdresser-slash-friend Gretchen's wrath.",
@@ -5900,8 +5994,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1748478600,
-        "last_time_machine_update": 1748385314912,
-        "last_update": 1748385314912,
+        "last_time_machine_update": 1748480443974,
+        "last_update": 1748480443974,
         "live": false,
         "paid": "250266.006.02.851",
         "participants": [
@@ -5923,7 +6017,7 @@
         "season_number": "12",
         "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
         "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
-        "serial": 1748385314912,
+        "serial": 1748480443973,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
@@ -5931,7 +6025,7 @@
         "show_duration": 1800,
         "show_id": "276525526",
         "show_timestamp": 1748478600,
-        "status": "estimated",
+        "status": "actual",
         "summary": "When the Belcher kids participate in a beach clean-up for Wagstaff Volunteer Day, Louise gets drawn into a battle of wits with Mr. Fischoeder.",
         "summary_listings": "When the Belcher kids participate in a beach clean-up for Wagstaff Volunteer Day, Louise gets drawn into a battle of wits with Mr. Fischoeder.",
         "summary_long": "When the Belcher kids participate in a beach clean-up for Wagstaff Volunteer Day, Louise gets drawn into a battle of wits with Mr. Fischoeder. Meanwhile, Teddy surprises Bob and Linda with a new look.",
@@ -5961,8 +6055,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1748480400,
-        "last_time_machine_update": 1748388594768,
-        "last_update": 1748388594768,
+        "last_time_machine_update": 1748482207458,
+        "last_update": 1748482207458,
         "live": false,
         "paid": "250266.007.02.851",
         "participants": [
@@ -5984,7 +6078,7 @@
         "season_number": "12",
         "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
         "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
-        "serial": 1748388594768,
+        "serial": 1748482207458,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
@@ -5992,7 +6086,7 @@
         "show_duration": 1800,
         "show_id": "276525536",
         "show_timestamp": 1748480400,
-        "status": "estimated",
+        "status": "actual",
         "summary": "Linda and the girls try to build a loft bed for Louise in just one day. Meanwhile, Bob and Gene host a group of gamers and their role-playing game.",
         "summary_listings": "Linda and the girls try to build a loft bed for Louise in just one day. Meanwhile, Bob and Gene host a group of gamers and their role-playing game.",
         "summary_long": "Linda and the girls attempt to build a loft bed for Louise in just one day. Meanwhile, Bob and Gene host a group of gamers and their tabletop role-playing game.",
@@ -6025,8 +6119,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1748482200,
-        "last_time_machine_update": 1748388974967,
-        "last_update": 1748388974967,
+        "last_time_machine_update": 1748482237651,
+        "last_update": 1748482237651,
         "live": false,
         "paid": "271159.009.01.851",
         "participants": [
@@ -6068,7 +6162,7 @@
         "season_number": "14",
         "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
         "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
-        "serial": 1748388974967,
+        "serial": 1748482237651,
         "series_id": "440990",
         "series_name": "Family Guy",
         "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
@@ -6076,7 +6170,7 @@
         "show_duration": 1800,
         "show_id": "276525546",
         "show_timestamp": 1748482200,
-        "status": "estimated",
+        "status": "current",
         "summary": "Peter gets arrested and charged with a hate crime after he shoots an intruder climbing into Cleveland's house.",
         "summary_listings": "Peter gets arrested and charged with a hate crime after he shoots an intruder climbing into Cleveland's house.",
         "summary_long": "Peter gets arrested and charged with a hate crime after he shoots an intruder climbing into Cleveland's house.",
