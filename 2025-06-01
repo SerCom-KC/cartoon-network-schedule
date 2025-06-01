@@ -987,8 +987,8 @@
             "Fantasy"
         ],
         "guide_timestamp": 1748766600,
-        "last_time_machine_update": 1748766644458,
-        "last_update": 1748766644458,
+        "last_time_machine_update": 1748768412000,
+        "last_update": 1748768412000,
         "live": false,
         "paid": "233062.003.01.851",
         "participants": [],
@@ -1003,7 +1003,7 @@
         "season_name": "Futurama (Season 10)",
         "season_number": "10",
         "season_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
-        "serial": 1748766644458,
+        "serial": 1748768411999,
         "series_id": "437532",
         "series_name": "Futurama",
         "series_summary": "After being frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
@@ -1011,7 +1011,7 @@
         "show_duration": 1800,
         "show_id": "276537864",
         "show_timestamp": 1748766600,
-        "status": "current",
+        "status": "actual",
         "summary": "After being marooned on an distant planet, Fry is befriended by a young monster.",
         "summary_listings": "After being marooned on an distant planet, Fry is befriended by a young monster.",
         "summary_long": "After being marooned on an distant planet, Fry is befriended by a young monster.",
@@ -1025,7 +1025,9 @@
     {
         "blackout_type": "none",
         "cc": true,
-        "content_advisories": [],
+        "content_advisories": [
+            "L"
+        ],
         "content_id": "233072_007_03_851",
         "create_time": 1748676024048,
         "episode_in_season": "7",
@@ -1040,8 +1042,8 @@
             "Science Fiction"
         ],
         "guide_timestamp": 1748768400,
-        "last_time_machine_update": 1748676024048,
-        "last_update": 1748676024048,
+        "last_time_machine_update": 1748768411999,
+        "last_update": 1748768411999,
         "live": false,
         "paid": "233072.007.03.851",
         "participants": [
@@ -1113,7 +1115,7 @@
         "season_number": "1",
         "season_summary": "After being frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
         "season_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
-        "serial": 1748676024048,
+        "serial": 1748768411999,
         "series_id": "437532",
         "series_name": "Futurama",
         "series_summary": "After being frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
@@ -1121,7 +1123,7 @@
         "show_duration": 1800,
         "show_id": "276537874",
         "show_timestamp": 1748768400,
-        "status": "estimated",
+        "status": "current",
         "summary": "Leela must rescue Fry from execution on an alien planet.",
         "summary_listings": "Leela must rescue Fry from execution on an alien planet.",
         "summary_long": "Leela must rescue Fry from execution on an alien planet.",
@@ -1129,7 +1131,7 @@
         "summary_short": "Leela must rescue Fry from execution on an alien planet.",
         "title": "My Three Suns",
         "title_id": "437539",
-        "tv_rating": "TV-14",
+        "tv_rating": "TV-PG",
         "upid": "DISC233072-007",
         "upid_type": 12
     },
