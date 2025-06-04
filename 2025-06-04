@@ -20,8 +20,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1749009600,
-        "last_time_machine_update": 1748916253188,
-        "last_update": 1748916253188,
+        "last_time_machine_update": 1749000632937,
+        "last_update": 1749000632937,
         "live": false,
         "paid": "251794.005.03.851",
         "participants": [
@@ -93,14 +93,14 @@
         "season_number": "5",
         "season_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
         "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
-        "serial": 1748916253188,
+        "serial": 1749000632931,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
         "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
         "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
         "show_duration": 1800,
         "show_id": "276550192",
-        "show_timestamp": 1749009600,
+        "show_timestamp": 1749009601,
         "status": "estimated",
         "summary": "Adults 'r' gone tonight, broh. Grab the keys.",
         "summary_listings": "Adults 'r' gone tonight, broh. Grab the keys.",
@@ -320,6 +320,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -338,8 +339,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1749013200,
-        "last_time_machine_update": 1748919675656,
-        "last_update": 1748919675656,
+        "last_time_machine_update": 1748997966981,
+        "last_update": 1748997966981,
         "live": false,
         "paid": "251918.008.02.851",
         "participants": [
@@ -491,7 +492,7 @@
         "season_number": "2",
         "season_summary": "A half-hour animated comedy series created by Jason Ruiz.",
         "season_summary_long": "Royal Crackers is a half-hour animated comedy series created by Jason Ruiz, who also serves as executive producer along with Seth Cohen (The Last Man on Earth, Hoops). The series is produced by Titmouse.",
-        "serial": 1748919675656,
+        "serial": 1748997966980,
         "series_id": "2388924",
         "series_name": "Royal Crackers",
         "series_summary": "A half-hour animated comedy series created by Jason Ruiz.",
@@ -513,6 +514,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -531,8 +533,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1749015000,
-        "last_time_machine_update": 1748921516751,
-        "last_update": 1748921516751,
+        "last_time_machine_update": 1748997954809,
+        "last_update": 1748997954809,
         "live": false,
         "paid": "271160.006.01.851",
         "participants": [
@@ -574,7 +576,7 @@
         "season_number": "9",
         "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
         "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
-        "serial": 1748921516751,
+        "serial": 1748997954808,
         "series_id": "440990",
         "series_name": "Family Guy",
         "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
@@ -6595,6 +6597,285 @@
         "title_id": "2105388",
         "tv_rating": "TV-14",
         "upid": "DISC271162-009",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271160_020_01_851",
+        "create_time": 1748995752452,
+        "episode_in_season": "20",
+        "episode_number": "S9:E20",
+        "external_id": "271160-020-851-1749088800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1749088800,
+        "last_time_machine_update": 1748995752452,
+        "last_update": 1748995752452,
+        "live": false,
+        "paid": "271160.020.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 60,
+        "scheduled_duration": 3600,
+        "scheduled_timestamp": 1749088800,
+        "season_id": "998",
+        "season_name": "Family Guy",
+        "season_number": "9",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1748995752452,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 3600,
+        "show_id": "276554288",
+        "show_timestamp": 1749088800,
+        "status": "estimated",
+        "summary": "Some vacations are to die for.",
+        "summary_listings": "Some vacations are to die for.",
+        "summary_long": "Some vacations are to die for.",
+        "summary_main": "Some vacations are to die for.",
+        "summary_short": "Some vacations are to die for.",
+        "title": "And Then There Were Fewer",
+        "title_id": "821792",
+        "tv_rating": "TV-14",
+        "upid": "DISC271160-020",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271162_012_01_851",
+        "create_time": 1748999251114,
+        "episode_in_season": "12",
+        "episode_number": "S15:E12",
+        "external_id": "271162-012-851-1749092400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1749092400,
+        "last_time_machine_update": 1748999251114,
+        "last_update": 1748999251114,
+        "live": false,
+        "paid": "271162.012.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1749092400,
+        "season_id": "10564",
+        "season_name": "Family Guy",
+        "season_number": "15",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1748999251113,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276554298",
+        "show_timestamp": 1749092400,
+        "status": "estimated",
+        "summary": "Peter accidentally plays multiple songs and is mistaken for a DJ by a club owner.",
+        "summary_listings": "Peter accidentally plays multiple songs and is mistaken for a DJ by a club owner.",
+        "summary_long": "Peter, Joe, Cleveland and Quagmire want to do an activity together, so they decide to start a podcast. After a horrendous start, Peter accidentally plays multiple songs and is mistaken for a DJ by a club owner.",
+        "summary_main": "Peter, Joe, Cleveland and Quagmire want to do an activity together, so they decide to start a podcast. After a horrendous start, Peter accidentally plays multiple songs and is mistaken for a DJ by a club owner.",
+        "summary_short": "Peter accidentally plays multiple songs and is mistaken for a DJ.",
+        "title": "Peter's Def Jam",
+        "title_id": "2105391",
+        "tv_rating": "TV-14",
+        "upid": "DISC271162-012",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251794_006_03_851",
+        "create_time": 1749001597609,
+        "episode_in_season": "6",
+        "episode_number": "S5:E06",
+        "external_id": "251794-006-851-1749094200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "guide_timestamp": 1749094200,
+        "last_time_machine_update": 1749001597609,
+        "last_update": 1749001597609,
+        "live": false,
+        "paid": "251794.006.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Wesley Archer",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Ryan Elder",
+                "role": "music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1749094200,
+        "season_id": "17487",
+        "season_name": "Rick and Morty",
+        "season_number": "5",
+        "season_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "serial": 1749001597608,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276554308",
+        "show_timestamp": 1749094200,
+        "status": "estimated",
+        "summary": "Gobble gobble, broh. Rick and Morty givin' thanks in this one.",
+        "summary_listings": "Gobble gobble, broh. Rick and Morty givin' thanks in this one.",
+        "summary_long": "Gobble gobble, broh. Rick and Morty givin' thanks in this one.",
+        "summary_main": "Gobble gobble, broh. Rick and Morty givin' thanks in this one.",
+        "summary_short": "Gobble gobble, broh. Rick and Morty givin' thanks in this one.",
+        "title": "Rick and Morty's Thanksploitation Spectacular",
+        "title_id": "2270464",
+        "tv_rating": "TV-14",
+        "upid": "DISC251794-006",
         "upid_type": 12
     }
 ]
