@@ -294,7 +294,10 @@
     },
     {
         "blackout_type": "none",
-        "content_advisories": [],
+        "content_advisories": [
+            "L",
+            "V"
+        ],
         "content_id": "275073_004_02_851",
         "create_time": 1749265817943,
         "episode_in_season": "4",
@@ -311,8 +314,8 @@
             "Supernatural"
         ],
         "guide_timestamp": 1749358800,
-        "last_time_machine_update": 1749265817943,
-        "last_update": 1749265817943,
+        "last_time_machine_update": 1749344445340,
+        "last_update": 1749344445340,
         "live": false,
         "paid": "275073.004.02.851",
         "participants": [
@@ -409,7 +412,7 @@
         "season_number": "2",
         "season_summary": "The spawn of Satan, Rin Okumura enrolls into Exorcism Cram School.",
         "season_summary_long": "Born the spawn of Satan, Rin Okumura decides to hide his origins, become an exorcist and enroll at the Exorcism Cram School. His cover is blown during an attack by Amaimon, and he is revealed to be the son of Satan.",
-        "serial": 1749265817943,
+        "serial": 1749344445339,
         "series_id": "2012528",
         "series_name": "Blue Exorcist",
         "series_summary": "A boy learns he is the son of Satan and vows to defeat his father.",
@@ -431,7 +434,9 @@
     },
     {
         "blackout_type": "none",
-        "content_advisories": [],
+        "content_advisories": [
+            "V"
+        ],
         "content_id": "251121_103_02_851",
         "create_time": 1749267385290,
         "episode_in_season": "103",
@@ -448,8 +453,8 @@
             "Fantasy"
         ],
         "guide_timestamp": 1749360600,
-        "last_time_machine_update": 1749267385290,
-        "last_update": 1749267385290,
+        "last_time_machine_update": 1749344983023,
+        "last_update": 1749344983023,
         "live": false,
         "paid": "251121.103.02.851",
         "participants": [
@@ -476,7 +481,7 @@
         "season_number": "17",
         "season_summary": "Monkey D. Luffy wants to become the King of all pirates.",
         "season_summary_long": "Monkey D. Luffy wants to become the King of all pirates. He and his gang set sail to unknown seas in Grand Line to find the treasure of One Piece.",
-        "serial": 1749267385289,
+        "serial": 1749344983023,
         "series_id": "608007",
         "series_name": "One Piece",
         "series_summary": "Monkey D. Luffy wants to become the King of all pirates.",
@@ -492,7 +497,7 @@
         "summary_short": "All of Dressrosa turns their efforts towards slowing down the Birdcage.",
         "title": "As Long as We Breathe! Stop the Deadly Birdcage!",
         "title_id": "2550976",
-        "tv_rating": "TV-PG",
+        "tv_rating": "TV-14",
         "upid": "DISC251121-103",
         "upid_type": 12
     },
@@ -5263,6 +5268,618 @@
         "title_id": "2539798",
         "tv_rating": "TV-14",
         "upid": "DISC271161-007",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271161_008_02_851",
+        "create_time": 1749341591770,
+        "episode_in_season": "8",
+        "episode_number": "S17:E08",
+        "external_id": "271161-008-851-1749434400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1749434400,
+        "last_time_machine_update": 1749341591770,
+        "last_update": 1749341591770,
+        "live": false,
+        "paid": "271161.008.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1749434400,
+        "season_id": "31521",
+        "season_name": "Family Guy",
+        "season_number": "17",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1749341591770,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276570462",
+        "show_timestamp": 1749434400,
+        "status": "estimated",
+        "summary": "Stewie and Brian compete for the inheritance of a wealthy, older heiress. Meanwhile, Peter and Chris battle for Mr. Herbert\u2019s affection.",
+        "summary_listings": "Stewie and Brian compete for the inheritance of a wealthy, older heiress. Meanwhile, Peter and Chris battle for Mr. Herbert\u2019s affection.",
+        "summary_long": "Stewie and Brian compete for the inheritance of a wealthy, older heiress. Meanwhile, Peter and Chris battle for Mr. Herbert\u2019s affection.",
+        "summary_main": "Stewie and Brian compete for the inheritance of a wealthy, older heiress. Meanwhile, Peter and Chris battle for Mr. Herbert\u2019s affection.",
+        "summary_short": "Stewie and Brian compete for the inheritance of a wealthy, older heiress.",
+        "title": "Con Heiress",
+        "title_id": "2539799",
+        "tv_rating": "TV-14",
+        "upid": "DISC271161-008",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "280453_009_02_851",
+        "create_time": 1749344983024,
+        "episode_in_season": "9",
+        "episode_number": "S8:E09",
+        "external_id": "280453-009-851-1749436200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "guide_timestamp": 1749436200,
+        "last_time_machine_update": 1749344983024,
+        "last_update": 1749344983024,
+        "live": false,
+        "paid": "280453.009.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Scott Marder",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Steve Levy",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Albro Lundy",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Monica Mitchell",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "James Siciliano",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Heather Anne Campbell",
+                "role": "coexecutive-producer"
+            },
+            {
+                "character": "",
+                "name": "Nicholas Rutherford",
+                "role": "coexecutive-producer"
+            },
+            {
+                "character": "",
+                "name": "Rob Schrab",
+                "role": "coexecutive-producer"
+            },
+            {
+                "character": "",
+                "name": "Anthony Alfonso",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Suzanne Belk",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Jess Lacher",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Beth Stelling",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "creator"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rick Sanchez",
+                "name": "Ian Cardoni",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Morty Smith",
+                "name": "Harry Belden",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Scott Marder",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Jacob Hair",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Stephen Root",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Eric Bauza",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Greg Chun",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Lee Harting",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Echo Kellum",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Nolan North",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Nick Reczynski",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Ryan Ridley",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Rob Schrab",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Kari Wahlgren",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1749436200,
+        "season_id": "27324",
+        "season_name": "Rick and Morty",
+        "season_number": "8",
+        "season_summary": "Rick and Morty is back for Season 8! Life has meaning again!",
+        "season_summary_long": "Rick and Morty is back for Season 8! Life has meaning again! Anything is possible! Look out for adventures with Summer, Jerry, Beth, and the other Beth. Maybe Butter Bot will get a new task? Whatever happens, you can't keep Rick and Morty down for long.",
+        "serial": 1749344983023,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276570472",
+        "show_timestamp": 1749436200,
+        "status": "estimated",
+        "summary": "Space Beth calls her dad for a ride, broh.",
+        "summary_listings": "Space Beth calls her dad for a ride, broh.",
+        "summary_long": "Space Beth calls her dad for a ride, broh.",
+        "summary_main": "Space Beth calls her dad for a ride, broh.",
+        "summary_short": "Space Beth calls her dad for a ride, broh.",
+        "title": "Valkyrick",
+        "title_id": "2555959",
+        "tv_rating": "TV-14",
+        "upid": "DISC280453-009",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "280453_003_02_851",
+        "create_time": 1749344983024,
+        "episode_in_season": "3",
+        "episode_number": "S8:E03",
+        "external_id": "280453-003-851-1749438000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "guide_timestamp": 1749438000,
+        "last_time_machine_update": 1749344983024,
+        "last_update": 1749344983024,
+        "live": false,
+        "paid": "280453.003.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Scott Marder",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Steve Levy",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Albro Lundy",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Monica Mitchell",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "James Siciliano",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Heather Anne Campbell",
+                "role": "coexecutive-producer"
+            },
+            {
+                "character": "",
+                "name": "Nicholas Rutherford",
+                "role": "coexecutive-producer"
+            },
+            {
+                "character": "",
+                "name": "Rob Schrab",
+                "role": "coexecutive-producer"
+            },
+            {
+                "character": "",
+                "name": "Anthony Alfonso",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Suzanne Belk",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Jess Lacher",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Beth Stelling",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "creator"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rick Sanchez",
+                "name": "Ian Cardoni",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Morty Smith",
+                "name": "Harry Belden",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Albro Lundy",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "James Siciliano",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Michael Kellner",
+                "role": "writer"
+            },
+            {
+                "character": "",
+                "name": "Brian Kaufman",
+                "role": "director"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1749438000,
+        "season_id": "27324",
+        "season_name": "Rick and Morty",
+        "season_number": "8",
+        "season_summary": "Rick and Morty is back for Season 8! Life has meaning again!",
+        "season_summary_long": "Rick and Morty is back for Season 8! Life has meaning again! Anything is possible! Look out for adventures with Summer, Jerry, Beth, and the other Beth. Maybe Butter Bot will get a new task? Whatever happens, you can't keep Rick and Morty down for long.",
+        "serial": 1749344983023,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276570482",
+        "show_timestamp": 1749438000,
+        "status": "estimated",
+        "summary": "Some guys wanna rebuild the citadel, broh. Seems like a bad idea, broh. Yeehaw stuff, broh.",
+        "summary_listings": "Some guys wanna rebuild the citadel, broh. Seems like a bad idea, broh. Yeehaw stuff, broh.",
+        "summary_long": "Some guys wanna rebuild the citadel, broh. Seems like a bad idea, broh. Yeehaw stuff, broh.",
+        "summary_main": "Some guys wanna rebuild the citadel, broh. Seems like a bad idea, broh. Yeehaw stuff, broh.",
+        "summary_short": "Some guys wanna rebuild the citadel, broh. Seems like a bad idea, broh.",
+        "title": "The Rick, The Mort & The Ugly",
+        "title_id": "2555953",
+        "tv_rating": "TV-MA",
+        "upid": "DISC280453-003",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251794_010_02_851",
+        "create_time": 1749347658605,
+        "episode_in_season": "10",
+        "episode_number": "S5:E10",
+        "external_id": "251794-010-851-1749439800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "guide_timestamp": 1749439800,
+        "last_time_machine_update": 1749347658605,
+        "last_update": 1749347658605,
+        "live": false,
+        "paid": "251794.010.02.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Wesley Archer",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Ryan Elder",
+                "role": "music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1749439800,
+        "season_id": "17487",
+        "season_name": "Rick and Morty",
+        "season_number": "5",
+        "season_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "serial": 1749347658605,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in and establishes himself as a bad influence on his grandson.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "276570492",
+        "show_timestamp": 1749439800,
+        "status": "estimated",
+        "summary": "Tryin' something new, broh. Doin' it big.",
+        "summary_listings": "Tryin' something new, broh. Doin' it big.",
+        "summary_long": "Tryin' something new, broh. Doin' it big.",
+        "summary_main": "Tryin' something new, broh. Doin' it big.",
+        "summary_short": "Tryin' something new, broh. Doin' it big.",
+        "title": "Rickmurai Jack",
+        "title_id": "2270467",
+        "tv_rating": "TV-14",
+        "upid": "DISC251794-010",
         "upid_type": 12
     }
 ]
