@@ -6243,5 +6243,88 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169771-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169771_005_02_851",
+        "create_time": 1749508450954,
+        "episode_in_season": "5",
+        "episode_number": "S3:E05",
+        "external_id": "169771-005-851-1749601800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1749601800,
+        "last_time_machine_update": 1749508450954,
+        "last_update": 1749508450954,
+        "live": false,
+        "paid": "169771.005.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1749601800,
+        "season_id": "7298",
+        "season_name": "Bob's Burgers",
+        "season_number": "3",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1749508450954,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276578794",
+        "show_timestamp": 1749601800,
+        "status": "estimated",
+        "summary": "Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever.",
+        "summary_listings": "Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever.",
+        "summary_long": "Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder needs to hire Bob as his chef, and Linda and the kids as his family.",
+        "summary_main": "Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder needs to hire Bob as his chef, and Linda and the kids as his family to stage the perfect Thanksgiving dinner and make a former flame jealous.",
+        "summary_short": "This year he is determined to have the most memorable Thanksgiving ever.",
+        "title": "An Indecent Thanksgiving Proposal",
+        "title_id": "2003516",
+        "tv_rating": "TV-14",
+        "upid": "DISC169771-005",
+        "upid_type": 12
     }
 ]
