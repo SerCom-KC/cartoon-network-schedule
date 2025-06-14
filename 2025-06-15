@@ -2804,5 +2804,92 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228540-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228540_005_03_851",
+        "create_time": 1749915675406,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "228540-005-851-1750008600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ben 10",
+        "genres": [
+            "Action",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1750008600,
+        "last_time_machine_update": 1749915675406,
+        "last_update": 1749915675406,
+        "live": false,
+        "paid": "228540.005.03.851",
+        "participants": [
+            {
+                "character": "Ben Tennyson",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gwen Tennyson",
+                "name": "Meagan Smith",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Maxwell Tennyson",
+                "name": "Paul Eiding",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Alex Soto",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Scooter Tidwell",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sebastian Montes",
+                "role": "director"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1750008600,
+        "season_id": "1529",
+        "season_name": "Ben 10",
+        "season_number": "1",
+        "season_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "season_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of ten spectacular and powerful aliens.",
+        "serial": 1749915675406,
+        "series_id": "629690",
+        "series_name": "Ben 10",
+        "series_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "series_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of 10 spectacular and powerful aliens.",
+        "show_duration": 1800,
+        "show_id": "276598934",
+        "show_timestamp": 1750008600,
+        "status": "estimated",
+        "summary": "Three alien bounty hunters are hot on Ben's trail, but one of them is a secret agent trying to make sure the Omnitrix does not fall into evil hands.",
+        "summary_listings": "Three alien bounty hunters are hot on Ben's trail, but one of them is a secret agent trying to make sure the Omnitrix does not fall into evil hands.",
+        "summary_long": "Three alien bounty hunters are hot on Ben's trail, but one of them is a secret agent trying to make sure the Omnitrix does not fall into evil hands.",
+        "summary_main": "Three alien bounty hunters are hot on Ben's trail, but one of them is a secret agent trying to make sure the Omnitrix does not fall into evil hands.",
+        "summary_short": "Three alien bounty hunters are hot on Ben's trail.",
+        "title": "Hunted",
+        "title_id": "630206",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228540-005",
+        "upid_type": 12
     }
 ]
