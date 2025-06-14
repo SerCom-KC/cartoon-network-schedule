@@ -5656,12 +5656,14 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "S"
         ],
         "content_id": "271171_002_02_851",
         "create_time": 1749857991681,
+        "dvs": true,
         "episode_in_season": "2",
         "episode_number": "S5:E02",
         "external_id": "271171-002-851-1749951000",
@@ -5672,8 +5674,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1749951000,
-        "last_time_machine_update": 1749857991681,
-        "last_update": 1749857991681,
+        "last_time_machine_update": 1749928881886,
+        "last_update": 1749928881886,
         "live": false,
         "paid": "271171.002.02.851",
         "participants": [
@@ -5715,7 +5717,7 @@
         "season_number": "5",
         "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
         "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
-        "serial": 1749857991680,
+        "serial": 1749928881881,
         "series_id": "440990",
         "series_name": "Family Guy",
         "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",

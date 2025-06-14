@@ -143,7 +143,10 @@
     },
     {
         "blackout_type": "none",
-        "content_advisories": [],
+        "content_advisories": [
+            "L",
+            "V"
+        ],
         "content_id": "272139_001_02_851",
         "create_time": 1749868824244,
         "episode_in_season": "1",
@@ -156,8 +159,8 @@
             "Action"
         ],
         "guide_timestamp": 1749961800,
-        "last_time_machine_update": 1749868824244,
-        "last_update": 1749868824244,
+        "last_time_machine_update": 1749928880249,
+        "last_update": 1749928880249,
         "live": false,
         "paid": "272139.001.02.851",
         "participants": [
@@ -214,7 +217,7 @@
         "season_number": "1",
         "season_summary": "Go on an adventure with Goku (Mini) and company who have been turned small.",
         "season_summary_long": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm,\" a mysterious young Majin named Glorio appears.",
-        "serial": 1749868824244,
+        "serial": 1749928880248,
         "series_id": "2566519",
         "series_name": "Dragon Ball Daima",
         "series_summary": "Go on an adventure with Goku (Mini) and company who have been turned small.",
@@ -230,7 +233,7 @@
         "summary_short": "Goku's fierce battle is watched from afar, and a sinister plan unfolds.",
         "title": "Conspiracy",
         "title_id": "2566520",
-        "tv_rating": "TV-Y7-FV",
+        "tv_rating": "TV-PG",
         "upid": "DISC272139-001",
         "upid_type": 12
     },
