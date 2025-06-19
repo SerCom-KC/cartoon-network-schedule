@@ -591,5 +591,91 @@
         "tv_rating": "TV-14",
         "upid": "DISC271173-016",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "169734_002_02_851",
+        "create_time": 1750308582829,
+        "episode_in_season": "2",
+        "episode_number": "S7:E02",
+        "external_id": "169734-002-851-1750401000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1750401000,
+        "last_time_machine_update": 1750308582829,
+        "last_update": 1750308582829,
+        "live": false,
+        "paid": "169734.002.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1750401000,
+        "season_id": "12008",
+        "season_name": "Bob's Burgers",
+        "season_number": "7",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1750308582829,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276615758",
+        "show_timestamp": 1750401000,
+        "status": "estimated",
+        "summary": "Teddy organizes a day trip on his refurbished boat in an effort to impress his ex-wife, Denise.",
+        "summary_listings": "Teddy organizes a day trip on his refurbished boat in an effort to impress his ex-wife, Denise.",
+        "summary_long": "Teddy organizes a day trip on his refurbished boat in an effort to impress his ex-wife, Denise. Meanwhile, Tina attempts to show that she is responsible enough for a cell phone by taking care of Bob's chalkboard eraser from the restaurant.",
+        "summary_main": "Teddy organizes a day trip on his newly refurbished boat in an effort to impress his ex-wife, Denise. Meanwhile, Tina attempts to show that she is responsible enough for a cell phone by taking care of Bob's prized chalkboard eraser from the restaurant. Can both Teddy and Tina prove themselves?",
+        "summary_short": "Teddy organizes a day trip on his refurbished boat.",
+        "title": "Sea Me Now",
+        "title_id": "2132972",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169734-002",
+        "upid_type": 12
     }
 ]
