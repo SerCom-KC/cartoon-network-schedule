@@ -6361,5 +6361,87 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169687-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271170_006_03_851",
+        "create_time": 1750808368865,
+        "episode_in_season": "6",
+        "episode_number": "S7:E06",
+        "external_id": "271170-006-851-1750901400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1750901400,
+        "last_time_machine_update": 1750808368865,
+        "last_update": 1750808368865,
+        "live": false,
+        "paid": "271170.006.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1750901400,
+        "season_id": "996",
+        "season_name": "Family Guy",
+        "season_number": "7",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1750808368865,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276640234",
+        "show_timestamp": 1750901400,
+        "status": "estimated",
+        "summary": "Peter is forced to go back to the third grade to try and qualify for a promotion at work. Meanwhile, Brian opens a bar with Frank Sinatra Jr.",
+        "summary_listings": "Peter is forced to go back to the third grade to try and qualify for a promotion at work. Meanwhile, Brian opens a bar with Frank Sinatra Jr.",
+        "summary_long": "Peter is forced to go back to the third grade to try and qualify for a promotion at work. Meanwhile, Brian opens a bar with Frank Sinatra Jr, where they employ Stewie to make it a hotspot.",
+        "summary_main": "Peter is forced to go back to the third grade to try and qualify for a promotion at work. Meanwhile, Brian opens a bar with Frank Sinatra Jr, where they employ Stewie to make it a hotspot.",
+        "summary_short": "Peter is forced to go back to the third grade to qualify for a promotion.",
+        "title": "Tales of a Third Grade Nothing",
+        "title_id": "730923",
+        "tv_rating": "TV-14",
+        "upid": "DISC271170-006",
+        "upid_type": 12
     }
 ]
