@@ -214,6 +214,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [],
         "content_id": "251835_004_02_851",
         "create_time": 1751252377581,
@@ -227,8 +228,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1751345100,
-        "last_time_machine_update": 1751252377581,
-        "last_update": 1751252377581,
+        "last_time_machine_update": 1751324517634,
+        "last_update": 1751324517634,
         "live": false,
         "paid": "251835.004.02.851",
         "participants": [
@@ -265,7 +266,7 @@
         "season_number": "10",
         "season_summary": "Three food items and their life together in South Jersey.",
         "season_summary_long": "Three food items and their life together in South Jersey.",
-        "serial": 1751252377577,
+        "serial": 1751324517634,
         "series_id": "340537",
         "series_name": "Aqua Teen Hunger Force",
         "series_summary": "Three food items and their life together in South Jersey.",
@@ -6320,6 +6321,91 @@
         "title_id": "2097195",
         "tv_rating": "TV-PG",
         "upid": "DISC169820-007",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271167_009_02_851",
+        "create_time": 1751324517635,
+        "dvs": true,
+        "episode_in_season": "9",
+        "episode_number": "S8:E09",
+        "external_id": "271167-009-851-1751418000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1751418000,
+        "last_time_machine_update": 1751324517635,
+        "last_update": 1751324517635,
+        "live": false,
+        "paid": "271167.009.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1751418000,
+        "season_id": "997",
+        "season_name": "Family Guy",
+        "season_number": "8",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1751324517634,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276664800",
+        "show_timestamp": 1751418000,
+        "status": "estimated",
+        "summary": "When Mr. Pewterschmidt has a heart attack, Peter takes over his business.",
+        "summary_listings": "When Mr. Pewterschmidt has a heart attack, Peter takes over his business.",
+        "summary_long": "When Mr. Pewterschmidt has a heart attack, Peter takes over his business.",
+        "summary_main": "When Mr. Pewterschmidt has a heart attack, Peter takes over his business.",
+        "summary_short": "When Mr. Pewterschmidt has a heart attack, Peter takes over his business.",
+        "title": "Business Guy",
+        "title_id": "748760",
+        "tv_rating": "TV-14",
+        "upid": "DISC271167-009",
         "upid_type": 12
     }
 ]
