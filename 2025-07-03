@@ -4868,5 +4868,73 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169820-017",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271167_019_02_851",
+        "create_time": 1751497532691,
+        "episode_in_season": "19",
+        "episode_number": "S8:E19",
+        "external_id": "271167-019-851-1751590800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1751590800,
+        "last_time_machine_update": 1751497532691,
+        "last_update": 1751497532691,
+        "live": false,
+        "paid": "271167.019.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Mila Kunis",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751590800,
+        "season_id": "997",
+        "season_number": "8",
+        "serial": 1751497532691,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "show_duration": 1800,
+        "show_id": "276672992",
+        "show_timestamp": 1751590800,
+        "status": "estimated",
+        "summary": "Peter and his friends embark on a journey to find the source of the world's dirty jokes.",
+        "title": "The Splendid Source",
+        "title_id": "748766",
+        "tv_rating": "TV-14",
+        "upid": "DISC271167-019",
+        "upid_type": 12
     }
 ]
