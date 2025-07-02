@@ -3540,58 +3540,39 @@
         "franchise_id": "489898",
         "franchise_name": "Scooby-Doo Show, The",
         "genres": [
-            "Action",
             "Comedy",
-            "History",
-            "Kids & Family",
-            "Mystery",
-            "Suspense"
+            "Mystery"
         ],
         "guide_timestamp": 1751468400,
-        "last_time_machine_update": 1751468454185,
-        "last_update": 1751468454185,
+        "last_time_machine_update": 1751471617894,
+        "last_update": 1751471617894,
         "live": false,
         "paid": "241732.016.02.851",
         "participants": [
             {
-                "character": "Freddy",
-                "name": "Frank Welker",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Daphne Blake",
-                "name": "Heather North",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Shaggy",
+                "character": "Shaggy Rogers",
                 "name": "Casey Kasem",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Scooby-Doo",
                 "name": "Don Messick",
-                "role": "voice-actor"
+                "role": "Voice"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Heather North",
+                "role": "Voice"
             },
             {
                 "character": "Velma Dinkley",
                 "name": "Patricia Stevens",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
-                "character": "",
-                "name": "Charles A. Nichols",
-                "role": "director"
-            },
-            {
-                "character": "",
-                "name": "William Hanna",
-                "role": "executive-producer"
-            },
-            {
-                "character": "",
-                "name": "Joseph Barbera",
-                "role": "executive-producer"
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "Voice"
             }
         ],
         "premiere": false,
@@ -3606,7 +3587,7 @@
         "season_number": "1",
         "season_summary": "Scooby-Doo may shiver and cower, but he always solves the mystery.",
         "season_summary_long": "A globetrotting canine Sherlock Holmes with a heart of pure cowardice, Scooby-Doo shivers and cowers, but he always solves the mystery -- with laughs. Watch out, villains! Scooby-Doo is on your trail\u2026",
-        "serial": 1751468454185,
+        "serial": 1751471617893,
         "series_id": "317041",
         "series_name": "The Scooby-Doo Show",
         "series_summary": "Scooby-Doo may shiver and cower, but he always solves the mystery.",
@@ -3614,7 +3595,7 @@
         "show_duration": 1800,
         "show_id": "276668606",
         "show_timestamp": 1751468399,
-        "status": "current",
+        "status": "actual",
         "summary": "Locked in a museum, the gang encounters the ghosts of Benedict Arnold and Aaron Burr!",
         "summary_listings": "Locked in a museum, the gang encounters the ghosts of Benedict Arnold and Aaron Burr!",
         "summary_long": "Locked in a museum, the gang encounters the ghosts of Benedict Arnold and Aaron Burr!",
@@ -3633,76 +3614,31 @@
         "content_id": "234516_001_02_851",
         "create_time": 1751385804015,
         "episode_in_season": "1",
-        "episode_number": "S3:E01",
+        "episode_number": "27",
         "external_id": "234516-001-851-1751470200",
         "feed_id": "cn-east",
         "franchise_id": "489898",
         "franchise_name": "Adventure Time",
         "genres": [
-            "Comedy",
-            "Fantasy",
-            "Kids & Family"
+            "Adventure",
+            "Animation",
+            "Children"
         ],
         "guide_timestamp": 1751470200,
-        "last_time_machine_update": 1751468431794,
-        "last_update": 1751468431794,
+        "last_time_machine_update": 1751472010308,
+        "last_update": 1751472010308,
         "live": false,
         "paid": "234516.001.02.851",
         "participants": [
             {
-                "character": "Finn the Human",
+                "character": "Finn",
                 "name": "Jeremy Shada",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
-                "character": "Jake the Dog",
+                "character": "Jake",
                 "name": "John DiMaggio",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Princess Bubblegum",
-                "name": "Hynden Walch",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Ice King",
-                "name": "Tom Kenny",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Marceline the Vampire Queen",
-                "name": "Olivia Olson",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Lumpy Space Princess",
-                "name": "Pendleton Ward",
-                "role": "voice-actor"
-            },
-            {
-                "character": "BMO",
-                "name": "Niki Yang",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Lady Rainicorn",
-                "name": "Niki Yang",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Tree Trunks",
-                "name": "Polly Lou Livingston",
-                "role": "voice-actor"
-            },
-            {
-                "character": "",
-                "name": "Larry Leichliter",
-                "role": "director"
-            },
-            {
-                "character": "",
-                "name": "Pendleton Ward",
-                "role": "creator"
+                "role": "Voice"
             }
         ],
         "premiere": false,
@@ -3717,7 +3653,7 @@
         "season_number": "3",
         "season_summary": "Unlikely heroes Finn and Jake traverse the mystical Land of Ooo.",
         "season_summary_long": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
-        "serial": 1751468431794,
+        "serial": 1751472010307,
         "series_id": "757073",
         "series_name": "Adventure Time",
         "series_summary": "Unlikely heroes Finn and Jake traverse the mystical Land of Ooo.",
@@ -3725,10 +3661,10 @@
         "show_duration": 1800,
         "show_id": "276668616",
         "show_timestamp": 1751470199,
-        "status": "estimated",
-        "summary": "King Snuggadoodle and the Huggaboopies invade Finn and Jake's tree house. Then, Finn and Jake are trapped in the arena of the Fight King.",
+        "status": "actual",
+        "summary": "King Snuggadoodle and the Huggaboopies invade Finn and Jake's tree house. Then, Finn and Jake are trapped in the arena of the Fight King and must face gladiators to set themselves free.",
         "summary_listings": "King Snuggadoodle and the Huggaboopies invade Finn and Jake's tree house. Then, Finn and Jake are trapped in the arena of the Fight King.",
-        "summary_long": "King Snuggadoodle and the Huggaboopies invade Finn and Jake's tree house. Then, Finn and Jake are trapped in the arena of the Fight King and must face gladiators to set themselves free.",
+        "summary_long": "Conquest of Cuteness: King Snuggadoodle and the Huggaboopies invade Finn and Jake's tree house./Morituri Te Salutamus: Finn and Jake are trapped in the arena of the Fight King and must face gladiators to set themselves free.",
         "summary_main": "King Snuggadoodle and the Huggaboopies invade Finn and Jake's tree house. Then, Finn and Jake are trapped in the arena of the Fight King and must face gladiators to set themselves free.",
         "summary_short": "King Snuggadoodle and the Huggaboopies invade Finn and Jake's tree house.",
         "title": "Conquest of Cuteness/Morituri Te Salutamus",
@@ -3743,76 +3679,31 @@
         "content_id": "234516_002_02_851",
         "create_time": 1751385804015,
         "episode_in_season": "2",
-        "episode_number": "S3:E02",
+        "episode_number": "28",
         "external_id": "234516-002-851-1751472000",
         "feed_id": "cn-east",
         "franchise_id": "489898",
         "franchise_name": "Adventure Time",
         "genres": [
-            "Comedy",
-            "Fantasy",
-            "Kids & Family"
+            "Adventure",
+            "Animation",
+            "Children"
         ],
         "guide_timestamp": 1751472000,
-        "last_time_machine_update": 1751468466703,
-        "last_update": 1751468466703,
+        "last_time_machine_update": 1751472010307,
+        "last_update": 1751472010307,
         "live": false,
         "paid": "234516.002.02.851",
         "participants": [
             {
-                "character": "Finn the Human",
+                "character": "Finn",
                 "name": "Jeremy Shada",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
-                "character": "Jake the Dog",
+                "character": "Jake",
                 "name": "John DiMaggio",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Princess Bubblegum",
-                "name": "Hynden Walch",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Ice King",
-                "name": "Tom Kenny",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Marceline the Vampire Queen",
-                "name": "Olivia Olson",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Lumpy Space Princess",
-                "name": "Pendleton Ward",
-                "role": "voice-actor"
-            },
-            {
-                "character": "BMO",
-                "name": "Niki Yang",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Lady Rainicorn",
-                "name": "Niki Yang",
-                "role": "voice-actor"
-            },
-            {
-                "character": "Tree Trunks",
-                "name": "Polly Lou Livingston",
-                "role": "voice-actor"
-            },
-            {
-                "character": "",
-                "name": "Larry Leichliter",
-                "role": "director"
-            },
-            {
-                "character": "",
-                "name": "Pendleton Ward",
-                "role": "creator"
+                "role": "Voice"
             }
         ],
         "premiere": false,
@@ -3827,18 +3718,18 @@
         "season_number": "3",
         "season_summary": "Unlikely heroes Finn and Jake traverse the mystical Land of Ooo.",
         "season_summary_long": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
-        "serial": 1751468466701,
+        "serial": 1751472010307,
         "series_id": "757073",
         "series_name": "Adventure Time",
         "series_summary": "Unlikely heroes Finn and Jake traverse the mystical Land of Ooo.",
         "series_summary_long": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
-        "show_duration": 1800,
+        "show_duration": 1799,
         "show_id": "276668626",
         "show_timestamp": 1751471999,
-        "status": "estimated",
-        "summary": "To save Marceline from a sleep spell, Finn and Jake must enter her mind. Then, the Ice King hires a hitman to go after Finn and Jake.",
+        "status": "current",
+        "summary": "To save Marceline from a sleep spell, Finn and Jake must enter her mind and find the wake spell deep inside her memory. Then, after being grounded by Finn and Jake, the Ice King hires a hitman to go after them.",
         "summary_listings": "To save Marceline from a sleep spell, Finn and Jake must enter her mind. Then, the Ice King hires a hitman to go after Finn and Jake.",
-        "summary_long": "To save Marceline from a sleep spell, Finn and Jake must enter her mind and find the wake spell deep inside her memory. Then, after being grounded by Finn and Jake, the Ice King hires a hitman to go after them.",
+        "summary_long": "Memory of a Memory: To save Marceline from a sleep spell, Finn and Jake must enter her mind and find the wake spell deep inside her memory./Hitman: After being grounded by Finn and Jake, the Ice King hires a hitman to go after them.",
         "summary_main": "To save Marceline from a sleep spell, Finn and Jake must enter her mind and find the wake spell deep inside her memory. Then, after being grounded by Finn and Jake, the Ice King hires a hitman to go after them.",
         "summary_short": "To save Marceline from a sleep spell, Finn and Jake must enter her mind.",
         "title": "Memory of a Memory/Hitman",
@@ -3860,76 +3751,41 @@
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
         "genres": [
-            "Action",
-            "Comedy",
-            "Kids & Family"
+            "Animation",
+            "Children",
+            "Comedy"
         ],
         "guide_timestamp": 1751473800,
-        "last_time_machine_update": 1751386351726,
-        "last_update": 1751386351726,
+        "last_time_machine_update": 1751472018047,
+        "last_update": 1751472018047,
         "live": false,
         "paid": "229083.009.02.851",
         "participants": [
             {
                 "character": "Craig Williams",
                 "name": "Philip Solomon",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Kelsey",
                 "name": "Georgie Kidder",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Kelsey",
                 "name": "Noel Wells",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "J.P.",
                 "name": "H. Michael Croner",
-                "role": "voice-actor"
-            },
-            {
-                "character": "",
-                "name": "Eddy Houchins",
-                "role": "director"
-            },
-            {
-                "character": "",
-                "name": "Martin Ansolabehere",
-                "role": "director"
-            },
-            {
-                "character": "",
-                "name": "Stu Livingston",
-                "role": "director"
-            },
-            {
-                "character": "",
-                "name": "Ben Levin",
-                "role": "executive-producer"
-            },
-            {
-                "character": "",
-                "name": "Matt Burnett",
-                "role": "executive-producer"
-            },
-            {
-                "character": "",
-                "name": "Matt Burnett",
-                "role": "creator"
-            },
-            {
-                "character": "",
-                "name": "Ben Levin",
-                "role": "creator"
+                "role": "Voice"
             }
         ],
         "premiere": false,
         "press_hold": false,
         "program_type": "EA",
-        "release_year": 2022,
+        "release_year": 2021,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1751473800,
@@ -3938,16 +3794,16 @@
         "season_number": "4",
         "season_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
         "season_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
-        "serial": 1751386351725,
+        "serial": 1751472018047,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "series_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
         "series_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
         "show_duration": 900,
         "show_id": "276668636",
-        "show_timestamp": 1751473800,
+        "show_timestamp": 1751473799,
         "status": "estimated",
-        "summary": "Craig and his cousin, Bryson, join forces for an action-packed weekend at their grandparents' house.",
+        "summary": "Craig and his cousin, Bryson, join forces for an action packed weekend at their grandparents house.",
         "summary_listings": "Craig and his cousin, Bryson, join forces for an action-packed weekend at their grandparents' house.",
         "summary_long": "Craig and his cousin, Bryson, join forces for an action-packed weekend at their grandparents' house.",
         "summary_main": "Craig and his cousin, Bryson, join forces for an action-packed weekend at their grandparents' house.",
@@ -3971,76 +3827,41 @@
         "franchise_id": "489898",
         "franchise_name": "Craig of the Creek",
         "genres": [
-            "Action",
-            "Comedy",
-            "Kids & Family"
+            "Animation",
+            "Children",
+            "Comedy"
         ],
         "guide_timestamp": 1751474700,
-        "last_time_machine_update": 1751386351726,
-        "last_update": 1751386351726,
+        "last_time_machine_update": 1751472018048,
+        "last_update": 1751472018048,
         "live": false,
         "paid": "229083.010.02.851",
         "participants": [
             {
                 "character": "Craig Williams",
                 "name": "Philip Solomon",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Kelsey",
                 "name": "Georgie Kidder",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Kelsey",
                 "name": "Noel Wells",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "J.P.",
                 "name": "H. Michael Croner",
-                "role": "voice-actor"
-            },
-            {
-                "character": "",
-                "name": "Eddy Houchins",
-                "role": "director"
-            },
-            {
-                "character": "",
-                "name": "Martin Ansolabehere",
-                "role": "director"
-            },
-            {
-                "character": "",
-                "name": "Stu Livingston",
-                "role": "director"
-            },
-            {
-                "character": "",
-                "name": "Ben Levin",
-                "role": "executive-producer"
-            },
-            {
-                "character": "",
-                "name": "Matt Burnett",
-                "role": "executive-producer"
-            },
-            {
-                "character": "",
-                "name": "Matt Burnett",
-                "role": "creator"
-            },
-            {
-                "character": "",
-                "name": "Ben Levin",
-                "role": "creator"
+                "role": "Voice"
             }
         ],
         "premiere": false,
         "press_hold": false,
         "program_type": "EA",
-        "release_year": 2022,
+        "release_year": 2021,
         "runtime_minutes": 15,
         "scheduled_duration": 900,
         "scheduled_timestamp": 1751474700,
@@ -4049,14 +3870,14 @@
         "season_number": "4",
         "season_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
         "season_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
-        "serial": 1751386351725,
+        "serial": 1751472018047,
         "series_id": "2132940",
         "series_name": "Craig of the Creek",
         "series_summary": "Craig spends his afternoons in the suburban wilderness known as the Creek.",
         "series_summary_long": "Craig is a 10-year-old boy who spends his afternoons playing in the suburban wilderness known as the Creek.",
         "show_duration": 900,
         "show_id": "276668646",
-        "show_timestamp": 1751474700,
+        "show_timestamp": 1751474699,
         "status": "estimated",
         "summary": "Kelsey and Stacks write a story for book club, which turns out to be more personal than Kelsey realized.",
         "summary_listings": "Kelsey and Stacks write a story for book club, which turns out to be more personal than Kelsey realized.",
@@ -4163,39 +3984,54 @@
         "franchise_name": "Teen Titans Go!",
         "genres": [
             "Action",
-            "Comedy",
-            "Kids & Family"
+            "Adventure",
+            "Animation"
         ],
         "guide_timestamp": 1751476500,
-        "last_time_machine_update": 1751386351727,
-        "last_update": 1751386351727,
+        "last_time_machine_update": 1751472018049,
+        "last_update": 1751472018049,
         "live": false,
         "paid": "229460.005.03.851",
         "participants": [
             {
                 "character": "Robin",
                 "name": "Scott Menville",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Starfire",
                 "name": "Hynden Walch",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Raven",
                 "name": "Tara Strong",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Cyborg",
                 "name": "Khary Payton",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Beast Boy",
                 "name": "Greg Cipes",
-                "role": "voice-actor"
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
             }
         ],
         "premiere": false,
@@ -4210,12 +4046,12 @@
         "season_number": "5",
         "season_summary": "The super teens deal with everyday issues of adolescence.",
         "season_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
-        "serial": 1751386351725,
+        "serial": 1751472018047,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "series_summary": "The super teens deal with everyday issues of adolescence.",
         "series_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
-        "show_duration": 900,
+        "show_duration": 897,
         "show_id": "276668666",
         "show_timestamp": 1751476500,
         "status": "estimated",
@@ -4244,39 +4080,54 @@
         "franchise_name": "Teen Titans Go!",
         "genres": [
             "Action",
-            "Comedy",
-            "Kids & Family"
+            "Adventure",
+            "Animation"
         ],
         "guide_timestamp": 1751477400,
-        "last_time_machine_update": 1751386351727,
-        "last_update": 1751386351727,
+        "last_time_machine_update": 1751472018050,
+        "last_update": 1751472018050,
         "live": false,
         "paid": "229460.006.03.851",
         "participants": [
             {
                 "character": "Robin",
                 "name": "Scott Menville",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Starfire",
                 "name": "Hynden Walch",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Raven",
                 "name": "Tara Strong",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Cyborg",
                 "name": "Khary Payton",
-                "role": "voice-actor"
+                "role": "Voice"
             },
             {
                 "character": "Beast Boy",
                 "name": "Greg Cipes",
-                "role": "voice-actor"
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
             }
         ],
         "premiere": false,
@@ -4291,12 +4142,12 @@
         "season_number": "5",
         "season_summary": "The super teens deal with everyday issues of adolescence.",
         "season_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
-        "serial": 1751386351725,
+        "serial": 1751472018047,
         "series_id": "2000349",
         "series_name": "Teen Titans Go!",
         "series_summary": "The super teens deal with everyday issues of adolescence.",
         "series_summary_long": "Teen Titans Go takes a comedic look at the superheroes' lives. Viewers finally get the opportunity to watch what life is like for the super teens when their capes are left at home and they have to deal with everyday issues.",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "276668676",
         "show_timestamp": 1751477400,
         "status": "estimated",
