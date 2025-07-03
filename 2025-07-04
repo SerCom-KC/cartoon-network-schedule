@@ -4270,5 +4270,74 @@
         "tv_rating": "TV-14",
         "upid": "DISC271160-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271160_009_01_851",
+        "create_time": 1751582260123,
+        "episode_in_season": "9",
+        "episode_number": "S9:E09",
+        "external_id": "271160-009-851-1751675400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1751675400,
+        "last_time_machine_update": 1751582260123,
+        "last_update": 1751582260123,
+        "live": false,
+        "paid": "271160.009.01.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Mila Kunis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751675400,
+        "season_id": "998",
+        "season_number": "9",
+        "serial": 1751582260123,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "show_duration": 1800,
+        "show_id": "276677038",
+        "show_timestamp": 1751675400,
+        "status": "estimated",
+        "summary": "And I'm Joyce Kinney: Lois is horrified when television news reporter Joyce Kinney exposes Lois as a former pornographic film star.",
+        "title": "And I'm Joyce Kinney",
+        "title_id": "809148",
+        "tv_rating": "TV-14",
+        "upid": "DISC271160-009",
+        "upid_type": 12
     }
 ]
