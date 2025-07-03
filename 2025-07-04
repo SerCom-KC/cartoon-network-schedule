@@ -3861,5 +3861,57 @@
         "tv_rating": "TV-PG",
         "upid": "DISC234271-033",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "169820_018_03_851",
+        "create_time": 1751576529170,
+        "episode_in_season": "18",
+        "episode_number": "S6:E18",
+        "external_id": "169820-018-851-1751662800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1751662800,
+        "last_time_machine_update": 1751576529170,
+        "last_update": 1751576529170,
+        "live": false,
+        "paid": "169820.018.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1751662800,
+        "season_id": "10374",
+        "season_number": "6",
+        "serial": 1751576529170,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1810,
+        "show_id": "276676968",
+        "show_timestamp": 1751662800,
+        "status": "estimated",
+        "summary": "Tina's ideas of love and romance are tested when she volunteers at a nursing home to earn her next Thunder Girls badge. Meanwhile, Bob makes new friends who cause him to make some questionable choices.",
+        "title": "Secret Admiral-Irer",
+        "title_id": "2097206",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169820-018",
+        "upid_type": 12
     }
 ]
