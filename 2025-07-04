@@ -3345,5 +3345,91 @@
         "tv_rating": "TV-PG",
         "upid": "DISC252849-019",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229464_025_03_851",
+        "create_time": 1751560622047,
+        "episode_in_season": "25",
+        "episode_number": "S7:E25",
+        "external_id": "229464-025-851-1751653800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1751653800,
+        "last_time_machine_update": 1751560622047,
+        "last_update": 1751560622047,
+        "live": false,
+        "paid": "229464.025.03.851",
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1751653800,
+        "season_id": "16343",
+        "season_number": "7",
+        "serial": 1751560622047,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 1801,
+        "show_id": "276676908",
+        "show_timestamp": 1751653800,
+        "status": "estimated",
+        "summary": "Beast Boy returns home for Thanksgiving and the Doom Patrol enter a float in the town's parade. / The Doom Patrol finds old home movies about themselves that The Chief had hidden.",
+        "title": "A Doom Patrol Thanksgiving",
+        "title_id": "2266576",
+        "tv_rating": "TV-PG",
+        "upid": "DISC229464-025",
+        "upid_type": 12
     }
 ]
