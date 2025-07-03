@@ -3775,5 +3775,91 @@
         "tv_rating": "TV-PG",
         "upid": "DISC234271-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234271_033_03_851",
+        "create_time": 1751569867472,
+        "episode_in_season": "33",
+        "episode_number": "S8:E22",
+        "external_id": "234271-033-851-1751661000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Teen Titans Go!",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1751661000,
+        "last_time_machine_update": 1751569867472,
+        "last_update": 1751569867472,
+        "live": false,
+        "paid": "234271.033.03.851",
+        "participants": [
+            {
+                "character": "Robin",
+                "name": "Scott Menville",
+                "role": "Voice"
+            },
+            {
+                "character": "Starfire",
+                "name": "Hynden Walch",
+                "role": "Voice"
+            },
+            {
+                "character": "Raven",
+                "name": "Tara Strong",
+                "role": "Voice"
+            },
+            {
+                "character": "Cyborg",
+                "name": "Khary Payton",
+                "role": "Voice"
+            },
+            {
+                "character": "Beast Boy",
+                "name": "Greg Cipes",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Michael Jelenic",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Aaron Horvath",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751661000,
+        "season_id": "25818",
+        "season_number": "8",
+        "serial": 1751569867472,
+        "series_id": "2000349",
+        "series_name": "Teen Titans Go!",
+        "show_duration": 1800,
+        "show_id": "276676958",
+        "show_timestamp": 1751661000,
+        "status": "estimated",
+        "summary": "The Titans are in charge of the 100th Anniversary party for Warner Bros on the studio lot and everything is going well until the magical WB Shield is broken into pieces.",
+        "title": "Warner Bros 100TH Anniversary",
+        "title_id": "2409330",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234271-033",
+        "upid_type": 12
     }
 ]
