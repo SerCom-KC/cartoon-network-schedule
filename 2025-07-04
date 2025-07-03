@@ -117,5 +117,135 @@
         "tv_rating": "TV-14",
         "upid": "DISC269649-013",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "239128_009_02_851",
+        "create_time": 1751511656854,
+        "episode_in_season": "9",
+        "episode_number": "S1:E09",
+        "external_id": "239128-009-851-1751605200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Common Side Effects",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1751605200,
+        "last_time_machine_update": 1751511656854,
+        "last_update": 1751511656854,
+        "live": false,
+        "paid": "239128.009.02.851",
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1751605200,
+        "season_id": "27327",
+        "season_number": "1",
+        "serial": 1751511656854,
+        "series_id": "2424754",
+        "series_name": "Common Side Effects",
+        "show_duration": 1803,
+        "show_id": "276673072",
+        "show_timestamp": 1751605200,
+        "status": "estimated",
+        "summary": "Marshall's mushroom project grows out of hand.",
+        "summary_long": "Marshall discovers what Hildy has been up to, but obstacles remain. Copano & Harrington zero in on Marshall's location\u2026",
+        "title": "Cliff's Edge",
+        "title_id": "2424763",
+        "tv_rating": "TV-14",
+        "upid": "DISC239128-009",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232834_006_04_851",
+        "create_time": 1751514848764,
+        "episode_in_season": "6",
+        "episode_number": "S12:E06",
+        "external_id": "232834-006-851-1751607000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1751607000,
+        "last_time_machine_update": 1751514848764,
+        "last_update": 1751514848764,
+        "live": false,
+        "paid": "232834.006.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1751607000,
+        "season_id": "9750",
+        "season_number": "12",
+        "serial": 1751514848764,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1801,
+        "show_id": "276673082",
+        "show_timestamp": 1751607000,
+        "status": "estimated",
+        "summary": "Hayley experiences what pregnancy would be like after Roger agrees to give birth to Jeff so he can be human again. Snot's feelings are hurt when Steve secretly signs him up for a makeover.",
+        "title": "Roger's Baby",
+        "title_id": "2069537",
+        "tv_rating": "TV-14",
+        "upid": "DISC232834-006",
+        "upid_type": 12
     }
 ]
