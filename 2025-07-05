@@ -3901,5 +3901,74 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169734-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271160_013_01_851",
+        "create_time": 1751668651908,
+        "episode_in_season": "13",
+        "episode_number": "S9:E13",
+        "external_id": "271160-013-851-1751761800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1751761800,
+        "last_time_machine_update": 1751668651908,
+        "last_update": 1751668651908,
+        "live": false,
+        "paid": "271160.013.01.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Mila Kunis",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1751761800,
+        "season_id": "998",
+        "season_number": "9",
+        "serial": 1751668651908,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "show_duration": 1802,
+        "show_id": "276681074",
+        "show_timestamp": 1751761800,
+        "status": "estimated",
+        "summary": "Chris and Meg think their parents have it easy, but Peter and Lois beg to differ. In order to teach them a lesson, they all trade roles.",
+        "title": "Trading Places",
+        "title_id": "809151",
+        "tv_rating": "TV-14",
+        "upid": "DISC271160-013",
+        "upid_type": 12
     }
 ]
