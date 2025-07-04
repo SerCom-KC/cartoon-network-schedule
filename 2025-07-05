@@ -869,5 +869,174 @@
         "tv_rating": "TV-MA",
         "upid": "DISC280453-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L",
+            "S"
+        ],
+        "content_id": "280453_005_02_851",
+        "create_time": 1751610517485,
+        "episode_in_season": "5",
+        "episode_number": "S8:E04",
+        "external_id": "280453-005-851-1751702400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1751702400,
+        "last_time_machine_update": 1751610517485,
+        "last_update": 1751610517485,
+        "live": false,
+        "paid": "280453.005.02.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1751702400,
+        "season_id": "27324",
+        "season_number": "8",
+        "serial": 1751610517485,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1807,
+        "show_id": "276677228",
+        "show_timestamp": 1751702400,
+        "status": "estimated",
+        "summary": "Broh is risen. The Smiths learn the true meaning of Easter. Kind of. Broh.",
+        "title": "The Last Temptation of Jerry",
+        "title_id": "2555955",
+        "tv_rating": "TV-MA",
+        "upid": "DISC280453-005",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "228503_003_02_851",
+        "create_time": 1751611217856,
+        "episode_in_season": "3",
+        "episode_number": "S2:E03",
+        "external_id": "228503-003-851-1751704200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Squidbillies",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1751704200,
+        "last_time_machine_update": 1751611217856,
+        "last_update": 1751611217856,
+        "live": false,
+        "paid": "228503.003.02.851",
+        "participants": [
+            {
+                "character": "Russell Cuyler",
+                "name": "Daniel McDevitt",
+                "role": "Voice"
+            },
+            {
+                "character": "Granny Cuyler",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "The Sheriff",
+                "name": "Bobby Ellerbee",
+                "role": "Voice"
+            },
+            {
+                "character": "Lil Cuyler",
+                "name": "Patricia French",
+                "role": "Voice"
+            },
+            {
+                "character": "Dan Halen",
+                "name": "Todd Hanson",
+                "role": "Voice"
+            },
+            {
+                "character": "Krystal",
+                "name": "Mary Kraft",
+                "role": "Voice"
+            },
+            {
+                "character": "Deputy Denny",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Reverend",
+                "name": "Scott Hilley",
+                "role": "Voice"
+            },
+            {
+                "character": "Early Cuyler",
+                "name": "Unknown Hinson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1751704200,
+        "season_id": "1196",
+        "season_number": "2",
+        "serial": 1751611217856,
+        "series_id": "581268",
+        "series_name": "Squidbillies",
+        "show_duration": 900,
+        "show_id": "276677238",
+        "show_timestamp": 1751704200,
+        "status": "estimated",
+        "summary": "Early does his part to support Georgia public education.",
+        "title": "Double Truckin' The Tricky Two",
+        "title_id": "651236",
+        "tv_rating": "TV-14",
+        "upid": "DISC228503-003",
+        "upid_type": 12
     }
 ]
