@@ -1038,5 +1038,144 @@
         "tv_rating": "TV-14",
         "upid": "DISC228503-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "228503_004_03_851",
+        "create_time": 1751612464077,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "228503-004-851-1751705100",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Squidbillies",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1751705100,
+        "last_time_machine_update": 1751612464077,
+        "last_update": 1751612464077,
+        "live": false,
+        "paid": "228503.004.03.851",
+        "participants": [
+            {
+                "character": "Russell Cuyler",
+                "name": "Daniel McDevitt",
+                "role": "Voice"
+            },
+            {
+                "character": "Granny Cuyler",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "The Sheriff",
+                "name": "Bobby Ellerbee",
+                "role": "Voice"
+            },
+            {
+                "character": "Lil Cuyler",
+                "name": "Patricia French",
+                "role": "Voice"
+            },
+            {
+                "character": "Dan Halen",
+                "name": "Todd Hanson",
+                "role": "Voice"
+            },
+            {
+                "character": "Krystal",
+                "name": "Mary Kraft",
+                "role": "Voice"
+            },
+            {
+                "character": "Deputy Denny",
+                "name": "Dave Willis",
+                "role": "Voice"
+            },
+            {
+                "character": "Reverend",
+                "name": "Scott Hilley",
+                "role": "Voice"
+            },
+            {
+                "character": "Early Cuyler",
+                "name": "Unknown Hinson",
+                "role": "Voice"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1751705100,
+        "season_id": "1196",
+        "season_number": "2",
+        "serial": 1751612464077,
+        "series_id": "581268",
+        "series_name": "Squidbillies",
+        "show_duration": 900,
+        "show_id": "276677248",
+        "show_timestamp": 1751705100,
+        "status": "estimated",
+        "summary": "The squids meet a legless drifter. Not featuring Patrick Swayze.",
+        "title": "Swayze Crazy",
+        "title_id": "651237",
+        "tv_rating": "TV-14",
+        "upid": "DISC228503-004",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233067_019_02_851",
+        "create_time": 1751612464078,
+        "episode_in_season": "19",
+        "episode_number": "S11:E19",
+        "external_id": "233067-019-851-1751706000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1751706000,
+        "last_time_machine_update": 1751612464078,
+        "last_update": 1751612464078,
+        "live": false,
+        "paid": "233067.019.02.851",
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751706000,
+        "season_id": "1544",
+        "season_number": "11",
+        "serial": 1751612464077,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "276677258",
+        "show_timestamp": 1751706000,
+        "status": "estimated",
+        "summary": "The Superintendent's office visits Bobby's school; disapproving of the students' conduct, the annual carnival is canceled, causing Hank to step up.",
+        "title": "Tears of an Inflatable Clown",
+        "title_id": "731561",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233067-019",
+        "upid_type": 12
     }
 ]
