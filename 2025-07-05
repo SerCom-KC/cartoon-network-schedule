@@ -3468,5 +3468,76 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC168446-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "229139_000_02_851",
+        "create_time": 1751649415692,
+        "external_id": "229139-000-851-1751742900",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Mask of the Blue Falcon",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1751742900,
+        "last_time_machine_update": 1751649415692,
+        "last_update": 1751649415692,
+        "live": false,
+        "paid": "229139.000.02.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "Voice"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "Voice"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "Voice"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Mike Goguen",
+                "role": "Director"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "FF",
+        "release_year": 2013,
+        "runtime_minutes": 68,
+        "scheduled_duration": 6310,
+        "scheduled_timestamp": 1751742900,
+        "serial": 1751649415692,
+        "series_id": "92668",
+        "series_name": "Scooby-Doo! Mask of the Blue Falcon",
+        "show_duration": 6310,
+        "show_id": "276680994",
+        "show_timestamp": 1751742900,
+        "status": "estimated",
+        "summary": "When the Scooby gang visits a comic book convention, the monster from a classic television show appears.",
+        "title": "Scooby-Doo! Mask of the Blue Falcon",
+        "title_id": "845006",
+        "tv_rating": "TV-Y7-FV",
+        "upid": "DISC229139-000",
+        "upid_type": 12
     }
 ]
