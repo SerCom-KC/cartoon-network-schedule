@@ -3970,5 +3970,74 @@
         "tv_rating": "TV-14",
         "upid": "DISC271160-013",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271160_014_01_851",
+        "create_time": 1751670702106,
+        "episode_in_season": "14",
+        "episode_number": "S9:E14",
+        "external_id": "271160-014-851-1751763600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1751763600,
+        "last_time_machine_update": 1751670702106,
+        "last_update": 1751670702106,
+        "live": false,
+        "paid": "271160.014.01.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Mila Kunis",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1751763600,
+        "season_id": "998",
+        "season_number": "9",
+        "serial": 1751670702106,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "show_duration": 1803,
+        "show_id": "276681084",
+        "show_timestamp": 1751763600,
+        "status": "estimated",
+        "summary": "Peter clashes with the owner of a dry cleaning business after he loses one of his white shirts; Brian infuriates Quagmire when he beings dating his old girlfriend, Cheryl Tiegs.",
+        "title": "Tiegs for Two",
+        "title_id": "809152",
+        "tv_rating": "TV-14",
+        "upid": "DISC271160-014",
+        "upid_type": 12
     }
 ]
