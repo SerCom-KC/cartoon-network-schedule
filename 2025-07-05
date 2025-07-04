@@ -1280,5 +1280,62 @@
         "tv_rating": "TV-PG",
         "upid": "DISC234519-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234519_005_02_851",
+        "create_time": 1751626197346,
+        "episode_in_season": "5",
+        "episode_number": "44",
+        "external_id": "234519-005-851-1751711400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Adventure Time",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1751711400,
+        "last_time_machine_update": 1751626197346,
+        "last_update": 1751626197346,
+        "live": false,
+        "paid": "234519.005.02.851",
+        "participants": [
+            {
+                "character": "Finn",
+                "name": "Jeremy Shada",
+                "role": "Voice"
+            },
+            {
+                "character": "Jake",
+                "name": "John DiMaggio",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751711400,
+        "season_id": "4938",
+        "season_number": "4",
+        "serial": 1751626197346,
+        "series_id": "757073",
+        "series_name": "Adventure Time",
+        "show_duration": 1800,
+        "show_id": "276680724",
+        "show_timestamp": 1751711400,
+        "status": "estimated",
+        "summary": "When Ooo's princesses start losing body parts left and right, Finn and Jake investigate. Then, Princess Bubblegum, concerned over her mortality, reveals her designated successor to Finn and Jake but he still has a lot to learn.",
+        "summary_long": "Princess Monster Wife: When Ooo's princesses start losing body parts left and right, Finn and Jake investigate./Goliad: Princess Bubblegum, concerned over her mortality, reveals her designated successor to Finn and Jake but he still has a lot to learn.",
+        "title": "Princess Monster Wife/Goliad",
+        "title_id": "865193",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234519-005",
+        "upid_type": 12
     }
 ]
