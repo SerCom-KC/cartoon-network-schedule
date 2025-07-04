@@ -478,5 +478,72 @@
         "tv_rating": "TV-MA",
         "upid": "DISC267271-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "267271_004_02_851",
+        "create_time": 1751601223796,
+        "episode_in_season": "4",
+        "episode_number": "S6:E04",
+        "external_id": "267271-004-851-1751694300",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Adult Swim SMALLS",
+        "genres": [
+            "Animation",
+            "Short"
+        ],
+        "guide_timestamp": 1751694300,
+        "last_time_machine_update": 1751601223796,
+        "last_update": 1751601223796,
+        "live": false,
+        "paid": "267271.004.02.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Dave Hughes",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Danya Levine",
+                "role": "Producer"
+            },
+            {
+                "character": null,
+                "name": "Paula Navarro",
+                "role": "Production Assistant"
+            },
+            {
+                "character": null,
+                "name": "Jordan Felton",
+                "role": "Production Assistant"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "E",
+        "release_year": 2024,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1751694300,
+        "season_id": "30371",
+        "season_number": "6",
+        "serial": 1751601223796,
+        "series_id": "2326791",
+        "series_name": "Adult Swim SMALLS",
+        "show_duration": 900,
+        "show_id": "276677178",
+        "show_timestamp": 1751694300,
+        "status": "estimated",
+        "summary": "Karl asks Penny on a date and puts his job on the line.",
+        "title": "The Quarry",
+        "title_id": "2506630",
+        "tv_rating": "TV-14",
+        "upid": "DISC267271-004",
+        "upid_type": 12
     }
 ]
