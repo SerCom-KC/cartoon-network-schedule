@@ -3277,5 +3277,126 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC250750-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234488_032_02_851",
+        "create_time": 1751645862935,
+        "episode_in_season": "32",
+        "episode_number": "S2:E32",
+        "external_id": "234488-032-851-1751738400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "New Looney Tunes",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1751738400,
+        "last_time_machine_update": 1751645862935,
+        "last_update": 1751645862935,
+        "live": false,
+        "paid": "234488.032.02.851",
+        "participants": [
+            {
+                "character": "Bugs Bunny",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1751738400,
+        "season_id": "9791",
+        "season_number": "2",
+        "serial": 1751645862935,
+        "series_id": "2062459",
+        "series_name": "New Looney Tunes",
+        "show_duration": 901,
+        "show_id": "276680964",
+        "show_timestamp": 1751738400,
+        "status": "estimated",
+        "summary": "Bugs agrees to take care of Porky's two hamsters. He brings them home, and wakes up the next morning to find out the hamsters have multiplied. Then, Bugs and Cecil each get half of the last dozen potato balls from a popular food truck.",
+        "summary_long": "Hamsters: Bugs agrees to take care of Porky's two hamsters. He brings them home, and wakes up the next morning to find out that the hamsters have multiplied and taken over./Bugs Baked: Bugs and Cecil each get half of the last dozen potato balls from a popular food truck. When they learn they're going to the same party, the race is on to see who can arrive with the snacks first.",
+        "title": "Hamsters/Bugs Baked",
+        "title_id": "2098625",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC234488-032",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "168446_003_02_851",
+        "create_time": 1751645862935,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "168446-003-851-1751739300",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "What's New Scooby-Doo?",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "guide_timestamp": 1751739300,
+        "last_time_machine_update": 1751645862935,
+        "last_update": 1751645862935,
+        "live": false,
+        "paid": "168446.003.02.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "Voice"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Casey Kasem",
+                "role": "Voice"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "Voice"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle (Griffin)",
+                "role": "Voice"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1751739300,
+        "season_id": "966",
+        "season_number": "3",
+        "serial": 1751645862935,
+        "series_id": "439671",
+        "series_name": "What's New Scooby-Doo?",
+        "show_duration": 1807,
+        "show_id": "276680974",
+        "show_timestamp": 1751739300,
+        "status": "estimated",
+        "summary": "The ghost of a Russian hockey player shows up to ruin the international world cup hockey event.",
+        "title": "Diamonds Are a Ghoul's Best Friend",
+        "title_id": "611118",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC168446-003",
+        "upid_type": 12
     }
 ]
