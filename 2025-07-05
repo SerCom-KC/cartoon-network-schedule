@@ -87,8 +87,8 @@
             "Short"
         ],
         "guide_timestamp": 1751688900,
-        "last_time_machine_update": 1751595796408,
-        "last_update": 1751595796408,
+        "last_time_machine_update": 1751672398731,
+        "last_update": 1751672398731,
         "live": false,
         "paid": "283012.002.02.851",
         "participants": [
@@ -122,10 +122,10 @@
         "scheduled_timestamp": 1751688900,
         "season_id": "33492",
         "season_number": "7",
-        "serial": 1751595796408,
+        "serial": 1751672398731,
         "series_id": "2326791",
         "series_name": "Adult Swim SMALLS",
-        "show_duration": 900,
+        "show_duration": 896,
         "show_id": "276677118",
         "show_timestamp": 1751688900,
         "status": "estimated",
@@ -4038,6 +4038,75 @@
         "title_id": "809152",
         "tv_rating": "TV-14",
         "upid": "DISC271160-014",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271160_015_01_851",
+        "create_time": 1751672406495,
+        "episode_in_season": "15",
+        "episode_number": "S9:E15",
+        "external_id": "271160-015-851-1751765400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1751765400,
+        "last_time_machine_update": 1751672406495,
+        "last_update": 1751672406495,
+        "live": false,
+        "paid": "271160.015.01.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Mila Kunis",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1751765400,
+        "season_id": "998",
+        "season_number": "9",
+        "serial": 1751672406495,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "show_duration": 1806,
+        "show_id": "276681094",
+        "show_timestamp": 1751765400,
+        "status": "estimated",
+        "summary": "Mayor West asks Lois's depressed, recently divorced sister to marry him; Peter treats Mayor West like a brother instead of a brother-in-law.",
+        "title": "Brothers and Sisters",
+        "title_id": "809153",
+        "tv_rating": "TV-14",
+        "upid": "DISC271160-015",
         "upid_type": 12
     }
 ]
