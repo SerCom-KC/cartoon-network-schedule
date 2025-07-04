@@ -1223,5 +1223,62 @@
         "tv_rating": "TV-PG",
         "upid": "DISC233067-020",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234519_004_01_851",
+        "create_time": 1751624052120,
+        "episode_in_season": "4",
+        "episode_number": "43",
+        "external_id": "234519-004-851-1751709600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Adventure Time",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1751709600,
+        "last_time_machine_update": 1751624052120,
+        "last_update": 1751624052120,
+        "live": false,
+        "paid": "234519.004.01.851",
+        "participants": [
+            {
+                "character": "Finn",
+                "name": "Jeremy Shada",
+                "role": "Voice"
+            },
+            {
+                "character": "Jake",
+                "name": "John DiMaggio",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751709600,
+        "season_id": "4938",
+        "season_number": "4",
+        "serial": 1751624052120,
+        "series_id": "757073",
+        "series_name": "Adventure Time",
+        "show_duration": 1800,
+        "show_id": "276680714",
+        "show_timestamp": 1751709600,
+        "status": "estimated",
+        "summary": "Marceline's dad banishes Finn and Jake to the Nightosphere, and it stinks. Literally. Then, Finn and Jake return to the Nightosphere to rescue Marceline and get to the bottom of what's making her act so crazy.",
+        "summary_long": "Return to the Nightosphere: Marceline's dad banishes Finn and Jake to the Nightosphere, and it stinks. Literally./Daddy's Little Monster: Finn and Jake return to the Nightosphere to rescue Marceline and get to the bottom of what's making her act so crazy.",
+        "title": "Return to the Nightosphere/Daddy's Little Monster",
+        "title_id": "865192",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234519-004",
+        "upid_type": 12
     }
 ]
