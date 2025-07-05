@@ -783,5 +783,140 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250998-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "250998_010_02_851",
+        "create_time": 1751698618933,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "250998-010-851-1751790600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "My Adventures with Superman",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1751790600,
+        "last_time_machine_update": 1751698618933,
+        "last_update": 1751698618933,
+        "live": false,
+        "paid": "250998.010.02.851",
+        "participants": [
+            {
+                "character": "Clark Kent",
+                "name": "Jack Quaid",
+                "role": "Voice"
+            },
+            {
+                "character": "Superman",
+                "name": "Jack Quaid",
+                "role": "Voice"
+            },
+            {
+                "character": "Lois Lane",
+                "name": "Alice Lee",
+                "role": "Voice"
+            },
+            {
+                "character": "Jimmy Olsen",
+                "name": "Ishmel Sahid",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Jake Wyatt",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Brendan Clogher",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Josie Campbell",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751790600,
+        "season_id": "19409",
+        "season_number": "2",
+        "serial": 1751698618933,
+        "series_id": "2288454",
+        "series_name": "My Adventures with Superman",
+        "show_duration": 1800,
+        "show_id": "276681234",
+        "show_timestamp": 1751790600,
+        "status": "estimated",
+        "summary": "TBD",
+        "summary_long": "Superman, Kara, Lois, and Jimmy team up to fight Brainiac\u2026but will Superman have to choose between saving Earth and saving the people he loves? It's truth, justice, and a better way clashing with the might of Krypton in the season two finale!",
+        "title": "My Adventures with Supergirl",
+        "title_id": "2288474",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250998-010",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "V"
+        ],
+        "content_id": "233054_009_02_851",
+        "create_time": 1751698944656,
+        "episode_in_season": "9",
+        "episode_number": "S2:E09",
+        "external_id": "233054-009-851-1751792400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "guide_timestamp": 1751792400,
+        "last_time_machine_update": 1751698944656,
+        "last_update": 1751698944656,
+        "live": false,
+        "paid": "233054.009.02.851",
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751792400,
+        "season_id": "952",
+        "season_number": "2",
+        "serial": 1751698944656,
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "show_duration": 1800,
+        "show_id": "276681244",
+        "show_timestamp": 1751792400,
+        "status": "estimated",
+        "summary": "Zoidberg returns to his home planet for mating season.",
+        "title": "Why Must I Be a Crustacean in Love?",
+        "title_id": "437550",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233054-009",
+        "upid_type": 12
     }
 ]
