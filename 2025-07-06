@@ -431,5 +431,93 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250998-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "250998_006_02_851",
+        "create_time": 1751691128289,
+        "episode_in_season": "6",
+        "episode_number": "S2:E06",
+        "external_id": "250998-006-851-1751783400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "My Adventures with Superman",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1751783400,
+        "last_time_machine_update": 1751691128289,
+        "last_update": 1751691128289,
+        "live": false,
+        "paid": "250998.006.02.851",
+        "participants": [
+            {
+                "character": "Clark Kent",
+                "name": "Jack Quaid",
+                "role": "Voice"
+            },
+            {
+                "character": "Superman",
+                "name": "Jack Quaid",
+                "role": "Voice"
+            },
+            {
+                "character": "Lois Lane",
+                "name": "Alice Lee",
+                "role": "Voice"
+            },
+            {
+                "character": "Jimmy Olsen",
+                "name": "Ishmel Sahid",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Jake Wyatt",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Brendan Clogher",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Josie Campbell",
+                "role": "Producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751783400,
+        "season_id": "19409",
+        "season_number": "2",
+        "serial": 1751691128289,
+        "series_id": "2288454",
+        "series_name": "My Adventures with Superman",
+        "show_duration": 1800,
+        "show_id": "276681194",
+        "show_timestamp": 1751783400,
+        "status": "estimated",
+        "summary": "Kidnapped and far from home, Superman bonds with his cousin Kara\u2026and discovers the truth about Krypton from the last Kryptonians in existence!",
+        "title": "The Machine Who Would Be Empire",
+        "title_id": "2288470",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250998-006",
+        "upid_type": 12
     }
 ]
