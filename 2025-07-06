@@ -1443,5 +1443,111 @@
         "tv_rating": "TV-Y7-FV",
         "upid": "DISC169840-000",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "250918_001_02_851",
+        "create_time": 1751718869141,
+        "episode_in_season": "1",
+        "episode_number": "S3:E30",
+        "external_id": "250918-001-851-1751812200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Jellystone",
+        "genres": [
+            "Animation",
+            "Children",
+            "Comedy"
+        ],
+        "guide_timestamp": 1751812200,
+        "last_time_machine_update": 1751718869141,
+        "last_update": 1751718869141,
+        "live": false,
+        "paid": "250918.001.02.851",
+        "participants": [
+            {
+                "character": "Yogi Bear",
+                "name": "Jeff Bergman",
+                "role": "Voice"
+            },
+            {
+                "character": "Huckleberry Hound",
+                "name": "Jim Conroy",
+                "role": "Voice"
+            },
+            {
+                "character": "Doggie Daddy",
+                "name": "C.H. Greenblatt",
+                "role": "Voice"
+            },
+            {
+                "character": "Augie Doggie",
+                "name": "Georgie Kidder",
+                "role": "Voice"
+            },
+            {
+                "character": "Cindy Bear",
+                "name": "Grace Helbig",
+                "role": "Voice"
+            },
+            {
+                "character": "Jabberjaw",
+                "name": "Niccole Thurman",
+                "role": "Voice"
+            },
+            {
+                "character": "Snagglepuss",
+                "name": "Dana Snyder",
+                "role": "Voice"
+            },
+            {
+                "character": "Magilla Gorilla",
+                "name": "Paul F Tompkins",
+                "role": "Voice"
+            },
+            {
+                "character": "Loopy De Loop",
+                "name": "Ulka Simone Mohanty",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "C.H. Greenblatt",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Sam Register",
+                "role": "Executive Producer"
+            },
+            {
+                "character": null,
+                "name": "Adam Middleton",
+                "role": "Producer"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2024,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1751812200,
+        "season_id": "25157",
+        "season_number": "3",
+        "serial": 1751718869140,
+        "series_id": "2227883",
+        "series_name": "Jellystone",
+        "show_duration": 900,
+        "show_id": "276684880",
+        "show_timestamp": 1751812200,
+        "status": "estimated",
+        "summary": "Augie's extreme sleep-hugging has the town of Jellystone gripped in fear.",
+        "title": "The Jellystone Crumpler",
+        "title_id": "2419977",
+        "tv_rating": "TV-G",
+        "upid": "DISC250918-001",
+        "upid_type": 12
     }
 ]
