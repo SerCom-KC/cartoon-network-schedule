@@ -3974,5 +3974,75 @@
         "tv_rating": "TV-14",
         "upid": "DISC271173-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271173_002_01_851",
+        "create_time": 1751844726565,
+        "episode_in_season": "2",
+        "episode_number": "S10:E02",
+        "external_id": "271173-002-851-1751938200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1751938200,
+        "last_time_machine_update": 1751844726565,
+        "last_update": 1751844726565,
+        "live": false,
+        "paid": "271173.002.01.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Mila Kunis",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751938200,
+        "season_id": "999",
+        "season_number": "10",
+        "serial": 1751844726565,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "show_duration": 1800,
+        "show_id": "276689376",
+        "show_timestamp": 1751938200,
+        "status": "estimated",
+        "summary": "A storm hits the towns of Stoolbend, Quahog and Langley Falls. To help pass the time and calm his nerves, Brian consumes some questionable substances and has trouble sobering up.",
+        "summary_long": "A storm hits the towns of Stoolbend, Quahog and Langley Falls. To help pass the time and calm his nerves, Brian consumes some questionable substances and has trouble sobering up. Meanwhile, Meg goes off the deep end after the family takes one too many jabs at her.",
+        "title": "Seahorse Sea Shell Party",
+        "title_id": "809154",
+        "tv_rating": "TV-14",
+        "upid": "DISC271173-002",
+        "upid_type": 12
     }
 ]
