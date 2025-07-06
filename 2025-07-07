@@ -2075,5 +2075,62 @@
         "tv_rating": "TV-G",
         "upid": "DISC241732-020",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [],
+        "content_id": "234516_005_02_851",
+        "create_time": 1751809777145,
+        "episode_in_season": "5",
+        "episode_number": "31",
+        "external_id": "234516-005-851-1751902200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Adventure Time",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "guide_timestamp": 1751902200,
+        "last_time_machine_update": 1751809777145,
+        "last_update": 1751809777145,
+        "live": false,
+        "paid": "234516.005.02.851",
+        "participants": [
+            {
+                "character": "Finn",
+                "name": "Jeremy Shada",
+                "role": "Voice"
+            },
+            {
+                "character": "Jake",
+                "name": "John DiMaggio",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751902200,
+        "season_id": "4937",
+        "season_number": "3",
+        "serial": 1751809777145,
+        "series_id": "757073",
+        "series_name": "Adventure Time",
+        "show_duration": 1800,
+        "show_id": "276689096",
+        "show_timestamp": 1751902200,
+        "status": "estimated",
+        "summary": "Finn and Jake find themselves paralyzed from the neck down and at the Ice King's mercy! Then, every couple hundred of years or so, all the wizards in Ooo assemble for Wizard Sport, a fantastic, wizards-only battle royale.",
+        "summary_long": "Still: Finn and Jake find themselves paralyzed from the neck down and at the Ice King's mercy!/Wizard Battle: Every couple hundred of years or so, all the wizards in Ooo assemble for Wizard Sport, a fantastic, wizards-only battle royale.",
+        "title": "Still/Wizard Battle",
+        "title_id": "830953",
+        "tv_rating": "TV-PG",
+        "upid": "DISC234516-005",
+        "upid_type": 12
     }
 ]
