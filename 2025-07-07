@@ -253,5 +253,163 @@
         "tv_rating": "TV-14",
         "upid": "DISC232834-016",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232834_017_04_851",
+        "create_time": 1751776619812,
+        "episode_in_season": "17",
+        "episode_number": "S12:E17",
+        "external_id": "232834-017-851-1751868000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1751868000,
+        "last_time_machine_update": 1751776619812,
+        "last_update": 1751776619812,
+        "live": false,
+        "paid": "232834.017.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751868000,
+        "season_id": "9750",
+        "season_number": "12",
+        "serial": 1751776619812,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "276685240",
+        "show_timestamp": 1751868000,
+        "status": "estimated",
+        "summary": "Francine reconnects with her birth family when she starts craving the experience of having a big family. Stan becomes a Picker based on his obsession with American Pickers.",
+        "title": "Family Plan",
+        "title_id": "2069548",
+        "tv_rating": "TV-14",
+        "upid": "DISC232834-017",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "L"
+        ],
+        "content_id": "280453_002_02_851",
+        "create_time": 1751776619813,
+        "episode_in_season": "2",
+        "episode_number": "S8:E06",
+        "external_id": "280453-002-851-1751869800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1751869800,
+        "last_time_machine_update": 1751776619813,
+        "last_update": 1751776619813,
+        "live": false,
+        "paid": "280453.002.02.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1751869800,
+        "season_id": "27324",
+        "season_number": "8",
+        "serial": 1751776619812,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1806,
+        "show_id": "276685250",
+        "show_timestamp": 1751869800,
+        "status": "estimated",
+        "summary": "The brohs goes to a theme park Rick loves. Beth and Space Beth stay behind and regress or something.",
+        "title": "The CuRicksous Case of Bethjamin Button",
+        "title_id": "2555952",
+        "tv_rating": "TV-MA",
+        "upid": "DISC280453-002",
+        "upid_type": 12
     }
 ]
