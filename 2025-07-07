@@ -3851,5 +3851,128 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169734-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "169734_019_02_851",
+        "create_time": 1751842861343,
+        "episode_in_season": "19",
+        "episode_number": "S7:E19",
+        "external_id": "169734-019-851-1751934600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "guide_timestamp": 1751934600,
+        "last_time_machine_update": 1751842861343,
+        "last_update": 1751842861343,
+        "live": false,
+        "paid": "169734.019.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Jon Benjamin",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1751934600,
+        "season_id": "12008",
+        "season_number": "7",
+        "serial": 1751842861343,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "show_duration": 1804,
+        "show_id": "276689356",
+        "show_timestamp": 1751934600,
+        "status": "estimated",
+        "summary": "After Louise gets in trouble at school, Linda is forced to meet with Mr. Frond and potentially could lose her hard-earned position as the Wagstaff bake sale leader.",
+        "summary_long": "After Louise gets in trouble at school, Linda is forced to meet with Mr. Frond and potentially could lose her hard-earned position as the Wagstaff bake sale leader. When she finds out that her daughter was actually trying to help another student, Linda is torn between following school policy or her own moral code.",
+        "title": "Thelma and Louise Except Thelma Is Linda",
+        "title_id": "2132986",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169734-019",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271173_001_01_851",
+        "create_time": 1751842861343,
+        "episode_in_season": "1",
+        "episode_number": "S10:E01",
+        "external_id": "271173-001-851-1751936400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1751936400,
+        "last_time_machine_update": 1751842861343,
+        "last_update": 1751842861343,
+        "live": false,
+        "paid": "271173.001.01.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Mila Kunis",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1751936400,
+        "season_id": "999",
+        "season_number": "10",
+        "serial": 1751842861343,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "show_duration": 1803,
+        "show_id": "276689366",
+        "show_timestamp": 1751936400,
+        "status": "estimated",
+        "summary": "Peter blows his savings on lottery tickets and the family writes it off as one of his usual shenanigans until they end up millionaires.",
+        "summary_long": "Peter blows his savings on lottery tickets and the family writes it off as one of his usual shenanigans until they end up millionaires. In true Griffin fashion, they can't handle the good fortune and struggle to stay grounded.",
+        "title": "Lottery Fever",
+        "title_id": "865323",
+        "tv_rating": "TV-14",
+        "upid": "DISC271173-001",
+        "upid_type": 12
     }
 ]
