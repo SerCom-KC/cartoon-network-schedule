@@ -411,5 +411,155 @@
         "tv_rating": "TV-MA",
         "upid": "DISC280453-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "280453_007_02_851",
+        "create_time": 1751780145511,
+        "episode_in_season": "7",
+        "episode_number": "S8:E07",
+        "external_id": "280453-007-851-1751871600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1751871600,
+        "last_time_machine_update": 1751780145511,
+        "last_update": 1751780145511,
+        "live": false,
+        "paid": "280453.007.02.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751871600,
+        "season_id": "27324",
+        "season_number": "8",
+        "serial": 1751780145511,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "276685260",
+        "show_timestamp": 1751871600,
+        "status": "estimated",
+        "summary": "Rick and Morty write the next installment of their favorite movie franchise. Pure cinema, broh.",
+        "title": "Ricker than Fiction",
+        "title_id": "2555957",
+        "tv_rating": "TV-14",
+        "upid": "DISC280453-007",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "251793_006_02_851",
+        "create_time": 1751780145512,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "251793-006-851-1751873400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1751873400,
+        "last_time_machine_update": 1751780145512,
+        "last_update": 1751780145512,
+        "live": false,
+        "paid": "251793.006.02.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751873400,
+        "season_id": "15308",
+        "season_number": "4",
+        "serial": 1751780145511,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "276685270",
+        "show_timestamp": 1751873400,
+        "status": "estimated",
+        "summary": "Choo Choo, broh. Catch this train broh.",
+        "title": "Never Ricking Morty",
+        "title_id": "2206492",
+        "tv_rating": "TV-14",
+        "upid": "DISC251793-006",
+        "upid_type": 12
     }
 ]
