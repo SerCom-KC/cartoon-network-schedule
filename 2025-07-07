@@ -18,8 +18,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1751860800,
-        "last_time_machine_update": 1751822249081,
-        "last_update": 1751822249081,
+        "last_time_machine_update": 1751857233623,
+        "last_update": 1751857233623,
         "live": false,
         "paid": "239128.007.02.851",
         "premiere": false,
@@ -31,7 +31,7 @@
         "scheduled_timestamp": 1751860800,
         "season_id": "27327",
         "season_number": "1",
-        "serial": 1751822249078,
+        "serial": 1751857233621,
         "series_id": "2424754",
         "series_name": "Common Side Effects",
         "show_duration": 1793,
@@ -62,8 +62,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1751862600,
-        "last_time_machine_update": 1751822250118,
-        "last_update": 1751822250118,
+        "last_time_machine_update": 1751857233623,
+        "last_update": 1751857233623,
         "live": false,
         "paid": "233474.000.01.851",
         "premiere": false,
@@ -73,7 +73,7 @@
         "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1751862600,
-        "serial": 1751822250118,
+        "serial": 1751857233621,
         "series_id": "93207",
         "series_name": "Robot Chicken (LWM)",
         "show_duration": 1793,
@@ -4250,6 +4250,81 @@
         "title_id": "865329",
         "tv_rating": "TV-14",
         "upid": "DISC271173-005",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "V",
+            "D",
+            "L"
+        ],
+        "content_id": "280453_007_02_851",
+        "create_time": 1751852213699,
+        "episode_in_season": "7",
+        "episode_number": "S8:E07",
+        "external_id": "280453-007-851-1751945400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "guide_timestamp": 1751945400,
+        "last_time_machine_update": 1751852213699,
+        "last_update": 1751852213699,
+        "live": false,
+        "paid": "280453.007.02.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "Voice"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "Voice"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "Voice"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751945400,
+        "season_id": "27324",
+        "season_number": "8",
+        "serial": 1751852213699,
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "show_duration": 1800,
+        "show_id": "276689416",
+        "show_timestamp": 1751945400,
+        "status": "estimated",
+        "summary": "Rick and Morty write the next installment of their favorite movie franchise. Pure cinema, broh.",
+        "title": "Ricker than Fiction",
+        "title_id": "2555957",
+        "tv_rating": "TV-14",
+        "upid": "DISC280453-007",
         "upid_type": 12
     }
 ]
