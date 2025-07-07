@@ -439,8 +439,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1751952600,
-        "last_time_machine_update": 1751859714291,
-        "last_update": 1751859714291,
+        "last_time_machine_update": 1751931536961,
+        "last_update": 1751931536961,
         "live": false,
         "paid": "232834.019.04.851",
         "participants": [
@@ -489,10 +489,10 @@
         "scheduled_timestamp": 1751952600,
         "season_id": "9750",
         "season_number": "12",
-        "serial": 1751859714291,
+        "serial": 1751931536961,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1788,
         "show_id": "276689476",
         "show_timestamp": 1751952600,
         "status": "estimated",
@@ -522,8 +522,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1751954400,
-        "last_time_machine_update": 1751861540837,
-        "last_update": 1751861540837,
+        "last_time_machine_update": 1751931536962,
+        "last_update": 1751931536962,
         "live": false,
         "paid": "232834.020.04.851",
         "participants": [
@@ -572,10 +572,10 @@
         "scheduled_timestamp": 1751954400,
         "season_id": "9750",
         "season_number": "12",
-        "serial": 1751861540837,
+        "serial": 1751931536961,
         "series_id": "581006",
         "series_name": "American Dad",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "276689486",
         "show_timestamp": 1751954400,
         "status": "estimated",
@@ -774,8 +774,8 @@
             "Animation"
         ],
         "guide_timestamp": 1751959800,
-        "last_time_machine_update": 1751867198061,
-        "last_update": 1751867198061,
+        "last_time_machine_update": 1751931536963,
+        "last_update": 1751931536963,
         "live": false,
         "paid": "280453.007.02.851",
         "participants": [
@@ -814,10 +814,10 @@
         "scheduled_timestamp": 1751959800,
         "season_id": "27324",
         "season_number": "8",
-        "serial": 1751867198061,
+        "serial": 1751931536961,
         "series_id": "2013506",
         "series_name": "Rick and Morty",
-        "show_duration": 1800,
+        "show_duration": 1792,
         "show_id": "276689516",
         "show_timestamp": 1751959800,
         "status": "estimated",
@@ -4426,6 +4426,75 @@
         "title_id": "2171433",
         "tv_rating": "TV-14",
         "upid": "DISC166124-002",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271160_024_01_851",
+        "create_time": 1751930888381,
+        "episode_in_season": "24",
+        "episode_number": "S9:E18",
+        "external_id": "271160-024-851-1752022800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1752022800,
+        "last_time_machine_update": 1751930888381,
+        "last_update": 1751930888381,
+        "live": false,
+        "paid": "271160.024.01.851",
+        "participants": [
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Creator"
+            },
+            {
+                "character": null,
+                "name": "Mila Kunis",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth Green",
+                "role": "Voice"
+            },
+            {
+                "character": null,
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2011,
+        "runtime_minutes": 60,
+        "scheduled_duration": 3604,
+        "scheduled_timestamp": 1752022800,
+        "season_id": "998",
+        "season_number": "9",
+        "serial": 1751930888381,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "show_duration": 3604,
+        "show_id": "276693472",
+        "show_timestamp": 1752022800,
+        "status": "estimated",
+        "summary": "The Trilogy comes full circle in this parody of Star Wars Episode VI: The Return of the Jedi.",
+        "title": "It's a Trap Part 1 & 2",
+        "title_id": "849586",
+        "tv_rating": "TV-14",
+        "upid": "DISC271160-024",
         "upid_type": 12
     }
 ]
