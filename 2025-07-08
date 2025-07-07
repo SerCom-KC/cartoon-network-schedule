@@ -502,5 +502,88 @@
         "tv_rating": "TV-14",
         "upid": "DISC232834-019",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232834_020_04_851",
+        "create_time": 1751861540837,
+        "episode_in_season": "20",
+        "episode_number": "S12:E20",
+        "external_id": "232834-020-851-1751954400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1751954400,
+        "last_time_machine_update": 1751861540837,
+        "last_update": 1751861540837,
+        "live": false,
+        "paid": "232834.020.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "Voice"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "Voice"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "Voice"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "Voice"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike W. Barker",
+                "role": "Voice"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "Voice"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1751954400,
+        "season_id": "9750",
+        "season_number": "12",
+        "serial": 1751861540837,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "show_duration": 1800,
+        "show_id": "276689486",
+        "show_timestamp": 1751954400,
+        "status": "estimated",
+        "summary": "Stan and Steve open up their own father-son garbage business after Stan inherits his father's old truck. Roger finds Hayley is a natural at bumper pool and brings her to play with the best player in town.",
+        "title": "Garbage Stan",
+        "title_id": "2069551",
+        "tv_rating": "TV-14",
+        "upid": "DISC232834-020",
+        "upid_type": 12
     }
 ]
