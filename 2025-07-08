@@ -4031,6 +4031,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L"
         ],
@@ -4043,31 +4044,104 @@
         "franchise_id": "489898",
         "franchise_name": "King of the Hill",
         "genres": [
+            "Adult Animation",
             "Comedy",
             "Drama"
         ],
         "guide_timestamp": 1752008400,
-        "last_time_machine_update": 1752008467301,
-        "last_update": 1752008467301,
+        "last_time_machine_update": 1752010257458,
+        "last_update": 1752010257458,
         "live": false,
         "paid": "233056.015.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Mike Judge",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Greg Daniels",
+                "role": "creator"
+            },
+            {
+                "character": "Hank Hill",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peggy Hill",
+                "name": "Kathy Najimy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bobby Hill",
+                "name": "Pamela Adlon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Luanne Platter",
+                "name": "Brittany Murphy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dale Gribble",
+                "name": "Johnny Hardwick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bill Dauterive",
+                "name": "Stephen Root",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Boomhauer",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kahn Souphanousinphone",
+                "name": "Toby Huss",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Connie Souphanousinphone",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Mark McJimsey",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "David Zuckerman",
+                "role": "producer"
+            }
+        ],
         "premiere": false,
         "press_hold": false,
         "program_type": "EA",
-        "release_year": 2002,
+        "release_year": 2003,
         "runtime_minutes": 30,
         "scheduled_duration": 1803,
         "scheduled_timestamp": 1752008400,
         "season_id": "1540",
+        "season_name": "King of the Hill",
         "season_number": "7",
-        "serial": 1752008467301,
+        "serial": 1752010257456,
         "series_id": "629835",
         "series_name": "King of the Hill",
-        "show_duration": 1803,
+        "show_duration": 1800,
         "show_id": "276693392",
         "show_timestamp": 1752008413,
-        "status": "current",
-        "summary": "When Bobby repeatedly disobeys Hank, he is forced to attend the same boot camp Cotton went to in his youth.  But to Cotton's horror, the once draconian facility now mollycoddles its cadets.",
+        "status": "actual",
+        "summary": "When Bobby repeatedly disobeys Hank, he is forced to attend the same boot camp Cotton went to in his youth.",
+        "summary_listings": "When Bobby repeatedly disobeys Hank, he is forced to attend the same boot camp Cotton went to in his youth.",
+        "summary_long": "When Bobby repeatedly disobeys Hank, he is forced to attend the same boot camp Cotton went to in his youth. But to Cotton's horror, the once draconian facility now mollycoddles its cadets.",
+        "summary_main": "When Bobby repeatedly disobeys Hank, he is forced to attend the same boot camp Cotton went to in his youth. But to Cotton's horror, the once draconian facility now mollycoddles its cadets.",
+        "summary_short": "Bobby is forced to attend the same boot camp Cotton went to in his youth.",
         "title": "An Officer and a Gentle Boy",
         "title_id": "731482",
         "tv_rating": "TV-PG",
@@ -4076,6 +4150,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L"
         ],
@@ -4088,31 +4163,104 @@
         "franchise_id": "489898",
         "franchise_name": "King of the Hill",
         "genres": [
+            "Adult Animation",
             "Comedy",
             "Drama"
         ],
         "guide_timestamp": 1752010200,
-        "last_time_machine_update": 1752008467302,
-        "last_update": 1752008467302,
+        "last_time_machine_update": 1752010270292,
+        "last_update": 1752010270292,
         "live": false,
         "paid": "233056.016.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Mike Judge",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Greg Daniels",
+                "role": "creator"
+            },
+            {
+                "character": "Hank Hill",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peggy Hill",
+                "name": "Kathy Najimy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bobby Hill",
+                "name": "Pamela Adlon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Luanne Platter",
+                "name": "Brittany Murphy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dale Gribble",
+                "name": "Johnny Hardwick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bill Dauterive",
+                "name": "Stephen Root",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Boomhauer",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kahn Souphanousinphone",
+                "name": "Toby Huss",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Connie Souphanousinphone",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Mark McJimsey",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "David Zuckerman",
+                "role": "producer"
+            }
+        ],
         "premiere": false,
         "press_hold": false,
         "program_type": "EA",
-        "release_year": 2002,
+        "release_year": 2003,
         "runtime_minutes": 30,
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1752010200,
         "season_id": "1540",
+        "season_name": "King of the Hill",
         "season_number": "7",
-        "serial": 1752008467301,
+        "serial": 1752010270292,
         "series_id": "629835",
         "series_name": "King of the Hill",
-        "show_duration": 1804,
+        "show_duration": 1800,
         "show_id": "276693402",
-        "show_timestamp": 1752010213,
-        "status": "estimated",
-        "summary": "Miseducation of Bobby Hill, The: When Hank teaches Bobby the basics of propane sales, Bobby ignores the advice and uses his own strategy-with impressive results.",
+        "show_timestamp": 1752010216,
+        "status": "current",
+        "summary": "When Hank teaches Bobby the basics of propane sales, Bobby ignores the advice and uses his own strategy -- with impressive results.",
+        "summary_listings": "When Hank teaches Bobby the basics of propane sales, Bobby ignores the advice and uses his own strategy -- with impressive results.",
+        "summary_long": "When Hank teaches Bobby the basics of propane sales, Bobby ignores the advice and uses his own strategy -- with impressive results.",
+        "summary_main": "When Hank teaches Bobby the basics of propane sales, Bobby ignores the advice and uses his own strategy -- with impressive results.",
+        "summary_short": "Hank teaches Bobby the basics of propane sales.",
         "title": "The Miseducation of Bobby Hill",
         "title_id": "731483",
         "tv_rating": "TV-PG",
@@ -4134,31 +4282,104 @@
         "franchise_id": "489898",
         "franchise_name": "King of the Hill",
         "genres": [
+            "Adult Animation",
             "Comedy",
             "Drama"
         ],
         "guide_timestamp": 1752012000,
-        "last_time_machine_update": 1752008467303,
-        "last_update": 1752008467303,
+        "last_time_machine_update": 1752010274801,
+        "last_update": 1752010274801,
         "live": false,
         "paid": "233056.017.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Mike Judge",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Greg Daniels",
+                "role": "creator"
+            },
+            {
+                "character": "Hank Hill",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peggy Hill",
+                "name": "Kathy Najimy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bobby Hill",
+                "name": "Pamela Adlon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Luanne Platter",
+                "name": "Brittany Murphy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dale Gribble",
+                "name": "Johnny Hardwick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bill Dauterive",
+                "name": "Stephen Root",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Boomhauer",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kahn Souphanousinphone",
+                "name": "Toby Huss",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Connie Souphanousinphone",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Mark McJimsey",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "David Zuckerman",
+                "role": "producer"
+            }
+        ],
         "premiere": false,
         "press_hold": false,
         "program_type": "EA",
-        "release_year": 2002,
+        "release_year": 2003,
         "runtime_minutes": 30,
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1752012000,
         "season_id": "1540",
+        "season_name": "King of the Hill",
         "season_number": "7",
-        "serial": 1752008467301,
+        "serial": 1752010274799,
         "series_id": "629835",
         "series_name": "King of the Hill",
-        "show_duration": 1799,
+        "show_duration": 1800,
         "show_id": "276693412",
-        "show_timestamp": 1752012005,
+        "show_timestamp": 1752012016,
         "status": "estimated",
-        "summary": "Hank and Peggy become concerned when the leering Buck Strickland ends up in Luanne's Bible study class; Bobby skips gym class to have tea and scones at the posh Hotel Arlen.",
+        "summary": "Hank and Peggy become concerned when the leering Buck Strickland ends up in Luanne's Bible study class.",
+        "summary_listings": "Hank and Peggy become concerned when the leering Buck Strickland ends up in Luanne's Bible study class.",
+        "summary_long": "Hank and Peggy become concerned when the leering Buck Strickland ends up in Luanne's Bible study class. Bobby skips gym class to have tea and scones at the posh Hotel Arlen.",
+        "summary_main": "Hank and Peggy become concerned when the leering Buck Strickland ends up in Luanne's Bible study class. Bobby skips gym class to have tea and scones at the posh Hotel Arlen.",
+        "summary_short": "Hank and Peggy are concerned when Buck ends up in Luanne's Bible study.",
         "title": "The Good Buck",
         "title_id": "731484",
         "tv_rating": "TV-PG",
@@ -4167,6 +4388,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L"
         ],
@@ -4179,19 +4401,44 @@
         "franchise_id": "489898",
         "franchise_name": "Bob's Burgers",
         "genres": [
-            "Comedy",
-            "Family"
+            "Adult Animation",
+            "Comedy"
         ],
         "guide_timestamp": 1752013800,
-        "last_time_machine_update": 1752008467304,
-        "last_update": 1752008467304,
+        "last_time_machine_update": 1752010274802,
+        "last_update": 1752010274802,
         "live": false,
         "paid": "169734.020.03.851",
         "participants": [
             {
                 "character": "Bob Belcher",
-                "name": "H. Jon Benjamin",
-                "role": "Voice"
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
             }
         ],
         "premiere": false,
@@ -4202,16 +4449,24 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1752013800,
         "season_id": "12008",
+        "season_name": "Bob's Burgers",
         "season_number": "7",
-        "serial": 1752008467301,
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1752010274799,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
         "show_duration": 1800,
         "show_id": "276693422",
-        "show_timestamp": 1752013802,
+        "show_timestamp": 1752013808,
         "status": "estimated",
-        "summary": "Linda comes down with a nasty cold just in time for the Mother's Day show at Wagstaff. When Bob's outdated camcorder malfunctions, the kids perform a re-imagined version of the pageant for Linda back at home.",
-        "summary_long": "Linda comes down with a nasty cold just in time for the Mother's Day show at Wagstaff. When Bob's outdated camcorder malfunctions, the kids perform a re-imagined version of the pageant for Linda back at home. But will the kids' creative liberties be enough to make Linda feel the Mother's Day love?",
+        "summary": "Linda comes down with a nasty cold just in time for the Mother's Day show at Wagstaff.",
+        "summary_listings": "Linda comes down with a nasty cold just in time for the Mother's Day show at Wagstaff.",
+        "summary_long": "Linda comes down with a nasty cold just in time for the Mother's Day show at Wagstaff. When Bob's outdated camcorder malfunctions, the kids perform a re-imagined version of the pageant for Linda back at home.",
+        "summary_main": "Linda comes down with a nasty cold just in time for the Mother's Day show at Wagstaff. When Bob's outdated camcorder malfunctions, the kids perform a re-imagined version of the pageant for Linda back at home. But will the kids' creative liberties be enough to make Linda feel the Mother's Day love?",
+        "summary_short": "Linda comes down with a nasty cold just in time for Mother's Day.",
         "title": "Mom, Lies, and Videotape",
         "title_id": "2132987",
         "tv_rating": "TV-PG",
