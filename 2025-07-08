@@ -4168,8 +4168,8 @@
             "Drama"
         ],
         "guide_timestamp": 1752010200,
-        "last_time_machine_update": 1752010270292,
-        "last_update": 1752010270292,
+        "last_time_machine_update": 1752012033740,
+        "last_update": 1752012033740,
         "live": false,
         "paid": "233056.016.02.851",
         "participants": [
@@ -4249,13 +4249,13 @@
         "season_id": "1540",
         "season_name": "King of the Hill",
         "season_number": "7",
-        "serial": 1752010270292,
+        "serial": 1752012033739,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
         "show_id": "276693402",
         "show_timestamp": 1752010216,
-        "status": "current",
+        "status": "actual",
         "summary": "When Hank teaches Bobby the basics of propane sales, Bobby ignores the advice and uses his own strategy -- with impressive results.",
         "summary_listings": "When Hank teaches Bobby the basics of propane sales, Bobby ignores the advice and uses his own strategy -- with impressive results.",
         "summary_long": "When Hank teaches Bobby the basics of propane sales, Bobby ignores the advice and uses his own strategy -- with impressive results.",
@@ -4287,8 +4287,8 @@
             "Drama"
         ],
         "guide_timestamp": 1752012000,
-        "last_time_machine_update": 1752010274801,
-        "last_update": 1752010274801,
+        "last_time_machine_update": 1752012070888,
+        "last_update": 1752012070888,
         "live": false,
         "paid": "233056.017.02.851",
         "participants": [
@@ -4368,13 +4368,13 @@
         "season_id": "1540",
         "season_name": "King of the Hill",
         "season_number": "7",
-        "serial": 1752010274799,
+        "serial": 1752012070887,
         "series_id": "629835",
         "series_name": "King of the Hill",
         "show_duration": 1800,
         "show_id": "276693412",
-        "show_timestamp": 1752012016,
-        "status": "estimated",
+        "show_timestamp": 1752012020,
+        "status": "current",
         "summary": "Hank and Peggy become concerned when the leering Buck Strickland ends up in Luanne's Bible study class.",
         "summary_listings": "Hank and Peggy become concerned when the leering Buck Strickland ends up in Luanne's Bible study class.",
         "summary_long": "Hank and Peggy become concerned when the leering Buck Strickland ends up in Luanne's Bible study class. Bobby skips gym class to have tea and scones at the posh Hotel Arlen.",
@@ -4405,8 +4405,8 @@
             "Comedy"
         ],
         "guide_timestamp": 1752013800,
-        "last_time_machine_update": 1752010274802,
-        "last_update": 1752010274802,
+        "last_time_machine_update": 1752012070888,
+        "last_update": 1752012070888,
         "live": false,
         "paid": "169734.020.03.851",
         "participants": [
@@ -4453,14 +4453,14 @@
         "season_number": "7",
         "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
         "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
-        "serial": 1752010274799,
+        "serial": 1752012070887,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
         "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
         "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
         "show_duration": 1800,
         "show_id": "276693422",
-        "show_timestamp": 1752013808,
+        "show_timestamp": 1752013820,
         "status": "estimated",
         "summary": "Linda comes down with a nasty cold just in time for the Mother's Day show at Wagstaff.",
         "summary_listings": "Linda comes down with a nasty cold just in time for the Mother's Day show at Wagstaff.",
@@ -4475,6 +4475,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L"
         ],
@@ -4487,19 +4488,44 @@
         "franchise_id": "489898",
         "franchise_name": "Bob's Burgers",
         "genres": [
-            "Comedy",
-            "Family"
+            "Adult Animation",
+            "Comedy"
         ],
         "guide_timestamp": 1752015600,
-        "last_time_machine_update": 1752008467305,
-        "last_update": 1752008467305,
+        "last_time_machine_update": 1752012101078,
+        "last_update": 1752012101078,
         "live": false,
         "paid": "169734.021.02.851",
         "participants": [
             {
                 "character": "Bob Belcher",
-                "name": "H. Jon Benjamin",
-                "role": "Voice"
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
             }
         ],
         "premiere": false,
@@ -4510,15 +4536,24 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1752015600,
         "season_id": "12008",
+        "season_name": "Bob's Burgers",
         "season_number": "7",
-        "serial": 1752008467301,
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1752012101078,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1791,
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
         "show_id": "276693432",
-        "show_timestamp": 1752015601,
+        "show_timestamp": 1752015612,
         "status": "estimated",
-        "summary": "When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of an easy win. As the parade goes awry, Bob realizes he might need an attitude adjustment.",
+        "summary": "When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of a win.",
+        "summary_listings": "When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of a win.",
+        "summary_long": "When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of an easy win. As the parade goes awry, Bob realizes he might need an attitude adjustment.",
+        "summary_main": "When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of an easy win. As the parade goes awry, Bob realizes he might need an attitude adjustment.",
+        "summary_short": "Teddy convinces Bob to enter the Bog to Beach parade's float contest.",
         "title": "Paraders of the Lost Float",
         "title_id": "2132988",
         "tv_rating": "TV-PG",
@@ -4527,6 +4562,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L"
         ],
@@ -4539,19 +4575,44 @@
         "franchise_id": "489898",
         "franchise_name": "Bob's Burgers",
         "genres": [
-            "Comedy",
-            "Family"
+            "Adult Animation",
+            "Comedy"
         ],
         "guide_timestamp": 1752017400,
-        "last_time_machine_update": 1751927140581,
-        "last_update": 1751927140581,
+        "last_time_machine_update": 1752012101079,
+        "last_update": 1752012101079,
         "live": false,
         "paid": "169734.022.02.851",
         "participants": [
             {
                 "character": "Bob Belcher",
-                "name": "H. Jon Benjamin",
-                "role": "Voice"
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
             }
         ],
         "premiere": false,
@@ -4562,16 +4623,24 @@
         "scheduled_duration": 1804,
         "scheduled_timestamp": 1752017400,
         "season_id": "12008",
+        "season_name": "Bob's Burgers",
         "season_number": "7",
-        "serial": 1751927140578,
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1752012101078,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1804,
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
         "show_id": "276693442",
-        "show_timestamp": 1752017400,
+        "show_timestamp": 1752017405,
         "status": "estimated",
-        "summary": "When Bob finds out that the local outdoor adventure store is having a going out of business sale, he decides to finally realize his dream of becoming an outdoorsman.",
-        "summary_long": "When Bob finds out that the local outdoor adventure store is having a going out of business sale, he decides to finally realize his dream of becoming an outdoorsman. In true Belcher fashion, Bob finds himself accidentally locked overnight in the store, causing a real life survival test. Meanwhile, Linda and the kids spend the night watching the rehearsal for Aunt Gayle's one-woman show.",
+        "summary": "When Bob finds out that the local outdoor adventure store is having a going-out-of-business sale, he decides to becomes an outdoorsman.",
+        "summary_listings": "When Bob finds out that the local outdoor adventure store is having a going-out-of-business sale, he decides to becomes an outdoorsman.",
+        "summary_long": "When Bob finds out that the local outdoor adventure store is having a going-out-of-business sale, he decides to finally realize his dream of becoming an outdoorsman.",
+        "summary_main": "When Bob finds out that the local outdoor adventure store is having a going-out-of-business sale, he decides to finally realize his dream of becoming an outdoorsman. In true Belcher fashion, Bob finds himself accidentally locked overnight in the store, causing a real life survival test. Meanwhile, Linda and the kids spend the night watching the rehearsal for Aunt Gayle's one-woman show.",
+        "summary_short": "Bob decides to finally realize his dream of becoming an outdoorsman.",
         "title": "Into the Mild",
         "title_id": "2132989",
         "tv_rating": "TV-PG",
@@ -4581,8 +4650,8 @@
     {
         "blackout_type": "none",
         "content_advisories": [
-            "V",
-            "L"
+            "L",
+            "V"
         ],
         "content_id": "166124_001_02_851",
         "create_time": 1751927140582,
@@ -4593,19 +4662,44 @@
         "franchise_id": "489898",
         "franchise_name": "Bob's Burgers",
         "genres": [
-            "Comedy",
-            "Family"
+            "Adult Animation",
+            "Comedy"
         ],
         "guide_timestamp": 1752019200,
-        "last_time_machine_update": 1752005810458,
-        "last_update": 1752005810458,
+        "last_time_machine_update": 1752012101079,
+        "last_update": 1752012101079,
         "live": false,
         "paid": "166124.001.02.851",
         "participants": [
             {
                 "character": "Bob Belcher",
-                "name": "H. Jon Benjamin",
-                "role": "Voice"
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
             }
         ],
         "premiere": false,
@@ -4616,15 +4710,24 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1752019200,
         "season_id": "12616",
+        "season_name": "Bob's Burgers",
         "season_number": "8",
-        "serial": 1752005810454,
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1752012101078,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
-        "show_duration": 1792,
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
         "show_id": "276693452",
-        "show_timestamp": 1752019200,
+        "show_timestamp": 1752019202,
         "status": "estimated",
-        "summary": "To compete with Jimmy Pesto, Bob's Burgers begins serving brunch, but it quickly turns to chaos. Meanwhile, Tina, Gene and Louise decide to help Mr. Fischoeder's brother hide from him.",
+        "summary": "To compete with Jimmy Pesto, Bob's Burgers begins serving brunch, but it quickly turns to chaos.",
+        "summary_listings": "To compete with Jimmy Pesto, Bob's Burgers begins serving brunch, but it quickly turns to chaos.",
+        "summary_long": "To compete with Jimmy Pesto, Bob's Burgers begins serving brunch, but it quickly turns to chaos. Meanwhile, Tina, Gene and Louise decide to help Mr. Fischoeder's brother hide from him.",
+        "summary_main": "To compete with Jimmy Pesto, Bob's Burgers begins serving brunch, but it quickly turns to chaos. Meanwhile, Tina, Gene and Louise decide to help Mr. Fischoeder's brother hide from him.",
+        "summary_short": "Bob's Burgers begins serving brunch, but it quickly turns to chaos.",
         "title": "Brunchsquatch",
         "title_id": "2171432",
         "tv_rating": "TV-PG",
@@ -4633,6 +4736,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "L"
         ],
@@ -4645,19 +4749,45 @@
         "franchise_id": "489898",
         "franchise_name": "Bob's Burgers",
         "genres": [
+            "Adult Animation",
             "Comedy",
-            "Family"
+            "Investigation"
         ],
         "guide_timestamp": 1752021000,
-        "last_time_machine_update": 1751927678374,
-        "last_update": 1751927678374,
+        "last_time_machine_update": 1752012101080,
+        "last_update": 1752012101080,
         "live": false,
         "paid": "166124.002.02.851",
         "participants": [
             {
                 "character": "Bob Belcher",
-                "name": "H. Jon Benjamin",
-                "role": "Voice"
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
             }
         ],
         "premiere": false,
@@ -4668,15 +4798,24 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1752021000,
         "season_id": "12616",
+        "season_name": "Bob's Burgers",
         "season_number": "8",
-        "serial": 1751927678374,
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1752012101078,
         "series_id": "2003422",
         "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
         "show_duration": 1800,
         "show_id": "276693462",
-        "show_timestamp": 1752021000,
+        "show_timestamp": 1752021001,
         "status": "estimated",
-        "summary": "When Mr. Frond's therapy dolls are mysteriously attacked, Louise teams up with Millie to help solve the case. Meanwhile, Teddy decides to get into the inspirational poster business, but ends up with mixed results.",
+        "summary": "When Mr. Frond's therapy dolls are mysteriously attacked, Louise teams up with Millie to help solve the case.",
+        "summary_listings": "When Mr. Frond's therapy dolls are mysteriously attacked, Louise teams up with Millie to help solve the case.",
+        "summary_long": "When Mr. Frond's therapy dolls are mysteriously attacked, Louise teams up with Millie to help solve the case. Meanwhile, Teddy decides to get into the inspirational poster business but ends up with mixed results.",
+        "summary_main": "When Mr. Frond's therapy dolls are mysteriously attacked, Louise teams up with Millie to help solve the case. Meanwhile, Teddy decides to get into the inspirational poster business but ends up with mixed results.",
+        "summary_short": "Louise teams up with Millie to help solve a case.",
         "title": "The Silence of the Louise",
         "title_id": "2171433",
         "tv_rating": "TV-14",
@@ -4754,6 +4893,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -4772,30 +4912,35 @@
             "Comedy"
         ],
         "guide_timestamp": 1752026400,
-        "last_time_machine_update": 1751934637957,
-        "last_update": 1751934637957,
+        "last_time_machine_update": 1752012101080,
+        "last_update": 1752012101080,
         "live": false,
         "paid": "271173.008.01.851",
         "participants": [
             {
-                "character": null,
+                "character": "",
                 "name": "Seth MacFarlane",
-                "role": "Creator"
+                "role": "creator"
             },
             {
-                "character": null,
-                "name": "Seth MacFarlane",
-                "role": "Voice"
-            },
-            {
-                "character": null,
+                "character": "Chris Griffin",
                 "name": "Seth Green",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
-                "character": null,
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
                 "name": "Mila Kunis",
-                "role": "Voice"
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
             }
         ],
         "premiere": false,
@@ -4806,16 +4951,24 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1752026400,
         "season_id": "999",
+        "season_name": "Family Guy",
         "season_number": "10",
-        "serial": 1751934637957,
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1752012101078,
         "series_id": "440990",
         "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
         "show_duration": 1800,
         "show_id": "276693482",
         "show_timestamp": 1752026400,
         "status": "estimated",
-        "summary": "Peter and the guys take a stand against their wives and flee on a road trip. On the way there, the men earn a one-way ticket to jail. When they decide to make a run for it, Joe's planning and Peter's seductive ways help them escape.",
-        "summary_long": "Peter and the guys take a stand against their wives and flee to the Deep South on a road trip. On the way there, the men earn a one-way ticket to jail. But when they decide to make a run for it, Joe's quick planning and Peter's seductive ways help them escape. Meanwhile, Lois spends some quality time with the girls and they engage in childish antics.",
+        "summary": "Peter and the guys take a stand against their wives and flee on a road trip. On the way there, the men earn a one-way ticket to jail.",
+        "summary_listings": "Peter and the guys take a stand against their wives and flee on a road trip. On the way there, the men earn a one-way ticket to jail.",
+        "summary_long": "Peter and the guys take a stand against their wives and flee on a road trip. On the way there, the men earn a one-way ticket to jail. When they decide to make a run for it, Joe's planning and Peter's seductive ways help them escape.",
+        "summary_main": "Peter and the guys take a stand against their wives and flee to the Deep South on a road trip. On the way there, the men earn a one-way ticket to jail. But when they decide to make a run for it, Joe's quick planning and Peter's seductive ways help them escape. Meanwhile, Lois spends some quality time with the girls and they engage in childish antics.",
+        "summary_short": "The guys take a stand against their wives and flee on a road trip.",
         "title": "Cool Hand Peter",
         "title_id": "865326",
         "tv_rating": "TV-14",
@@ -4893,6 +5046,7 @@
     },
     {
         "blackout_type": "none",
+        "cc": true,
         "content_advisories": [
             "D",
             "L",
@@ -4911,30 +5065,35 @@
             "Comedy"
         ],
         "guide_timestamp": 1752030000,
-        "last_time_machine_update": 1751938378106,
-        "last_update": 1751938378106,
+        "last_time_machine_update": 1752012513849,
+        "last_update": 1752012513849,
         "live": false,
         "paid": "271173.010.01.851",
         "participants": [
             {
-                "character": null,
+                "character": "",
                 "name": "Seth MacFarlane",
-                "role": "Creator"
+                "role": "creator"
             },
             {
-                "character": null,
-                "name": "Mila Kunis",
-                "role": "Voice"
-            },
-            {
-                "character": null,
+                "character": "Chris Griffin",
                 "name": "Seth Green",
-                "role": "Voice"
+                "role": "voice-actor"
             },
             {
-                "character": null,
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
                 "name": "Seth MacFarlane",
-                "role": "Voice"
+                "role": "voice-actor"
             }
         ],
         "premiere": false,
@@ -4945,15 +5104,24 @@
         "scheduled_duration": 1800,
         "scheduled_timestamp": 1752030000,
         "season_id": "999",
+        "season_name": "Family Guy",
         "season_number": "10",
-        "serial": 1751938378106,
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1752012513849,
         "series_id": "440990",
         "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
         "show_duration": 1800,
         "show_id": "276693502",
         "show_timestamp": 1752030000,
         "status": "estimated",
         "summary": "When Meg turns 18, Peter and Lois attempt to keep Quagmire from seducing their daughter.",
+        "summary_listings": "When Meg turns 18, Peter and Lois attempt to keep Quagmire from seducing their daughter.",
+        "summary_long": "When Meg turns 18, Peter and Lois attempt to keep Quagmire from seducing their daughter.",
+        "summary_main": "When Meg turns 18, Peter and Lois attempt to keep Quagmire from seducing their daughter.",
+        "summary_short": "Peter and Lois attempt to keep Quagmire from seducing their daughter.",
         "title": "Quagmire and Meg",
         "title_id": "865325",
         "tv_rating": "TV-14",
