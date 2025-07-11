@@ -430,5 +430,99 @@
         "tv_rating": "TV-14",
         "upid": "DISC232845-014",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232845_015_03_851",
+        "create_time": 1752208319474,
+        "episode_in_season": "15",
+        "episode_number": "S13:E15",
+        "external_id": "232845-015-851-1752301800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1752301800,
+        "last_time_machine_update": 1752208319474,
+        "last_update": 1752208319474,
+        "live": false,
+        "paid": "232845.015.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1752301800,
+        "season_id": "9751",
+        "season_name": "American Dad",
+        "season_number": "13",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1752208319474,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276705860",
+        "show_timestamp": 1752301800,
+        "status": "estimated",
+        "summary": "Jeff starts hanging out with Stan's favorite celebrity chef while in search of an identity. Klaus and Roger start their own valet operation.",
+        "summary_listings": "Jeff starts hanging out with Stan's favorite celebrity chef while in search of an identity. Klaus and Roger start their own valet operation.",
+        "summary_long": "Jeff starts hanging out with Stan's favorite celebrity chef while in search of an identity. Klaus and Roger start their own valet operation.",
+        "summary_main": "Jeff starts hanging out with Stan's favorite celebrity chef while in search of an identity. Klaus and Roger start their own valet operation.",
+        "summary_short": "Jeff hangs out with Stan's favorite celebrity chef.",
+        "title": "Flavortown",
+        "title_id": "2069568",
+        "tv_rating": "TV-14",
+        "upid": "DISC232845-015",
+        "upid_type": 12
     }
 ]
