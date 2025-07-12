@@ -5478,5 +5478,90 @@
         "tv_rating": "TV-14",
         "upid": "DISC271172-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271172_007_02_851",
+        "create_time": 1752363460144,
+        "dvs": true,
+        "episode_in_season": "7",
+        "episode_number": "S16:E07",
+        "external_id": "271172-007-851-1752456600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1752456600,
+        "last_time_machine_update": 1752363460144,
+        "last_update": 1752363460144,
+        "live": false,
+        "paid": "271172.007.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1752456600,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1752363460144,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276713872",
+        "show_timestamp": 1752456600,
+        "status": "estimated",
+        "summary": "Peter discovers an alternate ending in the Russian version of one of his favorite films and writes to Vladimir Putin, who comes to Quahog.",
+        "summary_listings": "Peter discovers an alternate ending in the Russian version of one of his favorite films and writes to Vladimir Putin, who comes to Quahog.",
+        "summary_long": "On Thanksgiving weekend, Peter discovers an alternate ending in the Russian version of one of his favorite films and writes to Vladimir Putin, who comes to Quahog.",
+        "summary_main": "On Thanksgiving weekend, Peter discovers an alternate ending in the Russian version of one of his favorite films and writes to Vladimir Putin, who comes to Quahog.",
+        "summary_short": "Peter finds an alternate ending in the Russian version of a favorite film.",
+        "title": "Petey IV",
+        "title_id": "2539788",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-007",
+        "upid_type": 12
     }
 ]
