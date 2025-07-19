@@ -5342,5 +5342,89 @@
         "tv_rating": "TV-14",
         "upid": "DISC271172-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271172_010_02_851",
+        "create_time": 1752966893896,
+        "episode_in_season": "10",
+        "episode_number": "S16:E10",
+        "external_id": "271172-010-851-1753059600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1753059600,
+        "last_time_machine_update": 1752966893896,
+        "last_update": 1752966893896,
+        "live": false,
+        "paid": "271172.010.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1753059600,
+        "season_id": "31520",
+        "season_name": "Family Guy",
+        "season_number": "16",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1752966893896,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276742534",
+        "show_timestamp": 1753059600,
+        "status": "estimated",
+        "summary": "Brian meets a female show dog named Ellie. Smitten with her, he enters a show dog competition, in which the winner gets to breed with her.",
+        "summary_listings": "Brian meets a female show dog named Ellie. Smitten with her, he enters a show dog competition, in which the winner gets to breed with her.",
+        "summary_long": "At the vet's office, Brian meets a female show dog named Ellie. Smitten with her, he enters a show dog competition, in which the winner gets to breed with her.",
+        "summary_main": "At the vet's office, Brian meets a female show dog named Ellie. Smitten with her, he enters a show dog competition, in which the winner gets to breed with her.",
+        "summary_short": "Brian enters a show dog competition for a chance to breed with Ellie.",
+        "title": "Boy (Dog) Meets Girl (Dog)",
+        "title_id": "2539778",
+        "tv_rating": "TV-14",
+        "upid": "DISC271172-010",
+        "upid_type": 12
     }
 ]
