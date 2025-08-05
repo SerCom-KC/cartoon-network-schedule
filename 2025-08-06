@@ -5340,5 +5340,125 @@
         "tv_rating": "TV-PG",
         "upid": "DISC233067-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233067_010_02_851",
+        "create_time": 1754430059203,
+        "episode_in_season": "10",
+        "episode_number": "S11:E10",
+        "external_id": "233067-010-851-1754515800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1754515800,
+        "last_time_machine_update": 1754430059203,
+        "last_update": 1754430059203,
+        "live": false,
+        "paid": "233067.010.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Mike Judge",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Greg Daniels",
+                "role": "creator"
+            },
+            {
+                "character": "Hank Hill",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peggy Hill",
+                "name": "Kathy Najimy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bobby Hill",
+                "name": "Pamela Adlon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Luanne Platter",
+                "name": "Brittany Murphy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dale Gribble",
+                "name": "Johnny Hardwick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bill Dauterive",
+                "name": "Stephen Root",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Boomhauer",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kahn Souphanousinphone",
+                "name": "Toby Huss",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Connie Souphanousinphone",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Mark McJimsey",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "David Zuckerman",
+                "role": "producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1754515800,
+        "season_id": "1544",
+        "season_name": "King of the Hill",
+        "season_number": "11",
+        "serial": 1754430059203,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "276812166",
+        "show_timestamp": 1754515800,
+        "status": "estimated",
+        "summary": "When Nancy dumps John Redcorn, her hair begins to fall out.",
+        "summary_listings": "When Nancy dumps John Redcorn, her hair begins to fall out.",
+        "summary_long": "When Nancy dumps John Redcorn, her hair begins to fall out.",
+        "summary_main": "When Nancy dumps John Redcorn, her hair begins to fall out.",
+        "summary_short": "When Nancy dumps John Redcorn, her hair begins to fall out.",
+        "title": "Hair Today, Gone Today",
+        "title_id": "731552",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233067-010",
+        "upid_type": 12
     }
 ]
