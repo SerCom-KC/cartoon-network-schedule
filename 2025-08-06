@@ -5934,5 +5934,93 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169771-017",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169771_018_03_851",
+        "create_time": 1754433773975,
+        "episode_in_season": "18",
+        "episode_number": "S3:E18",
+        "external_id": "169771-018-851-1754526600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1754526600,
+        "last_time_machine_update": 1754433773975,
+        "last_update": 1754433773975,
+        "live": false,
+        "paid": "169771.018.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "H. Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1754526600,
+        "season_id": "7298",
+        "season_name": "Bob's Burgers",
+        "season_number": "3",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1754433773975,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276812226",
+        "show_timestamp": 1754526600,
+        "status": "estimated",
+        "summary": "The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that is full of senior swingers!",
+        "summary_listings": "The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that is full of senior swingers!",
+        "summary_long": "The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that -- to Linda's complete horror -- is full of senior swingers!",
+        "summary_main": "The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that -- to Linda's complete horror -- is full of senior swingers! Plus, to keep themselves entertained, Tina, Gene and Louise go on a hunt for a mysterious python that allegedly ate one of the residents' dogs.",
+        "summary_short": "The Belcher family road-trips down to Florida to visit Linda's parents.",
+        "title": "It Snakes a Village",
+        "title_id": "2003529",
+        "tv_rating": "TV-14",
+        "upid": "DISC169771-018",
+        "upid_type": 12
     }
 ]
