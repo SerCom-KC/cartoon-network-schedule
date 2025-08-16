@@ -1446,5 +1446,88 @@
         "tv_rating": "TV-PG",
         "upid": "DISC233080-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "168637_016_02_851",
+        "create_time": 1755340094134,
+        "episode_in_season": "16",
+        "episode_number": "S2:E16",
+        "external_id": "168637-016-851-1755424800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Mystery Incorporated",
+        "genres": [
+            "Comedy",
+            "Kids & Family",
+            "Mystery"
+        ],
+        "guide_timestamp": 1755424800,
+        "last_time_machine_update": 1755340094134,
+        "last_update": 1755340094134,
+        "live": false,
+        "paid": "168637.016.02.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1755424800,
+        "season_id": "5437",
+        "season_name": "Scooby-Doo! Mystery Incorporated",
+        "season_number": "2",
+        "season_summary": "The Scooby gang aims to disprove the paranormal happenings of Crystal Cove.",
+        "season_summary_long": "A sleepy little village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences. The sleuthing team of Scooby-Doo and the gang prove all of this simply isn't real.",
+        "serial": 1755340094134,
+        "series_id": "796588",
+        "series_name": "Scooby-Doo! Mystery Incorporated",
+        "series_summary": "The Scooby gang aims to disprove the paranormal happenings of Crystal Cove.",
+        "series_summary_long": "A sleepy little village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences. The sleuthing team of Scooby-Doo and the gang prove all of this simply isn't real.",
+        "show_duration": 1800,
+        "show_id": "276856842",
+        "show_timestamp": 1755424800,
+        "status": "estimated",
+        "summary": "The gang investigates some potential extra-terrestrial life in Crystal Cove with the help of Velma's mother.",
+        "summary_listings": "The gang investigates some potential extra-terrestrial life in Crystal Cove with the help of Velma's mother.",
+        "summary_long": "The gang investigates some potential extra-terrestrial life in Crystal Cove with the help of Velma's mother.",
+        "summary_main": "The gang investigates some potential extra-terrestrial life in Crystal Cove with the help of Velma's mother.",
+        "summary_short": "The gang investigates potential extra-terrestrial life in Crystal Cove.",
+        "title": "Aliens Among Us",
+        "title_id": "871232",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC168637-016",
+        "upid_type": 12
     }
 ]
