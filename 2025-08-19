@@ -6348,5 +6348,89 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169820-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271164_010_02_851",
+        "create_time": 1755559661956,
+        "dvs": true,
+        "episode_in_season": "10",
+        "episode_number": "S6:E10",
+        "external_id": "271164-010-851-1755651600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1755651600,
+        "last_time_machine_update": 1755559661956,
+        "last_update": 1755559661956,
+        "live": false,
+        "paid": "271164.010.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1804,
+        "scheduled_timestamp": 1755651600,
+        "season_id": "995",
+        "season_name": "Family Guy",
+        "season_number": "6",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1755559661956,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276865494",
+        "show_timestamp": 1755651600,
+        "status": "estimated",
+        "summary": "Peter and Lois' marriage hits a bit of a snag. When Brian wins an award, the three of them head to Martha's Vineyard for a nice relaxing vacation.",
+        "summary_listings": "Peter and Lois' marriage hits a bit of a snag. When Brian wins an award, the three of them head to Martha's Vineyard for a nice relaxing vacation.",
+        "summary_long": "Peter and Lois' marriage hits a bit of a snag. When Brian wins the New England Rising Writer's award, the three of them head to Martha's Vineyard for a nice relaxing vacation.",
+        "summary_main": "Peter and Lois' marriage hits a bit of a snag. When Brian wins the New England Rising Writer's award, the three of them head to Martha's Vineyard for a nice relaxing vacation. Peter's usual drinking habits take over and he soon spirals out of control, as does Brian's self restraint, as he soon professes his love for Lois. Peter and Brian test their friendship over the woman of their dreams.",
+        "summary_short": "Peter and Lois' marriage hits a bit of a snag.",
+        "title": "Play It Again, Brian",
+        "title_id": "712499",
+        "tv_rating": "TV-14",
+        "upid": "DISC271164-010",
+        "upid_type": 12
     }
 ]
