@@ -5950,5 +5950,87 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169734-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "271170_007_03_851",
+        "create_time": 1755731214257,
+        "episode_in_season": "7",
+        "episode_number": "S7:E07",
+        "external_id": "271170-007-851-1755824400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1755824400,
+        "last_time_machine_update": 1755731214257,
+        "last_update": 1755731214257,
+        "live": false,
+        "paid": "271170.007.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1755824400,
+        "season_id": "996",
+        "season_name": "Family Guy",
+        "season_number": "7",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1755731214257,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276873656",
+        "show_timestamp": 1755824400,
+        "status": "estimated",
+        "summary": "After seven years of pregnancy, Bonnie gives birth to baby Susie, and Stewie immediately falls in love.",
+        "summary_listings": "After seven years of pregnancy, Bonnie gives birth to baby Susie, and Stewie immediately falls in love.",
+        "summary_long": "After seven years of pregnancy, Bonnie gives birth to baby Susie, and Stewie immediately falls in love. When Joe can't pay the massive hospital bill, Peter and the boys plan to rob Mr. Pewterschmidt.",
+        "summary_main": "After seven years of pregnancy, Bonnie gives birth to baby Susie, and Stewie immediately falls in love. When Joe can't pay the massive hospital bill, Peter and the boys plan to rob Mr. Pewterschmidt.",
+        "summary_short": "Bonnie gives birth to baby Susie, and Stewie immediately falls in love.",
+        "title": "Ocean's Three and a Half",
+        "title_id": "730924",
+        "tv_rating": "TV-14",
+        "upid": "DISC271170-007",
+        "upid_type": 12
     }
 ]
