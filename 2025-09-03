@@ -320,5 +320,96 @@
         "tv_rating": "TV-14",
         "upid": "DISC229424-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "251838_002_01_851",
+        "create_time": 1756781701717,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "251838-002-851-1756874700",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "YOLO",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Fantasy"
+        ],
+        "guide_timestamp": 1756874700,
+        "last_time_machine_update": 1756781701717,
+        "last_update": 1756781701717,
+        "live": false,
+        "paid": "251838.002.01.851",
+        "participants": [
+            {
+                "character": "Sarah",
+                "name": "Sarah Bishop",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rachel",
+                "name": "Todor Manojlovic",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Michael Cusack",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Michael Cusack",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Emma Fitzsimons",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Greta Jackson",
+                "role": "executive-producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2020,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1756874700,
+        "season_id": "15893",
+        "season_name": "YOLO: Crystal Fantasy",
+        "season_number": "1",
+        "season_summary": "YOLO follows two party girls looking for fun times and new experiences.",
+        "season_summary_long": "YOLO follows two Australian party girls, Sarah and Rachel, looking for fun times, new experiences, positive vibes and hopeful horoscopes in the bizarre town of Wollongong.",
+        "serial": 1756781701717,
+        "series_id": "2224723",
+        "series_name": "YOLO",
+        "series_summary": "Two party girls look for fun times, new experiences and hopeful horoscopes.",
+        "series_summary_long": "Yolo Crystal Fantasy follows two Australian party girls, Sarah and Rachel, looking for fun times, new experiences, positive vibes and hopeful horoscopes in the bizarre town of Wollongong.",
+        "show_duration": 900,
+        "show_id": "276922968",
+        "show_timestamp": 1756874700,
+        "status": "estimated",
+        "summary": "Rachel and Sarah head to the outback town of Goondawindi for the annual Dusty Truck 'n' Donut Muster.",
+        "summary_listings": "Rachel and Sarah head to the outback town of Goondawindi for the annual Dusty Truck 'n' Donut Muster.",
+        "summary_long": "Rachel and Sarah head to the outback town of Goondawindi for the annual Dusty Truck 'n' Donut Muster, lured by the chance to win a meat tray and a glimpse of Trent, the star of TV's \"Outback Trent.\"",
+        "summary_main": "Rachel and Sarah head to the outback town of Goondawindi for the annual Dusty Truck 'n' Donut Muster, lured by the chance to win a meat tray and a glimpse of Trent, the star of TV's \"Outback Trent.\" But the event is a sham by the locals to lure Rachel to Goodawindi for much more sinister purposes. Can the girls escape the clutches of the outback cult?",
+        "summary_short": "Rachel and Sarah head to the annual Dusty Truck 'n' Donut Muster.",
+        "title": "The Dusty Truck 'n' Donut Muster",
+        "title_id": "2224725",
+        "tv_rating": "TV-14",
+        "upid": "DISC251838-002",
+        "upid_type": 12
     }
 ]
