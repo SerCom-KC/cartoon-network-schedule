@@ -6924,5 +6924,89 @@
         "tv_rating": "TV-14",
         "upid": "DISC271165-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271165_005_01_851",
+        "create_time": 1757028250670,
+        "episode_in_season": "5",
+        "episode_number": "S11:E05",
+        "external_id": "271165-005-851-1757120400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1757120400,
+        "last_time_machine_update": 1757028250670,
+        "last_update": 1757028250670,
+        "live": false,
+        "paid": "271165.005.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1757120400,
+        "season_id": "1000",
+        "season_name": "Family Guy",
+        "season_number": "11",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1757028250670,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276935166",
+        "show_timestamp": 1757120400,
+        "status": "estimated",
+        "summary": "Joe, Peter and Quagmire set out to capture the criminal who caused Joe's paralysis. Brian grows jealous of Quagmire's cat.",
+        "summary_listings": "Joe, Peter and Quagmire set out to capture the criminal who caused Joe's paralysis. Brian grows jealous of Quagmire's cat.",
+        "summary_long": "Joe, Peter and Quagmire set out to capture the criminal who caused Joe's paralysis. Brian grows jealous of Quagmire's cat.",
+        "summary_main": "Joe, Peter and Quagmire set out to capture the criminal who caused Joe's paralysis. Brian grows jealous of Quagmire's cat.",
+        "summary_short": "The guys set out to capture the criminal who caused Joe's paralysis.",
+        "title": "Joe's Revenge",
+        "title_id": "809247",
+        "tv_rating": "TV-14",
+        "upid": "DISC271165-005",
+        "upid_type": 12
     }
 ]
