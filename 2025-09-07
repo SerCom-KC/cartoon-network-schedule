@@ -4572,5 +4572,92 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228540-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228540_002_03_851",
+        "create_time": 1757186304957,
+        "episode_in_season": "2",
+        "episode_number": "S1:E02",
+        "external_id": "228540-002-851-1757277000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ben 10",
+        "genres": [
+            "Action",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1757277000,
+        "last_time_machine_update": 1757186304957,
+        "last_update": 1757186304957,
+        "live": false,
+        "paid": "228540.002.03.851",
+        "participants": [
+            {
+                "character": "Ben Tennyson",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gwen Tennyson",
+                "name": "Meagan Smith",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Maxwell Tennyson",
+                "name": "Paul Eiding",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Alex Soto",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Scooter Tidwell",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sebastian Montes",
+                "role": "director"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1757277000,
+        "season_id": "1529",
+        "season_name": "Ben 10",
+        "season_number": "1",
+        "season_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "season_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of ten spectacular and powerful aliens.",
+        "serial": 1757186304957,
+        "series_id": "629690",
+        "series_name": "Ben 10",
+        "series_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "series_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of 10 spectacular and powerful aliens.",
+        "show_duration": 1800,
+        "show_id": "276943138",
+        "show_timestamp": 1757277000,
+        "status": "estimated",
+        "summary": "Ben must use the Omnitrix to transform into alien heroes to battle Dr. Amino and his transmorphed dinosaurs running rampant in Washington DC.",
+        "summary_listings": "Ben must use the Omnitrix to transform into alien heroes to battle Dr. Amino and his transmorphed dinosaurs running rampant in Washington DC.",
+        "summary_long": "Ben must use the Omnitrix to transform into alien heroes to battle Dr. Amino and his transmorphed dinosaurs running rampant in Washington DC.",
+        "summary_main": "Ben must use the Omnitrix to transform into alien heroes to battle Dr. Amino and his transmorphed dinosaurs running rampant in Washington DC.",
+        "summary_short": "Ben uses the Omnitrix to transform into alien heroes to battle Dr. Amino.",
+        "title": "Washington B.C.",
+        "title_id": "630127",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228540-002",
+        "upid_type": 12
     }
 ]
