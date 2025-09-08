@@ -839,5 +839,99 @@
         "tv_rating": "TV-14",
         "upid": "DISC232832-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232855_001_04_851",
+        "create_time": 1757308428033,
+        "episode_in_season": "1",
+        "episode_number": "S9:E01",
+        "external_id": "232855-001-851-1757401200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1757401200,
+        "last_time_machine_update": 1757308428033,
+        "last_update": 1757308428033,
+        "live": false,
+        "paid": "232855.001.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1757401200,
+        "season_id": "7619",
+        "season_name": "American Dad",
+        "season_number": "9",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1757308428032,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276947594",
+        "show_timestamp": 1757401200,
+        "status": "estimated",
+        "summary": "Stan reveals that the C.I.A. has a cloning machine at work. Steve and Snot decide to use the machine to clone girls for prom.",
+        "summary_listings": "Stan reveals that the C.I.A. has a cloning machine at work. Steve and Snot decide to use the machine to clone girls for prom.",
+        "summary_long": "Stan reveals that the C.I.A. has a cloning machine at work. Steve and Snot decide to use the machine to clone girls so that they will finally have prom dates.",
+        "summary_main": "Stan reveals that the C.I.A. has a cloning machine at work. Steve and Snot decide to use the machine to clone girls so that they will finally have prom dates. The cloning process backfires as the girls emerge as babies.",
+        "summary_short": "When Stan reveals the C.I.A. has a cloning machine, Steve and Snot use it.",
+        "title": "Steve and Snot's Test-Tubular Adventure",
+        "title_id": "2007872",
+        "tv_rating": "TV-14",
+        "upid": "DISC232855-001",
+        "upid_type": 12
     }
 ]
