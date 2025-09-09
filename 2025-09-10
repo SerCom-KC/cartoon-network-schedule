@@ -6777,5 +6777,89 @@
         "tv_rating": "TV-14",
         "upid": "DISC271168-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271168_002_01_851",
+        "create_time": 1757460841417,
+        "episode_in_season": "2",
+        "episode_number": "S12:E02",
+        "external_id": "271168-002-851-1757554200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1757554200,
+        "last_time_machine_update": 1757460841417,
+        "last_update": 1757460841417,
+        "live": false,
+        "paid": "271168.002.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1757554200,
+        "season_id": "1001",
+        "season_name": "Family Guy",
+        "season_number": "12",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1757460841417,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276955656",
+        "show_timestamp": 1757554200,
+        "status": "estimated",
+        "summary": "Lois and Peter notice a lump on Peter's neck. They rush to the hospital where Dr. Hartman guesses that it's an incomplete vestigial twin.",
+        "summary_listings": "Lois and Peter notice a lump on Peter's neck. They rush to the hospital where Dr. Hartman guesses that it's an incomplete vestigial twin.",
+        "summary_long": "Fed up with Peter's old shirt, Lois takes him to buy a new outfit. When Peter struggles with the top button, they notice a lump on his neck. They rush to the hospital where Dr. Hartman guesses that it's an incomplete vestigial twin.",
+        "summary_main": "Fed up with Peter's old, tattered, shirt, Lois takes him to the mall to buy a new outfit for church. When Peter struggles with the top button, they notice a large lump on his neck. Alarmed, they rush to the hospital where Dr. Hartman guesses that it's an incomplete vestigial twin.",
+        "summary_short": "Dr. Hartman guesses that Peter's lump is an incomplete vestigial twin.",
+        "title": "Vestigial Peter",
+        "title_id": "809266",
+        "tv_rating": "TV-14",
+        "upid": "DISC271168-002",
+        "upid_type": 12
     }
 ]
