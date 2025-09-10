@@ -883,5 +883,98 @@
         "tv_rating": "TV-14",
         "upid": "DISC232855-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232855_010_03_851",
+        "create_time": 1757479301821,
+        "episode_in_season": "10",
+        "episode_number": "S9:E10",
+        "external_id": "232855-010-851-1757572200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1757572200,
+        "last_time_machine_update": 1757479301821,
+        "last_update": 1757479301821,
+        "live": false,
+        "paid": "232855.010.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1757572200,
+        "season_id": "7619",
+        "season_name": "American Dad",
+        "season_number": "9",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1757479301821,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276955776",
+        "show_timestamp": 1757572200,
+        "status": "estimated",
+        "summary": "The Smith family goes to a theme park  for vacation.",
+        "summary_listings": "The Smith family goes to a theme park  for vacation.",
+        "summary_long": "The Smith family goes to a theme park  for vacation.",
+        "summary_main": "The Smith family goes to Familyland theme park for vacation. Francine wants the family to spend the day together, but the individual members go their separate ways.  Francine cries in front of a statue of the park\u2019s founder, Roy Family, and awakens Roy from a deep slumber.",
+        "summary_short": "The Smith family goes to a theme park  for vacation.",
+        "title": "Familyland",
+        "title_id": "2007880",
+        "tv_rating": "TV-14",
+        "upid": "DISC232855-010",
+        "upid_type": 12
     }
 ]
