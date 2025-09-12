@@ -6454,5 +6454,89 @@
         "tv_rating": "TV-14",
         "upid": "DISC271168-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271168_019_01_851",
+        "create_time": 1757719807733,
+        "episode_in_season": "19",
+        "episode_number": "S12:E19",
+        "external_id": "271168-019-851-1757813400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1757813400,
+        "last_time_machine_update": 1757719807733,
+        "last_update": 1757719807733,
+        "live": false,
+        "paid": "271168.019.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1757813400,
+        "season_id": "1001",
+        "season_name": "Family Guy",
+        "season_number": "12",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1757719807733,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "276967884",
+        "show_timestamp": 1757813400,
+        "status": "estimated",
+        "summary": "Lois worries Peter is becoming too much of a distraction and warns Meg not to get too attached.",
+        "summary_listings": "Lois worries Peter is becoming too much of a distraction and warns Meg not to get too attached.",
+        "summary_long": "Peter and Meg bond during a college visit to Vermont. They party all night, resulting in Meg missing out on an interview. Lois worries Peter is becoming too much of a distraction and warns Meg not to get too attached.",
+        "summary_main": "Peter and Meg bond during a college visit to Vermont. The two party all night, resulting in Meg missing out on an important interview. Lois begins to worry that Peter is becoming too much of a distraction and warns Meg not to get too attached, but Meg is just happy to be getting positive attention from her father for the first time.",
+        "summary_short": "Lois warns Meg not to get too attached to Peter's positive attention.",
+        "title": "Meg Stinks!",
+        "title_id": "809281",
+        "tv_rating": "TV-14",
+        "upid": "DISC271168-019",
+        "upid_type": 12
     }
 ]
