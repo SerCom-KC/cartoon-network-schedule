@@ -4685,5 +4685,92 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228540-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228540_004_03_851",
+        "create_time": 1757788846076,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "228540-004-851-1757881800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ben 10",
+        "genres": [
+            "Action",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1757881800,
+        "last_time_machine_update": 1757788846076,
+        "last_update": 1757788846076,
+        "live": false,
+        "paid": "228540.004.03.851",
+        "participants": [
+            {
+                "character": "Ben Tennyson",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gwen Tennyson",
+                "name": "Meagan Smith",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Maxwell Tennyson",
+                "name": "Paul Eiding",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Alex Soto",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Scooter Tidwell",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sebastian Montes",
+                "role": "director"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1757881800,
+        "season_id": "1529",
+        "season_name": "Ben 10",
+        "season_number": "1",
+        "season_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "season_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of ten spectacular and powerful aliens.",
+        "serial": 1757788846076,
+        "series_id": "629690",
+        "series_name": "Ben 10",
+        "series_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "series_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of 10 spectacular and powerful aliens.",
+        "show_duration": 1800,
+        "show_id": "276971810",
+        "show_timestamp": 1757881800,
+        "status": "estimated",
+        "summary": "Grandpa, Gwen and Ben visit an old maid relative, only to find that her retirement community has been overtaken by shapeshifting aliens called Limax.",
+        "summary_listings": "Grandpa, Gwen and Ben visit an old maid relative, only to find that her retirement community has been overtaken by shapeshifting aliens called Limax.",
+        "summary_long": "Grandpa, Gwen and Ben visit an old maid relative, only to find that her retirement community has been overtaken by shapeshifting aliens called Limax.",
+        "summary_main": "Grandpa, Gwen and Ben visit an old maid relative, only to find that her retirement community has been overtaken by shapeshifting aliens called Limax.",
+        "summary_short": "Ben finds a retirement community overtaken by shapeshifting aliens.",
+        "title": "Permanent Retirement",
+        "title_id": "630129",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228540-004",
+        "upid_type": 12
     }
 ]
