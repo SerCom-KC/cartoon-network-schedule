@@ -4598,5 +4598,92 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228423-032",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228540_003_03_851",
+        "create_time": 1757787464872,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "228540-003-851-1757880000",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ben 10",
+        "genres": [
+            "Action",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1757880000,
+        "last_time_machine_update": 1757787464872,
+        "last_update": 1757787464872,
+        "live": false,
+        "paid": "228540.003.03.851",
+        "participants": [
+            {
+                "character": "Ben Tennyson",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gwen Tennyson",
+                "name": "Meagan Smith",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Maxwell Tennyson",
+                "name": "Paul Eiding",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Alex Soto",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Scooter Tidwell",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sebastian Montes",
+                "role": "director"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1757880000,
+        "season_id": "1529",
+        "season_name": "Ben 10",
+        "season_number": "1",
+        "season_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "season_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of ten spectacular and powerful aliens.",
+        "serial": 1757787464871,
+        "series_id": "629690",
+        "series_name": "Ben 10",
+        "series_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "series_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of 10 spectacular and powerful aliens.",
+        "show_duration": 1800,
+        "show_id": "452643308",
+        "show_timestamp": 1757880000,
+        "status": "estimated",
+        "summary": "While stopped at a lakefront campsite, Ben has a chance encounter with a Loch Ness-type sea monster called a Krakken, controlled by an evil poacher.",
+        "summary_listings": "While stopped at a lakefront campsite, Ben has a chance encounter with a Loch Ness-type sea monster called a Krakken, controlled by an evil poacher.",
+        "summary_long": "While stopped at a lakefront campsite, Ben has a chance encounter with a Loch Ness-type sea monster called a Krakken, controlled by an evil poacher.",
+        "summary_main": "While stopped at a lakefront campsite, Ben has a chance encounter with a Loch Ness-type sea monster called a Krakken, controlled by an evil poacher.",
+        "summary_short": "Ben has a chance encounter with a Loch Ness-type sea monster.",
+        "title": "The Krakken",
+        "title_id": "630128",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228540-003",
+        "upid_type": 12
     }
 ]
