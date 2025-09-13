@@ -5531,5 +5531,89 @@
         "tv_rating": "TV-14",
         "upid": "DISC271162-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271162_002_01_851",
+        "create_time": 1757805095043,
+        "episode_in_season": "2",
+        "episode_number": "S15:E02",
+        "external_id": "271162-002-851-1757898000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1757898000,
+        "last_time_machine_update": 1757805095043,
+        "last_update": 1757805095043,
+        "live": false,
+        "paid": "271162.002.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1757898000,
+        "season_id": "10564",
+        "season_name": "Family Guy",
+        "season_number": "15",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1757805095043,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "452643343",
+        "show_timestamp": 1757898000,
+        "status": "estimated",
+        "summary": "Impressed with his arm, Coach Doyle asks Chris to join the James Woods High School baseball team.",
+        "summary_listings": "Impressed with his arm, Coach Doyle asks Chris to join the James Woods High School baseball team.",
+        "summary_long": "While throwing rotten apples into oncoming traffic with Peter, Chris hits the car of the coach of the James Woods High School baseball team. Impressed with his arm, Coach Doyle asks Chris to join the team.",
+        "summary_main": "While throwing rotten apples into oncoming traffic with Peter, Chris hits the car of the coach of the James Woods High School baseball team. Impressed with his arm, Coach Doyle asks Chris to join the team.",
+        "summary_short": "Coach Doyle asks Chris to join the James Woods High School baseball team.",
+        "title": "Bookie of the Year",
+        "title_id": "2064585",
+        "tv_rating": "TV-14",
+        "upid": "DISC271162-002",
+        "upid_type": 12
     }
 ]
