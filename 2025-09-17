@@ -707,5 +707,99 @@
         "tv_rating": "TV-14",
         "upid": "DISC232831-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232831_008_06_851",
+        "create_time": 1757995598536,
+        "episode_in_season": "8",
+        "episode_number": "S10:E08",
+        "external_id": "232831-008-851-1758088800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1758088800,
+        "last_time_machine_update": 1757995598536,
+        "last_update": 1757995598536,
+        "live": false,
+        "paid": "232831.008.06.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1758088800,
+        "season_id": "7408",
+        "season_name": "American Dad",
+        "season_number": "10",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1757995598536,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276980352",
+        "show_timestamp": 1758088800,
+        "status": "estimated",
+        "summary": "When Steve insults Francine, she refuses to cook for him and he becomes a successful internet chef, appearing on a popular morning show.",
+        "summary_listings": "When Steve insults Francine, she refuses to cook for him and he becomes a successful internet chef, appearing on a popular morning show.",
+        "summary_long": "When Steve insults Francine, she refuses to cook for him and he becomes a successful internet chef, appearing on a popular morning show. Meanwhile, Stan thinks he can make people invisible by snapping his fingers.",
+        "summary_main": "When Steve insults Francine, she refuses to cook for him and he becomes a successful internet chef, appearing on a popular morning show. Meanwhile, Stan thinks he can make people invisible by snapping his fingers. Steve becomes an internet sensation called the \u201cOrphan Chef.\u201d His success lands him a spot on \u201cMorning Mimosa,\u201d Francine\u2019s favorite morning show. Meanwhile, Stan is arrested for his insane behavior. Meanwhile, Stan thinks he can make people disappear by snapping his fingers and saying \u201cGone.\u201d",
+        "summary_short": "Steve becomes a popular internet chef after insulting Francine's cooking.",
+        "title": "Morning Mimosa",
+        "title_id": "2019422",
+        "tv_rating": "TV-14",
+        "upid": "DISC232831-008",
+        "upid_type": 12
     }
 ]
