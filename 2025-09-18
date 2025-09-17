@@ -621,5 +621,98 @@
         "tv_rating": "TV-14",
         "upid": "DISC232831-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232831_013_05_851",
+        "create_time": 1758082181769,
+        "episode_in_season": "13",
+        "episode_number": "S10:E13",
+        "external_id": "232831-013-851-1758175200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1758175200,
+        "last_time_machine_update": 1758082181769,
+        "last_update": 1758082181769,
+        "live": false,
+        "paid": "232831.013.05.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus Heissler",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1758175200,
+        "season_id": "7408",
+        "season_name": "American Dad",
+        "season_number": "10",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1758082181768,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "276984428",
+        "show_timestamp": 1758175200,
+        "status": "estimated",
+        "summary": "Jeff returns from space. Or does he? Meanwhile, Steve watches after Snot's hamster.",
+        "summary_listings": "Jeff returns from space. Or does he? Meanwhile, Steve watches after Snot's hamster.",
+        "summary_long": "Jeff returns from space. Or does he? Meanwhile, Steve watches after Snot's hamster.",
+        "summary_main": "Jeff returns from space. Or does he? Meanwhile, Steve watches after Snot's hamster.",
+        "summary_short": "Jeff returns from space. Or does he?; Steve watches after Snot's hamster.",
+        "title": "Holy S***, Jeff's Back!",
+        "title_id": "2019428",
+        "tv_rating": "TV-14",
+        "upid": "DISC232831-013",
+        "upid_type": 12
     }
 ]
