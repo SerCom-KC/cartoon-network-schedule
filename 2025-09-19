@@ -5761,5 +5761,93 @@
         "tv_rating": "TV-PG",
         "upid": "DISC229039-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "S"
+        ],
+        "content_id": "250264_007_03_851",
+        "create_time": 1758230634698,
+        "episode_in_season": "7",
+        "episode_number": "S10:E07",
+        "external_id": "250264-007-851-1758315600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1758315600,
+        "last_time_machine_update": 1758230634698,
+        "last_update": 1758230634698,
+        "live": false,
+        "paid": "250264.007.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1758315600,
+        "season_id": "27920",
+        "season_name": "Bob's Burgers",
+        "season_number": "10",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1758230634698,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "276992410",
+        "show_timestamp": 1758315600,
+        "status": "estimated",
+        "summary": "Bob and Linda attend a loft party on a stormy night, while the kids challenge their babysitter, Jen, and face the storm in an ice cream truck.",
+        "summary_listings": "Bob and Linda attend a loft party on a stormy night, while the kids challenge their babysitter, Jen, and face the storm in an ice cream truck.",
+        "summary_long": "Bob and Linda challenge themselves and attend a loft party on a stormy night, while the kids challenge their babysitter, Jen, and face the storm in an ice cream truck.",
+        "summary_main": "Bob and Linda challenge themselves and attend a loft party on a stormy night, while the kids challenge their babysitter, Jen, and face the storm in an ice cream truck.",
+        "summary_short": "Bob and Linda brave a storm for a party.",
+        "title": "Land of the Loft",
+        "title_id": "2438945",
+        "tv_rating": "TV-14",
+        "upid": "DISC250264-007",
+        "upid_type": 12
     }
 ]
