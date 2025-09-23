@@ -6858,5 +6858,89 @@
         "tv_rating": "TV-14",
         "upid": "DISC271162-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271162_010_01_851",
+        "create_time": 1758670662967,
+        "episode_in_season": "10",
+        "episode_number": "S15:E10",
+        "external_id": "271162-010-851-1758763800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1758763800,
+        "last_time_machine_update": 1758670662967,
+        "last_update": 1758670662967,
+        "live": false,
+        "paid": "271162.010.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1758763800,
+        "season_id": "10564",
+        "season_name": "Family Guy",
+        "season_number": "15",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1758670662966,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "277012980",
+        "show_timestamp": 1758763800,
+        "status": "estimated",
+        "summary": "While flying back to Quahog, the plane Peter and his friends are on gets hi-jacked by three terrorists.",
+        "summary_listings": "While flying back to Quahog, the plane Peter and his friends are on gets hi-jacked by three terrorists.",
+        "summary_long": "Peter and his friends take full advantage of Quagmire's family and friends airline discount and decide to take a trip to San Francisco. While flying back to Quahog, the plane they're on gets hi-jacked by three terrorists.",
+        "summary_main": "Peter and his friends take full advantage of Quagmire's family and friends airline discount and decide to take a trip to San Francisco. While flying back to Quahog, the plane they're on gets hi-jacked by three terrorists.",
+        "summary_short": "While flying back to Quahog, Peter's plane gets hi-jacked by terrorists.",
+        "title": "Passenger Fatty-Seven",
+        "title_id": "2105389",
+        "tv_rating": "TV-14",
+        "upid": "DISC271162-010",
+        "upid_type": 12
     }
 ]
