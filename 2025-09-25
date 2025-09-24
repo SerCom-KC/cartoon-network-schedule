@@ -6452,5 +6452,95 @@
         "tv_rating": "TV-14",
         "upid": "DISC169796-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "169796_006_03_851",
+        "create_time": 1758749643037,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "169796-006-851-1758843000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1758843000,
+        "last_time_machine_update": 1758749643037,
+        "last_update": 1758749643037,
+        "live": false,
+        "paid": "169796.006.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1758843000,
+        "season_id": "8898",
+        "season_name": "Bob's Burgers",
+        "season_number": "4",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1758749643037,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "277017036",
+        "show_timestamp": 1758843000,
+        "status": "estimated",
+        "summary": "Linda reunites with her former bandmates from the Ta-Ta's to perform at their high school reunion.",
+        "summary_listings": "Linda reunites with her former bandmates from the Ta-Ta's to perform at their high school reunion.",
+        "summary_long": "In an attempt to redeem a failed talent show performance from her past, Linda reunites with her former bandmates from the Ta-Ta's to perform at their high school reunion.",
+        "summary_main": "In an attempt to redeem a failed talent show performance from her past, Linda reunites with her former bandmates from the Ta-Ta's to perform at their high school reunion. At the event, a former female classmate attempts to impress Bob, her high school crush, who, in turn, becomes very self-conscious about the unwanted attention.",
+        "summary_short": "Linda reunites with her bandmates to perform at their high school reunion.",
+        "title": "Purple Rain-Union",
+        "title_id": "2030307",
+        "tv_rating": "TV-14",
+        "upid": "DISC169796-006",
+        "upid_type": 12
     }
 ]
