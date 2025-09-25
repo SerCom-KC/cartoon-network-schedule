@@ -6529,5 +6529,89 @@
         "tv_rating": "TV-14",
         "upid": "DISC271162-019",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271162_020_01_851",
+        "create_time": 1758838171993,
+        "episode_in_season": "20",
+        "episode_number": "S15:E20",
+        "external_id": "271162-020-851-1758931200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1758931200,
+        "last_time_machine_update": 1758838171993,
+        "last_update": 1758838171993,
+        "live": false,
+        "paid": "271162.020.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1758931200,
+        "season_id": "10564",
+        "season_name": "Family Guy",
+        "season_number": "15",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1758838171993,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "277021142",
+        "show_timestamp": 1758931200,
+        "status": "estimated",
+        "summary": "Lois has a girls' night out with Bonnie and Donna, where they decide to prank call their husbands.",
+        "summary_listings": "Lois has a girls' night out with Bonnie and Donna, where they decide to prank call their husbands.",
+        "summary_long": "Lois has a girls' night out with Bonnie and Donna, where they decide to prank call their husbands. After Lois' friends ridicule their spouses, Lois decides to pretend to be Peter's long lost daughter.",
+        "summary_main": "Lois has a girls' night out with Bonnie and Donna, where they decide to prank call their husbands. After Lois' friends ridicule their spouses, Lois decides to pretend to be Peter's long lost daughter.",
+        "summary_short": "Lois, Bonnie and Donna have girls' night and prank call their husbands.",
+        "title": "A House Full of Peters",
+        "title_id": "2105401",
+        "tv_rating": "TV-14",
+        "upid": "DISC271162-020",
+        "upid_type": 12
     }
 ]
