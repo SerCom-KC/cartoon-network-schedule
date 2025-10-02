@@ -618,5 +618,99 @@
         "tv_rating": "TV-14",
         "upid": "DISC251868-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232845_009_04_851",
+        "create_time": 1759376558750,
+        "episode_in_season": "9",
+        "episode_number": "S13:E09",
+        "external_id": "232845-009-851-1759469400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1759469400,
+        "last_time_machine_update": 1759376558750,
+        "last_update": 1759376558750,
+        "live": false,
+        "paid": "232845.009.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1759469400,
+        "season_id": "9751",
+        "season_name": "American Dad",
+        "season_number": "13",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1759376558750,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277045828",
+        "show_timestamp": 1759469400,
+        "status": "estimated",
+        "summary": "Stan finds an outlet for his boring stories while teaching young CIA cadets. Klaus becomes a hype man for a rapper.",
+        "summary_listings": "Stan finds an outlet for his boring stories while teaching young CIA cadets. Klaus becomes a hype man for a rapper.",
+        "summary_long": "Stan finds an outlet for his boring stories while teaching young CIA cadets. Klaus becomes a hype man for a rapper.",
+        "summary_main": "Stan finds an outlet for his boring stories while teaching young CIA cadets. Klaus becomes a hype man for a rapper.",
+        "summary_short": "For Stan's young CIA cadets he finds an outlet telling his boring stories.",
+        "title": "The Never-Ending Stories",
+        "title_id": "2069562",
+        "tv_rating": "TV-14",
+        "upid": "DISC232845-009",
+        "upid_type": 12
     }
 ]
