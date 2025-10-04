@@ -4220,5 +4220,92 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228540-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228540_010_04_851",
+        "create_time": 1759603801357,
+        "episode_in_season": "10",
+        "episode_number": "S1:E10",
+        "external_id": "228540-010-851-1759696200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ben 10",
+        "genres": [
+            "Action",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1759696200,
+        "last_time_machine_update": 1759603801357,
+        "last_update": 1759603801357,
+        "live": false,
+        "paid": "228540.010.04.851",
+        "participants": [
+            {
+                "character": "Ben Tennyson",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gwen Tennyson",
+                "name": "Meagan Smith",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Maxwell Tennyson",
+                "name": "Paul Eiding",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Alex Soto",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Scooter Tidwell",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sebastian Montes",
+                "role": "director"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1759696200,
+        "season_id": "1529",
+        "season_name": "Ben 10",
+        "season_number": "1",
+        "season_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "season_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of ten spectacular and powerful aliens.",
+        "serial": 1759603801357,
+        "series_id": "629690",
+        "series_name": "Ben 10",
+        "series_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "series_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of 10 spectacular and powerful aliens.",
+        "show_duration": 1800,
+        "show_id": "277057796",
+        "show_timestamp": 1759696200,
+        "status": "estimated",
+        "summary": "Ben battles an evil sorcerer whose power emanates from mystic charms, one of which turns Gwen into her own superhero named Lucky Girl.",
+        "summary_listings": "Ben battles an evil sorcerer whose power emanates from mystic charms, one of which turns Gwen into her own superhero named Lucky Girl.",
+        "summary_long": "Ben battles an evil sorcerer whose power emanates from mystic charms, one of which turns Gwen into her own superhero named Lucky Girl.",
+        "summary_main": "Ben battles an evil sorcerer whose power emanates from mystic charms, one of which turns Gwen into her own superhero named Lucky Girl.",
+        "summary_short": "Ben battles an evil sorcerer whose power emanates from mystic charms.",
+        "title": "Lucky Girl",
+        "title_id": "630211",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228540-010",
+        "upid_type": 12
     }
 ]
