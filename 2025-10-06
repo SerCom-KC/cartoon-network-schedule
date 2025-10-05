@@ -6424,5 +6424,94 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169820-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169820_005_03_851",
+        "create_time": 1759704139465,
+        "dvs": true,
+        "episode_in_season": "5",
+        "episode_number": "S6:E05",
+        "external_id": "169820-005-851-1759797000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "guide_timestamp": 1759797000,
+        "last_time_machine_update": 1759704139465,
+        "last_update": 1759704139465,
+        "live": false,
+        "paid": "169820.005.04.857",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1759797000,
+        "season_id": "10374",
+        "season_name": "Bob's Burgers",
+        "season_number": "6",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1759704139465,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "277062092",
+        "show_timestamp": 1759797000,
+        "status": "estimated",
+        "summary": "When a mall Santa threatens the kids with the Naughty List, Gene, Tina and Louise decide to put on a musical performance.",
+        "summary_listings": "When a mall Santa threatens the kids with the Naughty List, Gene, Tina and Louise decide to put on a musical performance.",
+        "summary_long": "When a mall Santa threatens the kids with the Naughty List, Gene, Tina and Louise decide to put on a musical performance, which highlights all of their good deeds in order to earn their spot on the Nice List.",
+        "summary_main": "When a grumpy mall Santa threatens the kids with the dreaded Naughty List, Gene, Tina and Louise decide to put on a musical performance spectacular, which highlights all of their alleged good deeds from the past year, in order to earn their spot on the Nice List. But can they change Santa's mind in time to save their Christmas?",
+        "summary_short": "A mall Santa threatens the kids with the Naughty List.",
+        "title": "Nice-Capades",
+        "title_id": "2097193",
+        "tv_rating": "TV-14",
+        "upid": "DISC169820-005",
+        "upid_type": 12
     }
 ]
