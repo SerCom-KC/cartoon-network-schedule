@@ -785,5 +785,98 @@
         "tv_rating": "TV-14",
         "upid": "DISC232847-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232847_005_02_851",
+        "create_time": 1759813743651,
+        "episode_in_season": "5",
+        "episode_number": "S14:E05",
+        "external_id": "232847-005-851-1759906800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1759906800,
+        "last_time_machine_update": 1759813743651,
+        "last_update": 1759813743651,
+        "live": false,
+        "paid": "232847.005.03.857",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1759906800,
+        "season_id": "12035",
+        "season_name": "American Dad",
+        "season_number": "14",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1759813743651,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277066318",
+        "show_timestamp": 1759906800,
+        "status": "estimated",
+        "summary": "A CIA agent will do anything to protect his homeland and family.",
+        "summary_listings": "A CIA agent will do anything to protect his homeland and family.",
+        "summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "summary_main": "Jeff wins a tour through a mysterious weed factory and brings Stan along.",
+        "summary_short": "A CIA agent will do anything to protect his homeland and family.",
+        "title": "Jeff and the Dank Ass Weed Factory",
+        "title_id": "2186654",
+        "tv_rating": "TV-14",
+        "upid": "DISC232847-005",
+        "upid_type": 12
     }
 ]
