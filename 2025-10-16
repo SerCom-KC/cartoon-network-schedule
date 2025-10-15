@@ -868,5 +868,100 @@
         "tv_rating": "TV-14",
         "upid": "DISC232837-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232837_012_01_851",
+        "create_time": 1760504796350,
+        "dvs": true,
+        "episode_in_season": "12",
+        "episode_number": "S15:E12",
+        "external_id": "232837-012-851-1760598000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1760598000,
+        "last_time_machine_update": 1760504796350,
+        "last_update": 1760504796350,
+        "live": false,
+        "paid": "232837.012.03.857",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1760598000,
+        "season_id": "14124",
+        "season_name": "American Dad",
+        "season_number": "15",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1760504796349,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277099086",
+        "show_timestamp": 1760598000,
+        "status": "estimated",
+        "summary": "Stan struggles to cope with the untimely death of his father.",
+        "summary_listings": "Stan struggles to cope with the untimely death of his father.",
+        "summary_long": "Stan struggles to cope with the untimely death of his father. Meanwhile, a simple canoeing trip does catastrophic damage to Hayley and Jeff's relationship.",
+        "summary_main": "Stan struggles to cope with the untimely death of his father. Meanwhile, a simple canoeing trip does catastrophic damage to Hayley and Jeff's relationship.",
+        "summary_short": "Stan struggles to cope with the untimely death of his father.",
+        "title": "Ghost Dad",
+        "title_id": "2197417",
+        "tv_rating": "TV-14",
+        "upid": "DISC232837-012",
+        "upid_type": 12
     }
 ]
