@@ -590,5 +590,99 @@
         "tv_rating": "TV-14",
         "upid": "DISC232842-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_019_03_851",
+        "create_time": 1760675423081,
+        "episode_in_season": "19",
+        "episode_number": "S15:E19",
+        "external_id": "232837-019-851-1760767200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1760767200,
+        "last_time_machine_update": 1760675423081,
+        "last_update": 1760675423081,
+        "live": false,
+        "paid": "232837.019.04.857",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1760767200,
+        "season_id": "14124",
+        "season_name": "American Dad",
+        "season_number": "15",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1760675423081,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "461274248",
+        "show_timestamp": 1760767200,
+        "status": "estimated",
+        "summary": "Stan goes to great lengths to find the \"right\" couple's activity for him and Francine.",
+        "summary_listings": "Stan goes to great lengths to find the \"right\" couple's activity for him and Francine.",
+        "summary_long": "Stan goes to great lengths to find the \"right\" couple's activity for him and Francine; Hayley and Steve look into some mysterious markings they find on the door frame.",
+        "summary_main": "Stan goes to great lengths to find the \"right\" couple's activity for him and Francine; Hayley and Steve look into some mysterious markings they find on the door frame.",
+        "summary_short": "Stan goes to great lengths to find the \"right\" couple's activity.",
+        "title": "Dammmm, Stan!",
+        "title_id": "2197424",
+        "tv_rating": "TV-14",
+        "upid": "DISC232837-019",
+        "upid_type": 12
     }
 ]
