@@ -6885,5 +6885,89 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169687-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271173_002_01_851",
+        "create_time": 1761175138568,
+        "episode_in_season": "2",
+        "episode_number": "S10:E02",
+        "external_id": "271173-002-851-1761267600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1761267600,
+        "last_time_machine_update": 1761175138568,
+        "last_update": 1761175138568,
+        "live": false,
+        "paid": "271173.002.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1761267600,
+        "season_id": "999",
+        "season_name": "Family Guy",
+        "season_number": "10",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1761175138568,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "277131764",
+        "show_timestamp": 1761267600,
+        "status": "estimated",
+        "summary": "A storm hits Quahog. To calm his nerves, Brian consumes some questionable substances and has trouble sobering up.",
+        "summary_listings": "A storm hits Quahog. To calm his nerves, Brian consumes some questionable substances and has trouble sobering up.",
+        "summary_long": "A storm hits the towns of Stoolbend, Quahog and Langley Falls. To help pass the time and calm his nerves, Brian consumes some questionable substances and has trouble sobering up.",
+        "summary_main": "A storm hits the towns of Stoolbend, Quahog and Langley Falls. To help pass the time and calm his nerves, Brian consumes some questionable substances and has trouble sobering up. Meanwhile, Meg goes off the deep end after the family takes one too many jabs at her.",
+        "summary_short": "To calm his nerves in a storm, Brian consumes some questionable substances.",
+        "title": "Seahorse Sea Shell Party",
+        "title_id": "809154",
+        "tv_rating": "TV-14",
+        "upid": "DISC271173-002",
+        "upid_type": 12
     }
 ]
