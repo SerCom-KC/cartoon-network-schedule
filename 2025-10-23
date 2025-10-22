@@ -1620,5 +1620,125 @@
         "tv_rating": "TV-14",
         "upid": "DISC228801-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233071_015_02_851",
+        "create_time": 1761117724599,
+        "episode_in_season": "15",
+        "episode_number": "S9:E15",
+        "external_id": "233071-015-851-1761210000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1761210000,
+        "last_time_machine_update": 1761117724599,
+        "last_update": 1761117724599,
+        "live": false,
+        "paid": "233071.015.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Mike Judge",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Greg Daniels",
+                "role": "creator"
+            },
+            {
+                "character": "Hank Hill",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peggy Hill",
+                "name": "Kathy Najimy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bobby Hill",
+                "name": "Pamela Adlon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Luanne Platter",
+                "name": "Brittany Murphy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dale Gribble",
+                "name": "Johnny Hardwick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bill Dauterive",
+                "name": "Stephen Root",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Boomhauer",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kahn Souphanousinphone",
+                "name": "Toby Huss",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Connie Souphanousinphone",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Mark McJimsey",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "David Zuckerman",
+                "role": "producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1761210000,
+        "season_id": "1542",
+        "season_name": "King of the Hill",
+        "season_number": "9",
+        "serial": 1761117724599,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "277127848",
+        "show_timestamp": 1761210000,
+        "status": "estimated",
+        "summary": "Hank reacts with horror when Bill joins a men's chorus. Peggy challenges Bobby to a game of video Pong.",
+        "summary_listings": "Hank reacts with horror when Bill joins a men's chorus. Peggy challenges Bobby to a game of video Pong.",
+        "summary_long": "Hank reacts with horror when Bill joins a men's chorus. Peggy challenges Bobby to a game of video Pong.",
+        "summary_main": "Hank reacts with horror when Bill joins a men's chorus. Peggy challenges Bobby to a game of video Pong.",
+        "summary_short": "Hank reacts with horror when Bill joins a men's chorus.",
+        "title": "It Ain't Over Till The Fat Neighbor Sings",
+        "title_id": "731527",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233071-015",
+        "upid_type": 12
     }
 ]
