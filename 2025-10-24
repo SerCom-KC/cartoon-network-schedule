@@ -900,5 +900,100 @@
         "tv_rating": "TV-14",
         "upid": "DISC232850-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232850_012_03_851",
+        "create_time": 1761195766939,
+        "episode_in_season": "12",
+        "episode_number": "S16:E12",
+        "external_id": "232850-012-851-1761289200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1761289200,
+        "last_time_machine_update": 1761195766939,
+        "last_update": 1761195766939,
+        "live": false,
+        "paid": "232850.012.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1761289200,
+        "season_id": "16310",
+        "season_name": "American Dad",
+        "season_number": "16",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1761195766939,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277131904",
+        "show_timestamp": 1761289200,
+        "status": "estimated",
+        "summary": "Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck.",
+        "summary_listings": "Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck.",
+        "summary_long": "Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck.",
+        "summary_main": "Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck.",
+        "summary_short": "Stan is forced to partner with Jeff in a lumberjack competition.",
+        "title": "Lumberjerk",
+        "title_id": "2238761",
+        "tv_rating": "TV-14",
+        "upid": "DISC232850-012",
+        "upid_type": 12
     }
 ]
