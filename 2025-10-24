@@ -1425,5 +1425,125 @@
         "tv_rating": "TV-14",
         "upid": "DISC228801-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233073_002_02_851",
+        "create_time": 1761203406941,
+        "episode_in_season": "2",
+        "episode_number": "S10:E02",
+        "external_id": "233073-002-851-1761296400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1761296400,
+        "last_time_machine_update": 1761203406941,
+        "last_update": 1761203406941,
+        "live": false,
+        "paid": "233073.002.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Mike Judge",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Greg Daniels",
+                "role": "creator"
+            },
+            {
+                "character": "Hank Hill",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peggy Hill",
+                "name": "Kathy Najimy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bobby Hill",
+                "name": "Pamela Adlon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Luanne Platter",
+                "name": "Brittany Murphy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dale Gribble",
+                "name": "Johnny Hardwick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bill Dauterive",
+                "name": "Stephen Root",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Boomhauer",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kahn Souphanousinphone",
+                "name": "Toby Huss",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Connie Souphanousinphone",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Mark McJimsey",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "David Zuckerman",
+                "role": "producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1761296400,
+        "season_id": "1543",
+        "season_name": "King of the Hill",
+        "season_number": "10",
+        "serial": 1761203406941,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "277131944",
+        "show_timestamp": 1761296400,
+        "status": "estimated",
+        "summary": "Peggy gets a job at the town newspaper writing a household tips column but inadvertently gives readers the recipe for mustard gas.",
+        "summary_listings": "Peggy gets a job at the town newspaper writing a household tips column but inadvertently gives readers the recipe for mustard gas.",
+        "summary_long": "Peggy gets a job at the town newspaper writing a household tips column but inadvertently gives readers the recipe for mustard gas.",
+        "summary_main": "Peggy gets a job at the town newspaper writing a household tips column but inadvertently gives readers the recipe for mustard gas.",
+        "summary_short": "Peggy gets a job at the town newspaper writing a household tips column.",
+        "title": "Bystand Me",
+        "title_id": "731529",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233073-002",
+        "upid_type": 12
     }
 ]
