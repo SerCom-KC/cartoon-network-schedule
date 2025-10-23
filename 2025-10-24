@@ -5577,5 +5577,93 @@
         "tv_rating": "TV-PG",
         "upid": "DISC169771-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "169796_002_02_851",
+        "create_time": 1761255135556,
+        "episode_in_season": "2",
+        "episode_number": "S4:E02",
+        "external_id": "169796-002-851-1761341400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1761341400,
+        "last_time_machine_update": 1761255135556,
+        "last_update": 1761255135556,
+        "live": false,
+        "paid": "169796.002.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1761341400,
+        "season_id": "8898",
+        "season_name": "Bob's Burgers",
+        "season_number": "4",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1761255135556,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "277135750",
+        "show_timestamp": 1761341400,
+        "status": "estimated",
+        "summary": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure.",
+        "summary_listings": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure.",
+        "summary_long": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. Things take a turn for the worse when the kids build a fort and find themselves held hostage by Millie.",
+        "summary_main": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. However, things take a turn for the worse when the kids build their own fort and find themselves held hostage by Louise's wacko friend, Millie.",
+        "summary_short": "Tina, Gene and Louise head out for a candy-fueled Halloween adventure.",
+        "title": "Fort Night",
+        "title_id": "2030305",
+        "tv_rating": "TV-14",
+        "upid": "DISC169796-002",
+        "upid_type": 12
     }
 ]
