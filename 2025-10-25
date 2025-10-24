@@ -5052,5 +5052,94 @@
         "tv_rating": "TV-PG",
         "upid": "DISC233060-021",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "S"
+        ],
+        "content_id": "250263_009_02_851",
+        "create_time": 1761343345096,
+        "dvs": true,
+        "episode_in_season": "9",
+        "episode_number": "S9:E09",
+        "external_id": "250263-009-851-1761429600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1761429600,
+        "last_time_machine_update": 1761343345096,
+        "last_update": 1761343345096,
+        "live": false,
+        "paid": "250263.009.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1761429600,
+        "season_id": "27919",
+        "season_name": "Bob's Burgers",
+        "season_number": "9",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1761343345096,
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "277139796",
+        "show_timestamp": 1761429600,
+        "status": "estimated",
+        "summary": "Tina and her science partner create a device that allows them to communicate with aliens, but their excitement turns to fear when they get a response.",
+        "summary_listings": "Tina and her science partner create a device that allows them to communicate with aliens, but their excitement turns to fear when they get a response.",
+        "summary_long": "Tina and her new science partner create a device that allows them to communicate with aliens, but their excitement turns to fear when they receive a dangerous warning message. Meanwhile, Bob attempts to sell mini coat racks he bought.",
+        "summary_main": "Tina and her new science partner create a device that allows them to communicate with aliens, but their excitement turns to fear when they receive a dangerous warning message. Meanwhile, Bob attempts to sell mini coat racks he bought.",
+        "summary_short": "Tina talks to aliens.",
+        "title": "UFO No You Didn't",
+        "title_id": "2438925",
+        "tv_rating": "TV-14",
+        "upid": "DISC250263-009",
+        "upid_type": 12
     }
 ]
