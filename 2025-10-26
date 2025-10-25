@@ -3985,5 +3985,92 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228423-025",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228537_011_04_851",
+        "create_time": 1761416657444,
+        "episode_in_season": "11",
+        "episode_number": "S2:E11",
+        "external_id": "228537-011-851-1761508800",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ben 10",
+        "genres": [
+            "Action",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1761508800,
+        "last_time_machine_update": 1761416657444,
+        "last_update": 1761416657444,
+        "live": false,
+        "paid": "228537.011.04.851",
+        "participants": [
+            {
+                "character": "Ben Tennyson",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gwen Tennyson",
+                "name": "Meagan Smith",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Maxwell Tennyson",
+                "name": "Paul Eiding",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Alex Soto",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Scooter Tidwell",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sebastian Montes",
+                "role": "director"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1761508800,
+        "season_id": "1530",
+        "season_name": "Ben 10",
+        "season_number": "2",
+        "season_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "season_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of ten spectacular and powerful aliens.",
+        "serial": 1761416657444,
+        "series_id": "629690",
+        "series_name": "Ben 10",
+        "series_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "series_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of 10 spectacular and powerful aliens.",
+        "show_duration": 1800,
+        "show_id": "277143812",
+        "show_timestamp": 1761508800,
+        "status": "estimated",
+        "summary": "Ben's internal demons get externalized when Ghostfreak escapes from his watch and becomes a full-fledged being on his own.",
+        "summary_listings": "Ben's internal demons get externalized when Ghostfreak escapes from his watch and becomes a full-fledged being on his own.",
+        "summary_long": "Ben's internal demons get externalized when Ghostfreak escapes from his watch and becomes a full-fledged being on his own. The renegade alien then realizes he needs to meld with Ben's DNA in order to survive.",
+        "summary_main": "Ben's internal demons get externalized when Ghostfreak escapes from his watch and becomes a full-fledged being on his own. The renegade alien then realizes he needs to meld with Ben's DNA in order to survive.",
+        "summary_short": "Ben's internal demons get externalized when Ghostfreak escapes.",
+        "title": "Ghostfreaked Out",
+        "title_id": "630226",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228537-011",
+        "upid_type": 12
     }
 ]
