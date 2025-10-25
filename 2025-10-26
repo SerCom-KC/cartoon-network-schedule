@@ -4072,5 +4072,92 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC228537-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "228537_002_04_851",
+        "create_time": 1761417928508,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "228537-002-851-1761510600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Ben 10",
+        "genres": [
+            "Action",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1761510600,
+        "last_time_machine_update": 1761417928508,
+        "last_update": 1761417928508,
+        "live": false,
+        "paid": "228537.002.04.851",
+        "participants": [
+            {
+                "character": "Ben Tennyson",
+                "name": "Tara Strong",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Gwen Tennyson",
+                "name": "Meagan Smith",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Maxwell Tennyson",
+                "name": "Paul Eiding",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Alex Soto",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Scooter Tidwell",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Sebastian Montes",
+                "role": "director"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1761510600,
+        "season_id": "1530",
+        "season_name": "Ben 10",
+        "season_number": "2",
+        "season_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "season_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of ten spectacular and powerful aliens.",
+        "serial": 1761417928508,
+        "series_id": "629690",
+        "series_name": "Ben 10",
+        "series_summary": "While on vacation, Ben Tennyson discovers a watch called the Omnitrix.",
+        "series_summary_long": "While on a seemingly endless summer vacation with Grandpa Max and Cousin Gwen, Ben Tennyson discovers a watch called the Omnitrix. This device gives Ben the ability to transform into any one of 10 spectacular and powerful aliens.",
+        "show_duration": 1800,
+        "show_id": "277143822",
+        "show_timestamp": 1761510600,
+        "status": "estimated",
+        "summary": "A giant alien tick that sucks planets dry lands on Earth with the sole purpose of destroying the planet, and only a new alien hero can stop it.",
+        "summary_listings": "A giant alien tick that sucks planets dry lands on Earth with the sole purpose of destroying the planet, and only a new alien hero can stop it.",
+        "summary_long": "A giant alien tick that sucks planets dry lands on Earth with the sole purpose of destroying the planet, and only a new alien hero can stop it.",
+        "summary_main": "A giant alien tick that sucks planets dry lands on Earth with the sole purpose of destroying the planet, and only a new alien hero can stop it.",
+        "summary_short": "A giant alien tick that sucks planets dry lands on Earth.",
+        "title": "Big Tick",
+        "title_id": "630216",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC228537-002",
+        "upid_type": 12
     }
 ]
