@@ -6532,5 +6532,89 @@
         "tv_rating": "TV-14",
         "upid": "DISC271160-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271173_018_01_851",
+        "create_time": 1761608865626,
+        "episode_in_season": "18",
+        "episode_number": "S10:E18",
+        "external_id": "271173-018-851-1761701400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1761701400,
+        "last_time_machine_update": 1761608865626,
+        "last_update": 1761608865626,
+        "live": false,
+        "paid": "271173.018.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1761701400,
+        "season_id": "999",
+        "season_name": "Family Guy",
+        "season_number": "10",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1761608865626,
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "277152224",
+        "show_timestamp": 1761701400,
+        "status": "estimated",
+        "summary": "After Peter's favorite children's television show gets cancelled, he takes matters into his own hands by creating and starring in his own show.",
+        "summary_listings": "After Peter's favorite children's television show gets cancelled, he takes matters into his own hands by creating and starring in his own show.",
+        "summary_long": "After Peter's favorite children's television show gets cancelled, he takes matters into his own hands by creating and starring in his own show for kids. Meanwhile, Meg begins an internship at the hospital with Dr. Hartman.",
+        "summary_main": "After Peter's favorite children's television show gets cancelled, he takes matters into his own hands by creating and starring in his own show for kids. Meanwhile, Meg begins an internship at the hospital with Dr. Hartman.",
+        "summary_short": "After Peter's favorite children's show gets cancelled, he creates his own.",
+        "title": "You Can't Do That on Television, Peter",
+        "title_id": "865339",
+        "tv_rating": "TV-14",
+        "upid": "DISC271173-018",
+        "upid_type": 12
     }
 ]
