@@ -622,5 +622,99 @@
         "tv_rating": "TV-14",
         "upid": "DISC232837-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232850_022_03_851",
+        "create_time": 1761885958693,
+        "episode_in_season": "22",
+        "episode_number": "S16:E22",
+        "external_id": "232850-022-851-1761978600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1761978600,
+        "last_time_machine_update": 1761885958693,
+        "last_update": 1761885958693,
+        "live": false,
+        "paid": "232850.022.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1761978600,
+        "season_id": "16310",
+        "season_name": "American Dad",
+        "season_number": "16",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1761885958692,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277164512",
+        "show_timestamp": 1761978600,
+        "status": "estimated",
+        "summary": "When Principal Lewis threatens to cancel science club, Steve takes matters into his own hands in a monstrous way.",
+        "summary_listings": "When Principal Lewis threatens to cancel science club, Steve takes matters into his own hands in a monstrous way.",
+        "summary_long": "When Principal Lewis threatens to cancel science club, Steve takes matters into his own hands in a monstrous way.",
+        "summary_main": "When Principal Lewis threatens to cancel science club, Steve takes matters into his own hands in a monstrous way.",
+        "summary_short": "Steve takes action when Principal Lewis threatens to cancel science club.",
+        "title": "Steve's Franken Out",
+        "title_id": "2238757",
+        "tv_rating": "TV-14",
+        "upid": "DISC232850-022",
+        "upid_type": 12
     }
 ]
