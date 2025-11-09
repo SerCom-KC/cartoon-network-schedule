@@ -1061,5 +1061,91 @@
         "tv_rating": "TV-MA",
         "upid": "DISC262721-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "275065_003_02_851",
+        "create_time": 1762672646713,
+        "dvs": true,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "275065-003-851-1762766160",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Haha, You Clowns",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1762766100,
+        "last_time_machine_update": 1762672646713,
+        "last_update": 1762672646713,
+        "live": false,
+        "paid": "275065.003.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Joe Cappa",
+                "role": "creator"
+            },
+            {
+                "character": "Dad",
+                "name": "Joe Cappa",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Preston",
+                "name": "Joe Cappa",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tristan",
+                "name": "Joe Cappa",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Duncan",
+                "name": "Joe Cappa",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Male Flight Attendant",
+                "name": "Richard Nevels",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "E",
+        "release_year": 2025,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1762766160,
+        "season_id": "31890",
+        "season_name": "Haha, You Clowns",
+        "season_number": "1",
+        "season_summary": "The Campbell boys live, laugh, love their way into your living rooms.",
+        "season_summary_long": "Haha, You Clowns is an unexpected new series from Adult Swim that celebrates wholesome family programming. Join the Campbell boys, three doting teenagers and their tenderhearted dad, as they live, laugh, love their way into your living rooms.",
+        "serial": 1762672646713,
+        "series_id": "2546928",
+        "series_name": "Haha, You Clowns",
+        "series_summary": "The Campbell boys live, laugh, love their way into your living rooms.",
+        "series_summary_long": "Haha, You Clowns is an unexpected new series from Adult Swim that celebrates wholesome family programming. Join the Campbell boys, three doting teenagers and their tenderhearted dad, as they live, laugh, love their way into your living rooms.",
+        "show_duration": 900,
+        "show_id": "277201456",
+        "show_timestamp": 1762766160,
+        "status": "estimated",
+        "summary": "Dad confronts his fear of flying on the way to Mexico.",
+        "summary_listings": "Dad confronts his fear of flying on the way to Mexico.",
+        "summary_long": "Dad confronts his fear of flying on the way to Mexico.",
+        "summary_main": "Dad confronts his fear of flying on the way to Mexico.",
+        "summary_short": "Dad confronts his fear of flying on the way to Mexico.",
+        "title": "Plane",
+        "title_id": "2546931",
+        "tv_rating": "TV-PG",
+        "upid": "DISC275065-003",
+        "upid_type": 12
     }
 ]
