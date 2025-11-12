@@ -1647,5 +1647,125 @@
         "tv_rating": "TV-14",
         "upid": "DISC280453-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "233052_020_02_851",
+        "create_time": 1762933237250,
+        "episode_in_season": "20",
+        "episode_number": "S3:E20",
+        "external_id": "233052-020-851-1763026200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1763026200,
+        "last_time_machine_update": 1762933237250,
+        "last_update": 1762933237250,
+        "live": false,
+        "paid": "233052.020.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Mike Judge",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Greg Daniels",
+                "role": "creator"
+            },
+            {
+                "character": "Hank Hill",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peggy Hill",
+                "name": "Kathy Najimy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bobby Hill",
+                "name": "Pamela Adlon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Luanne Platter",
+                "name": "Brittany Murphy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dale Gribble",
+                "name": "Johnny Hardwick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bill Dauterive",
+                "name": "Stephen Root",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Boomhauer",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kahn Souphanousinphone",
+                "name": "Toby Huss",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Connie Souphanousinphone",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Mark McJimsey",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "David Zuckerman",
+                "role": "producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1763026200,
+        "season_id": "1536",
+        "season_name": "King of the Hill",
+        "season_number": "3",
+        "serial": 1762933237249,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "277213834",
+        "show_timestamp": 1763026200,
+        "status": "estimated",
+        "summary": "Hank and his friends drive Dale over the edge when they steal away his state-of-the-art lawnmower.",
+        "summary_listings": "Hank and his friends drive Dale over the edge when they steal away his state-of-the-art lawnmower.",
+        "summary_long": "Hank and his friends drive Dale over the edge when they steal away his state-of-the-art lawnmower.",
+        "summary_main": "Hank and his friends drive Dale over the edge when they steal away his state-of-the-art lawnmower.",
+        "summary_short": "Hank and his friend steal Dale's state-of-the-art lawnmower.",
+        "title": "Dog Dale Afternoon",
+        "title_id": "731273",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233052-020",
+        "upid_type": 12
     }
 ]
