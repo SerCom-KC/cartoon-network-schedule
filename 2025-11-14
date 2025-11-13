@@ -880,5 +880,97 @@
         "tv_rating": "TV-14",
         "upid": "DISC232841-020",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "232841_021_01_851",
+        "create_time": 1763010526197,
+        "episode_in_season": "21",
+        "episode_number": "S18:E21",
+        "external_id": "232841-021-851-1763103600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1763103600,
+        "last_time_machine_update": 1763010526197,
+        "last_update": 1763010526197,
+        "live": false,
+        "paid": "232841.021.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1763103600,
+        "season_id": "25259",
+        "season_name": "American Dad",
+        "season_number": "18",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1763010526197,
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277217890",
+        "show_timestamp": 1763103600,
+        "status": "estimated",
+        "summary": "Francine enters the strange and dangerous world of poker in order to learn how to hide her true feelings from Steve and Hayley.",
+        "summary_listings": "Francine enters the strange and dangerous world of poker in order to learn how to hide her true feelings from Steve and Hayley.",
+        "summary_long": "Francine enters the strange and dangerous world of poker in order to learn how to hide her true feelings from Steve and Hayley.",
+        "summary_main": "Francine enters the strange and dangerous world of poker in order to learn how to hide her true feelings from Steve and Hayley.",
+        "summary_short": "Francine enters the world of poker to learn how to hide her true feelings.",
+        "title": "The Pink Sphinx Holds Her Hearts on the Turn",
+        "title_id": "2408661",
+        "tv_rating": "TV-14",
+        "upid": "DISC232841-021",
+        "upid_type": 12
     }
 ]
