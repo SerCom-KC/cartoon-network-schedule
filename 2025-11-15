@@ -1175,5 +1175,211 @@
         "tv_rating": "TV-MA",
         "upid": "DISC262721-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "275065_003_02_851",
+        "create_time": 1763108030491,
+        "dvs": true,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "275065-003-851-1763199960",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Haha, You Clowns",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1763199900,
+        "last_time_machine_update": 1763108030491,
+        "last_update": 1763108030491,
+        "live": false,
+        "paid": "275065.003.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Joe Cappa",
+                "role": "creator"
+            },
+            {
+                "character": "Dad",
+                "name": "Joe Cappa",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Preston",
+                "name": "Joe Cappa",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tristan",
+                "name": "Joe Cappa",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Duncan",
+                "name": "Joe Cappa",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Male Flight Attendant",
+                "name": "Richard Nevels",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "E",
+        "release_year": 2025,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1763199960,
+        "season_id": "31890",
+        "season_name": "Haha, You Clowns",
+        "season_number": "1",
+        "season_summary": "The Campbell boys live, laugh, love their way into your living rooms.",
+        "season_summary_long": "Haha, You Clowns is an unexpected new series from Adult Swim that celebrates wholesome family programming. Join the Campbell boys, three doting teenagers and their tenderhearted dad, as they live, laugh, love their way into your living rooms.",
+        "serial": 1763108030491,
+        "series_id": "2546928",
+        "series_name": "Haha, You Clowns",
+        "series_summary": "The Campbell boys live, laugh, love their way into your living rooms.",
+        "series_summary_long": "Haha, You Clowns is an unexpected new series from Adult Swim that celebrates wholesome family programming. Join the Campbell boys, three doting teenagers and their tenderhearted dad, as they live, laugh, love their way into your living rooms.",
+        "show_duration": 900,
+        "show_id": "277222026",
+        "show_timestamp": 1763199960,
+        "status": "estimated",
+        "summary": "Dad confronts his fear of flying on the way to Mexico.",
+        "summary_listings": "Dad confronts his fear of flying on the way to Mexico.",
+        "summary_long": "Dad confronts his fear of flying on the way to Mexico.",
+        "summary_main": "Dad confronts his fear of flying on the way to Mexico.",
+        "summary_short": "Dad confronts his fear of flying on the way to Mexico.",
+        "title": "Plane",
+        "title_id": "2546931",
+        "tv_rating": "TV-PG",
+        "upid": "DISC275065-003",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "233070_008_02_851",
+        "create_time": 1763108030492,
+        "episode_in_season": "8",
+        "episode_number": "S5:E08",
+        "external_id": "233070-008-851-1763200860",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "King of the Hill",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1763200800,
+        "last_time_machine_update": 1763108030492,
+        "last_update": 1763108030492,
+        "live": false,
+        "paid": "233070.008.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Mike Judge",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Greg Daniels",
+                "role": "creator"
+            },
+            {
+                "character": "Hank Hill",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peggy Hill",
+                "name": "Kathy Najimy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bobby Hill",
+                "name": "Pamela Adlon",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Luanne Platter",
+                "name": "Brittany Murphy",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Dale Gribble",
+                "name": "Johnny Hardwick",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bill Dauterive",
+                "name": "Stephen Root",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Boomhauer",
+                "name": "Mike Judge",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Kahn Souphanousinphone",
+                "name": "Toby Huss",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Connie Souphanousinphone",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Mark McJimsey",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "David Zuckerman",
+                "role": "producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2000,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1746,
+        "scheduled_timestamp": 1763200860,
+        "season_id": "1538",
+        "season_name": "King of the Hill",
+        "season_number": "5",
+        "serial": 1763108030491,
+        "series_id": "629835",
+        "series_name": "King of the Hill",
+        "show_duration": 1800,
+        "show_id": "277222036",
+        "show_timestamp": 1763200860,
+        "status": "estimated",
+        "summary": "Bill's popularity skyrockets when he embraces the Christmas spirit, and his neediness attracts the attention of a teenage moocher.",
+        "summary_listings": "Bill's popularity skyrockets when he embraces the Christmas spirit, and his neediness attracts the attention of a teenage moocher.",
+        "summary_long": "Bill's popularity skyrockets when he embraces the Christmas spirit, and his neediness attracts the attention of a teenage moocher.",
+        "summary_main": "Bill's popularity skyrockets when he embraces the Christmas spirit, and his neediness attracts the attention of a teenage moocher.",
+        "summary_short": "Bill's popularity skyrockets when he embraces the Christmas spirit.",
+        "title": "'Twas the Nut Before Christmas",
+        "title_id": "731335",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233070-008",
+        "upid_type": 12
     }
 ]
