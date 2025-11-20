@@ -143,5 +143,87 @@
         "tv_rating": "TV-14",
         "upid": "DISC251737-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "S",
+            "V"
+        ],
+        "content_id": "233115_004_02_851",
+        "create_time": 1763609866183,
+        "episode_in_season": "4",
+        "episode_number": "S1:E04",
+        "external_id": "233115-004-851-1763703000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Mr. Pickles",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1763703000,
+        "last_time_machine_update": 1763609866183,
+        "last_update": 1763609866183,
+        "live": false,
+        "paid": "233115.004.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Will Carsola",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Dave Stewart",
+                "role": "creator"
+            },
+            {
+                "character": "Linda",
+                "name": "Dave Stewart",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Sheriff",
+                "name": "Will Carsola",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tommy",
+                "name": "Kaitlyn Robrock",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 15,
+        "scheduled_duration": 900,
+        "scheduled_timestamp": 1763703000,
+        "season_id": "7397",
+        "season_name": "Mr. Pickles",
+        "season_number": "1",
+        "season_summary": "Tommy Goodman and his best friend, his family's lovable dog Mr. Pickles, roam around the old-fashioned world of Old Town together.",
+        "season_summary_long": "Tommy Goodman and his best friend, his family's lovable dog Mr. Pickles, roam around the old-fashioned world of Old Town together.",
+        "serial": 1763609866183,
+        "series_id": "2007539",
+        "series_name": "Mr. Pickles",
+        "series_summary": "Tommy Goodman and his best friend, his family's lovable dog Mr. Pickles, roam around the old-fashioned world of Old Town together.",
+        "series_summary_long": "Tommy Goodman and his best friend, his family's lovable dog Mr. Pickles, roam around the old-fashioned world of Old Town together.",
+        "show_duration": 900,
+        "show_id": "277246492",
+        "show_timestamp": 1763703000,
+        "status": "estimated",
+        "summary": "The Goodmans go on a family camping trip and Tommy learns the frightening legend of The Cheeseman.",
+        "summary_listings": "The Goodmans go on a family camping trip and Tommy learns the frightening legend of The Cheeseman.",
+        "summary_long": "The Goodmans go on a family camping trip and Tommy learns the frightening legend of The Cheeseman.",
+        "summary_main": "The Goodmans go on a family camping trip and Tommy learns the frightening legend of The Cheeseman.",
+        "summary_short": "The Goodmans go camping and Tommy learns the scary legend of The Cheeseman.",
+        "title": "The Cheeseman",
+        "title_id": "2032505",
+        "tv_rating": "TV-MA",
+        "upid": "DISC233115-004",
+        "upid_type": 12
     }
 ]
