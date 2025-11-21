@@ -5993,5 +5993,92 @@
         "tv_rating": "TV-PG",
         "upid": "DISC284321-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271162_019_01_851",
+        "create_time": 1763768226180,
+        "episode_in_season": "19",
+        "episode_number": "S15:E19",
+        "external_id": "271162-019-851-1763861400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1763861400,
+        "last_time_machine_update": 1763768226180,
+        "last_update": 1763768226180,
+        "live": false,
+        "paid": "271162.019.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "6422c99f-5cef-4ab7-be49-ad155a159fcd",
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1763861400,
+        "season_hash": "f84daa31-cb4f-4a35-816b-a53786f30d78",
+        "season_id": "10564",
+        "season_name": "Family Guy",
+        "season_number": "15",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1763768226180,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "277254584",
+        "show_timestamp": 1763861400,
+        "status": "estimated",
+        "summary": "Chris meets a girl named Isabella and decides to ask her out. She wants to say yes, but she informs Chris that she has two young children.",
+        "summary_listings": "Chris meets a girl named Isabella and decides to ask her out. She wants to say yes, but she informs Chris that she has two young children.",
+        "summary_long": "The Griffins go to a waterpark for Lois and Peter's anniversary (his idea), where Chris meets a girl named Isabella and decides to ask her out. She wants to say yes, but she informs Chris that she has two young children.",
+        "summary_main": "The Griffins go to a waterpark for Lois and Peter's anniversary (his idea), where Chris meets a girl named Isabella and decides to ask her out. She wants to say yes, but she informs Chris that she has two young children.",
+        "summary_short": "Chris asks out a girl named Isabella who has two young children.",
+        "title": "Dearly Deported",
+        "title_id": "2105399",
+        "tv_rating": "TV-14",
+        "upid": "DISC271162-019",
+        "upid_type": 12
     }
 ]
