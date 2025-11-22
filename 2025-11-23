@@ -1302,5 +1302,130 @@
         "tv_rating": "TV-PG",
         "upid": "DISC235552-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "233061_005_01_851",
+        "create_time": 1763797048015,
+        "episode_in_season": "5",
+        "episode_number": "S8:E05",
+        "external_id": "233061-005-851-1763890200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Fantasy",
+            "Science Fiction"
+        ],
+        "guide_timestamp": 1763890200,
+        "last_time_machine_update": 1763797048015,
+        "last_update": 1763797048015,
+        "live": false,
+        "paid": "233061.005.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Matt Groening",
+                "role": "created-by"
+            },
+            {
+                "character": "",
+                "name": "Matt Groening",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "David Cohen",
+                "role": "development"
+            },
+            {
+                "character": "Philip J. Fry/Dr. Zoidberg/Prof. Hubert J. Farnsworth/Zapp Brannigan",
+                "name": "Billy West",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Turanga Leela",
+                "name": "Katey Sagal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bender",
+                "name": "John DiMaggio",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda/Petunia/Mom",
+                "name": "Tress MacNeille",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Morbo/Kif Kroker/Calculon/Hedonismbot",
+                "name": "Maurice LaMarche",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Amy Wong",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hermes Conrad/Reverend Preacherbot",
+                "name": "Phil LaMarr",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Scruffy",
+                "name": "David Herman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Nibbler",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "be103bc1-3009-40ea-8982-85c7a4e9f77b",
+        "program_type": "EA",
+        "release_year": 2011,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1763890200,
+        "season_hash": "5faf327b-15a6-44b1-b4f8-471945f5dd67",
+        "season_id": "12327",
+        "season_name": "Futurama",
+        "season_number": "8",
+        "season_summary": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
+        "season_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "serial": 1763797048014,
+        "series_hash": "76314417-0f53-4a2a-bd32-ddcd8327e41b",
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "series_summary": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
+        "series_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "show_duration": 1800,
+        "show_id": "277254744",
+        "show_timestamp": 1763890200,
+        "status": "estimated",
+        "summary": "After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program.",
+        "summary_listings": "After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program.",
+        "summary_long": "After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program.",
+        "summary_main": "After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program.",
+        "summary_short": "After testifying against the Robot Mafia, Bender goes into hiding.",
+        "title": "The Silence of the Clamps",
+        "title_id": "2161633",
+        "tv_rating": "TV-14",
+        "upid": "DISC233061-005",
+        "upid_type": 12
     }
 ]
