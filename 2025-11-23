@@ -1673,5 +1673,113 @@
         "tv_rating": "TV-PG",
         "upid": "DISC233072-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "168637_007_02_851",
+        "create_time": 1763810368521,
+        "episode_in_season": "7",
+        "episode_number": "S2:E07",
+        "external_id": "168637-007-851-1763895600",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Mystery Incorporated",
+        "genres": [
+            "Comedy",
+            "Kids & Family",
+            "Mystery"
+        ],
+        "guide_timestamp": 1763895600,
+        "last_time_machine_update": 1763810368521,
+        "last_update": 1763810368521,
+        "live": false,
+        "paid": "168637.007.02.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Spike Brandt",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Tony Cervone",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Marly Halpern-Graser",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "6b220d3e-0d77-4b21-b1ff-3b72adfb4cff",
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1763895600,
+        "season_cfps_hash": "8dd3421e-f5f8-47ba-8592-44fcdfc49052",
+        "season_hash": "368d8d01-3df7-4234-ab0e-c214ec4eed61",
+        "season_id": "5437",
+        "season_name": "Scooby-Doo! Mystery Incorporated",
+        "season_number": "2",
+        "season_summary": "A sleepy village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences.",
+        "season_summary_long": "A sleepy little village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences. The sleuthing team of Scooby-Doo and the gang prove all of this simply isn't real.",
+        "serial": 1763810368521,
+        "series_cfps_hash": "9db44eac-e70b-4d36-a657-8f0265c9f4c8",
+        "series_hash": "87e7a529-1276-4041-b574-526599b09860",
+        "series_id": "796588",
+        "series_name": "Scooby-Doo! Mystery Incorporated",
+        "series_summary": "Crystal Cove boasts a long history of paranormal occurrences. The sleuthing team of Scooby-Doo prove all of this simply isn't real.",
+        "series_summary_long": "A sleepy little village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences. The sleuthing team of Scooby-Doo and the gang prove all of this simply isn't real.",
+        "show_duration": 1800,
+        "show_id": "277258250",
+        "show_timestamp": 1763895600,
+        "status": "estimated",
+        "summary": "The gang is at Crystal Cove Cemetery watching a free screening of an old Vincent Van Ghoul movie with half the town when they are attacked by a ghoul.",
+        "summary_listings": "The gang is at Crystal Cove Cemetery watching a free screening of an old Vincent Van Ghoul movie with half the town when they are attacked by a ghoul.",
+        "summary_long": "When the gang is at Crystal Cove Cemetery watching a free screening of an old Vincent Van Ghoul movie with half the town, they are attacked by the Graveyard Ghoul!",
+        "summary_main": "When the gang is at Crystal Cove Cemetery watching a free screening of an old Vincent Van Ghoul movie with half the town, they are attacked by the Graveyard Ghoul!",
+        "summary_short": "The gang is watching an old movie when they are attacked by a ghoul.",
+        "title": "The Gathering Gloom",
+        "title_id": "834148",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC168637-007",
+        "upid_type": 12
     }
 ]
