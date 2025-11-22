@@ -1427,5 +1427,127 @@
         "tv_rating": "TV-14",
         "upid": "DISC233061-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "233072_001_03_851",
+        "create_time": 1763799354919,
+        "episode_in_season": "1",
+        "episode_number": "S1:E01",
+        "external_id": "233072-001-851-1763892000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Futurama",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Fantasy",
+            "Science Fiction"
+        ],
+        "guide_timestamp": 1763892000,
+        "last_time_machine_update": 1763799354919,
+        "last_update": 1763799354919,
+        "live": false,
+        "paid": "233072.001.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Matt Groening",
+                "role": "created-by"
+            },
+            {
+                "character": "",
+                "name": "Matt Groening",
+                "role": "development"
+            },
+            {
+                "character": "",
+                "name": "David Cohen",
+                "role": "development"
+            },
+            {
+                "character": "Philip J. Fry/Dr. Zoidberg/Prof. Hubert J. Farnsworth/Zapp Brannigan",
+                "name": "Billy West",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Turanga Leela",
+                "name": "Katey Sagal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bender",
+                "name": "John DiMaggio",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda/Petunia/Mom",
+                "name": "Tress MacNeille",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Morbo/Kif Kroker/Calculon/Hedonismbot",
+                "name": "Maurice LaMarche",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Amy Wong",
+                "name": "Lauren Tom",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hermes Conrad/Reverend Preacherbot",
+                "name": "Phil LaMarr",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Scruffy",
+                "name": "David Herman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Nibbler",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "1f5e2b3a-0f10-48dc-a2e1-34222641b57e",
+        "program_type": "EA",
+        "release_year": 1999,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1763892000,
+        "season_hash": "c7315c49-39bf-4316-8f73-65a8ff4052ab",
+        "season_id": "951",
+        "season_name": "Futurama",
+        "season_number": "1",
+        "season_summary": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
+        "season_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "serial": 1763799354919,
+        "series_hash": "76314417-0f53-4a2a-bd32-ddcd8327e41b",
+        "series_id": "437532",
+        "series_name": "Futurama",
+        "series_summary": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future.",
+        "series_summary_long": "Accidentally frozen, pizza-deliverer Fry wakes up 1,000 years in the future. He is taken in by his sole descendant, an elderly and addled scientist who owns a small cargo delivery service.",
+        "show_duration": 1800,
+        "show_id": "277254754",
+        "show_timestamp": 1763892000,
+        "status": "estimated",
+        "summary": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
+        "summary_listings": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
+        "summary_long": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
+        "summary_main": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
+        "summary_short": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
+        "title": "Space Pilot 3000",
+        "title_id": "437533",
+        "tv_rating": "TV-PG",
+        "upid": "DISC233072-001",
+        "upid_type": 12
     }
 ]
