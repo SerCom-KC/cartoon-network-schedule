@@ -1911,5 +1911,97 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250266-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "284328_008_02_851",
+        "create_time": 1763888080269,
+        "dvs": true,
+        "episode_in_season": "8",
+        "episode_number": "S13:E08",
+        "external_id": "284328-008-851-1763980200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1763980200,
+        "last_time_machine_update": 1763888080269,
+        "last_update": 1763888080269,
+        "live": false,
+        "paid": "284328.008.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "994b8c4c-e13d-4e39-8a37-c5c325497423",
+        "program_type": "EA",
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1763980200,
+        "season_hash": "b14d2675-32b1-4089-bcec-47421b846eff",
+        "season_id": "33560",
+        "season_name": "Bob's Burgers",
+        "season_number": "13",
+        "season_summary": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "season_summary_long": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "serial": 1763888080269,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "277258840",
+        "show_timestamp": 1763980200,
+        "status": "estimated",
+        "summary": "The Belchers go to a mini golf course on Thanksgiving morning.",
+        "summary_listings": "The Belchers go to a mini golf course on Thanksgiving morning.",
+        "summary_long": "The Belchers go to a mini golf course on Thanksgiving morning.",
+        "summary_main": "The Belchers go to a mini golf course on Thanksgiving morning.",
+        "summary_short": "The Belchers go to a mini golf course on Thanksgiving morning.",
+        "title": "Putts-giving",
+        "title_id": "2569573",
+        "tv_rating": "TV-PG",
+        "upid": "DISC284328-008",
+        "upid_type": 12
     }
 ]
