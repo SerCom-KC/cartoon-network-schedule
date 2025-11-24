@@ -233,5 +233,91 @@
         "tv_rating": "TV-MA",
         "upid": "DISC233115-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "233115_007_02_851",
+        "create_time": 1763956522432,
+        "episode_in_season": "7",
+        "episode_number": "S1:E07",
+        "external_id": "233115-007-851-1764049500",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Mr. Pickles",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1764049500,
+        "last_time_machine_update": 1763956522432,
+        "last_update": 1763956522432,
+        "live": false,
+        "paid": "233115.007.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Will Carsola",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Dave Stewart",
+                "role": "creator"
+            },
+            {
+                "character": "Linda",
+                "name": "Dave Stewart",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Sheriff",
+                "name": "Will Carsola",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tommy",
+                "name": "Kaitlyn Robrock",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "b6cf7369-c697-4734-b51e-0a67e542e6f5",
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1764049500,
+        "season_cfps_hash": "e558cef2-6e61-4fab-aa6e-405509539411",
+        "season_hash": "dea19170-a3f1-4071-8f0e-6534e2adc7a5",
+        "season_id": "7397",
+        "season_name": "Mr. Pickles",
+        "season_number": "1",
+        "season_summary": "Tommy Goodman and his best friend, his family's lovable dog Mr. Pickles, roam around the old-fashioned world of Old Town together.",
+        "season_summary_long": "Tommy Goodman and his best friend, his family's lovable dog Mr. Pickles, roam around the old-fashioned world of Old Town together.",
+        "serial": 1763956522432,
+        "series_cfps_hash": "70861903-88f1-4859-a863-e3e9f73fc491",
+        "series_hash": "cb5dd216-28d8-423f-afb1-24295c0f5592",
+        "series_id": "2007539",
+        "series_name": "Mr. Pickles",
+        "series_summary": "Tommy Goodman and his best friend, his family's lovable dog Mr. Pickles, roam around the old-fashioned world of Old Town together.",
+        "series_summary_long": "Tommy Goodman and his best friend, his family's lovable dog Mr. Pickles, roam around the old-fashioned world of Old Town together.",
+        "show_duration": 901,
+        "show_id": "277262906",
+        "show_timestamp": 1764049500,
+        "status": "estimated",
+        "summary": "Grandpa wakes up hungover and soon finds out that he made a horrible mistake the night before.",
+        "summary_listings": "Grandpa wakes up hungover and soon finds out that he made a horrible mistake the night before.",
+        "summary_long": "Grandpa wakes up hungover and soon finds out that he made a horrible mistake the night before.",
+        "summary_main": "Grandpa wakes up hungover and soon finds out that he made a horrible mistake the night before.",
+        "summary_short": "A hungover grandpa finds out that he made a horrible mistake.",
+        "title": "Grandpa's Night Out",
+        "title_id": "2032508",
+        "tv_rating": "TV-MA",
+        "upid": "DISC233115-007",
+        "upid_type": 12
     }
 ]
