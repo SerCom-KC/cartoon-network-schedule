@@ -769,5 +769,97 @@
         "tv_rating": "TV-14",
         "upid": "DISC255276-014",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "255276_015_04_851",
+        "create_time": 1763964235041,
+        "episode_in_season": "15",
+        "episode_number": "S19:E15",
+        "external_id": "255276-015-851-1764057600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1764057600,
+        "last_time_machine_update": 1763964235041,
+        "last_update": 1763964235041,
+        "live": false,
+        "paid": "255276.015.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "391ea0e9-86cf-45a2-87cb-05ace27da7e6",
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1764057600,
+        "season_hash": "c25a64e7-d3fa-4210-a783-69464de7e1fd",
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1763964235041,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1805,
+        "show_id": "277262966",
+        "show_timestamp": 1764057600,
+        "status": "estimated",
+        "summary": "Stan attempts to live forever in order to do everything on his bucket list.",
+        "summary_listings": "Stan attempts to live forever in order to do everything on his bucket list.",
+        "summary_long": "Stan attempts to live forever in order to do everything on his bucket list.",
+        "summary_main": "Stan attempts to live forever in order to do everything on his bucket list.",
+        "summary_short": "Stan attempts to live forever in order to do everything on his bucket list.",
+        "title": "Get Him to the Greek Life Style",
+        "title_id": "2445758",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-015",
+        "upid_type": 12
     }
 ]
