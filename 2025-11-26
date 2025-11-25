@@ -495,5 +495,96 @@
         "tv_rating": "TV-14",
         "upid": "DISC252065-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "255276_016_04_851",
+        "create_time": 1764046722537,
+        "episode_in_season": "16",
+        "episode_number": "S19:E16",
+        "external_id": "255276-016-851-1764138600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Investigation"
+        ],
+        "guide_timestamp": 1764138600,
+        "last_time_machine_update": 1764046722537,
+        "last_update": 1764046722537,
+        "live": false,
+        "paid": "255276.016.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "d6cc0367-9343-4fee-96fc-2b2363fe54b1",
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1764138600,
+        "season_hash": "c25a64e7-d3fa-4210-a783-69464de7e1fd",
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1764046722537,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1801,
+        "show_id": "277267022",
+        "show_timestamp": 1764138600,
+        "status": "estimated",
+        "summary": "After Danuta goes missing, Hayley joins forces with Wheels and The Legman detective to investigate the Bazooka Shark Babes' involvement.",
+        "summary_listings": "After Danuta goes missing, Hayley joins forces with Wheels and The Legman detective to investigate the Bazooka Shark Babes' involvement.",
+        "summary_long": "After Danuta goes missing, Hayley joins forces with Wheels and The Legman detective to investigate the Bazooka Shark Babes' involvement in her friend's mysterious disappearance.",
+        "summary_main": "After Danuta goes missing, Hayley joins forces with Wheels and The Legman detective to investigate the Bazooka Shark Babes' involvement in her friend's mysterious disappearance.",
+        "summary_short": "After Danuta goes missing, Hayley investigates.",
+        "title": "The Mystery of the Missing Bazooka Shark Babe",
+        "title_id": "2445759",
+        "tv_rating": "TV-14",
+        "upid": "DISC255276-016",
+        "upid_type": 12
     }
 ]
