@@ -319,5 +319,93 @@
         "tv_rating": "TV-MA",
         "upid": "DISC233111-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252065_005_02_851",
+        "create_time": 1764130260180,
+        "episode_in_season": "5",
+        "episode_number": "S1:E05",
+        "external_id": "252065-005-851-1764223200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "China, IL",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1764223200,
+        "last_time_machine_update": 1764130260180,
+        "last_update": 1764130260180,
+        "live": false,
+        "paid": "252065.005.02.851",
+        "participants": [
+            {
+                "character": "Frank Smith",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Baby Cakes",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pony Merks",
+                "name": "Greta Gerwig",
+                "role": "voice-actor"
+            },
+            {
+                "character": "The Dean",
+                "name": "Hulk Hogan",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "4baf9426-4138-4ec7-beaf-79a9f25a94a9",
+        "program_type": "EA",
+        "release_year": 2011,
+        "runtime_minutes": 15,
+        "scheduled_duration": 905,
+        "scheduled_timestamp": 1764223200,
+        "season_hash": "34b25f0a-bee0-4d37-a10a-4ad935d090f9",
+        "season_id": "6185",
+        "season_name": "China, IL",
+        "season_number": "1",
+        "season_summary": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "season_summary_long": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "serial": 1764130260180,
+        "series_cfps_hash": "c06e6f1a-e539-4b70-87d0-b9bcab25e16e",
+        "series_hash": "75bdec2c-3e5f-40e1-9880-4e43c5c7fbd8",
+        "series_id": "862772",
+        "series_name": "China, IL",
+        "series_summary": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "series_summary_long": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "show_duration": 905,
+        "show_id": "277271088",
+        "show_timestamp": 1764223200,
+        "status": "estimated",
+        "summary": "Steve realizes life after tenure isn't as exciting as he suspected, and Pony finds out that the Dean has a secret he'd do anything to keep hidden.",
+        "summary_listings": "Steve realizes life after tenure isn't as exciting as he suspected, and Pony finds out that the Dean has a secret he'd do anything to keep hidden.",
+        "summary_long": "Steve realizes life after tenure isn't as exciting as he suspected, and Pony finds out that the Dean has a secret that he'd do anything to keep hidden.",
+        "summary_main": "Steve realizes life after tenure isn't as exciting as he suspected, and Pony finds out that the Dean has a secret that he'd do anything to keep hidden.",
+        "summary_short": "Steve realizes life after tenure isn't as exciting as he suspected.",
+        "title": "Secret Society",
+        "title_id": "862777",
+        "tv_rating": "TV-14",
+        "upid": "DISC252065-005",
+        "upid_type": 12
     }
 ]
