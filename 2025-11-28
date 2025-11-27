@@ -790,5 +790,101 @@
         "tv_rating": "TV-14",
         "upid": "DISC232855-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "content_advisories": [
+            "D",
+            "S",
+            "V"
+        ],
+        "content_id": "232854_003_03_851",
+        "create_time": 1764222937704,
+        "episode_in_season": "3",
+        "episode_number": "S1:E03",
+        "external_id": "232854-003-851-1764315000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1764315000,
+        "last_time_machine_update": 1764222937704,
+        "last_update": 1764222937704,
+        "live": false,
+        "paid": "232854.003.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "a9802688-d8a9-4598-a94d-fe71314e2b98",
+        "program_type": "EA",
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1764315000,
+        "season_hash": "f6aae897-290d-4958-90a3-92ca54450a97",
+        "season_id": "1184",
+        "season_name": "American Dad",
+        "season_number": "1",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1764222937704,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277275304",
+        "show_timestamp": 1764315000,
+        "status": "estimated",
+        "summary": "Hayley comes home with her hair dyed green, much to the dismay of Stan, who decides to cut it off while she is sleeping.",
+        "summary_listings": "Hayley comes home with her hair dyed green, much to the dismay of Stan, who decides to cut it off while she is sleeping.",
+        "summary_long": "Hayley comes home with her hair dyed green, much to the dismay of Stan, who decides to cut it off while she is sleeping. To get Stan back, Hayley moves into her boyfriend's van and gets a job as a waitress at a strip club.",
+        "summary_main": "Hayley comes home with her hair dyed green, much to the dismay of Stan, who decides to cut it off while she is sleeping. To get Stan back, Hayley moves into her boyfriend's van and gets a job as a waitress at a strip club.",
+        "summary_short": "Stan decides to cut off Hayley's hair when she dyes it green.",
+        "title": "Stan Knows Best",
+        "title_id": "611820",
+        "tv_rating": "TV-14",
+        "upid": "DISC232854-003",
+        "upid_type": 12
     }
 ]
