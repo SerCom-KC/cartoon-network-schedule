@@ -1726,5 +1726,108 @@
         "tv_rating": "TV-Y7",
         "upid": "DISC168637-009",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "168637_010_02_851",
+        "create_time": 1764416582192,
+        "episode_in_season": "10",
+        "episode_number": "S2:E10",
+        "external_id": "168637-010-851-1764502200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Mystery Incorporated",
+        "genres": [
+            "Comedy",
+            "Kids & Family",
+            "Mystery"
+        ],
+        "guide_timestamp": 1764502200,
+        "last_time_machine_update": 1764416582192,
+        "last_update": 1764416582192,
+        "live": false,
+        "paid": "168637.010.02.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Sam Register",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Spike Brandt",
+                "role": "producer"
+            },
+            {
+                "character": "",
+                "name": "Tony Cervone",
+                "role": "producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "d0d63f63-a0d5-4694-8c56-aba2c605f69f",
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1764502200,
+        "season_cfps_hash": "8dd3421e-f5f8-47ba-8592-44fcdfc49052",
+        "season_hash": "368d8d01-3df7-4234-ab0e-c214ec4eed61",
+        "season_id": "5437",
+        "season_name": "Scooby-Doo! Mystery Incorporated",
+        "season_number": "2",
+        "season_summary": "A sleepy village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences.",
+        "season_summary_long": "A sleepy little village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences. The sleuthing team of Scooby-Doo and the gang prove all of this simply isn't real.",
+        "serial": 1764416582192,
+        "series_cfps_hash": "9db44eac-e70b-4d36-a657-8f0265c9f4c8",
+        "series_hash": "87e7a529-1276-4041-b574-526599b09860",
+        "series_id": "796588",
+        "series_name": "Scooby-Doo! Mystery Incorporated",
+        "series_summary": "Crystal Cove boasts a long history of paranormal occurrences. The sleuthing team of Scooby-Doo prove all of this simply isn't real.",
+        "series_summary_long": "A sleepy little village, Crystal Cove boasts a long history of ghost sightings, poltergeists, demon possessions, phantoms and other paranormal occurrences. The sleuthing team of Scooby-Doo and the gang prove all of this simply isn't real.",
+        "show_duration": 1800,
+        "show_id": "17330433",
+        "show_timestamp": 1764502200,
+        "status": "estimated",
+        "summary": "When a visiting family finds some terrifying specters in an old library high in the hills above Crystal Cove, the gang investigates.",
+        "summary_listings": "When a visiting family finds some terrifying specters in an old library high in the hills above Crystal Cove, the gang investigates.",
+        "summary_long": "When a visiting family finds some terrifying specters in an old library high in the hills above Crystal Cove, the gang investigates.",
+        "summary_main": "When a visiting family finds some terrifying specters in an old library high in the hills above Crystal Cove, the gang investigates.",
+        "summary_short": "A visiting family finds some terrifying specters in an old library.",
+        "title": "Night Terrors",
+        "title_id": "849620",
+        "tv_rating": "TV-Y7",
+        "upid": "DISC168637-010",
+        "upid_type": 12
     }
 ]
