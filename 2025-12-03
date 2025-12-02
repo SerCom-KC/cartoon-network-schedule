@@ -472,5 +472,101 @@
         "tv_rating": "TV-14",
         "upid": "DISC252065-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "V"
+        ],
+        "content_id": "232854_014_03_851",
+        "create_time": 1764650797645,
+        "episode_in_season": "14",
+        "episode_number": "S1:E14",
+        "external_id": "232854-014-851-1764743400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1764743400,
+        "last_time_machine_update": 1764650797645,
+        "last_update": 1764650797645,
+        "live": false,
+        "paid": "232854.014.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "2b3354e0-492d-4fc3-acdb-2e50ed215a4e",
+        "program_type": "EA",
+        "release_year": 2005,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1764743400,
+        "season_hash": "f6aae897-290d-4958-90a3-92ca54450a97",
+        "season_id": "1184",
+        "season_name": "American Dad",
+        "season_number": "1",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1764650797645,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277295704",
+        "show_timestamp": 1764743400,
+        "status": "estimated",
+        "summary": "Francine insists Stan and Hayley spend the day together so they can work out their differences.",
+        "summary_listings": "Francine insists Stan and Hayley spend the day together so they can work out their differences.",
+        "summary_long": "Francine insists Stan and Hayley spend the day together so they can work out their differences. Her plan backfires when Stan takes Hayley to the National Gun Association Land, where their opinions about gun control drive them further apart.",
+        "summary_main": "Francine insists Stan and Hayley spend an entire day together so they can work out their differences about gun control. However, her plan backfires when Stan takes Hayley to the National Gun Association Land, where their conflicting opinions about gun control drive them even further apart. Back home, Roger schemes to get revenge on Steve for eating one of his cookies by convincing him that he's adopted.",
+        "summary_short": "Francine's plan backfires when Stan and Hayley spend the day together.",
+        "title": "Stannie Get Your Gun",
+        "title_id": "631387",
+        "tv_rating": "TV-14",
+        "upid": "DISC232854-014",
+        "upid_type": 12
     }
 ]
