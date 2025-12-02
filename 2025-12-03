@@ -1145,5 +1145,91 @@
         "tv_rating": "TV-14",
         "upid": "DISC251739-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229181_001_02_851",
+        "create_time": 1764660808527,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "229181-001-851-1764754200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Moral Orel",
+        "genres": [
+            "Anime",
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1764754200,
+        "last_time_machine_update": 1764660808527,
+        "last_update": 1764660808527,
+        "live": false,
+        "paid": "229181.001.02.851",
+        "participants": [
+            {
+                "character": "Orel Puppington",
+                "name": "Carolyn Lawrence",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Clay Puppington",
+                "name": "Scott Adsit",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bloberta Puppington",
+                "name": "Britta Phillips",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shapey Puppington",
+                "name": "Tigger Stamatopoulos",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rod Putty",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "700343a5-92b1-4c52-b0bb-6233d455b7e3",
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 15,
+        "scheduled_duration": 906,
+        "scheduled_timestamp": 1764754200,
+        "season_cfps_hash": "a8b4fc0e-f48a-4c40-8c7b-febfea24f758",
+        "season_hash": "c7102bf5-a4ba-41d4-83c9-7da16bab5cec",
+        "season_id": "1521",
+        "season_name": "Moral Orel",
+        "season_number": "2",
+        "season_summary": "An 11-year-old church-loving boy finds ways to get into trouble.",
+        "season_summary_long": "An 11-year-old church-loving boy finds ways to get into trouble.",
+        "serial": 1764660808527,
+        "series_cfps_hash": "ab039fda-704e-4150-9b4b-283fc31d053a",
+        "series_hash": "222b59ab-aec0-43e5-8e18-a62c5d96c565",
+        "series_id": "629688",
+        "series_name": "Moral Orel",
+        "series_summary": "An 11-year-old church-loving boy finds ways to get into trouble.",
+        "series_summary_long": "An 11-year-old church-loving boy finds ways to get into trouble.",
+        "show_duration": 906,
+        "show_id": "277295764",
+        "show_timestamp": 1764754200,
+        "status": "estimated",
+        "summary": "Orel learns about the great American pastime of discrimination.",
+        "summary_listings": "Orel learns about the great American pastime of discrimination.",
+        "summary_long": "Orel learns about the great American pastime of discrimination.",
+        "summary_main": "Orel learns about the great American pastime of discrimination.",
+        "summary_short": "Orel learns about the great American pastime of discrimination.",
+        "title": "God's Image",
+        "title_id": "653291",
+        "tv_rating": "TV-MA",
+        "upid": "DISC229181-001",
+        "upid_type": 12
     }
 ]
