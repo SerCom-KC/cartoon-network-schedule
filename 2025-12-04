@@ -479,5 +479,103 @@
         "tv_rating": "TV-14",
         "upid": "DISC232854-019",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232853_001_04_851",
+        "create_time": 1764738966334,
+        "episode_in_season": "1",
+        "episode_number": "S2:E01",
+        "external_id": "232853-001-851-1764831600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1764831600,
+        "last_time_machine_update": 1764738966334,
+        "last_update": 1764738966334,
+        "live": false,
+        "paid": "232853.001.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "634d0f06-5d51-45b4-ad8a-5c9c14ebb224",
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1764831600,
+        "season_hash": "54615ed6-0347-4df4-868c-c60dd967c758",
+        "season_id": "1185",
+        "season_name": "American Dad",
+        "season_number": "2",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1764738966334,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1805,
+        "show_id": "277299790",
+        "show_timestamp": 1764831600,
+        "status": "estimated",
+        "summary": "When Stan goes to Atlantic City for a bachelor party and is shunned by his so-called best friend, Roger steps in and becomes Stan's new sidekick.",
+        "summary_listings": "When Stan goes to Atlantic City for a bachelor party and is shunned by his so-called best friend, Roger steps in and becomes Stan's new sidekick.",
+        "summary_long": "When Stan goes to Atlantic City for a bachelor party and is shunned by his so-called best friend, Roger steps in and becomes Stan's new sidekick. Their friendship goes to a whole new level, but what happens in Atlantic City doesn't necessarily stay there.",
+        "summary_main": "When Stan goes to Atlantic City for a bachelor party and is shunned by his so-called best friend, Roger steps in and becomes Stan's new sidekick. Their friendship goes to a whole new level, but when they return home and face Francine, Stan realizes that what happens in Atlantic City doesn't necessarily stay there.",
+        "summary_short": "Stan gets shunned by his so-called best friend in Atlantic City.",
+        "title": "Roger 'n Me",
+        "title_id": "700729",
+        "tv_rating": "TV-14",
+        "upid": "DISC232853-001",
+        "upid_type": 12
     }
 ]
