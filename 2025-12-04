@@ -383,5 +383,101 @@
         "tv_rating": "TV-14",
         "upid": "DISC252068-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "232854_019_03_851",
+        "create_time": 1764736641758,
+        "episode_in_season": "19",
+        "episode_number": "S1:E19",
+        "external_id": "232854-019-851-1764829800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1764829800,
+        "last_time_machine_update": 1764736641758,
+        "last_update": 1764736641758,
+        "live": false,
+        "paid": "232854.019.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "de0f8b27-3ef2-412b-a3ca-7024b0349d44",
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1764829800,
+        "season_hash": "f6aae897-290d-4958-90a3-92ca54450a97",
+        "season_id": "1184",
+        "season_name": "American Dad",
+        "season_number": "1",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1764736641758,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1801,
+        "show_id": "277299780",
+        "show_timestamp": 1764829800,
+        "status": "estimated",
+        "summary": "Stan seeks revenge for being the focus of a prank during his high school years by showing off that he married Francine, the homecoming queen.",
+        "summary_listings": "Stan seeks revenge for being the focus of a prank during his high school years by showing off that he married Francine, the homecoming queen.",
+        "summary_long": "Stan seeks revenge for being the focus of a prank during his high school years by showing off that he married Francine, who was the homecoming queen. However, when her title is revealed to be a mistake, Stan goes out with the real queen.",
+        "summary_main": "Stan seeks revenge for being the focus of a prank during his high school years by showing off that he married Francine, who was the homecoming queen. However, when her title is revealed to be a mistake, Stan's pride gets the best of him and goes out with the real queen.",
+        "summary_short": "Stan seeks revenge after being the victim of high school prank.",
+        "title": "It's Good To Be Queen",
+        "title_id": "700728",
+        "tv_rating": "TV-14",
+        "upid": "DISC232854-019",
+        "upid_type": 12
     }
 ]
