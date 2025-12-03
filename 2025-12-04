@@ -577,5 +577,102 @@
         "tv_rating": "TV-14",
         "upid": "DISC232853-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "S",
+            "V"
+        ],
+        "content_id": "232853_002_03_851",
+        "create_time": 1764740215400,
+        "episode_in_season": "2",
+        "episode_number": "S2:E02",
+        "external_id": "232853-002-851-1764833400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1764833400,
+        "last_time_machine_update": 1764740215400,
+        "last_update": 1764740215400,
+        "live": false,
+        "paid": "232853.002.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "8163289b-71a5-40f1-aa83-d2e35fd1a177",
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1764833400,
+        "season_hash": "54615ed6-0347-4df4-868c-c60dd967c758",
+        "season_id": "1185",
+        "season_name": "American Dad",
+        "season_number": "2",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1764740215400,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1801,
+        "show_id": "277299800",
+        "show_timestamp": 1764833400,
+        "status": "estimated",
+        "summary": "Stan wants Steve to be popular and goes to desperate measures by giving him steroids to make him bigger, better, and part of the in-crowd at school.",
+        "summary_listings": "Stan wants Steve to be popular and goes to desperate measures by giving him steroids to make him bigger, better, and part of the in-crowd at school.",
+        "summary_long": "Stan wants Steve to be popular and goes to desperate measures by giving him steroids to make him bigger, better, and part of the in-crowd at school.",
+        "summary_main": "Stan wants Steve to be popular and goes to desperate measures by giving him steroids to make him bigger, better, and part of the in-crowd at school. But when the steroids have an unexpected side effect, Steve gets more attention than anyone expected.",
+        "summary_short": "Stan goes to desperate measures to make Steve popular at school.",
+        "title": "Helping Handis",
+        "title_id": "700730",
+        "tv_rating": "TV-14",
+        "upid": "DISC232853-002",
+        "upid_type": 12
     }
 ]
