@@ -354,5 +354,102 @@
         "tv_rating": "TV-14",
         "upid": "DISC252068-002",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232853_004_03_851",
+        "create_time": 1764823816182,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "232853-004-851-1764916200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1764916200,
+        "last_time_machine_update": 1764823816182,
+        "last_update": 1764823816182,
+        "live": false,
+        "paid": "232853.004.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "54ea09ac-d965-4c39-8d85-355a313a551a",
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1764916200,
+        "season_hash": "54615ed6-0347-4df4-868c-c60dd967c758",
+        "season_id": "1185",
+        "season_name": "American Dad",
+        "season_number": "2",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1764823816182,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277303866",
+        "show_timestamp": 1764916200,
+        "status": "estimated",
+        "summary": "For Francine's birthday, Stan helps Francine hatch a plan to break George Clooney's heart.",
+        "summary_listings": "For Francine's birthday, Stan helps Francine hatch a plan to break George Clooney's heart.",
+        "summary_long": "Francine is feeling depressed as another birthday comes around. In an effort to cheer her up, Stan helps Francine hatch a plan to break George Clooney's heart. Meanwhile, Roger adopts a bunch of orphans to help work his vineyard.",
+        "summary_main": "Francine is feeling depressed as another birthday comes around. In an effort to cheer her up, Stan helps Francine hatch a plan to break George Clooney's heart. Meanwhile, Roger adopts a bunch of orphans to help work his vineyard.",
+        "summary_short": "Stan helps Francine hatch a plan to break George Clooney's heart.",
+        "title": "Tears of a Clooney",
+        "title_id": "700732",
+        "tv_rating": "TV-14",
+        "upid": "DISC232853-004",
+        "upid_type": 12
     }
 ]
