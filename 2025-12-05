@@ -643,5 +643,103 @@
         "tv_rating": "TV-14",
         "upid": "DISC232853-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232853_007_03_851",
+        "create_time": 1764829002974,
+        "episode_in_season": "7",
+        "episode_number": "S2:E07",
+        "external_id": "232853-007-851-1764921600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1764921600,
+        "last_time_machine_update": 1764829002974,
+        "last_update": 1764829002974,
+        "live": false,
+        "paid": "232853.007.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "f6cdc389-f3bd-455c-8fef-6c6eb64ef5c3",
+        "program_type": "EA",
+        "release_year": 2006,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1764921600,
+        "season_hash": "54615ed6-0347-4df4-868c-c60dd967c758",
+        "season_id": "1185",
+        "season_name": "American Dad",
+        "season_number": "2",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1764829002974,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1805,
+        "show_id": "277303896",
+        "show_timestamp": 1764921600,
+        "status": "estimated",
+        "summary": "Stan loses his confidence, and his job, when a car salesman gets the best of him in a negotiation.",
+        "summary_listings": "Stan loses his confidence, and his job, when a car salesman gets the best of him in a negotiation.",
+        "summary_long": "Stan loses his confidence, and his job, when a car salesman gets the best of him in a negotiation. Meanwhile, Roger and Steve set up a makeshift drive-in to try to get to first base with popular schoolgirls.",
+        "summary_main": "Stan loses his confidence, and his job, when a car salesman gets the best of him in a negotiation. Meanwhile, Roger and Steve set up a makeshift drive-in to try to get to first base with popular schoolgirls.",
+        "summary_short": "A car salesman takes advantage of Stan and causes him to lose his job.",
+        "title": "Failure Is Not a Factory-Installed Option",
+        "title_id": "700754",
+        "tv_rating": "TV-14",
+        "upid": "DISC232853-007",
+        "upid_type": 12
     }
 ]
