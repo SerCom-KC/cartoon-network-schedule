@@ -4668,5 +4668,97 @@
         "tv_rating": "TV-PG",
         "upid": "DISC234425-028",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169771_003_03_851",
+        "create_time": 1764973613860,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "169771-003-851-1765058400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1765058400,
+        "last_time_machine_update": 1764973613860,
+        "last_update": 1764973613860,
+        "live": false,
+        "paid": "169771.003.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "bc2cc0b3-f20d-4b91-b5cf-1c938a5d3485",
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1765058400,
+        "season_hash": "54990ca1-6448-46be-801c-21dc64753835",
+        "season_id": "7298",
+        "season_name": "Bob's Burgers",
+        "season_number": "3",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1764973613859,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "277311808",
+        "show_timestamp": 1765058400,
+        "status": "estimated",
+        "summary": "Bob worries he's depriving his children of their vacation by making them work at the restaurant, so he fires them.",
+        "summary_listings": "Bob worries he's depriving his children of their vacation by making them work at the restaurant, so he fires them.",
+        "summary_long": "Bob worries he's depriving his children of their vacation by making them work at the restaurant, so he fires them. The kids become bored with their freedom they get hired by farmers. Bob hires Mickey to help at the restaurant but regrets it.",
+        "summary_main": "Bob worries he's depriving his children of their summer vacation by making them work at the restaurant, so he fires them. However, the kids become so bored with their newfound freedom they secretly get hired by a pair of married hippie farmers, who hire the Belcher kids as weed pickers. Meanwhile, Bob hires Mickey the bank robber to help out at the restaurant but soon regrets his decision.",
+        "summary_short": "Bob worries he's depriving his kids of their vacation, so he fires them.",
+        "title": "Bob Fires the Kids",
+        "title_id": "2003514",
+        "tv_rating": "TV-14",
+        "upid": "DISC169771-003",
+        "upid_type": 12
     }
 ]
