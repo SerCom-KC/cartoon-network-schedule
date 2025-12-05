@@ -4760,5 +4760,96 @@
         "tv_rating": "TV-14",
         "upid": "DISC169771-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "169771_004_02_851",
+        "create_time": 1764974136016,
+        "episode_in_season": "4",
+        "episode_number": "S3:E04",
+        "external_id": "169771-004-851-1765060200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1765060200,
+        "last_time_machine_update": 1764974136016,
+        "last_update": 1764974136016,
+        "live": false,
+        "paid": "169771.004.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "18d62cd3-7965-4d37-b330-b1c9634b0e52",
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1765060200,
+        "season_hash": "54990ca1-6448-46be-801c-21dc64753835",
+        "season_id": "7298",
+        "season_name": "Bob's Burgers",
+        "season_number": "3",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1764974136016,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "469123406",
+        "show_timestamp": 1765060200,
+        "status": "estimated",
+        "summary": "When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills.",
+        "summary_listings": "When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills.",
+        "summary_long": "When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills. Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant.",
+        "summary_main": "When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills outside of the restaurant. However, Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant.",
+        "summary_short": "Bob is invited to be a private chef on a docked cruise ship.",
+        "title": "Mutiny on the Windbreaker",
+        "title_id": "2003515",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169771-004",
+        "upid_type": 12
     }
 ]
