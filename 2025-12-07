@@ -5301,5 +5301,93 @@
         "tv_rating": "TV-14",
         "upid": "DISC271161-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271161_011_02_851",
+        "create_time": 1765063836684,
+        "dvs": true,
+        "episode_in_season": "11",
+        "episode_number": "S17:E11",
+        "external_id": "271161-011-851-1765157400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1765157400,
+        "last_time_machine_update": 1765063836684,
+        "last_update": 1765063836684,
+        "live": false,
+        "paid": "271161.011.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "7d3e6ca5-53cf-4497-8d85-daaeec9627ff",
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1765157400,
+        "season_hash": "bda3d4ec-2193-4f30-b28a-a6a9891110b1",
+        "season_id": "31521",
+        "season_name": "Family Guy",
+        "season_number": "17",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1765063836684,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "277315924",
+        "show_timestamp": 1765157400,
+        "status": "estimated",
+        "summary": "The Griffins move to Washington, D.C., where Peter is hired as the new White House Press Secretary.",
+        "summary_listings": "The Griffins move to Washington, D.C., where Peter is hired as the new White House Press Secretary.",
+        "summary_long": "The Griffins move to Washington, D.C., where Peter is hired as the new White House Press Secretary.",
+        "summary_main": "The Griffins move to Washington, D.C., where Peter is hired as the new White House Press Secretary.",
+        "summary_short": "In Washington, D.C., Peter is hired as the new White House Press Secretary.",
+        "title": "Trump Guy",
+        "title_id": "2539802",
+        "tv_rating": "TV-14",
+        "upid": "DISC271161-011",
+        "upid_type": 12
     }
 ]
