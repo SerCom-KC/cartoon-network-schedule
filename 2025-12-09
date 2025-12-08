@@ -757,5 +757,100 @@
         "tv_rating": "TV-14",
         "upid": "DISC232853-017",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "232843_007_03_851",
+        "create_time": 1765174879472,
+        "episode_in_season": "7",
+        "episode_number": "S3:E07",
+        "external_id": "232843-007-851-1765267200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1765267200,
+        "last_time_machine_update": 1765174879472,
+        "last_update": 1765174879472,
+        "live": false,
+        "paid": "232843.007.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "3ba071d8-266a-420e-b31e-c3ca8a5c1ece",
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1765267200,
+        "season_hash": "2397c9ca-702a-4cf3-8fc1-85df2603e401",
+        "season_id": "1186",
+        "season_name": "American Dad",
+        "season_number": "3",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1765174879472,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1805,
+        "show_id": "277320250",
+        "show_timestamp": 1765267200,
+        "status": "estimated",
+        "summary": "Stan discovers his family has transformed their home not to his satisfaction during the holidays.",
+        "summary_listings": "Stan discovers his family has transformed their home not to his satisfaction during the holidays.",
+        "summary_long": "After Stan comes home from another dangerous mission, he finds that his family has decked the halls with boughs of holly and donned themselves with gay apparel, but just not to his satisfaction.",
+        "summary_main": "After Stan comes home from another dangerous mission, he finds that his family has decked the halls with boughs of holly and donned themselves with gay apparel, but just not to his satisfaction.",
+        "summary_short": "The Smiths decorate their home for holidays that's not to Stan's liking.",
+        "title": "The Most Adequate Christmas Ever",
+        "title_id": "700740",
+        "tv_rating": "TV-14",
+        "upid": "DISC232843-007",
+        "upid_type": 12
     }
 ]
