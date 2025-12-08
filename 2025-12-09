@@ -852,5 +852,117 @@
         "tv_rating": "TV-14",
         "upid": "DISC232843-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "251792_003_03_851",
+        "create_time": 1765175500542,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "251792-003-851-1765269000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "guide_timestamp": 1765269000,
+        "last_time_machine_update": 1765175500542,
+        "last_update": 1765175500542,
+        "live": false,
+        "paid": "251792.003.03.851",
+        "participants": [
+            {
+                "character": "Rick Sanchez",
+                "name": "Justin Roiland",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Mortimer Smith",
+                "name": "Justin Roiland",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Dan Harmon",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Justin Roiland",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Ryan Elder",
+                "role": "music"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "f9d5bf61-efc8-45df-b17a-6c8864eb189a",
+        "program_type": "EA",
+        "release_year": 2017,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1765269000,
+        "season_hash": "52de53b5-6535-4da6-bc5b-250095aa6a91",
+        "season_id": "10773",
+        "season_name": "Rick and Morty (Season 3) (Non-Explicit Repack)",
+        "season_number": "3",
+        "season_summary": "Rick moves in with his daughter's family and establishes himself as a bad influence on his grandson, Morty.",
+        "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "serial": 1765175500542,
+        "series_cfps_hash": "ab553cdc-e15d-4597-b65f-bec9201fd2dd",
+        "series_hash": "553ec27c-af18-4b42-bc9a-2cfad2aa15ce",
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in with his daughter's family and establishes himself as a bad influence on his grandson, Morty.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1803,
+        "show_id": "277320260",
+        "show_timestamp": 1765269000,
+        "status": "estimated",
+        "summary": "It's family therapy time in this one, broh. Classic stuff. Pickle Rick, too.",
+        "summary_listings": "It's family therapy time in this one, broh. Classic stuff. Pickle Rick, too.",
+        "summary_long": "It's family therapy time in this one, broh. Classic stuff. Pickle Rick, too.",
+        "summary_main": "It's family therapy time in this one, broh. Classic stuff. Pickle Rick, too.",
+        "summary_short": "It's family therapy time in this one. Classic stuff. Pickle Rick, too.",
+        "title": "Pickle Rick",
+        "title_id": "2116832",
+        "tv_rating": "TV-14",
+        "upid": "DISC251792-003",
+        "upid_type": 12
     }
 ]
