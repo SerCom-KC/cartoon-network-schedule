@@ -566,5 +566,103 @@
         "tv_rating": "TV-14",
         "upid": "DISC232853-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232853_019_04_851",
+        "create_time": 1765256506947,
+        "episode_in_season": "19",
+        "episode_number": "S2:E19",
+        "external_id": "232853-019-851-1765350000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1765350000,
+        "last_time_machine_update": 1765256506947,
+        "last_update": 1765256506947,
+        "live": false,
+        "paid": "232853.019.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "8d83de55-0d68-4183-9746-7cd1b2927d3b",
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1765350000,
+        "season_hash": "54615ed6-0347-4df4-868c-c60dd967c758",
+        "season_id": "1185",
+        "season_name": "American Dad",
+        "season_number": "2",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1765256506947,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277324356",
+        "show_timestamp": 1765350000,
+        "status": "estimated",
+        "summary": "Trouble arises when Francine lets Stan set up Bullock with her friend.",
+        "summary_listings": "Trouble arises when Francine lets Stan set up Bullock with her friend.",
+        "summary_long": "Stan goes to great lengths to never, ever end up in a situation ending with Francine telling him, \"I told you so.\" She lets him hook his boss Bullock up with her friend, but when Bullock accidentally kills the woman, Stan frames Francine.",
+        "summary_main": "Stan goes to great lengths to never, ever end up in a situation ending with Francine telling him, \"I told you so.\" She lets him hook his boss Bullock up with her friend, but when Bullock accidentally kills the woman, Stan frames Francine so she'll stop asking questions.",
+        "summary_short": "Trouble arises when Francine lets Stan set up Bullock with her friend.",
+        "title": "Four Little Words",
+        "title_id": "700766",
+        "tv_rating": "TV-14",
+        "upid": "DISC232853-019",
+        "upid_type": 12
     }
 ]
