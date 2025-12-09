@@ -664,5 +664,103 @@
         "tv_rating": "TV-14",
         "upid": "DISC232853-019",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232853_020_03_851",
+        "create_time": 1765259166043,
+        "episode_in_season": "20",
+        "episode_number": "S2:E20",
+        "external_id": "232853-020-851-1765351800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1765351800,
+        "last_time_machine_update": 1765259166043,
+        "last_update": 1765259166043,
+        "live": false,
+        "paid": "232853.020.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "dad5c8b1-a9ef-4dac-bea5-796fc4015ee6",
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1765351800,
+        "season_hash": "54615ed6-0347-4df4-868c-c60dd967c758",
+        "season_id": "1185",
+        "season_name": "American Dad",
+        "season_number": "2",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1765259166043,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277324366",
+        "show_timestamp": 1765351800,
+        "status": "estimated",
+        "summary": "Stan gets jealous when he discovers how promiscuous Francine was in the past.",
+        "summary_listings": "Stan gets jealous when he discovers how promiscuous Francine was in the past.",
+        "summary_long": "Stan gets jealous when he discovers how promiscuous Francine was in the past. He decides the only way to even the score is to divorce Francine and sow some wild oats of his own. Meanwhile, Steve gets addicted to an energy drink.",
+        "summary_main": "Stan gets jealous when he discovers how promiscuous Francine was in the past. He decides the only way to even the score is to divorce Francine and sow some wild oats of his own. Meanwhile, Steve gets addicted to an energy drink.",
+        "summary_short": "Stan gets jealous when he uncovers Francine's promiscuous past.",
+        "title": "When Stan Loves a Woman",
+        "title_id": "700767",
+        "tv_rating": "TV-14",
+        "upid": "DISC232853-020",
+        "upid_type": 12
     }
 ]
