@@ -382,5 +382,93 @@
         "tv_rating": "TV-MA",
         "upid": "DISC229943-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252068_004_02_851",
+        "create_time": 1765254343495,
+        "episode_in_season": "4",
+        "episode_number": "S2:E04",
+        "external_id": "252068-004-851-1765346400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "China, IL",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1765346400,
+        "last_time_machine_update": 1765254343495,
+        "last_update": 1765254343495,
+        "live": false,
+        "paid": "252068.004.02.851",
+        "participants": [
+            {
+                "character": "Frank Smith",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Baby Cakes",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pony Merks",
+                "name": "Greta Gerwig",
+                "role": "voice-actor"
+            },
+            {
+                "character": "The Dean",
+                "name": "Hulk Hogan",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "5dcc27f9-9f40-4078-bcfc-5ca790a4c7d6",
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1765346400,
+        "season_hash": "0ecdf1a0-5575-4212-a416-f1deb351f30d",
+        "season_id": "7415",
+        "season_name": "China, IL",
+        "season_number": "2",
+        "season_summary": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "season_summary_long": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "serial": 1765254343495,
+        "series_cfps_hash": "c06e6f1a-e539-4b70-87d0-b9bcab25e16e",
+        "series_hash": "75bdec2c-3e5f-40e1-9880-4e43c5c7fbd8",
+        "series_id": "862772",
+        "series_name": "China, IL",
+        "series_summary": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "series_summary_long": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "show_duration": 1800,
+        "show_id": "277324336",
+        "show_timestamp": 1765346400,
+        "status": "estimated",
+        "summary": "Frank discovers that Thomas Jefferson's mythical Diamond Castle is real.",
+        "summary_listings": "Frank discovers that Thomas Jefferson's mythical Diamond Castle is real.",
+        "summary_long": "Frank discovers that Thomas Jefferson's mythical Diamond Castle is real.",
+        "summary_main": "Frank discovers that Thomas Jefferson's mythical Diamond Castle is real.",
+        "summary_short": "Frank discovers that Thomas Jefferson's mythical Diamond Castle is real.",
+        "title": "The Diamond Castle",
+        "title_id": "2008009",
+        "tv_rating": "TV-14",
+        "upid": "DISC252068-004",
+        "upid_type": 12
     }
 ]
