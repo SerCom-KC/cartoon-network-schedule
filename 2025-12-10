@@ -470,5 +470,101 @@
         "tv_rating": "TV-14",
         "upid": "DISC252068-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "V"
+        ],
+        "content_id": "232853_018_04_851",
+        "create_time": 1765255383774,
+        "episode_in_season": "18",
+        "episode_number": "S2:E18",
+        "external_id": "232853-018-851-1765348200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1765348200,
+        "last_time_machine_update": 1765255383774,
+        "last_update": 1765255383774,
+        "live": false,
+        "paid": "232853.018.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "e7270cdf-c090-489b-af9a-7edc0c0aa6af",
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1765348200,
+        "season_hash": "54615ed6-0347-4df4-868c-c60dd967c758",
+        "season_id": "1185",
+        "season_name": "American Dad",
+        "season_number": "2",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1765255383774,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277324346",
+        "show_timestamp": 1765348200,
+        "status": "estimated",
+        "summary": "A misunderstanding at the CIA leads Stan to believe it's the end of the world.",
+        "summary_listings": "A misunderstanding at the CIA leads Stan to believe it's the end of the world.",
+        "summary_long": "A misunderstanding at the CIA leads Stan to believe it's the end of the world. Even after he realizes his error, he keeps his family convinced they are the last people on Earth so they will respect him.",
+        "summary_main": "A misunderstanding at the CIA leads Stan to believe it's the end of the world. Even after he realizes his error, he keeps his family convinced they are the last people on Earth so they will respect him. Meanwhile, Roger gets married so he can buy a new blender.",
+        "summary_short": "Stan believes it's the end of the world after a misunderstanding at work.",
+        "title": "An Apocalypse to Remember",
+        "title_id": "700765",
+        "tv_rating": "TV-14",
+        "upid": "DISC232853-018",
+        "upid_type": 12
     }
 ]
