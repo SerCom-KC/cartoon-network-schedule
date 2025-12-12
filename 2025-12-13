@@ -5104,5 +5104,97 @@
         "tv_rating": "TV-14",
         "upid": "DISC169796-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "169796_012_03_851",
+        "create_time": 1765578924672,
+        "episode_in_season": "12",
+        "episode_number": "S4:E12",
+        "external_id": "169796-012-851-1765665000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1765665000,
+        "last_time_machine_update": 1765578924672,
+        "last_update": 1765578924672,
+        "live": false,
+        "paid": "169796.012.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "de3a77f7-221a-46a0-b9b1-51a771be8fc4",
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1809,
+        "scheduled_timestamp": 1765665000,
+        "season_hash": "6276f680-83a1-41cd-bbe3-2a08a3cbe4b0",
+        "season_id": "8898",
+        "season_name": "Bob's Burgers",
+        "season_number": "4",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1765578924672,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1809,
+        "show_id": "277340510",
+        "show_timestamp": 1765665000,
+        "status": "estimated",
+        "summary": "Bob and Linda visit the school and learn that their kids' essays about their fantasy version of Wagstaff are \"too creative\" and \"offensive.\"",
+        "summary_listings": "Bob and Linda visit the school and learn that their kids' essays about their fantasy version of Wagstaff are \"too creative\" and \"offensive.\"",
+        "summary_long": "Bob and Linda visit the school and learn that their kids' essays about their fantasy version of Wagstaff are \"too creative\" and \"offensive.\"",
+        "summary_main": "Bob and Linda visit the school and learn that their kids' essays about their fantasy version of Wagstaff are \"too creative\" and \"offensive.\" Eugene transforms the school into a \"Fart School for the Gifted,\" Tina, to her delight, depicts a world where she is romanced by countless zombie teenage boys and Louise creates a school where she takes down a robotic Mr. Frond from the future.",
+        "summary_short": "Bob and Linda learn that their kids' essays \"too creative\" and \"offensive.\"",
+        "title": "The Frond Files",
+        "title_id": "2030315",
+        "tv_rating": "TV-PG",
+        "upid": "DISC169796-012",
+        "upid_type": 12
     }
 ]
