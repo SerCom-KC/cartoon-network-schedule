@@ -4280,5 +4280,96 @@
         "tv_rating": "TV-PG",
         "upid": "DISC250265-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "250266_010_02_851",
+        "create_time": 1765665884509,
+        "dvs": true,
+        "episode_in_season": "10",
+        "episode_number": "S12:E10",
+        "external_id": "250266-010-851-1765751400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1765751400,
+        "last_time_machine_update": 1765665884509,
+        "last_update": 1765665884509,
+        "live": false,
+        "paid": "250266.010.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "c5dabf2f-a747-4860-8a1d-b97497eec4c7",
+        "program_type": "EA",
+        "release_year": 2021,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1765751400,
+        "season_hash": "42f5e3ec-b8f7-4888-9e92-db28f8a5a89b",
+        "season_id": "27922",
+        "season_name": "Bob's Burgers",
+        "season_number": "12",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1765665884509,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1801,
+        "show_id": "277344496",
+        "show_timestamp": 1765751400,
+        "status": "estimated",
+        "summary": "After Gene breaks his favorite, extremely rare '70s era Christmas record, Tina and Louise join him in the search for another copy.",
+        "summary_listings": "After Gene breaks his favorite, extremely rare '70s era Christmas record, Tina and Louise join him in the search for another copy.",
+        "summary_long": "After Gene breaks his favorite, extremely rare '70s era Christmas record, Tina and Louise join him in the search for another copy. Meanwhile, Teddy wants to do a neighborhood Secret Santa with Bob and Linda.",
+        "summary_main": "After Gene breaks his favorite, extremely rare '70s era Christmas record, Tina and Louise join him in the search for another copy. Meanwhile, Teddy wants to do a neighborhood Secret Santa with Bob and Linda.",
+        "summary_short": "The kids have a Christmas mission.",
+        "title": "Gene's Christmas Break",
+        "title_id": "2438992",
+        "tv_rating": "TV-PG",
+        "upid": "DISC250266-010",
+        "upid_type": 12
     }
 ]
