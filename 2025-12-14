@@ -4820,5 +4820,92 @@
         "tv_rating": "TV-14",
         "upid": "DISC271164-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271164_004_02_851",
+        "create_time": 1765669416535,
+        "episode_in_season": "4",
+        "episode_number": "S6:E04",
+        "external_id": "271164-004-851-1765762200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1765762200,
+        "last_time_machine_update": 1765669416535,
+        "last_update": 1765669416535,
+        "live": false,
+        "paid": "271164.004.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "c25360a4-73ba-4f52-a1ef-0547a95176e4",
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1803,
+        "scheduled_timestamp": 1765762200,
+        "season_hash": "0209a510-b15f-4c42-89c9-d72bc06b957b",
+        "season_id": "995",
+        "season_name": "Family Guy",
+        "season_number": "6",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1765669416535,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1803,
+        "show_id": "277344556",
+        "show_timestamp": 1765762200,
+        "status": "estimated",
+        "summary": "Lois and Peter sail off on a cruise. Jealous that he was left behind, Stewie's matricidal tendencies are rekindled.",
+        "summary_listings": "Lois and Peter sail off on a cruise. Jealous that he was left behind, Stewie's matricidal tendencies are rekindled.",
+        "summary_long": "Lois and Peter sail off on a cruise. Jealous that he was left behind, Stewie's matricidal tendencies are rekindled. When Brian challenges him to actually do it, Stewie carries out his diabolical plan.",
+        "summary_main": "Lois and Peter sail off on a cruise. Jealous that he was left behind, Stewie's matricidal tendencies are rekindled. When Brian challenges him to actually do it, Stewie carries out his diabolical plan.",
+        "summary_short": "Stewie's matricidal tendencies are rekindled.",
+        "title": "Stewie Kills Lois Part 1",
+        "title_id": "666744",
+        "tv_rating": "TV-14",
+        "upid": "DISC271164-004",
+        "upid_type": 12
     }
 ]
