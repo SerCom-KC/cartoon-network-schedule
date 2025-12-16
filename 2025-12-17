@@ -5984,5 +5984,98 @@
         ],
         "upid": "DISC250263-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271168_008_01_851",
+        "create_time": 1765927921821,
+        "episode_in_season": "8",
+        "episode_number": "S12:E08",
+        "external_id": "271168-008-851-1766021400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1766021400,
+        "last_time_machine_update": 1765927921821,
+        "last_update": 1765927921821,
+        "live": false,
+        "paid": "271168.008.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "cd3ca7bc-d673-4293-a34f-5b4de6c275e1",
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1766021400,
+        "season_hash": "4fe04245-d714-47af-bee8-2cf5c176287c",
+        "season_id": "1001",
+        "season_name": "Family Guy",
+        "season_number": "12",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1765927921821,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "277356974",
+        "show_timestamp": 1766021400,
+        "status": "estimated",
+        "summary": "The Griffins visit the Quahog Mall for the Christmas Carnival only to find that it has been canceled. Upset, Stewie begins to act out.",
+        "summary_listings": "The Griffins visit the Quahog Mall for the Christmas Carnival only to find that it has been canceled. Upset, Stewie begins to act out.",
+        "summary_long": "The Griffins visit the Quahog Mall for the Christmas Carnival only to find that it has been canceled. Upset, Stewie begins to act out.",
+        "summary_main": "The Griffins visit the Quahog Mall for the Christmas Carnival only to find that it has been canceled. Upset, Stewie begins to act out.",
+        "summary_short": "Stewie begins to act out when the Christmas Carnival is canceled.",
+        "title": "Christmas Guy",
+        "title_id": "809272",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC271168-008",
+        "upid_type": 12
     }
 ]
