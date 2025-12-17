@@ -1136,5 +1136,91 @@
         ],
         "upid": "DISC251737-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "229181_021_01_851",
+        "create_time": 1765958189975,
+        "episode_in_season": "21",
+        "episode_number": "S2:E21",
+        "external_id": "229181-021-851-1766050200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Moral Orel",
+        "genres": [
+            "Anime",
+            "Comedy",
+            "Drama"
+        ],
+        "guide_timestamp": 1766050200,
+        "last_time_machine_update": 1765958189975,
+        "last_update": 1765958189975,
+        "live": false,
+        "paid": "229181.021.01.851",
+        "participants": [
+            {
+                "character": "Orel Puppington",
+                "name": "Carolyn Lawrence",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Clay Puppington",
+                "name": "Scott Adsit",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Bloberta Puppington",
+                "name": "Britta Phillips",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shapey Puppington",
+                "name": "Tigger Stamatopoulos",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rod Putty",
+                "name": "William Salyers",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "1eb50631-6a53-47fa-8cd5-c97c28cc5de9",
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1766050200,
+        "season_hash": "c7102bf5-a4ba-41d4-83c9-7da16bab5cec",
+        "season_id": "1521",
+        "season_name": "Moral Orel",
+        "season_number": "2",
+        "season_summary": "An 11-year-old church-loving boy finds ways to get into trouble.",
+        "season_summary_long": "An 11-year-old church-loving boy finds ways to get into trouble.",
+        "serial": 1765958189975,
+        "series_cfps_hash": "ab039fda-704e-4150-9b4b-283fc31d053a",
+        "series_hash": "222b59ab-aec0-43e5-8e18-a62c5d96c565",
+        "series_id": "629688",
+        "series_name": "Moral Orel",
+        "series_summary": "An 11-year-old church-loving boy finds ways to get into trouble.",
+        "series_summary_long": "An 11-year-old church-loving boy finds ways to get into trouble.",
+        "show_duration": 1800,
+        "show_id": "277357144",
+        "show_timestamp": 1766050200,
+        "status": "estimated",
+        "summary": "Orel and Clay take a father and son hunting trip.",
+        "summary_listings": "Orel and Clay take a father and son hunting trip.",
+        "summary_long": "Orel and Clay take a father and son hunting trip.",
+        "summary_main": "Orel and Clay take a father and son hunting trip.",
+        "summary_short": "Orel and Clay take a father and son hunting trip.",
+        "title": "Nature",
+        "title_id": "678396",
+        "tv_rating": "TV-MA",
+        "tv_rating_descriptors": [],
+        "upid": "DISC229181-021",
+        "upid_type": 12
     }
 ]
