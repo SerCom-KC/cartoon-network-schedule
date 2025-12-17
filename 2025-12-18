@@ -757,5 +757,109 @@
         "tv_rating_descriptors": [],
         "upid": "DISC232843-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232837_022_03_851",
+        "create_time": 1765951405626,
+        "episode_in_season": "22",
+        "episode_number": "S15:E22",
+        "external_id": "232837-022-851-1766044800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1766044800,
+        "last_time_machine_update": 1765951405626,
+        "last_update": 1765951405626,
+        "live": false,
+        "paid": "232837.022.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "76fb8c3f-2e70-4c96-885c-e26b54bffb3f",
+        "program_type": "EA",
+        "release_year": 2020,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1807,
+        "scheduled_timestamp": 1766044800,
+        "season_hash": "cb772a2a-2468-493b-acc2-6d1eaf3b2940",
+        "season_id": "14124",
+        "season_name": "American Dad",
+        "season_number": "15",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1765951405625,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1807,
+        "show_id": "277357114",
+        "show_timestamp": 1766044800,
+        "status": "estimated",
+        "summary": "After Stan\u2019s plan for the perfect Christmas goes terribly, tragically wrong, he's given a magical opportunity to make things right.",
+        "summary_listings": "After Stan\u2019s plan for the perfect Christmas goes terribly, tragically wrong, he's given a magical opportunity to make things right.",
+        "summary_long": "After Stan\u2019s plan for the perfect Christmas goes terribly, tragically wrong, he's given a magical opportunity to make things right.",
+        "summary_main": "After Stan\u2019s plan for the perfect Christmas goes terribly, tragically wrong, he's given a magical opportunity to make things right.",
+        "summary_short": "Stan is determined to make a perfect Christmas for his family a reality.",
+        "title": "Yule. Tide. Repeat.",
+        "title_id": "2197412",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC232837-022",
+        "upid_type": 12
     }
 ]
