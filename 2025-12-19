@@ -6057,5 +6057,94 @@
         ],
         "upid": "DISC169687-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "271171_018_02_851",
+        "create_time": 1766101127126,
+        "episode_in_season": "18",
+        "episode_number": "S5:E18",
+        "external_id": "271171-018-851-1766194200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1766194200,
+        "last_time_machine_update": 1766101127126,
+        "last_update": 1766101127126,
+        "live": false,
+        "paid": "271171.018.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin, Stewie Griffin, Brian Griffin, Quagmire, Tom Tucker",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "abbc6029-dff0-49fe-8f40-fddb5d67ce26",
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1766194200,
+        "season_hash": "abf8188a-437f-4bb1-9d90-2119a336da57",
+        "season_id": "994",
+        "season_name": "Family Guy",
+        "season_number": "5",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1766101127125,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1810,
+        "show_id": "277365196",
+        "show_timestamp": 1766194200,
+        "status": "estimated",
+        "summary": "Death allows Peter to go back in time for a night so he can sow his wild oats.",
+        "summary_listings": "Death allows Peter to go back in time for a night so he can sow his wild oats.",
+        "summary_long": "Death allows Peter to go back in time for a night so he can sow his wild oats.",
+        "summary_main": "Death allows Peter to go back in time for a night so he can sow his wild oats.",
+        "summary_short": "Death allows Peter to go back in time to sow his wild oats.",
+        "title": "Meet the Quagmires",
+        "title_id": "652682",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L"
+        ],
+        "upid": "DISC271171-018",
+        "upid_type": 12
     }
 ]
