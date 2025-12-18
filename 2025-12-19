@@ -317,5 +317,109 @@
         ],
         "upid": "DISC252069-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232843_013_04_851",
+        "create_time": 1766032687514,
+        "episode_in_season": "13",
+        "episode_number": "S3:E13",
+        "external_id": "232843-013-851-1766125800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1766125800,
+        "last_time_machine_update": 1766032687514,
+        "last_update": 1766032687514,
+        "live": false,
+        "paid": "232843.013.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "77981324-6615-4af3-b53a-953cbcfa965a",
+        "program_type": "EA",
+        "release_year": 2008,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1766125800,
+        "season_hash": "2397c9ca-702a-4cf3-8fc1-85df2603e401",
+        "season_id": "1186",
+        "season_name": "American Dad",
+        "season_number": "3",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1766032687514,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277361190",
+        "show_timestamp": 1766125800,
+        "status": "estimated",
+        "summary": "When the CIA initiates an Alien Task Force, a peculiar twist of fate puts Roger in charge of the task force in disguise.",
+        "summary_listings": "When the CIA initiates an Alien Task Force, a peculiar twist of fate puts Roger in charge of the task force in disguise.",
+        "summary_long": "When the CIA initiates an Alien Task Force, a peculiar twist of fate puts Roger in charge of the task force in disguise, who marks Stan as an alien to protect his own identity. Meanwhile Francine comes to grips with being left-handed.",
+        "summary_main": "When the CIA initiates an Alien Task Force, a peculiar twist of fate puts Roger in charge of the task force in disguise, who marks Stan as an alien to protect his own identity. Meanwhile Francine comes to grips with being left-handed.",
+        "summary_short": "Roger is put in charge of the CIA's Alien Task Force.",
+        "title": "Office Spaceman",
+        "title_id": "700743",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC232843-013",
+        "upid_type": 12
     }
 ]
