@@ -223,5 +223,99 @@
         "tv_rating_descriptors": [],
         "upid": "DISC251783-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "252069_001_02_851",
+        "create_time": 1766031180691,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "252069-001-851-1766124000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "China, IL",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1766124000,
+        "last_time_machine_update": 1766031180691,
+        "last_update": 1766031180691,
+        "live": false,
+        "paid": "252069.001.02.851",
+        "participants": [
+            {
+                "character": "Frank Smith",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Baby Cakes",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pony Merks",
+                "name": "Greta Gerwig",
+                "role": "voice-actor"
+            },
+            {
+                "character": "The Dean",
+                "name": "Hulk Hogan",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "da8bec6f-ead2-4743-8c1f-01cfc261bad6",
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1766124000,
+        "season_hash": "61bcd6ca-75df-4314-a83f-3051b28d3731",
+        "season_id": "9269",
+        "season_name": "China, IL",
+        "season_number": "3",
+        "season_summary": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "season_summary_long": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "serial": 1766031180691,
+        "series_cfps_hash": "c06e6f1a-e539-4b70-87d0-b9bcab25e16e",
+        "series_hash": "75bdec2c-3e5f-40e1-9880-4e43c5c7fbd8",
+        "series_id": "862772",
+        "series_name": "China, IL",
+        "series_summary": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "series_summary_long": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "show_duration": 1806,
+        "show_id": "277361180",
+        "show_timestamp": 1766124000,
+        "status": "estimated",
+        "summary": "Frank and Steve compete over their annual Gentleman's Bet. The Dean and the Mayor solicit Pony and Baby Cakes' help for a Think Tank.",
+        "summary_listings": "Frank and Steve compete over their annual Gentleman's Bet. The Dean and the Mayor solicit Pony and Baby Cakes' help for a Think Tank.",
+        "summary_long": "Frank and Steve compete over their annual Gentleman's Bet. The Dean and the Mayor solicit Pony and Baby Cakes' help for a Think Tank.",
+        "summary_main": "Frank and Steve compete over their annual Gentleman's Bet. The Dean and the Mayor solicit Pony and Baby Cakes' help for a Think Tank.",
+        "summary_short": "Frank and Steve compete over their annual Gentleman's Bet.",
+        "title": "A Gentleman's Bet",
+        "title_id": "2053732",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC252069-001",
+        "upid_type": 12
     }
 ]
