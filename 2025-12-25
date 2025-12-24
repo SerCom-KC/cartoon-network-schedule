@@ -4623,5 +4623,99 @@
         "tv_rating_descriptors": [],
         "upid": "DISC229032-023",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "284328_010_02_851",
+        "create_time": 1766614021824,
+        "dvs": true,
+        "episode_in_season": "10",
+        "episode_number": "S13:E10",
+        "external_id": "284328-010-851-1766700000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1766700000,
+        "last_time_machine_update": 1766614021824,
+        "last_update": 1766614021824,
+        "live": false,
+        "paid": "284328.010.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "8faf1fd3-d2bd-4b8f-8ab2-0d3c15d1b06e",
+        "program_type": "EA",
+        "release_year": 2022,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1766700000,
+        "season_hash": "b14d2675-32b1-4089-bcec-47421b846eff",
+        "season_id": "33560",
+        "season_name": "Bob's Burgers",
+        "season_number": "13",
+        "season_summary": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "season_summary_long": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "serial": 1766614021824,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1805,
+        "show_id": "277389612",
+        "show_timestamp": 1766700000,
+        "status": "estimated",
+        "summary": "Bob and Linda try to attend all three kids' holiday performances at the same time.",
+        "summary_listings": "Bob and Linda try to attend all three kids' holiday performances at the same time.",
+        "summary_long": "Bob and Linda try to attend all three kids' holiday performances at the same time.",
+        "summary_main": "Bob and Linda try to attend all three kids' holiday performances at the same time.",
+        "summary_short": "Bob and Linda try to see the kids' holiday performances at the same time.",
+        "title": "The Plight Before Christmas",
+        "title_id": "2569575",
+        "tv_rating": "TV-PG",
+        "tv_rating_descriptors": [
+            "L"
+        ],
+        "upid": "DISC284328-010",
+        "upid_type": 12
     }
 ]
