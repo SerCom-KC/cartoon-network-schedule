@@ -1171,5 +1171,109 @@
         ],
         "upid": "DISC232838-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232838_002_03_851",
+        "create_time": 1766729044721,
+        "episode_in_season": "2",
+        "episode_number": "S4:E02",
+        "external_id": "232838-002-851-1766822400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1766822400,
+        "last_time_machine_update": 1766729044721,
+        "last_update": 1766729044721,
+        "live": false,
+        "paid": "232838.002.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "03126052-06aa-4122-ae9e-c1f66467cb4d",
+        "program_type": "EA",
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1766822400,
+        "season_hash": "d33753a5-6388-41d0-8fc9-e9cb43af7262",
+        "season_id": "1187",
+        "season_name": "American Dad",
+        "season_number": "4",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1766729044720,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1805,
+        "show_id": "277393998",
+        "show_timestamp": 1766822400,
+        "status": "estimated",
+        "summary": "Fed up with a lack of alone time, Stan starts taking experimental CIA pills that allow him to remain awake 24/7.",
+        "summary_listings": "Fed up with a lack of alone time, Stan starts taking experimental CIA pills that allow him to remain awake 24/7.",
+        "summary_long": "Fed up with a lack of alone time, Stan starts taking experimental CIA pills that allow him to remain awake 24/7.",
+        "summary_main": "Every night Stan comes home from work exhausted and is faced with the task of spending time with his family and then going straight to bed, eliminating the chance of any alone time. In ten years, he still hasn't been able to get through one chapter of a book. A co-worker slips him some pills that allow him to stay up all night and still feel rested. He jumps at the opportunity, and uses his extra time to do all of the things he hasn't had time to do. He finishes his book, teaches himself the piano and shoots hoops. He feels great. When Francine uncovers his late-night activities and what he's taking in order to make it happen, she demands her own pills.",
+        "summary_short": "Stan takes experimental CIA pills that allow him to remain awake 24/7.",
+        "title": "Stan Time",
+        "title_id": "751046",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC232838-002",
+        "upid_type": 12
     }
 ]
