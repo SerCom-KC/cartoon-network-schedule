@@ -4709,5 +4709,105 @@
         ],
         "upid": "DISC284329-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "284329_006_02_851",
+        "create_time": 1766875792615,
+        "dvs": true,
+        "episode_in_season": "6",
+        "episode_number": "S14:E06",
+        "external_id": "284329-006-851-1766961000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1766961000,
+        "last_time_machine_update": 1766875792615,
+        "last_update": 1766875792615,
+        "live": false,
+        "paid": "284329.006.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_hash": "65751704-21d0-4a69-9062-02e9c24a603b",
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1766961000,
+        "season_hash": "27a659ba-34a6-41d1-9aa5-682734df76b9",
+        "season_id": "33561",
+        "season_name": "Bob's Burgers",
+        "season_number": "14",
+        "season_summary": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "season_summary_long": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "serial": 1766875792614,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "469132108",
+        "show_timestamp": 1766961000,
+        "status": "estimated",
+        "summary": "Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip.",
+        "summary_listings": "Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip.",
+        "summary_long": "Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip on his exclusive club's secret island. Meanwhile, Linda gives the kids a crash-course on cocktail party etiquette.",
+        "summary_main": "Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip on his exclusive club's secret island. Meanwhile, Linda gives the kids a crash-course on cocktail party etiquette.",
+        "summary_short": "Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip.",
+        "title": "Escape From Which Island?",
+        "title_id": "2569593",
+        "tv_rating": "TV-PG",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC284329-006",
+        "upid_type": 12
     }
 ]
