@@ -1656,5 +1656,105 @@
         ],
         "upid": "DISC255276-020",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "255276_021_04_851",
+        "create_time": 1766820451947,
+        "dvs": true,
+        "episode_in_season": "21",
+        "episode_number": "S19:E21",
+        "external_id": "255276-021-851-1766912400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1766912400,
+        "last_time_machine_update": 1766820451947,
+        "last_update": 1766820451947,
+        "live": false,
+        "paid": "255276.021.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "a6c16c65-e025-4e75-911a-5d998cf4acea",
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1766912400,
+        "season_hash": "c25a64e7-d3fa-4210-a783-69464de7e1fd",
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1766820451947,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277398054",
+        "show_timestamp": 1766912400,
+        "status": "estimated",
+        "summary": "When Rogu comes down with a mysterious illness, the Smiths struggle to find a cure.",
+        "summary_listings": "When Rogu comes down with a mysterious illness, the Smiths struggle to find a cure.",
+        "summary_long": "When Rogu comes down with a mysterious illness, the Smiths struggle to find a cure.",
+        "summary_main": "When Rogu comes down with a mysterious illness, the Smiths struggle to find a cure.",
+        "summary_short": "Rogu comes down with a mysterious illness.",
+        "title": "The Sickness",
+        "title_id": "2445764",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC255276-021",
+        "upid_type": 12
     }
 ]
