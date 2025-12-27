@@ -1756,5 +1756,103 @@
         ],
         "upid": "DISC255276-021",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "255276_022_04_851",
+        "create_time": 1766821748722,
+        "dvs": true,
+        "episode_in_season": "22",
+        "episode_number": "S19:E22",
+        "external_id": "255276-022-851-1766914200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1766914200,
+        "last_time_machine_update": 1766821748722,
+        "last_update": 1766821748722,
+        "live": false,
+        "paid": "255276.022.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jeff Fischer",
+                "name": "Jeff Fischer",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "6542c009-43e5-40af-8996-b64618a3b20e",
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1766914200,
+        "season_hash": "c25a64e7-d3fa-4210-a783-69464de7e1fd",
+        "season_id": "28221",
+        "season_name": "American Dad",
+        "season_number": "19",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1766821748722,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1808,
+        "show_id": "277398064",
+        "show_timestamp": 1766914200,
+        "status": "estimated",
+        "summary": "Stan uses a mothballed military computer to do Steve's math homework, starting the clock toward nuclear annihilation.",
+        "summary_listings": "Stan uses a mothballed military computer to do Steve's math homework, starting the clock toward nuclear annihilation.",
+        "summary_long": "Stan uses a mothballed military computer to do Steve's math homework, starting the clock toward nuclear annihilation.",
+        "summary_main": "Stan uses a mothballed military computer to do Steve's math homework, starting the clock toward nuclear annihilation.",
+        "summary_short": "Stan uses an old computer and starts the clock toward nuclear annihilation.",
+        "title": "Guardian",
+        "title_id": "2445765",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L"
+        ],
+        "upid": "DISC255276-022",
+        "upid_type": 12
     }
 ]
