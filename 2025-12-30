@@ -439,5 +439,199 @@
         ],
         "upid": "DISC283012-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "252069_003_02_851",
+        "create_time": 1766981133472,
+        "episode_in_season": "3",
+        "episode_number": "S3:E03",
+        "external_id": "252069-003-851-1767074400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "China, IL",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1767074400,
+        "last_time_machine_update": 1766981133472,
+        "last_update": 1766981133472,
+        "live": false,
+        "paid": "252069.003.02.851",
+        "participants": [
+            {
+                "character": "Frank Smith",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Baby Cakes",
+                "name": "Brad Neely",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Pony Merks",
+                "name": "Greta Gerwig",
+                "role": "voice-actor"
+            },
+            {
+                "character": "The Dean",
+                "name": "Hulk Hogan",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "354dd977-db00-4fd9-99ce-fc2787f5e722",
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1767074400,
+        "season_hash": "61bcd6ca-75df-4314-a83f-3051b28d3731",
+        "season_id": "9269",
+        "season_name": "China, IL",
+        "season_number": "3",
+        "season_summary": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "season_summary_long": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "serial": 1766981133472,
+        "series_cfps_hash": "c06e6f1a-e539-4b70-87d0-b9bcab25e16e",
+        "series_hash": "75bdec2c-3e5f-40e1-9880-4e43c5c7fbd8",
+        "series_id": "862772",
+        "series_name": "China, IL",
+        "series_summary": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "series_summary_long": "Brothers who are professors sacrifice facts, lessons and syllabi for the sake of being awesome.",
+        "show_duration": 1806,
+        "show_id": "469133546",
+        "show_timestamp": 1767074400,
+        "status": "estimated",
+        "summary": "Steve, Frank and Baby Cakes start a band in order to finally get the attention of the most beautiful celebrity in the world.",
+        "summary_listings": "Steve, Frank and Baby Cakes start a band in order to finally get the attention of the most beautiful celebrity in the world.",
+        "summary_long": "Steve, Frank and Baby Cakes start a band in order to finally get the attention of the most beautiful celebrity in the world.",
+        "summary_main": "Steve, Frank and Baby Cakes start a band in order to finally get the attention of the most beautiful celebrity in the world.",
+        "summary_short": "Steve, Frank and Baby Cakes start a band to get attention from a celebrity.",
+        "title": "Charlize",
+        "title_id": "2053735",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "V"
+        ],
+        "upid": "DISC252069-003",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232838_006_01_851",
+        "create_time": 1766983876856,
+        "episode_in_season": "6",
+        "episode_number": "S4:E06",
+        "external_id": "232838-006-851-1767076200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1767076200,
+        "last_time_machine_update": 1766983876856,
+        "last_update": 1766983876856,
+        "live": false,
+        "paid": "232838.006.01.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "6b51d806-6f3f-4b69-ae23-3f64df734762",
+        "program_type": "EA",
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1767076200,
+        "season_hash": "d33753a5-6388-41d0-8fc9-e9cb43af7262",
+        "season_id": "1187",
+        "season_name": "American Dad",
+        "season_number": "4",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1766983876856,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1801,
+        "show_id": "469133549",
+        "show_timestamp": 1767076200,
+        "status": "estimated",
+        "summary": "When Stan's dad resurfaces and awaits trials for a crime he did not commit, Steve sways Stan to let him stay with them under house arrest.",
+        "summary_listings": "When Stan's dad resurfaces and awaits trials for a crime he did not commit, Steve sways Stan to let him stay with them under house arrest.",
+        "summary_long": "When Stan's con-man dad Jack resurfaces in prison awaiting trial for a crime he did not commit, Steve gets Stan to let Jack stay with them under house arrest.",
+        "summary_main": "When Stan's con-man dad Jack resurfaces in prison awaiting trial for a crime he did not commit, Steve gets Stan to let Jack stay with them under house arrest. Steve takes the opportunity to reconcile the two, but Stan is convinced that Jack is just using them to escape prison. Meanwhile, Hayley interns at Roger's attic bar.",
+        "summary_short": "Steve convinces Stan to allow his father to await trial in their home.",
+        "title": "Jack's Back",
+        "title_id": "748109",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "V"
+        ],
+        "upid": "DISC232838-006",
+        "upid_type": 12
     }
 ]
