@@ -601,5 +601,107 @@
         ],
         "upid": "DISC232838-016",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232838_017_03_851",
+        "create_time": 1767247252963,
+        "episode_in_season": "17",
+        "episode_number": "S4:E17",
+        "external_id": "232838-017-851-1767340800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1767340800,
+        "last_time_machine_update": 1767247252963,
+        "last_update": 1767247252963,
+        "live": false,
+        "paid": "232838.017.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "3937ac0d-3191-4193-8f5d-8b270d5c653c",
+        "program_type": "EA",
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1767340800,
+        "season_hash": "d33753a5-6388-41d0-8fc9-e9cb43af7262",
+        "season_id": "1187",
+        "season_name": "American Dad",
+        "season_number": "4",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1767247252962,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "469134297",
+        "show_timestamp": 1767340800,
+        "status": "estimated",
+        "summary": "When Hayley and Steve leave for their respective summers of fun, Francine looks forward to her newfound alone time with Stan.",
+        "summary_listings": "When Hayley and Steve leave for their respective summers of fun, Francine looks forward to her newfound alone time with Stan.",
+        "summary_long": "When Hayley and Steve leave for their respective summers of fun, Francine looks forward to her newfound alone time with Stan.",
+        "summary_main": "When Hayley and Steve leave for their respective summers of fun, Francine looks forward to her newfound alone time with Stan.",
+        "summary_short": "Francine looks forward to her newfound alone time with Stan.",
+        "title": "Brains, Brains, and Automobiles",
+        "title_id": "748134",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "V"
+        ],
+        "upid": "DISC232838-017",
+        "upid_type": 12
     }
 ]
