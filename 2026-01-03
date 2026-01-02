@@ -5077,5 +5077,111 @@
         ],
         "upid": "DISC218419-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "FV"
+        ],
+        "content_id": "165566_000_02_851",
+        "create_time": 1767379521811,
+        "episode_in_season": "0",
+        "external_id": "165566-000-851-1767472200",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "Scooby-Doo! Music of the Vampire",
+        "genres": [
+            "Comedy",
+            "Investigation",
+            "Kids & Family",
+            "Mystery",
+            "Suspense"
+        ],
+        "guide_timestamp": 1767472200,
+        "last_time_machine_update": 1767379521811,
+        "last_update": 1767379521811,
+        "live": false,
+        "paid": "165566.000.02.851",
+        "participants": [
+            {
+                "character": "Scooby-Doo",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Shaggy Rogers",
+                "name": "Matthew Lillard",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Daphne Blake",
+                "name": "Grey DeLisle",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Velma Dinkley",
+                "name": "Mindy Cohn",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Fred Jones Jr.",
+                "name": "Frank Welker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "David Block",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Obba Babatund\u00e9",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Jeff Bennett",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Julianne Buescher",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "7336e5ec-deaf-4182-a2bb-693782637ed0",
+        "program_type": "FF",
+        "release_year": 2012,
+        "runtime_minutes": 90,
+        "scheduled_duration": 5400,
+        "scheduled_timestamp": 1767472200,
+        "season_number": "1",
+        "serial": 1767379521811,
+        "series_cfps_hash": "1fea1a6e-1d2c-4269-8c3c-26c46e7e9af9",
+        "series_hash": "5c19cc2a-b743-4e85-96af-0f9b3357dbe8",
+        "series_id": "75837",
+        "series_name": "Scooby-Doo! Music of the Vampire",
+        "series_summary": "Daphne stars in a vampire movie, but when a real vampire shows up, the Scooby gang must investigate.",
+        "series_summary_long": "Daphne stars in a vampire movie, but when a real vampire shows up, the Scooby gang must investigate.",
+        "show_duration": 5400,
+        "show_id": "469134676",
+        "show_timestamp": 1767472200,
+        "status": "estimated",
+        "summary": "Daphne stars in a vampire movie. But when a real vampire shows up, the Scooby gang must investigate.",
+        "summary_listings": "Daphne stars in a vampire movie. But when a real vampire shows up, the Scooby gang must investigate.",
+        "summary_long": "Daphne stars in a vampire movie. But when a real vampire shows up, the Scooby gang must investigate.",
+        "summary_main": "Daphne stars in a vampire movie. But when a real vampire shows up, the Scooby gang must investigate.",
+        "summary_short": "When a vampire shows up in Daphne's movie, the gang must investigate!",
+        "title": "Scooby-Doo! Music of the Vampire",
+        "title_id": "879085",
+        "tv_rating": "TV-Y7",
+        "tv_rating_descriptors": [
+            "FV"
+        ],
+        "upid": "DISC165566-000",
+        "upid_type": 12
     }
 ]
