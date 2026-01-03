@@ -4428,5 +4428,103 @@
         ],
         "upid": "DISC284329-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "284329_009_02_851",
+        "create_time": 1767480001598,
+        "dvs": true,
+        "episode_in_season": "9",
+        "episode_number": "S14:E09",
+        "external_id": "284329-009-851-1767565800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy",
+            "Documentary",
+            "Parody"
+        ],
+        "guide_timestamp": 1767565800,
+        "last_time_machine_update": 1767480001598,
+        "last_update": 1767480001598,
+        "live": false,
+        "paid": "284329.009.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_hash": "d8208cd1-5a76-4e40-83e7-c1d9b68601b9",
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1810,
+        "scheduled_timestamp": 1767565800,
+        "season_hash": "27a659ba-34a6-41d1-9aa5-682734df76b9",
+        "season_id": "33561",
+        "season_name": "Bob's Burgers",
+        "season_number": "14",
+        "season_summary": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "season_summary_long": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "serial": 1767480001598,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1810,
+        "show_id": "469134872",
+        "show_timestamp": 1767565800,
+        "status": "estimated",
+        "summary": "A documentary film profiling world-class archer Louise Belcher is interrupted by unexpected visitors.",
+        "summary_listings": "A documentary film profiling world-class archer Louise Belcher is interrupted by unexpected visitors.",
+        "summary_long": "A documentary film profiling world-class archer Louise Belcher is interrupted by unexpected visitors.",
+        "summary_main": "A documentary film profiling world-class archer Louise Belcher is interrupted by unexpected visitors.",
+        "summary_short": "A documentary profiling Louise is interrupted by unexpected visitors.",
+        "title": "Fraud of the Dead: Zombie-docu-pocalypse",
+        "title_id": "2569596",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "L",
+            "V"
+        ],
+        "upid": "DISC284329-009",
+        "upid_type": 12
     }
 ]
