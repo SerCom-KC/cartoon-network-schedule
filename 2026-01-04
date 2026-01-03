@@ -4334,5 +4334,99 @@
         ],
         "upid": "DISC228531-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L"
+        ],
+        "content_id": "284329_008_02_851",
+        "create_time": 1767478412074,
+        "dvs": true,
+        "episode_in_season": "8",
+        "episode_number": "S14:E08",
+        "external_id": "284329-008-851-1767564000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1767564000,
+        "last_time_machine_update": 1767478412074,
+        "last_update": 1767478412074,
+        "live": false,
+        "paid": "284329.008.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_hash": "afcba76e-23aa-4566-b064-4a67a1a47703",
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1767564000,
+        "season_hash": "27a659ba-34a6-41d1-9aa5-682734df76b9",
+        "season_id": "33561",
+        "season_name": "Bob's Burgers",
+        "season_number": "14",
+        "season_summary": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "season_summary_long": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "serial": 1767478412074,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "469134869",
+        "show_timestamp": 1767564000,
+        "status": "estimated",
+        "summary": "During their special day at the wharf with Big Bob, the kids get into trouble with the Wharf's newest fortune-telling giant clam.",
+        "summary_listings": "During their special day at the wharf with Big Bob, the kids get into trouble with the Wharf's newest fortune-telling giant clam.",
+        "summary_long": "During their special day at the wharf with Big Bob, the kids get into trouble with the Wharf's newest fortune-telling giant clam.",
+        "summary_main": "During their special day at the wharf with Big Bob, the kids get into trouble with the Wharf's newest fortune-telling giant clam.",
+        "summary_short": "The kids get into trouble with the Wharf's fortune-telling giant clam.",
+        "title": "Wharf, Me Worry?",
+        "title_id": "2569595",
+        "tv_rating": "TV-PG",
+        "tv_rating_descriptors": [
+            "L"
+        ],
+        "upid": "DISC284329-008",
+        "upid_type": 12
     }
 ]
