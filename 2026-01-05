@@ -589,5 +589,107 @@
         ],
         "upid": "DISC232838-022",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232848_001_04_851",
+        "create_time": 1767502948923,
+        "episode_in_season": "1",
+        "episode_number": "S5:E01",
+        "external_id": "232848-001-851-1767596400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1767596400,
+        "last_time_machine_update": 1767502948923,
+        "last_update": 1767502948923,
+        "live": false,
+        "paid": "232848.001.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "dfa3252e-1bba-4540-9bfd-0ac2718e3410",
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1808,
+        "scheduled_timestamp": 1767596400,
+        "season_hash": "61566fd8-2a66-4146-a554-2f5206503eb9",
+        "season_id": "1188",
+        "season_name": "American Dad",
+        "season_number": "5",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1767502948923,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1808,
+        "show_id": "469134924",
+        "show_timestamp": 1767596400,
+        "status": "estimated",
+        "summary": "Stan hatches a plan with Roger at the local horse track to avoid giving up his gas-guzzling SUV.",
+        "summary_listings": "Stan hatches a plan with Roger at the local horse track to avoid giving up his gas-guzzling SUV.",
+        "summary_long": "When Francine demands that Stan get rid of his gas-guzzling SUV because it's draining the family of money, he hatches a plan with Roger at the local horse track to avoid giving up his ride.",
+        "summary_main": "When Francine demands that Stan get rid of his gas-guzzling SUV because it's draining the family of money, he hatches a plan with Roger at the local horse track to avoid giving up his ride. Meanwhile, it's up to Steve and his friends to help out an old friend.",
+        "summary_short": "Francine demands Stan get rid of his gas-guzzling SUV.",
+        "title": "Don't Look a Smith Horse in the Mouth",
+        "title_id": "748138",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "V"
+        ],
+        "upid": "DISC232848-001",
+        "upid_type": 12
     }
 ]
