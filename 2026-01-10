@@ -5065,5 +5065,101 @@
         "tv_rating_descriptors": [],
         "upid": "DISC169841-000",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "S"
+        ],
+        "content_id": "250263_009_02_851",
+        "create_time": 1767996181685,
+        "dvs": true,
+        "episode_in_season": "9",
+        "episode_number": "S9:E09",
+        "external_id": "250263-009-851-1768082400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1768082400,
+        "last_time_machine_update": 1767996181685,
+        "last_update": 1767996181685,
+        "live": false,
+        "paid": "250263.009.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "ee904762-3964-4d1a-a079-8cb1b271582b",
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1823,
+        "scheduled_timestamp": 1768082400,
+        "season_hash": "f72cc7b5-061d-465c-bf00-c2d4b543621e",
+        "season_id": "27919",
+        "season_name": "Bob's Burgers",
+        "season_number": "9",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1767996181685,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1823,
+        "show_id": "277455218",
+        "show_timestamp": 1768082400,
+        "status": "estimated",
+        "summary": "Tina and her science partner create a device that allows them to communicate with aliens, but their excitement turns to fear when they get a response.",
+        "summary_listings": "Tina and her science partner create a device that allows them to communicate with aliens, but their excitement turns to fear when they get a response.",
+        "summary_long": "Tina and her new science partner create a device that allows them to communicate with aliens, but their excitement turns to fear when they receive a dangerous warning message. Meanwhile, Bob attempts to sell mini coat racks he bought.",
+        "summary_main": "Tina and her new science partner create a device that allows them to communicate with aliens, but their excitement turns to fear when they receive a dangerous warning message. Meanwhile, Bob attempts to sell mini coat racks he bought.",
+        "summary_short": "Tina talks to aliens.",
+        "title": "UFO No You Didn't",
+        "title_id": "2438925",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "L",
+            "S"
+        ],
+        "upid": "DISC250263-009",
+        "upid_type": 12
     }
 ]
