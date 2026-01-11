@@ -1065,5 +1065,98 @@
         ],
         "upid": "DISC250984-001",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "269931_001_02_851",
+        "create_time": 1768114971813,
+        "dvs": true,
+        "episode_in_season": "1",
+        "episode_number": "S3:E01",
+        "external_id": "269931-001-851-1768208400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Genndy Tartakovsky's Primal",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Horror"
+        ],
+        "guide_timestamp": 1768208400,
+        "last_time_machine_update": 1768114971813,
+        "last_update": 1768114971813,
+        "live": false,
+        "paid": "269931.001.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Genndy Tartakovsky",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Genndy Tartakovsky",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Genndy Tartakovsky",
+                "role": "producer"
+            },
+            {
+                "character": "Spear",
+                "name": "Aaron LaPlante",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Darrick Bachman",
+                "role": "writer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "a0b44c23-bbac-4b83-8c83-c42ceb63c362",
+        "program_type": "EA",
+        "release_year": 2026,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1768208400,
+        "season_cfps_hash": "b73da956-b8ac-45c1-9508-f4220151f5ee",
+        "season_hash": "e3d2af6d-8313-47da-8d4e-38411865d57d",
+        "season_id": "28420",
+        "season_name": "Genndy Tartakovsky's Primal",
+        "season_number": "3",
+        "season_summary": "A resurrected Spear is forced to roam a brutal, untamed world. Echoes of his past lead him to an emotional reunion that tests the limits of survival.",
+        "season_summary_long": "A resurrected Spear -- stripped of memory and humanity -- is forced to roam a brutal, untamed world as a shadow of his former self. Faint echoes of his past begin to stir, leading him toward an emotional reunion that will test the limits of survival.",
+        "serial": 1768114971813,
+        "series_cfps_hash": "59dc1d55-bb08-4bb4-85dd-d03e64f4fef1",
+        "series_hash": "141949b7-e5a1-445f-ba2e-9961212fdc9a",
+        "series_id": "2211157",
+        "series_name": "Genndy Tartakovsky's Primal",
+        "series_summary": "A caveman at the dawn of evolution and a dinosaur on the brink of extinction are bonded by tragedy.",
+        "series_summary_long": "A caveman at the dawn of evolution and a dinosaur on the brink of extinction are bonded by tragedy. This unlikely friendship becomes the only hope of survival in a violent, primordial world.",
+        "show_duration": 1800,
+        "show_id": "277459474",
+        "show_timestamp": 1768208400,
+        "status": "estimated",
+        "summary": "Spear's lifeless body is reanimated to enact brutal vengeance.",
+        "summary_listings": "Spear's lifeless body is reanimated to enact brutal vengeance.",
+        "summary_long": "Spear's lifeless body is reanimated to enact brutal vengeance.",
+        "summary_main": "Spear's lifeless body is reanimated to enact brutal vengeance.",
+        "summary_short": "Spear's lifeless body is reanimated to enact brutal vengeance.",
+        "title": "Vengeance of Death",
+        "title_id": "2449467",
+        "tv_rating": "TV-MA",
+        "tv_rating_descriptors": [
+            "V"
+        ],
+        "upid": "DISC269931-001",
+        "upid_type": 12
     }
 ]
