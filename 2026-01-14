@@ -879,5 +879,100 @@
         ],
         "upid": "DISC232855-013",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "250984_009_02_851",
+        "create_time": 1768286191391,
+        "episode_in_season": "9",
+        "episode_number": "S7:E09",
+        "external_id": "250984-009-851-1768379400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Rick and Morty",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "guide_timestamp": 1768379400,
+        "last_time_machine_update": 1768286191391,
+        "last_update": 1768286191391,
+        "live": false,
+        "paid": "250984.009.02.851",
+        "participants": [
+            {
+                "character": "Summer Smith",
+                "name": "Spencer Grammer",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Beth Smith",
+                "name": "Sarah Chalke",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Jerry Smith",
+                "name": "Chris Parnell",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Rick Sanchez",
+                "name": "Ian Cardoni",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Morty Smith",
+                "name": "Harry Belden",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "24b7072a-8f5e-4258-87cf-06e65715c288",
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1768379400,
+        "season_hash": "8172cdbd-b3e5-43a8-8fa8-b06a3a53fd2b",
+        "season_id": "27323",
+        "season_name": "Rick and Morty",
+        "season_number": "7",
+        "season_summary": "Rick moves in with his daughter's family and establishes himself as a bad influence on his grandson, Morty.",
+        "season_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "serial": 1768286191391,
+        "series_cfps_hash": "ab553cdc-e15d-4597-b65f-bec9201fd2dd",
+        "series_hash": "553ec27c-af18-4b42-bc9a-2cfad2aa15ce",
+        "series_id": "2013506",
+        "series_name": "Rick and Morty",
+        "series_summary": "Rick moves in with his daughter's family and establishes himself as a bad influence on his grandson, Morty.",
+        "series_summary_long": "A sociopathic scientist arrives at his daughter's doorstep 20 years after disappearing and moves in with her family, setting up a laboratory in the garage and taking his grandson on wild adventures across the universe.",
+        "show_duration": 1800,
+        "show_id": "277467796",
+        "show_timestamp": 1768379400,
+        "status": "estimated",
+        "summary": "Gotta keep those receipts, dawg.",
+        "summary_listings": "Gotta keep those receipts, dawg.",
+        "summary_long": "Gotta keep those receipts, dawg.",
+        "summary_main": "Gotta keep those receipts, dawg.",
+        "summary_short": "Gotta keep those receipts, dawg.",
+        "title": "Rickfending Your Mort",
+        "title_id": "2424791",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC250984-009",
+        "upid_type": 12
     }
 ]
