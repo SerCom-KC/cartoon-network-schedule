@@ -579,5 +579,107 @@
         ],
         "upid": "DISC285816-010",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232855_019_04_851",
+        "create_time": 1768452603822,
+        "episode_in_season": "19",
+        "episode_number": "S9:E19",
+        "external_id": "232855-019-851-1768545000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1768545000,
+        "last_time_machine_update": 1768452603822,
+        "last_update": 1768452603822,
+        "live": false,
+        "paid": "232855.019.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "bb4a5b1f-2d14-44f8-a1fa-b902d45532c4",
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1768545000,
+        "season_hash": "09f7ae90-87fa-43b7-ba45-7ee7b3522412",
+        "season_id": "7619",
+        "season_name": "American Dad",
+        "season_number": "9",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1768452603821,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277475948",
+        "show_timestamp": 1768545000,
+        "status": "estimated",
+        "summary": "Hayley discovers Roger is the journalist she is interning for.",
+        "summary_listings": "Hayley discovers Roger is the journalist she is interning for.",
+        "summary_long": "Hayley wants to save the world through investigative journalism, so she becomes an intern for a local news reporter. The reporter turns out to be Roger, who gets ratings through sensationalized stories.",
+        "summary_main": "Hayley wants to save the world through investigative journalism, so she becomes an intern for a local news reporter. The reporter turns out to be Roger, who gets ratings through sensationalized stories.",
+        "summary_short": "Hayley discovers Roger is the journalist she is interning for.",
+        "title": "News Glance with Genevieve Vavance",
+        "title_id": "2012720",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "V"
+        ],
+        "upid": "DISC232855-019",
+        "upid_type": 12
     }
 ]
