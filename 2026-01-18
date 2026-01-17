@@ -4975,5 +4975,99 @@
         ],
         "upid": "DISC284329-015",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D"
+        ],
+        "content_id": "284329_016_02_851",
+        "create_time": 1768690472132,
+        "dvs": true,
+        "episode_in_season": "16",
+        "episode_number": "S14:E16",
+        "external_id": "284329-016-851-1768775400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1768775400,
+        "last_time_machine_update": 1768690472132,
+        "last_update": 1768690472132,
+        "live": false,
+        "paid": "284329.016.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": true,
+        "press_hold": false,
+        "program_hash": "d691a57f-323c-4062-9ab5-220b150a45ce",
+        "program_type": "EA",
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1768775400,
+        "season_hash": "27a659ba-34a6-41d1-9aa5-682734df76b9",
+        "season_id": "33561",
+        "season_name": "Bob's Burgers",
+        "season_number": "14",
+        "season_summary": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "season_summary_long": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "serial": 1768690472132,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "277487926",
+        "show_timestamp": 1768775400,
+        "status": "estimated",
+        "summary": "Bosco goes to Bob needing to learn how to make a burger for an undercover mission.",
+        "summary_listings": "Bosco goes to Bob needing to learn how to make a burger for an undercover mission.",
+        "summary_long": "When Bosco goes to Bob needing to learn how to make a burger for an undercover mission to oust criminal and burger joint owner Vincent Balicki, it becomes obvious that the sergeant is severely lacking in cooking knowledge.",
+        "summary_main": "When Bosco goes to Bob needing to learn how to make a burger for an undercover mission to oust criminal and burger joint owner Vincent Balicki, it becomes obvious that the sergeant is severely lacking in cooking knowledge. As Bob's family constantly halts any progress in Bob's lessons, Bosco, still unseasoned, goes to his interview, only to meet with his potential criminal employer again back at Bob's Burgers for a spontaneous burger-making test.",
+        "summary_short": "Bosco goes to Bob needing to make a burger for an undercover mission.",
+        "title": "To Catch a Beef",
+        "title_id": "2569603",
+        "tv_rating": "TV-PG",
+        "tv_rating_descriptors": [
+            "D"
+        ],
+        "upid": "DISC284329-016",
+        "upid_type": 12
     }
 ]
