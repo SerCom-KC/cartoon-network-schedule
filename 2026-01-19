@@ -324,5 +324,107 @@
         "tv_rating_descriptors": [],
         "upid": "DISC275065-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "232831_007_04_851",
+        "create_time": 1768709029671,
+        "episode_in_season": "7",
+        "episode_number": "S10:E07",
+        "external_id": "232831-007-851-1768802400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1768802400,
+        "last_time_machine_update": 1768709029671,
+        "last_update": 1768709029671,
+        "live": false,
+        "paid": "232831.007.04.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "b96586cd-5ddc-4e18-a37b-bcbdbd50dad4",
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1768802400,
+        "season_hash": "eb02f79a-9348-40a4-85b2-2193592df3c1",
+        "season_id": "7408",
+        "season_name": "American Dad",
+        "season_number": "10",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1768709029671,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1800,
+        "show_id": "277488086",
+        "show_timestamp": 1768802400,
+        "status": "estimated",
+        "summary": "Hayley is dying to be on a roller derby team, but they will only let her play if her \u201csister\u201d Steve will play too.",
+        "summary_listings": "Hayley is dying to be on a roller derby team, but they will only let her play if her \u201csister\u201d Steve will play too.",
+        "summary_long": "Hayley is dying to be on a roller derby team, but they will only let her play if her \u201csister\u201d Steve will play too. Meanwhile, a magical carpenter visits Stan and Francine and Roger runs the roller rink.",
+        "summary_main": "Hayley is dying to be on a roller derby team, but they will only let her play if her \u201csister\u201d Steve will play too. Meanwhile, a magical carpenter visits Stan and Francine and Roger runs the roller rink.",
+        "summary_short": "The roller derby team challenges Hayley when she attempts to join.",
+        "title": "LGBSteve",
+        "title_id": "2019426",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S"
+        ],
+        "upid": "DISC232831-007",
+        "upid_type": 12
     }
 ]
