@@ -1169,5 +1169,107 @@
         ],
         "upid": "DISC232831-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "232831_012_05_851",
+        "create_time": 1768801784020,
+        "episode_in_season": "12",
+        "episode_number": "S10:E12",
+        "external_id": "232831-012-851-1768894320",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1768894200,
+        "last_time_machine_update": 1768801784020,
+        "last_update": 1768801784020,
+        "live": false,
+        "paid": "232831.012.05.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "17686e50-50fb-4bfc-8344-a478258e2937",
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1768894320,
+        "season_hash": "eb02f79a-9348-40a4-85b2-2193592df3c1",
+        "season_id": "7408",
+        "season_name": "American Dad",
+        "season_number": "10",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1768801784020,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1802,
+        "show_id": "277492352",
+        "show_timestamp": 1768894320,
+        "status": "estimated",
+        "summary": "Stan is horrified when he sees a couple die in a car crash, and he goes to see a shrink. Meanwhile, Roger and Klaus study for a wine tasting.",
+        "summary_listings": "Stan is horrified when he sees a couple die in a car crash, and he goes to see a shrink. Meanwhile, Roger and Klaus study for a wine tasting.",
+        "summary_long": "Stan is horrified when he sees a couple die in a car crash, and he goes to see a shrink. Meanwhile, Roger and Klaus study for a wine tasting.",
+        "summary_main": "Stan is horrified when he sees a couple die in a car crash, and he goes to see a shrink. Meanwhile, Roger and Klaus study for a wine tasting.",
+        "summary_short": "Stan heads to a shrink when he witnesses a couple die in a car crash.",
+        "title": "The Shrink",
+        "title_id": "2019427",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "V"
+        ],
+        "upid": "DISC232831-012",
+        "upid_type": 12
     }
 ]
