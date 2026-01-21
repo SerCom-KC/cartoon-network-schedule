@@ -6931,5 +6931,98 @@
         ],
         "upid": "DISC250265-014",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271159_017_01_851",
+        "create_time": 1769039448908,
+        "episode_in_season": "17",
+        "episode_number": "S14:E17",
+        "external_id": "271159-017-851-1769131800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1769131800,
+        "last_time_machine_update": 1769039448908,
+        "last_update": 1769039448908,
+        "live": false,
+        "paid": "271159.017.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "77dceca4-e101-47b5-9ef0-62d250948f82",
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1769131800,
+        "season_hash": "b8c60895-8b38-42ac-aa77-49cdb12b442a",
+        "season_id": "9680",
+        "season_name": "Family Guy",
+        "season_number": "14",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1769039448908,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "277504480",
+        "show_timestamp": 1769131800,
+        "status": "estimated",
+        "summary": "Worried Stewie's school will be too expensive, Lois gets a job at the post office, where she discovers an old letter Peter wrote to an ex-girlfriend.",
+        "summary_listings": "Worried Stewie's school will be too expensive, Lois gets a job at the post office, where she discovers an old letter Peter wrote to an ex-girlfriend.",
+        "summary_long": "Stewie gets enrolled in a fancy private school. Worried that his new school will be too expensive, Lois gets a job at the post office. While sorting mail, she discovers an old letter Peter had written to an ex-girlfriend, Gretchen.",
+        "summary_main": "Stewie gets enrolled in a fancy private school. Worried that his new school will be too expensive, Lois gets a job at the post office. While sorting mail, she discovers an old letter Peter had written to an ex-girlfriend, Gretchen.",
+        "summary_short": "Lois gets a job at the post office, where she finds a letter Peter wrote.",
+        "title": "Take a Letter",
+        "title_id": "2064590",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC271159-017",
+        "upid_type": 12
     }
 ]
