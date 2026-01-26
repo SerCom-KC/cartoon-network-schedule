@@ -880,5 +880,109 @@
         ],
         "upid": "DISC232833-022",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232834_001_03_851",
+        "create_time": 1769404143979,
+        "episode_in_season": "1",
+        "episode_number": "S12:E01",
+        "external_id": "232834-001-851-1769497380",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1769497500,
+        "last_time_machine_update": 1769404143979,
+        "last_update": 1769404143979,
+        "live": false,
+        "paid": "232834.001.03.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "557cfa59-5d01-4f3e-b802-4cbf2d4b4b0c",
+        "program_type": "EA",
+        "release_year": 2016,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1740,
+        "scheduled_timestamp": 1769497380,
+        "season_hash": "0cbc300c-900b-49a4-93ea-15a3bbbceb8b",
+        "season_id": "9750",
+        "season_name": "American Dad",
+        "season_number": "12",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1769404143979,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1740,
+        "show_id": "277521014",
+        "show_timestamp": 1769497380,
+        "status": "estimated",
+        "summary": "The Smith family forgets to celebrate Father\u2019s Day, and so to make it up to Stan, they plan out the perfect day.",
+        "summary_listings": "The Smith family forgets to celebrate Father\u2019s Day, and so to make it up to Stan, they plan out the perfect day.",
+        "summary_long": "The Smith family forgets to celebrate Father\u2019s Day, and so to make it up to Stan, they plan out the perfect day. Stan uses a CIA device to erase their memories and have them continually plan perfect days for him.",
+        "summary_main": "The Smith family forgets to celebrate Father\u2019s Day, and so to make it up to Stan, they plan out the perfect day. Stan uses a CIA device to erase their memories and have them continually plan perfect days for him.",
+        "summary_short": "The family makes it up to Stan when they forget it's Father's Day.",
+        "title": "Father's Daze",
+        "title_id": "2069532",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC232834-001",
+        "upid_type": 12
     }
 ]
