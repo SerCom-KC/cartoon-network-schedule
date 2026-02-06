@@ -5533,5 +5533,103 @@
         "tv_rating_descriptors": [],
         "upid": "DISC251045-000",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "284321_002_02_851",
+        "create_time": 1770415284021,
+        "dvs": true,
+        "episode_in_season": "2",
+        "episode_number": "S15:E02",
+        "external_id": "284321-002-851-1770501600",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1770501600,
+        "last_time_machine_update": 1770415284021,
+        "last_update": 1770415284021,
+        "live": false,
+        "paid": "284321.002.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "b313df0c-2066-4a75-85ff-39215064fb7c",
+        "program_type": "EA",
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1770501600,
+        "scrid": "22469623",
+        "season_hash": "d8ce0608-4a5a-463a-80a8-e0897f02126d",
+        "season_id": "33564",
+        "season_name": "Bob's Burgers",
+        "season_number": "15",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1770415284021,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "476171009",
+        "show_timestamp": 1770501600,
+        "status": "estimated",
+        "summary": "When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing.",
+        "summary_listings": "When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing.",
+        "summary_long": "When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing. Meanwhile, Linda accidentally insults another mom on a group text chain, and Louise and Gene hide from Tina after stealing some of her favorite candy.",
+        "summary_main": "When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing. Meanwhile, Linda accidentally insults another mom while on a group text chain, and Louise and Gene hide from Tina after stealing some of her favorite candy.",
+        "summary_short": "Bob comes up with a plan to save the local drive-in theater from closing.",
+        "three_quarter_paid": "284321.002.02",
+        "title": "Saving Favorite Drive-In",
+        "title_id": "2569621",
+        "tv_rating": "TV-PG",
+        "tv_rating_descriptors": [
+            "L",
+            "V"
+        ],
+        "upid": "DISC284321-002",
+        "upid_type": 12
     }
 ]
