@@ -1030,5 +1030,111 @@
         ],
         "upid": "DISC239131-006",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "232847_003_02_851",
+        "create_time": 1770448431373,
+        "episode_in_season": "3",
+        "episode_number": "S14:E03",
+        "external_id": "232847-003-851-1770541200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "American Dad",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1770541200,
+        "last_time_machine_update": 1770448431373,
+        "last_update": 1770448431373,
+        "live": false,
+        "paid": "232847.003.02.851",
+        "participants": [
+            {
+                "character": "Stan Smith",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Francine Smith",
+                "name": "Wendy Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Klaus",
+                "name": "Dee Bradley Baker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Steve Smith",
+                "name": "Scott Grimes",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Hayley Smith",
+                "name": "Rachael MacFarlane",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Terry Bates",
+                "name": "Mike Barker",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Snot Lonstein",
+                "name": "Curtis Armstrong",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "4697f5f6-16cf-48dd-9ae2-842b6f704370",
+        "program_type": "EA",
+        "release_year": 2019,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1821,
+        "scheduled_timestamp": 1770541200,
+        "scrid": "13751879",
+        "season_hash": "995dfe24-bb47-4155-bdc6-c6766b606258",
+        "season_id": "12035",
+        "season_name": "American Dad",
+        "season_number": "14",
+        "season_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "season_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "serial": 1770448431373,
+        "series_hash": "3e9aa171-3c07-4c9c-be62-5204db2edf41",
+        "series_id": "581006",
+        "series_name": "American Dad",
+        "series_summary": "A CIA agent will do anything to protect his homeland and family.",
+        "series_summary_long": "A CIA agent will do anything to protect his homeland and family.",
+        "show_duration": 1821,
+        "show_id": "277570126",
+        "show_timestamp": 1770541200,
+        "status": "estimated",
+        "summary": "Steve introduces Stan and Francine to Barry\u2019s parents and Steve regrets it. Roger goes blind.",
+        "summary_listings": "Steve introduces Stan and Francine to Barry\u2019s parents and Steve regrets it. Roger goes blind.",
+        "summary_long": "Steve introduces Stan and Francine to Barry\u2019s parents and Steve regrets it. Roger goes blind.",
+        "summary_main": "Steve introduces Stan and Francine to Barry\u2019s parents and Steve regrets it. Roger goes blind.",
+        "summary_short": "Steve introduces Stan and Francine to Barry\u2019s parents and Steve regrets it.",
+        "three_quarter_paid": "232847.003.02",
+        "title": "Stan & Francine & Connie & Ted",
+        "title_id": "2186652",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC232847-003",
+        "upid_type": 12
     }
 ]
