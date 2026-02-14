@@ -4882,5 +4882,101 @@
         ],
         "upid": "DISC271170-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271170_013_03_851",
+        "create_time": 1771111946205,
+        "distribution_title": "Family Guy",
+        "episode_in_season": "13",
+        "episode_number": "S7:E13",
+        "external_id": "271170-013-851-1771205400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1771205400,
+        "last_time_machine_update": 1771111946205,
+        "last_update": 1771111946205,
+        "live": false,
+        "paid": "271170.013.03.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "3bb9a15d-80bb-4013-a011-528bb5e2ff81",
+        "program_type": "EA",
+        "release_year": 2009,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1771205400,
+        "scrid": "20326052",
+        "season_hash": "9f90b897-4c0a-4a4c-9b1e-4c395e6b648d",
+        "season_id": "996",
+        "season_name": "Family Guy",
+        "season_number": "7",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1771111946204,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "277602634",
+        "show_timestamp": 1771205400,
+        "status": "estimated",
+        "summary": "After Stewie gets beaten up by Joe's infant daughter, Peter injects Stewie with steroids. Chris' popularity soars when he begins dating Connie.",
+        "summary_listings": "After Stewie gets beaten up by Joe's infant daughter, Peter injects Stewie with steroids. Chris' popularity soars when he begins dating Connie.",
+        "summary_long": "After Stewie gets beaten up by Joe's infant daughter, Peter injects Stewie with steroids. Chris' popularity at school soars when he begins dating Connie.",
+        "summary_main": "After Stewie gets beaten up by Joe's infant daughter, Peter injects Stewie with steroids. Chris' popularity at school soars when he begins dating Connie.",
+        "summary_short": "Stewie gets beaten up by Joe's daughter, and Peter injects with steroids.",
+        "three_quarter_paid": "271170.013.03",
+        "title": "Stew-roids",
+        "title_id": "743929",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC271170-013",
+        "upid_type": 12
     }
 ]
