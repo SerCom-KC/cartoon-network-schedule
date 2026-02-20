@@ -5635,5 +5635,99 @@
         ],
         "upid": "DISC271167-018",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271167_019_02_851",
+        "create_time": 1771629211434,
+        "dvs": true,
+        "episode_in_season": "19",
+        "episode_number": "S8:E19",
+        "external_id": "271167-019-851-1771722000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1771722000,
+        "last_time_machine_update": 1771629211434,
+        "last_update": 1771629211434,
+        "live": false,
+        "paid": "271167.019.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "16346806-ff6b-4288-a9bf-488fc4533c07",
+        "program_type": "EA",
+        "release_year": 2010,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1806,
+        "scheduled_timestamp": 1771722000,
+        "scrid": "20325858",
+        "season_hash": "d2963d14-edeb-46b8-8756-2044154ff95b",
+        "season_id": "997",
+        "season_name": "Family Guy",
+        "season_number": "8",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1771629211434,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1806,
+        "show_id": "277627280",
+        "show_timestamp": 1771722000,
+        "status": "estimated",
+        "summary": "Peter and his friends embark on a journey to find the source of the world's dirty jokes.",
+        "summary_listings": "Peter and his friends embark on a journey to find the source of the world's dirty jokes.",
+        "summary_long": "Peter and his friends embark on a journey to find the source of the world's dirty jokes.",
+        "summary_main": "Peter and his friends embark on a journey to find the source of the world's dirty jokes.",
+        "summary_short": "Peter and his friends set out to find the source of the world's dirty joke.",
+        "three_quarter_paid": "271167.019.02",
+        "title": "The Splendid Source",
+        "title_id": "748766",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "V"
+        ],
+        "upid": "DISC271167-019",
+        "upid_type": 12
     }
 ]
