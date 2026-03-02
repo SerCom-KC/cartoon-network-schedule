@@ -6759,5 +6759,100 @@
         ],
         "upid": "DISC169820-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271165_015_01_851",
+        "create_time": 1772494846909,
+        "episode_in_season": "15",
+        "episode_number": "S11:E15",
+        "external_id": "271165-015-851-1772587800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1772587800,
+        "last_time_machine_update": 1772494846909,
+        "last_update": 1772494846909,
+        "live": false,
+        "paid": "271165.015.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "bbb6881e-e7da-49cd-ac7c-ba77e562b1a5",
+        "program_type": "EA",
+        "release_year": 2013,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1772587800,
+        "scrid": "20326256",
+        "season_hash": "69914412-6f52-482f-80de-479a8321ae8d",
+        "season_id": "1000",
+        "season_name": "Family Guy",
+        "season_number": "11",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1772494846909,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "277668320",
+        "show_timestamp": 1772587800,
+        "status": "estimated",
+        "summary": "After befriending a Muslim man, Peter becomes interested in Islamic culture.",
+        "summary_listings": "After befriending a Muslim man, Peter becomes interested in Islamic culture.",
+        "summary_long": "After befriending a Muslim man, Peter becomes interested in Islamic culture -- only to become unwittingly involved in a terrorist plot to blow up a Quahog bridge.",
+        "summary_main": "After befriending a Muslim man, Peter becomes interested in Islamic culture -- only to become unwittingly involved in a terrorist plot to blow up a Quahog bridge.",
+        "summary_short": "After befriending a Muslim man, Peter is interested in Islamic culture.",
+        "three_quarter_paid": "271165.015.01",
+        "title": "Turban Cowboy",
+        "title_id": "809257",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC271165-015",
+        "upid_type": 12
     }
 ]
