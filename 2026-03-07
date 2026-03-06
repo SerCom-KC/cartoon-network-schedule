@@ -1092,5 +1092,100 @@
         ],
         "upid": "DISC251792-005",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V"
+        ],
+        "content_id": "269931_008_02_851",
+        "create_time": 1772783878232,
+        "dvs": true,
+        "episode_in_season": "8",
+        "episode_number": "S3:E08",
+        "external_id": "269931-008-851-1772875800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Genndy Tartakovsky's Primal",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Horror"
+        ],
+        "guide_timestamp": 1772875800,
+        "last_time_machine_update": 1772783878232,
+        "last_update": 1772783878232,
+        "live": false,
+        "paid": "269931.008.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Genndy Tartakovsky",
+                "role": "creator"
+            },
+            {
+                "character": "",
+                "name": "Genndy Tartakovsky",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Genndy Tartakovsky",
+                "role": "executive-producer"
+            },
+            {
+                "character": "Spear",
+                "name": "Aaron LaPlante",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Mira",
+                "name": "La\u00ebtitia E\u00efdo",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "0fec0779-1f02-49b3-9158-15e1a8ac944e",
+        "program_type": "EA",
+        "release_year": 2026,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1772875800,
+        "scrid": "19788253",
+        "season_cfps_hash": "b73da956-b8ac-45c1-9508-f4220151f5ee",
+        "season_hash": "e3d2af6d-8313-47da-8d4e-38411865d57d",
+        "season_id": "28420",
+        "season_name": "Genndy Tartakovsky's Primal",
+        "season_number": "3",
+        "season_summary": "A resurrected Spear is forced to roam a brutal, untamed world. Echoes of his past lead him to an emotional reunion that tests the limits of survival.",
+        "season_summary_long": "A resurrected Spear -- stripped of memory and humanity -- is forced to roam a brutal, untamed world as a shadow of his former self. Faint echoes of his past begin to stir, leading him toward an emotional reunion that will test the limits of survival.",
+        "serial": 1772783878232,
+        "series_cfps_hash": "59dc1d55-bb08-4bb4-85dd-d03e64f4fef1",
+        "series_hash": "141949b7-e5a1-445f-ba2e-9961212fdc9a",
+        "series_id": "2211157",
+        "series_name": "Genndy Tartakovsky's Primal",
+        "series_summary": "A caveman at the dawn of evolution and a dinosaur on the brink of extinction are bonded by tragedy.",
+        "series_summary_long": "A caveman at the dawn of evolution and a dinosaur on the brink of extinction are bonded by tragedy. This unlikely friendship becomes the only hope of survival in a violent, primordial world.",
+        "show_duration": 1800,
+        "show_id": "277680768",
+        "show_timestamp": 1772875800,
+        "status": "estimated",
+        "summary": "Spear finds a new path after encountering a primordial tribe that time forgot.",
+        "summary_listings": "Spear finds a new path after encountering a primordial tribe that time forgot.",
+        "summary_long": "Spear finds a new path after encountering a primordial tribe that time forgot.",
+        "summary_main": "Spear finds a new path after encountering a primordial tribe that time forgot.",
+        "summary_short": "Spear finds a new path after meeting a primordial tribe that time forgot.",
+        "three_quarter_paid": "269931.008.02",
+        "title": "The River of Life",
+        "title_id": "2449474",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "V"
+        ],
+        "upid": "DISC269931-008",
+        "upid_type": 12
     }
 ]
