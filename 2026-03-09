@@ -6750,5 +6750,100 @@
         ],
         "upid": "DISC271158-004",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "271158_007_01_851",
+        "create_time": 1773013205920,
+        "episode_in_season": "7",
+        "episode_number": "S13:E07",
+        "external_id": "271158-007-851-1773106200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1773106200,
+        "last_time_machine_update": 1773013205920,
+        "last_update": 1773013205920,
+        "live": false,
+        "paid": "271158.007.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "484c462f-c870-4fd1-acbe-479b701b8010",
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1773106200,
+        "scrid": "20325690",
+        "season_hash": "ad29aae7-3cd0-41ba-9272-989b1ebdf210",
+        "season_id": "1002",
+        "season_name": "Family Guy",
+        "season_number": "13",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1773013205920,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1801,
+        "show_id": "277692906",
+        "show_timestamp": 1773106200,
+        "status": "estimated",
+        "summary": "Peter and Lois learn that if Chris doesn't pass his upcoming history exam, he will have to repeat the 9th grade.",
+        "summary_listings": "Peter and Lois learn that if Chris doesn't pass his upcoming history exam, he will have to repeat the 9th grade.",
+        "summary_long": "Peter and Lois receive a note from Principal Shepherd pinned to Chris' backpack. During their meeting, they learn that if Chris doesn't pass his upcoming history exam, he will have to repeat the 9th grade.",
+        "summary_main": "Peter and Lois receive a note from Principal Shepherd pinned to Chris' backpack. During their meeting, they learn that if Chris doesn't pass his upcoming history exam, he will have to repeat the 9th grade.",
+        "summary_short": "If Chris doesn't pass his history exam, he'll have to repeat the 9th grade.",
+        "three_quarter_paid": "271158.007.01",
+        "title": "Stewie, Chris & Brian's Excellent Adventure",
+        "title_id": "809289",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC271158-007",
+        "upid_type": 12
     }
 ]
