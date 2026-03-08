@@ -6656,5 +6656,99 @@
         ],
         "upid": "DISC271158-003",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271158_004_01_851",
+        "create_time": 1773011170558,
+        "episode_in_season": "4",
+        "episode_number": "S13:E04",
+        "external_id": "271158-004-851-1773104400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1773104400,
+        "last_time_machine_update": 1773011170558,
+        "last_update": 1773011170558,
+        "live": false,
+        "paid": "271158.004.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "f45f9ec4-2a1a-42d2-bd66-ed8d1366b374",
+        "program_type": "EA",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1773104400,
+        "scrid": "20325686",
+        "season_hash": "ad29aae7-3cd0-41ba-9272-989b1ebdf210",
+        "season_id": "1002",
+        "season_name": "Family Guy",
+        "season_number": "13",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1773011170558,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1805,
+        "show_id": "277692896",
+        "show_timestamp": 1773104400,
+        "status": "estimated",
+        "summary": "After a visit with Quagmire's dentist, Brian puts his new \"toothy\" smile to the test as a real estate agent.",
+        "summary_listings": "After a visit with Quagmire's dentist, Brian puts his new \"toothy\" smile to the test as a real estate agent.",
+        "summary_long": "A fight over a chew-rope with Peter leaves Brian toothless and disfigured. But after a visit with Quagmire's dentist, Brian puts his new \"toothy\" smile to the test as a real estate agent.",
+        "summary_main": "A fight over a chew-rope with Peter leaves Brian toothless and disfigured. But after a visit with Quagmire's dentist, Brian puts his new \"toothy\" smile to the test as a real estate agent.",
+        "summary_short": "Brian puts his new \"toothy\" smile to the test as a real estate agent.",
+        "three_quarter_paid": "271158.004.01",
+        "title": "Brian the Closer",
+        "title_id": "809285",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "V"
+        ],
+        "upid": "DISC271158-004",
+        "upid_type": 12
     }
 ]
