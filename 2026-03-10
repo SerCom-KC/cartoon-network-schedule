@@ -6906,5 +6906,99 @@
         ],
         "upid": "DISC166124-015",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "271158_010_01_851",
+        "create_time": 1773095623690,
+        "episode_in_season": "10",
+        "episode_number": "S13:E10",
+        "external_id": "271158-010-851-1773189000",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1773189000,
+        "last_time_machine_update": 1773095623690,
+        "last_update": 1773095623690,
+        "live": false,
+        "paid": "271158.010.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "1982d404-177e-43c9-aa50-312d85ca5db8",
+        "program_type": "EA",
+        "release_year": 2015,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1773189000,
+        "scrid": "20325694",
+        "season_hash": "ad29aae7-3cd0-41ba-9272-989b1ebdf210",
+        "season_id": "1002",
+        "season_name": "Family Guy",
+        "season_number": "13",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1773095623690,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1800,
+        "show_id": "277696962",
+        "show_timestamp": 1773189000,
+        "status": "estimated",
+        "summary": "Lois agrees to take Peter to the bank, where they discover that Peter's first name is really Justin.",
+        "summary_listings": "Lois agrees to take Peter to the bank, where they discover that Peter's first name is really Justin.",
+        "summary_long": "When Meg asks Peter for a check for her upcoming field trip, he finally notices that his checkbook is just a blank pad of paper. Lois agrees to take Peter to the bank, where they discover that Peter's first name is really Justin.",
+        "summary_main": "When Meg asks Peter for a check for her upcoming field trip, he finally notices that his checkbook is just a blank pad of paper. Lois agrees to take Peter to the bank, where they discover that Peter's first name is really Justin.",
+        "summary_short": "At the bank, Lois and Peter discover Peter's first name is really Justin.",
+        "three_quarter_paid": "271158.010.01",
+        "title": "Quagmire's Mom",
+        "title_id": "809292",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "S",
+            "V"
+        ],
+        "upid": "DISC271158-010",
+        "upid_type": 12
     }
 ]
