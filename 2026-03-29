@@ -4947,5 +4947,99 @@
         ],
         "upid": "DISC271171-011",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "271171_012_02_851",
+        "create_time": 1774738882586,
+        "dvs": true,
+        "episode_in_season": "12",
+        "episode_number": "S5:E12",
+        "external_id": "271171-012-851-1774832400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1774832400,
+        "last_time_machine_update": 1774738882586,
+        "last_update": 1774738882586,
+        "live": false,
+        "paid": "271171.012.02.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin, Stewie Griffin, Brian Griffin, Quagmire, Tom Tucker",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "0c66c92d-b471-486f-be2b-990483ea97cb",
+        "program_type": "EA",
+        "release_year": 2007,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1801,
+        "scheduled_timestamp": 1774832400,
+        "scrid": "20325984",
+        "season_hash": "abf8188a-437f-4bb1-9d90-2119a336da57",
+        "season_id": "994",
+        "season_name": "Family Guy",
+        "season_number": "5",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1774738882586,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1801,
+        "show_id": "277774666",
+        "show_timestamp": 1774832400,
+        "status": "estimated",
+        "summary": "Peter causes Quagmire to lose his job as a pilot. Hugh Hefner gives Quagmire advice, which leads him to save the day.",
+        "summary_listings": "Peter causes Quagmire to lose his job as a pilot. Hugh Hefner gives Quagmire advice, which leads him to save the day.",
+        "summary_long": "Peter causes Quagmire to lose his job as a pilot. Hugh Hefner gives Quagmire advice, which leads him to save the day.",
+        "summary_main": "Peter causes Quagmire to lose his job as a pilot. Hugh Hefner gives Quagmire advice, which leads him to save the day.",
+        "summary_short": "Peter causes Quagmire to lose his job as a pilot.",
+        "three_quarter_paid": "271171.012.02",
+        "title": "Airport '07",
+        "title_id": "652675",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "V"
+        ],
+        "upid": "DISC271171-012",
+        "upid_type": 12
     }
 ]
