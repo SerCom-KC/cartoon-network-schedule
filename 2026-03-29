@@ -2944,5 +2944,123 @@
         "tv_rating_descriptors": [],
         "upid": "DISC250418-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [],
+        "content_id": "228771_017_02_851",
+        "create_time": 1774712422069,
+        "episode_in_season": "17",
+        "episode_number": "S4:E17",
+        "external_id": "228771-017-851-1774805400",
+        "feed_id": "cn-east",
+        "franchise_id": "489898",
+        "franchise_name": "We Bare Bears",
+        "genres": [
+            "Comedy",
+            "Kids & Family"
+        ],
+        "guide_timestamp": 1774805400,
+        "last_time_machine_update": 1774712422069,
+        "last_update": 1774712422069,
+        "live": false,
+        "paid": "228771.017.02.851",
+        "participants": [
+            {
+                "character": "Grizzly",
+                "name": "Eric Edelstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Ice Bear",
+                "name": "Demetri Martin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Panda",
+                "name": "Bobby Moynihan",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Manny Hernandez",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Daniel Chong",
+                "role": "director"
+            },
+            {
+                "character": "",
+                "name": "Daniel Chong",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Curtis Lelash",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Brian A. Miller",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Rob Sorcher",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Jennifer Pelphrey",
+                "role": "executive-producer"
+            },
+            {
+                "character": "",
+                "name": "Carrie Wilksen",
+                "role": "producer"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "da273491-1a80-4ef2-81d4-52f4953c7845",
+        "program_type": "EA",
+        "release_year": 2018,
+        "runtime_minutes": 15,
+        "scheduled_duration": 901,
+        "scheduled_timestamp": 1774805400,
+        "scrid": "13394017",
+        "season_cfps_hash": "dd677c05-2d7a-4d98-a8a0-cb5a91e7cb1c",
+        "season_hash": "32c8f6b8-9e29-4326-8703-b68869b3cb03",
+        "season_id": "10231",
+        "season_name": "We Bare Bears",
+        "season_number": "4",
+        "season_summary": "We Bare Bears is about three bear brothers (Grizzly, Panda and Ice Bear) and their awkward attempts at assimilating into human society.",
+        "season_summary_long": "We Bare Bears is about three bear brothers (Grizzly, Panda and Ice Bear) and their awkward attempts at assimilating into human society.",
+        "serial": 1774712422069,
+        "series_cfps_hash": "d93e40b9-21c1-48e3-a0c8-28dfb2eaa9f1",
+        "series_hash": "e33872d5-bd53-43b4-82bc-190cef8d940b",
+        "series_id": "2056641",
+        "series_name": "We Bare Bears",
+        "series_summary": "We Bare Bears is about three bear brothers (Grizzly, Panda and Ice Bear) and their awkward attempts at assimilating into human society.",
+        "series_summary_long": "We Bare Bears is about three bear brothers (Grizzly, Panda and Ice Bear) and their awkward attempts at assimilating into human society.",
+        "show_duration": 901,
+        "show_id": "277774466",
+        "show_timestamp": 1774805400,
+        "status": "estimated",
+        "summary": "The Bears go the mall and encounter their human counterparts.",
+        "summary_listings": "The Bears go the mall and encounter their human counterparts.",
+        "summary_long": "The Bears go the mall and encounter their human counterparts.",
+        "summary_main": "The Bears go the mall and encounter their human counterparts.",
+        "summary_short": "The Bears go the mall and encounter their human counterparts.",
+        "three_quarter_paid": "228771.017.02",
+        "title": "The Mall",
+        "title_id": "2171420",
+        "tv_rating": "TV-Y7",
+        "tv_rating_descriptors": [],
+        "upid": "DISC228771-017",
+        "upid_type": 12
     }
 ]
