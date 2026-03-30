@@ -6124,5 +6124,103 @@
         "tv_rating_descriptors": [],
         "upid": "DISC228247-012",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "L",
+            "V"
+        ],
+        "content_id": "284329_001_02_851",
+        "create_time": 1774909214729,
+        "dvs": true,
+        "episode_in_season": "1",
+        "episode_number": "S14:E01",
+        "external_id": "284329-001-851-1774994400",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1774994400,
+        "last_time_machine_update": 1774909214729,
+        "last_update": 1774909214729,
+        "live": false,
+        "paid": "284329.001.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "75d7861c-f7c4-4a19-829b-7fd073c720c8",
+        "program_type": "EA",
+        "release_year": 2023,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1774994400,
+        "scrid": "22475768",
+        "season_hash": "27a659ba-34a6-41d1-9aa5-682734df76b9",
+        "season_id": "33561",
+        "season_name": "Bob's Burgers",
+        "season_number": "14",
+        "season_summary": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "season_summary_long": "Bob runs Bob's Burgers with the help of his wife and their three kids. Business may be slow, but they never give up hope.",
+        "serial": 1774909214729,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "277782948",
+        "show_timestamp": 1774994400,
+        "status": "estimated",
+        "summary": "When Linda and Bob suggest the kids do chores, the family ends up in a showdown.",
+        "summary_listings": "When Linda and Bob suggest the kids do chores, the family ends up in a showdown.",
+        "summary_long": "When Linda and Bob suggest the kids do chores, the family ends up in a showdown.",
+        "summary_main": "When Linda and Bob suggest the kids do chores, the family ends up in a showdown.",
+        "summary_short": "When Linda and Bob suggest the kids do chores, they all have a showdown.",
+        "three_quarter_paid": "284329.001.02",
+        "title": "Fight at the Not Okay Chore-ral",
+        "title_id": "2569589",
+        "tv_rating": "TV-PG",
+        "tv_rating_descriptors": [
+            "L",
+            "V"
+        ],
+        "upid": "DISC284329-001",
+        "upid_type": 12
     }
 ]
