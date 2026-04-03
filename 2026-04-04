@@ -5593,5 +5593,105 @@
         ],
         "upid": "DISC284321-007",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "V"
+        ],
+        "content_id": "284321_008_02_851",
+        "create_time": 1775253229117,
+        "dvs": true,
+        "episode_in_season": "8",
+        "episode_number": "S15:E08",
+        "external_id": "284321-008-851-1775338200",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1775338200,
+        "last_time_machine_update": 1775253229117,
+        "last_update": 1775253229117,
+        "live": false,
+        "paid": "284321.008.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "e5bed6a6-cfdd-426f-b21f-534f24f270b1",
+        "program_type": "EA",
+        "release_year": 2024,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1775338200,
+        "scrid": "22469629",
+        "season_hash": "d8ce0608-4a5a-463a-80a8-e0897f02126d",
+        "season_id": "33564",
+        "season_name": "Bob's Burgers",
+        "season_number": "15",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1775253229117,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "277799252",
+        "show_timestamp": 1775338200,
+        "status": "estimated",
+        "summary": "Tina and Louise get into an argument that escalates across several graphic \"apology\" cards.",
+        "summary_listings": "Tina and Louise get into an argument that escalates across several graphic \"apology\" cards.",
+        "summary_long": "Tina and Louise get into an argument that escalates across several graphic \"apology\" cards.",
+        "summary_main": "Tina and Louise get into an argument that escalates across several graphic \"apology\" cards.",
+        "summary_short": "Tina and Louise get into an argument that escalates across \"apology\" cards.",
+        "three_quarter_paid": "284321.008.02",
+        "title": "They Slug Horses, Don't They?",
+        "title_id": "2569627",
+        "tv_rating": "TV-PG",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "V"
+        ],
+        "upid": "DISC284321-008",
+        "upid_type": 12
     }
 ]
