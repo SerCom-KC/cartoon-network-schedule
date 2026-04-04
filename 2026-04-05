@@ -4273,5 +4273,103 @@
         "tv_rating_descriptors": [],
         "upid": "DISC168445-008",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L"
+        ],
+        "content_id": "284321_012_02_851",
+        "create_time": 1775337412432,
+        "dvs": true,
+        "episode_in_season": "12",
+        "episode_number": "S15:E12",
+        "external_id": "284321-012-851-1775422800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1775422800,
+        "last_time_machine_update": 1775337412432,
+        "last_update": 1775337412432,
+        "live": false,
+        "paid": "284321.012.02.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "1b3d5fe3-6c81-452d-bff7-c3dca5cfe434",
+        "program_type": "EA",
+        "release_year": 2025,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1805,
+        "scheduled_timestamp": 1775422800,
+        "scrid": "22469614",
+        "season_hash": "d8ce0608-4a5a-463a-80a8-e0897f02126d",
+        "season_id": "33564",
+        "season_name": "Bob's Burgers",
+        "season_number": "15",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "season_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1775337412432,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1805,
+        "show_id": "277803268",
+        "show_timestamp": 1775422800,
+        "status": "estimated",
+        "summary": "Linda forces everyone to go on a family walk, and the kids stumble onto a bizarre conspiracy theory.",
+        "summary_listings": "Linda forces everyone to go on a family walk, and the kids stumble onto a bizarre conspiracy theory.",
+        "summary_long": "Linda forces everyone to go on a family walk, and the kids stumble onto a bizarre conspiracy theory.",
+        "summary_main": "Linda forces everyone to go on a family walk, and the kids stumble onto a bizarre conspiracy theory.",
+        "summary_short": "Linda forces everyone to go on a family walk.",
+        "three_quarter_paid": "284321.012.02",
+        "title": "Like a Candle in the Gym",
+        "title_id": "2569631",
+        "tv_rating": "TV-PG",
+        "tv_rating_descriptors": [
+            "D",
+            "L"
+        ],
+        "upid": "DISC284321-012",
+        "upid_type": 12
     }
 ]
