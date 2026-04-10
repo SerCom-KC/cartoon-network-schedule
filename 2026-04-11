@@ -5320,8 +5320,8 @@
         ],
         "guide_timestamp": 1775935800,
         "hbo_id": "PROD603332",
-        "last_time_machine_update": 1775858018311,
-        "last_update": 1775858018311,
+        "last_time_machine_update": 1775859901267,
+        "last_update": 1775859901267,
         "live": false,
         "paid": "251053.000.04.851",
         "participants": [
@@ -5365,9 +5365,10 @@
         "scheduled_duration": 5401,
         "scheduled_timestamp": 1775935800,
         "scrid": "17308448",
-        "serial": 1775858018311,
+        "serial": 1775859901267,
         "series_cfps_hash": "6fdc16b1-9410-43f3-b031-5f37761ef137",
         "series_hash": "236954e1-2259-4fd0-b65c-77635ce29b7e",
+        "series_id": "107456",
         "series_name": "Scooby-Doo and the Witch's Ghost",
         "series_summary": "When the gang meets up with writer Ben Ravencroft, he invites them to New England for his hometown's haunted Autumn Harvest Festival.",
         "series_summary_long": "When the gang meets up with writer Ben Ravencroft, he invites them to New England for his hometown's Autumn Harvest Festival. Things take a supernatural detour when they learn the place is haunted by Ben's ancestor Sarah!",
@@ -5582,6 +5583,107 @@
             "L"
         ],
         "upid": "DISC169768-008",
+        "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "V",
+            "D",
+            "L",
+            "S"
+        ],
+        "content_id": "169768_009_03_851",
+        "create_time": 1775858620395,
+        "episode_in_season": "9",
+        "episode_number": "S2:E09",
+        "external_id": "169768-009-851-1775944800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Bob's Burgers",
+        "genres": [
+            "Adult Animation",
+            "Comedy"
+        ],
+        "guide_timestamp": 1775944800,
+        "last_time_machine_update": 1775858620395,
+        "last_update": 1775858620395,
+        "live": false,
+        "paid": "169768.009.03.851",
+        "participants": [
+            {
+                "character": "Bob Belcher",
+                "name": "Harry Jon Benjamin",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Tina Belcher",
+                "name": "Dan Mintz",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Eugene Selleck \"Gene\" Belcher",
+                "name": "Eugene Mirman",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Linda Belcher",
+                "name": "John Roberts",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Louise Belcher",
+                "name": "Kristen Schaal",
+                "role": "voice-actor"
+            },
+            {
+                "character": "",
+                "name": "Loren Bouchard",
+                "role": "creator"
+            }
+        ],
+        "premiere": false,
+        "press_hold": false,
+        "program_hash": "081ff179-656b-4459-a91f-4f0c5263527f",
+        "program_type": "EA",
+        "release_year": 2012,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1800,
+        "scheduled_timestamp": 1775944800,
+        "scrid": "6018485",
+        "season_hash": "c0135155-c6ab-4755-bcca-559ae3d7e286",
+        "season_id": "7296",
+        "season_name": "Bob's Burgers",
+        "season_number": "2",
+        "season_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "season_summary_long": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "serial": 1775858620395,
+        "series_hash": "8b63aee5-2b5d-49e4-8e77-7f7e9832a926",
+        "series_id": "2003422",
+        "series_name": "Bob's Burgers",
+        "series_summary": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children.",
+        "series_summary_long": "Bob Belcher is a third-generatio restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "show_duration": 1800,
+        "show_id": "277827944",
+        "show_timestamp": 1775944800,
+        "status": "estimated",
+        "summary": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.",
+        "summary_listings": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.",
+        "summary_long": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.",
+        "summary_main": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask.",
+        "summary_short": "Bob appears in a cooking segment on a local news morning program.",
+        "three_quarter_paid": "169768.009.03",
+        "title": "Beefsquatch",
+        "title_id": "2003444",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC169768-009",
         "upid_type": 12
     }
 ]
