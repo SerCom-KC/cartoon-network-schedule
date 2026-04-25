@@ -4762,5 +4762,100 @@
         ],
         "upid": "DISC271168-014",
         "upid_type": 12
+    },
+    {
+        "blackout_type": "none",
+        "cc": true,
+        "content_advisories": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "content_id": "271168_015_01_851",
+        "create_time": 1777156569333,
+        "episode_in_season": "15",
+        "episode_number": "S12:E15",
+        "external_id": "271168-015-851-1777249800",
+        "feed_id": "as-east",
+        "franchise_id": "489898",
+        "franchise_name": "Family Guy",
+        "genres": [
+            "Comedy"
+        ],
+        "guide_timestamp": 1777249800,
+        "last_time_machine_update": 1777156569333,
+        "last_update": 1777156569333,
+        "live": false,
+        "paid": "271168.015.01.851",
+        "participants": [
+            {
+                "character": "",
+                "name": "Seth MacFarlane",
+                "role": "creator"
+            },
+            {
+                "character": "Chris Griffin",
+                "name": "Seth Green",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Lois Griffin",
+                "name": "Alex Borstein",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Meg Griffin",
+                "name": "Mila Kunis",
+                "role": "voice-actor"
+            },
+            {
+                "character": "Peter Griffin/Stewie Griffin/Brian Griffin/Glenn Quagmire",
+                "name": "Seth MacFarlane",
+                "role": "voice-actor"
+            }
+        ],
+        "premiere": false,
+        "program_hash": "620d35fa-ebbc-4cc6-8b03-7b759bb79f79",
+        "program_type": "EA",
+        "prop_ep": "271168.015",
+        "release_year": 2014,
+        "runtime_minutes": 30,
+        "scheduled_duration": 1802,
+        "scheduled_timestamp": 1777249800,
+        "scrid": "20325879",
+        "season_hash": "4fe04245-d714-47af-bee8-2cf5c176287c",
+        "season_id": "1001",
+        "season_name": "Family Guy",
+        "season_number": "12",
+        "season_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "season_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "serial": 1777156569332,
+        "series_hash": "46f9245e-a1e2-4d89-bd12-d1727a96c53d",
+        "series_id": "440990",
+        "series_name": "Family Guy",
+        "series_summary": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "series_summary_long": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "show_duration": 1802,
+        "show_id": "277889344",
+        "show_timestamp": 1777249800,
+        "status": "estimated",
+        "summary": "Peter discovers he can skip out of work by taking smoke breaks. He begins smoking to dodge other tasks and soon gets addicted.",
+        "summary_listings": "Peter discovers he can skip out of work by taking smoke breaks. He begins smoking to dodge other tasks and soon gets addicted.",
+        "summary_long": "Peter discovers he can skip out of work by taking smoke breaks. He begins smoking to dodge other tasks and soon gets addicted. When he wakes up one day with sunken cheeks and gray skin, Lois pushes him to visit a smoking rehab clinic.",
+        "summary_main": "Peter discovers he can skip out of work by taking smoke breaks. He begins smoking to dodge other tasks and soon gets addicted. When he wakes up one day with sunken cheeks and gray skin, Lois pushes him to visit a smoking rehab clinic.",
+        "summary_short": "Peter discovers he can skip out of work by taking smoke breaks.",
+        "three_quarter_paid": "271168.015.01",
+        "title": "Secondhand Spoke",
+        "title_id": "809277",
+        "tv_rating": "TV-14",
+        "tv_rating_descriptors": [
+            "D",
+            "L",
+            "S",
+            "V"
+        ],
+        "upid": "DISC271168-015",
+        "upid_type": 12
     }
 ]
